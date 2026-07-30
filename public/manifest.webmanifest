@@ -1,0 +1,14 @@
+{
+  "name": "一句工作台",
+  "short_name": "一句工作台",
+  "description": "本地优先、可由 GitHub 配置同步的个人工作台。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf8f0",
+  "theme_color": "#633d61",
+  "icons": [
+    { "src": "/icons/onebench-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/onebench-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

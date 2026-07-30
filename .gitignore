@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+qa-*.png
+*.local
+.env
+.env.*
+!.env.example

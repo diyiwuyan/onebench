@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://onebench.dev/schema/template-pack-1.0.0.json",
+  "title": "OneBench Template Pack",
+  "type": "object",
+  "required": ["format", "sharedModules", "packs"],
+  "properties": {
+    "format": { "const": "onebench-template-pack/v1" },
+    "sharedModules": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "packs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "prompt", "title", "description", "modules"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "name": { "type": "string", "minLength": 1, "maxLength": 24 },
+          "prompt": { "type": "string", "minLength": 8, "maxLength": 200 },
+          "title": { "type": "string", "minLength": 1, "maxLength": 40 },
+          "description": { "type": "string", "minLength": 8, "maxLength": 80 },
+          "modules": { "type": "array", "minItems": 1, "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,15 @@
+{
+  "format": "onebench-module-manifest/v1",
+  "modules": [
+    { "id": "calendar", "name": "日历", "category": "通用", "dataBoundary": "local" },
+    { "id": "tasks", "name": "待办", "category": "通用", "dataBoundary": "local" },
+    { "id": "quick-note", "name": "快速记录", "category": "通用", "dataBoundary": "local" },
+    { "id": "focus", "name": "专注", "category": "通用", "dataBoundary": "local" },
+    { "id": "goals", "name": "目标", "category": "通用", "dataBoundary": "local" },
+    { "id": "files", "name": "资料库", "category": "通用", "dataBoundary": "local" },
+    { "id": "review", "name": "复盘", "category": "成长", "dataBoundary": "local" },
+    { "id": "learning", "name": "学习计划", "category": "成长", "dataBoundary": "local" },
+    { "id": "classroom", "name": "课堂与班级", "category": "职业", "dataBoundary": "local" },
+    { "id": "settings", "name": "同步与设置", "category": "系统", "dataBoundary": "configuration" }
+  ]
+}

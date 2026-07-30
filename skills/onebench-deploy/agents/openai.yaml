@@ -1,0 +1,4 @@
+interface:
+  display_name: "OneBench Deploy"
+  short_description: "将一句需求转为可部署、可恢复、可持续修改的个人工作台方案"
+  default_prompt: "使用 OneBench 帮我从一句需求搭建并部署个人工作台。"
