@@ -4,12 +4,22 @@
     { "id": "calendar", "name": "日历", "category": "通用", "dataBoundary": "local" },
     { "id": "tasks", "name": "待办", "category": "通用", "dataBoundary": "local" },
     { "id": "quick-note", "name": "快速记录", "category": "通用", "dataBoundary": "local" },
+    { "id": "habits", "name": "习惯打卡", "category": "通用", "dataBoundary": "local" },
     { "id": "focus", "name": "专注", "category": "通用", "dataBoundary": "local" },
+    { "id": "countdown", "name": "重要倒计时", "category": "通用", "dataBoundary": "local" },
     { "id": "goals", "name": "目标", "category": "通用", "dataBoundary": "local" },
     { "id": "files", "name": "资料库", "category": "通用", "dataBoundary": "local" },
     { "id": "review", "name": "复盘", "category": "成长", "dataBoundary": "local" },
     { "id": "learning", "name": "学习计划", "category": "成长", "dataBoundary": "local" },
+    { "id": "schedule", "name": "课程／日程表", "category": "成长", "dataBoundary": "local" },
     { "id": "classroom", "name": "课堂与班级", "category": "职业", "dataBoundary": "local" },
+    { "id": "content-pipeline", "name": "内容流水线", "category": "职业", "dataBoundary": "local" },
+    { "id": "projects", "name": "项目进度", "category": "职业", "dataBoundary": "local" },
+    { "id": "clients", "name": "客户管理", "category": "职业", "dataBoundary": "local" },
+    { "id": "team", "name": "团队节奏", "category": "职业", "dataBoundary": "local" },
+    { "id": "analytics", "name": "趋势统计", "category": "成长", "dataBoundary": "local" },
+    { "id": "reading", "name": "阅读书架", "category": "成长", "dataBoundary": "local" },
+    { "id": "exam-practice", "name": "刷题进度", "category": "成长", "dataBoundary": "local" },
     { "id": "settings", "name": "同步与设置", "category": "系统", "dataBoundary": "configuration" }
   ]
 }

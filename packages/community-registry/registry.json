@@ -10,7 +10,7 @@
       "description": "适合考研、考公或短期考证的倒计时、专注与复盘组合。",
       "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
       "permissions": [],
-      "requires": ["calendar", "tasks", "quick-note", "settings", "learning", "focus", "goals", "review"]
+      "requires": ["calendar", "tasks", "quick-note", "habits", "settings", "countdown", "learning", "exam-practice", "analytics", "focus", "goals", "review"]
     }
   ],
   "modules": [

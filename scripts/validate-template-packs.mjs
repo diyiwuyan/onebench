@@ -1,8 +1,10 @@
 import { readFile } from 'node:fs/promises'
 
-const allowedModules = new Set(['calendar', 'tasks', 'quick-note', 'focus', 'goals', 'files', 'review', 'learning', 'classroom', 'settings'])
 const manifestPath = new URL('../packages/template-packs/first-party-packs.json', import.meta.url)
+const moduleManifestPath = new URL('../packages/modules/core.manifest.json', import.meta.url)
 const manifest = JSON.parse(await readFile(manifestPath, 'utf8'))
+const moduleManifest = JSON.parse(await readFile(moduleManifestPath, 'utf8'))
+const allowedModules = new Set((moduleManifest.modules ?? []).map((module) => module.id))
 
 const fail = (message) => {
   console.error(`Template pack validation failed: ${message}`)

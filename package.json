@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && node scripts/prepare-sites-build.mjs",
-    "build:pages": "GITHUB_PAGES=true vite build && node scripts/prepare-sites-build.mjs && node scripts/verify-pages-build.mjs",
-    "build:extension": "ONEBENCH_TARGET=extension vite build && node scripts/prepare-extension-build.mjs && node scripts/verify-extension-build.mjs",
+    "build:standalone": "vite build --config vite.standalone.config.mjs && node scripts/prepare-standalone-build.mjs",
+    "build": "npm run build:standalone && vite build && node scripts/prepare-sites-build.mjs",
+    "build:pages": "npm run build:standalone && GITHUB_PAGES=true vite build && node scripts/prepare-sites-build.mjs && node scripts/verify-pages-build.mjs",
+    "build:extension": "npm run build:standalone && ONEBENCH_TARGET=extension vite build && node scripts/prepare-extension-build.mjs && node scripts/verify-extension-build.mjs",
     "create:local": "node scripts/create-local-workbench.mjs",
     "create:shortcut": "node scripts/create-desktop-launcher.mjs",
     "preview": "vite preview",
@@ -24,5 +25,8 @@
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "vite": "6.4.2"
+  },
+  "devDependencies": {
+    "vite-plugin-singlefile": "^2.3.0"
   }
 }

@@ -16,7 +16,7 @@ node scripts/create-local-workbench.mjs --pack university --prompt '我是大学
 node scripts/create-desktop-launcher.mjs --html "/Users/用户名/Desktop/我的工作台.html" --out "/Users/用户名/Desktop/打开我的工作台.command"
 ```
 
-On Windows, pass `--platform win32` and write a `.url` launcher instead. The generated HTML is the default product; GitHub is an optional later upgrade for phones and multiple computers.
+On Windows, pass `--platform win32` and write a `.url` launcher instead. The generated HTML is the default product and must contain the same complete dashboard runtime as the Demo. GitHub is an optional later upgrade for phones and multiple computers.
 
 ## User-owned repository
 
@@ -44,3 +44,5 @@ Run `npm run update:registry` to fetch metadata from the official public catalog
 ## Verification command
 
 `npm run validate:templates && npm run validate:modules && npm run validate:registry && npm test && npm run build && npm run test:sites`
+
+After the command succeeds, open the generated HTML and verify the selected role, role modules, task persistence after reload, and one role-specific interaction. For online delivery, repeat at desktop and phone widths.

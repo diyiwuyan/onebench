@@ -1,4 +1,4 @@
 interface:
   display_name: "OneBench 一键工作台"
-  short_description: "一句需求生成可双击、本地同步和浏览器启示页个人工作台"
-  default_prompt: "使用 $onebench-deploy 为我生成一个可放到桌面双击打开的个人工作台。"
+  short_description: "一句需求生成完整可用、可持续修改的个人工作台"
+  default_prompt: "使用 $onebench-deploy 为我生成并验收一份可放到桌面双击打开的个人工作台。"
