@@ -13,6 +13,14 @@ Treat every user as non-technical unless they explicitly request advanced contro
 
 At handoff, give only three plain-language actions: where to open it, how to add it to the phone home screen, and how to say “帮我改成……” next time. Read `references/beginner-mode.md` before any beginner-facing handoff.
 
+### Filling the two blanks
+
+The plain-language values in the starter prompt are valid inputs; do not make beginners learn the catalog first. Normalize them as follows:
+
+- “学生” defaults to the `university` pack (OneBench's student pack means university student); “学习” keeps that pack's course, assignment and certification defaults and includes the learning module.
+- “K12 教师／老师”、“考研”、“考公”、“内容创作者”、“产品／运营”、“自由职业者” and “团队负责人” map to their identically named first-party packs.
+- Use the 1–3 things after “最想管理” to prioritize the default modules and title. A broad word such as “学习” is sufficient for a working first version; a more concrete list improves the result but is never required.
+
 ## Workflow
 
 1. Inspect the repo root, `packages/template-packs/first-party-packs.json`, and `src/data/modules.js`.
