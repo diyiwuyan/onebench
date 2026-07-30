@@ -89,7 +89,7 @@ export function App() {
   const previewModules = activeModuleIds.slice(0, 3).map(findModule).filter(Boolean)
 
   useEffect(() => {
-    if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js').catch(() => undefined)
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`).catch(() => undefined)
   }, [])
 
   useEffect(() => {
