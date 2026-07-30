@@ -30,10 +30,10 @@ jobs:
       - run: npm run validate:templates
       - run: npm run validate:modules
       - run: npm run validate:registry
-      - run: npm test
       - run: npm run build:pages
         env:
           GITHUB_PAGES_BASE: /${{ github.event.repository.name }}/
+      - run: npm test
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
