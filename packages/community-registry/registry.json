@@ -10,7 +10,34 @@
       "description": "适合考研、考公或短期考证的倒计时、专注与复盘组合。",
       "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
       "permissions": [],
-      "requires": ["calendar", "tasks", "quick-note", "habits", "settings", "countdown", "learning", "exam-practice", "analytics", "focus", "goals", "review"]
+      "requires": ["calendar", "tasks", "quick-note", "habits", "profile", "appearance", "sync", "settings", "countdown", "learning", "exam-practice", "notices", "analytics", "focus", "goals", "review"]
+    },
+    {
+      "id": "teaching-rhythm",
+      "kind": "template-pack",
+      "name": "教师备课与班务组合",
+      "description": "把课程安排、备课进度、班级事项与教研沟通放在同一个台面。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
+      "permissions": [],
+      "requires": ["calendar", "tasks", "quick-note", "lesson-plans", "classroom", "meetings", "review"]
+    },
+    {
+      "id": "creator-engine",
+      "kind": "template-pack",
+      "name": "内容创作引擎",
+      "description": "从灵感收集、选题排期到发布复盘的一套内容生产组合。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
+      "permissions": [],
+      "requires": ["calendar", "tasks", "inbox", "content-pipeline", "content-calendar", "analytics", "review"]
+    },
+    {
+      "id": "independent-business",
+      "kind": "template-pack",
+      "name": "自由职业经营组合",
+      "description": "客户、交付、回款与个人专注节奏的本地优先组合。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
+      "permissions": [],
+      "requires": ["calendar", "tasks", "clients", "projects", "finance", "focus", "review"]
     }
   ],
   "modules": [
@@ -21,7 +48,38 @@
       "description": "课程、考证与阅读规划的内置模块；更新必须通过固定版本的源码合并。",
       "source": { "repository": "diyiwuyan/onebench", "path": "src/data/modules.js", "ref": "main" },
       "permissions": ["local-storage"],
-      "updateMode": "pinned-source-review"
+      "updateMode": "pinned-source-review",
+      "requires": ["learning"]
+    },
+    {
+      "id": "deadline-tracker",
+      "kind": "module",
+      "name": "作业与截止日",
+      "description": "给大学生的作业、论文和小组任务截止日组合。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "src/data/modules.js", "ref": "main" },
+      "permissions": ["local-storage"],
+      "updateMode": "pinned-source-review",
+      "requires": ["assignments", "calendar"]
+    },
+    {
+      "id": "meeting-decisions",
+      "kind": "module",
+      "name": "会议与决策闭环",
+      "description": "为产品、运营与团队负责人补齐会议记录和关键决策回看。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "src/data/modules.js", "ref": "main" },
+      "permissions": ["local-storage"],
+      "updateMode": "pinned-source-review",
+      "requires": ["meetings", "decisions"]
+    },
+    {
+      "id": "local-finance",
+      "kind": "module",
+      "name": "本地收入与回款",
+      "description": "不上传账务数据的报价、发票和回款节点模块。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "src/data/modules.js", "ref": "main" },
+      "permissions": ["local-storage"],
+      "updateMode": "pinned-source-review",
+      "requires": ["finance"]
     }
   ]
 }

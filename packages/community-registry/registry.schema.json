@@ -12,12 +12,13 @@
   "$defs": {
     "entry": {
       "type": "object",
-      "required": ["id", "kind", "name", "source", "permissions"],
+      "required": ["id", "kind", "name", "source", "permissions", "requires"],
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
         "kind": { "enum": ["template-pack", "module"] },
         "name": { "type": "string" },
         "permissions": { "type": "array", "items": { "type": "string" } },
+        "requires": { "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^[a-z0-9-]+$" } },
         "source": {
           "type": "object",
           "required": ["repository", "path", "ref"],

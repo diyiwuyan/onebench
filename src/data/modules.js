@@ -41,10 +41,22 @@ export const moduleCatalog = [
   { id: 'analytics', name: '趋势统计', description: '一周投入与完成趋势', icon: PresentationChart, category: '成长' },
   { id: 'reading', name: '阅读书架', description: '在读、摘录与下一本', icon: Books, category: '成长' },
   { id: 'exam-practice', name: '刷题进度', description: '题量、正确率与错题', icon: Student, category: '成长' },
+  { id: 'assignments', name: '作业与 DDL', description: '作业、论文和小组任务截止日', icon: ListStar, category: '学习' },
+  { id: 'lesson-plans', name: '备课台', description: '课题、课件、学情与课后反思', icon: BookOpenText, category: '教学' },
+  { id: 'notices', name: '公告与报名', description: '院校、考试和资格审核节点', icon: ListStar, category: '备考' },
+  { id: 'content-calendar', name: '发布日历', description: '选题排期、平台和发布时间', icon: CalendarBlank, category: '创作' },
+  { id: 'inbox', name: '灵感／需求收件箱', description: '还未分类的想法、反馈和需求', icon: NotePencil, category: '职业' },
+  { id: 'meetings', name: '会议与沟通', description: '会议、1:1 和待跟进事项', icon: UsersThree, category: '职业' },
+  { id: 'finance', name: '收入与回款', description: '报价、发票和回款节点', icon: ChartLineUp, category: '经营' },
+  { id: 'decisions', name: '决策记录', description: '关键判断、依据和复查日期', icon: Target, category: '管理' },
+  { id: 'wellbeing', name: '身心状态', description: '睡眠、运动和精力感受', icon: Repeat, category: '生活' },
+  { id: 'profile', name: '个人资料', description: '头像、称呼和工作台名称', icon: Student, category: '系统' },
+  { id: 'appearance', name: '外观主题', description: '职业主题、颜色和整体感觉', icon: GearSix, category: '系统' },
+  { id: 'sync', name: '多端同步', description: '备份、私有仓库和设备恢复', icon: GearSix, category: '系统' },
   { id: 'settings', name: '同步与设置', description: '主题、备份和 GitHub', icon: GearSix, category: '系统' },
 ]
 
-export const sharedModuleIds = ['calendar', 'tasks', 'quick-note', 'habits', 'settings']
+export const sharedModuleIds = ['calendar', 'tasks', 'quick-note', 'habits', 'profile', 'appearance', 'sync', 'settings']
 
 export function findModule(id) {
   return moduleCatalog.find((module) => module.id === id)

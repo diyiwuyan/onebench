@@ -12,12 +12,14 @@ const here = resolve(fileURLToPath(new URL('.', import.meta.url)))
 const root = resolve(here, '..')
 const packId = valueOf('--pack', 'university')
 const prompt = valueOf('--prompt')
+const displayName = valueOf('--name')
+const workspaceName = valueOf('--workspace-name')
 const owner = valueOf('--owner')
 const repo = valueOf('--repo')
 if (!owner || !repo) throw new Error('请提供 --owner 和 --repo，确保工作台归用户自己的 GitHub 账号。')
 
 const { createWorkspace, exportWorkspace } = await import(pathToFileURL(resolve(root, 'src/lib/workspace.js')).href)
-const workspace = createWorkspace({ packId, prompt })
+const workspace = createWorkspace({ packId, prompt, displayName, workspaceName })
 const ownership = {
   format: 'onebench-ownership/v1',
   repository: `${owner}/${repo}`,

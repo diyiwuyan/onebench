@@ -12,10 +12,11 @@
       "minItems": 1,
       "items": {
         "type": "object",
-        "required": ["id", "name", "prompt", "title", "description", "modules"],
+        "required": ["id", "name", "theme", "prompt", "title", "description", "modules"],
         "properties": {
           "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
           "name": { "type": "string", "minLength": 1, "maxLength": 24 },
+          "theme": { "type": "string", "pattern": "^[a-z0-9-]+$" },
           "prompt": { "type": "string", "minLength": 8, "maxLength": 200 },
           "title": { "type": "string", "minLength": 1, "maxLength": 40 },
           "description": { "type": "string", "minLength": 8, "maxLength": 80 },

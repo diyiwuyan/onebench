@@ -12,6 +12,8 @@ const valueOf = (flag, fallback = '') => {
 const root = resolve(fileURLToPath(new URL('..', import.meta.url)))
 const packId = valueOf('--pack', 'university')
 const prompt = valueOf('--prompt')
+const displayName = valueOf('--name')
+const workspaceName = valueOf('--workspace-name')
 const output = resolve(process.cwd(), valueOf('--out', '我的一句工作台.html'))
 const runtime = resolve(root, 'public/standalone.html')
 const { createWorkspace } = await import(pathToFileURL(resolve(root, 'src/lib/workspace.js')).href)
@@ -24,7 +26,7 @@ try {
   execFileSync('npm', ['run', 'build:standalone'], { cwd: root, stdio: 'inherit' })
 }
 
-const workspace = createWorkspace({ packId, prompt })
+const workspace = createWorkspace({ packId, prompt, displayName, workspaceName })
 const template = await readFile(runtime, 'utf8')
 await writeFile(output, exportDesktopHtml(workspace, defaultWorkspaceData(workspace), template), 'utf8')
 console.log(`已生成本地工作台：${output}`)

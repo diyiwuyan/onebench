@@ -13,6 +13,7 @@ export function validateCommunityRegistry(registry) {
     if (!entryKinds.has(entry.kind)) throw new Error(`条目 ${entry.id} 的 kind 不受支持。`)
     if (!entry.source?.repository || !entry.source?.path || !entry.source?.ref) throw new Error(`条目 ${entry.id} 必须固定 repository、path 与 ref。`)
     if (!Array.isArray(entry.permissions)) throw new Error(`条目 ${entry.id} 必须声明 permissions 数组。`)
+    if (!Array.isArray(entry.requires) || entry.requires.length === 0) throw new Error(`条目 ${entry.id} 必须声明 requires 模块组合。`)
   }
   return registry
 }

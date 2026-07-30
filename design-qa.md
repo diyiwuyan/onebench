@@ -1,40 +1,38 @@
-# Dashboard redesign QA
+# OneBench role ecosystem QA
 
-- Source visual truth: `/var/folders/8r/89xh61fd2c3dr_8j53d9p79h0000gn/T/codex-clipboard-107e8824-692e-4a61-b626-7276b517643e.png`
-- Implementation capture: `qa-dashboard-home.png`
-- Mobile capture: `qa-dashboard-mobile.png` at 390 × 844 CSS px.
-- Combined comparison: `qa-dashboard-home-comparison.png`
-- Implementation viewport: 1265 × 712 CSS px, density 1.
-- Source dimensions: 1901 × 833 px; normalized to 1265 × 555 px for the vertical comparison. Browser chrome and the reference's top notification bar are excluded from fidelity judgment.
-- State: saved Content Creator pack; default modules loaded; task list visible.
+- Source visual truth: `qa-onebench-v2-desktop-final.png`
+- Implementation capture: `qa-onebench-v3-desktop-final.png`
+- Mobile capture: `qa-onebench-v3-mobile-final.png` at 390 × 844 CSS px.
+- Combined comparison: `qa-onebench-v3-comparison.png`
+- Desktop viewport: 1280 × 720 CSS px; both full-page captures are 1265 px wide.
+- State: first-party postgraduate exam pack, warm-paper theme, realistic starter data.
 
 ## Findings
 
 No actionable P0, P1, or P2 findings.
 
-- Typography: both views prioritize a large centered clock with compact secondary date text. The implementation uses a monospaced clock for stable numeral width and a Chinese UI fallback stack.
-- Spacing and layout rhythm: the implementation preserves the left utility rail, centered clock/search stack, dense identity switcher, and rounded dashboard-card grid. The card grid intentionally contains actionable OneBench modules rather than the reference's unrelated web shortcuts.
-- Colors and visual tokens: both views use a near-black, low-contrast background with pale text and green active accents. The implementation avoids competing imagery so the module content remains readable.
-- Image quality and assets: no reference logo, app icon, or decorative product asset was copied. OneBench uses its own icon-library controls and paper texture behind a dark overlay.
-- Copy and content: reference widgets were intentionally replaced with personal-workbench content: identity pack, schedule, tasks, notes, local HTML delivery, module market, and sync.
+- Visual continuity: the v3 implementation preserves the accepted warm-paper visual system, hero artwork, left navigation, summary row, 12-column card rhythm, typography, borders and corner radii.
+- New role behavior: switching to Creator changes the theme to `creator-coral`, updates the hero and installs inbox, content calendar and content pipeline. Switching to K12 Teacher changes the theme to `chalk-sage` and installs lesson plans, meetings, projects and classroom modules.
+- Personal identity: display name, workspace name and icon-library avatar persist after reload. User-uploaded photos remain local content and are included only in local export, encrypted backup or opted-in private content sync.
+- Ecosystem: the market shows 32 built-in modules plus an offline snapshot of 4 community templates and 4 community modules. Installing “内容创作引擎” adds its registered module combination without executing remote code.
+- Sync: the drawer clearly separates local-only use, configuration sync and opt-in content sync, with an AES-GCM encrypted migration package available without an account.
+- Responsive layout: at 390 × 844, the mobile bottom navigation is active, the Studio drawer fits the viewport, avatar controls use three columns and the document has no horizontal overflow.
+- Browser console errors and warnings: none.
 
 ## Interaction evidence
 
-- Added the `专注` module from the module market; the control changed from “添加” to “已装入”.
-- Updated the public registry; the UI reported “已联网更新：2 个公共条目”.
-- `npm test`, `npm run build`, `npm run build:pages`, and `npm run build:extension` passed.
-- Browser console errors and warnings: none.
+1. Changed the display name to “小鹿”, selected the Creator avatar and Creator pack; the coral theme and role modules appeared.
+2. Reloaded the page; display name, avatar choice, role, theme and modules persisted.
+3. Switched to K12 Teacher; sage theme, lesson-planning content, meetings and classroom data appeared without undefined content.
+4. Installed the registered “内容创作引擎” community combination; inbox, publishing calendar and content pipeline were added.
+5. Opened the sync drawer and verified local, encrypted backup, configuration sync and private content sync controls.
+6. Repeated the Studio flow at mobile width and confirmed no horizontal overflow.
 
 ## Comparison history
 
-1. Replaced the prior landing-page generator layout with the selected new-tab dashboard anatomy.
-2. Captured the rebuilt dashboard at the same desktop-state intent as the reference and compared it in `qa-dashboard-home-comparison.png`.
-3. Verified the primary module-market and public-registry interactions after the visual check.
-4. Mobile check initially exposed a native horizontal scrollbar below the identity chips (P2). Added a hidden-scrollbar treatment while retaining touch scrolling, then re-captured the mobile layout.
-
-## Follow-up polish
-
-- P3: users may later select a personal background image; keep a high-contrast dark fallback.
-- P3: add user-configurable shortcut tiles once a privacy-preserving bookmark data model is approved.
+1. Kept the accepted v2 personal-workbench anatomy instead of introducing a new dashboard style.
+2. Added the role-linked theme and module layers within the existing cards and drawers.
+3. Compared the v2 and v3 default exam states together; the only intentional homepage addition is the registered “公告与报名” role module.
+4. Verified richer Creator and Teacher states separately, then returned the Demo to the postgraduate-exam default for release.
 
 final result: passed

@@ -6,6 +6,7 @@ import {
   ArrowSquareOut,
   BookOpenText,
   Books,
+  Briefcase,
   CalendarBlank,
   ChartLineUp,
   Check,
@@ -38,8 +39,11 @@ import {
   X,
 } from '@phosphor-icons/react'
 import morningArt from './assets/workbench-morning.webp'
+import bundledRegistry from '../packages/community-registry/registry.json'
 import { findModule, moduleCatalog } from './data/modules'
 import { findPack, packs } from './data/packs'
+import { findTheme, themeCatalog } from './data/themes'
+import { decryptWorkspaceBackup, encryptWorkspaceBackup } from './lib/backup'
 import {
   pullWorkspaceDataFromGitHub,
   pullWorkspaceFromGitHub,
@@ -60,28 +64,16 @@ import './styles.css'
 
 const registryUrl = 'https://raw.githubusercontent.com/diyiwuyan/onebench/main/packages/community-registry/registry.json'
 
-const themes = [
-  {
-    id: 'warm-paper',
-    name: '暖杏纸张',
-    accent: '#d66f51',
-    tokens: { '--page': '#f2eee5', '--surface': '#fffdf8', '--surface-2': '#f8f2e8', '--ink': '#30322e', '--muted': '#74786f', '--line': '#e6ded1', '--accent': '#d66f51', '--accent-soft': '#f8ddd2', '--sage': '#dce7d5', '--blue': '#dce5ef' },
-  },
-  {
-    id: 'sage-paper',
-    name: '鼠尾草纸',
-    accent: '#667d61',
-    tokens: { '--page': '#edf0e9', '--surface': '#fbfcf8', '--surface-2': '#f0f4ec', '--ink': '#2f352e', '--muted': '#70786d', '--line': '#dce3d8', '--accent': '#667d61', '--accent-soft': '#dce8d7', '--sage': '#d7e5dc', '--blue': '#dde6ec' },
-  },
-  {
-    id: 'lavender-paper',
-    name: '雾紫纸张',
-    accent: '#756783',
-    tokens: { '--page': '#efecf1', '--surface': '#fdfbfe', '--surface-2': '#f3eef5', '--ink': '#342f37', '--muted': '#77707c', '--line': '#e2dbe5', '--accent': '#756783', '--accent-soft': '#e7ddec', '--sage': '#dce5dc', '--blue': '#dce3ee' },
-  },
-]
-
 const weekLabels = ['一', '二', '三', '四', '五', '六', '日']
+
+const avatarPresets = [
+  { id: 'role', name: '职业头像' },
+  { id: 'study', name: '学习者', icon: Student },
+  { id: 'reader', name: '阅读者', icon: Books },
+  { id: 'maker', name: '创造者', icon: Sparkle },
+  { id: 'professional', name: '职业人', icon: Briefcase },
+  { id: 'leader', name: '带队者', icon: UsersThree },
+]
 
 function readEmbeddedSeed() {
   const raw = window.__ONEBENCH_SEED__
@@ -167,6 +159,37 @@ function ProgressRow({ item }) {
   )
 }
 
+function ProfileAvatar({ workspace, workspaceData, pack, large = false }) {
+  if (workspaceData.profileImage) {
+    return <img className="profile-photo" src={workspaceData.profileImage} alt={`${workspace.profile?.displayName || '用户'}的头像`} />
+  }
+  const preset = avatarPresets.find((item) => item.id === workspace.profile?.avatarId)
+  const Icon = preset?.icon || pack.icon
+  return <Icon weight="duotone" size={large ? 28 : 20} />
+}
+
+function DetailList({ items }) {
+  return (
+    <div className="detail-list">
+      {items.map((item) => (
+        <div key={`${item.title}-${item.meta}`}>
+          <span className={item.tone || ''}></span>
+          <p><strong>{item.title}</strong><small>{item.meta}</small></p>
+          {item.status && <i>{item.status}</i>}
+        </div>
+      ))}
+    </div>
+  )
+}
+
+function MetricTiles({ items }) {
+  return (
+    <div className="metric-tiles">
+      {items.map((item) => <div key={item.title}><span>{item.title}</span><strong>{item.value}</strong><small>{item.meta}</small></div>)}
+    </div>
+  )
+}
+
 export function App() {
   const embeddedSeed = useMemo(readEmbeddedSeed, [])
   const initialWorkspace = useMemo(() => {
@@ -188,14 +211,18 @@ export function App() {
   const [connection, setConnection] = useState(readConnection)
   const [syncStatus, setSyncStatus] = useState('')
   const [syncing, setSyncing] = useState(false)
-  const [marketEntries, setMarketEntries] = useState([])
-  const [marketStatus, setMarketStatus] = useState('内置模块离线可用；联网后可检查社区更新。')
+  const [marketEntries, setMarketEntries] = useState(() => [...(bundledRegistry.templates || []), ...(bundledRegistry.modules || [])])
+  const [marketStatus, setMarketStatus] = useState(`已载入社区目录快照：${(bundledRegistry.templates || []).length} 个模板、${(bundledRegistry.modules || []).length} 个模块。`)
+  const [backupPassphrase, setBackupPassphrase] = useState('')
+  const [backupStatus, setBackupStatus] = useState('')
   const [installPrompt, setInstallPrompt] = useState(null)
   const drawerRef = useRef(null)
+  const avatarInputRef = useRef(null)
+  const backupInputRef = useRef(null)
 
   const pack = findPack(workspace.sourcePack)
   const activeModuleIds = useMemo(() => new Set(workspace.modules.map((module) => module.id)), [workspace.modules])
-  const theme = themes.find((item) => item.id === workspace.theme?.id) || themes[0]
+  const theme = findTheme(workspace.theme?.id)
   const weeks = useMemo(todayWeek, [now.toDateString()])
   const completedTasks = workspaceData.tasks.filter((item) => item.done).length
   const completedHabits = workspaceData.habits.filter((item) => item.done).length
@@ -254,7 +281,10 @@ export function App() {
   }
 
   function choosePack(nextPack) {
-    const nextWorkspace = createWorkspace({ packId: nextPack.id, prompt: nextPack.prompt })
+    const nextWorkspace = {
+      ...createWorkspace({ packId: nextPack.id, prompt: nextPack.prompt }),
+      profile: { ...workspace.profile },
+    }
     const nextData = defaultWorkspaceData(nextWorkspace)
     persistWorkspace(nextWorkspace)
     persistData(nextData, nextWorkspace)
@@ -267,7 +297,10 @@ export function App() {
 
   function rebuildFromPrompt() {
     if (!prompt.trim()) return
-    const nextWorkspace = createWorkspace({ packId: pack.id, prompt })
+    const nextWorkspace = {
+      ...createWorkspace({ packId: pack.id, prompt }),
+      profile: { ...workspace.profile },
+    }
     const nextData = defaultWorkspaceData(nextWorkspace)
     persistWorkspace(nextWorkspace)
     persistData(nextData, nextWorkspace)
@@ -342,6 +375,69 @@ export function App() {
     setToast(`主题已换成「${nextTheme.name}」。`)
   }
 
+  function updateProfile(field, value) {
+    persistWorkspace({ ...workspace, profile: { ...workspace.profile, [field]: value } })
+  }
+
+  function updateWorkspaceName(value) {
+    persistWorkspace({ ...workspace, name: value.slice(0, 80) || pack.title })
+  }
+
+  function chooseAvatar(avatarId) {
+    persistWorkspace({ ...workspace, profile: { ...workspace.profile, avatarId } })
+    updateData({ ...workspaceData, profileImage: '' })
+    setToast('头像已经更新，并会跟随本地版一起下载。')
+  }
+
+  function uploadAvatar(event) {
+    const file = event.target.files?.[0]
+    if (!file) return
+    if (!file.type.startsWith('image/')) {
+      setToast('请选择图片文件。')
+      return
+    }
+    if (file.size > 2 * 1024 * 1024) {
+      setToast('头像请控制在 2MB 以内。')
+      return
+    }
+    const reader = new FileReader()
+    reader.onload = () => {
+      updateData({ ...workspaceData, profileImage: String(reader.result || '') })
+      setToast('已经换成你的照片，下载本地版时也会带上。')
+    }
+    reader.readAsDataURL(file)
+    event.target.value = ''
+  }
+
+  async function downloadEncryptedBackup() {
+    try {
+      const backup = await encryptWorkspaceBackup({ workspace, data: workspaceData }, backupPassphrase)
+      downloadFile(`${workspace.name}-加密备份.json`, JSON.stringify(backup, null, 2), 'application/json;charset=utf-8')
+      setBackupStatus('加密备份已下载。请把口令和文件分开保存。')
+    } catch (error) {
+      setBackupStatus(error.message)
+    }
+  }
+
+  async function restoreEncryptedBackup(event) {
+    const file = event.target.files?.[0]
+    if (!file) return
+    try {
+      const backup = JSON.parse(await file.text())
+      const restored = await decryptWorkspaceBackup(backup, backupPassphrase)
+      const nextWorkspace = normalizeWorkspace(restored.workspace)
+      persistWorkspace(nextWorkspace)
+      persistData(restored.data, nextWorkspace)
+      setPrompt(nextWorkspace.intent)
+      setBackupStatus('加密备份已恢复。')
+      setToast('工作台、个人资料和日常内容都已恢复。')
+    } catch (error) {
+      setBackupStatus(error.message)
+    } finally {
+      event.target.value = ''
+    }
+  }
+
   function changeConnection(field, value) {
     const next = { ...connection, [field]: value }
     setConnection(next)
@@ -358,7 +454,7 @@ export function App() {
     try {
       const sha = await pushWorkspaceToGitHub(connection, workspace, { lastSha: connection.lastSha })
       if (connection.syncContent) await pushWorkspaceDataToGitHub(connection, workspaceData)
-      const next = { ...connection, lastSha: sha || connection.lastSha }
+      const next = { ...connection, lastSha: sha || connection.lastSha, lastSyncedAt: new Date().toISOString() }
       setConnection(next)
       localStorage.setItem(GITHUB_STORAGE_KEY, JSON.stringify(next))
       setSyncStatus(connection.syncContent ? '配置和个人内容已同步到你的私有仓库。' : '工作台配置已同步，个人内容仍只在本机。')
@@ -387,6 +483,7 @@ export function App() {
       persistWorkspace(nextWorkspace)
       persistData(nextData, nextWorkspace)
       setPrompt(nextWorkspace.intent)
+      changeConnection('lastSyncedAt', new Date().toISOString())
       setSyncStatus('已恢复远端工作台。')
     } catch (error) {
       setSyncStatus(error.message)
@@ -443,8 +540,8 @@ export function App() {
       <main className="workbench">
         <header className="topbar">
           <div className="identity-block">
-            <span className="avatar">{pack.name.slice(0, 1)}</span>
-            <div><strong>{workspace.name}</strong><small>{isStandalone ? '本地离线版' : 'OneBench 可操作演示'}</small></div>
+            <span className="avatar"><ProfileAvatar workspace={workspace} workspaceData={workspaceData} pack={pack} /></span>
+            <div><strong>{workspace.name}</strong><small>{workspace.profile?.displayName} · {pack.name} · {isStandalone ? '本地离线版' : '可操作演示'}</small></div>
           </div>
           <div className="top-actions">
             <button className="secondary-button" type="button" onClick={() => setPanel('studio')}><Palette weight="duotone" /> 换身份与主题</button>
@@ -455,7 +552,7 @@ export function App() {
         <section className="hero-card">
           <div className="hero-copy">
             <p className="eyebrow">{now.toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' })}</p>
-            <h1>{greeting(now)}，今天也在稳稳向前。</h1>
+            <h1>{greeting(now)}，{workspace.profile?.displayName}。<br />{pack.headline}</h1>
             <p className="hero-quote">{workspaceData.quote}</p>
             <div className="hero-actions">
               <button type="button" onClick={() => document.querySelector('[data-module="tasks"]')?.scrollIntoView({ behavior: 'smooth' })}><CheckCircle weight="fill" /> 查看今日任务</button>
@@ -578,6 +675,60 @@ export function App() {
             </Card>
           )}
 
+          {activeModuleIds.has('assignments') && (
+            <Card id="assignments" title="作业与 DDL" subtitle="重要截止日不再散落" icon={ListChecks} className="span-6">
+              <div className="progress-list">{workspaceData.assignments.map((item) => <ProgressRow item={item} key={item.title} />)}</div>
+            </Card>
+          )}
+
+          {activeModuleIds.has('wellbeing') && (
+            <Card id="wellbeing" title="身心状态" subtitle="学习之外，也照顾自己的节奏" icon={Repeat} className="span-6">
+              <MetricTiles items={workspaceData.wellbeing} />
+            </Card>
+          )}
+
+          {activeModuleIds.has('lesson-plans') && (
+            <Card id="lesson-plans" title="备课台" subtitle="课题、课件、学情和反思" icon={BookOpenText} className="span-6">
+              <div className="progress-list">{workspaceData.lessonPlans.map((item) => <ProgressRow item={item} key={item.title} />)}</div>
+            </Card>
+          )}
+
+          {activeModuleIds.has('notices') && (
+            <Card id="notices" title="公告与报名" subtitle="关键材料和时间节点" icon={NotePencil} className="span-6">
+              <DetailList items={workspaceData.notices} />
+            </Card>
+          )}
+
+          {activeModuleIds.has('inbox') && (
+            <Card id="inbox" title="灵感／需求收件箱" subtitle="先收下来，再决定放到哪里" icon={StackSimple} className="span-6">
+              <DetailList items={workspaceData.inbox} />
+            </Card>
+          )}
+
+          {activeModuleIds.has('content-calendar') && (
+            <Card id="content-calendar" title="发布日历" subtitle="平台、主题和发布时间" icon={CalendarBlank} className="span-6">
+              <DetailList items={workspaceData.contentCalendar} />
+            </Card>
+          )}
+
+          {activeModuleIds.has('meetings') && (
+            <Card id="meetings" title="会议与沟通" subtitle="会前知道要谈什么，会后知道谁跟进" icon={UsersThree} className="span-6">
+              <DetailList items={workspaceData.meetings} />
+            </Card>
+          )}
+
+          {activeModuleIds.has('finance') && (
+            <Card id="finance" title="收入与回款" subtitle="收入、发票和未完成的承诺" icon={ChartLineUp} className="span-6">
+              <MetricTiles items={workspaceData.finance} />
+            </Card>
+          )}
+
+          {activeModuleIds.has('decisions') && (
+            <Card id="decisions" title="决策记录" subtitle="留下判断依据，也留下复查时间" icon={Target} className="span-6">
+              <DetailList items={workspaceData.decisions} />
+            </Card>
+          )}
+
           {activeModuleIds.has('projects') && (
             <Card id="projects" title="项目进度" subtitle="进度、节点与阻塞" icon={Kanban} className="span-6">
               <div className="progress-list">{workspaceData.projects.map((item) => <ProgressRow item={item} key={item.title} />)}</div>
@@ -642,24 +793,35 @@ export function App() {
 
             {panel === 'studio' && (
               <div className="drawer-body">
-                <section><h3>1. 选择你的身份</h3><div className="pack-grid">{packs.map((item) => { const Icon = item.icon; return <button className={item.id === pack.id ? 'selected' : ''} type="button" key={item.id} onClick={() => choosePack(item)}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span></button> })}</div></section>
-                <section><h3>2. 选择整体感觉</h3><div className="theme-grid">{themes.map((item) => <button className={item.id === theme.id ? 'selected' : ''} type="button" key={item.id} onClick={() => changeTheme(item)}><i style={{ background: item.accent }}></i><span>{item.name}</span>{item.id === theme.id && <Check weight="bold" />}</button>)}</div></section>
-                <section><h3>3. 用一句话调整重点</h3><textarea className="prompt-box" value={prompt} onChange={(event) => setPrompt(event.target.value)} /><button className="primary-button wide-button" type="button" onClick={rebuildFromPrompt}><Sparkle weight="fill" /> 按这句话重新搭配</button></section>
+                <section>
+                  <h3>1. 先让它像你</h3>
+                  <div className="profile-editor">
+                    <div className="profile-preview"><span className="avatar avatar-large"><ProfileAvatar workspace={workspace} workspaceData={workspaceData} pack={pack} large /></span><div><strong>{workspace.profile?.displayName}</strong><small>{workspace.name}</small></div></div>
+                    <div className="profile-fields"><label>怎么称呼你<input value={workspace.profile?.displayName || ''} maxLength="24" onChange={(event) => updateProfile('displayName', event.target.value)} placeholder="例如：小鹿、小王老师" /></label><label>工作台名称<input value={workspace.name} maxLength="80" onChange={(event) => updateWorkspaceName(event.target.value)} /></label></div>
+                    <div className="avatar-picker">{avatarPresets.map((item) => { const Icon = item.icon || pack.icon; return <button className={!workspaceData.profileImage && item.id === workspace.profile?.avatarId ? 'selected' : ''} type="button" key={item.id} onClick={() => chooseAvatar(item.id)}><Icon weight="duotone" /><span>{item.name}</span></button> })}<button className={workspaceData.profileImage ? 'selected' : ''} type="button" onClick={() => avatarInputRef.current?.click()}><ProfileAvatar workspace={workspace} workspaceData={workspaceData} pack={pack} /><span>上传照片</span></button><input ref={avatarInputRef} className="visually-hidden" type="file" accept="image/*" onChange={uploadAvatar} /></div>
+                  </div>
+                </section>
+                <section><h3>2. 选择职业包（会一起更换主题和模块）</h3><div className="pack-grid">{packs.map((item) => { const Icon = item.icon; return <button className={item.id === pack.id ? 'selected' : ''} type="button" key={item.id} onClick={() => choosePack(item)}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small><i>{item.theme.name}</i></span></button> })}</div></section>
+                <section><h3>3. 单独调整整体感觉</h3><div className="theme-grid">{themeCatalog.map((item) => <button className={item.id === theme.id ? 'selected' : ''} type="button" key={item.id} onClick={() => changeTheme(item)}><i style={{ background: item.accent }}></i><span><strong>{item.name}</strong><small>{item.description}</small></span>{item.id === theme.id && <Check weight="bold" />}</button>)}</div></section>
+                <section><h3>4. 用一句话调整重点</h3><textarea className="prompt-box" value={prompt} onChange={(event) => setPrompt(event.target.value)} /><button className="primary-button wide-button" type="button" onClick={rebuildFromPrompt}><Sparkle weight="fill" /> 按这句话重新搭配</button></section>
               </div>
             )}
 
             {panel === 'market' && (
               <div className="drawer-body">
                 <div className="market-toolbar"><p>{marketStatus}</p><button className="secondary-button" type="button" onClick={refreshMarket}><ArrowClockwise /> 联网检查更新</button></div>
-                <div className="module-market">{moduleCatalog.filter((item) => item.id !== 'settings').map((item) => { const Icon = item.icon; const enabled = activeModuleIds.has(item.id); return <button className={enabled ? 'enabled' : ''} type="button" key={item.id} onClick={() => persistWorkspace(toggleModule(workspace, item.id))}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span><i>{enabled ? '已添加' : '添加'}</i></button> })}</div>
-                {marketEntries.length > 0 && <section><h3>社区组合</h3><div className="community-list">{marketEntries.map((entry) => <article key={entry.id}><div><strong>{entry.name}</strong><small>{entry.description}</small></div><button type="button" onClick={() => installMarketEntry(entry)}>添加组合</button></article>)}</div></section>}
+                <section><h3>内置模块 · 离线可用</h3><div className="module-market">{moduleCatalog.filter((item) => item.category !== '系统').map((item) => { const Icon = item.icon; const enabled = activeModuleIds.has(item.id); return <button className={enabled ? 'enabled' : ''} type="button" key={item.id} onClick={() => persistWorkspace(toggleModule(workspace, item.id))}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span><i>{enabled ? '已添加' : '添加'}</i></button> })}</div></section>
+                <section><div className="section-title-row"><div><h3>社区模板与模块</h3><p>固定来源、声明权限、审阅后安装。</p></div><span>{marketEntries.length} 个条目</span></div><div className="community-list">{marketEntries.map((entry) => <article key={`${entry.kind}-${entry.id}`}><div><span className="community-kind">{entry.kind === 'template-pack' ? '模板组合' : '社区模块'}</span><strong>{entry.name}</strong><small>{entry.description}</small><em>{entry.permissions?.length ? `权限：${entry.permissions.join('、')}` : '无需额外权限'}</em></div><aside><a href={`https://github.com/${entry.source.repository}/blob/${entry.source.ref}/${entry.source.path}`} target="_blank" rel="noreferrer">看源码</a><button type="button" onClick={() => installMarketEntry(entry)}>添加</button></aside></article>)}</div></section>
+                <div className="ecosystem-callout"><StackSimple weight="duotone" /><div><strong>把你的工作台贡献给更多人</strong><p>职业模板、模块创意和连接器都通过 GitHub PR 进入公共目录；每次更新都可追溯、可回滚。</p><span><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noreferrer">贡献模板</a><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/MODULES.md" target="_blank" rel="noreferrer">贡献模块</a></span></div></div>
               </div>
             )}
 
             {panel === 'sync' && (
               <div className="drawer-body">
                 <div className="simple-callout"><LockKey weight="duotone" /><div><strong>默认不需要配置</strong><p>只在这台电脑用，直接下载 HTML 即可。只有需要手机和多台电脑同步时，才开启下面的高级方案。</p></div></div>
-                <section><h3>连接你自己的私有仓库</h3><div className="sync-fields"><label>GitHub 用户名<input value={connection.owner} onChange={(event) => changeConnection('owner', event.target.value)} placeholder="你的 GitHub 用户名" /></label><label>私有仓库名<input value={connection.repo} onChange={(event) => changeConnection('repo', event.target.value)} placeholder="my-onebench" /></label><label className="full-field">Fine-grained token<input type="password" value={connection.token} onChange={(event) => changeConnection('token', event.target.value)} placeholder="只授予该私有仓库 Contents 读写权限" /></label></div><label className="check-line"><input type="checkbox" checked={connection.syncContent} onChange={(event) => changeConnection('syncContent', event.target.checked)} />同时同步个人待办、记录和进度（仅建议私有仓库）</label><div className="sync-actions"><button className="primary-button" type="button" disabled={syncing} onClick={pushToGitHub}><CloudArrowUp /> 保存到云端</button><button className="secondary-button" type="button" disabled={syncing} onClick={pullFromGitHub}><CloudArrowDown /> 从云端恢复</button></div>{syncStatus && <p className="sync-status">{syncStatus}</p>}</section>
+                <div className="sync-levels"><article className="active"><span>1</span><div><strong>本机保存</strong><small>默认开启 · 不联网</small></div></article><article className={connection.owner && connection.repo ? 'active' : ''}><span>2</span><div><strong>配置同步</strong><small>主题、身份和模块</small></div></article><article className={connection.syncContent ? 'active' : ''}><span>3</span><div><strong>内容同步</strong><small>待办、记录和进度</small></div></article></div>
+                <section><h3>加密迁移包 · 不需要账号</h3><p className="section-copy">适合换电脑或手动备份。文件包含工作台配置和个人内容，使用 AES-GCM 在本机加密。</p><div className="backup-row"><input type="password" value={backupPassphrase} onChange={(event) => setBackupPassphrase(event.target.value)} placeholder="设置至少 8 位口令" /><button className="secondary-button" type="button" onClick={downloadEncryptedBackup}><DownloadSimple /> 下载备份</button><button className="secondary-button" type="button" onClick={() => backupInputRef.current?.click()}><CloudArrowDown /> 恢复备份</button><input ref={backupInputRef} className="visually-hidden" type="file" accept="application/json" onChange={restoreEncryptedBackup} /></div>{backupStatus && <p className="sync-status">{backupStatus}</p>}</section>
+                <section><div className="section-title-row"><div><h3>连接你自己的私有仓库</h3><p>{connection.lastSyncedAt ? `上次同步：${new Date(connection.lastSyncedAt).toLocaleString('zh-CN')}` : '尚未同步'}</p></div></div><div className="sync-fields"><label>GitHub 用户名<input value={connection.owner} onChange={(event) => changeConnection('owner', event.target.value)} placeholder="你的 GitHub 用户名" /></label><label>私有仓库名<input value={connection.repo} onChange={(event) => changeConnection('repo', event.target.value)} placeholder="my-onebench-data" /></label><label className="full-field">Fine-grained token<input type="password" value={connection.token} onChange={(event) => changeConnection('token', event.target.value)} placeholder="只授予该私有仓库 Contents 读写权限" /></label></div><label className="check-line"><input type="checkbox" checked={connection.syncContent} onChange={(event) => changeConnection('syncContent', event.target.checked)} />同时同步个人待办、记录、头像和进度（仅限私有仓库）</label><div className="sync-actions"><button className="primary-button" type="button" disabled={syncing} onClick={pushToGitHub}><CloudArrowUp /> 保存到云端</button><button className="secondary-button" type="button" disabled={syncing} onClick={pullFromGitHub}><CloudArrowDown /> 从云端恢复</button></div>{syncStatus && <p className="sync-status">{syncStatus}</p>}</section>
               </div>
             )}
 

@@ -4,14 +4,18 @@ export const WORKSPACE_VERSION = '1.0.0'
 export const WORKSPACE_STORAGE_KEY = 'onebench.workspace.v1'
 export const GITHUB_STORAGE_KEY = 'onebench.github.v1'
 
-export function createWorkspace({ packId, prompt, moduleIds, themeId } = {}) {
+export function createWorkspace({ packId, prompt, moduleIds, themeId, displayName, workspaceName, avatarId } = {}) {
   const pack = findPack(packId)
   return {
     version: WORKSPACE_VERSION,
     id: crypto.randomUUID(),
-    name: pack.title,
+    name: workspaceName?.trim() || pack.title,
     sourcePack: pack.id,
     intent: prompt?.trim() || pack.prompt,
+    profile: {
+      displayName: displayName?.trim() || '朋友',
+      avatarId: avatarId?.trim() || 'role',
+    },
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
     theme: { ...pack.theme, id: themeId || pack.theme.id },
@@ -26,6 +30,10 @@ export function normalizeWorkspace(candidate) {
   if (!candidate.id || !candidate.name || !Array.isArray(candidate.modules)) throw new Error('配置缺少 id、name 或 modules。')
   return {
     ...candidate,
+    profile: {
+      displayName: candidate.profile?.displayName || '朋友',
+      avatarId: candidate.profile?.avatarId || 'role',
+    },
     modules: candidate.modules.filter((module) => module && typeof module.id === 'string'),
     updatedAt: new Date().toISOString(),
   }

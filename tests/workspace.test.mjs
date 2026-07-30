@@ -3,6 +3,7 @@ import { readFile } from 'node:fs/promises'
 import test from 'node:test'
 import { createWorkspace, normalizeWorkspace, toggleModule, WORKSPACE_VERSION } from '../src/lib/workspace.js'
 import { packs, packModuleIds } from '../src/data/packs.js'
+import { themeCatalog } from '../src/data/themes.js'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from '../src/lib/backup.js'
 
 test('first-party catalog provides eight packs with shared modules', () => {
@@ -11,14 +12,22 @@ test('first-party catalog provides eight packs with shared modules', () => {
     const modules = packModuleIds(pack)
     assert.ok(modules.includes('calendar'))
     assert.ok(modules.includes('tasks'))
+    assert.ok(modules.includes('profile'))
+    assert.ok(modules.includes('appearance'))
+    assert.ok(modules.includes('sync'))
     assert.ok(modules.includes('settings'))
+    assert.ok(themeCatalog.some((theme) => theme.id === pack.theme.id))
   }
+  assert.equal(new Set(packs.map((pack) => pack.theme.id)).size, 8)
 })
 
 test('workspace config is created from a pack and can toggle a module', () => {
-  const workspace = createWorkspace({ packId: 'teacher', prompt: '我要管理备课' })
+  const workspace = createWorkspace({ packId: 'teacher', prompt: '我要管理备课', displayName: '王老师', workspaceName: '王老师的教学台' })
   assert.equal(workspace.version, WORKSPACE_VERSION)
   assert.equal(workspace.sourcePack, 'teacher')
+  assert.equal(workspace.theme.id, 'chalk-sage')
+  assert.equal(workspace.profile.displayName, '王老师')
+  assert.equal(workspace.name, '王老师的教学台')
   assert.equal(workspace.intent, '我要管理备课')
   const removed = toggleModule(workspace, 'calendar')
   assert.equal(removed.modules.some((module) => module.id === 'calendar'), false)

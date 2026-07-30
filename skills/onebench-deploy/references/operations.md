@@ -3,7 +3,7 @@
 ## Recovery choices
 
 - Same browser/device: local storage restores the workbench and local daily data.
-- Another computer or phone: import `workspace.json` to restore packs, modules, theme, and layout.
+- Another computer or phone: import `workspace.json` to restore packs, modules, theme, layout, and the non-sensitive profile configuration.
 - Sensitive portable copy: export an AES-GCM encrypted backup and keep the passphrase separately.
 - Repeated configuration recovery: bind a personal GitHub repository and pull/push `workspace.json` only.
 
@@ -12,7 +12,7 @@
 For a beginner who only needs a computer version, generate a single local file plus its launcher:
 
 ```bash
-node scripts/create-local-workbench.mjs --pack university --prompt '我是大学生，想管理课程和作业' --out "/Users/用户名/Desktop/我的工作台.html"
+node scripts/create-local-workbench.mjs --pack university --prompt '我是大学生，想管理课程和作业' --name '小鹿' --workspace-name '小鹿的学期节奏' --out "/Users/用户名/Desktop/我的工作台.html"
 node scripts/create-desktop-launcher.mjs --html "/Users/用户名/Desktop/我的工作台.html" --out "/Users/用户名/Desktop/打开我的工作台.command"
 ```
 
@@ -24,7 +24,7 @@ Create the user's repository from `diyiwuyan/onebench`, not from a built `dist` 
 
 ```bash
 npm ci
-node scripts/create-owned-workspace.mjs --owner USER --repo onebench-mine --pack university --prompt '我是大学生，想管理课程、作业和考证'
+node scripts/create-owned-workspace.mjs --owner USER --repo onebench-mine --pack university --prompt '我是大学生，想管理课程、作业和考证' --name '小鹿' --workspace-name '小鹿的学期节奏'
 git remote add upstream https://github.com/diyiwuyan/onebench.git
 git add workspace.json .onebench/ownership.json
 git commit -m 'chore: initialize my workbench'
@@ -35,7 +35,7 @@ Wait for the **Deploy user-owned workbench** workflow and verify `https://USER.g
 
 ## Community contribution
 
-Add role defaults to `packages/template-packs/first-party-packs.json`, use only module IDs from `src/data/modules.js`, then run `npm run validate:templates`. Include desktop and mobile screenshots in the PR. Add registry entries only with fixed repository/path/ref and a permissions declaration.
+Add role defaults to `packages/template-packs/first-party-packs.json`, choose a theme from `src/data/themes.js`, use only module IDs from `src/data/modules.js`, then run `npm run validate:templates`. Include realistic starter data plus desktop and mobile screenshots in the PR. Add registry entries only with fixed repository/path/ref, `requires`, and a permissions declaration.
 
 ## Public catalog update
 

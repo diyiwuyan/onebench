@@ -20,6 +20,18 @@
     { "id": "analytics", "name": "趋势统计", "category": "成长", "dataBoundary": "local" },
     { "id": "reading", "name": "阅读书架", "category": "成长", "dataBoundary": "local" },
     { "id": "exam-practice", "name": "刷题进度", "category": "成长", "dataBoundary": "local" },
+    { "id": "assignments", "name": "作业与 DDL", "category": "学习", "dataBoundary": "local" },
+    { "id": "lesson-plans", "name": "备课台", "category": "教学", "dataBoundary": "local" },
+    { "id": "notices", "name": "公告与报名", "category": "备考", "dataBoundary": "local" },
+    { "id": "content-calendar", "name": "发布日历", "category": "创作", "dataBoundary": "local" },
+    { "id": "inbox", "name": "灵感／需求收件箱", "category": "职业", "dataBoundary": "local" },
+    { "id": "meetings", "name": "会议与沟通", "category": "职业", "dataBoundary": "local" },
+    { "id": "finance", "name": "收入与回款", "category": "经营", "dataBoundary": "local" },
+    { "id": "decisions", "name": "决策记录", "category": "管理", "dataBoundary": "local" },
+    { "id": "wellbeing", "name": "身心状态", "category": "生活", "dataBoundary": "local" },
+    { "id": "profile", "name": "个人资料", "category": "系统", "dataBoundary": "configuration" },
+    { "id": "appearance", "name": "外观主题", "category": "系统", "dataBoundary": "configuration" },
+    { "id": "sync", "name": "多端同步", "category": "系统", "dataBoundary": "configuration" },
     { "id": "settings", "name": "同步与设置", "category": "系统", "dataBoundary": "configuration" }
   ]
 }

@@ -5,6 +5,7 @@ const moduleManifestPath = new URL('../packages/modules/core.manifest.json', imp
 const manifest = JSON.parse(await readFile(manifestPath, 'utf8'))
 const moduleManifest = JSON.parse(await readFile(moduleManifestPath, 'utf8'))
 const allowedModules = new Set((moduleManifest.modules ?? []).map((module) => module.id))
+const allowedThemes = new Set(['campus-sky', 'chalk-sage', 'warm-paper', 'civic-blue', 'creator-coral', 'product-graphite', 'independent-olive', 'leadership-plum'])
 
 const fail = (message) => {
   console.error(`Template pack validation failed: ${message}`)
@@ -17,10 +18,11 @@ for (const moduleId of manifest.sharedModules) if (!allowedModules.has(moduleId)
 
 const ids = new Set()
 for (const pack of manifest.packs ?? []) {
-  for (const field of ['id', 'name', 'prompt', 'title', 'description']) if (!pack[field] || typeof pack[field] !== 'string') fail(`${pack.id || 'unknown'} is missing ${field}`)
+  for (const field of ['id', 'name', 'theme', 'prompt', 'title', 'description']) if (!pack[field] || typeof pack[field] !== 'string') fail(`${pack.id || 'unknown'} is missing ${field}`)
   if (!/^[a-z0-9-]+$/.test(pack.id || '')) fail(`${pack.id} must use kebab-case`)
   if (ids.has(pack.id)) fail(`duplicate id: ${pack.id}`)
   ids.add(pack.id)
+  if (!allowedThemes.has(pack.theme)) fail(`${pack.id} references unknown theme: ${pack.theme}`)
   if (!Array.isArray(pack.modules) || pack.modules.length === 0) fail(`${pack.id} has no modules`)
   for (const moduleId of pack.modules) if (!allowedModules.has(moduleId)) fail(`${pack.id} references unknown module: ${moduleId}`)
 }

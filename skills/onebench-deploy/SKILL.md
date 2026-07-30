@@ -5,7 +5,7 @@ description: Create, customize, deploy, restore, or improve a user-owned OneBenc
 
 # OneBench Deploy
 
-Turn one sentence into the actual OneBench product, not a generic dashboard. Deliver a self-contained HTML file and desktop shortcut first. When phone or multi-device use is requested, keep that local copy and add a user-owned online PWA. Demo, local HTML, PWA, and browser new-tab extension must come from the same OneBench runtime.
+Turn one sentence into the actual OneBench product, not a generic dashboard. Deliver a self-contained HTML file and desktop shortcut first. When phone or multi-device use is requested, keep that local copy and add a user-owned online PWA. Demo, local HTML, PWA, and browser new-tab extension must come from the same OneBench runtime. Preserve the user's name, avatar choice, role theme, module choices, and data boundary across every output.
 
 ## Beginner mode
 
@@ -20,6 +20,8 @@ The plain-language values in the starter prompt are valid inputs; do not make be
 - “学生” defaults to the `university` pack (OneBench's student pack means university student); “学习” keeps that pack's course, assignment and certification defaults and includes the learning module.
 - “K12 教师／老师”、“考研”、“考公”、“内容创作者”、“产品／运营”、“自由职业者” and “团队负责人” map to their identically named first-party packs.
 - Use the 1–3 things after “最想管理” to prioritize the default modules and title. A broad word such as “学习” is sufficient for a working first version; a more concrete list improves the result but is never required.
+- Use the role pack's theme by default. If the user gives a preferred color or style, keep the role modules and change only the theme.
+- If the user provides a name or preferred form of address, write it to `workspace.profile.displayName`; otherwise use a warm generic address and let them change it in “定制”.
 
 ## Delivery choice
 
@@ -27,11 +29,12 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
 
 ## Local desktop delivery (default)
 
-1. Inspect `packages/template-packs/first-party-packs.json`, `src/data/modules.js`, and `docs/BEGINNER.md`. Do not rebuild the UI outside this repository.
-2. Infer the closest pack and retain all shared and role-default modules. Run `npm ci` when dependencies are absent, then use `scripts/create-local-workbench.mjs --pack 模板ID --prompt 用户需求 --out 用户桌面/我的工作台.html`.
+1. Inspect `packages/template-packs/first-party-packs.json`, `src/data/modules.js`, `src/data/themes.js`, and `docs/BEGINNER.md`. Do not rebuild the UI outside this repository.
+2. Infer the closest pack and retain all shared and role-default modules. Run `npm ci` when dependencies are absent, then use `scripts/create-local-workbench.mjs --pack 模板ID --prompt 用户需求 --name 用户称呼 --workspace-name 工作台名称 --out 用户桌面/我的工作台.html`. Omit the two name flags when the user did not provide them.
 3. Run `scripts/create-desktop-launcher.mjs --html 用户桌面/我的工作台.html --out 用户桌面/打开我的工作台.command` on macOS, or use `--platform win32 --out 用户桌面/打开我的工作台.url` on Windows. Verify that the generated launcher points to the HTML file.
 4. Open the generated HTML in a browser and verify:
    - the selected role title and realistic starter content are visible;
+   - the role-linked theme is active and the user can change name and avatar;
    - shared modules plus role-specific modules are present;
    - adding and completing a task persists after reload;
    - a role control works, such as starting the focus timer or updating a study goal;
@@ -56,11 +59,13 @@ Run `npm run validate:templates && npm run validate:modules && npm run validate:
 - Refresh the metadata catalog with `npm run update:registry`. This must never execute remote code in the browser.
 - For an upstream update, fetch the `upstream` remote, review the pinned change, merge it into the user's repository, run the verification commands, and push. Preserve the user's `workspace.json` and local-data boundary.
 - For a community template or module, follow `docs/COMMUNITY.md`. Require fixed source repository, path, ref, and declared permissions. Review and merge source code before enabling a module; never install arbitrary remote JavaScript dynamically.
+- Treat the built-in registry as an offline snapshot. “联网检查更新” may refresh metadata only; installing new executable code still requires a pinned-source review, merge, and full verification.
 - Build the optional Chrome/Edge start-page edition with `npm run build:extension`; load only the generated `dist/extension` folder. Tell the user to open `chrome://extensions` or `edge://extensions`, enable developer mode, and load that folder. Read `docs/BROWSER-EXTENSION.md` for the user-facing steps.
 
 ## Required boundaries
 
 - Keep the app local-first. Upload daily content only after explicit opt-in to a separate private data repository; never upload credentials.
+- Treat uploaded avatar photos as local daily content. Include them in an encrypted backup or private content sync only after explicit opt-in.
 - Use only registered module IDs. Add a new module through the module manifest before referencing it in a pack.
 - For a new role template, update the template pack and shared runtime; do not hard-code a separate standalone dashboard.
 - If deployment is requested, keep the build static and preserve the PWA manifest and service worker.
