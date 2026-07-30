@@ -6,3 +6,4 @@ qa-*.png
 .env
 .env.*
 !.env.example
+.onebench/community-registry.json
