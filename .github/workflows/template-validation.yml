@@ -1,0 +1,29 @@
+name: Validate templates
+
+on:
+  pull_request:
+    paths:
+      - 'packages/template-packs/**'
+      - 'packages/modules/**'
+      - 'packages/workspace-schema/**'
+      - 'src/data/**'
+      - 'scripts/validate-template-packs.mjs'
+      - 'tests/**'
+      - 'package*.json'
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run validate:templates
+      - run: npm run validate:modules
+      - run: npm test
+      - run: npm run build
