@@ -16,18 +16,23 @@ import {
   FloppyDisk,
   GithubLogo,
   GearSix,
+  House,
   ListChecks,
   LockKey,
+  MagnifyingGlass,
+  Monitor,
   NotePencil,
   Plus,
   Sparkle,
+  SquaresFour,
   StackSimple,
   Target,
 } from '@phosphor-icons/react'
 import { moduleCatalog, findModule } from './data/modules'
 import { findPack, packs, packModuleIds } from './data/packs'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from './lib/backup'
-import { pullWorkspaceFromGitHub, pushWorkspaceToGitHub } from './lib/github'
+import { pullWorkspaceDataFromGitHub, pullWorkspaceFromGitHub, pushWorkspaceDataToGitHub, pushWorkspaceToGitHub } from './lib/github'
+import { exportDesktopHtml } from './lib/local-export'
 import { loadWorkspaceData, saveWorkspaceData } from './lib/local-data'
 import {
   GITHUB_STORAGE_KEY,
@@ -38,7 +43,6 @@ import {
   saveWorkspace,
   toggleModule,
 } from './lib/workspace'
-import phonePreview from './assets/exam-phone-preview.png'
 import './styles.css'
 
 const days = [['一', '28'], ['二', '29'], ['三', '30'], ['四', '31'], ['五', '1'], ['六', '2'], ['日', '3']]
@@ -48,17 +52,19 @@ const themes = [
   { id: 'ink-blue', name: '墨蓝', color: '#506b88' },
 ]
 
+const registryUrl = 'https://raw.githubusercontent.com/diyiwuyan/onebench/main/packages/community-registry/registry.json'
+
 function readConnection() {
   try {
-    return JSON.parse(localStorage.getItem(GITHUB_STORAGE_KEY)) ?? { owner: '', repo: '', branch: 'main', path: 'workspace.json', token: '' }
+    return { dataPath: 'workspace-data.json', syncContent: false, ...JSON.parse(localStorage.getItem(GITHUB_STORAGE_KEY)) }
   } catch {
-    return { owner: '', repo: '', branch: 'main', path: 'workspace.json', token: '' }
+    return { owner: '', repo: '', branch: 'main', path: 'workspace.json', dataPath: 'workspace-data.json', syncContent: false, token: '' }
   }
 }
 
-function downloadFile(name, text) {
+function downloadFile(name, text, type = 'application/json') {
   const link = document.createElement('a')
-  link.href = URL.createObjectURL(new Blob([text], { type: 'application/json' }))
+  link.href = URL.createObjectURL(new Blob([text], { type }))
   link.download = name
   link.click()
   URL.revokeObjectURL(link.href)
@@ -66,8 +72,8 @@ function downloadFile(name, text) {
 
 export function App() {
   const restoredWorkspace = useMemo(loadWorkspace, [])
-  const [selectedId, setSelectedId] = useState(restoredWorkspace?.sourcePack || 'postgraduate-exam')
-  const [prompt, setPrompt] = useState(restoredWorkspace?.intent || findPack('postgraduate-exam').prompt)
+  const [selectedId, setSelectedId] = useState(restoredWorkspace?.sourcePack || 'university')
+  const [prompt, setPrompt] = useState(restoredWorkspace?.intent || findPack('university').prompt)
   const [workspace, setWorkspace] = useState(restoredWorkspace)
   const [isGenerating, setIsGenerating] = useState(false)
   const [isGenerated, setIsGenerated] = useState(Boolean(restoredWorkspace))
@@ -80,16 +86,24 @@ export function App() {
   const [newTask, setNewTask] = useState('')
   const [installPrompt, setInstallPrompt] = useState(null)
   const [backupPassphrase, setBackupPassphrase] = useState('')
+  const [now, setNow] = useState(new Date())
+  const [marketEntries, setMarketEntries] = useState([])
+  const [marketStatus, setMarketStatus] = useState('公共模块目录尚未连接')
   const importInput = useRef(null)
   const encryptedImportInput = useRef(null)
 
   const selected = useMemo(() => findPack(selectedId), [selectedId])
   const activeWorkspace = workspace ?? createWorkspace({ packId: selectedId, prompt })
   const activeModuleIds = activeWorkspace.modules.map((module) => module.id)
-  const previewModules = activeModuleIds.slice(0, 3).map(findModule).filter(Boolean)
+  const previewModules = activeModuleIds.slice(0, 6).map(findModule).filter(Boolean)
 
   useEffect(() => {
     if (!import.meta.env.ONEBENCH_EXTENSION && 'serviceWorker' in navigator) navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`).catch(() => undefined)
+  }, [])
+
+  useEffect(() => {
+    const timer = window.setInterval(() => setNow(new Date()), 1000)
+    return () => window.clearInterval(timer)
   }, [])
 
   useEffect(() => {
@@ -136,6 +150,37 @@ export function App() {
     setWorkspaceData(saveWorkspaceData(workspace, next))
   }
 
+  function downloadLocalWorkbench() {
+    const data = workspaceData || loadWorkspaceData(activeWorkspace)
+    downloadFile(`${activeWorkspace.name}.html`, exportDesktopHtml(activeWorkspace, data), 'text/html;charset=utf-8')
+    setSyncStatus('已下载本地 HTML。把文件移到桌面后双击即可打开。')
+  }
+
+  async function refreshModuleMarket() {
+    setMarketStatus('正在联网更新公共模块目录…')
+    try {
+      const response = await fetch(registryUrl)
+      if (!response.ok) throw new Error(`目录更新失败（${response.status}）`)
+      const registry = await response.json()
+      const entries = [...(registry.templates || []), ...(registry.modules || [])]
+      setMarketEntries(entries)
+      setMarketStatus(`已联网更新：${entries.length} 个公共条目`)
+    } catch (error) {
+      setMarketStatus(error.message || '当前无法连接公共模块目录。')
+    }
+  }
+
+  function installMarketEntry(entry) {
+    const required = Array.isArray(entry.requires) ? entry.requires.filter((id) => findModule(id)) : []
+    if (!required.length) {
+      setMarketStatus('该条目需要先由智能体审阅并合入源码，不能在浏览器中直接执行远程代码。')
+      return
+    }
+    const ids = new Set([...activeModuleIds, ...required])
+    updateWorkspace({ ...activeWorkspace, modules: [...ids].map((id) => ({ id, enabled: true })) })
+    setMarketStatus(`已添加「${entry.name}」需要的 ${required.length} 个模块。`)
+  }
+
   function addTask(event) {
     event.preventDefault()
     if (!newTask.trim() || !workspaceData) return
@@ -179,8 +224,9 @@ export function App() {
     setSyncStatus('正在推送配置…')
     try {
       const sha = await pushWorkspaceToGitHub(connection, activeWorkspace, { lastSha: connection.lastSha, force })
+      if (connection.syncContent && workspaceData) await pushWorkspaceDataToGitHub(connection, workspaceData)
       saveConnection({ ...connection, lastSha: sha || connection.lastSha })
-      setSyncStatus('已推送 workspace.json；个人待办数据未上传。')
+      setSyncStatus(connection.syncContent ? '已推送工作台配置和加密前的个人内容文件。请只连接自己的私有仓库。' : '已推送 workspace.json；个人待办数据仍只保存在本机。')
     } catch (error) {
       setSyncConflict(error.code === 'SYNC_CONFLICT')
       setSyncStatus(error.message)
@@ -202,6 +248,10 @@ export function App() {
       setSelectedId(next.sourcePack)
       setPrompt(next.intent)
       persist(next)
+      if (connection.syncContent) {
+        const remoteData = await pullWorkspaceDataFromGitHub(connection)
+        if (remoteData?.data) setWorkspaceData(saveWorkspaceData(next, remoteData.data))
+      }
       saveConnection({ ...connection, lastSha: remote.sha })
       setSyncConflict(false)
       setSyncStatus('已从 GitHub 恢复配置。')
@@ -255,77 +305,25 @@ export function App() {
   }
 
   return (
-    <main className="app-shell">
-      <header className="topbar">
-        <a className="brand" href="#create" aria-label="一句工作台首页">
-          <span className="brand-mark"><StackSimple weight="fill" /></span><strong>一句工作台</strong>
-        </a>
-        <nav aria-label="主导航">
-          <a href="#create">灵感</a><a href="#packs">模板</a><a href="#workbench">我的工作台</a>
-        </nav>
-        <a className="avatar" href="#workbench" aria-label="打开工作台">我</a>
-      </header>
-
-      <section className="hero" id="create">
-        <div className="hero-copy">
-          <p className="eyebrow"><Sparkle weight="fill" /> 从一句话开始</p>
-          <h1>今天，想让什么变得更轻松？</h1>
-          <p className="intro">描述你的身份、目标和习惯。我们会把它整理成一套可以长期使用的个人工作台。</p>
-          <label className="prompt-box" htmlFor="workbench-prompt">
-            <span>告诉我你的需求</span>
-            <textarea id="workbench-prompt" value={prompt} maxLength={200} onChange={(event) => { setPrompt(event.target.value); setIsGenerated(false) }} />
-            <small>{prompt.length}/200</small>
-          </label>
-          <div className="actions-row">
-            <div className="scenario-row" aria-label="选择场景">
-              {packs.slice(0, 3).map((pack) => {
-                const PackIcon = pack.icon
-                return <button className={`scenario-chip${pack.id === selectedId ? ' is-active' : ''}`} key={pack.id} type="button" onClick={() => selectPack(pack)}><PackIcon weight={pack.id === selectedId ? 'fill' : 'regular'} />{pack.name}</button>
-              })}
-              <button className="more-packs" type="button" onClick={() => setShowAllPacks((value) => !value)}>{showAllPacks ? '收起场景' : '+ 5 个场景'}</button>
-            </div>
-            <button className="generate-button" type="button" onClick={generateWorkbench} disabled={isGenerating || !prompt.trim()}>
-              {isGenerating ? <CircleNotch className="spin" /> : <Sparkle weight="fill" />}{isGenerating ? '正在整理你的工作台…' : '先帮我搭一个'}{!isGenerating && <ArrowRight weight="bold" />}
-            </button>
-          </div>
-          {showAllPacks && <div className="pack-picker" id="packs">{packs.slice(3).map((pack) => { const PackIcon = pack.icon; return <button type="button" key={pack.id} onClick={() => { selectPack(pack); setShowAllPacks(false) }}><PackIcon weight="fill" /><span>{pack.name}</span><small>{pack.description}</small></button> })}</div>}
-          {isGenerated && <p className="success-note"><CheckCircle weight="fill" /> 已生成并保存到这台设备，可继续调整模块与风格。</p>}
-        </div>
-
-        <section className={`plan-card${isGenerated ? ' is-generated' : ''}`} aria-label="生成的工作台预览">
-          <div className="plan-card-head"><div><p>{selected.name} · 可编辑工作台</p><h2>{activeWorkspace.name}</h2></div><span className="date-pill">本地优先 · 已保存</span></div>
-          <div className="plan-card-body"><div className="plan-card-content">
-            <div className="week-strip" aria-label="本周计划">{days.map(([weekday, date]) => <div className={date === '30' ? 'is-today' : ''} key={date}><span>{weekday}</span><strong>{date}</strong></div>)}</div>
-            <div className="focus-area"><div className="section-label"><Target weight="fill" /> 已装入的核心模块</div>{previewModules.map((module) => { const ModuleIcon = module.icon; return <div className="focus-row" key={module.id}><ModuleIcon weight="fill" /><strong>{module.name}</strong><small>{module.description}</small></div> })}</div>
-            <div className="plan-progress"><div><span><CheckCircle weight="fill" /> 工作台配置</span><strong>{activeModuleIds.length} 个模块已启用</strong></div><span className="progress-track"><i style={{ width: `${Math.min(100, activeModuleIds.length * 12)}%` }} /></span></div>
-            <a className="plan-link" href="#workbench"><GearSix weight="bold" /> 打开我的工作台 <ArrowRight weight="bold" /></a>
-          </div><img className="phone-preview" src={phonePreview} alt="手机端工作台预览" /></div>
+    <main className="dashboard-shell">
+      <aside className="rail" aria-label="工作台导航"><a className="rail-logo" href="#home"><StackSimple weight="fill" /></a><nav><a className="is-active" href="#home"><House weight="fill" /><span>主页</span></a><a href="#market"><SquaresFour weight="fill" /><span>模块市场</span></a><a href="#sync"><GithubLogo weight="fill" /><span>同步</span></a><a href="#help"><GearSix weight="fill" /><span>设置</span></a></nav><button type="button" onClick={downloadLocalWorkbench} title="下载本地 HTML"><DownloadSimple weight="bold" /></button></aside>
+      <section className="dashboard" id="home">
+        <header className="dashboard-top"><div className="identity"><span className="avatar">我</span><div><strong>{selected.name}</strong><small>{isGenerated ? '本地已保存' : '选择身份后即可开始'}</small></div></div><div className="top-actions"><button type="button" onClick={downloadLocalWorkbench}><Monitor weight="bold" /> 下载本地版</button><a href="#sync"><CloudArrowUp weight="bold" /> 多端同步</a></div></header>
+        <section className="clock-area"><time>{now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false })}</time><p>{now.toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' })} · {activeWorkspace.name}</p><label className="quick-search"><MagnifyingGlass weight="bold" /><input value={prompt} onChange={(event) => { setPrompt(event.target.value); setIsGenerated(false) }} placeholder="一句话修改你的工作台" /><button type="button" onClick={generateWorkbench}>{isGenerating ? <CircleNotch className="spin" /> : <Sparkle weight="fill" />}{isGenerated ? '更新' : '生成'}</button></label></section>
+        <section className="identity-strip" aria-label="身份模板">{packs.map((pack) => { const PackIcon = pack.icon; return <button key={pack.id} type="button" className={pack.id === selectedId ? 'selected' : ''} onClick={() => selectPack(pack)}><PackIcon weight="fill" /><span>{pack.name}</span></button> })}</section>
+        <section className="dashboard-grid" aria-label="我的工作台">
+          <article className="dash-card schedule-card"><div className="card-title"><span><CalendarBlank weight="fill" /> 今天的节奏</span><small>{selected.name} 默认模块</small></div><div className="week-row">{days.map(([weekday, date]) => <span key={date} className={date === '30' ? 'today' : ''}><b>{weekday}</b>{date}</span>)}</div><p>{selected.description}</p><div className="module-pills">{previewModules.slice(0, 4).map((module) => <span key={module.id}>{module.name}</span>)}</div></article>
+          <article className="dash-card task-card"><div className="card-title"><span><CheckCircle weight="fill" /> 待办事项</span><small>{workspaceData ? `${workspaceData.tasks.filter((task) => task.done).length}/${workspaceData.tasks.length}` : '本地版'}</small></div>{workspaceData ? <><div className="task-list">{workspaceData.tasks.map((task) => <label key={task.id}><input type="checkbox" checked={task.done} onChange={() => toggleTask(task.id)} /><span>{task.title}</span></label>)}</div><form onSubmit={addTask}><input value={newTask} onChange={(event) => setNewTask(event.target.value)} placeholder="添加一件要做的事" /><button type="submit" aria-label="添加待办"><Plus weight="bold" /></button></form></> : <button className="activate" type="button" onClick={generateWorkbench}>启用这个身份包</button>}</article>
+          <article className="dash-card note-card"><div className="card-title"><span><NotePencil weight="fill" /> 备忘录</span><small>默认本地保存</small></div>{workspaceData ? <textarea value={workspaceData.quickNote} onChange={(event) => updateWorkspaceData({ ...workspaceData, quickNote: event.target.value })} placeholder="记下一点灵感、会议纪要或今天的复盘…" /> : <p>生成后，这里就是你的随手记；不会上传到任何平台。</p>}</article>
+          <article className="dash-card focus-card"><div className="card-title"><span><Target weight="fill" /> 今日焦点</span><small>本地优先</small></div><strong>{activeWorkspace.intent}</strong><p>身份包已经配好公共模块和场景模块，还可以去模块市场继续加。</p><a href="#market">打开模块市场 <ArrowRight weight="bold" /></a></article>
+          <article className="dash-card local-card"><div className="card-title"><span><Monitor weight="fill" /> 电脑上直接用</span><small>默认方式</small></div><p>下载一个本地 HTML，放到桌面后双击打开；任务和笔记只保存在这台电脑。</p><button type="button" onClick={downloadLocalWorkbench}><DownloadSimple weight="bold" /> 下载我的本地工作台</button></article>
+          <article className="dash-card mobile-card"><div className="card-title"><span><DeviceMobile weight="fill" /> 手机与浏览器</span><small>可选升级</small></div><p>手机：打开网页后选择“添加到主屏幕”。浏览器：构建扩展并加载后，每个新标签页都是工作台。</p><a href="#help">查看使用方式 <ArrowRight weight="bold" /></a></article>
         </section>
-      </section>
 
-      <section className="template-strip" aria-label="场景模板"><div><BookOpenText weight="fill" /><span>不是从空白开始</span></div><p>每个场景包都复用同一套模块、主题与同步协议；社区只需贡献配置，不必复制整套应用。</p><ul><li><CalendarBlank weight="bold" /> 日历待办</li><li><ListChecks weight="bold" /> 模块注册</li><li><GithubLogo weight="fill" /> GitHub 配置同步</li></ul></section>
+        <section className="market" id="market"><div className="section-head"><div><p>模块市场</p><h2>先配好，再随时添加</h2></div><button type="button" onClick={refreshModuleMarket}><ArrowClockwise weight="bold" /> 联网更新目录</button></div><div className="market-grid">{moduleCatalog.map((module) => { const ModuleIcon = module.icon; const enabled = activeModuleIds.includes(module.id); return <button type="button" className={enabled ? 'enabled' : ''} key={module.id} onClick={() => updateWorkspace(toggleModule(activeWorkspace, module.id))}><ModuleIcon weight={enabled ? 'fill' : 'regular'} /><span><strong>{module.name}</strong><small>{module.description}</small></span><i>{enabled ? '已装入' : '添加'}</i></button> })}</div><p className="market-status">{marketStatus}</p>{marketEntries.length > 0 && <div className="community-list">{marketEntries.map((entry) => <article key={entry.id}><div><strong>{entry.name}</strong><small>{entry.description}</small></div><button type="button" onClick={() => installMarketEntry(entry)}>{entry.kind === 'template-pack' ? '添加组合' : '查看更新规则'}</button></article>)}</div>}</section>
 
-      <section className="workbench" id="workbench" aria-labelledby="workbench-title">
-        <div className="workbench-heading"><div><p>今天的工作台</p><h2 id="workbench-title">{workspace ? workspace.name : '先生成你的工作台'}</h2></div><a href="#studio"><GearSix weight="bold" /> 调整模块与同步</a></div>
-        {workspace && workspaceData ? <div className="workbench-grid">
-          <section className="daily-card tasks-card"><div className="card-title"><div><CheckCircle weight="fill" /><h3>今日待办</h3></div><span>{workspaceData.tasks.filter((task) => task.done).length}/{workspaceData.tasks.length}</span></div><div className="task-list">{workspaceData.tasks.map((task) => <label key={task.id}><input type="checkbox" checked={task.done} onChange={() => toggleTask(task.id)} /><span>{task.title}</span></label>)}</div><form onSubmit={addTask}><input value={newTask} onChange={(event) => setNewTask(event.target.value)} placeholder="添加一件要做的事" /><button type="submit" aria-label="添加待办"><Plus weight="bold" /></button></form></section>
-          <section className="daily-card note-card"><div className="card-title"><div><NotePencil weight="fill" /><h3>快速记录</h3></div><span>本地保存</span></div><textarea value={workspaceData.quickNote} onChange={(event) => updateWorkspaceData({ ...workspaceData, quickNote: event.target.value })} placeholder="记下一点灵感、会议纪要或今天的复盘…" /></section>
-          <section className="daily-card module-card"><div className="card-title"><div><StackSimple weight="fill" /><h3>今天可用</h3></div></div><div className="daily-modules">{activeModuleIds.map(findModule).filter(Boolean).slice(0, 6).map((module) => { const ModuleIcon = module.icon; return <span key={module.id}><ModuleIcon weight="fill" />{module.name}</span> })}</div></section>
-          <section className="daily-card install-card"><div className="card-title"><div><DeviceMobile weight="fill" /><h3>电脑与手机都能用</h3></div></div><p>数据默认留在设备；用 GitHub 恢复工作台配置。手机可通过浏览器“添加到主屏幕”。</p>{installPrompt ? <button type="button" onClick={installApp}><DownloadSimple weight="bold" /> 安装为应用</button> : <span className="install-hint">iPhone：Safari 分享菜单 → 添加到主屏幕</span>}</section>
-        </div> : <div className="empty-workbench"><Sparkle weight="fill" /><p>从上面选择一个场景，输入一句需求后即可创建。</p><a href="#create">去创建 <ArrowUp weight="bold" /></a></div>}
-      </section>
-
-      <section className="studio" id="studio" aria-labelledby="studio-title">
-        <div className="studio-intro"><p>Phase 0 + 1 · 开源基础版</p><h2 id="studio-title">把工作台变成你自己的</h2><span>配置存于本地浏览器；同步时只上传工作台结构和设置。</span></div>
-        <div className="studio-grid">
-          <section className="studio-card modules-card"><div className="card-title"><div><Plus weight="bold" /><h3>模块管理</h3></div><span>{activeModuleIds.length} / {moduleCatalog.length}</span></div><div className="module-list">{moduleCatalog.map((module) => { const ModuleIcon = module.icon; const enabled = activeModuleIds.includes(module.id); return <button type="button" className={enabled ? 'enabled' : ''} key={module.id} onClick={() => updateWorkspace(toggleModule(activeWorkspace, module.id))}><ModuleIcon weight={enabled ? 'fill' : 'regular'} /><span><strong>{module.name}</strong><small>{module.description}</small></span><i>{enabled ? '已启用' : '添加'}</i></button> })}</div></section>
-
-          <section className="studio-card theme-card"><div className="card-title"><div><Sparkle weight="fill" /><h3>主题与布局</h3></div></div><div className="theme-list">{themes.map((theme) => <button key={theme.id} type="button" onClick={() => changeTheme(theme)} className={activeWorkspace.theme.id === theme.id ? 'selected' : ''}><i style={{ background: theme.color }} /><span>{theme.name}</span>{activeWorkspace.theme.id === theme.id && <CheckCircle weight="fill" />}</button>)}</div><p className="muted">当前主题会写入 `workspace.json`，模板贡献者可提供自己的主题令牌。</p></section>
-
-          <section className="studio-card sync-card"><div className="card-title"><div><GithubLogo weight="fill" /><h3>GitHub 配置同步</h3></div><span className="local-tag">可选</span></div><p className="muted">仅同步工作台配置，不上传待办、笔记或日历数据。</p><div className="sync-fields"><label>GitHub 用户名<input value={connection.owner} onChange={(event) => updateConnection('owner', event.target.value)} placeholder="octocat" /></label><label>仓库名<input value={connection.repo} onChange={(event) => updateConnection('repo', event.target.value)} placeholder="my-workbench" /></label><label>分支<input value={connection.branch} onChange={(event) => updateConnection('branch', event.target.value)} placeholder="main" /></label><label>配置路径<input value={connection.path} onChange={(event) => updateConnection('path', event.target.value)} placeholder="workspace.json" /></label><label className="token-field"><LockKey weight="fill" /> Fine-grained token<input type="password" value={connection.token} onChange={(event) => updateConnection('token', event.target.value)} placeholder="Contents: Read and write" /></label></div><div className="sync-actions"><button type="button" onClick={pullFromGitHub} disabled={isSyncing}><CloudArrowDown weight="bold" /> 拉取配置</button><button type="button" className="primary-sync" onClick={() => pushToGitHub()} disabled={isSyncing}>{isSyncing ? <CircleNotch className="spin" /> : <CloudArrowUp weight="bold" />} 推送配置</button></div>{syncConflict && <div className="conflict-actions"><strong>检测到另一台设备的更新</strong><button type="button" onClick={pullFromGitHub}>采用远端</button><button type="button" onClick={() => pushToGitHub(true)}>覆盖远端</button></div>}{syncStatus && <p className="sync-status">{syncStatus}</p>}</section>
-
-          <section className="studio-card export-card"><div className="card-title"><div><FloppyDisk weight="fill" /><h3>备份与恢复</h3></div></div><p className="muted">标准 JSON 配置可在任意一句工作台实例中恢复。需要带走配置时，可用本地口令生成 AES-GCM 加密文件。</p><div className="export-actions"><button type="button" onClick={() => downloadFile('workspace.json', exportWorkspace(activeWorkspace))}><DownloadSimple weight="bold" /> 导出 workspace.json</button><button type="button" onClick={() => importInput.current?.click()}><FileArrowUp weight="bold" /> 导入配置</button><input ref={importInput} type="file" accept="application/json" onChange={importWorkspace} hidden /></div><div className="backup-crypto"><input type="password" value={backupPassphrase} onChange={(event) => setBackupPassphrase(event.target.value)} placeholder="至少 8 位备份口令" /><button type="button" onClick={exportEncryptedBackup}>导出加密备份</button><button type="button" onClick={() => encryptedImportInput.current?.click()}>恢复加密备份</button><input ref={encryptedImportInput} type="file" accept="application/json" onChange={importEncryptedBackup} hidden /></div></section>
-        </div>
+        <section className="advanced" id="sync"><div className="section-head"><div><p>高级能力</p><h2>需要时，再打开多端同步</h2></div></div><div className="advanced-grid"><article className="advanced-card sync-card"><div className="card-title"><span><GithubLogo weight="fill" /> 私有仓库同步</span><small>需联网</small></div><p>推荐用自己的私有仓库保存配置；勾选后，待办与备忘录也会同步到该私有仓库，手机和另一台电脑可拉取。</p><div className="sync-fields"><label>GitHub 用户名<input value={connection.owner} onChange={(event) => updateConnection('owner', event.target.value)} placeholder="octocat" /></label><label>私有仓库名<input value={connection.repo} onChange={(event) => updateConnection('repo', event.target.value)} placeholder="my-private-workbench" /></label><label>分支<input value={connection.branch} onChange={(event) => updateConnection('branch', event.target.value)} placeholder="main" /></label><label>内容文件<input value={connection.dataPath} onChange={(event) => updateConnection('dataPath', event.target.value)} placeholder="workspace-data.json" /></label><label className="token-field"><LockKey weight="fill" /> Fine-grained token<input type="password" value={connection.token} onChange={(event) => updateConnection('token', event.target.value)} placeholder="仅授予这个私有仓库 Contents 读写" /></label></div><label className="content-sync"><input type="checkbox" checked={connection.syncContent} onChange={(event) => updateConnection('syncContent', event.target.checked)} /> 同步待办和备忘录内容（仅限自己的私有仓库）</label><div className="sync-actions"><button type="button" onClick={pullFromGitHub} disabled={isSyncing}><CloudArrowDown weight="bold" /> 拉取</button><button type="button" className="primary-sync" onClick={() => pushToGitHub()} disabled={isSyncing}>{isSyncing ? <CircleNotch className="spin" /> : <CloudArrowUp weight="bold" />} 推送</button></div>{syncConflict && <div className="conflict-actions"><strong>检测到另一台设备的更新</strong><button type="button" onClick={pullFromGitHub}>采用远端</button><button type="button" onClick={() => pushToGitHub(true)}>覆盖远端</button></div>}{syncStatus && <p className="sync-status">{syncStatus}</p>}</article>
+          <article className="advanced-card" id="help"><div className="card-title"><span><Monitor weight="fill" /> 本地、手机和插件</span><small>怎么用</small></div><ol><li><strong>本地电脑：</strong>下载 HTML，移到桌面，双击打开；Windows 可右键“创建快捷方式”。</li><li><strong>手机：</strong>需要多端时，让智能体发布线上版；Safari／Chrome 菜单选择“添加到主屏幕”。</li><li><strong>浏览器启示页：</strong>在自己的仓库执行 <code>npm run build:extension</code>，打开 <code>chrome://extensions</code>，开启开发者模式，加载 <code>dist/extension</code>。</li></ol><div className="export-actions"><button type="button" onClick={() => downloadFile('workspace.json', exportWorkspace(activeWorkspace))}><FloppyDisk weight="bold" /> 导出配置</button><button type="button" onClick={() => importInput.current?.click()}><FileArrowUp weight="bold" /> 导入配置</button></div><input ref={importInput} type="file" accept="application/json" onChange={importWorkspace} hidden /><div className="backup-crypto"><input type="password" value={backupPassphrase} onChange={(event) => setBackupPassphrase(event.target.value)} placeholder="备份口令" /><button type="button" onClick={exportEncryptedBackup}>加密导出</button><button type="button" onClick={() => encryptedImportInput.current?.click()}>加密恢复</button></div><input ref={encryptedImportInput} type="file" accept="application/json" onChange={importEncryptedBackup} hidden /></article></div></section>
       </section>
     </main>
   )

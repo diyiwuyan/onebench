@@ -7,6 +7,17 @@
 - Sensitive portable copy: export an AES-GCM encrypted backup and keep the passphrase separately.
 - Repeated configuration recovery: bind a personal GitHub repository and pull/push `workspace.json` only.
 
+## Default local desktop handoff
+
+For a beginner who only needs a computer version, generate a single local file plus its launcher:
+
+```bash
+node scripts/create-local-workbench.mjs --pack university --prompt '我是大学生，想管理课程和作业' --out "/Users/用户名/Desktop/我的工作台.html"
+node scripts/create-desktop-launcher.mjs --html "/Users/用户名/Desktop/我的工作台.html" --out "/Users/用户名/Desktop/打开我的工作台.command"
+```
+
+On Windows, pass `--platform win32` and write a `.url` launcher instead. The generated HTML is the default product; GitHub is an optional later upgrade for phones and multiple computers.
+
 ## User-owned repository
 
 Create the user's repository from `diyiwuyan/onebench`, not from a built `dist` folder. In the new clone:

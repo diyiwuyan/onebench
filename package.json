@@ -8,6 +8,8 @@
     "build": "vite build && node scripts/prepare-sites-build.mjs",
     "build:pages": "GITHUB_PAGES=true vite build && node scripts/prepare-sites-build.mjs && node scripts/verify-pages-build.mjs",
     "build:extension": "ONEBENCH_TARGET=extension vite build && node scripts/prepare-extension-build.mjs && node scripts/verify-extension-build.mjs",
+    "create:local": "node scripts/create-local-workbench.mjs",
+    "create:shortcut": "node scripts/create-desktop-launcher.mjs",
     "preview": "vite preview",
     "test:sites": "node --test tests/sites-worker.test.mjs",
     "test": "node --test tests/*.test.mjs",

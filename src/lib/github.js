@@ -66,3 +66,26 @@ export async function pushWorkspaceToGitHub(connection, workspace, { lastSha, fo
   const result = await responseJson(response)
   return result.content?.sha
 }
+
+export async function pullWorkspaceDataFromGitHub(connection) {
+  const file = await getContent({ ...connection, path: connection.dataPath || 'workspace-data.json' })
+  if (!file) return null
+  return { data: JSON.parse(decodeBase64(file.content)), sha: file.sha }
+}
+
+export async function pushWorkspaceDataToGitHub(connection, data) {
+  const dataConnection = { ...connection, path: connection.dataPath || 'workspace-data.json' }
+  const remote = await getContent(dataConnection)
+  const response = await fetch(contentsUrl(dataConnection), {
+    method: 'PUT',
+    headers: { ...headers(connection.token), 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      message: 'chore: sync private workbench content',
+      content: encodeBase64(JSON.stringify(data, null, 2)),
+      branch: connection.branch,
+      ...(remote?.sha ? { sha: remote.sha } : {}),
+    }),
+  })
+  const result = await responseJson(response)
+  return result.content?.sha
+}
