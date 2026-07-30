@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "一句工作台 · OneBench",
+  "version": "0.1.0",
+  "description": "把自己的 OneBench 工作台作为 Chrome 或 Edge 的新标签页。数据默认只留在本机。",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_title": "打开一句工作台"
+  },
+  "icons": {
+    "192": "icons/onebench-192.png",
+    "512": "icons/onebench-512.png"
+  }
+}

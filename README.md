@@ -2,7 +2,7 @@
 
 > 不会搭网站也没关系。选一个身份，点一下，就有自己的工作台。
 
-开源、配置驱动、本地优先的个人工作台：一句话选择场景与模块，生成可安装的 PWA；可将 `workspace.json` 推送到自己的 GitHub 仓库恢复配置。
+开源、配置驱动、本地优先的个人工作台：一句话选择场景与模块，生成可安装的 PWA。智能体可为用户创建自己的完整 GitHub 仓库、自动发布网页，并持续同步公共模板／模块目录。
 
 ## 直接体验
 
@@ -15,6 +15,12 @@
 3. 手机浏览器选择“添加到主屏幕”。
 
 详细说明见 [给第一次使用的人](docs/BEGINNER.md)。想交给智能体，直接复制 [一句发给智能体](docs/AGENT-STARTER.md)。
+
+## 一键拥有，而不是只拿到一个临时链接
+
+使用 `onebench-deploy` Skill 的智能体必须交付用户自己账号下的完整仓库、`workspace.json`、自动部署工作流和可打开的网址；不能只交一个临时平台链接或静态文件夹。以后只需说“帮我改成……”，智能体就在该仓库修改、测试并自动更新网页。完整规则见 [用户拥有权](docs/OWNERSHIP.md)。
+
+每个用户仓库都能保留 OneBench 官方上游，公共模块和模板目录通过固定来源、版本与权限声明进行更新；目录不会在浏览器中静默执行第三方代码。见 [社区目录与贡献](docs/COMMUNITY.md)。
 
 ## 首期职业／学习包：选什么，会得到什么
 
@@ -53,6 +59,17 @@ https://github.com/diyiwuyan/onebench/tree/main/skills/onebench-deploy
 - 模板贡献规范与 JSON Schema
 - 模块数据边界协议与可分发的 `onebench-deploy` 智能体 Skill
 
+## 新标签页扩展
+
+除了网页和手机桌面，OneBench 也可成为 Chrome／Edge 的浏览器新标签页。执行 `npm run build:extension`，再加载 `dist/extension` 即可。详细步骤见 [浏览器扩展](docs/BROWSER-EXTENSION.md)。
+
+## 社区目录
+
+- 目录协议：`packages/community-registry/registry.json`
+- 校验目录：`npm run validate:registry`
+- 从公共仓库刷新目录：`npm run update:registry`
+- 贡献模板／模块：[社区目录与贡献](docs/COMMUNITY.md)
+
 ## 开发
 
 ```bash
@@ -66,4 +83,4 @@ npm run dev
 
 ## 后续
 
-下一阶段可接入社区精选目录、第三方连接器与正式 GitHub OAuth 应用。当前已具备模板 PR 校验、冲突提示和加密备份。
+下一阶段可接入经过审阅的第三方连接器与正式 GitHub OAuth 应用。当前已具备用户仓库交付协议、公共目录校验、模板 PR 校验、冲突提示、加密备份与浏览器新标签页打包。

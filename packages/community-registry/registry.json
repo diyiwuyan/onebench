@@ -1,0 +1,27 @@
+{
+  "format": "onebench-community-registry/v1",
+  "name": "OneBench Community Registry",
+  "updatedAt": "2026-07-30T00:00:00.000Z",
+  "templates": [
+    {
+      "id": "exam-sprint",
+      "kind": "template-pack",
+      "name": "冲刺学习节奏",
+      "description": "适合考研、考公或短期考证的倒计时、专注与复盘组合。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
+      "permissions": [],
+      "requires": ["calendar", "tasks", "quick-note", "settings", "learning", "focus", "goals", "review"]
+    }
+  ],
+  "modules": [
+    {
+      "id": "core-learning",
+      "kind": "module",
+      "name": "学习计划",
+      "description": "课程、考证与阅读规划的内置模块；更新必须通过固定版本的源码合并。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "src/data/modules.js", "ref": "main" },
+      "permissions": ["local-storage"],
+      "updateMode": "pinned-source-review"
+    }
+  ]
+}

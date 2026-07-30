@@ -7,11 +7,14 @@
     "dev": "vite",
     "build": "vite build && node scripts/prepare-sites-build.mjs",
     "build:pages": "GITHUB_PAGES=true vite build && node scripts/prepare-sites-build.mjs && node scripts/verify-pages-build.mjs",
+    "build:extension": "ONEBENCH_TARGET=extension vite build && node scripts/prepare-extension-build.mjs && node scripts/verify-extension-build.mjs",
     "preview": "vite preview",
     "test:sites": "node --test tests/sites-worker.test.mjs",
     "test": "node --test tests/*.test.mjs",
     "validate:templates": "node scripts/validate-template-packs.mjs",
-    "validate:modules": "node scripts/validate-modules.mjs"
+    "validate:modules": "node scripts/validate-modules.mjs",
+    "validate:registry": "node scripts/validate-community-registry.mjs",
+    "update:registry": "node scripts/update-community-registry.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

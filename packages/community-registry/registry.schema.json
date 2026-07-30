@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OneBench Community Registry v1",
+  "type": "object",
+  "required": ["format", "name", "templates", "modules"],
+  "properties": {
+    "format": { "const": "onebench-community-registry/v1" },
+    "name": { "type": "string" },
+    "templates": { "type": "array", "items": { "$ref": "#/$defs/entry" } },
+    "modules": { "type": "array", "items": { "$ref": "#/$defs/entry" } }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["id", "kind", "name", "source", "permissions"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "kind": { "enum": ["template-pack", "module"] },
+        "name": { "type": "string" },
+        "permissions": { "type": "array", "items": { "type": "string" } },
+        "source": {
+          "type": "object",
+          "required": ["repository", "path", "ref"],
+          "properties": {
+            "repository": { "type": "string" },
+            "path": { "type": "string" },
+            "ref": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}
