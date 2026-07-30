@@ -45,4 +45,4 @@ Run `npm run update:registry` to fetch metadata from the official public catalog
 
 `npm run validate:templates && npm run validate:modules && npm run validate:registry && npm test && npm run build && npm run test:sites`
 
-After the command succeeds, open the generated HTML and verify the selected role, role modules, task persistence after reload, and one role-specific interaction. For online delivery, repeat at desktop and phone widths.
+After the command succeeds, open the generated HTML and verify the selected role, side-rail application entrances, editable starter data, task persistence, widget order/size persistence after reload, cached weather fallback, and one role-specific interaction. For online delivery, repeat at desktop and phone widths.

@@ -15,7 +15,7 @@
       "required": ["id", "kind", "name", "source", "permissions", "requires"],
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
-        "kind": { "enum": ["template-pack", "module"] },
+        "kind": { "enum": ["career-pack", "layout-template", "theme-pack", "module-bundle", "module"] },
         "name": { "type": "string" },
         "permissions": { "type": "array", "items": { "type": "string" } },
         "requires": { "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^[a-z0-9-]+$" } },

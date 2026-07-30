@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict'
 import { readFile } from 'node:fs/promises'
 import test from 'node:test'
-import { createWorkspace, normalizeWorkspace, toggleModule, WORKSPACE_VERSION } from '../src/lib/workspace.js'
+import { createWorkspace, normalizeWorkspace, reorderHomeModules, toggleModule, updateModuleLayout, WORKSPACE_VERSION } from '../src/lib/workspace.js'
 import { packs, packModuleIds } from '../src/data/packs.js'
 import { themeCatalog } from '../src/data/themes.js'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from '../src/lib/backup.js'
@@ -11,6 +11,7 @@ test('first-party catalog provides eight packs with shared modules', () => {
   for (const pack of packs) {
     const modules = packModuleIds(pack)
     assert.ok(modules.includes('calendar'))
+    assert.ok(modules.includes('weather'))
     assert.ok(modules.includes('tasks'))
     assert.ok(modules.includes('profile'))
     assert.ok(modules.includes('appearance'))
@@ -33,6 +34,19 @@ test('workspace config is created from a pack and can toggle a module', () => {
   assert.equal(removed.modules.some((module) => module.id === 'calendar'), false)
   const restored = toggleModule(removed, 'calendar')
   assert.equal(restored.modules.some((module) => module.id === 'calendar'), true)
+})
+
+test('widget placement, sizing and order survive normalization', () => {
+  const workspace = createWorkspace({ packId: 'postgraduate-exam' })
+  assert.equal(workspace.modules.find((module) => module.id === 'weather').placement, 'home')
+  const resized = updateModuleLayout(workspace, 'weather', { size: 'wide' })
+  const homeIds = resized.modules.filter((module) => module.placement === 'home').map((module) => module.id)
+  const reordered = reorderHomeModules(resized, homeIds[0], homeIds[1])
+  const normalized = normalizeWorkspace(reordered)
+  assert.equal(normalized.modules.find((module) => module.id === 'weather').size, 'wide')
+  assert.equal(normalized.modules.filter((module) => module.placement === 'home')[1].id, homeIds[0])
+  const removedWeather = normalizeWorkspace(toggleModule(normalized, 'weather'))
+  assert.equal(removedWeather.modules.some((module) => module.id === 'weather'), false)
 })
 
 test('workspace config rejects malformed or incompatible data', () => {

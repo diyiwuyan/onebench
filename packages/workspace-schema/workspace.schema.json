@@ -34,7 +34,13 @@
       "items": {
         "type": "object",
         "required": ["id", "enabled"],
-        "properties": { "id": { "type": "string" }, "enabled": { "const": true } },
+        "properties": {
+          "id": { "type": "string" },
+          "enabled": { "const": true },
+          "placement": { "enum": ["home", "sidebar"] },
+          "size": { "enum": ["small", "medium", "wide"] },
+          "order": { "type": "integer", "minimum": 0 }
+        },
         "additionalProperties": false
       }
     }

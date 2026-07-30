@@ -6,6 +6,7 @@ import {
   ChartLineUp,
   CheckSquare,
   ClockCountdown,
+  CloudSun,
   CompassTool,
   FolderSimple,
   GearSix,
@@ -22,14 +23,15 @@ import {
 } from '@phosphor-icons/react'
 
 export const moduleCatalog = [
-  { id: 'calendar', name: '日历', description: '课程、会议与截止日', icon: CalendarBlank, category: '通用' },
-  { id: 'tasks', name: '待办', description: '今天要做什么', icon: CheckSquare, category: '通用' },
-  { id: 'quick-note', name: '快速记录', description: '灵感与随手记', icon: NotePencil, category: '通用' },
-  { id: 'habits', name: '习惯打卡', description: '每天坚持的小行动', icon: Repeat, category: '通用' },
-  { id: 'focus', name: '专注', description: '番茄钟与深度工作', icon: ClockCountdown, category: '通用' },
-  { id: 'countdown', name: '重要倒计时', description: '考试、DDL 与关键节点', icon: ListStar, category: '通用' },
-  { id: 'goals', name: '目标', description: '阶段目标与复盘', icon: Target, category: '通用' },
-  { id: 'files', name: '资料库', description: '链接、素材与文件入口', icon: FolderSimple, category: '通用' },
+  { id: 'calendar', name: '日历', description: '课程、会议与截止日', icon: CalendarBlank, category: '通用', defaultSize: 'small' },
+  { id: 'weather', name: '天气', description: '城市天气与未来三天', icon: CloudSun, category: '通用', defaultSize: 'small' },
+  { id: 'tasks', name: '待办', description: '今天要做什么', icon: CheckSquare, category: '通用', defaultSize: 'medium' },
+  { id: 'quick-note', name: '快速记录', description: '灵感与随手记', icon: NotePencil, category: '通用', defaultSize: 'medium' },
+  { id: 'habits', name: '习惯打卡', description: '每天坚持的小行动', icon: Repeat, category: '通用', defaultSize: 'medium' },
+  { id: 'focus', name: '专注', description: '番茄钟与深度工作', icon: ClockCountdown, category: '通用', defaultSize: 'small' },
+  { id: 'countdown', name: '重要倒计时', description: '考试、DDL 与关键节点', icon: ListStar, category: '通用', defaultSize: 'medium' },
+  { id: 'goals', name: '目标', description: '阶段目标与复盘', icon: Target, category: '通用', defaultSize: 'medium' },
+  { id: 'files', name: '资料库', description: '链接、素材与文件入口', icon: FolderSimple, category: '通用', defaultSize: 'wide' },
   { id: 'review', name: '复盘', description: '周报与学习复盘', icon: ChartLineUp, category: '成长' },
   { id: 'learning', name: '学习计划', description: '课程、考证与阅读', icon: BookOpenText, category: '成长' },
   { id: 'schedule', name: '课程／日程表', description: '今天和本周的具体安排', icon: RowsPlusBottom, category: '成长' },
@@ -56,7 +58,7 @@ export const moduleCatalog = [
   { id: 'settings', name: '同步与设置', description: '主题、备份和 GitHub', icon: GearSix, category: '系统' },
 ]
 
-export const sharedModuleIds = ['calendar', 'tasks', 'quick-note', 'habits', 'profile', 'appearance', 'sync', 'settings']
+export const sharedModuleIds = ['calendar', 'weather', 'tasks', 'quick-note', 'habits', 'profile', 'appearance', 'sync', 'settings']
 
 export function findModule(id) {
   return moduleCatalog.find((module) => module.id === id)

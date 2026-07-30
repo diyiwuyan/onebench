@@ -5,7 +5,7 @@ description: Create, customize, deploy, restore, or improve a user-owned OneBenc
 
 # OneBench Deploy
 
-Turn one sentence into the actual OneBench product, not a generic dashboard. Deliver a self-contained HTML file and desktop shortcut first. When phone or multi-device use is requested, keep that local copy and add a user-owned online PWA. Demo, local HTML, PWA, and browser new-tab extension must come from the same OneBench runtime. Preserve the user's name, avatar choice, role theme, module choices, and data boundary across every output.
+Turn one sentence into the actual OneBench product, not a generic dashboard. Deliver a self-contained HTML file and desktop shortcut first. When phone or multi-device use is requested, keep that local copy and add a user-owned online PWA. Demo, local HTML, PWA, and browser new-tab extension must come from the same OneBench runtime. Preserve the user's name, avatar choice, role theme, module choices, widget order, widget sizes, and data boundary across every output.
 
 ## Beginner mode
 
@@ -35,9 +35,12 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
 4. Open the generated HTML in a browser and verify:
    - the selected role title and realistic starter content are visible;
    - the role-linked theme is active and the user can change name and avatar;
-   - shared modules plus role-specific modules are present;
+   - the left rail contains app entrances while the homepage contains only the role's useful first-screen widgets;
+   - shared calendar, cached weather, tasks and role-specific modules are present;
+   - widget edit mode can reorder cards, change sizes, move a widget to the sidebar, and preserve the layout after reload;
    - adding and completing a task persists after reload;
-   - a role control works, such as starting the focus timer or updating a study goal;
+   - starter data is identified as role-pack sample content, and every visible item can be edited or removed from its module editor;
+   - a role control works, such as starting the focus timer, updating a study goal, editing a learning plan, or refreshing weather;
    - no required script, font, image, or stylesheet depends on the network.
 5. Do not hand off an empty shell, English module IDs, placeholder cards, a landing page, or a second UI invented outside OneBench. Explain local data only if needed.
 
@@ -46,7 +49,7 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
 1. Read `docs/OWNERSHIP.md`. Derive the closest pack, required modules, and concise prompt. Ask only when the target role, GitHub account, repository visibility, or data boundary materially changes the workspace.
 2. If the user does not already have an owned repo, create `用户账号/onebench-名称` from the `diyiwuyan/onebench` template. If template creation is unavailable, clone the full source into a new user-owned repository. Never create a `gh-pages`-only repository as the user's project.
 3. In that repository, run `node scripts/create-owned-workspace.mjs --owner 用户名 --repo 仓库名 --pack 模板ID --prompt 用户需求`. Commit `workspace.json` and `.onebench/ownership.json`; add `upstream` pointing to `https://github.com/diyiwuyan/onebench.git`.
-4. Commit and push the full source. Wait for **Deploy user-owned workbench** to succeed, then open `https://用户名.github.io/仓库名/`. Repeat the local checks at desktop and mobile widths, then install it to the phone home screen. Do not claim deployment before this succeeds.
+4. Commit and push the full source. Wait for **Deploy user-owned workbench** to succeed, then open `https://用户名.github.io/仓库名/`. Repeat the local checks at desktop and mobile widths, including widget order and content persistence, then install it to the phone home screen. Do not claim deployment before this succeeds.
 5. Explain content sync only as an explicit opt-in: use a separate private repository, enable “同步待办和备忘录内容”, and create a Fine-grained token limited to that private repository's Contents read/write permission. Do not store that token in the source repository.
 6. Run the full verification gate below. Use `npm run build:extension` and verify the generated manifest when browser new-tab delivery is requested.
 
@@ -58,7 +61,7 @@ Run `npm run validate:templates && npm run validate:modules && npm run validate:
 
 - Refresh the metadata catalog with `npm run update:registry`. This must never execute remote code in the browser.
 - For an upstream update, fetch the `upstream` remote, review the pinned change, merge it into the user's repository, run the verification commands, and push. Preserve the user's `workspace.json` and local-data boundary.
-- For a community template or module, follow `docs/COMMUNITY.md`. Require fixed source repository, path, ref, and declared permissions. Review and merge source code before enabling a module; never install arbitrary remote JavaScript dynamically.
+- For a community contribution, classify it as a career pack, layout template, theme pack, module bundle, or individual module. Follow `docs/TEMPLATE-SUBMISSION.md` and `docs/COMMUNITY.md`. Require fixed source repository, path, ref, and declared permissions. Review and merge source code before enabling a module; never install arbitrary remote JavaScript dynamically.
 - Treat the built-in registry as an offline snapshot. “联网检查更新” may refresh metadata only; installing new executable code still requires a pinned-source review, merge, and full verification.
 - Build the optional Chrome/Edge start-page edition with `npm run build:extension`; load only the generated `dist/extension` folder. Tell the user to open `chrome://extensions` or `edge://extensions`, enable developer mode, and load that folder. Read `docs/BROWSER-EXTENSION.md` for the user-facing steps.
 
@@ -67,6 +70,9 @@ Run `npm run validate:templates && npm run validate:modules && npm run validate:
 - Keep the app local-first. Upload daily content only after explicit opt-in to a separate private data repository; never upload credentials.
 - Treat uploaded avatar photos as local daily content. Include them in an encrypted backup or private content sync only after explicit opt-in.
 - Use only registered module IDs. Add a new module through the module manifest before referencing it in a pack.
+- Treat role content as editable first-use seed data. Never hard-code a plan, habit, goal, link, or status that the user cannot edit or delete.
+- Keep calendar and weather as shared widgets. Weather must use an explicit public source, cache the last successful result locally, and leave the offline workbench usable when refresh fails.
+- Do not flatten every installed module onto the homepage. Use the left rail for application entrances and persist homepage placement, order, and size in the workspace configuration.
 - For a new role template, update the template pack and shared runtime; do not hard-code a separate standalone dashboard.
 - If deployment is requested, keep the build static and preserve the PWA manifest and service worker.
 - Do not say “permanent”, “automatically updated”, or “already deployed” without evidence. The only acceptable long-term handoff is a user-owned source repository plus a verified deployment.

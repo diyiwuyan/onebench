@@ -2,6 +2,7 @@
   "format": "onebench-module-manifest/v1",
   "modules": [
     { "id": "calendar", "name": "日历", "category": "通用", "dataBoundary": "local" },
+    { "id": "weather", "name": "天气", "category": "通用", "dataBoundary": "network-cached", "permissions": ["open-meteo"] },
     { "id": "tasks", "name": "待办", "category": "通用", "dataBoundary": "local" },
     { "id": "quick-note", "name": "快速记录", "category": "通用", "dataBoundary": "local" },
     { "id": "habits", "name": "习惯打卡", "category": "通用", "dataBoundary": "local" },

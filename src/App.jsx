@@ -1,5 +1,21 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import {
+  closestCenter,
+  DndContext,
+  KeyboardSensor,
+  MouseSensor,
+  TouchSensor,
+  useSensor,
+  useSensors,
+} from '@dnd-kit/core'
+import {
+  rectSortingStrategy,
+  SortableContext,
+  sortableKeyboardCoordinates,
+  useSortable,
+} from '@dnd-kit/sortable'
+import { CSS } from '@dnd-kit/utilities'
+import {
   AddressBook,
   ArrowClockwise,
   ArrowRight,
@@ -8,12 +24,14 @@ import {
   Books,
   Briefcase,
   CalendarBlank,
+  CalendarDots,
   ChartLineUp,
   Check,
   CheckCircle,
   ClockCountdown,
   CloudArrowDown,
   CloudArrowUp,
+  CloudSun,
   DeviceMobile,
   DownloadSimple,
   FolderSimple,
@@ -22,20 +40,27 @@ import {
   House,
   Kanban,
   ListChecks,
+  ListDashes,
   LockKey,
+  MapPin,
+  PencilSimple,
   NotePencil,
   Palette,
   Pause,
   Play,
   Plus,
   Repeat,
+  SidebarSimple,
   SlidersHorizontal,
   Sparkle,
   SquaresFour,
   StackSimple,
   Student,
   Target,
+  Trash,
   UsersThree,
+  ArrowsOutSimple,
+  DotsSixVertical,
   X,
 } from '@phosphor-icons/react'
 import morningArt from './assets/workbench-morning.webp'
@@ -57,8 +82,10 @@ import {
   createWorkspace,
   loadWorkspace,
   normalizeWorkspace,
+  reorderHomeModules,
   saveWorkspace,
   toggleModule,
+  updateModuleLayout,
 } from './lib/workspace'
 import './styles.css'
 
@@ -119,7 +146,8 @@ function greeting(date) {
 }
 
 function daysLeft(value) {
-  return Math.max(0, Math.ceil((new Date(value).getTime() - Date.now()) / 86400000))
+  const time = new Date(value).getTime()
+  return Number.isFinite(time) ? Math.max(0, Math.ceil((time - Date.now()) / 86400000)) : 0
 }
 
 function formatTimer(seconds) {
@@ -137,16 +165,93 @@ function todayWeek() {
   })
 }
 
-function Card({ id, title, subtitle, icon: Icon, className = '', children }) {
+function Card({ id, title, subtitle, icon: Icon, className = '', children, actions }) {
   return (
     <article className={`module-card ${className}`} data-module={id}>
       <header className="module-head">
         <span className="module-icon"><Icon weight="duotone" /></span>
         <div><h2>{title}</h2>{subtitle && <p>{subtitle}</p>}</div>
+        {actions && <aside className="module-actions">{actions}</aside>}
       </header>
       {children}
     </article>
   )
+}
+
+function SortableWidget({ module, editMode, onEdit, onResize, onMoveToSidebar, children }) {
+  const { attributes, listeners, setNodeRef, transform, transition, isDragging } = useSortable({
+    id: module.id,
+    disabled: !editMode,
+  })
+  const style = { transform: CSS.Transform.toString(transform), transition }
+  return (
+    <div
+      ref={setNodeRef}
+      style={style}
+      className={`widget-slot widget-${module.size} ${editMode ? 'editing' : ''} ${isDragging ? 'dragging' : ''}`}
+      data-widget-id={module.id}
+    >
+      {children({
+        actions: (
+          <>
+            {editMode && <button className="drag-handle" type="button" aria-label="拖拽调整位置" {...attributes} {...listeners}><DotsSixVertical weight="bold" /></button>}
+            <button type="button" onClick={() => onEdit(module.id)} aria-label={`编辑${findModule(module.id)?.name || '模块'}`}><PencilSimple weight="bold" /></button>
+            {editMode && <button type="button" onClick={() => onResize(module.id)} aria-label="切换小组件尺寸"><ArrowsOutSimple weight="bold" /></button>}
+            {editMode && <button type="button" onClick={() => onMoveToSidebar(module.id)} aria-label="移到侧边栏"><SidebarSimple weight="bold" /></button>}
+          </>
+        ),
+      })}
+    </div>
+  )
+}
+
+function monthCells(date) {
+  const year = date.getFullYear()
+  const month = date.getMonth()
+  const first = new Date(year, month, 1)
+  const offset = (first.getDay() + 6) % 7
+  const days = new Date(year, month + 1, 0).getDate()
+  return Array.from({ length: 42 }, (_, index) => {
+    const day = index - offset + 1
+    return day > 0 && day <= days ? day : null
+  })
+}
+
+function weatherLabel(code) {
+  if (code === 0) return '晴朗'
+  if ([1, 2, 3].includes(code)) return '多云'
+  if ([45, 48].includes(code)) return '有雾'
+  if ([51, 53, 55, 61, 63, 65, 80, 81, 82].includes(code)) return '有雨'
+  if ([71, 73, 75, 85, 86].includes(code)) return '有雪'
+  if ([95, 96, 99].includes(code)) return '雷雨'
+  return '天气变化'
+}
+
+const editorSpecs = {
+  tasks: { key: 'tasks', fields: [{ key: 'title', label: '待办内容' }] },
+  calendar: { key: 'schedule', fields: [{ key: 'time', label: '时间', type: 'time' }, { key: 'title', label: '日程' }, { key: 'meta', label: '地点／说明' }] },
+  schedule: { key: 'schedule', fields: [{ key: 'time', label: '时间', type: 'time' }, { key: 'title', label: '安排' }, { key: 'meta', label: '说明' }] },
+  habits: { key: 'habits', fields: [{ key: 'name', label: '习惯名称' }] },
+  countdown: { key: 'milestones', fields: [{ key: 'label', label: '节点' }, { key: 'date', label: '日期', type: 'date' }] },
+  goals: { key: 'goals', fields: [{ key: 'title', label: '目标' }, { key: 'progress', label: '进度', type: 'number' }] },
+  files: { key: 'links', fields: [{ key: 'title', label: '名称' }, { key: 'meta', label: '说明' }, { key: 'url', label: '链接', type: 'url' }] },
+  learning: { key: 'learning', fields: [{ key: 'title', label: '科目／计划' }, { key: 'note', label: '下一步' }, { key: 'progress', label: '进度', type: 'number' }] },
+  'exam-practice': { key: 'practice', fields: [{ key: 'title', label: '项目' }, { key: 'value', label: '数值' }, { key: 'meta', label: '说明' }, { key: 'progress', label: '进度', type: 'number' }] },
+  assignments: { key: 'assignments', fields: [{ key: 'title', label: '作业' }, { key: 'meta', label: '截止／说明' }, { key: 'progress', label: '进度', type: 'number' }] },
+  'lesson-plans': { key: 'lessonPlans', fields: [{ key: 'title', label: '课题' }, { key: 'meta', label: '班级／说明' }, { key: 'progress', label: '进度', type: 'number' }] },
+  classroom: { key: 'classroom', fields: [{ key: 'title', label: '事项' }, { key: 'meta', label: '说明' }, { key: 'progress', label: '进度', type: 'number' }] },
+  projects: { key: 'projects', fields: [{ key: 'title', label: '项目' }, { key: 'meta', label: '节点／阻塞' }, { key: 'progress', label: '进度', type: 'number' }] },
+  clients: { key: 'clients', fields: [{ key: 'title', label: '客户／交付' }, { key: 'meta', label: '说明' }, { key: 'progress', label: '进度', type: 'number' }] },
+  team: { key: 'team', fields: [{ key: 'title', label: '成员／事项' }, { key: 'meta', label: '说明' }, { key: 'progress', label: '进度', type: 'number' }] },
+  reading: { key: 'reading', fields: [{ key: 'title', label: '书名' }, { key: 'meta', label: '进度／备注' }] },
+  'content-pipeline': { key: 'pipeline', fields: [{ key: 'title', label: '阶段' }, { key: 'value', label: '数量', type: 'number' }, { key: 'meta', label: '说明' }] },
+  notices: { key: 'notices', fields: [{ key: 'title', label: '公告／节点' }, { key: 'meta', label: '说明' }] },
+  inbox: { key: 'inbox', fields: [{ key: 'title', label: '灵感／需求' }, { key: 'meta', label: '来源／说明' }] },
+  'content-calendar': { key: 'contentCalendar', fields: [{ key: 'title', label: '排期' }, { key: 'meta', label: '平台／时间' }, { key: 'status', label: '状态' }] },
+  meetings: { key: 'meetings', fields: [{ key: 'title', label: '会议' }, { key: 'meta', label: '时间／跟进' }] },
+  decisions: { key: 'decisions', fields: [{ key: 'title', label: '决定' }, { key: 'meta', label: '依据／复查' }] },
+  finance: { key: 'finance', fields: [{ key: 'title', label: '项目' }, { key: 'value', label: '数值' }, { key: 'meta', label: '说明' }] },
+  wellbeing: { key: 'wellbeing', fields: [{ key: 'title', label: '指标' }, { key: 'value', label: '状态' }, { key: 'meta', label: '说明' }] },
 }
 
 function ProgressRow({ item }) {
@@ -216,6 +321,8 @@ export function App() {
   const [backupPassphrase, setBackupPassphrase] = useState('')
   const [backupStatus, setBackupStatus] = useState('')
   const [installPrompt, setInstallPrompt] = useState(null)
+  const [editMode, setEditMode] = useState(false)
+  const [weatherStatus, setWeatherStatus] = useState('')
   const drawerRef = useRef(null)
   const avatarInputRef = useRef(null)
   const backupInputRef = useRef(null)
@@ -227,6 +334,14 @@ export function App() {
   const completedTasks = workspaceData.tasks.filter((item) => item.done).length
   const completedHabits = workspaceData.habits.filter((item) => item.done).length
   const isStandalone = Boolean(embeddedSeed)
+  const homeModules = useMemo(() => workspace.modules.filter((module) => module.enabled && module.placement === 'home').sort((a, b) => a.order - b.order), [workspace.modules])
+  const editorModuleId = panel?.startsWith('module:') ? panel.slice(7) : ''
+  const editorSpec = editorSpecs[editorModuleId]
+  const sensors = useSensors(
+    useSensor(MouseSensor, { activationConstraint: { distance: 8 } }),
+    useSensor(TouchSensor, { activationConstraint: { delay: 220, tolerance: 8 } }),
+    useSensor(KeyboardSensor, { coordinateGetter: sortableKeyboardCoordinates }),
+  )
 
   useEffect(() => {
     saveWorkspace(workspace)
@@ -332,6 +447,88 @@ export function App() {
 
   function updateGoal(index, value) {
     updateData((data) => ({ ...data, goals: data.goals.map((item, itemIndex) => itemIndex === index ? { ...item, progress: value } : item) }))
+  }
+
+  function editModule(moduleId) {
+    setPanel(`module:${moduleId}`)
+  }
+
+  function resizeModule(moduleId) {
+    const current = workspace.modules.find((module) => module.id === moduleId)
+    const sizes = ['small', 'medium', 'wide']
+    const nextSize = sizes[(sizes.indexOf(current?.size) + 1) % sizes.length]
+    persistWorkspace(updateModuleLayout(workspace, moduleId, { size: nextSize }))
+    setToast(`小组件已切换为${nextSize === 'small' ? '小号' : nextSize === 'medium' ? '中号' : '大号'}。`)
+  }
+
+  function moveModule(moduleId, placement) {
+    persistWorkspace(updateModuleLayout(workspace, moduleId, { placement }))
+    setToast(placement === 'home' ? '已添加到首页，可以继续拖拽调整位置。' : '已移到左侧应用区，数据不会删除。')
+  }
+
+  function handleDragEnd({ active, over }) {
+    if (!over || active.id === over.id) return
+    persistWorkspace(reorderHomeModules(workspace, active.id, over.id))
+  }
+
+  function updateArrayItem(spec, index, field, value) {
+    updateData((data) => ({
+      ...data,
+      [spec.key]: data[spec.key].map((item, itemIndex) => itemIndex === index ? { ...item, [field]: value } : item),
+    }))
+  }
+
+  function addArrayItem(spec) {
+    const item = { id: crypto.randomUUID() }
+    spec.fields.forEach((field) => {
+      item[field.key] = field.type === 'number' ? 0 : field.type === 'date' ? new Date().toISOString().slice(0, 10) : ''
+    })
+    if (spec.key === 'tasks' || spec.key === 'habits') item.done = false
+    if (spec.key === 'milestones') item.tone = 'sage'
+    updateData((data) => ({ ...data, [spec.key]: [...(data[spec.key] || []), item] }))
+  }
+
+  function deleteArrayItem(spec, index) {
+    updateData((data) => ({ ...data, [spec.key]: data[spec.key].filter((_, itemIndex) => itemIndex !== index) }))
+  }
+
+  async function refreshWeather(city = workspaceData.weather.city) {
+    const nextCity = city.trim()
+    if (!nextCity) {
+      setWeatherStatus('请先输入城市。')
+      return
+    }
+    setWeatherStatus('正在更新天气…')
+    try {
+      const geoResponse = await fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(nextCity)}&count=1&language=zh&format=json`)
+      if (!geoResponse.ok) throw new Error('城市查询失败')
+      const geo = await geoResponse.json()
+      const place = geo.results?.[0]
+      if (!place) throw new Error('没有找到这个城市')
+      const forecastResponse = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${place.latitude}&longitude=${place.longitude}&current=temperature_2m,apparent_temperature,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=auto&forecast_days=3`)
+      if (!forecastResponse.ok) throw new Error('天气更新失败')
+      const forecast = await forecastResponse.json()
+      updateData((data) => ({
+        ...data,
+        weather: {
+          city: place.name,
+          latitude: place.latitude,
+          longitude: place.longitude,
+          temperature: Math.round(forecast.current.temperature_2m),
+          apparentTemperature: Math.round(forecast.current.apparent_temperature),
+          weatherCode: forecast.current.weather_code,
+          high: Math.round(forecast.daily.temperature_2m_max[0]),
+          low: Math.round(forecast.daily.temperature_2m_min[0]),
+          dailyHigh: forecast.daily.temperature_2m_max.map(Math.round),
+          dailyLow: forecast.daily.temperature_2m_min.map(Math.round),
+          updatedAt: new Date().toISOString(),
+          source: 'Open-Meteo',
+        },
+      }))
+      setWeatherStatus('已更新，离线时会继续显示最近一次结果。')
+    } catch (error) {
+      setWeatherStatus(`${error.message || '天气更新失败'}，已保留本地缓存。`)
+    }
   }
 
   function setFocusPreset(minutes) {
@@ -512,9 +709,106 @@ export function App() {
       setMarketStatus('这个条目需要先由维护者审阅源码，浏览器不会直接执行第三方代码。')
       return
     }
-    const ids = new Set([...activeModuleIds, ...required])
-    persistWorkspace({ ...workspace, modules: [...ids].map((id) => ({ id, enabled: true })) })
+    const missing = required.filter((id) => !activeModuleIds.has(id))
+    let nextWorkspace = workspace
+    missing.forEach((id) => { nextWorkspace = toggleModule(nextWorkspace, id) })
+    persistWorkspace(nextWorkspace)
     setMarketStatus(`已添加「${entry.name}」所需的模块组合。`)
+  }
+
+  function widget(module, cardProps, content) {
+    return (
+      <SortableWidget
+        key={module.id}
+        module={module}
+        editMode={editMode}
+        onEdit={editModule}
+        onResize={resizeModule}
+        onMoveToSidebar={(id) => moveModule(id, 'sidebar')}
+      >
+        {({ actions }) => <Card id={module.id} {...cardProps} actions={actions}>{content}</Card>}
+      </SortableWidget>
+    )
+  }
+
+  function renderWidget(module) {
+    const id = module.id
+    if (id === 'tasks') return widget(module, { title: '今日任务', subtitle: '先完成最重要的三件事', icon: ListChecks }, <>
+      <div className="task-list">
+        {workspaceData.tasks.map((item) => <label key={item.id} className={item.done ? 'done' : ''}><input type="checkbox" checked={item.done} onChange={() => toggleTask(item.id)} /><span className="fake-check"><Check weight="bold" /></span><span>{item.title}</span></label>)}
+      </div>
+      <form className="add-task" onSubmit={addTask}><input value={newTask} onChange={(event) => setNewTask(event.target.value)} placeholder="再加一件今天要做的事" /><button type="submit" aria-label="添加任务"><Plus weight="bold" /></button></form>
+    </>)
+
+    if (id === 'calendar') {
+      const cells = monthCells(now)
+      return widget(module, { title: `${now.getMonth() + 1} 月日历`, subtitle: '点击编辑日程与截止日', icon: CalendarBlank }, <>
+        <div className="mini-calendar-labels">{weekLabels.map((label) => <span key={label}>{label}</span>)}</div>
+        <div className="mini-calendar">{cells.map((day, index) => <span className={day === now.getDate() ? 'today' : ''} key={`${day}-${index}`}>{day || ''}</span>)}</div>
+        <button className="next-event next-event-button" type="button" onClick={() => editModule('calendar')}><span>{workspaceData.schedule[0]?.time || '今天'}</span><div><strong>{workspaceData.schedule[0]?.title || '安排第一件事'}</strong><small>{workspaceData.schedule[0]?.meta || '点击添加日程'}</small></div><ArrowRight /></button>
+      </>)
+    }
+
+    if (id === 'weather') return widget(module, { title: workspaceData.weather.city || '天气', subtitle: workspaceData.weather.updatedAt ? `更新于 ${new Date(workspaceData.weather.updatedAt).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}` : '点击刷新真实天气', icon: CloudSun }, <>
+      <div className="weather-main"><div><strong>{workspaceData.weather.temperature}°</strong><span>{weatherLabel(workspaceData.weather.weatherCode)}</span></div><CloudSun weight="duotone" /></div>
+      <div className="weather-meta"><span>体感 {workspaceData.weather.apparentTemperature}°</span><span>最高 {workspaceData.weather.high}°</span><span>最低 {workspaceData.weather.low}°</span></div>
+      <button className="weather-refresh" type="button" onClick={() => refreshWeather()}><MapPin weight="fill" /> {workspaceData.weather.city} · 刷新</button>
+    </>)
+
+    if (id === 'focus') return widget(module, { title: '番茄专注', subtitle: workspaceData.focus.subject, icon: ClockCountdown }, <>
+      <div className="focus-presets">{[25, 45, 60].map((minutes) => <button className={workspaceData.focus.minutes === minutes ? 'selected' : ''} type="button" key={minutes} onClick={() => setFocusPreset(minutes)}>{minutes} 分钟</button>)}</div>
+      <strong className="timer">{formatTimer(timerSeconds)}</strong>
+      <div className="focus-actions"><button className="primary-button" type="button" onClick={() => { if (timerSeconds === 0) setTimerSeconds(workspaceData.focus.minutes * 60); setTimerRunning((value) => !value) }}>{timerRunning ? <Pause weight="fill" /> : <Play weight="fill" />}{timerRunning ? '暂停' : '开始'}</button><button className="secondary-button" type="button" onClick={() => { setTimerRunning(false); setTimerSeconds(workspaceData.focus.minutes * 60) }}>重置</button></div>
+    </>)
+
+    if (id === 'countdown') return widget(module, { title: '重要倒计时', subtitle: '每个日期都可以修改', icon: Target }, <div className="countdown-grid">{workspaceData.milestones.map((item) => <div className={item.tone} key={`${item.label}-${item.date}`}><span>{item.label}</span><strong>{daysLeft(item.date)}</strong><small>天</small></div>)}</div>)
+    if (id === 'schedule') return widget(module, { title: '今天的安排', subtitle: '按时间走，不被临时事情带跑', icon: CalendarDots }, <div className="timeline">{workspaceData.schedule.map((item) => <div key={`${item.time}-${item.title}`}><time>{item.time}</time><span></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
+    if (id === 'learning') return widget(module, { title: pack.id.includes('exam') ? '科目进度' : '学习计划', subtitle: '示例内容可改、可删、可新增', icon: BookOpenText }, <div className="progress-list">{workspaceData.learning.map((item) => <ProgressRow item={item} key={item.title} />)}</div>)
+    if (id === 'exam-practice') return widget(module, { title: '刷题与错题', subtitle: '题量不是终点，复盘才是', icon: Student }, <div className="practice-grid">{workspaceData.practice.map((item) => <div key={item.title}><span>{item.title}</span><strong>{item.value}</strong><small>{item.meta}</small><progress max="100" value={item.progress}>{item.progress}%</progress></div>)}</div>)
+    if (id === 'habits') return widget(module, { title: '今日习惯', subtitle: `${completedHabits}/${workspaceData.habits.length} 已完成`, icon: Repeat }, <div className="habit-list">{workspaceData.habits.map((item) => <button className={item.done ? 'done' : ''} type="button" key={item.id} onClick={() => toggleHabit(item.id)}><span>{item.done ? <Check weight="bold" /> : null}</span>{item.name}</button>)}</div>)
+    if (id === 'goals') return widget(module, { title: '阶段目标', subtitle: '目标名称和进度都能修改', icon: Target }, <div className="goal-list">{workspaceData.goals.map((item, index) => <div key={item.title}><div><strong>{item.title}</strong><span>{item.progress}%</span></div><input type="range" min="0" max="100" value={item.progress} onChange={(event) => updateGoal(index, Number(event.target.value))} /></div>)}</div>)
+    if (id === 'quick-note') return widget(module, { title: '快速记录', subtitle: '灵感、提醒和临时想法', icon: NotePencil }, <textarea className="quick-note" value={workspaceData.quickNote} onChange={(event) => updateData({ ...workspaceData, quickNote: event.target.value })} placeholder="现在脑子里最不想忘记的是什么？" />)
+    if (id === 'analytics') return widget(module, { title: '本周投入趋势', subtitle: '点击编辑每天的投入比例', icon: ChartLineUp }, <div className="trend-bars">{workspaceData.week.map((value, index) => <div key={weekLabels[index]}><span style={{ height: `${Math.max(16, value)}%` }}></span><small>{weekLabels[index]}</small></div>)}</div>)
+    if (id === 'review') return widget(module, { title: '今日复盘', subtitle: '三句话收好今天', icon: ChartLineUp }, <div className="review-fields"><label>今天做得好的<input value={workspaceData.review.win} onChange={(event) => updateData({ ...workspaceData, review: { ...workspaceData.review, win: event.target.value } })} placeholder="哪怕只是一件小事" /></label><label>现在的卡点<input value={workspaceData.review.blocker} onChange={(event) => updateData({ ...workspaceData, review: { ...workspaceData.review, blocker: event.target.value } })} placeholder="把问题说清楚" /></label><label>明天第一步<input value={workspaceData.review.next} onChange={(event) => updateData({ ...workspaceData, review: { ...workspaceData.review, next: event.target.value } })} placeholder="足够小、可以立刻开始" /></label></div>)
+    if (id === 'files') return widget(module, { title: '资料与快捷入口', subtitle: '常用内容一处打开', icon: FolderSimple }, <div className="link-grid">{workspaceData.links.map((item) => <button type="button" key={item.title} onClick={() => item.url ? window.open(item.url, '_blank', 'noopener,noreferrer') : editModule('files')}><FolderSimple weight="duotone" /><span><strong>{item.title}</strong><small>{item.meta}</small></span><ArrowRight /></button>)}</div>)
+
+    const progressGroups = {
+      assignments: ['作业与 DDL', '重要截止日不再散落', ListChecks, workspaceData.assignments],
+      'lesson-plans': ['备课台', '课题、课件、学情和反思', BookOpenText, workspaceData.lessonPlans],
+      projects: ['项目进度', '进度、节点与阻塞', Kanban, workspaceData.projects],
+      classroom: ['教学与班级', '备课、批改与班务', GraduationCap, workspaceData.classroom],
+      clients: ['客户与交付', '所有承诺都看得见', AddressBook, workspaceData.clients],
+      team: ['团队节奏', '1:1、进展与需要帮助的人', UsersThree, workspaceData.team],
+    }
+    if (progressGroups[id]) {
+      const [title, subtitle, Icon, items] = progressGroups[id]
+      return widget(module, { title, subtitle, icon: Icon }, <div className="progress-list">{items.map((item) => <ProgressRow item={item} key={item.title} />)}</div>)
+    }
+
+    const detailGroups = {
+      notices: ['公告与报名', '关键材料和时间节点', NotePencil, workspaceData.notices],
+      inbox: ['灵感／需求收件箱', '先收下来，再决定放到哪里', StackSimple, workspaceData.inbox],
+      'content-calendar': ['发布日历', '平台、主题和发布时间', CalendarBlank, workspaceData.contentCalendar],
+      meetings: ['会议与沟通', '会前准备，会后跟进', UsersThree, workspaceData.meetings],
+      decisions: ['决策记录', '判断依据与复查时间', Target, workspaceData.decisions],
+    }
+    if (detailGroups[id]) {
+      const [title, subtitle, Icon, items] = detailGroups[id]
+      return widget(module, { title, subtitle, icon: Icon }, <DetailList items={items} />)
+    }
+
+    const metricGroups = {
+      wellbeing: ['身心状态', '学习之外，也照顾自己的节奏', Repeat, workspaceData.wellbeing],
+      finance: ['收入与回款', '收入、发票和未完成的承诺', ChartLineUp, workspaceData.finance],
+    }
+    if (metricGroups[id]) {
+      const [title, subtitle, Icon, items] = metricGroups[id]
+      return widget(module, { title, subtitle, icon: Icon }, <MetricTiles items={items} />)
+    }
+
+    if (id === 'content-pipeline') return widget(module, { title: '内容流水线', subtitle: '从灵感到发布', icon: Kanban }, <div className="pipeline-grid">{workspaceData.pipeline.map((item) => <div key={item.title}><span>{item.title}</span><strong>{item.value}</strong><small>{item.meta}</small></div>)}</div>)
+    if (id === 'reading') return widget(module, { title: '阅读书架', subtitle: '在读与待读', icon: Books }, <div className="book-list">{workspaceData.reading.map((item) => <div key={item.title}><span><Books weight="duotone" /></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
+    return null
   }
 
   const summary = [
@@ -530,11 +824,15 @@ export function App() {
         <button className="brand-mark" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label="回到顶部"><StackSimple weight="fill" /></button>
         <nav>
           <button className="active" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><House weight="fill" /><span>首页</span></button>
-          <button type="button" onClick={() => setPanel('studio')}><SlidersHorizontal weight="duotone" /><span>定制</span></button>
-          <button type="button" onClick={() => setPanel('market')}><SquaresFour weight="duotone" /><span>模块</span></button>
-          <button type="button" onClick={() => setPanel('sync')}><CloudArrowUp weight="duotone" /><span>同步</span></button>
+          {['calendar', 'tasks', 'quick-note', 'goals'].filter((id) => activeModuleIds.has(id)).map((id) => {
+            const item = findModule(id)
+            const Icon = item.icon
+            return <button type="button" key={id} onClick={() => editModule(id)}><Icon weight="duotone" /><span>{item.name}</span></button>
+          })}
+          <button type="button" onClick={() => setPanel('apps')}><ListDashes weight="duotone" /><span>全部</span></button>
+          <button type="button" onClick={() => setPanel('market')}><SquaresFour weight="duotone" /><span>市场</span></button>
         </nav>
-        <button className="rail-settings" type="button" onClick={() => setPanel('help')} aria-label="打开帮助"><GearSix weight="duotone" /></button>
+        <button className="rail-settings" type="button" onClick={() => setPanel('studio')} aria-label="打开定制"><GearSix weight="duotone" /></button>
       </aside>
 
       <main className="workbench">
@@ -544,6 +842,7 @@ export function App() {
             <div><strong>{workspace.name}</strong><small>{workspace.profile?.displayName} · {pack.name} · {isStandalone ? '本地离线版' : '可操作演示'}</small></div>
           </div>
           <div className="top-actions">
+            <button className={`secondary-button ${editMode ? 'active-edit' : ''}`} type="button" onClick={() => setEditMode((value) => !value)}><SquaresFour weight="duotone" /> {editMode ? '完成编辑' : '编辑小组件'}</button>
             <button className="secondary-button" type="button" onClick={() => setPanel('studio')}><Palette weight="duotone" /> 换身份与主题</button>
             <button className="primary-button" type="button" onClick={downloadLocalWorkbench}><DownloadSimple weight="bold" /> 一键拥有</button>
           </div>
@@ -572,7 +871,23 @@ export function App() {
           ))}
         </section>
 
-        <section className="module-grid" aria-label={`${pack.name}工作台模块`}>
+        <div className="widget-canvas-head">
+          <div><p>我的首页</p><h2>{editMode ? '拖动卡片调整顺序，按钮可改尺寸或移到侧边栏' : '今天只看真正需要的内容'}</h2></div>
+          <button className="secondary-button" type="button" onClick={() => setEditMode((value) => !value)}>{editMode ? <Check weight="bold" /> : <SquaresFour weight="duotone" />}{editMode ? '保存布局' : '编辑小组件'}</button>
+        </div>
+        {homeModules.length ? (
+          <DndContext sensors={sensors} collisionDetection={closestCenter} onDragEnd={handleDragEnd}>
+            <SortableContext items={homeModules.map((module) => module.id)} strategy={rectSortingStrategy}>
+              <section className={`module-grid widget-canvas ${editMode ? 'is-editing' : ''}`} aria-label={`${pack.name}首页小组件`}>
+                {homeModules.map(renderWidget)}
+              </section>
+            </SortableContext>
+          </DndContext>
+        ) : (
+          <section className="empty-canvas"><SquaresFour weight="duotone" /><h2>首页还是空的</h2><p>从左侧“全部”或模块市场把常用组件放到首页。</p><button className="primary-button" type="button" onClick={() => setPanel('apps')}>选择小组件</button></section>
+        )}
+
+        {false && <section hidden className="module-grid" aria-label={`${pack.name}工作台模块`}>
           {activeModuleIds.has('tasks') && (
             <Card id="tasks" title="今日任务" subtitle="先完成最重要的三件事" icon={ListChecks} className="span-6">
               <div className="task-list">
@@ -764,7 +1079,7 @@ export function App() {
               <div className="book-list">{workspaceData.reading.map((item) => <div key={item.title}><span><Books weight="duotone" /></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>
             </Card>
           )}
-        </section>
+        </section>}
 
         <footer className="workbench-footer">
           <div><StackSimple weight="fill" /><span>OneBench</span></div>
@@ -775,9 +1090,9 @@ export function App() {
 
       <nav className="mobile-nav" aria-label="手机底部导航">
         <button className="active" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><House weight="fill" /><span>首页</span></button>
-        <button type="button" onClick={() => setPanel('studio')}><SlidersHorizontal weight="duotone" /><span>定制</span></button>
+        <button type="button" onClick={() => editModule('calendar')}><CalendarBlank weight="duotone" /><span>日历</span></button>
         <button className="mobile-add" type="button" onClick={() => document.querySelector('.add-task input')?.focus()} aria-label="添加任务"><Plus weight="bold" /></button>
-        <button type="button" onClick={() => setPanel('market')}><SquaresFour weight="duotone" /><span>模块</span></button>
+        <button type="button" onClick={() => setPanel('apps')}><ListDashes weight="duotone" /><span>应用</span></button>
         <button type="button" onClick={() => setPanel('help')}><GearSix weight="duotone" /><span>设置</span></button>
       </nav>
 
@@ -787,9 +1102,51 @@ export function App() {
         <div className="drawer-layer" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setPanel(null) }}>
           <section className="drawer" role="dialog" aria-modal="true" aria-label="工作台设置" tabIndex="-1" ref={drawerRef}>
             <header className="drawer-head">
-              <div><p>ONEBENCH</p><h2>{panel === 'studio' ? '换成更像你的工作台' : panel === 'market' ? '模块市场' : panel === 'sync' ? '多端同步' : '怎么使用'}</h2></div>
+              <div><p>ONEBENCH</p><h2>{panel === 'studio' ? '换成更像你的工作台' : panel === 'market' ? '模块与模板市场' : panel === 'apps' ? '我的全部应用' : panel === 'sync' ? '多端同步' : editorModuleId ? `编辑${findModule(editorModuleId)?.name || '模块'}` : '怎么使用'}</h2></div>
               <button type="button" onClick={() => setPanel(null)} aria-label="关闭"><X weight="bold" /></button>
             </header>
+
+            {panel === 'apps' && (
+              <div className="drawer-body">
+                <div className="simple-callout"><SidebarSimple weight="duotone" /><div><strong>侧边栏是应用入口，首页是小组件画布</strong><p>放到侧边栏不会删除数据；需要每天看见的内容，再添加到首页。</p></div></div>
+                <section><h3>已安装应用</h3><div className="app-library">{workspace.modules.filter((module) => findModule(module.id)?.category !== '系统').map((module) => { const item = findModule(module.id); const Icon = item.icon; return <article key={module.id}><button type="button" onClick={() => editModule(module.id)}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span><ArrowRight /></button><button className={module.placement === 'home' ? 'on-home' : ''} type="button" onClick={() => moveModule(module.id, module.placement === 'home' ? 'sidebar' : 'home')}>{module.placement === 'home' ? '移出首页' : '放到首页'}</button></article> })}</div></section>
+                <button className="secondary-button wide-button" type="button" onClick={() => setPanel('market')}><SquaresFour weight="duotone" /> 去模块市场添加更多</button>
+              </div>
+            )}
+
+            {editorModuleId && (
+              <div className="drawer-body">
+                <div className="seed-notice"><Sparkle weight="duotone" /><div><strong>这些内容是谁加的？</strong><p>职业包只在第一次提供示例，帮你快速上手。现在起每一条都属于你，可以修改、删除或新增。</p></div></div>
+                <div className="module-editor-toolbar">
+                  <button className="secondary-button" type="button" onClick={() => moveModule(editorModuleId, workspace.modules.find((module) => module.id === editorModuleId)?.placement === 'home' ? 'sidebar' : 'home')}>{workspace.modules.find((module) => module.id === editorModuleId)?.placement === 'home' ? <SidebarSimple /> : <SquaresFour />}{workspace.modules.find((module) => module.id === editorModuleId)?.placement === 'home' ? '只放侧边栏' : '添加到首页'}</button>
+                  <button className="secondary-button" type="button" onClick={() => resizeModule(editorModuleId)}><ArrowsOutSimple /> 切换尺寸</button>
+                </div>
+
+                {editorModuleId === 'weather' && (
+                  <section><h3>城市与天气缓存</h3><div className="weather-editor"><label>城市<input value={workspaceData.weather.city} onChange={(event) => updateData({ ...workspaceData, weather: { ...workspaceData.weather, city: event.target.value } })} placeholder="例如：杭州" /></label><button className="primary-button" type="button" onClick={() => refreshWeather()}><CloudSun /> 联网更新</button></div>{weatherStatus && <p className="sync-status">{weatherStatus}</p>}<p className="section-copy">更新使用 Open-Meteo；断网时仍显示最近一次缓存，不会影响其他模块。</p></section>
+                )}
+
+                {editorModuleId === 'quick-note' && (
+                  <section><h3>随手记</h3><textarea className="prompt-box note-editor" value={workspaceData.quickNote} onChange={(event) => updateData({ ...workspaceData, quickNote: event.target.value })} placeholder="写下不想忘记的事" /></section>
+                )}
+
+                {editorModuleId === 'focus' && (
+                  <section><h3>专注设置</h3><div className="editor-grid"><label>专注主题<input value={workspaceData.focus.subject} onChange={(event) => updateData({ ...workspaceData, focus: { ...workspaceData.focus, subject: event.target.value } })} /></label><label>分钟数<input type="number" min="1" max="180" value={workspaceData.focus.minutes} onChange={(event) => setFocusPreset(Number(event.target.value) || 25)} /></label></div></section>
+                )}
+
+                {editorModuleId === 'review' && (
+                  <section><h3>今天的复盘</h3><div className="editor-grid one-column"><label>做得好的<input value={workspaceData.review.win} onChange={(event) => updateData({ ...workspaceData, review: { ...workspaceData.review, win: event.target.value } })} /></label><label>卡点<input value={workspaceData.review.blocker} onChange={(event) => updateData({ ...workspaceData, review: { ...workspaceData.review, blocker: event.target.value } })} /></label><label>明天第一步<input value={workspaceData.review.next} onChange={(event) => updateData({ ...workspaceData, review: { ...workspaceData.review, next: event.target.value } })} /></label></div></section>
+                )}
+
+                {editorModuleId === 'analytics' && (
+                  <section><h3>本周每天投入</h3><div className="week-editor">{workspaceData.week.map((value, index) => <label key={weekLabels[index]}><span>{weekLabels[index]} · {value}%</span><input type="range" min="0" max="100" value={value} onChange={(event) => updateData({ ...workspaceData, week: workspaceData.week.map((item, itemIndex) => itemIndex === index ? Number(event.target.value) : item) })} /></label>)}</div></section>
+                )}
+
+                {editorSpec && (
+                  <section><div className="section-title-row"><div><h3>条目管理</h3><p>修改后会立即保存在当前设备。</p></div><button className="secondary-button compact-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></div><div className="entry-editor-list">{(workspaceData[editorSpec.key] || []).map((item, index) => <article key={item.id || `${editorSpec.key}-${index}`}><div className="editor-grid">{editorSpec.fields.map((field) => <label key={field.key}>{field.label}<input type={field.type || 'text'} min={field.type === 'number' ? 0 : undefined} max={field.type === 'number' && field.key === 'progress' ? 100 : undefined} value={field.type === 'date' ? String(item[field.key] || '').slice(0, 10) : (item[field.key] ?? '')} onChange={(event) => updateArrayItem(editorSpec, index, field.key, field.type === 'number' ? Number(event.target.value) : field.type === 'date' ? (event.target.value ? new Date(`${event.target.value}T12:00:00`).toISOString() : '') : event.target.value)} /></label>)}</div><button className="delete-entry" type="button" onClick={() => deleteArrayItem(editorSpec, index)}><Trash /> 删除</button></article>)}</div><button className="primary-button wide-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></section>
+                )}
+              </div>
+            )}
 
             {panel === 'studio' && (
               <div className="drawer-body">
@@ -811,7 +1168,7 @@ export function App() {
               <div className="drawer-body">
                 <div className="market-toolbar"><p>{marketStatus}</p><button className="secondary-button" type="button" onClick={refreshMarket}><ArrowClockwise /> 联网检查更新</button></div>
                 <section><h3>内置模块 · 离线可用</h3><div className="module-market">{moduleCatalog.filter((item) => item.category !== '系统').map((item) => { const Icon = item.icon; const enabled = activeModuleIds.has(item.id); return <button className={enabled ? 'enabled' : ''} type="button" key={item.id} onClick={() => persistWorkspace(toggleModule(workspace, item.id))}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span><i>{enabled ? '已添加' : '添加'}</i></button> })}</div></section>
-                <section><div className="section-title-row"><div><h3>社区模板与模块</h3><p>固定来源、声明权限、审阅后安装。</p></div><span>{marketEntries.length} 个条目</span></div><div className="community-list">{marketEntries.map((entry) => <article key={`${entry.kind}-${entry.id}`}><div><span className="community-kind">{entry.kind === 'template-pack' ? '模板组合' : '社区模块'}</span><strong>{entry.name}</strong><small>{entry.description}</small><em>{entry.permissions?.length ? `权限：${entry.permissions.join('、')}` : '无需额外权限'}</em></div><aside><a href={`https://github.com/${entry.source.repository}/blob/${entry.source.ref}/${entry.source.path}`} target="_blank" rel="noreferrer">看源码</a><button type="button" onClick={() => installMarketEntry(entry)}>添加</button></aside></article>)}</div></section>
+                <section><div className="section-title-row"><div><h3>社区模板与模块</h3><p>职业包、布局、主题、模块组合和单模块分开投稿。</p></div><span>{marketEntries.length} 个条目</span></div><div className="community-list">{marketEntries.map((entry) => { const kindNames = { 'career-pack': '职业包', 'layout-template': '布局模板', 'theme-pack': '主题包', 'module-bundle': '模块组合', module: '单模块', 'template-pack': '模块组合' }; return <article key={`${entry.kind}-${entry.id}`}><div><span className="community-kind">{kindNames[entry.kind] || '社区作品'}</span><strong>{entry.name}</strong><small>{entry.description}</small><em>{entry.permissions?.length ? `权限：${entry.permissions.join('、')}` : '无需额外权限'}</em></div><aside><a href={`https://github.com/${entry.source.repository}/blob/${entry.source.ref}/${entry.source.path}`} target="_blank" rel="noreferrer">看源码</a><button type="button" onClick={() => installMarketEntry(entry)}>添加</button></aside></article> })}</div></section>
                 <div className="ecosystem-callout"><StackSimple weight="duotone" /><div><strong>把你的工作台贡献给更多人</strong><p>职业模板、模块创意和连接器都通过 GitHub PR 进入公共目录；每次更新都可追溯、可回滚。</p><span><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noreferrer">贡献模板</a><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/MODULES.md" target="_blank" rel="noreferrer">贡献模块</a></span></div></div>
               </div>
             )}

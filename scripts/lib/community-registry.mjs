@@ -1,4 +1,4 @@
-const entryKinds = new Set(['template-pack', 'module'])
+const entryKinds = new Set(['career-pack', 'layout-template', 'theme-pack', 'module-bundle', 'module'])
 
 export function validateCommunityRegistry(registry) {
   if (!registry || typeof registry !== 'object') throw new Error('公共目录必须是 JSON 对象。')

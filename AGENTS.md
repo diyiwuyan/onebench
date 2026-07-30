@@ -16,3 +16,7 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - The Demo, downloaded offline HTML, PWA, and browser new-tab extension must run the same app code and show the same workbench. Do not maintain a reduced export-only dashboard.
 - First use should already contain realistic role-specific sample content so a beginner understands what to do without configuring anything.
 - Keep technical concepts such as GitHub tokens, repository paths, registries, and update sources out of the default beginner flow.
+- Keep the homepage intentionally selective: use the left rail for app/module entrances and the home area for a user-curated widget canvas.
+- Homepage widgets must support persistent reordering and size changes. Role-pack sample content is only a first-use seed; every visible item must later be editable or removable by the user.
+- Treat calendar and weather as first-class shared widgets. Weather may refresh from the network but must keep a useful local cache and never block the offline workbench.
+- Community contributions are not one generic “template”: distinguish career packs, workspace layouts, theme packs, module bundles, and individual modules.

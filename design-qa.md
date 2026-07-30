@@ -1,38 +1,36 @@
-# OneBench role ecosystem QA
+# OneBench widget workbench QA
 
-- Source visual truth: `qa-onebench-v2-desktop-final.png`
-- Implementation capture: `qa-onebench-v3-desktop-final.png`
-- Mobile capture: `qa-onebench-v3-mobile-final.png` at 390 × 844 CSS px.
-- Combined comparison: `qa-onebench-v3-comparison.png`
-- Desktop viewport: 1280 × 720 CSS px; both full-page captures are 1265 px wide.
-- State: first-party postgraduate exam pack, warm-paper theme, realistic starter data.
+- Reference capture: `/tmp/onebench-audit/02-itab-app.png` (iTab current web start page).
+- Implementation capture: `/tmp/onebench-audit/06-onebench-final-desktop.png`.
+- Combined comparison: `/tmp/onebench-audit/07-comparison.png`.
+- Mobile capture: `/tmp/onebench-audit/05-onebench-mobile-cdp.png` at 390 × 844 CSS px.
+- State: postgraduate exam pack, campus-blue local test theme state, editable role starter data.
 
-## Findings
+## Visual findings
 
 No actionable P0, P1, or P2 findings.
 
-- Visual continuity: the v3 implementation preserves the accepted warm-paper visual system, hero artwork, left navigation, summary row, 12-column card rhythm, typography, borders and corner radii.
-- New role behavior: switching to Creator changes the theme to `creator-coral`, updates the hero and installs inbox, content calendar and content pipeline. Switching to K12 Teacher changes the theme to `chalk-sage` and installs lesson plans, meetings, projects and classroom modules.
-- Personal identity: display name, workspace name and icon-library avatar persist after reload. User-uploaded photos remain local content and are included only in local export, encrypted backup or opted-in private content sync.
-- Ecosystem: the market shows 32 built-in modules plus an offline snapshot of 4 community templates and 4 community modules. Installing “内容创作引擎” adds its registered module combination without executing remote code.
-- Sync: the drawer clearly separates local-only use, configuration sync and opt-in content sync, with an AES-GCM encrypted migration package available without an account.
-- Responsive layout: at 390 × 844, the mobile bottom navigation is active, the Studio drawer fits the viewport, avatar controls use three columns and the document has no horizontal overflow.
-- Browser console errors and warnings: none.
+- Borrowed the useful iTab anatomy without copying its visual skin: persistent left application rail, a curated first-screen widget canvas, compact calendar/weather, and a module market.
+- Preserved OneBench's accepted product identity: warm paper artwork, calm lifestyle hierarchy, role-specific headline, summary rhythm, light surfaces, thin borders and rounded cards.
+- The homepage is no longer a flat dump of installed modules. Non-home modules remain reachable from the “全部” application drawer.
+- Widget edit controls are visible only in edit mode except for the small pencil entry, which makes the previously static-looking cards discoverably editable.
+- Desktop keeps a denser two/three-column widget rhythm. At 390 × 844 the side rail becomes bottom navigation, cards collapse to one column, and the document reports no horizontal overflow.
+- Calendar, weather, task and role progress widgets fit the same component system; no foreign dashboard style was introduced.
 
 ## Interaction evidence
 
-1. Changed the display name to “小鹿”, selected the Creator avatar and Creator pack; the coral theme and role modules appeared.
-2. Reloaded the page; display name, avatar choice, role, theme and modules persisted.
-3. Switched to K12 Teacher; sage theme, lesson-planning content, meetings and classroom data appeared without undefined content.
-4. Installed the registered “内容创作引擎” community combination; inbox, publishing calendar and content pipeline were added.
-5. Opened the sync drawer and verified local, encrypted backup, configuration sync and private content sync controls.
-6. Repeated the Studio flow at mobile width and confirmed no horizontal overflow.
+1. Edited “数学” to “数学冲刺” in the learning-plan editor and reloaded; the value persisted.
+2. Entered widget edit mode, changed weather from small to medium and reloaded; the size persisted.
+3. Reordered calendar with the keyboard drag sensor; DOM order changed from `calendar,tasks,...` to `tasks,calendar,...` and persisted after reload.
+4. Moved weather to the sidebar, confirmed it disappeared from the homepage, then restored it from “全部应用”.
+5. Refreshed Beijing weather through Open-Meteo; the widget changed from the starter cache to 31°C and the editor reported a successful cached update.
+6. Verified that learning, tasks, calendar, habits, goals, countdowns, files, role progress, detail lists, metrics, analytics, focus, review and weather all have a direct interaction or an add/edit/delete editor.
+7. Ran template, module and registry validation; 12 unit tests; Sites build tests; production build; and MV3 extension build.
 
-## Comparison history
+## Intentional differences from iTab
 
-1. Kept the accepted v2 personal-workbench anatomy instead of introducing a new dashboard style.
-2. Added the role-linked theme and module layers within the existing cards and drawers.
-3. Compared the v2 and v3 default exam states together; the only intentional homepage addition is the registered “公告与报名” role module.
-4. Verified richer Creator and Teacher states separately, then returned the Demo to the postgraduate-exam default for release.
+1. OneBench leads with the user's role and current intent instead of a search box and website shortcuts.
+2. OneBench keeps private daily work data local by default and treats online refresh/sync as explicit upgrades.
+3. Career packs preload a theme, useful modules and editable first-use examples; iTab's generic component grid does not supply this role layer.
 
 final result: passed

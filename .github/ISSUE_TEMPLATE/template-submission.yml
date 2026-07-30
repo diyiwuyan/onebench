@@ -1,0 +1,63 @@
+name: 投稿一个模板或模块
+description: 提交职业包、布局、主题、模块组合或单模块创意
+title: "[投稿] "
+labels: ["community", "submission"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 投稿类型
+      options:
+        - 职业包（身份 + 主题 + 模块 + 首用示例）
+        - 布局模板（组件顺序与尺寸）
+        - 主题包（只改变外观）
+        - 模块组合（复用已有模块）
+        - 单模块（新增独立能力）
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: 适合谁
+      placeholder: 例如：第一次准备考研、需要手机使用的大学生
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 用户第一次打开能完成什么
+      placeholder: 请用小白能看懂的话说明，不要只写功能名。
+    validations:
+      required: true
+  - type: textarea
+    id: contents
+    attributes:
+      label: 默认模块、布局或主题内容
+      placeholder: 列出首页组件、侧栏应用、示例数据及哪些内容可编辑。
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 桌面和手机截图
+      description: 可直接拖入图片。
+    validations:
+      required: true
+  - type: textarea
+    id: network
+    attributes:
+      label: 联网、权限与断网方案
+      placeholder: 没有联网能力请写“无”；有则说明数据源、权限和缓存方式。
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 投稿确认
+      options:
+        - label: 所有示例条目都允许用户修改或删除
+          required: true
+        - label: 不包含口令、令牌、私人数据或无法授权的素材
+          required: true
+        - label: 同意通过开源 PR 接受审阅与后续维护
+          required: true

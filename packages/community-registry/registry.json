@@ -5,7 +5,7 @@
   "templates": [
     {
       "id": "exam-sprint",
-      "kind": "template-pack",
+      "kind": "module-bundle",
       "name": "冲刺学习节奏",
       "description": "适合考研、考公或短期考证的倒计时、专注与复盘组合。",
       "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
@@ -14,7 +14,7 @@
     },
     {
       "id": "teaching-rhythm",
-      "kind": "template-pack",
+      "kind": "module-bundle",
       "name": "教师备课与班务组合",
       "description": "把课程安排、备课进度、班级事项与教研沟通放在同一个台面。",
       "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
@@ -23,7 +23,7 @@
     },
     {
       "id": "creator-engine",
-      "kind": "template-pack",
+      "kind": "module-bundle",
       "name": "内容创作引擎",
       "description": "从灵感收集、选题排期到发布复盘的一套内容生产组合。",
       "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
@@ -32,12 +32,39 @@
     },
     {
       "id": "independent-business",
-      "kind": "template-pack",
+      "kind": "module-bundle",
       "name": "自由职业经营组合",
       "description": "客户、交付、回款与个人专注节奏的本地优先组合。",
       "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
       "permissions": [],
       "requires": ["calendar", "tasks", "clients", "projects", "finance", "focus", "review"]
+    },
+    {
+      "id": "university-career-pack",
+      "kind": "career-pack",
+      "name": "大学生成长职业包",
+      "description": "包含校园主题、课程与 DDL 默认模块，以及可修改的首屏示例数据。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "packages/template-packs/first-party-packs.json", "ref": "main" },
+      "permissions": [],
+      "requires": ["calendar", "weather", "tasks", "schedule", "assignments", "learning", "goals"]
+    },
+    {
+      "id": "quiet-morning-layout",
+      "kind": "layout-template",
+      "name": "晨间专注布局",
+      "description": "把天气、日历、待办和专注放在第一屏，其余应用收进侧边栏。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "docs/TEMPLATE-SUBMISSION.md", "ref": "main" },
+      "permissions": [],
+      "requires": ["weather", "calendar", "tasks", "focus"]
+    },
+    {
+      "id": "warm-paper-theme",
+      "kind": "theme-pack",
+      "name": "暖纸晨光主题",
+      "description": "只改变色彩、纸张质感和图片氛围，不碰用户的模块与内容。",
+      "source": { "repository": "diyiwuyan/onebench", "path": "src/data/themes.js", "ref": "main" },
+      "permissions": [],
+      "requires": ["appearance"]
     }
   ],
   "modules": [

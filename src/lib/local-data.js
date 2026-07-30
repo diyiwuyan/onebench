@@ -18,6 +18,18 @@ const shared = {
   review: { win: '', blocker: '', next: '' },
   habits: [habit('整理工作台', true), habit('专注 25 分钟'), habit('睡前复盘')],
   week: [42, 58, 46, 72, 66, 84, 54],
+  weather: {
+    city: '北京',
+    latitude: 39.9042,
+    longitude: 116.4074,
+    temperature: 27,
+    apparentTemperature: 28,
+    weatherCode: 1,
+    high: 31,
+    low: 23,
+    updatedAt: '',
+    source: '示例天气',
+  },
 }
 
 const roleSeeds = {
@@ -267,6 +279,7 @@ export function normalizeWorkspaceData(workspace, candidate) {
     habits: Array.isArray(candidate.habits) ? candidate.habits : defaults.habits,
     focus: { ...defaults.focus, ...(candidate.focus || {}) },
     review: { ...defaults.review, ...(candidate.review || {}) },
+    weather: { ...defaults.weather, ...(candidate.weather || {}) },
   }
 }
 
