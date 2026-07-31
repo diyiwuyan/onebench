@@ -55,6 +55,20 @@ export const themeCatalog = [
     description: '稳重、有层次，适合团队沟通与决策',
     tokens: { '--page': '#efecf1', '--surface': '#fdfbfe', '--surface-2': '#f3eef5', '--ink': '#342f37', '--muted': '#77707c', '--line': '#e2dbe5', '--accent': '#756783', '--accent-soft': '#e7ddec', '--sage': '#dce5dc', '--blue': '#dce3ee' },
   },
+  {
+    id: 'ledger-amber',
+    name: '账本琥珀',
+    accent: '#7a6a4e',
+    description: '清晰、克制，适合财务、记账与发票管理',
+    tokens: { '--page': '#f2efe8', '--surface': '#fffdfb', '--surface-2': '#f8f4eb', '--ink': '#35322c', '--muted': '#7a756b', '--line': '#e5dfd4', '--accent': '#7a6a4e', '--accent-soft': '#ebe3d4', '--sage': '#dde6d8', '--blue': '#dde4eb' },
+  },
+  {
+    id: 'nursery-warm',
+    name: '育儿暖绒',
+    accent: '#c17b7b',
+    description: '温柔、柔软，适合记录宝宝与家庭日常',
+    tokens: { '--page': '#f5eded', '--surface': '#fffbfb', '--surface-2': '#faf2f2', '--ink': '#3a2f2f', '--muted': '#827272', '--line': '#ebdfe0', '--accent': '#c17b7b', '--accent-soft': '#f2dad8', '--sage': '#dee8dd', '--blue': '#dfe5ef' },
+  },
 ]
 
 export function findTheme(id) {

@@ -5,7 +5,7 @@ export const WORKSPACE_VERSION = '1.0.0'
 export const WORKSPACE_STORAGE_KEY = 'onebench.workspace.v1'
 export const GITHUB_STORAGE_KEY = 'onebench.github.v1'
 
-const HOME_PRIORITY = ['tasks', 'calendar', 'weather', 'focus', 'countdown', 'learning', 'schedule', 'assignments', 'content-pipeline', 'projects', 'clients', 'team', 'classroom']
+const HOME_PRIORITY = ['tasks', 'calendar', 'weather', 'focus', 'countdown', 'learning', 'schedule', 'assignments', 'content-pipeline', 'projects', 'clients', 'team', 'classroom', 'news', 'meals', 'workout', 'bookkeeping', 'invoices', 'health', 'birthdays', 'diary']
 
 function moduleSettings(id, index = 0) {
   const catalogItem = findModule(id)

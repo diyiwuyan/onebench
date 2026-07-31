@@ -7,8 +7,17 @@ const inDays = (days) => {
   return date.toISOString()
 }
 
+const inDaysStr = (days) => {
+  const d = new Date()
+  d.setDate(d.getDate() + days)
+  return `${d.getMonth() + 1} 月 ${d.getDate()} 日`
+}
+
+const todayStr = () => new Date().toISOString().slice(0, 10)
+
 const task = (title, done = false) => ({ id: crypto.randomUUID(), title, done })
 const habit = (name, done = false) => ({ id: crypto.randomUUID(), name, done })
+const detail = (title, meta, tone = '') => ({ title, meta, tone })
 
 const shared = {
   quote: '把今天过清楚，长期自然会有答案。',
@@ -30,6 +39,205 @@ const shared = {
     updatedAt: '',
     source: '示例天气',
   },
+}
+
+// --- 内置语录库（每日轮换，含毛泽东语录） ---
+const quoteLibrary = [
+  { text: '把今天过清楚，长期自然会有答案。', source: 'OneBench' },
+  { text: '星星之火，可以燎原。', source: '毛泽东' },
+  { text: '不是每天都要超常发挥，但要每天都在场。', source: 'OneBench' },
+  { text: '为人民服务。', source: '毛泽东' },
+  { text: '自由不是同时做所有事，而是清楚现在该做哪一件。', source: 'OneBench' },
+  { text: '虚心使人进步，骄傲使人落后。', source: '毛泽东' },
+  { text: '真正的推进，是让每个人都知道下一步是什么。', source: 'OneBench' },
+  { text: '战略上藐视敌人，战术上重视敌人。', source: '毛泽东' },
+  { text: '先把真正想表达的那一句写出来，再谈流量。', source: 'OneBench' },
+  { text: '一切反动派都是纸老虎。', source: '毛泽东' },
+  { text: '管理不是替大家做决定，而是让好决定更容易发生。', source: 'OneBench' },
+  { text: '没有调查，就没有发言权。', source: '毛泽东' },
+  { text: '上岸不是一句口号，是今天这一套题和这一次复盘。', source: 'OneBench' },
+  { text: '一万年太久，只争朝夕。', source: '毛泽东' },
+  { text: '把一节课备扎实，就是给孩子多一条理解世界的路。', source: 'OneBench' },
+  { text: '世界是你们的，也是我们的，但是归根结底是你们的。', source: '毛泽东' },
+  { text: '不追赶别人的进度，把自己的这一页学明白。', source: 'OneBench' },
+  { text: '把每一笔账都算清楚，心里才有底。', source: 'OneBench' },
+  { text: '在战略上要藐视敌人，在战术上要重视敌人。', source: '毛泽东' },
+  { text: '宝宝的成长没有白走的路，记录本身就是一种陪伴。', source: 'OneBench' },
+]
+
+function dayOfYear() {
+  const now = new Date()
+  const start = new Date(now.getFullYear(), 0, 0)
+  return Math.floor((now - start) / (1000 * 60 * 60 * 24))
+}
+
+function quoteData() {
+  const index = dayOfYear() % quoteLibrary.length
+  const daily = quoteLibrary[index]
+  const rest = quoteLibrary.filter((_, i) => i !== index)
+  return {
+    quote: daily.text,
+    quotes: [daily, ...rest.slice(0, 4)].map((item) => ({ title: item.text, meta: item.source })),
+  }
+}
+
+// --- 新闻资讯：按身份角色做本地推荐 ---
+function newsItems(roleId) {
+  const common = [
+    { id: crypto.randomUUID(), title: '国产大模型再升级：多模态推理能力开放内测', category: '科技', hot: true, summary: '多家厂商宣布长上下文与代码生成能力显著提升，开发者可本地部署体验。' },
+    { id: crypto.randomUUID(), title: '今年暑期档票房已突破 80 亿', category: '文娱', hot: true, summary: '动画与喜剧片领跑，口碑效应成为票房关键变量。' },
+    { id: crypto.randomUUID(), title: '城市绿道里程继续延伸，骑行通勤成新趋势', category: '生活', hot: false, summary: '多条环城绿道贯通，相关数据显示骑行人群同比增长 34%。' },
+    { id: crypto.randomUUID(), title: '健康饮食：少油少盐也能好吃的 5 个技巧', category: '健康', hot: false, summary: '从调味顺序到烹饪方式，帮你把家常菜变得更轻盈。' },
+  ]
+  const roleMap = {
+    university: [
+      { id: crypto.randomUUID(), title: '多地启动秋季校园招聘，提前准备简历更有优势', category: '求职', hot: true, summary: '提前批岗位集中在科技与制造业，实习经历成为筛选重点。' },
+      { id: crypto.randomUUID(), title: '四六级成绩公布在即，查分方式与复核流程一览', category: '考试', hot: false, summary: '官方渠道公布查分时间，对成绩有疑问可在规定期限内申请复核。' },
+    ],
+    teacher: [
+      { id: crypto.randomUUID(), title: '新学期教材修订要点发布，备课需关注这些变化', category: '教育', hot: true, summary: '多个学科新增实践探究环节，建议提前调整教学计划。' },
+      { id: crypto.randomUUID(), title: 'AI 辅助批改工具进入课堂，教师角色如何转变', category: '教育', hot: false, summary: '工具可处理重复性批改，教师更聚焦学情分析与个性化辅导。' },
+    ],
+    'postgraduate-exam': [
+      { id: crypto.randomUUID(), title: '考研大纲预计 9 月发布，公共课变动提前关注', category: '考研', hot: true, summary: '政治与时事关联度提高，英语阅读题材范围或扩展。' },
+      { id: crypto.randomUUID(), title: '暑期复习进度调查：超过六成考生进入真题阶段', category: '考研', hot: false, summary: '专家建议真题与复盘时间比例控制在 6:4 左右。' },
+    ],
+    'civil-service-exam': [
+      { id: crypto.randomUUID(), title: '国考报名倒计时：往年热门岗位竞争比参考', category: '公考', hot: true, summary: '岗位选择需结合自身条件与往年进面分数综合判断。' },
+      { id: crypto.randomUUID(), title: '申论热点素材整理：基层治理与数字政务', category: '公考', hot: false, summary: '建议积累规范表述与典型案例，避免模板化答题。' },
+    ],
+    creator: [
+      { id: crypto.randomUUID(), title: '短视频平台调整推荐机制：完播率权重上升', category: '创作', hot: true, summary: '前 3 秒钩子与信息密度成为决定播放量的关键因素。' },
+      { id: crypto.randomUUID(), title: '个人工作台类内容走红，创作者如何差异化表达', category: '创作', hot: false, summary: '真实使用场景大于功能罗列，观众更想看你怎么用。' },
+    ],
+    operations: [
+      { id: crypto.randomUUID(), title: '产品经理能力模型更新：AI 协作成为基础项', category: '职场', hot: true, summary: '从需求文档到数据分析，工具链正在重塑工作流。' },
+      { id: crypto.randomUUID(), title: '增长实验周报写法：如何让结论可落地', category: '职场', hot: false, summary: '关注假设、样本量与下一步动作，而不是只堆数字。' },
+    ],
+    freelancer: [
+      { id: crypto.randomUUID(), title: '自由职业者社保缴纳指南更新', category: '经营', hot: true, summary: '多地开通线上办理，灵活就业人员参保门槛继续降低。' },
+      { id: crypto.randomUUID(), title: '个人品牌如何建立信任感：案例与误区', category: '经营', hot: false, summary: '持续交付与公开复盘，是比包装更有效的背书。' },
+    ],
+    'team-lead': [
+      { id: crypto.randomUUID(), title: '团队目标拆解：从季度 OKR 到周计划', category: '管理', hot: true, summary: '关键结果需可验证，避免把任务清单当作目标。' },
+      { id: crypto.randomUUID(), title: '1:1 沟通清单：如何聊出真实阻塞', category: '管理', hot: false, summary: '少问进度，多问需要什么支持。' },
+    ],
+    financial: [
+      { id: crypto.randomUUID(), title: '小规模纳税人季度申报节点提醒', category: '财税', hot: true, summary: '注意发票开具时间与收入确认口径，避免跨期差错。' },
+      { id: crypto.randomUUID(), title: '个人养老金账户投资范围再扩大', category: '理财', hot: false, summary: '新增多款指数基金，长期配置选择更丰富。' },
+    ],
+    'family-baby': [
+      { id: crypto.randomUUID(), title: '儿童疫苗接种时间表：一类疫苗免费接种节点', category: '育儿', hot: true, summary: '按时接种是入园入学的重要凭证，建议提前预约。' },
+      { id: crypto.randomUUID(), title: '宝宝睡眠安全：美国儿科学会更新建议', category: '育儿', hot: false, summary: '仰睡、硬床垫、无杂物是降低风险的核心措施。' },
+    ],
+  }
+  const extra = roleMap[roleId] || []
+  return [...common, ...extra].sort((a, b) => (b.hot ? 1 : 0) - (a.hot ? 1 : 0))
+}
+
+// --- 客户跟进 ---
+function clientFollowupItems() {
+  return [
+    { title: '客户 A 需求确认', meta: '明天 14:00 · 微信', tone: 'blue' },
+    { title: '客户 B 合同修订', meta: '周五前发出第二版', tone: 'apricot' },
+    { title: '客户 C 回款提醒', meta: '账期剩余 3 天', tone: 'sage' },
+  ]
+}
+
+// --- 发票统计 ---
+function invoiceItems() {
+  return [
+    { title: '7 月服务费', value: '¥6,000', meta: '已收 · 增值税普通发票', status: '已收' },
+    { title: '设计费尾款', value: '¥4,500', meta: '待开 · 增值税专用发票', status: '待开' },
+    { title: '咨询费预付款', value: '¥3,200', meta: '已收 · 普票', status: '已收' },
+  ]
+}
+
+// --- 记账 ---
+function bookkeepingItems() {
+  return [
+    { title: '工资收入', value: '+¥12,500', meta: '本月', category: 'income' },
+    { title: '房租支出', value: '-¥3,200', meta: '本月', category: 'expense' },
+    { title: '餐饮', value: '-¥58', meta: '今天', category: 'expense' },
+    { title: '交通', value: '-¥34', meta: '今天', category: 'expense' },
+  ]
+}
+
+// --- 理财知识 ---
+function financeKnowledgeItems() {
+  return [
+    { title: '应急储备金', meta: '建议预留 3-6 个月生活开支，放在流动性好的账户。' },
+    { title: '基金定投的微笑曲线', meta: '长期坚持定投可以在市场低点积累更多份额。' },
+    { title: '保险配置顺序', meta: '先保障后理财：医疗险、意外险、重疾险优先。' },
+  ]
+}
+
+// --- 运动记录 ---
+function workoutItems() {
+  return [
+    { title: '今日步数', value: '6,842', meta: '目标 10,000' },
+    { title: '晨跑', value: '3.2 km', meta: '消耗 186 kcal' },
+    { title: '拉伸', value: '10 min', meta: '已完成' },
+  ]
+}
+
+// --- 好好吃饭 ---
+function mealItems() {
+  return [
+    { title: '早餐', meta: '燕麦牛奶 + 煮鸡蛋 + 蓝莓', tone: 'sage' },
+    { title: '午餐', meta: '米饭 + 清炒时蔬 + 鸡胸肉', tone: 'apricot' },
+    { title: '晚餐', meta: '杂粮粥 + 豆腐 + 凉拌黄瓜', tone: 'blue' },
+  ]
+}
+
+// --- 健康管理 ---
+function healthItems() {
+  return [
+    { title: '体重', value: '62.4 kg', meta: '较上周 -0.3 kg' },
+    { title: '昨晚睡眠', value: '7h 12m', meta: '深睡 1h 40m' },
+    { title: '血压', value: '118/76', meta: '正常范围' },
+    { title: '步数', value: '6,842', meta: '今日' },
+  ]
+}
+
+// --- 生日记录 ---
+function birthdayItems() {
+  return [
+    { title: '妈妈', meta: `${inDaysStr(12)}（12 天后）`, tone: 'apricot' },
+    { title: '闺蜜小林', meta: `${inDaysStr(25)}（25 天后）`, tone: 'sage' },
+    { title: '爸爸', meta: `${inDaysStr(95)}（95 天后）`, tone: 'blue' },
+    { title: '自己', meta: `${inDaysStr(140)}（140 天后）`, tone: 'plum' },
+  ]
+}
+
+// --- 生理期记录 ---
+function periodData() {
+  const today = new Date()
+  const last = new Date(today)
+  last.setDate(last.getDate() - 26)
+  const next = new Date(last)
+  next.setDate(next.getDate() + 28)
+  const daysUntil = Math.round((next.getTime() - today.getTime()) / (1000 * 60 * 60 * 24))
+  return {
+    lastPeriod: last.toISOString().slice(0, 10),
+    cycleDays: 28,
+    predictedNext: next.toISOString().slice(0, 10),
+    currentDay: 26,
+    status: daysUntil > 0 ? `预计 ${daysUntil} 天后来潮` : '预计今日来潮',
+    history: [
+      { date: last.toISOString().slice(0, 10), duration: 5 },
+      { date: new Date(last.getFullYear(), last.getMonth(), last.getDate() - 28).toISOString().slice(0, 10), duration: 5 },
+      { date: new Date(last.getFullYear(), last.getMonth(), last.getDate() - 56).toISOString().slice(0, 10), duration: 6 },
+    ],
+  }
+}
+
+// --- 日记本 ---
+function diaryItems() {
+  return [
+    { title: '今天的小确幸', meta: todayStr(), note: '午休时读到一句不错的话，记下来。' },
+    { title: '一点反思', meta: todayStr(), note: '事情很多的时候，先把最重要的那件做完。' },
+  ]
 }
 
 const roleSeeds = {
@@ -66,6 +274,11 @@ const roleSeeds = {
       { title: '昨晚睡眠', value: '7.2h', meta: '比前天多 35 分钟' },
       { title: '今日精力', value: '良好', meta: '适合安排深度学习' },
       { title: '本周运动', value: '2/3', meta: '还差一次慢跑' },
+    ],
+    meals: [
+      { title: '早餐', meta: '包子 + 豆浆', tone: 'sage' },
+      { title: '午餐', meta: '食堂套餐', tone: 'apricot' },
+      { title: '晚餐', meta: '宿舍小煮', tone: 'blue' },
     ],
   },
   teacher: {
@@ -217,6 +430,10 @@ const roleSeeds = {
       { title: '待回款', value: '¥8,000', meta: '客户 A · 周五' },
       { title: '待开票', value: '2 笔', meta: '合计 ¥12,500' },
     ],
+    clientFollowup: [
+      { title: '客户 A 终稿确认', meta: '周四 10:00 · 邮件', tone: 'apricot' },
+      { title: '客户 B 报价跟进', meta: '下周一前回复', tone: 'blue' },
+    ],
   },
   'team-lead': {
     quote: '管理不是替大家做决定，而是让好决定更容易发生。',
@@ -236,14 +453,113 @@ const roleSeeds = {
       { title: '新人导师制延长至 6 周', meta: '依据：前两期反馈 · 下季度复查' },
     ],
   },
+  financial: {
+    quote: '把每一笔账都算清楚，心里才有底。',
+    tasks: [task('核对昨日收支'), task('整理本周发票'), task('跟进客户 B 回款')],
+    schedule: [
+      { time: '09:00', title: '发票录入', meta: '扫描与分类' },
+      { time: '14:00', title: '客户对账', meta: '发送月度明细' },
+      { time: '16:30', title: '理财学习', meta: '阅读 20 分钟' },
+    ],
+    goals: [
+      { title: '本月账目日清率 100%', progress: 88 },
+      { title: '读完一本理财书', progress: 45 },
+    ],
+    links: [
+      { title: '发票夹', meta: '本月 12 张' },
+      { title: '合同模板', meta: '仅本机' },
+      { title: '税务日历', meta: '关键申报节点' },
+    ],
+    finance: [
+      { title: '本月已确认收入', value: '¥32,000', meta: '4 个项目' },
+      { title: '待回款', value: '¥11,500', meta: '2 位客户' },
+      { title: '待抵扣进项', value: '¥2,800', meta: '6 张专票' },
+    ],
+    bookkeeping: [
+      { title: '设计服务收入', value: '+¥8,000', meta: '客户 A', category: 'income' },
+      { title: '办公耗材', value: '-¥420', meta: '采购', category: 'expense' },
+      { title: '社保缴纳', value: '-¥1,860', meta: '个人', category: 'expense' },
+      { title: '咨询费', value: '+¥3,200', meta: '客户 B', category: 'income' },
+    ],
+    invoices: [
+      { title: '7 月设计服务费', value: '¥8,000', meta: '已收 · 专票', status: '已收' },
+      { title: '咨询费尾款', value: '¥3,200', meta: '待收 · 普票', status: '待收' },
+      { title: '办公设备', value: '¥1,200', meta: '待抵扣 · 专票', status: '待抵扣' },
+    ],
+    financeKnowledge: [
+      { title: '增值税小规模纳税人优惠', meta: '季度销售额未超 30 万可免征增值税。' },
+      { title: '发票抵扣期限', meta: '增值税专用发票需在开具后 360 日内认证抵扣。' },
+    ],
+    clients: [
+      { title: '客户 A 设计项目', meta: '已收首款 50%', progress: 82 },
+      { title: '客户 B 年度顾问', meta: '合同谈判中', progress: 45 },
+    ],
+    clientFollowup: [
+      { title: '客户 A 尾款催收', meta: '账期剩余 3 天 · 微信', tone: 'apricot' },
+      { title: '客户 B 合同修订', meta: '周五前发出', tone: 'blue' },
+    ],
+  },
+  'family-baby': {
+    quote: '宝宝的成长没有白走的路，记录本身就是一种陪伴。',
+    tasks: [task('记录今日喂养'), task('预约下周疫苗'), task('整理宝宝照片')],
+    schedule: [
+      { time: '07:00', title: '起床喂奶', meta: '180 ml' },
+      { time: '10:00', title: '早教游戏', meta: '黑白卡 + 抚触' },
+      { time: '20:30', title: '睡前故事', meta: '15 分钟' },
+    ],
+    goals: [
+      { title: '本周完成 5 天规律作息', progress: 60 },
+      { title: '建立家庭健康档案', progress: 35 },
+    ],
+    links: [
+      { title: '疫苗本', meta: '接种记录' },
+      { title: '育儿资料', meta: '仅本机' },
+      { title: '亲子相册', meta: '按月整理' },
+    ],
+    meals: [
+      { title: '宝宝早餐', meta: '配方奶 180 ml + 蛋黄泥', tone: 'sage' },
+      { title: '宝宝午餐', meta: '米粉 + 胡萝卜泥', tone: 'apricot' },
+      { title: '宝宝晚餐', meta: '小米粥 + 南瓜泥', tone: 'blue' },
+    ],
+    health: [
+      { title: '宝宝体温', value: '36.6°C', meta: '正常' },
+      { title: '昨日睡眠', value: '13h 30m', meta: '含 2 次小睡' },
+      { title: '体重', value: '8.2 kg', meta: '较上月 +0.6 kg' },
+    ],
+    birthdays: [
+      { title: '宝宝周岁', meta: `${inDaysStr(145)}（145 天后）`, tone: 'apricot' },
+      { title: '妈妈生日', meta: `${inDaysStr(12)}（12 天后）`, tone: 'sage' },
+    ],
+    period: {
+      lastPeriod: new Date(new Date().setDate(new Date().getDate() - 26)).toISOString().slice(0, 10),
+      cycleDays: 28,
+      predictedNext: new Date(new Date().setDate(new Date().getDate() + 2)).toISOString().slice(0, 10),
+      currentDay: 26,
+      status: '预计 2 天后来潮',
+      history: [
+        { date: new Date(new Date().setDate(new Date().getDate() - 26)).toISOString().slice(0, 10), duration: 5 },
+        { date: new Date(new Date().setDate(new Date().getDate() - 54)).toISOString().slice(0, 10), duration: 5 },
+      ],
+    },
+    diary: [
+      { title: '宝宝今天会翻身了', meta: todayStr(), note: '趴着的时候突然自己翻过来，一脸懵。' },
+      { title: '育儿小笔记', meta: todayStr(), note: '喂奶后拍嗝 5 分钟，今天没有吐奶。' },
+    ],
+    habits: [habit('给宝宝读绘本'), habit('记录喂养'), habit('户外 30 分钟')],
+    reading: [{ title: '崔玉涛育儿百科', meta: '读到 30%' }, { title: '正面管教', meta: '本月待读' }],
+  },
 }
 
 export function defaultWorkspaceData(workspace) {
   const role = roleSeeds[workspace.sourcePack] || roleSeeds.university
+  const dailyQuotes = quoteData()
   return {
     ...shared,
     ...role,
+    quote: role.quote || dailyQuotes.quote,
+    quotes: role.quotes || dailyQuotes.quotes,
     tasks: role.tasks || [task('完成今天最重要的一件事')],
+    habits: role.habits || shared.habits,
     schedule: role.schedule || [],
     milestones: role.milestones || [{ label: '本阶段目标', date: inDays(30), tone: 'sage' }],
     learning: role.learning || [],
@@ -265,6 +581,18 @@ export function defaultWorkspaceData(workspace) {
     meetings: role.meetings || [],
     finance: role.finance || [],
     decisions: role.decisions || [],
+    // 新增模块：由内置逻辑自动填充示例数据
+    news: role.news || newsItems(workspace.sourcePack),
+    clientFollowup: role.clientFollowup || clientFollowupItems(),
+    invoices: role.invoices || invoiceItems(),
+    bookkeeping: role.bookkeeping || bookkeepingItems(),
+    financeKnowledge: role.financeKnowledge || financeKnowledgeItems(),
+    workout: role.workout || workoutItems(),
+    meals: role.meals || mealItems(),
+    health: role.health || healthItems(),
+    birthdays: role.birthdays || birthdayItems(),
+    period: role.period || periodData(),
+    diary: role.diary || diaryItems(),
     updatedAt: new Date().toISOString(),
   }
 }
@@ -280,6 +608,7 @@ export function normalizeWorkspaceData(workspace, candidate) {
     focus: { ...defaults.focus, ...(candidate.focus || {}) },
     review: { ...defaults.review, ...(candidate.review || {}) },
     weather: { ...defaults.weather, ...(candidate.weather || {}) },
+    period: { ...defaults.period, ...(candidate.period || {}) },
   }
 }
 

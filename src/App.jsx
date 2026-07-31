@@ -20,8 +20,12 @@ import {
   ArrowClockwise,
   ArrowRight,
   ArrowSquareOut,
+  Baby,
+  Barbell,
   BookOpenText,
+  Cake,
   Books,
+  BowlFood,
   Briefcase,
   CalendarBlank,
   CalendarDots,
@@ -32,32 +36,42 @@ import {
   CloudArrowDown,
   CloudArrowUp,
   CloudSun,
+  Coins,
   DeviceMobile,
   DownloadSimple,
+  Drop,
   FolderSimple,
   GearSix,
   GraduationCap,
+  Heartbeat,
   House,
   Kanban,
   ListChecks,
   ListDashes,
   LockKey,
   MapPin,
-  PencilSimple,
+  Newspaper,
+  Notebook,
   NotePencil,
   Palette,
   Pause,
+  PhoneCall,
+  PencilSimple,
   Play,
   Plus,
+  Quotes,
+  Receipt,
   Repeat,
   SidebarSimple,
   SlidersHorizontal,
+  SneakerMove,
   Sparkle,
   SquaresFour,
   StackSimple,
   Student,
   Target,
   Trash,
+  TrendUp,
   UsersThree,
   ArrowsOutSimple,
   DotsSixVertical,
@@ -87,6 +101,7 @@ import {
   toggleModule,
   updateModuleLayout,
 } from './lib/workspace'
+import { interpretPrompt } from './lib/intent'
 import './styles.css'
 
 const registryUrl = 'https://raw.githubusercontent.com/diyiwuyan/onebench/main/packages/community-registry/registry.json'
@@ -252,6 +267,17 @@ const editorSpecs = {
   decisions: { key: 'decisions', fields: [{ key: 'title', label: '决定' }, { key: 'meta', label: '依据／复查' }] },
   finance: { key: 'finance', fields: [{ key: 'title', label: '项目' }, { key: 'value', label: '数值' }, { key: 'meta', label: '说明' }] },
   wellbeing: { key: 'wellbeing', fields: [{ key: 'title', label: '指标' }, { key: 'value', label: '状态' }, { key: 'meta', label: '说明' }] },
+  'client-followup': { key: 'clientFollowup', fields: [{ key: 'title', label: '跟进事项' }, { key: 'meta', label: '时间／渠道' }] },
+  invoices: { key: 'invoices', fields: [{ key: 'title', label: '发票项目' }, { key: 'value', label: '金额' }, { key: 'meta', label: '类型／状态' }, { key: 'status', label: '标签' }] },
+  bookkeeping: { key: 'bookkeeping', fields: [{ key: 'title', label: '收支项目' }, { key: 'value', label: '金额' }, { key: 'meta', label: '分类' }, { key: 'category', label: '类型（income/expense）' }] },
+  'finance-knowledge': { key: 'financeKnowledge', fields: [{ key: 'title', label: '知识点' }, { key: 'meta', label: '说明' }] },
+  workout: { key: 'workout', fields: [{ key: 'title', label: '运动' }, { key: 'value', label: '数据' }, { key: 'meta', label: '说明' }] },
+  meals: { key: 'meals', fields: [{ key: 'title', label: '餐次' }, { key: 'meta', label: '内容' }] },
+  health: { key: 'health', fields: [{ key: 'title', label: '指标' }, { key: 'value', label: '数值' }, { key: 'meta', label: '说明' }] },
+  birthdays: { key: 'birthdays', fields: [{ key: 'title', label: '亲友' }, { key: 'meta', label: '日期' }, { key: 'tone', label: '颜色' }] },
+  diary: { key: 'diary', fields: [{ key: 'title', label: '标题' }, { key: 'meta', label: '日期' }, { key: 'note', label: '内容' }] },
+  news: { key: 'news', fields: [{ key: 'title', label: '标题' }, { key: 'category', label: '分类' }, { key: 'summary', label: '摘要' }] },
+  quotes: { key: 'quotes', fields: [{ key: 'title', label: '语录' }, { key: 'meta', label: '出处' }] },
 }
 
 function ProgressRow({ item }) {
@@ -337,6 +363,7 @@ export function App() {
   const homeModules = useMemo(() => workspace.modules.filter((module) => module.enabled && module.placement === 'home').sort((a, b) => a.order - b.order), [workspace.modules])
   const editorModuleId = panel?.startsWith('module:') ? panel.slice(7) : ''
   const editorSpec = editorSpecs[editorModuleId]
+  const interpreted = useMemo(() => (prompt.trim() ? interpretPrompt(prompt, pack) : null), [prompt, pack])
   const sensors = useSensors(
     useSensor(MouseSensor, { activationConstraint: { distance: 8 } }),
     useSensor(TouchSensor, { activationConstraint: { delay: 220, tolerance: 8 } }),
@@ -412,16 +439,19 @@ export function App() {
 
   function rebuildFromPrompt() {
     if (!prompt.trim()) return
+    const result = interpretPrompt(prompt, pack)
+    const targetPack = findPack(result.packId)
     const nextWorkspace = {
-      ...createWorkspace({ packId: pack.id, prompt }),
+      ...createWorkspace({ packId: targetPack.id, prompt, moduleIds: result.moduleIds }),
       profile: { ...workspace.profile },
     }
     const nextData = defaultWorkspaceData(nextWorkspace)
     persistWorkspace(nextWorkspace)
     persistData(nextData, nextWorkspace)
+    setPrompt(nextWorkspace.intent)
     setTimerRunning(false)
     setTimerSeconds((nextData.focus?.minutes || 25) * 60)
-    setToast('已按你的描述重新搭好一版，可继续在模块市场增减。')
+    setToast(result.summary)
     setPanel(null)
   }
 
@@ -791,6 +821,10 @@ export function App() {
       'content-calendar': ['发布日历', '平台、主题和发布时间', CalendarBlank, workspaceData.contentCalendar],
       meetings: ['会议与沟通', '会前准备，会后跟进', UsersThree, workspaceData.meetings],
       decisions: ['决策记录', '判断依据与复查时间', Target, workspaceData.decisions],
+      'client-followup': ['客户跟进', '沟通记录与下次提醒', PhoneCall, workspaceData.clientFollowup],
+      'finance-knowledge': ['理财知识', '每天一个理财知识点', TrendUp, workspaceData.financeKnowledge],
+      meals: ['好好吃饭', '三餐记录与营养提醒', BowlFood, workspaceData.meals],
+      diary: ['日记本', '每日心情与关键小事', Notebook, workspaceData.diary],
     }
     if (detailGroups[id]) {
       const [title, subtitle, Icon, items] = detailGroups[id]
@@ -800,6 +834,10 @@ export function App() {
     const metricGroups = {
       wellbeing: ['身心状态', '学习之外，也照顾自己的节奏', Repeat, workspaceData.wellbeing],
       finance: ['收入与回款', '收入、发票和未完成的承诺', ChartLineUp, workspaceData.finance],
+      invoices: ['发票统计', '发票收集、分类与抵扣提醒', Receipt, workspaceData.invoices],
+      bookkeeping: ['记账', '每日收支与分类统计', Coins, workspaceData.bookkeeping],
+      workout: ['运动记录', '今日运动、步数与消耗', SneakerMove, workspaceData.workout],
+      health: ['健康管理', '体重、血压、睡眠等健康指标', Heartbeat, workspaceData.health],
     }
     if (metricGroups[id]) {
       const [title, subtitle, Icon, items] = metricGroups[id]
@@ -808,6 +846,25 @@ export function App() {
 
     if (id === 'content-pipeline') return widget(module, { title: '内容流水线', subtitle: '从灵感到发布', icon: Kanban }, <div className="pipeline-grid">{workspaceData.pipeline.map((item) => <div key={item.title}><span>{item.title}</span><strong>{item.value}</strong><small>{item.meta}</small></div>)}</div>)
     if (id === 'reading') return widget(module, { title: '阅读书架', subtitle: '在读与待读', icon: Books }, <div className="book-list">{workspaceData.reading.map((item) => <div key={item.title}><span><Books weight="duotone" /></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
+
+    if (id === 'news') {
+      return widget(module, { title: '新闻资讯', subtitle: '按你的身份推荐，离线也能看示例', icon: Newspaper }, <div className="news-list">{workspaceData.news.map((item) => <div key={item.id}><span className="news-category">{item.category}</span>{item.hot && <span className="news-hot">热</span>}<strong>{item.title}</strong><small>{item.summary}</small></div>)}</div>)
+    }
+
+    if (id === 'quotes') {
+      const first = workspaceData.quotes[0] || { title: workspaceData.quote, meta: 'OneBench' }
+      return widget(module, { title: '语录', subtitle: '每日一句，内置轮换', icon: Quotes }, <div className="quote-card"><Quotes weight="duotone" size={24} /><p>「{first.title}」</p><small>—— {first.meta}</small></div>)
+    }
+
+    if (id === 'birthdays') {
+      return widget(module, { title: '生日记录', subtitle: '亲友生日与倒计时', icon: Cake }, <div className="birthday-list">{workspaceData.birthdays.map((item) => <div key={item.title}><span className={item.tone || ''}></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
+    }
+
+    if (id === 'period') {
+      const p = workspaceData.period || {}
+      return widget(module, { title: '生理期记录', subtitle: '周期预测与当前状态', icon: Drop }, <div className="period-card"><div><span>上次</span><strong>{p.lastPeriod || '-'}</strong></div><div><span>预计下次</span><strong>{p.predictedNext || '-'}</strong></div><div><span>当前</span><strong>{p.status || '-'}</strong></div></div>)
+    }
+
     return null
   }
 
@@ -1142,6 +1199,10 @@ export function App() {
                   <section><h3>本周每天投入</h3><div className="week-editor">{workspaceData.week.map((value, index) => <label key={weekLabels[index]}><span>{weekLabels[index]} · {value}%</span><input type="range" min="0" max="100" value={value} onChange={(event) => updateData({ ...workspaceData, week: workspaceData.week.map((item, itemIndex) => itemIndex === index ? Number(event.target.value) : item) })} /></label>)}</div></section>
                 )}
 
+                {editorModuleId === 'period' && (
+                  <section><h3>周期记录</h3><div className="editor-grid"><label>上次来潮<input type="date" value={workspaceData.period?.lastPeriod || ''} onChange={(event) => updateData({ ...workspaceData, period: { ...workspaceData.period, lastPeriod: event.target.value } })} /></label><label>周期天数<input type="number" min="1" max="60" value={workspaceData.period?.cycleDays || 28} onChange={(event) => updateData({ ...workspaceData, period: { ...workspaceData.period, cycleDays: Number(event.target.value) || 28 } })} /></label></div><p className="section-copy">修改后会自动重新计算预计下次来潮日期。</p></section>
+                )}
+
                 {editorSpec && (
                   <section><div className="section-title-row"><div><h3>条目管理</h3><p>修改后会立即保存在当前设备。</p></div><button className="secondary-button compact-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></div><div className="entry-editor-list">{(workspaceData[editorSpec.key] || []).map((item, index) => <article key={item.id || `${editorSpec.key}-${index}`}><div className="editor-grid">{editorSpec.fields.map((field) => <label key={field.key}>{field.label}<input type={field.type || 'text'} min={field.type === 'number' ? 0 : undefined} max={field.type === 'number' && field.key === 'progress' ? 100 : undefined} value={field.type === 'date' ? String(item[field.key] || '').slice(0, 10) : (item[field.key] ?? '')} onChange={(event) => updateArrayItem(editorSpec, index, field.key, field.type === 'number' ? Number(event.target.value) : field.type === 'date' ? (event.target.value ? new Date(`${event.target.value}T12:00:00`).toISOString() : '') : event.target.value)} /></label>)}</div><button className="delete-entry" type="button" onClick={() => deleteArrayItem(editorSpec, index)}><Trash /> 删除</button></article>)}</div><button className="primary-button wide-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></section>
                 )}
@@ -1160,7 +1221,7 @@ export function App() {
                 </section>
                 <section><h3>2. 选择职业包（会一起更换主题和模块）</h3><div className="pack-grid">{packs.map((item) => { const Icon = item.icon; return <button className={item.id === pack.id ? 'selected' : ''} type="button" key={item.id} onClick={() => choosePack(item)}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small><i>{item.theme.name}</i></span></button> })}</div></section>
                 <section><h3>3. 单独调整整体感觉</h3><div className="theme-grid">{themeCatalog.map((item) => <button className={item.id === theme.id ? 'selected' : ''} type="button" key={item.id} onClick={() => changeTheme(item)}><i style={{ background: item.accent }}></i><span><strong>{item.name}</strong><small>{item.description}</small></span>{item.id === theme.id && <Check weight="bold" />}</button>)}</div></section>
-                <section><h3>4. 用一句话调整重点</h3><textarea className="prompt-box" value={prompt} onChange={(event) => setPrompt(event.target.value)} /><button className="primary-button wide-button" type="button" onClick={rebuildFromPrompt}><Sparkle weight="fill" /> 按这句话重新搭配</button></section>
+                <section><h3>4. 用一句话调整重点</h3><textarea className="prompt-box" value={prompt} onChange={(event) => setPrompt(event.target.value)} placeholder="例如：我是大学生，想管课程和作业；或 我是自由职业者，想管客户和现金流" />{interpreted && (interpreted.addedNames.length || interpreted.packName) && <p className="interpreted-hint"><Sparkle weight="duotone" />{interpreted.packName ? `将切换到「${interpreted.packName}」` : '将保持当前身份'}{interpreted.addedNames.length ? `，并加入：${interpreted.addedNames.join('、')}` : '，模块组合保持不变'}。</p>}<button className="primary-button wide-button" type="button" onClick={rebuildFromPrompt}><Sparkle weight="fill" /> 按这句话重新搭配</button></section>
               </div>
             )}
 

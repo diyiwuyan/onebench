@@ -370,6 +370,36 @@ progress::-moz-progress-bar { border-radius: 99px; background: var(--accent); }
 .metric-tiles strong { font-size: 22px; letter-spacing: -.04em; }
 .metric-tiles small { color: var(--muted); font-size: 8px; line-height: 1.5; }
 
+.news-list { display: grid; gap: 10px; margin-top: 16px; }
+.news-list > div { display: grid; gap: 6px; padding: 12px; border-radius: 13px; background: var(--surface-2); }
+.news-list strong { font-size: 10px; line-height: 1.45; }
+.news-list small { color: var(--muted); font-size: 8px; line-height: 1.5; }
+.news-category { justify-self: start; padding: 2px 7px; border-radius: 20px; color: var(--accent); background: var(--accent-soft); font-size: 8px; font-weight: 800; }
+.news-hot { justify-self: start; padding: 2px 6px; border-radius: 20px; color: #fff; background: #d4775c; font-size: 8px; font-weight: 800; }
+.news-category + .news-hot { margin-left: 6px; }
+
+.quote-card { display: grid; gap: 12px; align-items: start; padding: 18px; border-radius: 16px; background: var(--surface-2); margin-top: 16px; }
+.quote-card > svg { color: var(--accent); }
+.quote-card p { margin: 0; font-size: 14px; line-height: 1.6; }
+.quote-card small { color: var(--muted); font-size: 9px; }
+
+.birthday-list { display: grid; gap: 9px; margin-top: 17px; }
+.birthday-list > div { display: grid; grid-template-columns: 9px minmax(0, 1fr); align-items: center; gap: 10px; padding: 12px; border-radius: 13px; background: var(--surface-2); }
+.birthday-list > div > span { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+.birthday-list > div > span.sage { background: #718b68; }
+.birthday-list > div > span.blue { background: #7087a0; }
+.birthday-list > div > span.apricot { background: #d4775c; }
+.birthday-list > div > span.plum { background: #9e86a6; }
+.birthday-list p { display: grid; min-width: 0; gap: 4px; margin: 0; }
+.birthday-list strong, .birthday-list small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.birthday-list strong { font-size: 10px; }
+.birthday-list small { color: var(--muted); font-size: 8px; }
+
+.period-card { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 17px; }
+.period-card > div { display: grid; gap: 6px; padding: 16px 10px; border-radius: 14px; background: var(--surface-2); text-align: center; }
+.period-card span { color: var(--muted); font-size: 8px; }
+.period-card strong { font-size: 11px; }
+
 .workbench-footer { display: flex; max-width: 1360px; align-items: center; justify-content: space-between; gap: 20px; margin: 35px auto 0; padding-top: 22px; border-top: 1px solid var(--line); color: var(--muted); font-size: 10px; }
 .workbench-footer > div { display: flex; align-items: center; gap: 7px; color: var(--accent); font-size: 18px; font-weight: 800; }
 .workbench-footer p { margin: 0; }
@@ -452,6 +482,8 @@ progress::-moz-progress-bar { border-radius: 99px; background: var(--accent); }
 .theme-grid button small { color: var(--muted); font-size: 8px; line-height: 1.5; }
 .theme-grid button.selected { border-color: var(--accent); }
 .prompt-box { min-height: 100px; resize: vertical; padding: 13px; font-size: 11px; line-height: 1.7; }
+.interpreted-hint { display: flex; align-items: center; gap: 6px; margin: 10px 0 0; padding: 9px 12px; border-radius: 10px; background: color-mix(in srgb, var(--accent) 12%, #fff); color: var(--ink); font-size: 9.5px; line-height: 1.5; }
+.interpreted-hint svg { flex: none; color: var(--accent); }
 .wide-button { width: 100%; }
 
 .market-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 15px; }
