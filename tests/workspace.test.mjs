@@ -6,8 +6,8 @@ import { packs, packModuleIds } from '../src/data/packs.js'
 import { themeCatalog } from '../src/data/themes.js'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from '../src/lib/backup.js'
 
-test('first-party catalog provides eight packs with shared modules', () => {
-  assert.equal(packs.length, 8)
+test('first-party catalog provides ten packs with shared modules', () => {
+  assert.equal(packs.length, 10)
   for (const pack of packs) {
     const modules = packModuleIds(pack)
     assert.ok(modules.includes('calendar'))
@@ -19,7 +19,7 @@ test('first-party catalog provides eight packs with shared modules', () => {
     assert.ok(modules.includes('settings'))
     assert.ok(themeCatalog.some((theme) => theme.id === pack.theme.id))
   }
-  assert.equal(new Set(packs.map((pack) => pack.theme.id)).size, 8)
+  assert.equal(new Set(packs.map((pack) => pack.theme.id)).size, 10)
 })
 
 test('workspace config is created from a pack and can toggle a module', () => {
