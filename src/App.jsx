@@ -113,6 +113,7 @@ import {
   updateModuleLayout,
 } from './lib/workspace'
 import { interpretPrompt } from './lib/intent'
+import { ProfessionalEdition } from './professional/ProfessionalEdition'
 import './styles.css'
 
 const registryUrl = 'https://raw.githubusercontent.com/diyiwuyan/onebench/main/packages/community-registry/registry.json'
@@ -370,6 +371,7 @@ export function App() {
   const [onboardingGoal, setOnboardingGoal] = useState('学习、待办和阶段目标')
   const [onboardingDevice, setOnboardingDevice] = useState('both')
   const [editMode, setEditMode] = useState(false)
+  const [editionMode, setEditionMode] = useState(() => localStorage.getItem('onebench.edition') || 'basic')
   const [weatherStatus, setWeatherStatus] = useState('')
   const drawerRef = useRef(null)
   const avatarInputRef = useRef(null)
@@ -496,6 +498,17 @@ export function App() {
     setShowOnboarding(false)
     setToast(onboardingDevice === 'both' ? '工作台已准备好。下一步可打开手机使用说明。' : '工作台已准备好，今天就可以开始使用。')
     if (onboardingDevice === 'both') setPanel('help')
+  }
+
+  function openEdition(editionId) {
+    localStorage.setItem('onebench.edition', editionId)
+    setEditionMode(editionId)
+    setPanel(null)
+  }
+
+  function backToBasicEdition() {
+    localStorage.setItem('onebench.edition', 'basic')
+    setEditionMode('basic')
   }
 
   function rebuildFromPrompt() {
@@ -1095,6 +1108,8 @@ export function App() {
     return null
   }
 
+  if (editionMode !== 'basic') return <ProfessionalEdition onBackToBasic={backToBasicEdition} />
+
   const summary = [
     { label: '今日任务', value: `${completedTasks}/${workspaceData.tasks.length}`, note: '完成进度', progress: Math.round(completedTasks / Math.max(1, workspaceData.tasks.length) * 100), color: 'apricot' },
     { label: '专注计划', value: `${workspaceData.focus.minutes}m`, note: workspaceData.focus.subject, progress: Math.min(100, workspaceData.focus.minutes * 3), color: 'blue' },
@@ -1126,6 +1141,7 @@ export function App() {
             <div><strong>{workspace.name}</strong><small>{workspace.profile?.displayName} · {pack.name} · {isStandalone ? '本地离线版' : '可操作演示'}</small></div>
           </div>
           <div className="top-actions">
+            <button className="secondary-button" type="button" onClick={() => setPanel('editions')}><StackSimple weight="duotone" /> 选择专业版</button>
             <button className={`secondary-button ${editMode ? 'active-edit' : ''}`} type="button" onClick={() => setEditMode((value) => !value)}><SquaresFour weight="duotone" /> {editMode ? '完成编辑' : '编辑小组件'}</button>
             <button className="secondary-button" type="button" onClick={() => setPanel('studio')}><Palette weight="duotone" /> 换身份与主题</button>
             <button className="primary-button" type="button" onClick={downloadLocalWorkbench}><DownloadSimple weight="bold" /> 一键拥有</button>
@@ -1377,7 +1393,7 @@ export function App() {
         <button type="button" onClick={() => editModule('calendar')}><CalendarBlank weight="duotone" /><span>日历</span></button>
         <button className="mobile-add" type="button" onClick={() => document.querySelector('.add-task input')?.focus()} aria-label="添加任务"><Plus weight="bold" /></button>
         <button type="button" onClick={() => setPanel('apps')}><ListDashes weight="duotone" /><span>应用</span></button>
-        <button type="button" onClick={() => setPanel('help')}><GearSix weight="duotone" /><span>设置</span></button>
+        <button type="button" onClick={() => setPanel('editions')}><StackSimple weight="duotone" /><span>版本</span></button>
       </nav>
 
       {toast && <button className="toast" type="button" onClick={() => setToast('')}><CheckCircle weight="fill" /><span>{toast}</span><X /></button>}
@@ -1386,9 +1402,25 @@ export function App() {
         <div className="drawer-layer" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setPanel(null) }}>
           <section className="drawer" role="dialog" aria-modal="true" aria-label="工作台设置" tabIndex="-1" ref={drawerRef}>
             <header className="drawer-head">
-              <div><p>ONEBENCH</p><h2>{panel === 'studio' ? '换成更像你的工作台' : panel === 'market' ? '模块与模板市场' : panel === 'apps' ? '我的全部应用' : panel === 'sync' ? '多端同步' : editorModuleId ? `编辑${findModule(editorModuleId)?.name || '模块'}` : '怎么使用'}</h2></div>
+              <div><p>ONEBENCH</p><h2>{panel === 'studio' ? '换成更像你的工作台' : panel === 'editions' ? '选择 OneBench 版本' : panel === 'market' ? '模块与模板市场' : panel === 'apps' ? '我的全部应用' : panel === 'sync' ? '多端同步' : editorModuleId ? `编辑${findModule(editorModuleId)?.name || '模块'}` : '怎么使用'}</h2></div>
               <button type="button" onClick={() => setPanel(null)} aria-label="关闭"><X weight="bold" /></button>
             </header>
+
+            {panel === 'editions' && (
+              <div className="drawer-body edition-picker-body">
+                <div className="simple-callout"><StackSimple weight="duotone" /><div><strong>基础版负责通用，专业版负责深度</strong><p>专业版拥有独立导航、首屏、数据和关键交互；随时可以返回基础版，原来的内容不会丢失。</p></div></div>
+                <section className="edition-picker-grid">
+                  {[
+                    ['basic', '基础版', '通用模块、职业包、市场和自由拖拽', StackSimple, '当前版本'],
+                    ['exam', '考公专业版', '倒计时、每日学习、行测申论、错题与数据', GraduationCap, '粉色兔兔风'],
+                    ['teacher', '教师专业版', '班级、学生、成绩、作业、谈话与排座位', Student, '薄荷班主任风'],
+                    ['hu', '胡楚靓同款', '每日计划、灵感、创作、复盘与个人学习', Sparkle, '白色橄榄绿'],
+                    ['creator', '创作者专业版', '内容推进、档期、管线、复盘与 OKR', Kanban, '暖米白看板'],
+                  ].map(([id, title, description, Icon, tone]) => <button type="button" key={id} className={id === 'basic' ? 'selected' : ''} onClick={() => id === 'basic' ? setPanel(null) : openEdition(id)}><Icon weight="duotone" /><span><strong>{title}</strong><small>{description}</small><i>{tone}</i></span><ArrowRight /></button>)}
+                </section>
+                <p className="section-copy">专业版参考来源和互动证据记录在 <a href="https://github.com/diyiwuyan/onebench/blob/main/docs/PROFESSIONAL-EDITIONS.md" target="_blank" rel="noreferrer">专业版设计来源</a>，界面素材均重新设计。</p>
+              </div>
+            )}
 
             {panel === 'apps' && (
               <div className="drawer-body">
@@ -1532,6 +1564,7 @@ export function App() {
               {[['computer', '先用电脑'], ['both', '电脑和手机都用']].map(([id, label]) => <button type="button" key={id} className={onboardingDevice === id ? 'selected' : ''} onClick={() => setOnboardingDevice(id)}>{label}<small>{id === 'both' ? '会同时打开手机添加说明' : '之后随时可升级到手机'}</small></button>)}
             </div>
             <button className="primary-button onboarding-submit" type="button" onClick={finishOnboarding}><Sparkle weight="fill" /> 生成我的工作台</button>
+            <button className="secondary-button onboarding-professional" type="button" onClick={() => { setShowOnboarding(false); setPanel('editions') }}><StackSimple weight="duotone" /> 我想直接选择专业版</button>
             <button className="onboarding-skip" type="button" onClick={() => setShowOnboarding(false)}>先看看示例</button>
           </section>
         </div>

@@ -1,36 +1,76 @@
-# OneBench widget workbench QA
+# OneBench 专业版 Design QA
 
-- Reference capture: `/tmp/onebench-audit/02-itab-app.png` (iTab current web start page).
-- Implementation capture: `/tmp/onebench-audit/06-onebench-final-desktop.png`.
-- Combined comparison: `/tmp/onebench-audit/07-comparison.png`.
-- Mobile capture: `/tmp/onebench-audit/05-onebench-mobile-cdp.png` at 390 × 844 CSS px.
-- State: postgraduate exam pack, campus-blue local test theme state, editable role starter data.
+## Comparison target
 
-## Visual findings
+- Source visual truth:
+  - 考公：`/tmp/onebench-pro-refs/exam.png`（952 × 935）
+  - 教师：`/tmp/onebench-pro-refs/teacher.png`（952 × 935）
+  - 胡楚靓同款：`/tmp/onebench-hu-display.webp`（1080 × 2297）
+  - 创作者：`/tmp/onebench-pro-refs/creator.png`（952 × 935）
+- Final implementation captures:
+  - `/tmp/onebench-pro-refs/exam-implementation-final.png`
+  - `/tmp/onebench-pro-refs/teacher-implementation-final.png`
+  - `/tmp/onebench-pro-refs/hu-implementation-final.png`
+  - `/tmp/onebench-pro-refs/creator-implementation-final.png`
+- Combined comparison evidence:
+  - `/tmp/onebench-pro-refs/exam-comparison-final.jpg`
+  - `/tmp/onebench-pro-refs/teacher-comparison-final.jpg`
+  - `/tmp/onebench-pro-refs/hu-comparison-final.jpg`
+  - `/tmp/onebench-pro-refs/creator-comparison-final.jpg`
+- Implementation viewport: 390 × 844 CSS px, device scale 1; every implementation capture is 390 × 844 px.
+- Normalization: source captures were proportionally resized to 844 px high and placed beside the implementation. Browser chrome and小红书正文区域 were treated as surrounding evidence, not app-owned UI.
+- State: each professional version's default home screen; creator pipeline and secondary module interactions were also tested separately.
 
-No actionable P0, P1, or P2 findings.
+## Full-view comparison evidence
 
-- Borrowed the useful iTab anatomy without copying its visual skin: persistent left application rail, a curated first-screen widget canvas, compact calendar/weather, and a module market.
-- Preserved OneBench's accepted product identity: warm paper artwork, calm lifestyle hierarchy, role-specific headline, summary rhythm, light surfaces, thin borders and rounded cards.
-- The homepage is no longer a flat dump of installed modules. Non-home modules remain reachable from the “全部” application drawer.
-- Widget edit controls are visible only in edit mode except for the small pencil entry, which makes the previously static-looking cards discoverably editable.
-- Desktop keeps a denser two/three-column widget rhythm. At 390 × 844 the side rail becomes bottom navigation, cards collapse to one column, and the document reports no horizontal overflow.
-- Calendar, weather, task and role progress widgets fit the same component system; no foreign dashboard style was introduced.
+- 考公：粉色低压背景、窄侧栏、倒计时、每日计划和分科卡片与来源的信息层级一致；重新设计了兔子图标与示例数据。
+- 教师：薄荷绿班主任侧栏、班级身份卡、班级统计、待办和学生关注区与来源结构一致；隐私敏感内容使用虚拟数据。
+- 胡楚靓同款：白色／橄榄绿、每日计划中心、生活领域侧栏、灵感／复盘／学习卡片与来源移动端节奏一致。
+- 创作者：暖米白、今日推进、内容管线、阶段状态和 OKR 与来源视频中的创作者看板主任务一致。
 
-## Interaction evidence
+Focused region comparison was not required after normalization: each implementation is a native 390 × 844 capture and the source app regions, sidebars, primary cards, labels and controls are legible in the combined files. Original author avatars, video overlays and小红书 controls were intentionally excluded.
 
-1. Edited “数学” to “数学冲刺” in the learning-plan editor and reloaded; the value persisted.
-2. Entered widget edit mode, changed weather from small to medium and reloaded; the size persisted.
-3. Reordered calendar with the keyboard drag sensor; DOM order changed from `calendar,tasks,...` to `tasks,calendar,...` and persisted after reload.
-4. Moved weather to the sidebar, confirmed it disappeared from the homepage, then restored it from “全部应用”.
-5. Refreshed Beijing weather through Open-Meteo; the widget changed from the starter cache to 31°C and the editor reported a successful cached update.
-6. Verified that learning, tasks, calendar, habits, goals, countdowns, files, role progress, detail lists, metrics, analytics, focus, review and weather all have a direct interaction or an add/edit/delete editor.
-7. Ran template, module and registry validation; 12 unit tests; Sites build tests; production build; and MV3 extension build.
+## Required fidelity surfaces
 
-## Intentional differences from iTab
+- Fonts and typography: uses system sans-serif for operational UI and Songti/Georgia fallback for the two lifestyle/editorial headings. Weight, hierarchy and wrapping remain legible at 390 px. No clipped persistent control was found.
+- Spacing and layout rhythm: mobile sidebars were widened from 58 px to 88 px after the first comparison so labels remain visible like the sources. Cards use consistent 14–24 px rhythm and 14–24 px radii.
+- Colors and tokens: each edition uses a separate solid palette—pink, mint, olive, warm beige. Decorative gradients were removed. Status colors retain sufficient contrast on light surfaces.
+- Image quality and assets: original author imagery, avatars, video frames and proprietary artwork are not shipped. Standard UI imagery uses Phosphor icons, including the rabbit mark; there are no placeholder images, handmade SVGs or CSS illustrations.
+- Copy and content: visible copy is rewritten for OneBench and uses realistic but fictional tasks, students, scores and content projects. Source-specific prompts and paid/proprietary materials were not copied.
 
-1. OneBench leads with the user's role and current intent instead of a search box and website shortcuts.
-2. OneBench keeps private daily work data local by default and treats online refresh/sync as explicit upgrades.
-3. Career packs preload a theme, useful modules and editable first-use examples; iTab's generic component grid does not supply this role layer.
+## Comparison history
+
+### Iteration 1
+
+- [P1] Switching from the lifestyle edition to creator caused a blank screen because the previous edition's data did not contain `pipeline`.
+  - Fix: load the target edition's data before switching and add a defensive creator-pipeline fallback.
+  - Post-fix evidence: creator home renders and `选题 → 制作中` advances without an error.
+- [P2] Mobile navigation hid every label and reduced the source's recognizable information architecture to icons.
+  - Fix: widen the mobile rail to 88 px and retain visible 9 px labels.
+  - Post-fix evidence: all four final comparison captures show labeled side navigation.
+- [P2] Secondary navigation only changed the selected icon; the professional modules did not change content.
+  - Fix: add dedicated interactive pages for exam practice, essay, mistakes, learning data, students, scores, assignments, conversations, inspiration, review, memo, learning, pipeline, schedule and OKR. Each page has completion toggles, progress and an auto-saved note.
+  - Post-fix evidence: the creator `内容管线` page renders, accepts a note and preserves it after reload.
+
+## Findings
+
+No actionable P0, P1 or P2 issue remains in the four primary screens or the tested professional navigation flow.
+
+## Follow-up polish
+
+- [P3] The edition switcher is intentionally visible above the app content, while the source projects do not show a cross-edition switcher.
+- [P3] Exact original fonts, avatars, animal artwork and creator video imagery are intentionally not reproduced for copyright and attribution reasons.
+- [P3] A future iteration can add true drag-and-drop scheduling to the creator edition and photo/voice input to the exam mistake book.
+
+## Primary interactions tested
+
+- Open the professional-version picker from the basic edition.
+- Switch among exam, teacher, lifestyle and creator editions.
+- Add and complete a teacher task.
+- Advance a creator pipeline item.
+- Open a secondary module, toggle its entries and save a note.
+- Reload and verify the note remains in local storage.
+- Return-to-basic control remains present in every edition.
+- Browser console checked: the only captured error was the earlier creator-switch failure before its fix; subsequent reloads and interactions produced no new runtime error.
 
 final result: passed
