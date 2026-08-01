@@ -103,6 +103,7 @@ import { injectStandalonePayload } from './lib/local-export'
 import {
   GITHUB_STORAGE_KEY,
   PACK_HOME_MODULES,
+  WORKSPACE_STORAGE_KEY,
   createWorkspace,
   loadWorkspace,
   normalizeWorkspace,
@@ -364,6 +365,10 @@ export function App() {
   const [backupPassphrase, setBackupPassphrase] = useState('')
   const [backupStatus, setBackupStatus] = useState('')
   const [installPrompt, setInstallPrompt] = useState(null)
+  const [showOnboarding, setShowOnboarding] = useState(() => !embeddedSeed && !(typeof localStorage !== 'undefined' && localStorage.getItem(WORKSPACE_STORAGE_KEY)))
+  const [onboardingPackId, setOnboardingPackId] = useState('university')
+  const [onboardingGoal, setOnboardingGoal] = useState('学习、待办和阶段目标')
+  const [onboardingDevice, setOnboardingDevice] = useState('both')
   const [editMode, setEditMode] = useState(false)
   const [weatherStatus, setWeatherStatus] = useState('')
   const drawerRef = useRef(null)
@@ -478,6 +483,19 @@ export function App() {
     setTimerSeconds((nextData.focus?.minutes || 25) * 60)
     setToast(`已换成「${nextPack.name}」默认搭配，页面和内容都已更新。`)
     setPanel(null)
+  }
+
+  function finishOnboarding() {
+    const targetPack = findPack(onboardingPackId) || findPack('university')
+    const intent = onboardingGoal.trim() ? `我想管理${onboardingGoal.trim()}` : targetPack.prompt
+    const nextWorkspace = createWorkspace({ packId: targetPack.id, prompt: intent })
+    const nextData = defaultWorkspaceData(nextWorkspace)
+    persistWorkspace(nextWorkspace)
+    persistData(nextData, nextWorkspace)
+    setPrompt(intent)
+    setShowOnboarding(false)
+    setToast(onboardingDevice === 'both' ? '工作台已准备好。下一步可打开手机使用说明。' : '工作台已准备好，今天就可以开始使用。')
+    if (onboardingDevice === 'both') setPanel('help')
   }
 
   function rebuildFromPrompt() {
@@ -1490,6 +1508,31 @@ export function App() {
                 <article><span>4</span><div><h3>以后继续修改</h3><p>直接对智能体说：“把我的工作台改成……”“增加……模块”“换成……风格”。它会在同一个开源项目上继续迭代。</p><a href="https://github.com/diyiwuyan/onebench/tree/main/skills/onebench-deploy" target="_blank" rel="noreferrer">查看 OneBench Skill <ArrowSquareOut /></a></div></article>
               </div>
             )}
+          </section>
+        </div>
+      )}
+      {showOnboarding && (
+        <div className="onboarding-backdrop" role="presentation">
+          <section className="onboarding-card" role="dialog" aria-modal="true" aria-labelledby="onboarding-title">
+            <div className="onboarding-kicker">ONEBENCH · 3 步开始</div>
+            <h2 id="onboarding-title">先回答三个小问题，马上得到你的工作台</h2>
+            <p className="onboarding-lead">不用懂模块、部署或 GitHub。我们会先给你一份能直接使用的版本。</p>
+            <label className="onboarding-label">1. 你现在更像哪种身份？</label>
+            <div className="onboarding-roles">
+              {['university', 'teacher', 'postgraduate-exam', 'civil-service-exam', 'creator', 'freelancer'].map((id) => {
+                const item = findPack(id)
+                const Icon = item.icon
+                return <button type="button" key={id} className={onboardingPackId === id ? 'selected' : ''} onClick={() => setOnboardingPackId(id)}><Icon weight="duotone" /><span>{item.name}</span></button>
+              })}
+            </div>
+            <label className="onboarding-label" htmlFor="onboarding-goal">2. 你最想先管理什么？</label>
+            <input id="onboarding-goal" className="onboarding-input" value={onboardingGoal} onChange={(event) => setOnboardingGoal(event.target.value)} placeholder="例如：课程、作业和考研进度" />
+            <label className="onboarding-label">3. 你准备在哪里使用？</label>
+            <div className="onboarding-devices">
+              {[['computer', '先用电脑'], ['both', '电脑和手机都用']].map(([id, label]) => <button type="button" key={id} className={onboardingDevice === id ? 'selected' : ''} onClick={() => setOnboardingDevice(id)}>{label}<small>{id === 'both' ? '会同时打开手机添加说明' : '之后随时可升级到手机'}</small></button>)}
+            </div>
+            <button className="primary-button onboarding-submit" type="button" onClick={finishOnboarding}><Sparkle weight="fill" /> 生成我的工作台</button>
+            <button className="onboarding-skip" type="button" onClick={() => setShowOnboarding(false)}>先看看示例</button>
           </section>
         </div>
       )}

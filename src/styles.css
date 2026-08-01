@@ -558,6 +558,24 @@ progress::-moz-progress-bar { border-radius: 99px; background: var(--accent); }
 .featured-market-grid strong { font-size: 9px; }
 .featured-market-grid small { color: var(--muted); font-size: 8px; line-height: 1.4; }
 .featured-market-grid i { margin-top: auto; color: var(--accent); font-size: 8px; font-style: normal; font-weight: 800; }
+
+.onboarding-backdrop { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; padding: 24px; background: rgba(34, 29, 38, .48); backdrop-filter: blur(12px); }
+.onboarding-card { width: min(680px, 100%); max-height: min(840px, calc(100vh - 48px)); overflow: auto; padding: 34px; border: 1px solid color-mix(in srgb, var(--line) 70%, white); border-radius: 28px; background: var(--surface); box-shadow: 0 28px 80px rgba(34, 29, 38, .24); }
+.onboarding-kicker { margin-bottom: 10px; color: var(--accent); font-size: 12px; font-weight: 800; letter-spacing: .12em; }
+.onboarding-card h2 { max-width: 540px; margin: 0; font-size: clamp(28px, 5vw, 42px); line-height: 1.12; }
+.onboarding-lead { margin: 12px 0 26px; color: var(--muted); }
+.onboarding-label { display: block; margin: 20px 0 10px; font-weight: 750; }
+.onboarding-roles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.onboarding-roles button, .onboarding-devices button { display: flex; align-items: center; gap: 9px; min-height: 54px; padding: 12px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface-2); color: var(--ink); text-align: left; cursor: pointer; }
+.onboarding-roles button.selected, .onboarding-devices button.selected { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 11%, var(--surface)); box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 18%, transparent); }
+.onboarding-roles svg { color: var(--accent); }
+.onboarding-input { width: 100%; padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface-2); color: var(--ink); font: inherit; }
+.onboarding-devices { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.onboarding-devices button { display: block; font-weight: 750; }
+.onboarding-devices small { display: block; margin-top: 4px; color: var(--muted); font-weight: 500; }
+.onboarding-submit { width: 100%; justify-content: center; margin-top: 28px; min-height: 50px; }
+.onboarding-skip { display: block; margin: 14px auto 0; border: 0; background: transparent; color: var(--muted); cursor: pointer; }
+@media (max-width: 640px) { .onboarding-card { padding: 24px; border-radius: 22px; } .onboarding-roles { grid-template-columns: repeat(2, 1fr); } }
 .oauth-callout { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 13px; border: 1px solid var(--line); border-radius: 13px; background: var(--surface-2); }
 .oauth-callout > div { display: grid; gap: 4px; }
 .oauth-callout strong { font-size: 10px; }
