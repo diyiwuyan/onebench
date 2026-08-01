@@ -1,4 +1,4 @@
-import { findModule } from '../data/modules.js'
+import { findModule, sharedModuleIds } from '../data/modules.js'
 import { findPack, packModuleIds } from '../data/packs.js'
 
 export const WORKSPACE_VERSION = '1.0.0'
@@ -60,6 +60,9 @@ export function normalizeWorkspace(candidate) {
   if (candidate.version !== WORKSPACE_VERSION) throw new Error(`暂不支持配置版本 ${candidate.version || '未知'}。`)
   if (!candidate.id || !candidate.name || !Array.isArray(candidate.modules)) throw new Error('配置缺少 id、name 或 modules。')
   const candidateModules = candidate.modules.filter((module) => module && typeof module.id === 'string')
+  for (const sharedId of sharedModuleIds) {
+    if (!candidateModules.some((module) => module.id === sharedId)) candidateModules.push(moduleSettings(sharedId, candidateModules.length, candidate.sourcePack))
+  }
   const isLegacyLayout = candidateModules.every((module) => !Object.hasOwn(module, 'placement'))
   if (isLegacyLayout && !candidateModules.some((module) => module.id === 'weather')) {
     candidateModules.splice(Math.min(2, candidateModules.length), 0, moduleSettings('weather', 2, candidate.sourcePack))
@@ -110,7 +113,7 @@ export function toggleModule(workspace, moduleId) {
     updatedAt: new Date().toISOString(),
     modules: exists
       ? workspace.modules.filter((module) => module.id !== moduleId)
-      : [...workspace.modules, moduleSettings(moduleId, workspace.modules.length, workspace.sourcePack)],
+      : [...workspace.modules, { ...moduleSettings(moduleId, workspace.modules.length, workspace.sourcePack), placement: 'home' }],
   }
 }
 

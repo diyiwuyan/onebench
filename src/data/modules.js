@@ -153,7 +153,7 @@ export const moduleCatalog = baseModuleCatalog.map((module) => ({
   ...(capabilityById[module.id] || {}),
 }))
 
-export const sharedModuleIds = ['calendar', 'weather', 'tasks', 'quick-note', 'habits', 'profile', 'appearance', 'sync', 'settings']
+export const sharedModuleIds = ['calendar', 'weather', 'tasks', 'quick-note', 'habits', 'news', 'profile', 'appearance', 'sync', 'settings']
 
 export function findModule(id) {
   return moduleCatalog.find((module) => module.id === id)

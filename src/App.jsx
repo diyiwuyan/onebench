@@ -87,6 +87,7 @@ import bundledRegistry from '../packages/community-registry/registry.json'
 import { findModule, moduleCatalog, moduleKinds } from './data/modules'
 import { findPack, packs } from './data/packs'
 import { scenarioCatalog } from './data/scenarios'
+import { defaultRssSources } from './data/rss-sources'
 import { findTheme, themeCatalog } from './data/themes'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from './lib/backup'
 import {
@@ -625,6 +626,11 @@ export function App() {
     }
   }
 
+  function chooseRssSource(source) {
+    updateData((data) => ({ ...data, rss: { ...data.rss, feedUrl: source.url, title: source.name } }))
+    setLiveStatus((current) => ({ ...current, rss: `已选择「${source.name}」，点击读取订阅即可更新。` }))
+  }
+
   async function refreshExchangeData() {
     setLiveStatus((current) => ({ ...current, exchange: '正在更新汇率…' }))
     try {
@@ -691,6 +697,18 @@ export function App() {
     })
     persistWorkspace(nextWorkspace)
     setToast(`已加入「${scenario.name}」场景模块，原有内容没有被覆盖。`)
+  }
+
+  function addModuleToHome(moduleId) {
+    const item = findModule(moduleId)
+    if (!item) return
+    if (activeModuleIds.has(moduleId)) {
+      editModule(moduleId)
+      return
+    }
+    persistWorkspace(toggleModule(workspace, moduleId))
+    setToast(`「${item.name}」已添加到首页。`)
+    setPanel(null)
   }
 
   function setFocusPreset(minutes) {
@@ -882,16 +900,32 @@ export function App() {
   }
 
   function installMarketEntry(entry) {
+    const careerPackMap = {
+      'university-career-pack': 'university',
+    }
+    if (entry.kind === 'career-pack' && careerPackMap[entry.id]) {
+      choosePack(findPack(careerPackMap[entry.id]))
+      setToast(`已切换到「${findPack(careerPackMap[entry.id]).name}」职业包，首页已准备好。`)
+      return
+    }
+    if (entry.kind === 'theme-pack' && entry.id === 'warm-paper-theme') {
+      const warmPaper = themeCatalog.find((item) => item.id === 'warm-paper')
+      if (warmPaper) changeTheme(warmPaper)
+      setToast('已应用「暖纸晨光」主题。')
+      return
+    }
     const required = Array.isArray(entry.requires) ? entry.requires.filter(findModule) : []
     if (!required.length) {
-      setMarketStatus('这个条目需要先由维护者审阅源码，浏览器不会直接执行第三方代码。')
+      setMarketStatus('这个条目还没有可安装的固定模块，需要维护者先完成源码审阅。')
       return
     }
     const missing = required.filter((id) => !activeModuleIds.has(id))
     let nextWorkspace = workspace
     missing.forEach((id) => { nextWorkspace = toggleModule(nextWorkspace, id) })
     persistWorkspace(nextWorkspace)
-    setMarketStatus(`已添加「${entry.name}」所需的模块组合。`)
+    setMarketStatus(`已添加「${entry.name}」所需的模块组合，并默认放到首页。`)
+    setToast(`「${entry.name}」已添加到首页。`)
+    setPanel(null)
   }
 
   function widget(module, cardProps, content) {
@@ -1056,7 +1090,7 @@ export function App() {
         <button className="brand-mark" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label="回到顶部"><StackSimple weight="fill" /></button>
         <nav>
           <button className="active" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><House weight="fill" /><span>首页</span></button>
-          {(PACK_HOME_MODULES[pack.id] || ['calendar', 'tasks', 'quick-note', 'goals']).filter((id) => activeModuleIds.has(id)).slice(0, 4).map((id) => {
+          {[...(PACK_HOME_MODULES[pack.id] || ['calendar', 'tasks', 'quick-note', 'goals']).slice(0, 4), 'news', 'rss'].filter((id, index, list) => activeModuleIds.has(id) && list.indexOf(id) === index).slice(0, 6).map((id) => {
             const item = findModule(id)
             const Icon = item.icon
             return <button type="button" key={id} onClick={() => editModule(id)}><Icon weight="duotone" /><span>{item.name}</span></button>
@@ -1367,7 +1401,7 @@ export function App() {
                 )}
 
                 {editorModuleId === 'rss' && (
-                  <section><h3>添加 RSS 订阅源</h3><label>RSS 地址<input type="url" value={workspaceData.rss?.feedUrl || ''} onChange={(event) => updateData({ ...workspaceData, rss: { ...workspaceData.rss, feedUrl: event.target.value } })} placeholder="https://example.com/feed.xml" /></label><button className="primary-button" type="button" onClick={refreshRssData}><Rss /> 读取订阅</button>{liveStatus.rss && <p className="sync-status">{liveStatus.rss}</p>}<p className="section-copy">只读取你主动填写的公开订阅地址，并保留最近一次缓存。</p></section>
+                  <section><h3>添加 RSS 订阅源</h3><p className="section-copy">先选一个默认源，也可以粘贴自己的 RSS 地址。默认源会显示中文内容，并保留最近一次缓存。</p><div className="rss-presets">{defaultRssSources.map((source) => <button type="button" key={source.id} className={workspaceData.rss?.feedUrl === source.url ? 'selected' : ''} onClick={() => chooseRssSource(source)}><strong>{source.name}</strong><small>{source.tags}</small></button>)}</div><label>RSS 地址<input type="url" value={workspaceData.rss?.feedUrl || ''} onChange={(event) => updateData({ ...workspaceData, rss: { ...workspaceData.rss, feedUrl: event.target.value } })} placeholder="https://example.com/feed.xml" /></label><button className="primary-button" type="button" onClick={refreshRssData}><Rss /> 读取订阅</button>{liveStatus.rss && <p className="sync-status">{liveStatus.rss}</p>}<p className="section-copy">只读取你主动填写的公开订阅地址，并保留最近一次缓存。</p></section>
                 )}
 
                 {editorModuleId === 'exchange-rates' && (
@@ -1432,6 +1466,7 @@ export function App() {
             {panel === 'market' && (
               <div className="drawer-body">
                 <div className="market-toolbar"><p>{marketStatus}</p><button className="secondary-button" type="button" onClick={refreshMarket}><ArrowClockwise /> 联网检查更新</button></div>
+                <section className="featured-market"><div className="section-title-row"><div><h3>推荐联网模块</h3><p>新闻和订阅会直接放到首页，打开就能看到。</p></div></div><div className="featured-market-grid">{['news', 'rss', 'exchange-rates'].map((id) => { const item = findModule(id); const Icon = item.icon; const active = activeModuleIds.has(id); return <button type="button" key={id} onClick={() => addModuleToHome(id)}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span><i>{active ? '打开设置' : '添加到首页'}</i></button> })}</div></section>
                 <section><div className="market-filters"><input value={marketQuery} onChange={(event) => setMarketQuery(event.target.value)} placeholder="搜索模块，例如：新闻、汇率、自动" aria-label="搜索模块" /><div>{[['all', '全部'], ...Object.entries(moduleKinds).filter(([kind]) => kind !== 'system').map(([kind, item]) => [kind, item.name])].map(([value, label]) => <button className={marketKind === value ? 'selected' : ''} type="button" key={value} onClick={() => setMarketKind(value)}>{label}</button>)}</div></div><h3>内置模块 · 离线可用</h3><div className="module-market">{marketModules.map((item) => { const Icon = item.icon; const enabled = activeModuleIds.has(item.id); return <button className={enabled ? 'enabled' : ''} type="button" key={item.id} onClick={() => persistWorkspace(toggleModule(workspace, item.id))}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small><em>{moduleKinds[item.kind]?.name} · {item.dataBoundary === 'network-cached' ? '联网缓存' : item.dataBoundary === 'local-sensitive' ? '敏感数据' : '本机'}</em></span><i>{enabled ? '已添加' : '添加'}</i></button> })}</div>{!marketModules.length && <p className="section-copy">没有找到匹配模块，试试“新闻”“自动”或“连接”。</p>}</section>
                 <section><div className="section-title-row"><div><h3>社区模板与模块</h3><p>职业包、布局、主题、模块组合和单模块分开投稿。</p></div><span>{marketEntries.length} 个条目</span></div><div className="community-list">{marketEntries.map((entry) => { const kindNames = { 'career-pack': '职业包', 'layout-template': '布局模板', 'theme-pack': '主题包', 'module-bundle': '模块组合', module: '单模块', 'template-pack': '模块组合' }; return <article key={`${entry.kind}-${entry.id}`}><div><span className="community-kind">{kindNames[entry.kind] || '社区作品'}</span><strong>{entry.name}</strong><small>{entry.description}</small><em>{entry.permissions?.length ? `权限：${entry.permissions.join('、')}` : '无需额外权限'}</em></div><aside><a href={`https://github.com/${entry.source.repository}/blob/${entry.source.ref}/${entry.source.path}`} target="_blank" rel="noreferrer">看源码</a><button type="button" onClick={() => installMarketEntry(entry)}>添加</button></aside></article> })}</div></section>
                 <div className="ecosystem-callout"><StackSimple weight="duotone" /><div><strong>把你的工作台贡献给更多人</strong><p>职业模板、模块创意和连接器都通过 GitHub PR 进入公共目录；每次更新都可追溯、可回滚。</p><span><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noreferrer">贡献模板</a><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/MODULES.md" target="_blank" rel="noreferrer">贡献模块</a></span></div></div>

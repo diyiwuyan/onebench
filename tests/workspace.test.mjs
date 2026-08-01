@@ -57,7 +57,9 @@ test('widget placement, sizing and order survive normalization', () => {
   assert.equal(normalized.modules.find((module) => module.id === 'weather').size, 'wide')
   assert.equal(normalized.modules.filter((module) => module.placement === 'home')[1].id, homeIds[0])
   const removedWeather = normalizeWorkspace(toggleModule(normalized, 'weather'))
-  assert.equal(removedWeather.modules.some((module) => module.id === 'weather'), false)
+  // Weather is a shared module; normalization restores it when an old or
+  // imported workspace omits it, so every workspace keeps the common baseline.
+  assert.equal(removedWeather.modules.some((module) => module.id === 'weather'), true)
 })
 
 test('workspace config rejects malformed or incompatible data', () => {

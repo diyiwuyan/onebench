@@ -1,6 +1,6 @@
 {
   "format": "onebench-template-pack/v1",
-  "sharedModules": ["calendar", "weather", "tasks", "quick-note", "habits", "profile", "appearance", "sync", "settings"],
+  "sharedModules": ["calendar", "weather", "tasks", "quick-note", "habits", "news", "profile", "appearance", "sync", "settings"],
   "packs": [
     {"id":"university","name":"大学生","theme":"campus-sky","prompt":"我是大学生，想要课程、DDL 和考证规划台","title":"我的学期节奏","description":"课程、作业、考证与生活节奏放在一起。","modules":["schedule","assignments","learning","focus","countdown","goals","review","reading","wellbeing","workout","meals","news","quotes","diary"]},
     {"id":"teacher","name":"K12 教师","theme":"chalk-sage","prompt":"我是 K12 教师，想要课表、备课和班级事项管理台","title":"我的教学节奏","description":"用一个台面安排备课、班务与教研。","modules":["schedule","lesson-plans","classroom","meetings","projects","goals","review","files","wellbeing","news","diary"]},
