@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T15:19:29.573Z",
-  "expiresAt": "2026-08-01T21:19:29.573Z",
+  "generatedAt": "2026-08-01T17:14:45.590Z",
+  "expiresAt": "2026-08-01T23:14:45.590Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670675.shtml",
+      "title": "世界排球联赛男排总决赛：波兰、美国会师决赛",
+      "category": "综合",
+      "summary": "中新社宁波8月1日电 (张煜欢 鲍梦妮)8月1日，2026世界排球联赛男排总决赛半决赛在浙江宁波北仑举行，波兰、美国男排分别击败斯洛文尼亚与日本男排，会师决赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670675.shtml",
+      "publishedAt": "2026-08-01T16:06:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-01/10670673.shtml",
+      "title": "2026年广东省城市篮球联赛收官 东莞队获得总冠军",
+      "category": "综合",
+      "summary": "中新社东莞8月1日电 (记者 张璐)2026年广东省城市篮球联赛(简称“粤BA”)总决赛第二回合8月1日晚在东莞举行。东莞队坐镇主场，以108:73战胜深圳队，以总比分2:0获胜，夺得“粤BA”总冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-01/10670673.shtml",
+      "publishedAt": "2026-08-01T15:46:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-01/10670672.shtml",
+      "title": "乘火车、飞机这些东西不能带 暑期出行攻略→",
+      "category": "综合",
+      "summary": "暑期出游、探亲、研学等日程排得满满当当，不光要玩得尽兴，还要注意出行安全，不要因为一时疏忽，耽误行程。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670672.shtml",
+      "publishedAt": "2026-08-01T15:31:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-01/10670670.shtml",
+      "title": "建军99周年，军号里的9个“第一次”",
+      "category": "综合",
+      "summary": "军号嘹亮，九十九载冲锋向前",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670670.shtml",
+      "publishedAt": "2026-08-01T15:20:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-01/10670671.shtml",
       "title": "国家防总、应急管理部针对重庆启动防汛四级应急响应",
@@ -490,78 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670632.shtml",
       "publishedAt": "2026-08-01T13:49:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml",
-      "title": "从算力底座到终端应用 “中国智造”全面出海",
-      "category": "综合",
-      "summary": "以高技术制造业、人工智能为代表的新兴产业，正成为我国经济的核心驱动力量。国家发展改革委今日在发布会上表示，上半年，人工智能相关行业保持30%以上的高增长。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml",
-      "publishedAt": "2026-08-01T13:45:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-01/10670630.shtml",
-      "title": "医保基金结算堵点加快打通 减轻群众就医负担",
-      "category": "综合",
-      "summary": "央视网消息(新闻联播)：近年来，我国不断提升医保管理服务水平，加快打通医保基金即时结算堵点，进一步减轻群众就医负担。国家医保局最新统计显示，今年1—5月，全国跨省异地就医直接结算1.47亿人次，涉及医疗总费用1503亿元，减少群众垫付资金886亿元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670630.shtml",
-      "publishedAt": "2026-08-01T13:43:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-01/10670629.shtml",
-      "title": "不断推动退役军人工作高质量发展",
-      "category": "综合",
-      "summary": "坚持为经济社会发展服务、为国防和军队建设服务",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670629.shtml",
-      "publishedAt": "2026-08-01T13:41:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml",
-      "title": "【长江十年行】长江十年 贵州用十个故事作答",
-      "category": "综合",
-      "summary": "长江，中华民族的母亲河，自唐古拉山的冰川发端，奔涌六千三百余公里，枝繁脉盛、河湖共生，横贯华夏大地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml",
-      "publishedAt": "2026-08-01T13:37:33.000Z",
       "tags": [
         "国内",
         "社会",
