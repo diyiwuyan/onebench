@@ -81,6 +81,11 @@ function quoteData() {
   }
 }
 
+export function getDailyQuote() {
+  const daily = quoteLibrary[dayOfYear() % quoteLibrary.length]
+  return { title: daily.text, meta: daily.source }
+}
+
 // --- 新闻资讯：按身份角色做本地推荐 ---
 function newsItems(roleId) {
   const common = [
@@ -203,11 +208,21 @@ function healthItems() {
 // --- 生日记录 ---
 function birthdayItems() {
   return [
-    { title: '妈妈', meta: `${inDaysStr(12)}（12 天后）`, tone: 'apricot' },
-    { title: '闺蜜小林', meta: `${inDaysStr(25)}（25 天后）`, tone: 'sage' },
-    { title: '爸爸', meta: `${inDaysStr(95)}（95 天后）`, tone: 'blue' },
-    { title: '自己', meta: `${inDaysStr(140)}（140 天后）`, tone: 'plum' },
+    { title: '妈妈', date: inDays(12).slice(0, 10), tone: 'apricot' },
+    { title: '闺蜜小林', date: inDays(25).slice(0, 10), tone: 'sage' },
+    { title: '爸爸', date: inDays(95).slice(0, 10), tone: 'blue' },
+    { title: '自己', date: inDays(140).slice(0, 10), tone: 'plum' },
   ]
+}
+
+export function birthdayView(item, now = new Date()) {
+  if (!item?.date) return { ...item, meta: item?.meta || '点击补充日期', days: null }
+  const source = new Date(`${item.date}T12:00:00`)
+  if (Number.isNaN(source.getTime())) return { ...item, meta: '日期格式有误', days: null }
+  const next = new Date(now.getFullYear(), source.getMonth(), source.getDate(), 12)
+  if (next < now) next.setFullYear(next.getFullYear() + 1)
+  const days = Math.max(0, Math.ceil((next.getTime() - now.getTime()) / 86400000))
+  return { ...item, days, meta: `${next.getMonth() + 1} 月 ${next.getDate()} 日（${days === 0 ? '就是今天' : `${days} 天后`}）` }
 }
 
 // --- 生理期记录 ---
@@ -230,6 +245,34 @@ function periodData() {
       { date: new Date(last.getFullYear(), last.getMonth(), last.getDate() - 56).toISOString().slice(0, 10), duration: 6 },
     ],
   }
+}
+
+export function calculatePeriod(period = {}, now = new Date()) {
+  const cycleDays = Math.min(60, Math.max(1, Number(period.cycleDays) || 28))
+  const last = new Date(`${period.lastPeriod || now.toISOString().slice(0, 10)}T12:00:00`)
+  if (Number.isNaN(last.getTime())) return { ...period, cycleDays, predictedNext: '', currentDay: 0, status: '请检查上次日期' }
+  const predicted = new Date(last)
+  predicted.setDate(predicted.getDate() + cycleDays)
+  const elapsed = Math.max(0, Math.floor((now.getTime() - last.getTime()) / 86400000))
+  const daysUntil = Math.ceil((predicted.getTime() - now.getTime()) / 86400000)
+  return {
+    ...period,
+    cycleDays,
+    predictedNext: predicted.toISOString().slice(0, 10),
+    currentDay: elapsed + 1,
+    status: daysUntil > 0 ? `预计 ${daysUntil} 天后来潮` : daysUntil === 0 ? '预计今日来潮' : `已超过预测 ${Math.abs(daysUntil)} 天`,
+  }
+}
+
+const numericAmount = (value) => {
+  const amount = Number(String(value ?? '').replace(/[^\d.-]/g, '')) || 0
+  return String(value ?? '').trim().startsWith('-') ? -Math.abs(amount) : amount
+}
+
+export function bookkeepingSummary(items = []) {
+  const income = items.filter((item) => item.category === 'income' || numericAmount(item.value) > 0).reduce((sum, item) => sum + Math.abs(numericAmount(item.value)), 0)
+  const expense = items.filter((item) => item.category === 'expense' || numericAmount(item.value) < 0).reduce((sum, item) => sum + Math.abs(numericAmount(item.value)), 0)
+  return { income, expense, balance: income - expense }
 }
 
 // --- 日记本 ---
@@ -527,8 +570,8 @@ const roleSeeds = {
       { title: '体重', value: '8.2 kg', meta: '较上月 +0.6 kg' },
     ],
     birthdays: [
-      { title: '宝宝周岁', meta: `${inDaysStr(145)}（145 天后）`, tone: 'apricot' },
-      { title: '妈妈生日', meta: `${inDaysStr(12)}（12 天后）`, tone: 'sage' },
+      { title: '宝宝周岁', date: inDays(145).slice(0, 10), tone: 'apricot' },
+      { title: '妈妈生日', date: inDays(12).slice(0, 10), tone: 'sage' },
     ],
     period: {
       lastPeriod: new Date(new Date().setDate(new Date().getDate() - 26)).toISOString().slice(0, 10),
@@ -547,6 +590,52 @@ const roleSeeds = {
     ],
     habits: [habit('给宝宝读绘本'), habit('记录喂养'), habit('户外 30 分钟')],
     reading: [{ title: '崔玉涛育儿百科', meta: '读到 30%' }, { title: '正面管教', meta: '本月待读' }],
+  },
+  office: {
+    quote: '把今天最重要的事放到眼前。',
+    tasks: [task('确认本周项目优先级'), task('回复两封关键邮件'), task('整理会议结论')],
+    schedule: [{ time: '09:30', title: '项目周会', meta: '确认里程碑' }, { time: '14:00', title: '需求评审', meta: '会议室 A' }, { time: '17:20', title: '当天收尾', meta: '清理待办' }],
+    projects: [{ title: '客户门户改版', meta: '周五进入联调', progress: 68 }, { title: '季度复盘', meta: '等待两组数据', progress: 42 }],
+    meetings: [{ title: '项目周会', meta: '今天 09:30 · 需确认负责人' }, { title: '需求评审', meta: '今天 14:00 · 3 个待决策项' }],
+    inbox: [{ title: '补充新员工入职清单', meta: '来自行政群' }, { title: '下周客户参访安排', meta: '来自邮件' }],
+    goals: [{ title: '本周关键事项按时完成', progress: 63 }],
+    links: [{ title: '团队文档', meta: '常用资料' }, { title: '会议纪要', meta: '本周 4 份' }],
+  },
+  sales: {
+    quote: '每个机会，都有清楚的下一步。',
+    tasks: [task('跟进华东客户报价'), task('准备下午产品演示'), task('更新本周机会预测')],
+    schedule: [{ time: '10:00', title: '客户 A 电话沟通', meta: '确认预算' }, { time: '15:00', title: '产品演示', meta: '线上会议' }],
+    clients: [{ title: '华东零售集团', meta: '方案确认中', progress: 72 }, { title: '北方制造客户', meta: '首次演示', progress: 38 }],
+    clientFollowup: [{ title: '华东客户报价确认', meta: '今天 10:00 · 电话', tone: 'apricot' }, { title: '北方客户演示材料', meta: '今天 14:30 前', tone: 'blue' }],
+    projects: [{ title: '年度框架合同', meta: '法务审阅中', progress: 58 }],
+    finance: [{ title: '本月预测签约', value: '¥180,000', meta: '3 个机会' }, { title: '待回款', value: '¥46,000', meta: '2 个客户' }],
+    invoices: [{ title: '客户 A 服务费', value: '¥28,000', meta: '待开 · 专票', status: '待开' }],
+  },
+  'small-business': {
+    quote: '今天的每一笔生意，都心中有数。',
+    tasks: [task('核对昨日订单'), task('补充热销商品库存'), task('催收两笔尾款')],
+    clients: [{ title: '老客户复购', meta: '本周 6 单', progress: 78 }, { title: '企业团购', meta: '等待数量确认', progress: 45 }],
+    projects: [{ title: '七夕活动', meta: '物料制作中', progress: 66 }],
+    bookkeeping: [{ title: '线上订单', value: '+¥1,680', meta: '今日', category: 'income' }, { title: '补货支出', value: '-¥620', meta: '今日', category: 'expense' }],
+    invoices: [{ title: '企业团购预付款', value: '¥5,000', meta: '已收 · 普票', status: '已收' }],
+    finance: [{ title: '今日营业额', value: '¥1,680', meta: '12 笔订单' }, { title: '本月净现金流', value: '¥18,420', meta: '截至今天' }],
+  },
+  'job-search': {
+    quote: '把下一份工作的可能性，变成今天的行动。',
+    tasks: [task('完善一段项目经历'), task('投递 3 个匹配岗位'), task('准备面试自我介绍')],
+    schedule: [{ time: '10:30', title: '模拟面试', meta: '产品案例题' }, { time: '16:00', title: 'HR 初面', meta: '线上' }],
+    projects: [{ title: '目标公司 A', meta: 'HR 初面', progress: 40 }, { title: '目标公司 B', meta: '等待笔试', progress: 25 }],
+    learning: [{ title: '岗位核心技能', note: '补齐数据分析案例', progress: 62 }, { title: '面试题库', note: '今天复盘 5 题', progress: 48 }],
+    links: [{ title: '个人简历', meta: '最新版本' }, { title: '作品集', meta: '3 个项目案例' }],
+    goals: [{ title: '本周完成 12 次有效投递', progress: 50 }],
+  },
+  senior: {
+    quote: '每天看得清楚，用得安心。',
+    tasks: [task('早餐后服药'), task('下午散步 30 分钟'), task('给家人回电话')],
+    schedule: [{ time: '08:00', title: '早餐和服药', meta: '饭后' }, { time: '15:30', title: '公园散步', meta: '带水杯' }, { time: '20:00', title: '量血压', meta: '记录结果' }],
+    health: [{ title: '今日血压', value: '118/76', meta: '正常范围' }, { title: '昨晚睡眠', value: '7h 20m', meta: '状态不错' }],
+    medications: [{ title: '降压药', meta: '每天 08:00 · 饭后 1 片', time: '08:00', done: false }, { title: '维生素 D', meta: '每天 12:30 · 1 粒', time: '12:30', done: false }],
+    birthdays: [{ title: '女儿生日', date: inDays(24).slice(0, 10), tone: 'apricot' }, { title: '老同学生日', date: inDays(52).slice(0, 10), tone: 'sage' }],
   },
 }
 
@@ -583,6 +672,14 @@ export function defaultWorkspaceData(workspace) {
     decisions: role.decisions || [],
     // 新增模块：由内置逻辑自动填充示例数据
     news: role.news || newsItems(workspace.sourcePack),
+    newsSettings: role.newsSettings || { topics: '', autoRefreshMinutes: 60, provider: 'hn-algolia' },
+    newsMeta: role.newsMeta || { updatedAt: '', provider: '内置离线快照', query: '' },
+    rss: role.rss || { feedUrl: '', title: '', items: [], updatedAt: '', provider: '' },
+    exchangeRates: role.exchangeRates || { base: 'CNY', symbols: ['USD', 'EUR', 'JPY', 'HKD'], rates: [], date: '', updatedAt: '', provider: '' },
+    githubActivity: role.githubActivity || { username: '', items: [], updatedAt: '' },
+    bookmarks: role.bookmarks || [],
+    agentSchedule: role.agentSchedule || { enabled: true, time: '08:00', lastRunDate: '' },
+    agentBriefing: role.agentBriefing || null,
     clientFollowup: role.clientFollowup || clientFollowupItems(),
     invoices: role.invoices || invoiceItems(),
     bookkeeping: role.bookkeeping || bookkeepingItems(),
@@ -590,6 +687,7 @@ export function defaultWorkspaceData(workspace) {
     workout: role.workout || workoutItems(),
     meals: role.meals || mealItems(),
     health: role.health || healthItems(),
+    medications: role.medications || [],
     birthdays: role.birthdays || birthdayItems(),
     period: role.period || periodData(),
     diary: role.diary || diaryItems(),
@@ -600,7 +698,7 @@ export function defaultWorkspaceData(workspace) {
 export function normalizeWorkspaceData(workspace, candidate) {
   const defaults = defaultWorkspaceData(workspace)
   if (!candidate || typeof candidate !== 'object') return defaults
-  return {
+  const merged = {
     ...defaults,
     ...candidate,
     tasks: Array.isArray(candidate.tasks) ? candidate.tasks : defaults.tasks,
@@ -608,8 +706,16 @@ export function normalizeWorkspaceData(workspace, candidate) {
     focus: { ...defaults.focus, ...(candidate.focus || {}) },
     review: { ...defaults.review, ...(candidate.review || {}) },
     weather: { ...defaults.weather, ...(candidate.weather || {}) },
-    period: { ...defaults.period, ...(candidate.period || {}) },
+    period: calculatePeriod({ ...defaults.period, ...(candidate.period || {}) }),
+    newsSettings: { ...defaults.newsSettings, ...(candidate.newsSettings || {}) },
+    newsMeta: { ...defaults.newsMeta, ...(candidate.newsMeta || {}) },
+    rss: { ...defaults.rss, ...(candidate.rss || {}) },
+    exchangeRates: { ...defaults.exchangeRates, ...(candidate.exchangeRates || {}) },
+    githubActivity: { ...defaults.githubActivity, ...(candidate.githubActivity || {}) },
+    agentSchedule: { ...defaults.agentSchedule, ...(candidate.agentSchedule || {}) },
   }
+  merged.birthdays = (Array.isArray(candidate.birthdays) ? candidate.birthdays : defaults.birthdays).map((item) => item.date ? item : ({ ...item, date: '' }))
+  return merged
 }
 
 export function loadWorkspaceData(workspace, embeddedData) {

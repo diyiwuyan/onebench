@@ -69,6 +69,41 @@ export const themeCatalog = [
     description: '温柔、柔软，适合记录宝宝与家庭日常',
     tokens: { '--page': '#f5eded', '--surface': '#fffbfb', '--surface-2': '#faf2f2', '--ink': '#3a2f2f', '--muted': '#827272', '--line': '#ebdfe0', '--accent': '#c17b7b', '--accent-soft': '#f2dad8', '--sage': '#dee8dd', '--blue': '#dfe5ef' },
   },
+  {
+    id: 'office-teal',
+    name: '办公雾青',
+    accent: '#39737a',
+    description: '清晰、有秩序，适合会议与项目推进',
+    tokens: { '--page': '#eaf1f0', '--surface': '#fbfdfc', '--surface-2': '#edf5f3', '--ink': '#273737', '--muted': '#6d7e7c', '--line': '#d7e4e1', '--accent': '#39737a', '--accent-soft': '#d6e9e7', '--sage': '#dce9df', '--blue': '#d9e8ed' },
+  },
+  {
+    id: 'sales-copper',
+    name: '商务暖铜',
+    accent: '#9a6644',
+    description: '有行动感，适合客户机会与商务跟进',
+    tokens: { '--page': '#f2ede8', '--surface': '#fffdfb', '--surface-2': '#f7f1eb', '--ink': '#3b3029', '--muted': '#806f64', '--line': '#e7ddd4', '--accent': '#9a6644', '--accent-soft': '#efdfd2', '--sage': '#dfe8dc', '--blue': '#dde6ec' },
+  },
+  {
+    id: 'merchant-jade',
+    name: '小店青玉',
+    accent: '#4f7767',
+    description: '踏实、耐看，适合生意和现金流管理',
+    tokens: { '--page': '#ebf0eb', '--surface': '#fcfdf9', '--surface-2': '#eff4ed', '--ink': '#2d382f', '--muted': '#6f7a70', '--line': '#dbe3d8', '--accent': '#4f7767', '--accent-soft': '#d9e8df', '--sage': '#d5e5d9', '--blue': '#dce6e9' },
+  },
+  {
+    id: 'career-indigo',
+    name: '求职靛蓝',
+    accent: '#5862a3',
+    description: '专注、坚定，适合岗位与面试行动',
+    tokens: { '--page': '#eeeff6', '--surface': '#fcfcff', '--surface-2': '#f1f2f8', '--ink': '#303244', '--muted': '#74768a', '--line': '#dee0eb', '--accent': '#5862a3', '--accent-soft': '#dfe2f3', '--sage': '#dfe9df', '--blue': '#dce2f1' },
+  },
+  {
+    id: 'senior-sun',
+    name: '安心暖阳',
+    accent: '#a56e31',
+    description: '温暖、清楚，适合健康和家庭提醒',
+    tokens: { '--page': '#f4f0e7', '--surface': '#fffdf8', '--surface-2': '#f8f3e9', '--ink': '#39342a', '--muted': '#7e7667', '--line': '#e9e0d1', '--accent': '#a56e31', '--accent-soft': '#f2e2c9', '--sage': '#dde8da', '--blue': '#dfe7ed' },
+  },
 ]
 
 export function findTheme(id) {

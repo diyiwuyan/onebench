@@ -16,7 +16,9 @@
           "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
           "name": { "type": "string", "minLength": 1 },
           "category": { "type": "string" },
-          "dataBoundary": { "enum": ["local", "configuration", "network-cached"] },
+          "dataBoundary": { "enum": ["local", "local-sensitive", "configuration", "network-cached"] },
+          "kind": { "enum": ["manual", "derived", "live", "connector", "agent", "system"] },
+          "maturity": { "enum": ["stable", "beta", "experimental"] },
           "permissions": { "type": "array", "items": { "type": "string" } }
         },
         "additionalProperties": false

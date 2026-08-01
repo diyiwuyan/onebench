@@ -22,6 +22,7 @@ import {
   ArrowSquareOut,
   Baby,
   Barbell,
+  BookmarkSimple,
   BookOpenText,
   Cake,
   Books,
@@ -42,6 +43,7 @@ import {
   Drop,
   FolderSimple,
   GearSix,
+  GithubLogo,
   GraduationCap,
   Heartbeat,
   House,
@@ -62,6 +64,8 @@ import {
   Quotes,
   Receipt,
   Repeat,
+  Robot,
+  Rss,
   SidebarSimple,
   SlidersHorizontal,
   SneakerMove,
@@ -73,14 +77,16 @@ import {
   Trash,
   TrendUp,
   UsersThree,
+  CurrencyCircleDollar,
   ArrowsOutSimple,
   DotsSixVertical,
   X,
 } from '@phosphor-icons/react'
 import morningArt from './assets/workbench-morning.webp'
 import bundledRegistry from '../packages/community-registry/registry.json'
-import { findModule, moduleCatalog } from './data/modules'
+import { findModule, moduleCatalog, moduleKinds } from './data/modules'
 import { findPack, packs } from './data/packs'
+import { scenarioCatalog } from './data/scenarios'
 import { findTheme, themeCatalog } from './data/themes'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from './lib/backup'
 import {
@@ -89,10 +95,12 @@ import {
   pushWorkspaceDataToGitHub,
   pushWorkspaceToGitHub,
 } from './lib/github'
-import { defaultWorkspaceData, loadWorkspaceData, saveWorkspaceData } from './lib/local-data'
+import { birthdayView, bookkeepingSummary, calculatePeriod, defaultWorkspaceData, getDailyQuote, loadWorkspaceData, saveWorkspaceData } from './lib/local-data'
+import { buildAgentBriefing, fetchExchangeRates, fetchGitHubActivity, fetchRoleNews, fetchRssFeed, parseBookmarkHtml, parseIcsCalendar, shouldRunBriefing } from './lib/connectors'
 import { injectStandalonePayload } from './lib/local-export'
 import {
   GITHUB_STORAGE_KEY,
+  PACK_HOME_MODULES,
   createWorkspace,
   loadWorkspace,
   normalizeWorkspace,
@@ -163,6 +171,10 @@ function greeting(date) {
 function daysLeft(value) {
   const time = new Date(value).getTime()
   return Number.isFinite(time) ? Math.max(0, Math.ceil((time - Date.now()) / 86400000)) : 0
+}
+
+function formatMoney(value) {
+  return new Intl.NumberFormat('zh-CN', { style: 'currency', currency: 'CNY', maximumFractionDigits: 0 }).format(Number(value) || 0)
 }
 
 function formatTimer(seconds) {
@@ -274,10 +286,9 @@ const editorSpecs = {
   workout: { key: 'workout', fields: [{ key: 'title', label: '运动' }, { key: 'value', label: '数据' }, { key: 'meta', label: '说明' }] },
   meals: { key: 'meals', fields: [{ key: 'title', label: '餐次' }, { key: 'meta', label: '内容' }] },
   health: { key: 'health', fields: [{ key: 'title', label: '指标' }, { key: 'value', label: '数值' }, { key: 'meta', label: '说明' }] },
-  birthdays: { key: 'birthdays', fields: [{ key: 'title', label: '亲友' }, { key: 'meta', label: '日期' }, { key: 'tone', label: '颜色' }] },
+  birthdays: { key: 'birthdays', fields: [{ key: 'title', label: '亲友' }, { key: 'date', label: '生日日期', type: 'date' }, { key: 'tone', label: '颜色' }] },
+  medications: { key: 'medications', fields: [{ key: 'title', label: '药品名称' }, { key: 'time', label: '提醒时间', type: 'time' }, { key: 'meta', label: '剂量／说明' }] },
   diary: { key: 'diary', fields: [{ key: 'title', label: '标题' }, { key: 'meta', label: '日期' }, { key: 'note', label: '内容' }] },
-  news: { key: 'news', fields: [{ key: 'title', label: '标题' }, { key: 'category', label: '分类' }, { key: 'summary', label: '摘要' }] },
-  quotes: { key: 'quotes', fields: [{ key: 'title', label: '语录' }, { key: 'meta', label: '出处' }] },
 }
 
 function ProgressRow({ item }) {
@@ -344,6 +355,9 @@ export function App() {
   const [syncing, setSyncing] = useState(false)
   const [marketEntries, setMarketEntries] = useState(() => [...(bundledRegistry.templates || []), ...(bundledRegistry.modules || [])])
   const [marketStatus, setMarketStatus] = useState(`已载入社区目录快照：${(bundledRegistry.templates || []).length} 个模板、${(bundledRegistry.modules || []).length} 个模块。`)
+  const [marketQuery, setMarketQuery] = useState('')
+  const [marketKind, setMarketKind] = useState('all')
+  const [liveStatus, setLiveStatus] = useState({})
   const [backupPassphrase, setBackupPassphrase] = useState('')
   const [backupStatus, setBackupStatus] = useState('')
   const [installPrompt, setInstallPrompt] = useState(null)
@@ -352,6 +366,8 @@ export function App() {
   const drawerRef = useRef(null)
   const avatarInputRef = useRef(null)
   const backupInputRef = useRef(null)
+  const bookmarkInputRef = useRef(null)
+  const calendarInputRef = useRef(null)
 
   const pack = findPack(workspace.sourcePack)
   const activeModuleIds = useMemo(() => new Set(workspace.modules.map((module) => module.id)), [workspace.modules])
@@ -364,6 +380,12 @@ export function App() {
   const editorModuleId = panel?.startsWith('module:') ? panel.slice(7) : ''
   const editorSpec = editorSpecs[editorModuleId]
   const interpreted = useMemo(() => (prompt.trim() ? interpretPrompt(prompt, pack) : null), [prompt, pack])
+  const marketModules = useMemo(() => moduleCatalog.filter((item) => {
+    if (item.category === '系统') return false
+    if (marketKind !== 'all' && item.kind !== marketKind) return false
+    const query = marketQuery.trim().toLowerCase()
+    return !query || `${item.name} ${item.description} ${item.category}`.toLowerCase().includes(query)
+  }), [marketKind, marketQuery])
   const sensors = useSensors(
     useSensor(MouseSensor, { activationConstraint: { distance: 8 } }),
     useSensor(TouchSensor, { activationConstraint: { delay: 220, tolerance: 8 } }),
@@ -409,6 +431,24 @@ export function App() {
   useEffect(() => {
     if (panel) window.setTimeout(() => drawerRef.current?.focus(), 20)
   }, [panel])
+
+  useEffect(() => {
+    if (!workspace.modules.some((module) => module.id === 'news' && module.enabled)) return
+    const refreshedAt = new Date(workspaceData.newsMeta?.updatedAt || 0).getTime()
+    const refreshMinutes = Number(workspaceData.newsSettings?.autoRefreshMinutes) || 60
+    if (!refreshedAt || Date.now() - refreshedAt > refreshMinutes * 60000) refreshNewsData()
+  }, [workspace.id])
+
+  useEffect(() => {
+    if (!workspace.modules.some((module) => module.id === 'agent-briefing' && module.enabled)) return
+    if (!shouldRunBriefing(workspaceData.agentSchedule, now)) return
+    const today = now.toISOString().slice(0, 10)
+    updateData((data) => ({
+      ...data,
+      agentBriefing: buildAgentBriefing(workspace, data),
+      agentSchedule: { ...data.agentSchedule, lastRunDate: today },
+    }))
+  }, [workspace.id, now.getHours(), now.getMinutes()])
 
   function persistWorkspace(next) {
     const saved = saveWorkspace(next)
@@ -559,6 +599,96 @@ export function App() {
     } catch (error) {
       setWeatherStatus(`${error.message || '天气更新失败'}，已保留本地缓存。`)
     }
+  }
+
+  async function refreshNewsData() {
+    setLiveStatus((current) => ({ ...current, news: '正在更新公开资讯…' }))
+    try {
+      const result = await fetchRoleNews({ roleId: workspace.sourcePack, topics: workspaceData.newsSettings?.topics })
+      updateData((data) => ({ ...data, news: result.items, newsMeta: { updatedAt: result.updatedAt, provider: result.provider, query: result.query } }))
+      setLiveStatus((current) => ({ ...current, news: `已更新 ${result.items.length} 条资讯，断网时继续显示这份缓存。` }))
+    } catch (error) {
+      setLiveStatus((current) => ({ ...current, news: `${error.message || '更新失败'}，已保留离线缓存。` }))
+    }
+  }
+
+  async function refreshRssData() {
+    setLiveStatus((current) => ({ ...current, rss: '正在读取 RSS…' }))
+    try {
+      const result = await fetchRssFeed(workspaceData.rss?.feedUrl)
+      updateData((data) => ({ ...data, rss: result }))
+      setLiveStatus((current) => ({ ...current, rss: `已读取 ${result.items.length} 篇内容。` }))
+    } catch (error) {
+      setLiveStatus((current) => ({ ...current, rss: `${error.message || 'RSS 更新失败'}，已保留缓存。` }))
+    }
+  }
+
+  async function refreshExchangeData() {
+    setLiveStatus((current) => ({ ...current, exchange: '正在更新汇率…' }))
+    try {
+      const config = workspaceData.exchangeRates || {}
+      const result = await fetchExchangeRates(config.base, config.symbols || [])
+      updateData((data) => ({ ...data, exchangeRates: { ...result, symbols: result.rates.map((item) => item.currency) } }))
+      setLiveStatus((current) => ({ ...current, exchange: `已更新 ${result.date} 欧洲央行参考汇率。` }))
+    } catch (error) {
+      setLiveStatus((current) => ({ ...current, exchange: `${error.message || '汇率更新失败'}，已保留缓存。` }))
+    }
+  }
+
+  async function refreshGitHubData() {
+    setLiveStatus((current) => ({ ...current, github: '正在读取公开动态…' }))
+    try {
+      const result = await fetchGitHubActivity(workspaceData.githubActivity?.username)
+      updateData((data) => ({ ...data, githubActivity: result }))
+      setLiveStatus((current) => ({ ...current, github: `已读取 ${result.items.length} 条公开动态。` }))
+    } catch (error) {
+      setLiveStatus((current) => ({ ...current, github: error.message || 'GitHub 更新失败。' }))
+    }
+  }
+
+  async function importBookmarks(event) {
+    const file = event.target.files?.[0]
+    if (!file) return
+    const items = parseBookmarkHtml(await file.text())
+    updateData((data) => ({ ...data, bookmarks: items }))
+    setLiveStatus((current) => ({ ...current, bookmarks: items.length ? `已导入 ${items.length} 个书签，只保存在当前设备。` : '没有在文件中找到书签。' }))
+    event.target.value = ''
+  }
+
+  async function importCalendar(event) {
+    const file = event.target.files?.[0]
+    if (!file) return
+    const items = parseIcsCalendar(await file.text())
+    updateData((data) => ({ ...data, schedule: items.length ? items : data.schedule }))
+    setLiveStatus((current) => ({ ...current, calendar: items.length ? `已导入 ${items.length} 条日程，只保存在当前设备。` : '没有在文件中找到可用日程。' }))
+    event.target.value = ''
+  }
+
+  function generateBriefing() {
+    const today = new Date().toISOString().slice(0, 10)
+    updateData((data) => ({
+      ...data,
+      agentBriefing: buildAgentBriefing(workspace, data),
+      agentSchedule: { ...data.agentSchedule, lastRunDate: today },
+    }))
+    setLiveStatus((current) => ({ ...current, briefing: '已根据当前待办、日程和节点生成新简报。' }))
+  }
+
+  function updatePeriod(field, value) {
+    updateData((data) => ({ ...data, period: calculatePeriod({ ...data.period, [field]: value }) }))
+  }
+
+  function toggleMedication(index) {
+    updateData((data) => ({ ...data, medications: (data.medications || []).map((item, itemIndex) => itemIndex === index ? { ...item, done: !item.done } : item) }))
+  }
+
+  function applyScenario(scenario) {
+    let nextWorkspace = workspace
+    scenario.modules.forEach((id) => {
+      if (!nextWorkspace.modules.some((module) => module.id === id)) nextWorkspace = toggleModule(nextWorkspace, id)
+    })
+    persistWorkspace(nextWorkspace)
+    setToast(`已加入「${scenario.name}」场景模块，原有内容没有被覆盖。`)
   }
 
   function setFocusPreset(minutes) {
@@ -835,7 +965,6 @@ export function App() {
       wellbeing: ['身心状态', '学习之外，也照顾自己的节奏', Repeat, workspaceData.wellbeing],
       finance: ['收入与回款', '收入、发票和未完成的承诺', ChartLineUp, workspaceData.finance],
       invoices: ['发票统计', '发票收集、分类与抵扣提醒', Receipt, workspaceData.invoices],
-      bookkeeping: ['记账', '每日收支与分类统计', Coins, workspaceData.bookkeeping],
       workout: ['运动记录', '今日运动、步数与消耗', SneakerMove, workspaceData.workout],
       health: ['健康管理', '体重、血压、睡眠等健康指标', Heartbeat, workspaceData.health],
     }
@@ -844,25 +973,53 @@ export function App() {
       return widget(module, { title, subtitle, icon: Icon }, <MetricTiles items={items} />)
     }
 
+    if (id === 'bookkeeping') {
+      const totals = bookkeepingSummary(workspaceData.bookkeeping)
+      return widget(module, { title: '记账与本月结余', subtitle: '根据每一笔收支自动汇总', icon: Coins }, <>
+        <div className="money-summary"><div><span>收入</span><strong>{formatMoney(totals.income)}</strong></div><div><span>支出</span><strong>{formatMoney(totals.expense)}</strong></div><div><span>结余</span><strong>{formatMoney(totals.balance)}</strong></div></div>
+        <div className="compact-ledger">{workspaceData.bookkeeping.slice(0, 4).map((item) => <div key={`${item.title}-${item.meta}`}><span>{item.title}<small>{item.meta}</small></span><strong className={item.category}>{item.value}</strong></div>)}</div>
+      </>)
+    }
+
     if (id === 'content-pipeline') return widget(module, { title: '内容流水线', subtitle: '从灵感到发布', icon: Kanban }, <div className="pipeline-grid">{workspaceData.pipeline.map((item) => <div key={item.title}><span>{item.title}</span><strong>{item.value}</strong><small>{item.meta}</small></div>)}</div>)
     if (id === 'reading') return widget(module, { title: '阅读书架', subtitle: '在读与待读', icon: Books }, <div className="book-list">{workspaceData.reading.map((item) => <div key={item.title}><span><Books weight="duotone" /></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
 
     if (id === 'news') {
-      return widget(module, { title: '新闻资讯', subtitle: '按你的身份推荐，离线也能看示例', icon: Newspaper }, <div className="news-list">{workspaceData.news.map((item) => <div key={item.id}><span className="news-category">{item.category}</span>{item.hot && <span className="news-hot">热</span>}<strong>{item.title}</strong><small>{item.summary}</small></div>)}</div>)
+      const updated = workspaceData.newsMeta?.updatedAt ? new Date(workspaceData.newsMeta.updatedAt).toLocaleString('zh-CN', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : '离线快照'
+      return widget(module, { title: '新闻资讯', subtitle: `${workspaceData.newsMeta?.provider || '离线缓存'} · ${updated}`, icon: Newspaper }, <>
+        <div className="news-list">{(workspaceData.news || []).slice(0, 8).map((item) => <a href={item.url || undefined} target={item.url ? '_blank' : undefined} rel="noreferrer" key={item.id}><span className="news-category">{item.category}</span>{item.hot && <span className="news-hot">热</span>}<strong>{item.title}</strong><small>{[item.source, item.publishedAt ? new Date(item.publishedAt).toLocaleDateString('zh-CN') : '', item.summary].filter(Boolean).join(' · ')}</small></a>)}</div>
+        <button className="module-inline-action" type="button" onClick={refreshNewsData}><ArrowClockwise /> 联网更新</button>
+      </>)
     }
 
     if (id === 'quotes') {
-      const first = workspaceData.quotes[0] || { title: workspaceData.quote, meta: 'OneBench' }
+      const first = getDailyQuote()
       return widget(module, { title: '语录', subtitle: '每日一句，内置轮换', icon: Quotes }, <div className="quote-card"><Quotes weight="duotone" size={24} /><p>「{first.title}」</p><small>—— {first.meta}</small></div>)
     }
 
     if (id === 'birthdays') {
-      return widget(module, { title: '生日记录', subtitle: '亲友生日与倒计时', icon: Cake }, <div className="birthday-list">{workspaceData.birthdays.map((item) => <div key={item.title}><span className={item.tone || ''}></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
+      const birthdays = (workspaceData.birthdays || []).map((item) => birthdayView(item)).sort((a, b) => (a.days ?? 9999) - (b.days ?? 9999))
+      return widget(module, { title: '生日记录', subtitle: '倒计时每天自动更新', icon: Cake }, <div className="birthday-list">{birthdays.map((item) => <div key={item.title}><span className={item.tone || ''}></span><p><strong>{item.title}</strong><small>{item.meta}</small></p></div>)}</div>)
     }
 
     if (id === 'period') {
       const p = workspaceData.period || {}
       return widget(module, { title: '生理期记录', subtitle: '周期预测与当前状态', icon: Drop }, <div className="period-card"><div><span>上次</span><strong>{p.lastPeriod || '-'}</strong></div><div><span>预计下次</span><strong>{p.predictedNext || '-'}</strong></div><div><span>当前</span><strong>{p.status || '-'}</strong></div></div>)
+    }
+
+    if (id === 'medications') return widget(module, { title: '今日用药', subtitle: '提醒仅保存在当前设备', icon: Heartbeat }, <div className="medication-list">{(workspaceData.medications || []).map((item, index) => <button className={item.done ? 'done' : ''} type="button" key={`${item.title}-${item.time}`} onClick={() => toggleMedication(index)}><span>{item.done ? <Check weight="bold" /> : item.time}</span><p><strong>{item.title}</strong><small>{item.meta}</small></p></button>)}</div>)
+
+    if (id === 'rss') return widget(module, { title: workspaceData.rss?.title || 'RSS 订阅', subtitle: workspaceData.rss?.updatedAt ? `更新于 ${new Date(workspaceData.rss.updatedAt).toLocaleString('zh-CN')}` : '点击编辑，添加你信任的订阅源', icon: Rss }, <div className="connected-list">{(workspaceData.rss?.items || []).slice(0, 6).map((item) => <a key={item.id} href={item.url} target="_blank" rel="noreferrer"><strong>{item.title}</strong><small>{item.meta}</small></a>)}{!workspaceData.rss?.items?.length && <button type="button" onClick={() => editModule('rss')}>添加 RSS 地址</button>}</div>)
+
+    if (id === 'exchange-rates') return widget(module, { title: '实时汇率', subtitle: workspaceData.exchangeRates?.date ? `${workspaceData.exchangeRates.date} · ${workspaceData.exchangeRates.provider}` : '联网后自动缓存', icon: CurrencyCircleDollar }, <><div className="rate-grid">{(workspaceData.exchangeRates?.rates || []).map((item) => <div key={item.currency}><span>{workspaceData.exchangeRates.base} → {item.currency}</span><strong>{Number(item.value).toFixed(4)}</strong></div>)}{!workspaceData.exchangeRates?.rates?.length && <p>点击联网更新，获取常用货币参考汇率。</p>}</div><button className="module-inline-action" type="button" onClick={refreshExchangeData}><ArrowClockwise /> 更新汇率</button></>)
+
+    if (id === 'github-activity') return widget(module, { title: 'GitHub 动态', subtitle: workspaceData.githubActivity?.username ? `@${workspaceData.githubActivity.username} 的公开活动` : '适合作品集与开发者身份', icon: GithubLogo }, <div className="connected-list">{(workspaceData.githubActivity?.items || []).slice(0, 6).map((item) => <a key={item.id} href={item.url} target="_blank" rel="noreferrer"><strong>{item.title}</strong><small>{item.meta}</small></a>)}{!workspaceData.githubActivity?.items?.length && <button type="button" onClick={() => editModule('github-activity')}>连接公开用户名</button>}</div>)
+
+    if (id === 'bookmarks') return widget(module, { title: '浏览器书签', subtitle: `${workspaceData.bookmarks?.length || 0} 个 · 只保存在本机`, icon: BookmarkSimple }, <div className="bookmark-grid">{(workspaceData.bookmarks || []).slice(0, 8).map((item) => <a key={item.id} href={item.url} target="_blank" rel="noreferrer"><BookmarkSimple weight="duotone" /><span><strong>{item.title}</strong><small>{item.meta}</small></span></a>)}{!workspaceData.bookmarks?.length && <button type="button" onClick={() => editModule('bookmarks')}>导入浏览器书签</button>}</div>)
+
+    if (id === 'agent-briefing') {
+      const briefing = workspaceData.agentBriefing
+      return widget(module, { title: '智能简报', subtitle: briefing?.generatedAt ? `生成于 ${new Date(briefing.generatedAt).toLocaleString('zh-CN')}` : '根据工作台已有内容自动整理', icon: Robot }, <div className="briefing-card">{briefing ? <><strong>{briefing.title}</strong><p>{briefing.summary}</p><ol>{briefing.actions.map((item) => <li key={item}>{item}</li>)}</ol></> : <p>点击生成后，它会读取当前待办、日程和关键节点，不会上传个人数据。</p>}<button className="module-inline-action" type="button" onClick={generateBriefing}><Sparkle /> {briefing ? '重新生成' : '生成今日简报'}</button></div>)
     }
 
     return null
@@ -881,7 +1038,7 @@ export function App() {
         <button className="brand-mark" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label="回到顶部"><StackSimple weight="fill" /></button>
         <nav>
           <button className="active" type="button" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><House weight="fill" /><span>首页</span></button>
-          {['calendar', 'tasks', 'quick-note', 'goals'].filter((id) => activeModuleIds.has(id)).map((id) => {
+          {(PACK_HOME_MODULES[pack.id] || ['calendar', 'tasks', 'quick-note', 'goals']).filter((id) => activeModuleIds.has(id)).slice(0, 4).map((id) => {
             const item = findModule(id)
             const Icon = item.icon
             return <button type="button" key={id} onClick={() => editModule(id)}><Icon weight="duotone" /><span>{item.name}</span></button>
@@ -1173,7 +1330,7 @@ export function App() {
 
             {editorModuleId && (
               <div className="drawer-body">
-                <div className="seed-notice"><Sparkle weight="duotone" /><div><strong>这些内容是谁加的？</strong><p>职业包只在第一次提供示例，帮你快速上手。现在起每一条都属于你，可以修改、删除或新增。</p></div></div>
+                <div className="seed-notice"><Sparkle weight="duotone" /><div><strong>{moduleKinds[findModule(editorModuleId)?.kind]?.name || '模块设置'}</strong><p>{moduleKinds[findModule(editorModuleId)?.kind]?.description || '职业包只在第一次提供示例，之后由你管理。'}{findModule(editorModuleId)?.dataBoundary === 'local-sensitive' ? ' 这是敏感内容，只保存在当前设备，除非你主动开启私有内容同步。' : ''}</p></div></div>
                 <div className="module-editor-toolbar">
                   <button className="secondary-button" type="button" onClick={() => moveModule(editorModuleId, workspace.modules.find((module) => module.id === editorModuleId)?.placement === 'home' ? 'sidebar' : 'home')}>{workspace.modules.find((module) => module.id === editorModuleId)?.placement === 'home' ? <SidebarSimple /> : <SquaresFour />}{workspace.modules.find((module) => module.id === editorModuleId)?.placement === 'home' ? '只放侧边栏' : '添加到首页'}</button>
                   <button className="secondary-button" type="button" onClick={() => resizeModule(editorModuleId)}><ArrowsOutSimple /> 切换尺寸</button>
@@ -1181,6 +1338,34 @@ export function App() {
 
                 {editorModuleId === 'weather' && (
                   <section><h3>城市与天气缓存</h3><div className="weather-editor"><label>城市<input value={workspaceData.weather.city} onChange={(event) => updateData({ ...workspaceData, weather: { ...workspaceData.weather, city: event.target.value } })} placeholder="例如：杭州" /></label><button className="primary-button" type="button" onClick={() => refreshWeather()}><CloudSun /> 联网更新</button></div>{weatherStatus && <p className="sync-status">{weatherStatus}</p>}<p className="section-copy">更新使用 Open-Meteo；断网时仍显示最近一次缓存，不会影响其他模块。</p></section>
+                )}
+
+                {editorModuleId === 'calendar' && (
+                  <section><h3>导入已有日历</h3><p className="section-copy">可从系统日历或其他日历服务导出 .ics 文件，再在这里导入。导入内容只保存在当前设备。</p><button className="secondary-button" type="button" onClick={() => calendarInputRef.current?.click()}><CalendarBlank /> 选择 .ics 文件</button><input ref={calendarInputRef} className="visually-hidden" type="file" accept=".ics,text/calendar" onChange={importCalendar} />{liveStatus.calendar && <p className="sync-status">{liveStatus.calendar}</p>}</section>
+                )}
+
+                {editorModuleId === 'news' && (
+                  <section><h3>你想看的主题</h3><p className="section-copy">系统负责更新新闻，你只需要填写主题，不再手工录入标题。当前公开源偏向科技、商业与职场资讯。</p><div className="editor-grid"><label>主题，最多 5 个<input value={workspaceData.newsSettings?.topics || ''} onChange={(event) => updateData({ ...workspaceData, newsSettings: { ...workspaceData.newsSettings, topics: event.target.value } })} placeholder="例如：AI、教育、职业发展" /></label><label>自动刷新间隔<select value={workspaceData.newsSettings?.autoRefreshMinutes || 60} onChange={(event) => updateData({ ...workspaceData, newsSettings: { ...workspaceData.newsSettings, autoRefreshMinutes: Number(event.target.value) } })}><option value="30">30 分钟</option><option value="60">1 小时</option><option value="180">3 小时</option><option value="720">12 小时</option></select></label></div><button className="primary-button" type="button" onClick={refreshNewsData}><ArrowClockwise /> 立即联网更新</button>{liveStatus.news && <p className="sync-status">{liveStatus.news}</p>}<p className="section-copy">每条资讯都会显示来源、时间和原文链接；断网时使用最近一次缓存。</p></section>
+                )}
+
+                {editorModuleId === 'rss' && (
+                  <section><h3>添加 RSS 订阅源</h3><label>RSS 地址<input type="url" value={workspaceData.rss?.feedUrl || ''} onChange={(event) => updateData({ ...workspaceData, rss: { ...workspaceData.rss, feedUrl: event.target.value } })} placeholder="https://example.com/feed.xml" /></label><button className="primary-button" type="button" onClick={refreshRssData}><Rss /> 读取订阅</button>{liveStatus.rss && <p className="sync-status">{liveStatus.rss}</p>}<p className="section-copy">只读取你主动填写的公开订阅地址，并保留最近一次缓存。</p></section>
+                )}
+
+                {editorModuleId === 'exchange-rates' && (
+                  <section><h3>常用汇率</h3><div className="editor-grid"><label>基准货币<input value={workspaceData.exchangeRates?.base || 'CNY'} maxLength="3" onChange={(event) => updateData({ ...workspaceData, exchangeRates: { ...workspaceData.exchangeRates, base: event.target.value.toUpperCase() } })} /></label><label>目标货币<input value={(workspaceData.exchangeRates?.symbols || []).join(',')} onChange={(event) => updateData({ ...workspaceData, exchangeRates: { ...workspaceData.exchangeRates, symbols: event.target.value.split(',').map((item) => item.trim().toUpperCase()).filter(Boolean) } })} placeholder="USD,EUR,JPY,HKD" /></label></div><button className="primary-button" type="button" onClick={refreshExchangeData}><ArrowClockwise /> 更新汇率</button>{liveStatus.exchange && <p className="sync-status">{liveStatus.exchange}</p>}<p className="section-copy">使用 Frankfurter 公共接口和欧洲央行参考数据，不需要账号或密钥。</p></section>
+                )}
+
+                {editorModuleId === 'github-activity' && (
+                  <section><h3>连接公开 GitHub 动态</h3><label>GitHub 用户名<input value={workspaceData.githubActivity?.username || ''} onChange={(event) => updateData({ ...workspaceData, githubActivity: { ...workspaceData.githubActivity, username: event.target.value } })} placeholder="例如：diyiwuyan" /></label><button className="primary-button" type="button" onClick={refreshGitHubData}><GithubLogo /> 读取公开动态</button>{liveStatus.github && <p className="sync-status">{liveStatus.github}</p>}<p className="section-copy">只读取公开活动，不需要令牌，也不会访问私有仓库。</p></section>
+                )}
+
+                {editorModuleId === 'bookmarks' && (
+                  <section><h3>导入浏览器书签</h3><p className="section-copy">在 Chrome、Edge 或 Safari 导出书签 HTML，再在这里选择文件。文件不会上传。</p><button className="primary-button" type="button" onClick={() => bookmarkInputRef.current?.click()}><BookmarkSimple /> 选择书签 HTML</button><input ref={bookmarkInputRef} className="visually-hidden" type="file" accept=".html,text/html" onChange={importBookmarks} />{liveStatus.bookmarks && <p className="sync-status">{liveStatus.bookmarks}</p>}</section>
+                )}
+
+                {editorModuleId === 'agent-briefing' && (
+                  <section><h3>每日智能简报</h3><label className="check-line"><input type="checkbox" checked={workspaceData.agentSchedule?.enabled || false} onChange={(event) => updateData({ ...workspaceData, agentSchedule: { ...workspaceData.agentSchedule, enabled: event.target.checked } })} />每天第一次打开工作台时自动生成</label><label>计划时间<input type="time" value={workspaceData.agentSchedule?.time || '08:00'} onChange={(event) => updateData({ ...workspaceData, agentSchedule: { ...workspaceData.agentSchedule, time: event.target.value } })} /></label><button className="primary-button" type="button" onClick={generateBriefing}><Robot /> 现在生成</button>{liveStatus.briefing && <p className="sync-status">{liveStatus.briefing}</p>}<p className="section-copy">本地版在工作台打开时执行；若要电脑关着也能运行，可让 WorkBuddy 按 OneBench Skill 创建系统定时任务。</p></section>
                 )}
 
                 {editorModuleId === 'quick-note' && (
@@ -1200,11 +1385,11 @@ export function App() {
                 )}
 
                 {editorModuleId === 'period' && (
-                  <section><h3>周期记录</h3><div className="editor-grid"><label>上次来潮<input type="date" value={workspaceData.period?.lastPeriod || ''} onChange={(event) => updateData({ ...workspaceData, period: { ...workspaceData.period, lastPeriod: event.target.value } })} /></label><label>周期天数<input type="number" min="1" max="60" value={workspaceData.period?.cycleDays || 28} onChange={(event) => updateData({ ...workspaceData, period: { ...workspaceData.period, cycleDays: Number(event.target.value) || 28 } })} /></label></div><p className="section-copy">修改后会自动重新计算预计下次来潮日期。</p></section>
+                  <section><h3>周期记录</h3><div className="editor-grid"><label>上次来潮<input type="date" value={workspaceData.period?.lastPeriod || ''} onChange={(event) => updatePeriod('lastPeriod', event.target.value)} /></label><label>周期天数<input type="number" min="1" max="60" value={workspaceData.period?.cycleDays || 28} onChange={(event) => updatePeriod('cycleDays', Number(event.target.value) || 28)} /></label></div><p className="section-copy">预计下次：{workspaceData.period?.predictedNext || '-'}。修改后会立即重新计算。</p></section>
                 )}
 
                 {editorSpec && (
-                  <section><div className="section-title-row"><div><h3>条目管理</h3><p>修改后会立即保存在当前设备。</p></div><button className="secondary-button compact-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></div><div className="entry-editor-list">{(workspaceData[editorSpec.key] || []).map((item, index) => <article key={item.id || `${editorSpec.key}-${index}`}><div className="editor-grid">{editorSpec.fields.map((field) => <label key={field.key}>{field.label}<input type={field.type || 'text'} min={field.type === 'number' ? 0 : undefined} max={field.type === 'number' && field.key === 'progress' ? 100 : undefined} value={field.type === 'date' ? String(item[field.key] || '').slice(0, 10) : (item[field.key] ?? '')} onChange={(event) => updateArrayItem(editorSpec, index, field.key, field.type === 'number' ? Number(event.target.value) : field.type === 'date' ? (event.target.value ? new Date(`${event.target.value}T12:00:00`).toISOString() : '') : event.target.value)} /></label>)}</div><button className="delete-entry" type="button" onClick={() => deleteArrayItem(editorSpec, index)}><Trash /> 删除</button></article>)}</div><button className="primary-button wide-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></section>
+                  <section><div className="section-title-row"><div><h3>条目管理</h3><p>修改后会立即保存在当前设备。</p></div><button className="secondary-button compact-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></div><div className="entry-editor-list">{(workspaceData[editorSpec.key] || []).map((item, index) => <article key={item.id || `${editorSpec.key}-${index}`}><div className="editor-grid">{editorSpec.fields.map((field) => <label key={field.key}>{field.label}<input type={field.type || 'text'} min={field.type === 'number' ? 0 : undefined} max={field.type === 'number' && field.key === 'progress' ? 100 : undefined} value={field.type === 'date' ? String(item[field.key] || '').slice(0, 10) : (item[field.key] ?? '')} onChange={(event) => updateArrayItem(editorSpec, index, field.key, field.type === 'number' ? Number(event.target.value) : event.target.value)} /></label>)}</div><button className="delete-entry" type="button" onClick={() => deleteArrayItem(editorSpec, index)}><Trash /> 删除</button></article>)}</div><button className="primary-button wide-button" type="button" onClick={() => addArrayItem(editorSpec)}><Plus /> 新增一条</button></section>
                 )}
               </div>
             )}
@@ -1220,15 +1405,16 @@ export function App() {
                   </div>
                 </section>
                 <section><h3>2. 选择职业包（会一起更换主题和模块）</h3><div className="pack-grid">{packs.map((item) => { const Icon = item.icon; return <button className={item.id === pack.id ? 'selected' : ''} type="button" key={item.id} onClick={() => choosePack(item)}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small><i>{item.theme.name}</i></span></button> })}</div></section>
-                <section><h3>3. 单独调整整体感觉</h3><div className="theme-grid">{themeCatalog.map((item) => <button className={item.id === theme.id ? 'selected' : ''} type="button" key={item.id} onClick={() => changeTheme(item)}><i style={{ background: item.accent }}></i><span><strong>{item.name}</strong><small>{item.description}</small></span>{item.id === theme.id && <Check weight="bold" />}</button>)}</div></section>
-                <section><h3>4. 用一句话调整重点</h3><textarea className="prompt-box" value={prompt} onChange={(event) => setPrompt(event.target.value)} placeholder="例如：我是大学生，想管课程和作业；或 我是自由职业者，想管客户和现金流" />{interpreted && (interpreted.addedNames.length || interpreted.packName) && <p className="interpreted-hint"><Sparkle weight="duotone" />{interpreted.packName ? `将切换到「${interpreted.packName}」` : '将保持当前身份'}{interpreted.addedNames.length ? `，并加入：${interpreted.addedNames.join('、')}` : '，模块组合保持不变'}。</p>}<button className="primary-button wide-button" type="button" onClick={rebuildFromPrompt}><Sparkle weight="fill" /> 按这句话重新搭配</button></section>
+                <section><div className="section-title-row"><div><h3>3. 加一个工作场景</h3><p>场景会补充模块，不会覆盖你现有的内容。</p></div></div><div className="scenario-grid">{scenarioCatalog.map((scenario) => { const Icon = scenario.icon; return <button type="button" key={scenario.id} onClick={() => applyScenario(scenario)}><Icon weight="duotone" /><span><strong>{scenario.name}</strong><small>{scenario.description}</small></span></button> })}</div></section>
+                <section><h3>4. 单独调整整体感觉</h3><div className="theme-grid">{themeCatalog.map((item) => <button className={item.id === theme.id ? 'selected' : ''} type="button" key={item.id} onClick={() => changeTheme(item)}><i style={{ background: item.accent }}></i><span><strong>{item.name}</strong><small>{item.description}</small></span>{item.id === theme.id && <Check weight="bold" />}</button>)}</div></section>
+                <section><h3>5. 用一句话调整重点</h3><textarea className="prompt-box" value={prompt} onChange={(event) => setPrompt(event.target.value)} placeholder="例如：我是大学生，想管课程和作业；或 我是自由职业者，想管客户和现金流" />{interpreted && (interpreted.addedNames.length || interpreted.packName) && <p className="interpreted-hint"><Sparkle weight="duotone" />{interpreted.packName ? `将切换到「${interpreted.packName}」` : '将保持当前身份'}{interpreted.addedNames.length ? `，并加入：${interpreted.addedNames.join('、')}` : '，模块组合保持不变'}。</p>}<button className="primary-button wide-button" type="button" onClick={rebuildFromPrompt}><Sparkle weight="fill" /> 按这句话重新搭配</button></section>
               </div>
             )}
 
             {panel === 'market' && (
               <div className="drawer-body">
                 <div className="market-toolbar"><p>{marketStatus}</p><button className="secondary-button" type="button" onClick={refreshMarket}><ArrowClockwise /> 联网检查更新</button></div>
-                <section><h3>内置模块 · 离线可用</h3><div className="module-market">{moduleCatalog.filter((item) => item.category !== '系统').map((item) => { const Icon = item.icon; const enabled = activeModuleIds.has(item.id); return <button className={enabled ? 'enabled' : ''} type="button" key={item.id} onClick={() => persistWorkspace(toggleModule(workspace, item.id))}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small></span><i>{enabled ? '已添加' : '添加'}</i></button> })}</div></section>
+                <section><div className="market-filters"><input value={marketQuery} onChange={(event) => setMarketQuery(event.target.value)} placeholder="搜索模块，例如：新闻、汇率、自动" aria-label="搜索模块" /><div>{[['all', '全部'], ...Object.entries(moduleKinds).filter(([kind]) => kind !== 'system').map(([kind, item]) => [kind, item.name])].map(([value, label]) => <button className={marketKind === value ? 'selected' : ''} type="button" key={value} onClick={() => setMarketKind(value)}>{label}</button>)}</div></div><h3>内置模块 · 离线可用</h3><div className="module-market">{marketModules.map((item) => { const Icon = item.icon; const enabled = activeModuleIds.has(item.id); return <button className={enabled ? 'enabled' : ''} type="button" key={item.id} onClick={() => persistWorkspace(toggleModule(workspace, item.id))}><Icon weight="duotone" /><span><strong>{item.name}</strong><small>{item.description}</small><em>{moduleKinds[item.kind]?.name} · {item.dataBoundary === 'network-cached' ? '联网缓存' : item.dataBoundary === 'local-sensitive' ? '敏感数据' : '本机'}</em></span><i>{enabled ? '已添加' : '添加'}</i></button> })}</div>{!marketModules.length && <p className="section-copy">没有找到匹配模块，试试“新闻”“自动”或“连接”。</p>}</section>
                 <section><div className="section-title-row"><div><h3>社区模板与模块</h3><p>职业包、布局、主题、模块组合和单模块分开投稿。</p></div><span>{marketEntries.length} 个条目</span></div><div className="community-list">{marketEntries.map((entry) => { const kindNames = { 'career-pack': '职业包', 'layout-template': '布局模板', 'theme-pack': '主题包', 'module-bundle': '模块组合', module: '单模块', 'template-pack': '模块组合' }; return <article key={`${entry.kind}-${entry.id}`}><div><span className="community-kind">{kindNames[entry.kind] || '社区作品'}</span><strong>{entry.name}</strong><small>{entry.description}</small><em>{entry.permissions?.length ? `权限：${entry.permissions.join('、')}` : '无需额外权限'}</em></div><aside><a href={`https://github.com/${entry.source.repository}/blob/${entry.source.ref}/${entry.source.path}`} target="_blank" rel="noreferrer">看源码</a><button type="button" onClick={() => installMarketEntry(entry)}>添加</button></aside></article> })}</div></section>
                 <div className="ecosystem-callout"><StackSimple weight="duotone" /><div><strong>把你的工作台贡献给更多人</strong><p>职业模板、模块创意和连接器都通过 GitHub PR 进入公共目录；每次更新都可追溯、可回滚。</p><span><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noreferrer">贡献模板</a><a href="https://github.com/diyiwuyan/onebench/blob/main/docs/MODULES.md" target="_blank" rel="noreferrer">贡献模块</a></span></div></div>
               </div>

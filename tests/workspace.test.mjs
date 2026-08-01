@@ -3,11 +3,14 @@ import { readFile } from 'node:fs/promises'
 import test from 'node:test'
 import { createWorkspace, normalizeWorkspace, reorderHomeModules, toggleModule, updateModuleLayout, WORKSPACE_VERSION } from '../src/lib/workspace.js'
 import { packs, packModuleIds } from '../src/data/packs.js'
+import { moduleCatalog } from '../src/data/modules.js'
 import { themeCatalog } from '../src/data/themes.js'
 import { decryptWorkspaceBackup, encryptWorkspaceBackup } from '../src/lib/backup.js'
+import { birthdayView, bookkeepingSummary, calculatePeriod } from '../src/lib/local-data.js'
+import { buildAgentBriefing, parseBookmarkHtml, parseIcsCalendar } from '../src/lib/connectors.js'
 
-test('first-party catalog provides ten packs with shared modules', () => {
-  assert.equal(packs.length, 10)
+test('first-party catalog provides fifteen packs with shared modules', () => {
+  assert.equal(packs.length, 15)
   for (const pack of packs) {
     const modules = packModuleIds(pack)
     assert.ok(modules.includes('calendar'))
@@ -19,7 +22,15 @@ test('first-party catalog provides ten packs with shared modules', () => {
     assert.ok(modules.includes('settings'))
     assert.ok(themeCatalog.some((theme) => theme.id === pack.theme.id))
   }
-  assert.equal(new Set(packs.map((pack) => pack.theme.id)).size, 10)
+  assert.equal(new Set(packs.map((pack) => pack.theme.id)).size, 15)
+})
+
+test('runtime packs and modules stay aligned with open-source manifests', async () => {
+  const moduleManifest = JSON.parse(await readFile(new URL('../packages/modules/core.manifest.json', import.meta.url), 'utf8'))
+  const packManifest = JSON.parse(await readFile(new URL('../packages/template-packs/first-party-packs.json', import.meta.url), 'utf8'))
+  assert.deepEqual(new Set(moduleManifest.modules.map((module) => module.id)), new Set(moduleCatalog.map((module) => module.id)))
+  assert.deepEqual(new Set(packManifest.packs.map((pack) => pack.id)), new Set(packs.map((pack) => pack.id)))
+  assert.ok(packManifest.sharedModules.includes('weather'))
 })
 
 test('workspace config is created from a pack and can toggle a module', () => {
@@ -65,4 +76,20 @@ test('encrypted backup only opens with the original passphrase', async () => {
 test('PWA manifest exposes installable icon sizes', async () => {
   const manifest = JSON.parse(await readFile(new URL('../public/manifest.webmanifest', import.meta.url), 'utf8'))
   assert.deepEqual(manifest.icons.map((icon) => icon.sizes), ['192x192', '512x512'])
+})
+
+test('derived modules recalculate from user data', () => {
+  const period = calculatePeriod({ lastPeriod: '2026-07-01', cycleDays: 30 }, new Date('2026-07-10T12:00:00'))
+  assert.equal(period.predictedNext, '2026-07-31')
+  assert.match(period.status, /21 天/)
+  const birthday = birthdayView({ title: '妈妈', date: '2026-08-15' }, new Date('2026-08-01T12:00:00'))
+  assert.equal(birthday.days, 14)
+  assert.deepEqual(bookkeepingSummary([{ value: '+100', category: 'income' }, { value: '-30', category: 'expense' }]), { income: 100, expense: 30, balance: 70 })
+})
+
+test('connector parsers stay local and produce usable records', () => {
+  assert.equal(parseBookmarkHtml('<DL><a href="https://example.com">Example</a></DL>')[0].url, 'https://example.com/')
+  assert.equal(parseIcsCalendar('BEGIN:VEVENT\nDTSTART:20260801\nSUMMARY:演示\nEND:VEVENT')[0].title, '演示')
+  const briefing = buildAgentBriefing({ profile: { displayName: '小王' } }, { tasks: [{ title: '写计划', done: false }], schedule: [], milestones: [] })
+  assert.match(briefing.summary, /1 项待办/)
 })

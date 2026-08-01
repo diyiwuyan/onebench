@@ -4,8 +4,12 @@ import {
   Calculator,
   ChalkboardTeacher,
   GraduationCap,
+  Handshake,
+  MagnifyingGlass,
   Megaphone,
   PenNib,
+  PersonSimpleTaiChi,
+  Storefront,
   Target,
   UsersThree,
   Wrench,
@@ -25,6 +29,11 @@ export const packs = [
   { id: 'team-lead', name: '团队负责人', icon: UsersThree, prompt: '我是团队负责人，想管理目标、1:1 和团队节奏', title: '团队节奏台', description: '目标、沟通和管理复盘。', headline: '让好决定和坦诚沟通更容易发生。', theme: { id: 'leadership-plum', name: '管理雾紫', accent: '#756783' }, modules: ['team', 'meetings', 'decisions', 'projects', 'analytics', 'goals', 'review', 'files', 'news'], ...base },
   { id: 'financial', name: '财务', icon: Calculator, prompt: '我是财务工作者，想管理发票、客户回款、记账和理财知识', title: '财务工作台', description: '发票、记账、回款与理财知识一体管理。', headline: '把每一笔账都算清楚。', theme: { id: 'ledger-amber', name: '账本琥珀', accent: '#7a6a4e' }, modules: ['bookkeeping', 'invoices', 'finance', 'finance-knowledge', 'clients', 'client-followup', 'projects', 'analytics', 'goals', 'review', 'files'], ...base },
   { id: 'family-baby', name: '家有宝宝', icon: Baby, prompt: '我是宝爸宝妈，想管理宝宝喂养、健康、成长和家庭日常', title: '宝宝成长台', description: '喂养、健康、成长记录与家庭日常。', headline: '把宝宝的每一天都温柔记录。', theme: { id: 'nursery-warm', name: '育儿暖绒', accent: '#c17b7b' }, modules: ['meals', 'health', 'birthdays', 'period', 'diary', 'workout', 'habits', 'goals', 'review', 'files', 'reading', 'news'], ...base },
+  { id: 'office', name: '职场办公', icon: Briefcase, prompt: '我是职场办公人员，想管理日程、会议、项目和每日简报', title: '今日办公台', description: '日程、会议、项目和资料入口集中处理。', headline: '把今天最重要的事放到眼前。', theme: { id: 'office-teal', name: '办公雾青', accent: '#39737a' }, modules: ['schedule', 'projects', 'meetings', 'inbox', 'files', 'review', 'news', 'rss', 'agent-briefing'], ...base },
+  { id: 'sales', name: '销售／商务', icon: Handshake, prompt: '我是销售商务人员，想管理客户、跟进、合同和回款', title: '客户推进台', description: '客户机会、下次跟进、项目和回款放在一起。', headline: '每个机会，都有清楚的下一步。', theme: { id: 'sales-copper', name: '商务暖铜', accent: '#9a6644' }, modules: ['clients', 'client-followup', 'projects', 'finance', 'invoices', 'meetings', 'goals', 'review', 'news', 'agent-briefing'], ...base },
+  { id: 'small-business', name: '个体经营', icon: Storefront, prompt: '我是个体经营者，想管理订单、客户、记账和现金流', title: '小店经营台', description: '客户、订单、收支和现金流的一页经营视图。', headline: '今天的每一笔生意，都心中有数。', theme: { id: 'merchant-jade', name: '小店青玉', accent: '#4f7767' }, modules: ['clients', 'projects', 'bookkeeping', 'invoices', 'finance', 'analytics', 'exchange-rates', 'news', 'agent-briefing'], ...base },
+  { id: 'job-search', name: '求职／转行', icon: MagnifyingGlass, prompt: '我正在求职或转行，想管理岗位、投递、面试和作品集', title: '求职行动台', description: '岗位收集、投递进展、面试准备与作品集。', headline: '把下一份工作的可能性，变成今天的行动。', theme: { id: 'career-indigo', name: '求职靛蓝', accent: '#5862a3' }, modules: ['inbox', 'projects', 'schedule', 'learning', 'files', 'github-activity', 'goals', 'review', 'news', 'agent-briefing'], ...base },
+  { id: 'senior', name: '银发生活', icon: PersonSimpleTaiChi, prompt: '我是退休或银发用户，想管理健康、用药、日历和家人生日', title: '安心生活台', description: '健康、用药、天气、日历与家人提醒。', headline: '每天看得清楚，用得安心。', theme: { id: 'senior-sun', name: '安心暖阳', accent: '#a56e31' }, modules: ['health', 'medications', 'birthdays', 'diary', 'workout', 'news', 'quotes', 'agent-briefing'], ...base },
 ]
 
 export function findPack(id) {

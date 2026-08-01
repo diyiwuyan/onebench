@@ -1,11 +1,14 @@
 import { readFile } from 'node:fs/promises'
+import { packs as runtimePacks } from '../src/data/packs.js'
+import { moduleCatalog } from '../src/data/modules.js'
+import { themeCatalog } from '../src/data/themes.js'
 
 const manifestPath = new URL('../packages/template-packs/first-party-packs.json', import.meta.url)
 const moduleManifestPath = new URL('../packages/modules/core.manifest.json', import.meta.url)
 const manifest = JSON.parse(await readFile(manifestPath, 'utf8'))
 const moduleManifest = JSON.parse(await readFile(moduleManifestPath, 'utf8'))
 const allowedModules = new Set((moduleManifest.modules ?? []).map((module) => module.id))
-const allowedThemes = new Set(['campus-sky', 'chalk-sage', 'warm-paper', 'civic-blue', 'creator-coral', 'product-graphite', 'independent-olive', 'leadership-plum'])
+const allowedThemes = new Set(themeCatalog.map((theme) => theme.id))
 
 const fail = (message) => {
   console.error(`Template pack validation failed: ${message}`)
@@ -27,6 +30,9 @@ for (const pack of manifest.packs ?? []) {
   for (const moduleId of pack.modules) if (!allowedModules.has(moduleId)) fail(`${pack.id} references unknown module: ${moduleId}`)
 }
 
-if (ids.size < 8) fail('first release must contain at least eight packs')
+if (ids.size !== runtimePacks.length) fail(`runtime has ${runtimePacks.length} packs but manifest has ${ids.size}`)
+for (const pack of runtimePacks) if (!ids.has(pack.id)) fail(`runtime pack missing from manifest: ${pack.id}`)
+const runtimeModules = new Set(moduleCatalog.map((module) => module.id))
+for (const pack of manifest.packs ?? []) for (const moduleId of pack.modules) if (!runtimeModules.has(moduleId)) fail(`${pack.id} references unknown runtime module: ${moduleId}`)
 if (process.exitCode) process.exit(process.exitCode)
 console.log(`Validated ${ids.size} template packs and ${manifest.sharedModules.length} shared modules.`)

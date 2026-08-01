@@ -5,15 +5,31 @@ export const WORKSPACE_VERSION = '1.0.0'
 export const WORKSPACE_STORAGE_KEY = 'onebench.workspace.v1'
 export const GITHUB_STORAGE_KEY = 'onebench.github.v1'
 
-const HOME_PRIORITY = ['tasks', 'calendar', 'weather', 'focus', 'countdown', 'learning', 'schedule', 'assignments', 'content-pipeline', 'projects', 'clients', 'team', 'classroom', 'news', 'meals', 'workout', 'bookkeeping', 'invoices', 'health', 'birthdays', 'diary']
+export const PACK_HOME_MODULES = {
+  university: ['calendar', 'weather', 'tasks', 'schedule', 'focus', 'countdown', 'learning', 'assignments'],
+  teacher: ['calendar', 'weather', 'tasks', 'schedule', 'lesson-plans', 'classroom', 'meetings'],
+  'postgraduate-exam': ['countdown', 'tasks', 'focus', 'learning', 'exam-practice', 'calendar', 'weather', 'review'],
+  'civil-service-exam': ['countdown', 'tasks', 'focus', 'learning', 'exam-practice', 'notices', 'weather', 'review'],
+  creator: ['content-pipeline', 'content-calendar', 'inbox', 'tasks', 'analytics', 'news', 'calendar', 'review'],
+  operations: ['projects', 'tasks', 'meetings', 'inbox', 'calendar', 'analytics', 'news', 'review'],
+  freelancer: ['clients', 'client-followup', 'projects', 'tasks', 'finance', 'focus', 'calendar', 'review'],
+  'team-lead': ['team', 'projects', 'meetings', 'tasks', 'decisions', 'calendar', 'analytics', 'review'],
+  financial: ['bookkeeping', 'invoices', 'finance', 'client-followup', 'tasks', 'calendar', 'weather', 'analytics'],
+  'family-baby': ['meals', 'health', 'tasks', 'calendar', 'birthdays', 'weather', 'habits', 'diary'],
+  office: ['calendar', 'tasks', 'schedule', 'projects', 'meetings', 'agent-briefing', 'weather', 'review'],
+  sales: ['clients', 'client-followup', 'projects', 'finance', 'invoices', 'tasks', 'calendar', 'agent-briefing'],
+  'small-business': ['bookkeeping', 'finance', 'invoices', 'clients', 'tasks', 'exchange-rates', 'weather', 'agent-briefing'],
+  'job-search': ['projects', 'schedule', 'learning', 'files', 'github-activity', 'tasks', 'calendar', 'agent-briefing'],
+  senior: ['calendar', 'weather', 'tasks', 'health', 'medications', 'birthdays', 'agent-briefing', 'quotes'],
+}
 
-function moduleSettings(id, index = 0) {
+function moduleSettings(id, index = 0, packId = '') {
   const catalogItem = findModule(id)
-  const homeIndex = HOME_PRIORITY.indexOf(id)
+  const homeIndex = (PACK_HOME_MODULES[packId] || []).indexOf(id)
   return {
     id,
     enabled: true,
-    placement: homeIndex >= 0 && homeIndex < 8 ? 'home' : 'sidebar',
+    placement: homeIndex >= 0 ? 'home' : 'sidebar',
     size: catalogItem?.defaultSize || (['files', 'content-pipeline'].includes(id) ? 'wide' : 'medium'),
     order: index,
   }
@@ -35,7 +51,7 @@ export function createWorkspace({ packId, prompt, moduleIds, themeId, displayNam
     updatedAt: new Date().toISOString(),
     theme: { ...pack.theme, id: themeId || pack.theme.id },
     layout: pack.layout,
-    modules: (moduleIds || packModuleIds(pack)).map((id, index) => moduleSettings(id, index)),
+    modules: (moduleIds || packModuleIds(pack)).map((id, index) => moduleSettings(id, index, pack.id)),
   }
 }
 
@@ -46,7 +62,7 @@ export function normalizeWorkspace(candidate) {
   const candidateModules = candidate.modules.filter((module) => module && typeof module.id === 'string')
   const isLegacyLayout = candidateModules.every((module) => !Object.hasOwn(module, 'placement'))
   if (isLegacyLayout && !candidateModules.some((module) => module.id === 'weather')) {
-    candidateModules.splice(Math.min(2, candidateModules.length), 0, moduleSettings('weather', 2))
+    candidateModules.splice(Math.min(2, candidateModules.length), 0, moduleSettings('weather', 2, candidate.sourcePack))
   }
   return {
     ...candidate,
@@ -56,10 +72,10 @@ export function normalizeWorkspace(candidate) {
     },
     modules: candidateModules
       .map((module, index) => ({
-        ...moduleSettings(module.id, index),
+        ...moduleSettings(module.id, index, candidate.sourcePack),
         ...module,
-        placement: module.placement === 'sidebar' ? 'sidebar' : (module.placement === 'home' ? 'home' : moduleSettings(module.id, index).placement),
-        size: ['small', 'medium', 'wide'].includes(module.size) ? module.size : moduleSettings(module.id, index).size,
+        placement: module.placement === 'sidebar' ? 'sidebar' : (module.placement === 'home' ? 'home' : moduleSettings(module.id, index, candidate.sourcePack).placement),
+        size: ['small', 'medium', 'wide'].includes(module.size) ? module.size : moduleSettings(module.id, index, candidate.sourcePack).size,
         order: Number.isFinite(module.order) ? module.order : index,
       }))
       .sort((a, b) => a.order - b.order)
@@ -94,7 +110,7 @@ export function toggleModule(workspace, moduleId) {
     updatedAt: new Date().toISOString(),
     modules: exists
       ? workspace.modules.filter((module) => module.id !== moduleId)
-      : [...workspace.modules, moduleSettings(moduleId, workspace.modules.length)],
+      : [...workspace.modules, moduleSettings(moduleId, workspace.modules.length, workspace.sourcePack)],
   }
 }
 

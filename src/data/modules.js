@@ -20,6 +20,7 @@ import {
   FirstAid,
   FolderSimple,
   GearSix,
+  GithubLogo,
   GraduationCap,
   Heartbeat,
   Kanban,
@@ -27,21 +28,25 @@ import {
   Newspaper,
   NotePencil,
   Notebook,
+  BookmarkSimple,
   PhoneCall,
   PiggyBank,
   PresentationChart,
   Quotes,
   Receipt,
   Repeat,
+  Robot,
+  Rss,
   RowsPlusBottom,
   SneakerMove,
   Student,
   Target,
   TrendUp,
   UsersThree,
+  CurrencyCircleDollar,
 } from '@phosphor-icons/react'
 
-export const moduleCatalog = [
+const baseModuleCatalog = [
   { id: 'calendar', name: '日历', description: '课程、会议与截止日', icon: CalendarBlank, category: '通用', defaultSize: 'small' },
   { id: 'weather', name: '天气', description: '城市天气与未来三天', icon: CloudSun, category: '通用', defaultSize: 'small' },
   { id: 'tasks', name: '待办', description: '今天要做什么', icon: CheckSquare, category: '通用', defaultSize: 'medium' },
@@ -84,17 +89,69 @@ export const moduleCatalog = [
   { id: 'workout', name: '运动记录', description: '今日运动、步数与消耗', icon: SneakerMove, category: '生活' },
   { id: 'meals', name: '好好吃饭', description: '三餐记录与营养提醒', icon: BowlFood, category: '生活' },
   { id: 'health', name: '健康管理', description: '体重、血压、睡眠等健康指标', icon: Heartbeat, category: '生活' },
+  { id: 'medications', name: '用药提醒', description: '药品、剂量和每日时间提醒', icon: FirstAid, category: '生活' },
   { id: 'birthdays', name: '生日记录', description: '亲友生日与倒计时提醒', icon: Cake, category: '生活' },
   { id: 'period', name: '生理期记录', description: '周期预测与当前状态', icon: Drop, category: '生活' },
   { id: 'diary', name: '日记本', description: '每日心情与关键小事', icon: Notebook, category: '生活' },
   { id: 'quotes', name: '语录', description: '每日一句激励或思考', icon: Quotes, category: '生活' },
-  { id: 'news', name: '新闻资讯', description: '本地精选热点，离线可阅', icon: Newspaper, category: '生活' },
+  { id: 'news', name: '新闻资讯', description: '按主题自动更新，断网显示缓存', icon: Newspaper, category: '生活' },
+
+  { id: 'rss', name: 'RSS 订阅', description: '订阅自己信任的网站与博客', icon: Rss, category: '连接' },
+  { id: 'exchange-rates', name: '汇率', description: '自动更新常用货币汇率', icon: CurrencyCircleDollar, category: '连接', defaultSize: 'small' },
+  { id: 'github-activity', name: 'GitHub 动态', description: '查看公开贡献与项目动态', icon: GithubLogo, category: '连接' },
+  { id: 'bookmarks', name: '浏览器书签', description: '从浏览器导出的 HTML 导入书签', icon: BookmarkSimple, category: '连接' },
+  { id: 'agent-briefing', name: '智能简报', description: '按计划生成今日摘要与下一步', icon: Robot, category: '智能体', defaultSize: 'wide' },
 
   { id: 'profile', name: '个人资料', description: '头像、称呼和工作台名称', icon: Student, category: '系统' },
   { id: 'appearance', name: '外观主题', description: '职业主题、颜色和整体感觉', icon: GearSix, category: '系统' },
   { id: 'sync', name: '多端同步', description: '备份、私有仓库和设备恢复', icon: GearSix, category: '系统' },
   { id: 'settings', name: '同步与设置', description: '主题、备份和 GitHub', icon: GearSix, category: '系统' },
 ]
+
+export const moduleKinds = {
+  manual: { name: '手动记录', description: '由你录入和维护内容' },
+  derived: { name: '自动计算', description: '根据基础数据自动生成结果' },
+  live: { name: '联网更新', description: '联网获取并缓存公开数据' },
+  connector: { name: '外部连接', description: '读取你明确连接的数据源' },
+  agent: { name: '智能体', description: '按计划整理已有内容并给出下一步' },
+  system: { name: '系统设置', description: '管理工作台本身' },
+}
+
+const capabilityById = {
+  weather: { kind: 'live', dataBoundary: 'network-cached', permissions: ['open-meteo'], maturity: 'stable' },
+  news: { kind: 'live', dataBoundary: 'network-cached', permissions: ['public-news'], maturity: 'beta' },
+  quotes: { kind: 'derived', dataBoundary: 'local', maturity: 'stable' },
+  countdown: { kind: 'derived', dataBoundary: 'local', maturity: 'stable' },
+  birthdays: { kind: 'derived', dataBoundary: 'local', maturity: 'stable' },
+  period: { kind: 'derived', dataBoundary: 'local-sensitive', maturity: 'stable' },
+  analytics: { kind: 'derived', dataBoundary: 'local', maturity: 'stable' },
+  bookkeeping: { kind: 'derived', dataBoundary: 'local-sensitive', maturity: 'beta' },
+  invoices: { kind: 'derived', dataBoundary: 'local-sensitive', maturity: 'beta' },
+  notices: { kind: 'live', dataBoundary: 'network-cached', permissions: ['public-notices'], maturity: 'beta' },
+  'finance-knowledge': { kind: 'live', dataBoundary: 'network-cached', permissions: ['public-finance'], maturity: 'beta' },
+  rss: { kind: 'connector', dataBoundary: 'network-cached', permissions: ['user-provided-rss'], maturity: 'beta' },
+  'exchange-rates': { kind: 'live', dataBoundary: 'network-cached', permissions: ['frankfurter'], maturity: 'stable' },
+  'github-activity': { kind: 'connector', dataBoundary: 'network-cached', permissions: ['github-public-profile'], maturity: 'beta' },
+  bookmarks: { kind: 'connector', dataBoundary: 'local', permissions: ['local-file-import'], maturity: 'stable' },
+  'agent-briefing': { kind: 'agent', dataBoundary: 'local', permissions: [], maturity: 'beta' },
+  profile: { kind: 'system', dataBoundary: 'configuration', maturity: 'stable' },
+  appearance: { kind: 'system', dataBoundary: 'configuration', maturity: 'stable' },
+  sync: { kind: 'system', dataBoundary: 'configuration', maturity: 'stable' },
+  settings: { kind: 'system', dataBoundary: 'configuration', maturity: 'stable' },
+  health: { kind: 'manual', dataBoundary: 'local-sensitive', maturity: 'beta' },
+  medications: { kind: 'derived', dataBoundary: 'local-sensitive', maturity: 'beta' },
+  diary: { kind: 'manual', dataBoundary: 'local-sensitive', maturity: 'stable' },
+  finance: { kind: 'manual', dataBoundary: 'local-sensitive', maturity: 'beta' },
+}
+
+export const moduleCatalog = baseModuleCatalog.map((module) => ({
+  kind: 'manual',
+  dataBoundary: 'local',
+  permissions: [],
+  maturity: 'stable',
+  ...module,
+  ...(capabilityById[module.id] || {}),
+}))
 
 export const sharedModuleIds = ['calendar', 'weather', 'tasks', 'quick-note', 'habits', 'profile', 'appearance', 'sync', 'settings']
 
