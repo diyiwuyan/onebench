@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 先看五类投稿说明
+    url: https://github.com/diyiwuyan/onebench/blob/main/docs/TEMPLATE-SUBMISSION.md
+    about: 不确定该投职业包、布局、主题、模块组合还是单模块时先看这里。
+  - name: 打开线上 Demo
+    url: https://diyiwuyan.github.io/onebench/
+    about: 投稿前先体验当前工作台，避免重复已有能力。

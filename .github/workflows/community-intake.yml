@@ -1,0 +1,67 @@
+name: Review community submission
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  review:
+    if: startsWith(github.event.issue.title, '[投稿]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const path = require('node:path')
+            const { pathToFileURL } = require('node:url')
+            const moduleUrl = pathToFileURL(path.join(process.env.GITHUB_WORKSPACE, 'scripts/lib/community-submission.mjs'))
+            const { validateSubmissionBody } = await import(moduleUrl.href)
+            const result = validateSubmissionBody(context.payload.issue.body || '')
+            const owner = context.repo.owner
+            const repo = context.repo.repo
+            const issue_number = context.issue.number
+            const marker = '<!-- onebench-community-intake -->'
+
+            const labels = {
+              'community': ['#6f42c1', 'OneBench 社区共建'],
+              'submission': ['#0e8a16', '模板或模块投稿'],
+              'awaiting-review': ['#1d76db', '信息完整，等待维护者初审'],
+              'needs-info': ['#d93f0b', '投稿信息需要补充'],
+            }
+            if (result.kindLabel) labels[result.kindLabel] = ['#bfdadc', '投稿类型']
+
+            for (const [name, [color, description]] of Object.entries(labels)) {
+              try {
+                await github.rest.issues.getLabel({ owner, repo, name })
+              } catch (error) {
+                if (error.status !== 404) throw error
+                await github.rest.issues.createLabel({ owner, repo, name, color, description })
+              }
+            }
+
+            const current = new Set((context.payload.issue.labels || []).map((label) => label.name))
+            const add = ['community', 'submission', result.valid ? 'awaiting-review' : 'needs-info']
+            if (result.kindLabel) add.push(result.kindLabel)
+            await github.rest.issues.addLabels({ owner, repo, issue_number, labels: add })
+
+            const remove = result.valid ? 'needs-info' : 'awaiting-review'
+            if (current.has(remove)) {
+              await github.rest.issues.removeLabel({ owner, repo, issue_number, name: remove })
+            }
+
+            const status = result.valid
+              ? `✅ 自动检查通过，已进入维护者初审。下一步会确认是否与现有模块重复、数据边界是否安全，以及是否邀请生成 PR。`
+              : `⚠️ 自动检查发现以下内容需要补充：\n\n${result.errors.map((error) => `- ${error}`).join('\n')}`
+            const body = `${marker}\n${status}\n\n流程说明：<https://github.com/${owner}/${repo}/blob/main/docs/COMMUNITY-REVIEW.md>`
+            const comments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number, per_page: 100 })
+            const existing = comments.find((comment) => comment.user?.type === 'Bot' && comment.body?.includes(marker))
+            if (existing) {
+              await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body })
+            } else {
+              await github.rest.issues.createComment({ owner, repo, issue_number, body })
+            }

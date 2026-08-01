@@ -97,6 +97,7 @@ import {
 } from './lib/github'
 import { birthdayView, bookkeepingSummary, calculatePeriod, defaultWorkspaceData, getDailyQuote, loadWorkspaceData, saveWorkspaceData } from './lib/local-data'
 import { buildAgentBriefing, fetchExchangeRates, fetchGitHubActivity, fetchRoleNews, fetchRssFeed, parseBookmarkHtml, parseIcsCalendar, shouldRunBriefing } from './lib/connectors'
+import { githubUser, pollGitHubDeviceFlow, startGitHubDeviceFlow } from './lib/github-oauth'
 import { injectStandalonePayload } from './lib/local-export'
 import {
   GITHUB_STORAGE_KEY,
@@ -352,6 +353,7 @@ export function App() {
   const [timerRunning, setTimerRunning] = useState(false)
   const [connection, setConnection] = useState(readConnection)
   const [syncStatus, setSyncStatus] = useState('')
+  const [oauthStatus, setOauthStatus] = useState('')
   const [syncing, setSyncing] = useState(false)
   const [marketEntries, setMarketEntries] = useState(() => [...(bundledRegistry.templates || []), ...(bundledRegistry.modules || [])])
   const [marketStatus, setMarketStatus] = useState(`已载入社区目录快照：${(bundledRegistry.templates || []).length} 个模板、${(bundledRegistry.modules || []).length} 个模块。`)
@@ -846,6 +848,22 @@ export function App() {
       setSyncStatus(error.message)
     } finally {
       setSyncing(false)
+    }
+  }
+
+  async function authorizeGitHub() {
+    try {
+      setOauthStatus('正在准备 GitHub 授权…')
+      const flow = await startGitHubDeviceFlow()
+      setOauthStatus(`请打开 ${flow.verification_uri}，输入代码 ${flow.user_code} 完成授权。`)
+      const token = await pollGitHubDeviceFlow(flow.device_code, flow.interval || 5)
+      const user = await githubUser(token)
+      const next = { ...connection, token, owner: user.login, oauth: true }
+      setConnection(next)
+      localStorage.setItem(GITHUB_STORAGE_KEY, JSON.stringify(next))
+      setOauthStatus(`已授权 GitHub：${user.login}。现在可以保存到你的私有仓库。`)
+    } catch (error) {
+      setOauthStatus(error.message || 'GitHub 授权失败。')
     }
   }
 
@@ -1425,7 +1443,7 @@ export function App() {
                 <div className="simple-callout"><LockKey weight="duotone" /><div><strong>默认不需要配置</strong><p>只在这台电脑用，直接下载 HTML 即可。只有需要手机和多台电脑同步时，才开启下面的高级方案。</p></div></div>
                 <div className="sync-levels"><article className="active"><span>1</span><div><strong>本机保存</strong><small>默认开启 · 不联网</small></div></article><article className={connection.owner && connection.repo ? 'active' : ''}><span>2</span><div><strong>配置同步</strong><small>主题、身份和模块</small></div></article><article className={connection.syncContent ? 'active' : ''}><span>3</span><div><strong>内容同步</strong><small>待办、记录和进度</small></div></article></div>
                 <section><h3>加密迁移包 · 不需要账号</h3><p className="section-copy">适合换电脑或手动备份。文件包含工作台配置和个人内容，使用 AES-GCM 在本机加密。</p><div className="backup-row"><input type="password" value={backupPassphrase} onChange={(event) => setBackupPassphrase(event.target.value)} placeholder="设置至少 8 位口令" /><button className="secondary-button" type="button" onClick={downloadEncryptedBackup}><DownloadSimple /> 下载备份</button><button className="secondary-button" type="button" onClick={() => backupInputRef.current?.click()}><CloudArrowDown /> 恢复备份</button><input ref={backupInputRef} className="visually-hidden" type="file" accept="application/json" onChange={restoreEncryptedBackup} /></div>{backupStatus && <p className="sync-status">{backupStatus}</p>}</section>
-                <section><div className="section-title-row"><div><h3>连接你自己的私有仓库</h3><p>{connection.lastSyncedAt ? `上次同步：${new Date(connection.lastSyncedAt).toLocaleString('zh-CN')}` : '尚未同步'}</p></div></div><div className="sync-fields"><label>GitHub 用户名<input value={connection.owner} onChange={(event) => changeConnection('owner', event.target.value)} placeholder="你的 GitHub 用户名" /></label><label>私有仓库名<input value={connection.repo} onChange={(event) => changeConnection('repo', event.target.value)} placeholder="my-onebench-data" /></label><label className="full-field">Fine-grained token<input type="password" value={connection.token} onChange={(event) => changeConnection('token', event.target.value)} placeholder="只授予该私有仓库 Contents 读写权限" /></label></div><label className="check-line"><input type="checkbox" checked={connection.syncContent} onChange={(event) => changeConnection('syncContent', event.target.checked)} />同时同步个人待办、记录、头像和进度（仅限私有仓库）</label><div className="sync-actions"><button className="primary-button" type="button" disabled={syncing} onClick={pushToGitHub}><CloudArrowUp /> 保存到云端</button><button className="secondary-button" type="button" disabled={syncing} onClick={pullFromGitHub}><CloudArrowDown /> 从云端恢复</button></div>{syncStatus && <p className="sync-status">{syncStatus}</p>}</section>
+                <section><div className="section-title-row"><div><h3>连接你自己的私有仓库</h3><p>{connection.lastSyncedAt ? `上次同步：${new Date(connection.lastSyncedAt).toLocaleString('zh-CN')}` : '尚未同步'}</p></div></div><div className="oauth-callout"><div><strong>推荐：GitHub 一键授权</strong><small>只有项目配置了 OAuth 客户端时可用；未配置时继续使用下面的 Fine-grained token。</small></div><button className="secondary-button" type="button" onClick={authorizeGitHub}><LockKey /> GitHub 授权</button></div>{oauthStatus && <p className="sync-status">{oauthStatus}</p>}<div className="sync-fields"><label>GitHub 用户名<input value={connection.owner} onChange={(event) => changeConnection('owner', event.target.value)} placeholder="你的 GitHub 用户名" /></label><label>私有仓库名<input value={connection.repo} onChange={(event) => changeConnection('repo', event.target.value)} placeholder="my-onebench-data" /></label><label className="full-field">Fine-grained token<input type="password" value={connection.token} onChange={(event) => changeConnection('token', event.target.value)} placeholder="只授予该私有仓库 Contents 读写权限" /></label></div><label className="check-line"><input type="checkbox" checked={connection.syncContent} onChange={(event) => changeConnection('syncContent', event.target.checked)} />同时同步个人待办、记录、头像和进度（仅限私有仓库）</label><div className="sync-actions"><button className="primary-button" type="button" disabled={syncing} onClick={pushToGitHub}><CloudArrowUp /> 保存到云端</button><button className="secondary-button" type="button" disabled={syncing} onClick={pullFromGitHub}><CloudArrowDown /> 从云端恢复</button></div>{syncStatus && <p className="sync-status">{syncStatus}</p>}</section>
               </div>
             )}
 

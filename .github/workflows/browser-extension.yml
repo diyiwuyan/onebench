@@ -1,0 +1,56 @@
+name: Package browser extension
+
+on:
+  pull_request:
+    paths:
+      - 'src/**'
+      - 'public/**'
+      - 'extension/**'
+      - 'scripts/prepare-extension-build.mjs'
+      - 'scripts/verify-extension-build.mjs'
+      - 'vite*.mjs'
+      - 'package*.json'
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'public/**'
+      - 'extension/**'
+      - 'scripts/prepare-extension-build.mjs'
+      - 'scripts/verify-extension-build.mjs'
+      - 'vite*.mjs'
+      - 'package*.json'
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Build verified extension
+        run: npm run build:extension
+        env:
+          ONEBENCH_EXTENSION_VERSION: ${{ github.event_name == 'release' && github.event.release.tag_name || '' }}
+      - name: Create beginner download
+        working-directory: dist/extension
+        run: zip -q -r ../onebench-browser-extension.zip .
+      - uses: actions/upload-artifact@v4
+        with:
+          name: onebench-browser-extension
+          path: dist/onebench-browser-extension.zip
+          if-no-files-found: error
+      - name: Attach package to GitHub Release
+        if: github.event_name == 'release'
+        run: gh release upload "${{ github.event.release.tag_name }}" dist/onebench-browser-extension.zip --clobber
+        env:
+          GH_TOKEN: ${{ github.token }}

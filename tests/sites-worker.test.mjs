@@ -61,6 +61,26 @@ test("does not turn missing API or write requests into the app shell", async () 
   }
 });
 
+test("reads a public RSS feed through the same-origin API", async () => {
+  const response = await worker.fetch(new Request("https://example.test/api/rss?url=https%3A%2F%2Ffeed.example.com%2Frss.xml"), {
+    ASSETS: { fetch: async () => new Response("missing", { status: 404 }) },
+    OUTBOUND: { fetch: async () => new Response('<?xml version="1.0"?><rss><channel><title>示例源</title><item><title>第一篇</title><link>https://feed.example.com/a</link><pubDate>Fri, 01 Aug 2025 08:00:00 GMT</pubDate></item></channel></rss>', { headers: { "content-type": "application/rss+xml" } }) },
+  });
+  const body = await response.json();
+  assert.equal(response.status, 200);
+  assert.equal(body.provider, "OneBench RSS 服务");
+  assert.equal(body.items[0].title, "第一篇");
+});
+
+test("RSS API rejects local and non-HTTPS targets", async () => {
+  for (const target of ["http://example.com/feed", "https://127.0.0.1/feed", "https://service.local/feed"]) {
+    const response = await worker.fetch(new Request(`https://example.test/api/rss?url=${encodeURIComponent(target)}`), {
+      ASSETS: { fetch: async () => new Response("missing", { status: 404 }) },
+    });
+    assert.equal(response.status, 400);
+  }
+});
+
 test("emits the files required by Sites packaging", async () => {
   await access(new URL("../dist/client/index.html", import.meta.url));
   await access(new URL("../dist/server/index.js", import.meta.url));

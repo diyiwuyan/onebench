@@ -1,19 +1,19 @@
-const ROLE_NEWS_QUERY = {
-  university: 'education OR university OR career',
-  teacher: 'education OR teaching OR classroom',
-  'postgraduate-exam': 'education OR research OR AI',
-  'civil-service-exam': 'government OR public policy OR economy',
-  creator: 'creator economy OR social media OR content',
-  operations: 'product management OR growth OR startup',
-  freelancer: 'freelance OR small business OR creator economy',
-  'team-lead': 'management OR leadership OR workplace',
-  financial: 'finance OR accounting OR tax',
-  'family-baby': 'parenting OR child health OR family',
-  office: 'workplace OR productivity OR office',
-  sales: 'sales OR ecommerce OR customer',
-  'small-business': 'small business OR ecommerce OR finance',
-  'job-search': 'career OR hiring OR interview',
-  senior: 'health OR retirement OR family',
+const ROLE_NEWS_TOPICS = {
+  university: ['教育', '大学', '就业', '科技'],
+  teacher: ['教育', '教学', '学校', '科技'],
+  'postgraduate-exam': ['教育', '研究', '科技', '就业'],
+  'civil-service-exam': ['公共政策', '国内', '财经', '社会'],
+  creator: ['创作', '科技', '工具', '商业'],
+  operations: ['职场', '科技', '商业', '财经'],
+  freelancer: ['创作', '职场', '商业', '财经'],
+  'team-lead': ['职场', '商业', '管理', '科技'],
+  financial: ['财经', '商业', '国内', '国际'],
+  'family-baby': ['育儿', '家庭', '健康', '教育'],
+  office: ['职场', '效率', '科技', '财经'],
+  sales: ['商业', '财经', '职场', '科技'],
+  'small-business': ['商业', '财经', '科技', '国内'],
+  'job-search': ['就业', '职场', '教育', '科技'],
+  senior: ['健康', '家庭', '社会', '国内'],
 }
 
 const safeHost = (value) => {
@@ -26,48 +26,108 @@ const normalizeTopics = (topics) => String(topics || '')
   .filter(Boolean)
   .slice(0, 5)
 
+const dataUrl = (relativePath) => {
+  const base = typeof document !== 'undefined' ? document.baseURI : 'http://localhost/'
+  return new URL(relativePath.replace(/^\//, ''), base).toString()
+}
+
+const fetchJson = async (url) => {
+  const response = await fetch(url, { headers: { Accept: 'application/json' } })
+  if (!response.ok) throw new Error(`HTTP ${response.status}`)
+  const type = response.headers.get('content-type') || ''
+  if (!type.includes('json')) throw new Error('返回内容不是 JSON')
+  return response.json()
+}
+
+const decodeEntities = (value = '') => String(value)
+  .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+  .replace(/&amp;/gi, '&').replace(/&lt;/gi, '<').replace(/&gt;/gi, '>')
+  .replace(/&quot;/gi, '"').replace(/&#39;|&apos;/gi, "'")
+
+const cleanFeedText = (value = '', limit = 220) => decodeEntities(value)
+  .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '')
+  .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '')
+  .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, limit)
+
+const parseFeedXml = (xml, feedUrl, limit) => {
+  const raw = String(xml || '')
+  const blocks = [...raw.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/gi)].map((match) => match[1])
+  if (!blocks.length) blocks.push(...[...raw.matchAll(/<entry\b[^>]*>([\s\S]*?)<\/entry>/gi)].map((match) => match[1]))
+  const readTag = (block, names) => {
+    for (const name of names) {
+      const match = block.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${name}>`, 'i'))
+      if (match) return match[1]
+    }
+    return ''
+  }
+  const title = cleanFeedText(readTag(raw, ['title']), 160) || safeHost(feedUrl)
+  const items = blocks.slice(0, limit).map((block, index) => {
+    const atomLink = block.match(/<link\b[^>]*href=["']([^"']+)["'][^>]*>/i)?.[1]
+    const url = decodeEntities(atomLink || cleanFeedText(readTag(block, ['link']), 2_000)).trim()
+    const rawDate = cleanFeedText(readTag(block, ['pubDate', 'published', 'updated', 'dc:date']), 200)
+    const date = new Date(rawDate)
+    return {
+      id: cleanFeedText(readTag(block, ['guid', 'id']), 500) || url || `rss-${index}`,
+      title: cleanFeedText(readTag(block, ['title']), 240) || '未命名文章',
+      meta: `${title} · ${Number.isNaN(date.getTime()) ? '刚刚更新' : date.toLocaleDateString('zh-CN')}`,
+      url,
+      publishedAt: Number.isNaN(date.getTime()) ? '' : date.toISOString(),
+    }
+  }).filter((item) => /^https?:\/\//i.test(item.url))
+  return { title, items }
+}
+
 export async function fetchRoleNews({ roleId, topics, limit = 10 } = {}) {
   const customTopics = normalizeTopics(topics)
-  const query = customTopics.length ? customTopics.join(' OR ') : (ROLE_NEWS_QUERY[roleId] || 'productivity OR technology')
-  const response = await fetch(`https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=${limit}&query=${encodeURIComponent(query)}`)
-  if (!response.ok) throw new Error(`资讯源暂时不可用（${response.status}）`)
-  const payload = await response.json()
-  const items = (payload.hits || [])
-    .filter((item) => item.title && (item.url || item.story_url))
-    .slice(0, limit)
-    .map((item) => {
-      const url = item.url || item.story_url
-      return {
-        id: `hn-${item.objectID}`,
-        title: item.title,
-        category: customTopics[0] || '互联网',
-        summary: `${item.author || '公开来源'} · ${item.points || 0} 人关注`,
-        source: safeHost(url) || 'Hacker News',
-        url,
-        publishedAt: item.created_at,
-        hot: Number(item.points || 0) >= 50,
-      }
-    })
+  const defaultTopics = ROLE_NEWS_TOPICS[roleId] || ['科技', '效率', '社会']
+  const selectedTopics = customTopics.length ? customTopics : defaultTopics
+  let payload
+  try {
+    payload = await fetchJson(dataUrl('data/news.json'))
+  } catch {
+    throw new Error('公共资讯暂时不可用')
+  }
+  const scored = (payload.items || []).map((item) => {
+    const haystack = `${item.title || ''} ${item.summary || ''} ${(item.tags || []).join(' ')} ${item.category || ''}`.toLowerCase()
+    return { item, score: selectedTopics.reduce((score, topic) => score + (haystack.includes(topic.toLowerCase()) ? 1 : 0), 0) }
+  })
+  const matched = scored.filter(({ score }) => score > 0).sort((a, b) => b.score - a.score)
+  const items = (matched.length ? matched : scored).slice(0, limit).map(({ item }) => item)
   if (!items.length) throw new Error('没有找到符合当前主题的资讯')
-  return { items, updatedAt: new Date().toISOString(), provider: 'Hacker News / Algolia', query }
+  return {
+    items,
+    updatedAt: payload.generatedAt || new Date().toISOString(),
+    provider: payload.provider || 'OneBench 公共资讯快照',
+    query: selectedTopics.join('、'),
+  }
 }
 
 export async function fetchRssFeed(feedUrl, limit = 10) {
   const normalized = String(feedUrl || '').trim()
   if (!/^https?:\/\//i.test(normalized)) throw new Error('请输入完整的 RSS 地址')
-  const endpoint = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(normalized)}&count=${limit}`
-  const response = await fetch(endpoint)
-  if (!response.ok) throw new Error(`RSS 服务暂时不可用（${response.status}）`)
-  const payload = await response.json()
-  if (payload.status !== 'ok') throw new Error(payload.message || '无法读取这个 RSS')
-  const items = (payload.items || []).slice(0, limit).map((item, index) => ({
-    id: item.guid || item.link || `rss-${index}`,
-    title: item.title || '未命名文章',
-    meta: `${payload.feed?.title || safeHost(normalized)} · ${item.pubDate ? new Date(item.pubDate).toLocaleDateString('zh-CN') : '刚刚更新'}`,
-    url: item.link || normalized,
-    publishedAt: item.pubDate || '',
-  }))
-  return { feedUrl: normalized, title: payload.feed?.title || safeHost(normalized), items, updatedAt: new Date().toISOString(), provider: 'RSS2JSON' }
+  try {
+    const catalog = await fetchJson(dataUrl('data/feed-catalog.json'))
+    const source = (catalog.sources || []).find((item) => item.url.replace(/\/$/, '') === normalized.replace(/\/$/, ''))
+    if (source?.snapshot) {
+      const cached = await fetchJson(dataUrl(source.snapshot))
+      return { ...cached, feedUrl: normalized, items: (cached.items || []).slice(0, limit) }
+    }
+  } catch {}
+
+  try {
+    const payload = await fetchJson(`${dataUrl('api/rss')}?url=${encodeURIComponent(normalized)}&limit=${limit}`)
+    return payload
+  } catch {}
+
+  try {
+    const response = await fetch(normalized, { headers: { Accept: 'application/atom+xml, application/rss+xml, application/xml, text/xml;q=0.9' } })
+    if (!response.ok) throw new Error(`HTTP ${response.status}`)
+    const parsed = parseFeedXml(await response.text(), normalized, limit)
+    if (!parsed.items.length) throw new Error('订阅源里没有可读取的文章')
+    return { feedUrl: normalized, ...parsed, updatedAt: new Date().toISOString(), provider: '订阅源直连' }
+  } catch {
+    throw new Error('这个订阅源无法直接读取；可改用模块内置的公共源，或部署带 RSS 服务的在线版')
+  }
 }
 
 export async function fetchExchangeRates(base = 'CNY', symbols = ['USD', 'EUR', 'JPY', 'HKD']) {

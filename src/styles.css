@@ -544,6 +544,10 @@ progress::-moz-progress-bar { border-radius: 99px; background: var(--accent); }
 .market-filters > div { display: flex; flex-wrap: wrap; gap: 7px; }
 .market-filters button { padding: 7px 10px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); background: var(--surface); font-size: 8px; }
 .market-filters button.selected { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+.oauth-callout { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 13px; border: 1px solid var(--line); border-radius: 13px; background: var(--surface-2); }
+.oauth-callout > div { display: grid; gap: 4px; }
+.oauth-callout strong { font-size: 10px; }
+.oauth-callout small { max-width: 360px; color: var(--muted); font-size: 8px; line-height: 1.5; }
 .scenario-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
 .scenario-grid button { display: flex; align-items: center; gap: 10px; padding: 11px; border: 1px solid var(--line); border-radius: 12px; color: var(--ink); background: var(--surface-2); text-align: left; }
 .scenario-grid button:hover { border-color: var(--accent); background: var(--accent-soft); }

@@ -41,6 +41,16 @@ Add role defaults to `packages/template-packs/first-party-packs.json`, choose a 
 
 Run `npm run update:registry` to fetch metadata from the official public catalog into `.onebench/community-registry.json`. It does not install or execute code. For source updates, use `git fetch upstream`, review the diff, merge a pinned revision, run verification, and push.
 
+## Background briefing
+
+The browser version generates the briefing when the workbench is opened. For a computer that should also generate a file while the browser is closed, ask the agent to create a scheduled task that runs:
+
+```bash
+npm run briefing -- --workspace workspace.json --input workspace-data.json --output agent-briefing.json
+```
+
+The script only reads local JSON files and writes a local briefing. A macOS launchd task, Windows Task Scheduler task, or Linux cron entry may call it; no daily content is uploaded.
+
 ## Verification command
 
 `npm run validate:templates && npm run validate:modules && npm run validate:registry && npm test && npm run build && npm run test:sites`

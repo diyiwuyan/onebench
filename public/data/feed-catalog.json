@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-01T09:10:09.180Z",
+  "sources": [
+    {
+      "id": "chinanews-scroll",
+      "name": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+      "language": "zh-CN",
+      "category": "综合",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "snapshot": "data/feeds/chinanews-scroll.json",
+      "available": true
+    },
+    {
+      "id": "sspai",
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "language": "zh-CN",
+      "category": "科技",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "snapshot": "data/feeds/sspai.json",
+      "available": true
+    },
+    {
+      "id": "un-news-zh",
+      "name": "联合国新闻",
+      "url": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml",
+      "language": "zh-CN",
+      "category": "国际",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "snapshot": "data/feeds/un-news-zh.json",
+      "available": true
+    },
+    {
+      "id": "who-zh",
+      "name": "世界卫生组织",
+      "url": "https://www.who.int/rss-feeds/news-chinese.xml",
+      "language": "zh-CN",
+      "category": "健康",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "snapshot": "data/feeds/who-zh.json",
+      "available": true
+    },
+    {
+      "id": "bbc-zh",
+      "name": "BBC 中文",
+      "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "language": "zh-CN",
+      "category": "国际",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "snapshot": "data/feeds/bbc-zh.json",
+      "available": true
+    }
+  ]
+}

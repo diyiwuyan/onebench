@@ -1,0 +1,6 @@
+# 安全边界、公共目录和发布流程必须由仓库维护者复核。
+/packages/community-registry/ @diyiwuyan
+/packages/modules/ @diyiwuyan
+/packages/workspace-schema/ @diyiwuyan
+/.github/workflows/ @diyiwuyan
+/extension/ @diyiwuyan

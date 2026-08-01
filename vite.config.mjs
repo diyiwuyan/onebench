@@ -12,6 +12,16 @@ export default defineConfig({
   },
   build: {
     outDir: "dist/client",
+    chunkSizeWarningLimit: 420,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          react: ["react", "react-dom", "react-dom/client"],
+          dnd: ["@dnd-kit/core", "@dnd-kit/sortable", "@dnd-kit/utilities"],
+          icons: ["@phosphor-icons/react"],
+        },
+      },
+    },
   },
   optimizeDeps: {
     include: ["react", "react-dom/client"],
