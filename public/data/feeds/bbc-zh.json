@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#0",
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "meta": "BBC 中文 · 2026/8/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T09:56:01.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#0",
       "title": "網傳胡錦濤舉家身亡 秦楓稱流傳帖文屬冒用",
       "meta": "BBC 中文 · 2026/7/31",
@@ -19,7 +26,7 @@
       "publishedAt": "2026-07-31T06:32:17.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad#1",
       "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
       "meta": "BBC 中文 · 2026/7/31",
       "url": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/7/29",
       "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T11:14:21.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad#1",
-      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
-      "meta": "BBC 中文 · 2026/7/29",
-      "url": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T10:35:20.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-15T12:26:18.000Z"
     }
   ],
-  "updatedAt": "2026-08-01T09:10:09.180Z",
+  "updatedAt": "2026-08-01T11:35:08.549Z",
   "provider": "OneBench 公共资讯快照"
 }
