@@ -20,3 +20,5 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - Homepage widgets must support persistent reordering and size changes. Role-pack sample content is only a first-use seed; every visible item must later be editable or removable by the user.
 - Treat calendar and weather as first-class shared widgets. Weather may refresh from the network but must keep a useful local cache and never block the offline workbench.
 - Community contributions are not one generic “template”: distinguish career packs, workspace layouts, theme packs, module bundles, and individual modules.
+- Professional editions must not expose a version switcher in the main top bar. Put switching, returning to the basic edition, profile/display controls, and data backup in the bottom-left Settings entry.
+- A professional edition is a distinct workflow and data model, not a recolored shared page. Exam, teacher, lifestyle/creator-reference, and content-creator editions need role-specific create/update/delete flows and independently persisted data.

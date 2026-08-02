@@ -371,7 +371,7 @@ export function App() {
   const [onboardingGoal, setOnboardingGoal] = useState('学习、待办和阶段目标')
   const [onboardingDevice, setOnboardingDevice] = useState('both')
   const [editMode, setEditMode] = useState(false)
-  const [editionMode, setEditionMode] = useState(() => localStorage.getItem('onebench.edition') || 'basic')
+  const [editionMode, setEditionMode] = useState(() => embeddedSeed?.edition || localStorage.getItem('onebench.edition') || 'basic')
   const [weatherStatus, setWeatherStatus] = useState('')
   const drawerRef = useRef(null)
   const avatarInputRef = useRef(null)

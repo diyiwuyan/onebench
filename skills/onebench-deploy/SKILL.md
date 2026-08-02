@@ -22,6 +22,7 @@ The plain-language values in the starter prompt are valid inputs; do not make be
 - Use the 1–3 things after “最想管理” to prioritize the default modules and title. A broad word such as “学习” is sufficient for a working first version; a more concrete list improves the result but is never required.
 - Use the role pack's theme by default. If the user gives a preferred color or style, keep the role modules and change only the theme.
 - If the user provides a name or preferred form of address, write it to `workspace.profile.displayName`; otherwise use a warm generic address and let them change it in “定制”.
+- When the user explicitly asks for “考公冲刺台／考公版”, “班主任工作台／教师专业版”, “胡楚靓同款”, or “创作者工作台／创作者专业版”, select the corresponding `exam`, `teacher`, `hu`, or `creator` professional edition. Do not imitate that request with a recolored basic pack.
 
 ## Delivery choice
 
@@ -30,7 +31,7 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
 ## Local desktop delivery (default)
 
 1. Inspect `packages/template-packs/first-party-packs.json`, `src/data/modules.js`, `src/data/themes.js`, and `docs/BEGINNER.md`. Do not rebuild the UI outside this repository.
-2. Infer the closest pack and retain all shared and role-default modules. Run `npm ci` when dependencies are absent, then use `scripts/create-local-workbench.mjs --pack 模板ID --prompt 用户需求 --name 用户称呼 --workspace-name 工作台名称 --out 用户桌面/我的工作台.html`. Omit the two name flags when the user did not provide them.
+2. Infer the closest pack and retain all shared and role-default modules. Run `npm ci` when dependencies are absent, then use `scripts/create-local-workbench.mjs --pack 模板ID --prompt 用户需求 --name 用户称呼 --workspace-name 工作台名称 --out 用户桌面/我的工作台.html`. Omit the two name flags when the user did not provide them. For an explicit professional edition, add `--edition exam|teacher|hu|creator`; the generated HTML must open directly in that edition.
 3. Run `scripts/create-desktop-launcher.mjs --html 用户桌面/我的工作台.html --out 用户桌面/打开我的工作台.command` on macOS, or use `--platform win32 --out 用户桌面/打开我的工作台.url` on Windows. Verify that the generated launcher points to the HTML file.
 4. Open the generated HTML in a browser and verify:
    - the selected role title and realistic starter content are visible;
@@ -41,6 +42,7 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
    - adding and completing a task persists after reload;
    - starter data is identified as role-pack sample content, and every visible item can be edited or removed from its module editor;
    - a role control works, such as starting the focus timer, updating a study goal, editing a learning plan, or refreshing weather;
+   - for a professional edition, the top of the page has no edition switcher, the bottom-left entry is “设置”, switching editions and returning to the basic edition are inside Settings, and at least one edition-specific create/update/delete flow survives reload;
    - no required script, font, image, or stylesheet depends on the network.
 5. Do not hand off an empty shell, English module IDs, placeholder cards, a landing page, or a second UI invented outside OneBench. Explain local data only if needed.
 
