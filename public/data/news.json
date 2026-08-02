@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T13:54:54.039Z",
-  "expiresAt": "2026-08-02T19:54:54.039Z",
+  "generatedAt": "2026-08-02T15:19:58.275Z",
+  "expiresAt": "2026-08-02T21:19:58.275Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
+      "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
+      "category": "综合",
+      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
+      "publishedAt": "2026-08-02T14:52:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
+      "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
+      "category": "综合",
+      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
+      "publishedAt": "2026-08-02T14:40:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-02/10670957.shtml",
+      "title": "2026年“文化中国·水立方杯”中文歌曲大赛总决赛落幕",
+      "category": "综合",
+      "summary": "中新社北京8月2日电 (记者 吴侃 门睿)2026年“文化中国·水立方杯”中文歌曲大赛总决赛2日晚在北京落幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-02/10670957.shtml",
+      "publishedAt": "2026-08-02T14:27:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
+      "title": "藏羚羊带娃回家啦！青藏公路开启“静音模式”",
+      "category": "综合",
+      "summary": "7月下旬",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
+      "publishedAt": "2026-08-02T14:24:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
+      "title": "行进中国｜跟着牦牛尾巴走的派出所",
+      "category": "综合",
+      "summary": "西藏阿里，札达县，曲松乡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
+      "publishedAt": "2026-08-02T14:19:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
+      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
+      "category": "综合",
+      "summary": "天山网-新疆日报记者 杨舒涵",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
+      "publishedAt": "2026-08-02T14:16:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670953.shtml",
+      "title": "勇立潮头大湾区丨“来数加工”成跨境算力新场景",
+      "category": "综合",
+      "summary": "算力，不是遥不可及的黑科技 而是数字时代的“新水电” 从《哪吒之魔童降世》《流浪地球》的 影视特效 到《王者荣耀》《黑神话：悟空》等游戏 丝滑操作 甚至是每一次精准的天气预警 …… 这一切的背后都离不开两个字：算力 依托大湾区平台优势 粤港澳大湾区数据特区 “来数加工”跨境算力专区 近期在广东韶关 正式启用 韶关和香港之间架起“数字桥梁” 为粤港澳科创协同 ",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670953.shtml",
+      "publishedAt": "2026-08-02T14:03:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670952.shtml",
+      "title": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区",
+      "category": "综合",
+      "summary": "近期，美国开放人工智能研究中心(OpenAI)模型自主入侵其他企业数据系统、中国开源模型参与应急响应，引发国际舆论持续关注。美国媒体也对各国开展AI安全治理合作以及AI开源生态价值#8204;进行思考与讨论。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670952.shtml",
+      "publishedAt": "2026-08-02T13:55:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670951.shtml",
       "title": "破壁而立，寻新机！ 中国跨境电商从“卖产品”转向“拥有品牌议价权和定价权”",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199983.shtml",
       "publishedAt": "2026-08-02T12:38:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670923.shtml",
-      "title": "文商旅体展协同发力 上海夏日越“夜”越精彩",
-      "category": "综合",
-      "summary": "中新网上海8月2日电(李佳佳 曾子琴)夏季正是夜间经济最火热的时候，在这个夏天，上海的夜，又上新了。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670923.shtml",
-      "publishedAt": "2026-08-02T12:36:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670922.shtml",
-      "title": "中国特有濒危物种斑尾榛鸡种群规模稳定回升",
-      "category": "综合",
-      "summary": "中新网兰州8月2日电 (记者 冯志军)经过40余年持续系统保护，甘肃莲花山国家级自然保护区扭转了中国特有濒危物种斑尾榛鸡种群衰退趋势，物种生存状态持续改善。种群林间活动频次逐年递增、活动范围稳步向外拓展、幼鸟存活率持续提升，隔离小种群适应性不断增强，整体呈现种群数量稳步回升、持续恢复的良好态势。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670922.shtml",
-      "publishedAt": "2026-08-02T12:35:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670921.shtml",
-      "title": "上海多家老年教育机构开设暑期班 让银发群体“四季有学”“时时乐学”",
-      "category": "综合",
-      "summary": "中新网上海8月2日电(记者 许婧)去老年大学“避暑学习”，享受学习的“清凉”，成为不少上海老年人的新选择。今年暑期，以普陀区老年大学、华东师范大学老年大学等为代表的多家老年教育机构首次开设特色暑期课程，推动上海老年教育从学期制办学转向全年化服务，让银发群体“四季有学”“时时乐学”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670921.shtml",
-      "publishedAt": "2026-08-02T12:35:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670919.shtml",
-      "title": "天津11部门联合出台意见 升级存量资产盘活政策",
-      "category": "综合",
-      "summary": "中新网天津8月2日电 (记者 周亚强)记者2日从天津市规划资源局获悉，该局联合天津市发展改革委、市住房城乡建设委等10部门近日印发《关于盘活存量资产解决历史遗留项目规划土地及不动产登记问题意见(2026版)》(下称《2026版》)，在2024年试行政策基础上进一步扩大适用范围、优化办理流程，为历史遗留项目完善手续、办理不动产登记提供支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670919.shtml",
-      "publishedAt": "2026-08-02T12:31:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670918.shtml",
-      "title": "重庆对12个区县启动市级防汛三级应急响应",
-      "category": "综合",
-      "summary": "中新网重庆8月2日电 (记者 刘相琳)记者2日从重庆市应急管理局获悉，重庆市防汛抗旱指挥部决定自2日15时起，对12个区县启动市级防汛三级应急响应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670918.shtml",
-      "publishedAt": "2026-08-02T12:30:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-02/10670917.shtml",
-      "title": "人文社“哈利·波特”学院知识竞赛引“哈迷”齐聚直播间展开智慧较量",
-      "category": "综合",
-      "summary": "中新网北京8月2日电 (记者 应妮)由人民文学出版社举办的第七届“哈利·波特”学院知识竞赛日前在线上举行。本届竞赛延续了往年的火热氛围，吸引了全国各地的“哈迷”齐聚直播间，以学院之名展开智慧较量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670917.shtml",
-      "publishedAt": "2026-08-02T12:29:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-02/10670915.shtml",
-      "title": "第三届雷达学术前沿大会在长沙举行",
-      "category": "综合",
-      "summary": "中新网长沙8月2日电(王曼)8月2日，第三届雷达学术前沿大会在长沙启幕，雷达及相关领域8位院士，1200余位高校、科研院所、企业等各方代表参会。国防科技大学校长雷勇军、中国科学院院士吴一戎现场致辞。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670915.shtml",
-      "publishedAt": "2026-08-02T12:29:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/2026/08-02/news1064117.shtml",
-      "title": "Pick Yiwu韩国站 ：时尚饰品激活“潮流经济”",
-      "category": "综合",
-      "summary": "如今，产自义乌的时尚饰品在韩国市场愈发受到欢迎，并借助当地的本土落地服务逐渐实现共定标准、共创品牌。今天，中新社《Pick Yiwu》系列走进韩国首尔，看一件件小饰品如何汇聚为充满活力的“潮流经济”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/cj/shipin/2026/08-02/news1064117.shtml",
-      "publishedAt": "2026-08-02T12:16:44.000Z",
       "tags": [
         "国内",
         "社会",
