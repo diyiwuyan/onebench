@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import {
   Archive, ArrowClockwise, ArrowRight, CalendarBlank, ChartLineUp,
-  Check, CloudCheck, Fire, GearSix, Globe, House, Lightbulb,
+  Check, CheckCircle, CloudCheck, Fire, GearSix, Globe, House, Lightbulb,
   LinkSimple, List, ListChecks, MagnifyingGlass, MusicNotes, NotePencil, PencilSimple,
-  Play, Plus, Sparkle, Star, Trash, UserCircle, X,
+  Play, Plus, Sparkle, Star, Trash, UserCircle, VideoCamera, X,
 } from '@phosphor-icons/react'
 import './lifestyle-flagship.css'
 
@@ -18,6 +18,14 @@ const navItems = [
   { label: '备忘录', hint: '不让想法溜走', icon: NotePencil },
   { label: '小提琴练习', hint: '阶段化进阶', icon: MusicNotes },
   { label: '英语学习', hint: '精听与表达', icon: Globe },
+]
+
+const violinStages = [
+  { title: '准备与空弦运弓', goal: '让身体保持放松，四根空弦都能拉出干净、均匀的声音。', passCriteria: '连续拉完四根弦时，声音稳定、节奏不过快，肩颈没有明显紧张。', resource: '小提琴 空弦 运弓 入门' },
+  { title: '一指与音阶入门', goal: '建立左手落点感，能在慢速下完成一组音阶。', passCriteria: '每个音高可辨、节拍稳定，并能听出需要重练的小节。', resource: '小提琴 一指 D大调 音阶 初学' },
+  { title: '换弦与节奏', goal: '在换弦时保持右手稳定，让乐句不断开。', passCriteria: '四小节练习能跟上节拍器，换弦没有明显噪音。', resource: '小提琴 换弦 节拍器 基础' },
+  { title: '连弓与乐句', goal: '控制弓速与音量，开始表达一句完整旋律。', passCriteria: '连弓中声音连续，能完成渐强或渐弱的一次变化。', resource: '小提琴 连弓 音色 乐句' },
+  { title: '完整片段演奏', goal: '把基础动作放进一段作品，形成自己的演奏记录。', passCriteria: '能完整演奏一段小品，并从录音中写下一条具体改进。', resource: '小提琴 初学者 完整曲目 练习' },
 ]
 
 function pageDate() {
@@ -47,7 +55,7 @@ export function LifestyleFlagship({ active, data, onNavigate, onOpenSettings, up
       {active === 2 && <TrendFeed data={data} update={update} updateItem={updateItem} showToast={showToast} onNavigate={navigate} />}
       {active === 3 && <ReviewLab data={data} update={update} updateItem={updateItem} removeItem={removeItem} />}
       {active === 4 && <MemoBook data={data} update={update} updateItem={updateItem} removeItem={removeItem} />}
-      {active === 5 && <PracticePage kind="violin" data={data} update={update} updateItem={updateItem} removeItem={removeItem} />}
+      {active === 5 && <ViolinJourney data={data} update={update} updateItem={updateItem} removeItem={removeItem} showToast={showToast} />}
       {active === 6 && <PracticePage kind="english" data={data} update={update} updateItem={updateItem} removeItem={removeItem} />}
     </div>
 
@@ -122,10 +130,6 @@ function TaskSection({ title, subtitle, rows, onAdd, onUpdate, onDelete, empty }
 }
 
 function IdeaFeed({ data, update, updateItem, showToast, onNavigate }) {
-  const [filter, setFilter] = useState('全部')
-  const categories = ['全部', ...new Set(data.ideas.map((item) => item.tag || '其他'))]
-  const filtered = filter === '全部' ? data.ideas : data.ideas.filter((item) => item.tag === filter)
-
   const refresh = () => {
     update('ideas', (rows) => rows.length > 1 ? [...rows.slice(1), rows[0]] : rows)
     update('lastIdeaRefresh', new Date().toLocaleString('zh-CN'))
@@ -138,16 +142,19 @@ function IdeaFeed({ data, update, updateItem, showToast, onNavigate }) {
   }
 
   return <div className="lf-page">
-    <PageIntro kicker="DAILY INSPIRATION" title="选题每日灵感" copy="每天给你一组可执行的内容方向。喜欢的先收藏，决定做的直接加入今天。" action={<button className="lf-primary-action" type="button" onClick={refresh}><ArrowClockwise />换一批</button>} />
-    <InfoStrip icon={Lightbulb} title="每日灵感来源" copy={`本地示例可离线使用；联网更新失败时保留上一批。${data.lastIdeaRefresh ? ` 上次更新：${data.lastIdeaRefresh}` : ' 默认每天 09:00 更新。'}`} />
-    <FilterPills values={categories} value={filter} onChange={setFilter} />
-    <div className="lf-feed-list">{filtered.map((item, index) => <article className="lf-feed-card" key={item.id}>
-      <header><span className="lf-number">{index + 1}</span><div><small>{item.tag || '灵感'}</small><h2>{item.title}</h2></div>{item.saved && <Star weight="fill" />}</header>
+    <section className="lf-source-card">
+      <header><div><Lightbulb weight="fill" /><b>每日灵感来源</b></div><span>{data.lastIdeaRefresh || `${today()} 示例更新`} · 共 {data.ideas.length} 条</span></header>
+      <p>每天给你一组能立刻改成内容的方向。默认使用本地示例；联网内容接入后会显示来源与更新时间，离线时仍保留上一批。</p>
+      <button type="button" onClick={refresh}><ArrowClockwise />立即刷新灵感</button>
+    </section>
+    <div className="lf-reference-feed">{data.ideas.map((item, index) => <article className="lf-reference-idea" key={item.id}>
+      <header><h2><span>{index + 1}.</span>{item.title}</h2><small>{item.tag || '灵感'}</small></header>
       <p>{item.summary || '把这条灵感拆成一个可以在今天完成的小动作。'}</p>
-      <div className="lf-card-actions">
-        <button type="button" onClick={() => window.open(`https://search.bilibili.com/all?keyword=${encodeURIComponent(item.title)}`, '_blank', 'noopener')}><Play weight="fill" />看相关视频</button>
-        <button type="button" onClick={() => updateItem('ideas', item.id, { saved: !item.saved })}><Star weight={item.saved ? 'fill' : 'regular'} />{item.saved ? '已收藏' : '存为灵感'}</button>
-        <button className={item.taskAdded ? 'is-success' : ''} type="button" onClick={() => addTask(item)}><Plus />{item.taskAdded ? '已加入任务' : '加入任务'}</button>
+      <div className="lf-reference-actions">
+        <button type="button" onClick={() => window.open(`https://www.douyin.com/search/${encodeURIComponent(item.title)}`, '_blank', 'noopener')}><Play weight="fill" />看抖音相关视频</button>
+        <button type="button" onClick={() => window.open(`https://search.bilibili.com/all?keyword=${encodeURIComponent(item.title)}`, '_blank', 'noopener')}><Play />B站相关</button>
+        <button className="lf-subtle-action" type="button" onClick={() => updateItem('ideas', item.id, { saved: !item.saved })}><Star weight={item.saved ? 'fill' : 'regular'} />{item.saved ? '已存' : '收藏'}</button>
+        <button className={item.taskAdded ? 'is-success' : 'lf-subtle-action'} type="button" onClick={() => addTask(item)}><Plus />{item.taskAdded ? '已加入' : '加入任务'}</button>
       </div>
     </article>)}</div>
     <button className="lf-bottom-route" type="button" onClick={() => onNavigate(0)}><ListChecks /><span><b>查看今天的创作任务</b><small>灵感加入后会出现在每日计划</small></span><ArrowRight /></button>
@@ -155,8 +162,9 @@ function IdeaFeed({ data, update, updateItem, showToast, onNavigate }) {
 }
 
 function TrendFeed({ data, update, updateItem, showToast, onNavigate }) {
+  const [tab, setTab] = useState('challenge')
   const [filter, setFilter] = useState('全部')
-  const categories = ['全部', ...new Set((data.trends || []).map((item) => item.category))]
+  const categories = ['全部', '搞笑', '化妆', '服装', '唱歌', '弹琴', '思考', ...new Set((data.trends || []).map((item) => item.category))]
   const filtered = filter === '全部' ? data.trends : data.trends.filter((item) => item.category === filter)
 
   const addTask = (item) => {
@@ -176,15 +184,23 @@ function TrendFeed({ data, update, updateItem, showToast, onNavigate }) {
   }
 
   return <div className="lf-page">
-    <PageIntro kicker="TREND TO ACTION" title="热点视频 / 二创" copy="不只展示热榜：先解释为什么适合你，再把二创方向保存为灵感或任务。" action={<button className="lf-primary-action" type="button" onClick={next}><ArrowClockwise />换视频</button>} />
-    <FilterPills values={categories} value={filter} onChange={setFilter} />
+    <section className="lf-trend-lead">
+      <div className="lf-trend-tabs"><button type="button" className={tab === 'hot' ? 'is-active' : ''} onClick={() => setTab('hot')}><Fire weight="fill" />热榜</button><button type="button" className={tab === 'challenge' ? 'is-active' : ''} onClick={() => setTab('challenge')}><Star weight="fill" />挑战榜 · 可二创</button></div>
+      <h1>{tab === 'challenge' ? '挑战榜 · 跟我拍就能二创' : '热榜 · 找到可以转化的内容'}</h1>
+      <p>{tab === 'challenge' ? '挑出能直接参与或改编的挑战，先理解为什么值得拍，再把它变成自己的动作。' : '热榜只作灵感入口，不承诺实时数据；切换到挑战榜可以直接生成二创任务。'}</p>
+      <FilterPills values={[...new Set(categories)]} value={filter} onChange={setFilter} />
+      <button className="lf-refresh-outline" type="button" onClick={next}><ArrowClockwise />立即刷新{tab === 'challenge' ? '挑战榜' : '热榜'}</button>
+    </section>
     <div className="lf-feed-list">{filtered.map((item) => <article className="lf-trend-card" key={item.id}>
-      <header><div><span><Fire weight="fill" />{item.heat}</span><small>{item.platform} · {item.category}</small></div><h2>{item.title}</h2></header>
-      <dl><div><dt>为什么适合二创</dt><dd>{item.why}</dd></div><div className="lf-remix-plan"><dt>你的二创方向</dt><dd>{item.remix}</dd></div></dl>
-      <div className="lf-card-actions">
-        <button type="button" onClick={() => window.open(`https://www.douyin.com/search/${encodeURIComponent(item.title)}`, '_blank', 'noopener')}><LinkSimple />去平台搜索</button>
-        <button type="button" onClick={() => saveIdea(item)}><Star weight={item.saved ? 'fill' : 'regular'} />{item.saved ? '已存灵感' : '存为灵感'}</button>
+      <header><div><h2>{item.title}</h2><small>{item.category}</small></div><span><Star weight="fill" />{item.publishedAt || '本地示例'} · {item.heat}</span></header>
+      <dl><div><dt>为什么适合你二创</dt><dd>{item.why}</dd></div><div className="lf-remix-plan"><dt>改编角度</dt><dd>{item.remix}</dd></div></dl>
+      <small className="lf-trend-source">来源：{item.source || `${item.platform} 搜索结果`} · 点击外链前请自行核验</small>
+      <div className="lf-trend-note"><VideoCamera weight="fill" /><span>{item.note || '用自己的真实过程替换模仿，保留一个清楚的反差点。'}</span></div>
+      <div className="lf-reference-actions">
+        <button type="button" onClick={() => window.open(`https://www.douyin.com/search/${encodeURIComponent(item.title)}`, '_blank', 'noopener')}><LinkSimple />去抖音查看 / 参与挑战</button>
         <button className={item.taskAdded ? 'is-success' : ''} type="button" onClick={() => addTask(item)}><Plus />{item.taskAdded ? '已加入任务' : '加入任务'}</button>
+        <button className="lf-subtle-action" type="button" onClick={() => saveIdea(item)}><Star weight={item.saved ? 'fill' : 'regular'} />{item.saved ? '已存为灵感' : '存为灵感'}</button>
+        <button className="lf-subtle-action" type="button" onClick={next}><ArrowClockwise />换视频</button>
       </div>
     </article>)}</div>
     <button className="lf-bottom-route" type="button" onClick={() => onNavigate(1)}><Lightbulb /><span><b>回到每日灵感</b><small>查看刚刚收藏的热点方向</small></span><ArrowRight /></button>
@@ -251,18 +267,72 @@ function MemoBook({ data, update, updateItem, removeItem }) {
 }
 
 const practiceConfig = {
-  violin: {
-    key: 'violinPractice', kicker: 'VIOLIN PRACTICE', title: '小提琴练习 · 进阶路线', icon: MusicNotes,
-    intro: '从空弦运弓到曲目演奏，按阶段练习。每次完成都会进入你的长期记录。',
-    stage: '第 1 阶段 · 准备与空弦运弓', goal: '夹琴与持弓姿势正确，4 根空弦能拉出干净、均匀的声音。',
-    resource: '小提琴 空弦 运弓 入门',
-  },
   english: {
     key: 'englishPractice', kicker: 'ENGLISH LEARNING', title: '英语学习 · 精听路线', icon: Globe,
     intro: '用精听、跟读和表达整理形成闭环，不只累计一个学习时长。',
     stage: '第 1 阶段 · 听清与复述', goal: '可以听清主旨，跟读关键句，并用自己的话复述今天的内容。',
     resource: 'BBC 6 minute English 精听',
   },
+}
+
+function ViolinJourney({ data, update, updateItem, removeItem, showToast }) {
+  const [detail, setDetail] = useState(false)
+  const progress = data.violinProgress || { activeStage: 0, masteredStages: [] }
+  const activeStage = Math.min(Math.max(0, Number(progress.activeStage || 0)), violinStages.length - 1)
+  const stage = violinStages[activeStage]
+  const rows = (data.violinPractice || []).filter((item) => Number(item.stage || 0) === activeStage)
+  const done = rows.filter((item) => item.done).length
+  const allDone = rows.length > 0 && done === rows.length
+  const masteredCount = (progress.masteredStages || []).length
+  const minutes = rows.filter((item) => item.done).reduce((sum, item) => sum + Number(item.minutes || 0), 0)
+
+  const reset = () => {
+    if (!window.confirm('重置小提琴进度？已勾选的练习会恢复为未完成。')) return
+    update('violinProgress', { activeStage: 0, masteredStages: [] })
+    update('violinPractice', (items) => items.map((item) => ({ ...item, done: false })))
+    setDetail(false)
+    showToast('已重置到第 1 阶段')
+  }
+  const masterStage = () => {
+    if (!allDone) { showToast('先完成本阶段的全部练习，再标记掌握'); return }
+    const masteredStages = [...new Set([...(progress.masteredStages || []), activeStage])]
+    const nextStage = Math.min(activeStage + 1, violinStages.length - 1)
+    update('violinProgress', { activeStage: nextStage, masteredStages })
+    setDetail(false)
+    showToast(activeStage === violinStages.length - 1 ? '五个阶段已全部掌握' : `已解锁第 ${nextStage + 1} 阶段`)
+  }
+
+  if (detail) return <div className="lf-page lf-violin-detail-page">
+    <button className="lf-back-button" type="button" onClick={() => setDetail(false)}><ArrowRight />返回进阶路线</button>
+    <section className="lf-stage-detail">
+      <header><div><small>第 {activeStage + 1} 阶段</small><h1>{stage.title}</h1></div><span>{allDone ? '已达标' : '进行中'}</span></header>
+      <section><b>目标</b><p>{stage.goal}</p></section>
+      <section><b>过关标准</b><p>{stage.passCriteria}</p></section>
+      <div className="lf-stage-resource-list">{rows.slice(1).map((item) => <article key={item.id}>
+        <h2>{item.title}</h2><p>{item.detail || '跟着分步练习，完成后再进入下一项。'}</p>
+        <div className="lf-reference-actions"><button type="button" onClick={() => window.open(`https://search.bilibili.com/all?keyword=${encodeURIComponent(`${stage.resource} ${item.title}`)}`, '_blank', 'noopener')}><Play weight="fill" />看教学视频</button><button className="lf-subtle-action" type="button" onClick={() => window.open(`https://search.bilibili.com/all?keyword=${encodeURIComponent(item.title)}`, '_blank', 'noopener')}>B站搜更多</button><button className="lf-subtle-action" type="button" onClick={() => window.open(`https://www.douyin.com/search/${encodeURIComponent(item.title)}`, '_blank', 'noopener')}>抖音跟练</button></div>
+      </article>)}</div>
+      <button className={`lf-master-stage ${allDone ? '' : 'is-disabled'}`} type="button" onClick={masterStage}><CheckCircle weight="fill" />{allDone ? '标记掌握（已达到过关标准）' : `完成全部练习后可标记掌握（${done}/${rows.length}）`}</button>
+    </section>
+  </div>
+
+  return <div className="lf-page lf-violin-overview-page">
+    <section className="lf-violin-overview">
+      <header><MusicNotes weight="fill" /><div><h1>小提琴练习 · 进阶路线</h1><p>从空弦运弓到完整演奏，共 5 个阶段。每一阶段都有可搜索的教学资源，练到过关标准再解锁下一阶段。</p></div></header>
+      <div className="lf-progress-track"><span style={{ width: `${masteredCount / violinStages.length * 100}%` }} /></div>
+      <div className="lf-stage-summary"><b>已掌握 {masteredCount}/{violinStages.length} 阶段</b><span>当前：第 {activeStage + 1} 阶段 · {stage.title}</span></div>
+      <div><button className="lf-refresh-outline" type="button" onClick={reset}><ArrowClockwise />重置进度</button><button className="lf-primary-action" type="button" onClick={() => setDetail(true)}>查看本阶段详情<ArrowRight /></button></div>
+    </section>
+    <section className="lf-card lf-reference-practice">
+      <header><div><small>{new Date().toLocaleDateString('zh-CN', { month: 'long', day: 'numeric' })}</small><h2>今日练习</h2><p>第 {activeStage + 1} 阶段 · {stage.title}：每天投入 {rows.reduce((sum, item) => sum + Number(item.minutes || 0), 0)} 分钟，逐项完成。</p></div><b>{done}/{rows.length}</b></header>
+      <div className="lf-practice-list">{rows.map((item) => <article className={item.done ? 'is-done' : ''} key={item.id}>
+        <button className="lf-check" type="button" aria-label={item.done ? '标记练习未完成' : '标记练习完成'} onClick={() => updateItem('violinPractice', item.id, { done: !item.done })}>{item.done && <Check />}</button>
+        <button className="lf-practice-copy" type="button" aria-label={`编辑练习：${item.title}`} onClick={() => { const title = window.prompt('修改练习内容', item.title); if (title?.trim()) updateItem('violinPractice', item.id, { title: title.trim() }) }}><b>{item.title}</b><span>{item.detail || `${item.minutes} 分钟练习`}</span></button>
+        <button className="lf-icon-quiet" type="button" aria-label="删除练习" onClick={() => removeItem('violinPractice', item.id)}><Trash /></button>
+      </article>)}</div>
+      <footer><span>本阶段已投入 {minutes} 分钟</span><button type="button" onClick={() => setDetail(true)}>查看过关标准<ArrowRight /></button></footer>
+    </section>
+  </div>
 }
 
 function PracticePage({ kind, data, update, updateItem, removeItem }) {

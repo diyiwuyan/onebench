@@ -10,6 +10,8 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 
 ## Durable OneBench product direction
 
+- The lifestyle flagship is held to a six-screen reference-matrix standard. Do not call it complete because it has similarly named modules; each captured reference screen must have a matching OneBench route, hierarchy, primary controls, persisted state, and browser QA evidence before release.
+
 - The actual daily workbench is the product. Studio, onboarding, module management, sync, and help belong in secondary panels instead of dominating the home screen.
 - Default visual direction: warm paper texture, calm lifestyle feeling, strong role identity, mobile-first hierarchy, and a denser responsive desktop layout. Avoid generic dark admin dashboards.
 - Every visible module must be usable. Never represent a promised feature only as an English module ID or an “installed” badge.

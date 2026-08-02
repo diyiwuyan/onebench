@@ -1,78 +1,70 @@
-# OneBench 生活创作旗舰版 Design QA
+# OneBench 生活创作旗舰版 · 六屏复刻验收
 
-## 对比目标
+## 对比目标与证据
 
-- source visual truth: `audit-2026-08-02/hu-original-1.webp`（每日计划）、`audit-2026-08-02/hu-original-2.webp`（抽屉导航）及 `audit-2026-08-02/08-hu-original-contact-sheet.png`（六屏模块结构）
-- implementation screenshots: `design-evidence/14-lifestyle-mobile-home-pass2.png`、`design-evidence/21-lifestyle-mobile-drawer-pass2.png`、`design-evidence/16-lifestyle-idea-feed.png`、`design-evidence/17-lifestyle-trend-feed.png`、`design-evidence/18-lifestyle-violin.png`、`design-evidence/19-lifestyle-desktop-home.png`
-- combined comparisons: `design-evidence/15-lifestyle-home-comparison-pass2.png`、`design-evidence/22-lifestyle-drawer-comparison-pass2.png`（仅保留在本地 QA 工作区，不提交包含原作者界面的合成图）
-- source pixels: 首页 451 × 960；抽屉 442 × 960
-- implementation pixels: 手机截图 375 × 812；桌面截图 1425 × 868
-- CSS viewport: 手机覆盖设置为 390 × 844，浏览器可见内容截图为 375 × 812；桌面覆盖设置为 1440 × 900
-- deviceScaleFactor: 1
-- normalization: 来源首页等比缩放到 375 px 宽并补白至 375 × 812；来源抽屉等比缩放到 812 px 高并居中补白至 375 × 812；实现截图保持原始像素，再分别水平合成为 750 × 812 对比图。
-- state: 生活创作旗舰版每日计划首屏与打开模块抽屉状态；动态内容使用 OneBench 原创示例，非逐字复制原作者数据。
+- source visual truth：`audit-2026-08-02/hu-original-1.webp` 至 `hu-original-6.webp`；六屏接触表为 `audit-2026-08-02/08-hu-original-contact-sheet.png`。它们只留在本地验收工作区，不随开源项目分发。
+- implementation：浏览器中的 `http://127.0.0.1:4173/`，生活创作旗舰版。
+- rendered evidence：2026-08-02 在 Codex In-app Browser 中，按 390 × 844 CSS viewport 截取了每日计划、抽屉、小提琴路线、小提琴阶段详情、每日灵感、热点／挑战榜六个可见状态；截图在本次验收对话中已渲染，不将原作者界面或其合成图提交入库。
+- source pixels：六张来源截图均为手机竖屏截图（联系表以 300 px 栏宽呈现）；实现为浏览器可见 375 × 812 像素截图，CSS viewport 390 × 844，deviceScaleFactor 1。
+- normalization：比较内容区的顶部、卡片层级、窄抽屉比例、按钮密度及滚动首屏；不比较来源设备状态栏、原作者个人头像／姓名、原创文案和示例进度数值。
+- state：OneBench 使用本地持久化的用户状态；本次可见示例为 2 项待完成、33% 完成率，来源图为另一日的 0 项待完成、100% 完成率。数据不同是可编辑工作台的正常状态，信息层级和互动入口相同。
 
-## Full-view comparison evidence
+## 六屏矩阵
 
-`design-evidence/15-lifestyle-home-comparison-pass2.png` 同屏展示来源每日计划与实现：顶栏、纵向完成数字、个人日常、绿色任务卡、创作任务和白灰背景的层级一致。实现保留了 OneBench 的新增与编辑入口，但没有增加破坏首屏结构的后台仪表盘。
-
-`design-evidence/22-lifestyle-drawer-comparison-pass2.png` 同屏展示来源抽屉与实现：白色左侧抽屉、模块顺序、橄榄绿选中态、底部状态均保持一致；实现增加了设置、备份入口和原创来源说明，这是产品要求下的有意扩展。
-
-## Focused-region comparison evidence
-
-- `design-evidence/16-lifestyle-idea-feed.png` 对照来源六屏中的“选题每日灵感”：序号、分类、内容标题、说明与三类行动按钮清晰可读。
-- `design-evidence/17-lifestyle-trend-feed.png` 对照“热点视频／二创”：热点标签、适合原因、二创方向和平台/收藏/任务操作形成同类信息结构。
-- `design-evidence/18-lifestyle-violin.png` 对照两张小提琴来源屏：当前阶段、进度、今日练习和资源入口均可见；无需再裁切即可判断字体、间距和控件状态。
+| 来源页面 | OneBench 路径 | 复刻的首屏结构 | 实测操作 |
+| --- | --- | --- | --- |
+| 每日计划 | `active=0` | 顶栏、纵向两项完成指标、个人日常、创作任务、今日记录 | 抽屉导航可进入；任务的新增、编辑、完成、删除均有实际持久化数据流 |
+| 窄抽屉 | 打开“模块导航” | 左侧约 58vw 白色抽屉、七个模块、选中绿态、底部本地保存／设置区 | 每一个模块入口及设置入口可点击 |
+| 小提琴路线 | `active=5` | 路线说明、5 阶段进度、当前阶段、今日 5 项练习 | 可进入详情，练习状态决定能否标记阶段掌握 |
+| 小提琴阶段详情 | 路线的“查看本阶段详情” | 阶段状态、目标、过关标准、资源卡、掌握按钮 | B 站／抖音搜索入口和阶段解锁逻辑可用 |
+| 热点／挑战二创 | `active=2` | 热榜／挑战榜切换、标签筛选、原因、改编角度、来源、行动按钮 | 浏览器已验证“热榜”切换后的标题和 active 状态 |
+| 每日灵感 | `active=1` | 来源更新时间、10 条编号灵感、标签、说明、公开视频搜索与收藏／任务按钮 | 10 条计数、收藏及加入任务入口可见；任务与每日计划同一数据流 |
 
 ## Findings
 
-- fonts and typography: passed。顶部与正文使用中文系统无衬线字体，模块标题和内容标题层级接近来源；英文 kicker 只用于次级识别，不占据每日计划首屏。
-- spacing and layout rhythm: passed。手机首屏使用纵向指标、白色大卡和 10–16 px 节奏；抽屉比例在第二轮从 88vw 收窄到 72vw，恢复来源中的背景露出和层级感；桌面端居中加密并提供左侧快速模块入口。
-- colors and tokens: passed。默认橄榄绿、白色、浅灰和少量暖金对应来源；暖陶与雾蓝是用户主动选择的主题，不影响默认高保真状态。未使用渐变。
-- image quality and asset fidelity: passed。来源核心界面没有必须复制的摄影资产；实现未复制人物头像、截图、插画或品牌素材，图标统一使用 Phosphor 图标库。用户上传头像使用本地真实图像。
-- copy and content: passed。模块名称与来源工作流一致，说明与示例内容为 OneBench 原创；页面明确说明灵感来源，避免让用户误认为获得原作者授权。
-- icons: passed。导航、状态、任务和操作使用同一图标库；移动端图标尺寸、描边和选中状态一致，无手写 SVG、CSS 图形或文本字符替代。
-- behavior: passed。浏览器实测任务增删改勾选、灵感加入任务、刷新后保存、筛选/换一批、热点存灵感/加入任务、复盘指标编辑、备忘新增/搜索/归档、练习完成与阶段进度、主题切换、设置与备份入口。
-- responsiveness: passed。375 × 812 手机内容无横向溢出；1425 × 868 桌面内容保持移动 App 信息结构，同时用快速模块入口利用宽屏空间。
-- accessibility: passed for visible scope。抽屉为对话框，核心按钮有可访问名称，表单字段具备标签，头像具备替代文本，动效支持 `prefers-reduced-motion`。完整屏幕阅读器专项测试不在本轮范围。
-- console: passed。应用页面未产生错误；记录到的 warning 均来自用户 Chrome 中第三方钱包扩展的 contentscript，不属于 OneBench。
+- 无 P0／P1／P2 未解决项。
+- [P3] 来源中部分文字是极小字号，OneBench 为可读性把说明和操作按钮略放大，并保留更明确的本地示例／来源边界。它不改变页面层级或使用流程。
+- [P3] 来源的完成率数值取自原作者的某一天；OneBench 从用户任务实时计算，数值不应为了截图而写死。
+
+## 五项保真面检查
+
+- fonts and typography：通过。标题、任务主文本、说明和极小辅助标签保持四级层次；使用中文系统无衬线字体而非复制来源字体文件。
+- spacing and layout rhythm：通过。每日计划采用小顶栏、纵向指标和白色大卡；抽屉保留背景露出；路线、详情、趋势和灵感均使用来源中紧凑的单列卡片节奏。
+- colors and tokens：通过。默认橄榄绿、纸白、浅灰、暖金和柔和边线集中为 `--lf-*` token；主题设置仍能切换为暖陶与雾蓝，但默认状态对应来源的绿色工作流。
+- image quality and asset fidelity：通过。没有复制原作者头像、插图、截屏或品牌图标；所有系统图标来自 Phosphor 图标库。工作台不含需要仿制的摄影资产。
+- copy and content：通过。模块工作流与来源一致，但人名、示例内容、阶段标准和话题说明均为 OneBench 原创，并明确热点为可核验的本地示例而非伪实时数据。
+
+## Interaction and runtime checks
+
+- 已在浏览器中验证：七个抽屉模块可达、小提琴路线到详情的跳转、热榜／挑战榜的切换及 active 状态、设置入口和视图无横向溢出。
+- 数据变更逻辑覆盖：任务增删改勾选、灵感／热点流转任务、收藏、复盘计算、备忘搜索归档、5 阶段解锁、导入导出和恢复示例，由 30 个自动测试覆盖；本次视觉验收不覆盖当前浏览器中已有的用户持久化数据。
+- console：In-app Browser 的 OneBench 页面错误日志为 `[]`。
+- responsive：390 × 844 手机视口无横向溢出；桌面保留独立快速模块入口。
+- accessibility：抽屉是带名称的对话框；可见操作均为按钮，任务／练习按钮具备可访问名称；`prefers-reduced-motion` 已覆盖抽屉与进度动效。
 
 ## Comparison history
 
-1. P1 — 第一轮实现给每日计划增加了来源不存在的大标题，并把两张完成指标并排显示。
-   - fix: 删除每日计划 hero，把待完成和完成率恢复为移动端纵向大卡；去掉彩色纸张背景。
-   - post-fix evidence: `design-evidence/15-lifestyle-home-comparison-pass2.png`。
-2. P2 — 第一轮抽屉占据 88vw，背景几乎不可见，和来源窄抽屉比例不符。
-   - fix: 抽屉收窄为 `min(340px, 72vw)`，同时保留长模块名与底部设置入口的可读性。
-   - post-fix evidence: `design-evidence/22-lifestyle-drawer-comparison-pass2.png`。
-3. P1 — 旧专业版把灵感、内容和学习压成通用阶段卡与分钟记录，无法复现真实工作流。
-   - fix: 拆出每日灵感、热点二创、内容复盘、小提琴和英语独立页面，并实现收藏→灵感→任务的数据流转和阶段进度。
-   - post-fix evidence: `design-evidence/16-lifestyle-idea-feed.png`、`design-evidence/17-lifestyle-trend-feed.png`、`design-evidence/18-lifestyle-violin.png`。
-
-## Primary interactions tested
-
-- 灵感“加入任务”后按钮变为“已加入任务”，每日计划出现对应创作任务。
-- 页面刷新后任务与练习完成状态仍然存在。
-- 备忘录可新增，并生成带标签的可编辑条目。
-- 橄榄森林 → 暖陶生活 → 橄榄森林主题切换会即时改变根节点主题类。
-- 每个抽屉入口都能进入对应独立页面；设置可从抽屉底部打开。
+1. P1 — 旧版仅有“同名模块”，小提琴是普通练习清单，灵感和热点的卡片信息不足。
+   - fix：加入 5 阶段路线／详情／过关解锁；灵感扩充到 10 条；热点加入热榜／挑战榜、标签、来源、改编角度和平台动作。
+   - post-fix evidence：本次浏览器中已逐页打开六个对应状态。
+2. P1 — 旧每日指标是分离卡片，抽屉过宽，不能贴近手机工作台的首屏比例。
+   - fix：指标收进同一承载面，抽屉调整为 `min(310px, 58vw)`，保留来源所需的背景露出。
+   - post-fix evidence：本次浏览器每日计划和抽屉截图。
+3. P2 — 旧的已安装用户数据没有新字段，会导致升级后看不到完整模板内容。
+   - fix：`mergeSeedRows` 将内置灵感、趋势和路线字段迁移进既有本地数据，同时保留用户自己新增的条目和状态。
+   - post-fix evidence：运行中的旧持久化工作台显示 10 条灵感、五阶段路线和详细趋势字段。
 
 ## Implementation checklist
 
-- [x] 移动端 App 顶栏和窄抽屉导航
-- [x] 每日计划纵向指标和两类真实任务
-- [x] 灵感、热点、任务跨模块流转
-- [x] 内容复盘自动指标与结论编辑
-- [x] 备忘录搜索、编辑、完成、归档、删除
-- [x] 小提琴和英语阶段路线、今日练习与资源入口
-- [x] 姓名、角色、状态、头像与三套主题
-- [x] 本地持久化、导入、导出和恢复示例
-- [x] 手机与桌面浏览器验收
-- [x] 自动测试、Pages、扩展和 Sites worker 构建
+- [x] 六个来源页面均有独立可达的 OneBench 视图
+- [x] 首屏、抽屉、阶段详情、榜单、灵感的主控件可见且可操作
+- [x] 个人数据保存、导出／导入、主题和版本切换仍可用
+- [x] 不分发或复用原作者可识别素材、代码或原文
+- [x] `npm test`、`npm run build:pages`、`npm run build:extension`、`npm run test:sites` 通过
 
 ## Follow-up polish
 
-- P3：未来接入真实热点源后，可增加骨架加载和单条刷新失败状态；当前离线示例与本地缓存路径已经可用。
-- P3：来源包含系统状态栏，现有 Web/PWA 截图不复制设备系统 UI，属于预期差异。
+- P3：接入用户主动配置的授权热点源后，可将“本地示例”替换为带加载、失败和缓存状态的真实订阅；不将未经许可的平台数据伪装成实时结果。
+- P3：后续可让社区贡献更多可导入的小提琴路线，而不改变五阶段进度协议。
 
 final result: passed

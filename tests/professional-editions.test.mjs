@@ -56,6 +56,7 @@ test('professional edition styling avoids copied raster assets and CSS illustrat
 
 test('lifestyle flagship follows the mobile reference workflow instead of the shared admin shell', async () => {
   const source = await readFile(lifestyleUrl, 'utf8')
+  const editionSource = await readFile(componentUrl, 'utf8')
   const styles = await readFile(lifestyleStyleUrl, 'utf8')
   for (const label of ['每日计划', '选题每日灵感', '热点视频 / 二创', '内容复盘', '备忘录', '小提琴练习', '英语学习']) {
     assert.match(source, new RegExp(label.replace('/', '\\/')))
@@ -65,7 +66,19 @@ test('lifestyle flagship follows the mobile reference workflow instead of the sh
   assert.match(source, /taskAdded/)
   assert.match(source, /收藏率/)
   assert.match(source, /violinPractice/)
+  assert.match(source, /violinStages/)
+  assert.match(source, /violinProgress/)
+  assert.match(source, /标记掌握/)
+  assert.match(source, /挑战榜 · 可二创/)
+  assert.match(source, /每日灵感来源/)
+  assert.match(source, /共 \{data\.ideas\.length\} 条/)
+  assert.match(editionSource, /mergeSeedRows/)
+  assert.match(editionSource, /activeStage: 0/)
+  assert.match(editionSource, /masteredStages/)
   assert.match(source, /englishPractice/)
+  assert.match(styles, /lf-stage-detail/)
+  assert.match(styles, /lf-reference-idea/)
+  assert.match(styles, /lf-trend-tabs/)
   assert.match(styles, /@media \(max-width:600px\)/)
   assert.doesNotMatch(styles, /linear-gradient|radial-gradient/)
 })

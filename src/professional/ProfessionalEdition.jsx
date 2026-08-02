@@ -46,18 +46,23 @@ const defaults = {
       { id: 'h-t2', text: '小提琴练习 45 分钟', note: '每日必做', done: false },
       { id: 'h-t3', text: '英语精听 30 分钟', note: '每日必做', done: false },
     ],
-    creativeTasks: [
-      { id: 'h-ct1', text: '整理「低能量日也能完成的清单」脚本', note: '来自每日灵感', done: false },
-    ],
+    creativeTasks: [],
     ideas: [
-      { id: 'h-i1', title: '低能量日，也能完成的小清单', tag: '生活', summary: '把目标缩小到可以马上开始的一步，记录真实执行过程。', saved: true, taskAdded: false },
-      { id: 'h-i2', title: '把练琴的第 100 天拍成一分钟', tag: '成长', summary: '用三个片段对比第一天、第五十天和今天。', saved: false, taskAdded: false },
-      { id: 'h-i3', title: '我的周日内容复盘仪式', tag: '创作', summary: '展示数据、保留结论，以及下一周只改一个动作。', saved: false, taskAdded: false },
+      { id: 'h-i1', title: '把「内耗」拍成一个能开始的小动作', tag: '思考', summary: '从一个很小的自救动作切入，展示不完美但真实的执行。', saved: true, taskAdded: false },
+      { id: 'h-i2', title: '成年人的慢速周日，留给自己一点空白', tag: '搞笑', summary: '用反差把忙乱和安静并置，结尾留一个可复制的仪式。', saved: false, taskAdded: false },
+      { id: 'h-i3', title: '30 秒低成本通勤整理术', tag: '化妆', summary: '把步骤控制在三步，前后对比直接出现。', saved: false, taskAdded: false },
+      { id: 'h-i4', title: '小个子也能穿出松弛感的搭配公式', tag: '服装', summary: '用一套固定比例，解释为什么上下装要留出呼吸感。', saved: false, taskAdded: false },
+      { id: 'h-i5', title: '用一首热门 BGM 记录今天的小胜利', tag: '唱歌', summary: '把日常碎片剪成节奏点，让音乐帮助完成叙事。', saved: false, taskAdded: false },
+      { id: 'h-i6', title: '练琴第 100 天，原来进步是这样发生的', tag: '成长', summary: '用第一天、第五十天和今天的三个片段做真实对照。', saved: false, taskAdded: false },
+      { id: 'h-i7', title: '我如何给低能量日安排一个小计划', tag: '生活', summary: '删去宏大目标，只保留能在十分钟里完成的一件事。', saved: false, taskAdded: false },
+      { id: 'h-i8', title: '周日复盘时，我只问自己的三个问题', tag: '创作', summary: '把数据、感受和下一步动作放在同一个画面。', saved: false, taskAdded: false },
+      { id: 'h-i9', title: '一个人也能完成的居家拍摄布置', tag: '技巧', summary: '展示机位、光线和收音最小可行组合。', saved: false, taskAdded: false },
+      { id: 'h-i10', title: '给未来自己的一句真话', tag: '思考', summary: '用一段短独白代替鸡汤，让观众写下自己的版本。', saved: false, taskAdded: false },
     ],
     trends: [
-      { id: 'h-v1', title: '#feelLoveandtalk 舞蹈挑战', category: '舞蹈', platform: '抖音', heat: '热度上升', why: '节奏辨识度高，适合用反差感呈现真实练习过程。', remix: '拍一条“没有舞蹈基础也练了七天”的成长记录。', saved: false, taskAdded: false },
-      { id: 'h-v2', title: 'very demure 端庄体变装挑战', category: '化妆', platform: 'TikTok', heat: '近两日回升', why: '前后反差明确，用户能在一秒内理解内容钩子。', remix: '把变装替换成工作台改造前后对比。', saved: false, taskAdded: false },
-      { id: 'h-v3', title: '30 秒防焦虑通勤妆', category: '生活', platform: '小红书', heat: '收藏增长', why: '步骤短、结果直接，适合清单型内容。', remix: '延伸为“出门前的三分钟稳定感仪式”。', saved: true, taskAdded: false },
+      { id: 'h-v1', title: '#feelLoveandtalk 舞蹈挑战', category: '唱歌', platform: '抖音', heat: '全网热度上升', publishedAt: '示例 · 07-08', source: '挑战赛公开页', why: '节奏辨识度高，容易让观众在前两秒理解内容，并愿意模仿自己的版本。', remix: '拍一条“从不擅长跳舞，到连续练习七天”的成长记录。', note: '挑战适合用练习过程做反差：镜头少、动作可拆，重点是记录进步。', saved: false, taskAdded: false },
+      { id: 'h-v2', title: 'very demure 端庄体变装挑战', category: '化妆', platform: 'TikTok', heat: '近两日回升', publishedAt: '示例 · 07-16', source: '热门话题页', why: '前后反差明确，用户能在一秒内理解内容钩子。', remix: '把变装替换成工作台改造前后对比。', note: '一条内容只保留一个反差点，避免把信息塞得太满。', saved: false, taskAdded: false },
+      { id: 'h-v3', title: '30 秒防焦虑通勤整理术', category: '生活', platform: '小红书', heat: '收藏增长', publishedAt: '示例 · 07-21', source: '本地示例条目', why: '步骤短、结果直接，适合清单型内容。', remix: '延伸为“出门前的三分钟稳定感仪式”。', note: '用一张纸条或一个小组件承接行动，收藏会更有理由。', saved: true, taskAdded: false },
     ],
     reviews: [
       { id: 'h-r1', title: '晨间工作流', channel: '小红书', views: 18600, likes: 920, saves: 1280, insight: '开头直接给清单，收藏明显高于讲故事开场。', next: '下一条继续使用“结果先行”，并把步骤压缩到五个。', date: today() },
@@ -67,12 +72,25 @@ const defaults = {
       { id: 'h-m2', text: '购买小提琴琴弦', tag: '采购', done: true, archived: false },
     ],
     violinPractice: [
-      { id: 'h-vp1', title: '空弦练习（每弦 5×10）', minutes: 20, done: true, date: today() },
-      { id: 'h-vp2', title: '认识乐器与调音', minutes: 15, done: false, date: today() },
-      { id: 'h-vp3', title: '夹琴与持弓姿势', minutes: 15, done: false, date: today() },
-      { id: 'h-vp4', title: '中弓短弓 → 全弓', minutes: 20, done: false, date: today() },
-      { id: 'h-vp5', title: '连弓换弦', minutes: 20, done: false, date: today() },
+      { id: 'h-vp1', stage: 0, title: '空弦热身（每弦 5×10）', detail: '开弦、找音色，约 5 分钟。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp2', stage: 0, title: '认识乐器与调音', detail: '认识四根弦；用调音工具确认音高。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp3', stage: 0, title: '夹琴与持弓姿势', detail: '肩颈放松，拇指与中指建立稳定支点。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp4', stage: 0, title: '中弓短弓 → 全弓', detail: '从短弓开始，逐步拉长并保持声音均匀。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp5', stage: 0, title: '连弓换弦', detail: '一弓跨两弦，感受手臂高度的自然变化。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp6', stage: 1, title: '一指落点与抬指', detail: '用慢弓确认手型，听清每次音高。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp7', stage: 1, title: 'D 大调音阶第一组', detail: '分弓练习，先稳住节拍再加速度。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp8', stage: 1, title: '两小节旋律模仿', detail: '模仿一段简单旋律并录音回听。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp9', stage: 2, title: '换弦稳定练习', detail: '保持右手高度变化最小。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp10', stage: 2, title: '节拍器短句', detail: '从 60 BPM 开始完成四小节。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp11', stage: 2, title: '录音回听标记', detail: '写下一个最想调整的声音问题。', minutes: 10, done: false, date: today() },
+      { id: 'h-vp12', stage: 3, title: '连弓音色控制', detail: '每一弓保持相同的音量和速度。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp13', stage: 3, title: '小节连接', detail: '把两段练习连成完整乐句。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp14', stage: 3, title: '带表情演奏', detail: '给一句旋律设计渐强或渐弱。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp15', stage: 4, title: '完整片段排练', detail: '从头到尾不断弓演奏一段作品。', minutes: 25, done: false, date: today() },
+      { id: 'h-vp16', stage: 4, title: '问题段慢练', detail: '只挑一个困难小节，放慢到可控。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp17', stage: 4, title: '录制一版成品', detail: '回听后记录一条值得保留的进步。', minutes: 20, done: false, date: today() },
     ],
+    violinProgress: { activeStage: 0, masteredStages: [] },
     englishPractice: [
       { id: 'h-ep1', title: 'BBC 六分钟英语精听', minutes: 20, done: true, date: today() },
       { id: 'h-ep2', title: '跟读并录下 5 句', minutes: 15, done: false, date: today() },
@@ -100,10 +118,21 @@ const navs = {
 }
 
 function clone(value) { return JSON.parse(JSON.stringify(value)) }
+function mergeSeedRows(seed, saved) {
+  if (!Array.isArray(saved)) return clone(seed)
+  const byId = new Map(saved.map((item) => [item?.id, item]))
+  const seeded = seed.map((item) => ({ ...item, ...(byId.get(item.id) || {}) }))
+  const additions = saved.filter((item) => item?.id && !seed.some((seedItem) => seedItem.id === item.id))
+  return [...seeded, ...additions]
+}
 function readStore(edition) {
   try {
     const stored = JSON.parse(localStorage.getItem(`onebench.professional.${edition}`) || '{}')
     const merged = { ...clone(defaults[edition]), ...stored, profile: { ...defaults[edition].profile, ...(stored.profile || {}) } }
+    if (edition === 'hu') {
+      for (const key of ['ideas', 'trends', 'violinPractice', 'englishPractice']) merged[key] = mergeSeedRows(defaults.hu[key], stored[key])
+      merged.violinProgress = { ...defaults.hu.violinProgress, ...(stored.violinProgress || {}) }
+    }
     for (const [key, value] of Object.entries(merged)) {
       if (key !== 'seats' && Array.isArray(value)) merged[key] = value.map((item) => typeof item === 'object' && item !== null ? { id: item.id || uid(), ...item } : item)
     }
