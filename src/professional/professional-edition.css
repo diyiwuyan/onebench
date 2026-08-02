@@ -187,6 +187,7 @@ progress { width:100%; height:7px; accent-color:var(--accent); }
 .settings-section h3 { margin:0 0 6px; font-size:14px; }
 .settings-section > p { margin:0 0 14px; color:#8e8178; font-size:11px; }
 .settings-section > label:not(.switch-row) { display:grid; gap:7px; color:#756b65; font-size:11px; }
+.settings-section select,.settings-section input[type="file"] { width:100%; border:1px solid #e0d8d2; background:#fff; color:#4b433e; border-radius:9px; padding:9px 10px; }
 .switch-row { display:flex; justify-content:space-between; align-items:center; margin-top:13px; }
 .switch-row span { display:grid; gap:3px; }
 .switch-row small { color:#91867f; }

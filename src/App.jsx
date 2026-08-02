@@ -1414,7 +1414,7 @@ export function App() {
                     ['basic', '基础版', '通用模块、职业包、市场和自由拖拽', StackSimple, '当前版本'],
                     ['exam', '考公专业版', '倒计时、每日学习、行测申论、错题与数据', GraduationCap, '粉色兔兔风'],
                     ['teacher', '教师专业版', '班级、学生、成绩、作业、谈话与排座位', Student, '薄荷班主任风'],
-                    ['hu', '胡楚靓同款', '每日计划、灵感、创作、复盘与个人学习', Sparkle, '白色橄榄绿'],
+                    ['hu', '生活创作旗舰版', '每日计划、每日灵感、热点二创、复盘与阶段学习', Sparkle, '胡楚靓公开案例灵感'],
                     ['creator', '创作者专业版', '内容推进、档期、管线、复盘与 OKR', Kanban, '暖米白看板'],
                   ].map(([id, title, description, Icon, tone]) => <button type="button" key={id} className={id === 'basic' ? 'selected' : ''} onClick={() => id === 'basic' ? setPanel(null) : openEdition(id)}><Icon weight="duotone" /><span><strong>{title}</strong><small>{description}</small><i>{tone}</i></span><ArrowRight /></button>)}
                 </section>

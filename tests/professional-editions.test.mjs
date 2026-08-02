@@ -4,6 +4,8 @@ import test from 'node:test'
 
 const componentUrl = new URL('../src/professional/ProfessionalEdition.jsx', import.meta.url)
 const styleUrl = new URL('../src/professional/professional-edition.css', import.meta.url)
+const lifestyleUrl = new URL('../src/professional/LifestyleFlagship.jsx', import.meta.url)
+const lifestyleStyleUrl = new URL('../src/professional/lifestyle-flagship.css', import.meta.url)
 const appUrl = new URL('../src/App.jsx', import.meta.url)
 
 test('professional editions expose four independent persisted experiences', async () => {
@@ -50,4 +52,20 @@ test('professional edition styling avoids copied raster assets and CSS illustrat
   assert.match(source, /\.professional--teacher/)
   assert.match(source, /\.professional--hu/)
   assert.match(source, /\.professional--creator/)
+})
+
+test('lifestyle flagship follows the mobile reference workflow instead of the shared admin shell', async () => {
+  const source = await readFile(lifestyleUrl, 'utf8')
+  const styles = await readFile(lifestyleStyleUrl, 'utf8')
+  for (const label of ['每日计划', '选题每日灵感', '热点视频 / 二创', '内容复盘', '备忘录', '小提琴练习', '英语学习']) {
+    assert.match(source, new RegExp(label.replace('/', '\\/')))
+  }
+  assert.match(source, /lf-drawer/)
+  assert.match(source, /creativeTasks/)
+  assert.match(source, /taskAdded/)
+  assert.match(source, /收藏率/)
+  assert.match(source, /violinPractice/)
+  assert.match(source, /englishPractice/)
+  assert.match(styles, /@media \(max-width:600px\)/)
+  assert.doesNotMatch(styles, /linear-gradient|radial-gradient/)
 })

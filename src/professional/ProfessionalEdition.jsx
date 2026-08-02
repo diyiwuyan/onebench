@@ -6,6 +6,7 @@ import {
   Target, Trash, UploadSimple, UsersThree, VideoCamera, WarningCircle, X,
 } from '@phosphor-icons/react'
 import './professional-edition.css'
+import { LifestyleFlagship } from './LifestyleFlagship.jsx'
 
 const uid = () => `${Date.now()}-${Math.random().toString(16).slice(2)}`
 const today = () => new Date().toISOString().slice(0, 10)
@@ -13,7 +14,7 @@ const today = () => new Date().toISOString().slice(0, 10)
 const editions = {
   exam: { label: '考公冲刺台', icon: GraduationCap, subtitle: '刷题、错题与申论闭环' },
   teacher: { label: '班主任工作台', icon: Student, subtitle: '学生、成绩与班级事务' },
-  hu: { label: '胡楚靓同款', icon: Smiley, subtitle: '生活、灵感与长期学习' },
+  hu: { label: '生活创作旗舰版', icon: Smiley, subtitle: '每日计划、内容灵感与长期学习' },
   creator: { label: '创作者工作台', icon: VideoCamera, subtitle: '选题、制作、发布与复盘' },
 }
 
@@ -39,13 +40,47 @@ const defaults = {
     seats: ['林小宇', '王思雨', '陈可欣', '周宁', '赵一然', '许嘉', '沈清', '陆遥', '方越', '宋禾', '顾川', '韩笑'],
   },
   hu: {
-    profile: { name: '楚靓', compact: false },
-    tasks: [{ id: 'h-t1', text: '晨间拉伸 15 分钟', done: true }, { id: 'h-t2', text: '完成方案初稿', done: false }, { id: 'h-t3', text: '英语精听练习', done: false }],
-    ideas: [{ id: 'h-i1', title: '给未来的自己', tag: '成长', status: 0 }, { id: 'h-i2', title: '一周真实复盘', tag: '生活', status: 1 }],
-    content: [{ id: 'h-c1', title: '小空间效率改造', format: '图文', status: 1 }, { id: 'h-c2', title: '我的晨间工作流', format: '视频', status: 2 }],
-    reviews: [{ id: 'h-r1', title: '晨间工作流', metric: '收藏率 12.4%', insight: '开头直接给清单' }],
-    memos: [{ id: 'h-m1', text: '周三预约体检', done: false }, { id: 'h-m2', text: '购买小提琴琴弦', done: true }],
-    learning: [{ id: 'h-l1', title: '英语精听', minutes: 30, date: today() }, { id: 'h-l2', title: '小提琴连弓', minutes: 45, date: today() }],
+    profile: { name: '小满', role: '创作与生活练习者', status: '稳定更新中', compact: false },
+    tasks: [
+      { id: 'h-t1', text: '普拉提 1 小时', note: '每日必做', done: true },
+      { id: 'h-t2', text: '小提琴练习 45 分钟', note: '每日必做', done: false },
+      { id: 'h-t3', text: '英语精听 30 分钟', note: '每日必做', done: false },
+    ],
+    creativeTasks: [
+      { id: 'h-ct1', text: '整理「低能量日也能完成的清单」脚本', note: '来自每日灵感', done: false },
+    ],
+    ideas: [
+      { id: 'h-i1', title: '低能量日，也能完成的小清单', tag: '生活', summary: '把目标缩小到可以马上开始的一步，记录真实执行过程。', saved: true, taskAdded: false },
+      { id: 'h-i2', title: '把练琴的第 100 天拍成一分钟', tag: '成长', summary: '用三个片段对比第一天、第五十天和今天。', saved: false, taskAdded: false },
+      { id: 'h-i3', title: '我的周日内容复盘仪式', tag: '创作', summary: '展示数据、保留结论，以及下一周只改一个动作。', saved: false, taskAdded: false },
+    ],
+    trends: [
+      { id: 'h-v1', title: '#feelLoveandtalk 舞蹈挑战', category: '舞蹈', platform: '抖音', heat: '热度上升', why: '节奏辨识度高，适合用反差感呈现真实练习过程。', remix: '拍一条“没有舞蹈基础也练了七天”的成长记录。', saved: false, taskAdded: false },
+      { id: 'h-v2', title: 'very demure 端庄体变装挑战', category: '化妆', platform: 'TikTok', heat: '近两日回升', why: '前后反差明确，用户能在一秒内理解内容钩子。', remix: '把变装替换成工作台改造前后对比。', saved: false, taskAdded: false },
+      { id: 'h-v3', title: '30 秒防焦虑通勤妆', category: '生活', platform: '小红书', heat: '收藏增长', why: '步骤短、结果直接，适合清单型内容。', remix: '延伸为“出门前的三分钟稳定感仪式”。', saved: true, taskAdded: false },
+    ],
+    reviews: [
+      { id: 'h-r1', title: '晨间工作流', channel: '小红书', views: 18600, likes: 920, saves: 1280, insight: '开头直接给清单，收藏明显高于讲故事开场。', next: '下一条继续使用“结果先行”，并把步骤压缩到五个。', date: today() },
+    ],
+    memos: [
+      { id: 'h-m1', text: '周三预约体检', tag: '生活', done: false, archived: false },
+      { id: 'h-m2', text: '购买小提琴琴弦', tag: '采购', done: true, archived: false },
+    ],
+    violinPractice: [
+      { id: 'h-vp1', title: '空弦练习（每弦 5×10）', minutes: 20, done: true, date: today() },
+      { id: 'h-vp2', title: '认识乐器与调音', minutes: 15, done: false, date: today() },
+      { id: 'h-vp3', title: '夹琴与持弓姿势', minutes: 15, done: false, date: today() },
+      { id: 'h-vp4', title: '中弓短弓 → 全弓', minutes: 20, done: false, date: today() },
+      { id: 'h-vp5', title: '连弓换弦', minutes: 20, done: false, date: today() },
+    ],
+    englishPractice: [
+      { id: 'h-ep1', title: 'BBC 六分钟英语精听', minutes: 20, done: true, date: today() },
+      { id: 'h-ep2', title: '跟读并录下 5 句', minutes: 15, done: false, date: today() },
+      { id: 'h-ep3', title: '整理今天的 8 个表达', minutes: 15, done: false, date: today() },
+    ],
+    learning: [],
+    lastIdeaRefresh: '',
+    lastTrendRefresh: '',
   },
   creator: {
     profile: { name: '一位创作者', compact: false },
@@ -60,7 +95,7 @@ const defaults = {
 const navs = {
   exam: [['今日冲刺', House], ['行测记录', ListChecks], ['错题本', Notebook], ['申论写作', FileText], ['学习数据', ChartBar]],
   teacher: [['班级总览', House], ['学生管理', UsersThree], ['成绩分析', ChartBar], ['作业管理', Notebook], ['谈话与纪律', Smiley], ['排座位', Kanban]],
-  hu: [['今日生活', House], ['灵感库', Lightbulb], ['内容进度', Kanban], ['复盘', Notebook], ['备忘录', FileText], ['长期学习', BookOpen]],
+  hu: [['每日计划', House], ['选题每日灵感', Lightbulb], ['热点视频/二创', VideoCamera], ['内容复盘', ChartBar], ['备忘录', FileText], ['小提琴练习', Star], ['英语学习', BookOpen]],
   creator: [['今日推进', House], ['内容管线', Kanban], ['发布档期', CalendarBlank], ['复盘实验室', Notebook], ['阶段目标', Target]],
 }
 
@@ -110,6 +145,22 @@ export function ProfessionalEdition({ onBackToBasic }) {
   const Page = { exam: ExamEdition, teacher: TeacherEdition, hu: HuEdition, creator: CreatorEdition }[edition]
   const CurrentIcon = editions[edition].icon
   const dateLabel = new Date().toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' })
+
+  if (edition === 'hu') return <>
+    <LifestyleFlagship
+      active={active}
+      data={data}
+      onNavigate={setActive}
+      onOpenSettings={() => setSettings(true)}
+      update={update}
+      updateItem={updateItem}
+      removeItem={removeItem}
+      showToast={setToast}
+    />
+    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} />}
+    <input ref={importRef} type="file" accept="application/json" hidden onChange={importData} />
+    {toast && <div className="professional__toast" role="status">{toast}</div>}
+  </>
 
   return <main className={`professional professional--${edition} ${data.profile?.compact ? 'is-compact' : ''}`}>
     <aside className="professional__sidebar">
@@ -201,5 +252,38 @@ function SimpleChecklist({ title, subtitle, rows, update }) { const [draft, setD
 function RecordCards({ rows, titleKey, meta, onDelete }) { return <div className="record-cards">{rows.map((item) => <article key={item.id}><div><b>{item[titleKey]}</b><span>{meta(item)}</span></div><IconButton label="删除" onClick={() => onDelete(item.id)}><Trash /></IconButton></article>)}</div> }
 
 function SettingsPanel({ edition, data, setData, onClose, onSwitch, onExport, onImport, onReset }) {
-  return <div className="settings-backdrop" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && onClose()}><section className="settings-panel" role="dialog" aria-modal="true" aria-label="专业版设置"><header><div><small>OneBench</small><h2>设置</h2></div><IconButton label="关闭设置" onClick={onClose}><X /></IconButton></header><div className="settings-section"><h3>个人资料与显示</h3><label>工作台称呼<input value={data.profile?.name || ''} onChange={(event) => setData((old) => ({ ...old, profile: { ...old.profile, name: event.target.value } }))} /></label>{edition === 'teacher' && <label>班级人数<input type="number" min="1" max="100" value={data.classSize || 42} onChange={(event) => setData((old) => ({ ...old, classSize: Number(event.target.value) }))} /></label>}<label className="switch-row"><span><b>紧凑布局</b><small>在一屏显示更多内容</small></span><input type="checkbox" checked={Boolean(data.profile?.compact)} onChange={(event) => setData((old) => ({ ...old, profile: { ...old.profile, compact: event.target.checked } }))} /></label></div><div className="settings-section"><h3>切换工作台版本</h3><p>每个版本的数据独立保存，切换不会丢失。</p><div className="edition-settings-grid"><button type="button" onClick={() => onSwitch('basic')}><House /><span><b>基础版</b><small>通用模块与模块市场</small></span></button>{Object.entries(editions).map(([key, item]) => { const Icon = item.icon; return <button type="button" className={edition === key ? 'selected' : ''} key={key} onClick={() => onSwitch(key)}><Icon /><span><b>{item.label}</b><small>{item.subtitle}</small></span>{edition === key && <CheckCircle weight="fill" />}</button> })}</div></div><div className="settings-section"><h3>本地数据</h3><p>内容默认只保存在这台设备的浏览器中。</p><div className="settings-actions"><button type="button" onClick={onExport}><DownloadSimple />导出备份</button><button type="button" onClick={onImport}><UploadSimple />导入备份</button><button type="button" className="danger" onClick={onReset}><ArrowCounterClockwise />恢复示例</button></div></div></section></div>
+  const updateProfile = (patch) => setData((old) => ({ ...old, profile: { ...old.profile, ...patch } }))
+  const loadAvatar = (event) => {
+    const file = event.target.files?.[0]
+    if (!file) return
+    const reader = new FileReader()
+    reader.onload = () => updateProfile({ avatar: reader.result })
+    reader.readAsDataURL(file)
+  }
+
+  return <div className="settings-backdrop" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
+    <section className="settings-panel" role="dialog" aria-modal="true" aria-label="专业版设置">
+      <header><div><small>OneBench</small><h2>设置</h2></div><IconButton label="关闭设置" onClick={onClose}><X /></IconButton></header>
+      <div className="settings-section">
+        <h3>个人资料与显示</h3>
+        <label>工作台称呼<input value={data.profile?.name || ''} onChange={(event) => updateProfile({ name: event.target.value })} /></label>
+        {edition === 'hu' && <>
+          <label>个人角色<input value={data.profile?.role || ''} onChange={(event) => updateProfile({ role: event.target.value })} placeholder="例如：创作与生活练习者" /></label>
+          <label>近况状态<input value={data.profile?.status || ''} onChange={(event) => updateProfile({ status: event.target.value })} placeholder="例如：稳定更新中" /></label>
+          <label>个人头像<input type="file" accept="image/png,image/jpeg,image/webp" onChange={loadAvatar} /></label>
+          <label>旗舰版主题<select value={data.profile?.theme || 'forest'} onChange={(event) => updateProfile({ theme: event.target.value })}><option value="forest">橄榄森林</option><option value="clay">暖陶生活</option><option value="ink">雾蓝手账</option></select></label>
+        </>}
+        {edition === 'teacher' && <label>班级人数<input type="number" min="1" max="100" value={data.classSize || 42} onChange={(event) => setData((old) => ({ ...old, classSize: Number(event.target.value) }))} /></label>}
+        <label className="switch-row"><span><b>紧凑布局</b><small>在一屏显示更多内容</small></span><input type="checkbox" checked={Boolean(data.profile?.compact)} onChange={(event) => updateProfile({ compact: event.target.checked })} /></label>
+      </div>
+      <div className="settings-section">
+        <h3>切换工作台版本</h3><p>每个版本的数据独立保存，切换不会丢失。</p>
+        <div className="edition-settings-grid"><button type="button" onClick={() => onSwitch('basic')}><House /><span><b>基础版</b><small>通用模块与模块市场</small></span></button>{Object.entries(editions).map(([key, item]) => { const Icon = item.icon; return <button type="button" className={edition === key ? 'selected' : ''} key={key} onClick={() => onSwitch(key)}><Icon /><span><b>{item.label}</b><small>{item.subtitle}</small></span>{edition === key && <CheckCircle weight="fill" />}</button> })}</div>
+      </div>
+      <div className="settings-section">
+        <h3>本地数据</h3><p>内容默认只保存在这台设备的浏览器中。</p>
+        <div className="settings-actions"><button type="button" onClick={onExport}><DownloadSimple />导出备份</button><button type="button" onClick={onImport}><UploadSimple />导入备份</button><button type="button" className="danger" onClick={onReset}><ArrowCounterClockwise />恢复示例</button></div>
+      </div>
+    </section>
+  </div>
 }
