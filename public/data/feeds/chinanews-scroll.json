@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
+      "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
+      "meta": "中国新闻网 · 2026/8/2",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
+      "publishedAt": "2026-08-02T21:02:59.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
       "title": "上海横沙誉民队直通国际篮联三人篮球洪川挑战赛",
       "meta": "中国新闻网 · 2026/8/2",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/8/2",
       "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670924.shtml",
       "publishedAt": "2026-08-02T12:55:50.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-02/10670920.shtml",
-      "title": "2026年中国国青男篮热身赛国际篮球对抗赛（咸阳站）启幕",
-      "meta": "中国新闻网 · 2026/8/2",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670920.shtml",
-      "publishedAt": "2026-08-02T12:54:54.000Z"
     }
   ],
-  "updatedAt": "2026-08-02T19:34:55.057Z",
+  "updatedAt": "2026-08-02T21:10:34.093Z",
   "provider": "OneBench 公共资讯快照"
 }

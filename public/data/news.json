@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T19:34:55.057Z",
-  "expiresAt": "2026-08-03T01:34:55.057Z",
+  "generatedAt": "2026-08-02T21:10:34.093Z",
+  "expiresAt": "2026-08-03T03:10:34.093Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
+      "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
+      "category": "综合",
+      "summary": "中新网8月3日电 中国地震台网正式测定：08月03日02时21分在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6千米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
+      "publishedAt": "2026-08-02T21:02:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
       "title": "上海横沙誉民队直通国际篮联三人篮球洪川挑战赛",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670924.shtml",
       "publishedAt": "2026-08-02T12:55:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-02/10670920.shtml",
-      "title": "2026年中国国青男篮热身赛国际篮球对抗赛（咸阳站）启幕",
-      "category": "综合",
-      "summary": "图为加拿大球队队员(白衣)持球上篮。赛事组委会供图 图为韩国东国大学队队员(橙衣)进攻篮下。赛事组委会供图 图为双方球员篮下缠斗。赛事组委会供图 图为韩国东国大学队队员(橙衣)摘得篮板球。赛事组委会供图",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670920.shtml",
-      "publishedAt": "2026-08-02T12:54:54.000Z",
       "tags": [
         "国内",
         "社会",
