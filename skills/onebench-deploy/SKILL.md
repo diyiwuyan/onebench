@@ -22,7 +22,8 @@ The plain-language values in the starter prompt are valid inputs; do not make be
 - Use the 1–3 things after “最想管理” to prioritize the default modules and title. A broad word such as “学习” is sufficient for a working first version; a more concrete list improves the result but is never required.
 - Use the role pack's theme by default. If the user gives a preferred color or style, keep the role modules and change only the theme.
 - If the user provides a name or preferred form of address, write it to `workspace.profile.displayName`; otherwise use a warm generic address and let them change it in “定制”.
-- When the user explicitly asks for “考公冲刺台／考公版”, “班主任工作台／教师专业版”, “胡楚靓同款”, or “创作者工作台／创作者专业版”, select the corresponding `exam`, `teacher`, `hu`, or `creator` professional edition. Do not imitate that request with a recolored basic pack.
+- Map “国考／省考／事业编／遴选／行测／申论／考公冲刺台” to the `exam` professional edition and `civil-service-exam` pack. Map “班主任／小学老师／初高中老师／任课教师／教务／带班” to the `teacher` professional edition and `teacher` pack. Map “胡楚靓同款” and “创作者工作台／创作者专业版” to `hu` and `creator`. Do not imitate any of these with a recolored basic pack.
+- Treat a professional edition as a portable product state: carry `edition` and `professionalData` in the downloaded standalone HTML; use `public/onebench-seed.json` for the first open of a user-owned online repository. Never deliver a professional-looking page that reopens as the basic version.
 
 ## Delivery choice
 
@@ -31,7 +32,7 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
 ## Local desktop delivery (default)
 
 1. Inspect `packages/template-packs/first-party-packs.json`, `src/data/modules.js`, `src/data/themes.js`, and `docs/BEGINNER.md`. Do not rebuild the UI outside this repository.
-2. Infer the closest pack and retain all shared and role-default modules. Run `npm ci` when dependencies are absent, then use `scripts/create-local-workbench.mjs --pack 模板ID --prompt 用户需求 --name 用户称呼 --workspace-name 工作台名称 --out 用户桌面/我的工作台.html`. Omit the two name flags when the user did not provide them. For an explicit professional edition, add `--edition exam|teacher|hu|creator`; the generated HTML must open directly in that edition.
+2. Infer the closest pack and retain all shared and role-default modules. Run `npm ci` when dependencies are absent, then use `scripts/create-local-workbench.mjs --prompt 用户需求 --name 用户称呼 --workspace-name 工作台名称 --out 用户桌面/我的工作台.html`. Omit the two name flags when the user did not provide them. For an explicit professional edition, add `--edition exam|teacher|hu|creator`; the script will choose the matching pack when `--pack` is omitted, and the generated HTML must open directly in that edition.
 3. Run `scripts/create-desktop-launcher.mjs --html 用户桌面/我的工作台.html --out 用户桌面/打开我的工作台.command` on macOS, or use `--platform win32 --out 用户桌面/打开我的工作台.url` on Windows. Verify that the generated launcher points to the HTML file.
 4. Open the generated HTML in a browser and verify:
    - the selected role title and realistic starter content are visible;
@@ -42,7 +43,9 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
    - adding and completing a task persists after reload;
    - starter data is identified as role-pack sample content, and every visible item can be edited or removed from its module editor;
    - a role control works, such as starting the focus timer, updating a study goal, editing a learning plan, or refreshing weather;
-   - for a professional edition, the top of the page has no edition switcher, the bottom-left entry is “设置”, switching editions and returning to the basic edition are inside Settings, and at least one edition-specific create/update/delete flow survives reload;
+   - for a professional edition, the top of the page has no edition switcher, the bottom-left entry is “设置”, switching editions and returning to the basic edition are inside Settings, and “下载此版本到电脑” produces an HTML that reopens in the same edition with the current professional data;
+   - for `exam`, verify a practice can be corrected, a mock paper can store a review, a mistake can enter/leave the review queue, and an essay can retain a next-step note after reload;
+   - for `teacher`, verify a student can be edited, an attendance record can be marked handled, a parent-message next step can be updated, and all changes survive reload;
    - no required script, font, image, or stylesheet depends on the network.
 5. Do not hand off an empty shell, English module IDs, placeholder cards, a landing page, or a second UI invented outside OneBench. Explain local data only if needed.
 
@@ -50,7 +53,7 @@ Always complete and verify **local desktop delivery** first. Add **owned online 
 
 1. Read `docs/OWNERSHIP.md`. Derive the closest pack, required modules, and concise prompt. Ask only when the target role, GitHub account, repository visibility, or data boundary materially changes the workspace.
 2. If the user does not already have an owned repo, create `用户账号/onebench-名称` from the `diyiwuyan/onebench` template. If template creation is unavailable, clone the full source into a new user-owned repository. Never create a `gh-pages`-only repository as the user's project.
-3. In that repository, run `node scripts/create-owned-workspace.mjs --owner 用户名 --repo 仓库名 --pack 模板ID --prompt 用户需求`. Commit `workspace.json` and `.onebench/ownership.json`; add `upstream` pointing to `https://github.com/diyiwuyan/onebench.git`.
+3. In that repository, run `node scripts/create-owned-workspace.mjs --owner 用户名 --repo 仓库名 --prompt 用户需求`. For a professional edition, add `--edition exam|teacher|hu|creator`; when `--pack` is omitted the matching pack is selected automatically. Commit `workspace.json`, `public/onebench-seed.json`, and `.onebench/ownership.json`; add `upstream` pointing to `https://github.com/diyiwuyan/onebench.git`.
 4. Commit and push the full source. Wait for **Deploy user-owned workbench** to succeed, then open `https://用户名.github.io/仓库名/`. Repeat the local checks at desktop and mobile widths, including widget order and content persistence, then install it to the phone home screen. Do not claim deployment before this succeeds.
 5. Explain content sync only as an explicit opt-in: use a separate private repository, enable “同步待办和备忘录内容”, and create a Fine-grained token limited to that private repository's Contents read/write permission. Do not store that token in the source repository.
 6. Run the full verification gate below. Use `npm run build:extension` and verify the generated manifest when browser new-tab delivery is requested.

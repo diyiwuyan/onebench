@@ -109,18 +109,29 @@
 .data-table > div { display:grid; grid-template-columns:1.4fr .6fr .75fr .7fr 40px; gap:10px; align-items:center; min-height:54px; padding:8px 15px; border-top:1px solid var(--line); font-size:12px; }
 .data-table > div:first-child { border:0; }
 .data-table__head { color:var(--muted); font-size:10px!important; background:color-mix(in srgb,var(--soft) 35%,white); }
+.data-table input { width:100%; min-width:0; border:1px solid var(--line); border-radius:8px; padding:6px 7px; color:var(--ink); background:#fff; font:inherit; }
 .mistake-grid,.review-cards,.assignment-grid,.okr-list { display:grid; grid-template-columns:repeat(2,1fr); gap:13px; }
 .mistake-grid article,.review-cards article,.assignment-grid article,.okr-list article { position:relative; border:1px solid var(--line); background:var(--surface); border-radius:16px; padding:18px; }
 .mistake-grid article > span,.review-cards article > span { color:var(--accent); font-size:10px; font-weight:800; }
 .mistake-grid h3,.review-cards h3,.okr-list h3 { margin:8px 0; font-size:16px; }
 .mistake-grid p,.review-cards p { color:var(--muted); min-height:35px; margin:0 0 14px; font-size:12px; line-height:1.55; }
+.mistake-grid article > small { display:block; margin:-5px 0 12px; color:var(--muted); font-size:10px; }
 .mistake-grid article > div { display:flex; justify-content:space-between; align-items:center; }
 .mistake-grid article > div > button:first-child { border:0; border-radius:9px; background:var(--soft); color:var(--accent); padding:8px 10px; font-size:11px; }
 .mistake-grid article.reviewed { opacity:.62; }
+.inline-edit { display:grid; gap:5px; margin:8px 0 12px; color:var(--muted); font-size:10px; font-weight:700; }
+.inline-edit input { width:100%; border:1px solid var(--line); border-radius:8px; padding:7px 8px; color:var(--ink); background:#fff; font:inherit; font-weight:400; }
+.review-cards article > div { display:flex; justify-content:space-between; align-items:center; gap:8px; }
+.review-cards article > div > button:first-child { border:0; border-radius:9px; padding:8px 10px; color:var(--accent); background:var(--soft); font-size:11px; }
+.subsection-title { margin:24px 0 0; font-size:15px; }
 .record-cards { display:grid; gap:8px; margin-top:12px; }
 .record-cards article { border:1px solid var(--line); background:var(--surface); border-radius:12px; padding:12px 13px; display:flex; align-items:center; justify-content:space-between; gap:10px; }
 .record-cards article div { display:grid; gap:4px; }
 .record-cards article span { color:var(--muted); font-size:10px; }
+.record-copy { min-width:0; display:grid; gap:4px; flex:1; border:0; padding:0; color:var(--ink); background:transparent; text-align:left; }
+.record-copy b,.record-copy span { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.record-state { flex:0 0 auto; border:0; border-radius:8px; padding:7px 8px; color:#a55536; background:#fbefe9; font-size:10px; }
+.record-state.is-done { color:var(--accent); background:var(--soft); }
 .bar-row { display:grid; grid-template-columns:100px 1fr 42px; align-items:center; gap:10px; margin:12px 0; font-size:11px; }
 progress { width:100%; height:7px; accent-color:var(--accent); }
 .big-number { display:block; color:var(--accent); font-size:45px; margin:18px 0; }
@@ -129,6 +140,9 @@ progress { width:100%; height:7px; accent-color:var(--accent); }
 .student-roster article { display:grid; grid-template-columns:auto 1fr auto auto; align-items:center; gap:11px; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:12px; }
 .student-avatar { width:36px; height:36px; border-radius:12px; display:grid; place-items:center; background:var(--soft); color:var(--accent); font-weight:800; }
 .student-roster article div { display:grid; gap:3px; }
+.student-roster .student-copy { min-width:0; display:grid; gap:3px; border:0; padding:0; color:var(--ink); background:transparent; text-align:left; }
+.student-copy b { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:13px; }
+.student-copy small { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .student-roster small { color:var(--muted); }
 .student-roster article > button { border:0; background:var(--soft); color:var(--accent); padding:6px 8px; border-radius:8px; font-size:10px; }
 .score-board { padding:18px; border:1px solid var(--line); border-radius:16px; background:var(--surface); }

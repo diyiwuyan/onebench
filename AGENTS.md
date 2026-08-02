@@ -24,3 +24,4 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - Community contributions are not one generic “template”: distinguish career packs, workspace layouts, theme packs, module bundles, and individual modules.
 - Professional editions must not expose a version switcher in the main top bar. Put switching, returning to the basic edition, profile/display controls, and data backup in the bottom-left Settings entry.
 - A professional edition is a distinct workflow and data model, not a recolored shared page. Exam, teacher, lifestyle/creator-reference, and content-creator editions need role-specific create/update/delete flows and independently persisted data.
+- Every edition is a first-class deliverable: its Settings must expose a beginner-safe local download, the exported HTML must carry the chosen edition and its professional data, and a user-owned online repository must first-open the selected edition through `public/onebench-seed.json`.

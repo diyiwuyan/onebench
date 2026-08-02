@@ -10,13 +10,14 @@ const valueOf = (flag, fallback = '') => {
 }
 
 const root = resolve(fileURLToPath(new URL('..', import.meta.url)))
-const packId = valueOf('--pack', 'university')
 const prompt = valueOf('--prompt')
 const displayName = valueOf('--name')
 const workspaceName = valueOf('--workspace-name')
 const requestedEdition = valueOf('--edition', 'basic')
 const supportedEditions = new Set(['basic', 'exam', 'teacher', 'hu', 'creator'])
 if (!supportedEditions.has(requestedEdition)) throw new Error(`不支持的专业版：${requestedEdition}`)
+const editionPack = { basic: 'university', exam: 'civil-service-exam', teacher: 'teacher', hu: 'creator', creator: 'creator' }
+const packId = valueOf('--pack', editionPack[requestedEdition])
 const output = resolve(process.cwd(), valueOf('--out', '我的一句工作台.html'))
 const runtime = resolve(root, 'public/standalone.html')
 const { createWorkspace } = await import(pathToFileURL(resolve(root, 'src/lib/workspace.js')).href)

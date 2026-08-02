@@ -24,6 +24,11 @@ test('professional editions expose four independent persisted experiences', asyn
   assert.match(source, /students/)
   assert.match(source, /ideas/)
   assert.match(source, /pipeline/)
+  assert.match(source, /mockExams/)
+  assert.match(source, /attendance/)
+  assert.match(source, /parentMessages/)
+  assert.match(source, /onDownloadLocal/)
+  assert.match(source, /initialData/)
   assert.doesNotMatch(source, /edition-switcher/)
   assert.doesNotMatch(source, /返回基础版/)
 })
@@ -44,6 +49,9 @@ test('professional editions are reachable from the basic workbench', async () =>
   assert.match(source, /选择专业版/)
   assert.match(source, /<ProfessionalEdition/)
   assert.match(source, /openEdition\(id\)/)
+  assert.match(source, /professionalData/)
+  assert.match(source, /onebench-seed\.json/)
+  assert.match(source, /initialEdition=\{editionMode\}/)
 })
 
 test('professional edition styling avoids copied raster assets and CSS illustrations', async () => {
@@ -81,4 +89,16 @@ test('lifestyle flagship follows the mobile reference workflow instead of the sh
   assert.match(styles, /lf-trend-tabs/)
   assert.match(styles, /@media \(max-width:600px\)/)
   assert.doesNotMatch(styles, /linear-gradient|radial-gradient/)
+})
+
+test('professional local and owned generators accept edition-first delivery', async () => {
+  const localScript = await readFile(new URL('../scripts/create-local-workbench.mjs', import.meta.url), 'utf8')
+  const ownedScript = await readFile(new URL('../scripts/create-owned-workspace.mjs', import.meta.url), 'utf8')
+  for (const script of [localScript, ownedScript]) {
+    assert.match(script, /editionPack/)
+    assert.match(script, /civil-service-exam/)
+    assert.match(script, /teacher/)
+  }
+  assert.match(ownedScript, /public\/onebench-seed\.json/)
+  assert.match(ownedScript, /professionalEdition/)
 })

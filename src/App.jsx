@@ -372,6 +372,7 @@ export function App() {
   const [onboardingDevice, setOnboardingDevice] = useState('both')
   const [editMode, setEditMode] = useState(false)
   const [editionMode, setEditionMode] = useState(() => embeddedSeed?.edition || localStorage.getItem('onebench.edition') || 'basic')
+  const [ownedSeed, setOwnedSeed] = useState(null)
   const [weatherStatus, setWeatherStatus] = useState('')
   const drawerRef = useRef(null)
   const avatarInputRef = useRef(null)
@@ -405,6 +406,31 @@ export function App() {
   useEffect(() => {
     saveWorkspace(workspace)
   }, [])
+
+  useEffect(() => {
+    if (embeddedSeed || localStorage.getItem(WORKSPACE_STORAGE_KEY)) return undefined
+    let cancelled = false
+    fetch(`${import.meta.env.BASE_URL}onebench-seed.json`, { cache: 'no-store' })
+      .then((response) => response.ok ? response.json() : null)
+      .then((seed) => {
+        if (cancelled || !seed?.workspace) return
+        const nextWorkspace = normalizeWorkspace(seed.workspace)
+        const nextData = seed.data || defaultWorkspaceData(nextWorkspace)
+        persistWorkspace(nextWorkspace)
+        persistData(nextData, nextWorkspace)
+        setPrompt(nextWorkspace.intent)
+        setTimerSeconds((nextData.focus?.minutes || 25) * 60)
+        setOwnedSeed(seed)
+        setShowOnboarding(false)
+        if (seed.edition && seed.edition !== 'basic') {
+          localStorage.setItem('onebench.edition', seed.edition)
+          setEditionMode(seed.edition)
+        }
+        setToast('已载入这个开源工作台的专属示例，你可以直接开始修改。')
+      })
+      .catch(() => undefined)
+    return () => { cancelled = true }
+  }, [embeddedSeed])
 
   useEffect(() => {
     const clock = window.setInterval(() => setNow(new Date()), 1000)
@@ -748,21 +774,28 @@ export function App() {
     updateData((data) => ({ ...data, focus: { ...data.focus, minutes } }))
   }
 
-  async function downloadLocalWorkbench() {
+  async function downloadLocalWorkbench(professional = null) {
     try {
+      const selectedEdition = professional?.edition || editionMode || 'basic'
+      let professionalData = professional?.data
+      if (!professionalData && selectedEdition !== 'basic') {
+        try { professionalData = JSON.parse(localStorage.getItem(`onebench.professional.${selectedEdition}`) || 'null') } catch { professionalData = null }
+      }
+      const exportOptions = { edition: selectedEdition, ...(professionalData ? { professionalData } : {}) }
       let html
       if (isStandalone) {
         const clone = document.documentElement.cloneNode(true)
         clone.querySelector('#root').innerHTML = ''
-        const encoded = encodeURIComponent(JSON.stringify({ workspace, data: workspaceData }))
+        const encoded = encodeURIComponent(JSON.stringify({ workspace, data: workspaceData, ...exportOptions }))
         html = `<!doctype html>${clone.outerHTML}`.replace(window.__ONEBENCH_SEED__, encoded)
       } else {
         const response = await fetch(`${import.meta.env.BASE_URL}standalone.html`)
         if (!response.ok) throw new Error('离线运行时下载失败')
-        html = injectStandalonePayload(await response.text(), workspace, workspaceData)
+        html = injectStandalonePayload(await response.text(), workspace, workspaceData, exportOptions)
       }
-      downloadFile(`${workspace.name}.html`, html)
-      setToast('已下载完整工作台：功能、样式和当前内容都会一起带走。')
+      const suffix = selectedEdition === 'basic' ? workspace.name : `OneBench-${selectedEdition}`
+      downloadFile(`${suffix}.html`, html)
+      setToast('已下载完整工作台：当前版本、功能、样式和内容都会一起带走。')
     } catch (error) {
       setToast(error.message || '下载失败，请稍后重试。')
     }
@@ -1108,7 +1141,7 @@ export function App() {
     return null
   }
 
-  if (editionMode !== 'basic') return <ProfessionalEdition onBackToBasic={backToBasicEdition} />
+  if (editionMode !== 'basic') return <ProfessionalEdition onBackToBasic={backToBasicEdition} initialEdition={editionMode} initialData={embeddedSeed?.professionalData || ownedSeed?.professionalData} onDownloadLocal={(edition, data) => downloadLocalWorkbench({ edition, data })} />
 
   const summary = [
     { label: '今日任务', value: `${completedTasks}/${workspaceData.tasks.length}`, note: '完成进度', progress: Math.round(completedTasks / Math.max(1, workspaceData.tasks.length) * 100), color: 'apricot' },

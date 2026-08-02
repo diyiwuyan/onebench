@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import {
   ArrowCounterClockwise, BookOpen, CalendarBlank, ChartBar, Check, CheckCircle,
   ClockCountdown, DownloadSimple, FileText, GearSix, GraduationCap, House,
-  Kanban, Lightbulb, ListChecks, Notebook, Plus, Rabbit, Smiley, Star, Student,
+  Kanban, Lightbulb, ListChecks, NotePencil, Notebook, PhoneCall, Plus, Rabbit, Smiley, Star, Student,
   Target, Trash, UploadSimple, UsersThree, VideoCamera, WarningCircle, X,
 } from '@phosphor-icons/react'
 import './professional-edition.css'
@@ -24,8 +24,9 @@ const defaults = {
     tasks: [{ id: 'e-t1', text: '言语理解 20 题', done: true }, { id: 'e-t2', text: '申论素材积累', done: false }, { id: 'e-t3', text: '错题二刷', done: false }],
     countdowns: [{ id: 'e-c1', title: '国家公务员考试', date: '2026-11-29' }, { id: 'e-c2', title: '省考笔试', date: '2027-03-14' }],
     practices: [{ id: 'e-p1', category: '资料分析', questions: 20, correct: 17, minutes: 31, date: today() }, { id: 'e-p2', category: '言语理解', questions: 20, correct: 15, minutes: 18, date: today() }],
-    mistakes: [{ id: 'e-m1', category: '资料分析', title: '基期量计算', reason: '公式代入顺序错误', reviewed: false }, { id: 'e-m2', category: '判断推理', title: '位置规律', reason: '遗漏旋转方向', reviewed: true }],
-    essays: [{ id: 'e-s1', title: '基层治理归纳概括', type: '小题', words: 260, date: today() }],
+    mockExams: [{ id: 'e-x1', title: '2025 国考行测套卷', year: '2025', questions: 120, correct: 86, minutes: 112, date: today(), review: '资料分析耗时偏长，明天二刷错题。' }],
+    mistakes: [{ id: 'e-m1', category: '资料分析', title: '基期量计算', knowledge: '增长率', reason: '公式代入顺序错误', reviewDate: today(), reviews: 0, mastered: false }, { id: 'e-m2', category: '判断推理', title: '位置规律', knowledge: '图形推理', reason: '遗漏旋转方向', reviewDate: today(), reviews: 1, mastered: true }],
+    essays: [{ id: 'e-s1', title: '基层治理归纳概括', type: '小题', words: 260, score: 16, minutes: 35, insight: '先列关键词，再压缩表达。', date: today() }],
     studyLogs: [{ id: 'e-l1', title: '行测套卷', minutes: 105, date: today() }],
   },
   teacher: {
@@ -35,6 +36,8 @@ const defaults = {
     students: [{ id: 't-s1', name: '林小宇', tag: '数学波动', status: '需跟进' }, { id: 't-s2', name: '王思雨', tag: '作业稳定', status: '良好' }, { id: 't-s3', name: '陈可欣', tag: '课堂进步', status: '观察' }],
     scores: [{ id: 't-g1', name: '林小宇', subject: '数学', score: 78 }, { id: 't-g2', name: '王思雨', subject: '数学', score: 93 }, { id: 't-g3', name: '陈可欣', subject: '数学', score: 88 }],
     assignments: [{ id: 't-a1', title: '周记', submitted: 36, total: 42 }, { id: 't-a2', title: '数学练习册', submitted: 39, total: 42 }],
+    attendance: [{ id: 't-at1', name: '林小宇', type: '迟到', reason: '公交延误', date: today(), handled: false }, { id: 't-at2', name: '周宁', type: '请假', reason: '就医', date: today(), handled: true }],
+    parentMessages: [{ id: 't-p1', student: '林小宇', channel: '电话', content: '沟通近期数学波动与晚间作业节奏。', next: '周五前反馈一次完成情况', done: false, date: today() }],
     conversations: [{ id: 't-c1', student: '林小宇', summary: '了解最近学习状态', date: today(), done: false }],
     discipline: [{ id: 't-d1', student: '周宁', summary: '课堂迟到，已提醒', date: today() }],
     seats: ['林小宇', '王思雨', '陈可欣', '周宁', '赵一然', '许嘉', '沈清', '陆遥', '方越', '宋禾', '顾川', '韩笑'],
@@ -111,8 +114,8 @@ const defaults = {
 }
 
 const navs = {
-  exam: [['今日冲刺', House], ['行测记录', ListChecks], ['错题本', Notebook], ['申论写作', FileText], ['学习数据', ChartBar]],
-  teacher: [['班级总览', House], ['学生管理', UsersThree], ['成绩分析', ChartBar], ['作业管理', Notebook], ['谈话与纪律', Smiley], ['排座位', Kanban]],
+  exam: [['今日冲刺', House], ['行测记录', ListChecks], ['套卷复盘', Notebook], ['错题本', FileText], ['申论写作', NotePencil], ['学习数据', ChartBar]],
+  teacher: [['班级总览', House], ['学生管理', UsersThree], ['成绩分析', ChartBar], ['作业管理', Notebook], ['考勤登记', CalendarBlank], ['家校沟通', PhoneCall], ['谈话与纪律', Smiley], ['排座位', Kanban]],
   hu: [['每日计划', House], ['选题每日灵感', Lightbulb], ['热点视频/二创', VideoCamera], ['内容复盘', ChartBar], ['备忘录', FileText], ['小提琴练习', Star], ['英语学习', BookOpen]],
   creator: [['今日推进', House], ['内容管线', Kanban], ['发布档期', CalendarBlank], ['复盘实验室', Notebook], ['阶段目标', Target]],
 }
@@ -125,13 +128,14 @@ function mergeSeedRows(seed, saved) {
   const additions = saved.filter((item) => item?.id && !seed.some((seedItem) => seedItem.id === item.id))
   return [...seeded, ...additions]
 }
-function readStore(edition) {
+function readStore(edition, seedData = null) {
   try {
     const stored = JSON.parse(localStorage.getItem(`onebench.professional.${edition}`) || '{}')
-    const merged = { ...clone(defaults[edition]), ...stored, profile: { ...defaults[edition].profile, ...(stored.profile || {}) } }
+    const initial = seedData && typeof seedData === 'object' ? seedData : stored
+    const merged = { ...clone(defaults[edition]), ...initial, profile: { ...defaults[edition].profile, ...(initial.profile || {}) } }
     if (edition === 'hu') {
-      for (const key of ['ideas', 'trends', 'violinPractice', 'englishPractice']) merged[key] = mergeSeedRows(defaults.hu[key], stored[key])
-      merged.violinProgress = { ...defaults.hu.violinProgress, ...(stored.violinProgress || {}) }
+      for (const key of ['ideas', 'trends', 'violinPractice', 'englishPractice']) merged[key] = mergeSeedRows(defaults.hu[key], initial[key])
+      merged.violinProgress = { ...defaults.hu.violinProgress, ...(initial.violinProgress || {}) }
     }
     for (const [key, value] of Object.entries(merged)) {
       if (key !== 'seats' && Array.isArray(value)) merged[key] = value.map((item) => typeof item === 'object' && item !== null ? { id: item.id || uid(), ...item } : item)
@@ -141,10 +145,10 @@ function readStore(edition) {
 }
 function daysUntil(date) { return Math.max(0, Math.ceil((new Date(`${date}T00:00:00`) - new Date()) / 86400000)) }
 
-export function ProfessionalEdition({ onBackToBasic }) {
-  const initial = localStorage.getItem('onebench.edition')
+export function ProfessionalEdition({ onBackToBasic, onDownloadLocal, initialData, initialEdition }) {
+  const initial = initialEdition || localStorage.getItem('onebench.edition')
   const [edition, setEdition] = useState(editions[initial] ? initial : 'exam')
-  const [data, setData] = useState(() => readStore(editions[initial] ? initial : 'exam'))
+  const [data, setData] = useState(() => readStore(editions[initial] ? initial : 'exam', initialData))
   const [active, setActive] = useState(0)
   const [settings, setSettings] = useState(false)
   const [toast, setToast] = useState('')
@@ -186,7 +190,7 @@ export function ProfessionalEdition({ onBackToBasic }) {
       removeItem={removeItem}
       showToast={setToast}
     />
-    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} />}
+    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} onDownloadLocal={() => onDownloadLocal?.(edition, data)} />}
     <input ref={importRef} type="file" accept="application/json" hidden onChange={importData} />
     {toast && <div className="professional__toast" role="status">{toast}</div>}
   </>
@@ -201,7 +205,7 @@ export function ProfessionalEdition({ onBackToBasic }) {
       <header className="professional__topbar"><div><b>{editions[edition].label}</b><span>{editions[edition].subtitle}</span></div><div className="professional__date">{dateLabel}</div></header>
       <Page active={active} data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
     </section>
-    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} />}
+    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} onDownloadLocal={() => onDownloadLocal?.(edition, data)} />}
     <input ref={importRef} type="file" accept="application/json" hidden onChange={importData} />
     {toast && <div className="professional__toast" role="status">{toast}</div>}
   </main>
@@ -227,26 +231,54 @@ function Metric({ value, label, tone }) { return <article className={tone || ''}
 function ExamEdition({ active, data, update, updateItem, removeItem }) {
   const total = data.practices.reduce((sum, item) => sum + Number(item.questions || 0), 0)
   const correct = data.practices.reduce((sum, item) => sum + Number(item.correct || 0), 0)
-  if (active === 0) return <div className="edition-page exam-home"><div className="exam-hero"><div><p>下午好，{data.profile.name}</p><h1>今天也稳稳向前</h1><span>最近一场考试还有</span><strong>{daysUntil(data.countdowns[0]?.date)} <small>天</small></strong></div><Rabbit weight="duotone" /></div><div className="countdown-strip">{data.countdowns.map((item) => <label key={item.id}><span>{item.title}</span><b>{daysUntil(item.date)} 天</b><input type="date" value={item.date} onChange={(event) => updateItem('countdowns', item.id, { date: event.target.value })} /></label>)}</div><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="今日学习清单" /><div className="metric-row"><Metric value={`${total}题`} label="累计刷题" /><Metric value={`${total ? Math.round(correct / total * 100) : 0}%`} label="综合正确率" /><Metric value={`${data.mistakes.filter((item) => !item.reviewed).length}题`} label="待二刷错题" /></div></div>
-  if (active === 1) return <div className="edition-page"><PageHeader eyebrow="行测记录" title="每一次练习，都留下可比较的数据" subtitle="记录题量、正确数和用时，正确率自动计算。" /><AddForm fields={[{ key: 'category', label: '模块', placeholder: '资料分析' }, { key: 'questions', label: '题量', type: 'number', min: 1, default: 20 }, { key: 'correct', label: '正确', type: 'number', min: 0, default: 15 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 30 }]} onAdd={(item) => update('practices', (rows) => [{ ...item, date: today() }, ...rows])} /><section className="data-table"><div className="data-table__head"><span>模块</span><span>题量</span><span>正确率</span><span>用时</span><span></span></div>{data.practices.map((item) => <div key={item.id}><b>{item.category}</b><span>{item.questions}</span><span>{Math.round(item.correct / Math.max(1, item.questions) * 100)}%</span><span>{item.minutes} 分</span><IconButton label="删除记录" onClick={() => removeItem('practices', item.id)}><Trash /></IconButton></div>)}</section></div>
-  if (active === 2) return <div className="edition-page"><PageHeader eyebrow="错题本" title="不只是收藏错题，而是完成二刷" subtitle="记录错因，点击状态完成复习。" /><AddForm fields={[{ key: 'category', label: '题型', placeholder: '判断推理' }, { key: 'title', label: '错题', placeholder: '位置规律' }, { key: 'reason', label: '错因', placeholder: '为什么会错' }]} onAdd={(item) => update('mistakes', (rows) => [{ ...item, reviewed: false }, ...rows])} /><div className="mistake-grid">{data.mistakes.map((item) => <article className={item.reviewed ? 'reviewed' : ''} key={item.id}><span>{item.category}</span><h3>{item.title}</h3><p>{item.reason}</p><div><button type="button" onClick={() => updateItem('mistakes', item.id, { reviewed: !item.reviewed })}>{item.reviewed ? '已完成二刷' : '标记二刷完成'}</button><IconButton label="删除" onClick={() => removeItem('mistakes', item.id)}><Trash /></IconButton></div></article>)}</div></div>
-  if (active === 3) return <div className="edition-page"><PageHeader eyebrow="申论写作" title="把素材积累变成限时作答" subtitle="保留题型、字数与完成日期。" /><AddForm fields={[{ key: 'title', label: '题目', placeholder: '基层治理' }, { key: 'type', label: '类型', placeholder: '大作文/小题' }, { key: 'words', label: '字数', type: 'number', min: 0, default: 800 }]} onAdd={(item) => update('essays', (rows) => [{ ...item, date: today() }, ...rows])} /><RecordCards rows={data.essays} titleKey="title" meta={(item) => `${item.type} · ${item.words} 字 · ${item.date}`} onDelete={(id) => removeItem('essays', id)} /></div>
+  const reviewQueue = data.mistakes.filter((item) => !item.mastered && (!item.reviewDate || item.reviewDate <= today()))
+  if (active === 0) return <div className="edition-page exam-home"><div className="exam-hero"><div><p>下午好，{data.profile.name}</p><h1>今天也稳稳向前</h1><span>最近一场考试还有</span><strong>{daysUntil(data.countdowns[0]?.date)} <small>天</small></strong></div><Rabbit weight="duotone" /></div><div className="countdown-strip">{data.countdowns.map((item) => <label key={item.id}><span>{item.title}</span><b>{daysUntil(item.date)} 天</b><input type="date" value={item.date} onChange={(event) => updateItem('countdowns', item.id, { date: event.target.value })} /></label>)}</div><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="今日学习清单" /><div className="metric-row"><Metric value={`${total}题`} label="累计刷题" /><Metric value={`${total ? Math.round(correct / total * 100) : 0}%`} label="综合正确率" /><Metric value={`${reviewQueue.length}题`} label="今日待二刷" /></div></div>
+  if (active === 1) return <div className="edition-page"><PageHeader eyebrow="行测记录" title="每一次练习，都留下可比较的数据" subtitle="记录题量、正确数和用时，正确率自动计算；数字可随时改正。" /><AddForm fields={[{ key: 'category', label: '模块', placeholder: '资料分析' }, { key: 'questions', label: '题量', type: 'number', min: 1, default: 20 }, { key: 'correct', label: '正确', type: 'number', min: 0, default: 15 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 30 }]} onAdd={(item) => update('practices', (rows) => [{ ...item, date: today() }, ...rows])} /><section className="data-table"><div className="data-table__head"><span>模块</span><span>题量</span><span>正确率</span><span>用时</span><span></span></div>{data.practices.map((item) => <div key={item.id}><b>{item.category}</b><input aria-label={`${item.category}题量`} type="number" min="1" value={item.questions} onChange={(event) => updateItem('practices', item.id, { questions: Number(event.target.value) })} /><span>{Math.round(item.correct / Math.max(1, item.questions) * 100)}%</span><input aria-label={`${item.category}用时`} type="number" min="1" value={item.minutes} onChange={(event) => updateItem('practices', item.id, { minutes: Number(event.target.value) })} /><IconButton label="删除记录" onClick={() => removeItem('practices', item.id)}><Trash /></IconButton></div>)}</section></div>
+  if (active === 2) return <MockExamPage data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 3) return <div className="edition-page"><PageHeader eyebrow="错题本" title="把错题变成今天要回收的任务" subtitle="记录知识点、错因和下次复习日；每次二刷都会累计进度。" /><AddForm fields={[{ key: 'category', label: '题型', placeholder: '判断推理' }, { key: 'title', label: '错题', placeholder: '位置规律' }, { key: 'knowledge', label: '知识点', placeholder: '图形推理' }, { key: 'reason', label: '错因', placeholder: '为什么会错' }, { key: 'reviewDate', label: '下次复习', type: 'date', default: today() }]} onAdd={(item) => update('mistakes', (rows) => [{ ...item, reviews: 0, mastered: false }, ...rows])} /><div className="mistake-grid">{data.mistakes.map((item) => <article className={item.mastered ? 'reviewed' : ''} key={item.id}><span>{item.category} · {item.knowledge || '未分类'}</span><h3>{item.title}</h3><p>{item.reason}</p><small>下次复习：{item.reviewDate || '今天'} · 已复习 {item.reviews || 0} 次</small><div><button type="button" onClick={() => updateItem('mistakes', item.id, item.mastered ? { mastered: false } : { reviews: Number(item.reviews || 0) + 1, reviewDate: today(), mastered: Number(item.reviews || 0) + 1 >= 2 })}>{item.mastered ? '重新放入队列' : '完成一次二刷'}</button><IconButton label="删除" onClick={() => removeItem('mistakes', item.id)}><Trash /></IconButton></div></article>)}</div></div>
+  if (active === 4) return <div className="edition-page"><PageHeader eyebrow="申论写作" title="把素材积累变成限时作答" subtitle="保留题型、字数、用时、得分和下一次能复用的结论。" /><AddForm fields={[{ key: 'title', label: '题目', placeholder: '基层治理' }, { key: 'type', label: '类型', placeholder: '大作文/小题' }, { key: 'words', label: '字数', type: 'number', min: 0, default: 800 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 60 }, { key: 'score', label: '得分', type: 'number', min: 0, default: 0 }]} onAdd={(item) => update('essays', (rows) => [{ ...item, insight: '', date: today() }, ...rows])} /><div className="review-cards">{data.essays.map((item) => <article key={item.id}><span>{item.type} · {item.date}</span><h3>{item.title}</h3><p>{item.words} 字 · {item.minutes || 0} 分钟 · {item.score || 0} 分</p><label className="inline-edit">下次怎么改<input value={item.insight || ''} onChange={(event) => updateItem('essays', item.id, { insight: event.target.value })} placeholder="写一条具体动作" /></label><IconButton label="删除申论记录" onClick={() => removeItem('essays', item.id)}><Trash /></IconButton></article>)}</div></div>
   return <ExamInsights data={data} update={update} />
+}
+
+function MockExamPage({ data, update, updateItem, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="套卷复盘" title="一套卷，就是一次可以比较的阶段测试" subtitle="记录年份、题量、正确数和用时，复盘结论会跟着这套卷保存。" /><AddForm fields={[{ key: 'title', label: '套卷名称', placeholder: '2025 国考行测套卷' }, { key: 'year', label: '年份', placeholder: '2025' }, { key: 'questions', label: '题量', type: 'number', min: 1, default: 120 }, { key: 'correct', label: '正确', type: 'number', min: 0, default: 80 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 120 }]} onAdd={(item) => update('mockExams', (rows) => [{ ...item, date: today(), review: '' }, ...rows])} /><div className="review-cards">{data.mockExams.map((item) => <article key={item.id}><span>{item.year || '模拟'} · {item.date}</span><h3>{item.title}</h3><p>{item.correct}/{item.questions} 正确 · {Math.round(Number(item.correct || 0) / Math.max(1, Number(item.questions || 0)) * 100)}% · {item.minutes} 分钟</p><label className="inline-edit">复盘结论<input value={item.review || ''} onChange={(event) => updateItem('mockExams', item.id, { review: event.target.value })} placeholder="下一套卷先改哪里" /></label><IconButton label="删除套卷" onClick={() => removeItem('mockExams', item.id)}><Trash /></IconButton></article>)}</div></div>
 }
 
 function ExamInsights({ data, update }) {
   const grouped = Object.values(data.practices.reduce((map, item) => { const row = map[item.category] || { category: item.category, q: 0, c: 0 }; row.q += Number(item.questions); row.c += Number(item.correct); map[item.category] = row; return map }, {}))
-  return <div className="edition-page"><PageHeader eyebrow="学习数据" title="薄弱项从真实记录中生成" subtitle="不是写死的示例；新增练习后这里会自动变化。" /><div className="analytics-grid"><section className="pro-panel"><h2>模块正确率</h2>{grouped.length ? grouped.map((item) => <div className="bar-row" key={item.category}><span>{item.category}</span><progress value={item.c} max={Math.max(1, item.q)} /><b>{Math.round(item.c / Math.max(1, item.q) * 100)}%</b></div>) : <Empty>先在“行测记录”添加一次练习</Empty>}</section><section className="pro-panel"><h2>学习时长</h2><AddForm fields={[{ key: 'title', label: '内容', placeholder: '行测套卷' }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 60 }]} onAdd={(item) => update('studyLogs', (rows) => [{ ...item, date: today() }, ...rows])} /><strong className="big-number">{data.studyLogs.reduce((sum, item) => sum + Number(item.minutes || 0), 0)}<small> 分钟</small></strong><RecordCards rows={data.studyLogs.slice(0, 4)} titleKey="title" meta={(item) => `${item.minutes} 分钟 · ${item.date}`} onDelete={(id) => update('studyLogs', (rows) => rows.filter((item) => item.id !== id))} /></section></div></div>
+  const reviewQueue = data.mistakes.filter((item) => !item.mastered && (!item.reviewDate || item.reviewDate <= today()))
+  return <div className="edition-page"><PageHeader eyebrow="学习数据" title="薄弱项从真实记录中生成" subtitle="练习、套卷、错题回收和时长都会从你的记录即时计算。" /><div className="analytics-grid"><section className="pro-panel"><h2>模块正确率</h2>{grouped.length ? grouped.map((item) => <div className="bar-row" key={item.category}><span>{item.category}</span><progress value={item.c} max={Math.max(1, item.q)} /><b>{Math.round(item.c / Math.max(1, item.q) * 100)}%</b></div>) : <Empty>先在“行测记录”添加一次练习</Empty>}<h2 className="subsection-title">今日错题回收</h2>{reviewQueue.length ? reviewQueue.map((item) => <div className="attention-row" key={item.id}><b>{item.title}</b><span>{item.knowledge || item.category}</span><em>待复习</em></div>) : <Empty>今天没有待二刷错题</Empty>}</section><section className="pro-panel"><h2>学习时长</h2><AddForm fields={[{ key: 'title', label: '内容', placeholder: '行测套卷' }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 60 }]} onAdd={(item) => update('studyLogs', (rows) => [{ ...item, date: today() }, ...rows])} /><strong className="big-number">{data.studyLogs.reduce((sum, item) => sum + Number(item.minutes || 0), 0)}<small> 分钟</small></strong><RecordCards rows={data.studyLogs.slice(0, 4)} titleKey="title" meta={(item) => `${item.minutes} 分钟 · ${item.date}`} onDelete={(id) => update('studyLogs', (rows) => rows.filter((item) => item.id !== id))} /></section></div></div>
 }
 
 function TeacherEdition({ active, data, update, updateItem, removeItem }) {
   const average = Math.round(data.scores.reduce((sum, item) => sum + Number(item.score), 0) / Math.max(1, data.scores.length))
-  if (active === 0) return <div className="edition-page teacher-home"><PageHeader eyebrow="高二（3）班 · 班主任工作台" title={`上午好，${data.profile.name}`} subtitle="把琐碎交给系统，把时间留给学生。" /><div className="metric-row"><Metric value={data.classSize || data.students.length} label="班级学生" /><Metric value={`${average}分`} label="当前成绩均分" /><Metric value={data.students.filter((item) => item.status === '需跟进').length} label="需要关注" tone="warning" /></div><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="班级待办" /><section className="pro-panel attention-panel"><div className="panel-heading"><div><small>学生动态</small><h2>本周需要跟进</h2></div><WarningCircle weight="fill" /></div>{data.students.filter((item) => item.status !== '良好').map((item) => <div className="attention-row" key={item.id}><b>{item.name}</b><span>{item.tag}</span><em>{item.status}</em></div>)}</section></div>
-  if (active === 1) return <div className="edition-page"><PageHeader eyebrow="学生管理" title="每一条关注，都能被修改和删除" subtitle="状态仅用于教师本人跟进，不做公开排名。" /><AddForm fields={[{ key: 'name', label: '姓名', placeholder: '学生姓名' }, { key: 'tag', label: '关注点', placeholder: '近期表现' }]} onAdd={(item) => update('students', (rows) => [{ ...item, status: '观察' }, ...rows])} /><section className="student-roster">{data.students.map((item) => <article key={item.id}><span className="student-avatar">{item.name.slice(-1)}</span><div><b>{item.name}</b><small>{item.tag}</small></div><button type="button" onClick={() => updateItem('students', item.id, { status: item.status === '良好' ? '观察' : item.status === '观察' ? '需跟进' : '良好' })}>{item.status}</button><IconButton label="删除学生" onClick={() => removeItem('students', item.id)}><Trash /></IconButton></article>)}</section></div>
+  const pendingAttendance = (data.attendance || []).filter((item) => !item.handled).length
+  if (active === 0) return <div className="edition-page teacher-home"><PageHeader eyebrow="高二（3）班 · 班主任工作台" title={`上午好，${data.profile.name}`} subtitle="把琐碎交给系统，把时间留给学生。" /><div className="metric-row"><Metric value={data.classSize || data.students.length} label="班级学生" /><Metric value={`${average}分`} label="当前成绩均分" /><Metric value={data.students.filter((item) => item.status === '需跟进').length + pendingAttendance} label="需要关注" tone="warning" /></div><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="班级待办" /><section className="pro-panel attention-panel"><div className="panel-heading"><div><small>学生动态</small><h2>本周需要跟进</h2></div><WarningCircle weight="fill" /></div>{[...data.students.filter((item) => item.status !== '良好'), ...(data.attendance || []).filter((item) => !item.handled).map((item) => ({ id: `attendance-${item.id}`, name: item.name, tag: `${item.type} · ${item.reason || '待补充原因'}`, status: '待跟进' }))].map((item) => <div className="attention-row" key={item.id}><b>{item.name}</b><span>{item.tag}</span><em>{item.status}</em></div>)}</section></div>
+  if (active === 1) return <StudentManager data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
   if (active === 2) return <div className="edition-page"><PageHeader eyebrow="成绩分析" title="录入成绩后，趋势即时计算" subtitle="支持按学生与学科记录，不再展示写死的数据。" /><AddForm fields={[{ key: 'name', label: '学生', placeholder: '姓名' }, { key: 'subject', label: '学科', placeholder: '数学' }, { key: 'score', label: '分数', type: 'number', min: 0, max: 150, default: 90 }]} onAdd={(item) => update('scores', (rows) => [{ ...item }, ...rows])} /><section className="score-board"><div className="score-summary"><strong>{average}</strong><span>当前平均分</span></div>{data.scores.map((item) => <div className="score-row" key={item.id}><b>{item.name}</b><span>{item.subject}</span><progress value={item.score} max="150" /><input aria-label={`${item.name}分数`} type="number" min="0" max="150" value={item.score} onChange={(event) => updateItem('scores', item.id, { score: Number(event.target.value) })} /><IconButton label="删除成绩" onClick={() => removeItem('scores', item.id)}><Trash /></IconButton></div>)}</section></div>
   if (active === 3) return <div className="edition-page"><PageHeader eyebrow="作业管理" title="发布、收集与补交放在一起" subtitle="直接修改提交人数，完成率自动更新。" /><AddForm fields={[{ key: 'title', label: '作业', placeholder: '周末练习' }, { key: 'submitted', label: '已交', type: 'number', min: 0, default: 0 }, { key: 'total', label: '总人数', type: 'number', min: 1, default: 42 }]} onAdd={(item) => update('assignments', (rows) => [{ ...item }, ...rows])} /><div className="assignment-grid">{data.assignments.map((item) => <article key={item.id}><div><b>{item.title}</b><span>{Math.round(item.submitted / Math.max(1, item.total) * 100)}%</span></div><progress value={item.submitted} max={Math.max(1, item.total)} /><label>已交 <input type="number" min="0" max={item.total} value={item.submitted} onChange={(event) => updateItem('assignments', item.id, { submitted: Number(event.target.value) })} /> / {item.total}</label><IconButton label="删除作业" onClick={() => removeItem('assignments', item.id)}><Trash /></IconButton></article>)}</div></div>
-  if (active === 4) return <TeacherRecords data={data} update={update} removeItem={removeItem} />
+  if (active === 4) return <AttendancePanel data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 5) return <ParentMessagePanel data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 6) return <TeacherRecords data={data} update={update} removeItem={removeItem} />
   return <Seating data={data} update={update} />
+}
+
+function StudentManager({ data, update, updateItem, removeItem }) {
+  const edit = (item) => {
+    const name = window.prompt('修改学生姓名', item.name)
+    if (name?.trim()) updateItem('students', item.id, { name: name.trim() })
+    const tag = window.prompt('修改关注点', item.tag || '')
+    if (tag !== null) updateItem('students', item.id, { tag: tag.trim() })
+  }
+  return <div className="edition-page"><PageHeader eyebrow="学生管理" title="每一条关注，都能被修改和删除" subtitle="状态、关注点和学生姓名都由班主任本人维护，不做公开排名。" /><AddForm fields={[{ key: 'name', label: '姓名', placeholder: '学生姓名' }, { key: 'tag', label: '关注点', placeholder: '近期表现' }]} onAdd={(item) => update('students', (rows) => [{ ...item, status: '观察' }, ...rows])} /><section className="student-roster">{data.students.map((item) => <article key={item.id}><span className="student-avatar">{item.name.slice(-1)}</span><button className="student-copy" type="button" onClick={() => edit(item)}><b>{item.name}</b><small>{item.tag || '点击补充关注点'}</small></button><button type="button" onClick={() => updateItem('students', item.id, { status: item.status === '良好' ? '观察' : item.status === '观察' ? '需跟进' : '良好' })}>{item.status}</button><IconButton label="删除学生" onClick={() => removeItem('students', item.id)}><Trash /></IconButton></article>)}</section></div>
+}
+
+function AttendancePanel({ data, update, updateItem, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="考勤登记" title="异常到校记录，当天处理清楚" subtitle="默认只保存在这台设备；记录原因、日期和处理状态，避免贴永久标签。" /><AddForm fields={[{ key: 'name', label: '学生', placeholder: '姓名' }, { key: 'type', label: '类型', placeholder: '迟到/请假/缺勤' }, { key: 'reason', label: '原因', placeholder: '如已知可填写' }, { key: 'date', label: '日期', type: 'date', default: today() }]} onAdd={(item) => update('attendance', (rows) => [{ ...item, handled: false }, ...rows])} /><div className="record-cards">{(data.attendance || []).map((item) => <article key={item.id}><button className="record-copy" type="button" onClick={() => { const reason = window.prompt('修改原因', item.reason || ''); if (reason !== null) updateItem('attendance', item.id, { reason: reason.trim() }) }}><b>{item.name} · {item.type}</b><span>{item.date} · {item.reason || '未填写原因'}</span></button><button className={item.handled ? 'record-state is-done' : 'record-state'} type="button" onClick={() => updateItem('attendance', item.id, { handled: !item.handled })}>{item.handled ? '已处理' : '待处理'}</button><IconButton label="删除考勤记录" onClick={() => removeItem('attendance', item.id)}><Trash /></IconButton></article>)}</div></div>
+}
+
+function ParentMessagePanel({ data, update, updateItem, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="家校沟通" title="把沟通重点和下一步留在班主任手里" subtitle="记录沟通渠道、内容和下一次动作；完成后可标记结案。" /><AddForm fields={[{ key: 'student', label: '学生', placeholder: '姓名' }, { key: 'channel', label: '渠道', placeholder: '电话/面谈/消息' }, { key: 'content', label: '沟通重点', placeholder: '客观描述' }, { key: 'next', label: '下一步', placeholder: '何时跟进' }]} onAdd={(item) => update('parentMessages', (rows) => [{ ...item, date: today(), done: false }, ...rows])} /><div className="review-cards">{(data.parentMessages || []).map((item) => <article className={item.done ? 'reviewed' : ''} key={item.id}><span>{item.channel || '沟通'} · {item.date}</span><h3>{item.student}</h3><p>{item.content}</p><label className="inline-edit">下一步<input value={item.next || ''} onChange={(event) => updateItem('parentMessages', item.id, { next: event.target.value })} /></label><div><button type="button" onClick={() => updateItem('parentMessages', item.id, { done: !item.done })}>{item.done ? '重新打开' : '标记已结案'}</button><IconButton label="删除沟通记录" onClick={() => removeItem('parentMessages', item.id)}><Trash /></IconButton></div></article>)}</div></div>
 }
 
 function TeacherRecords({ data, update, removeItem }) {
@@ -280,7 +312,7 @@ function StageBoard({ eyebrow, title, subtitle, rows, stages, fields, metaKey, s
 function SimpleChecklist({ title, subtitle, rows, update }) { const [draft, setDraft] = useState(''); const add = (event) => { event.preventDefault(); if (!draft.trim()) return; update([{ id: uid(), text: draft.trim(), done: false }, ...rows]); setDraft('') }; return <div className="edition-page"><PageHeader eyebrow="随手记录" title={title} subtitle={subtitle} /><form className="memo-add" onSubmit={add}><input value={draft} onChange={(event) => setDraft(event.target.value)} placeholder="写下一件不想忘记的事…" /><button type="submit"><Plus />添加</button></form><div className="memo-list">{rows.map((item) => <article className={item.done ? 'done' : ''} key={item.id}><button type="button" onClick={() => update(rows.map((row) => row.id === item.id ? { ...row, done: !row.done } : row))}><span className="tick">{item.done && <Check />}</span>{item.text}</button><IconButton label="删除" onClick={() => update(rows.filter((row) => row.id !== item.id))}><Trash /></IconButton></article>)}</div></div> }
 function RecordCards({ rows, titleKey, meta, onDelete }) { return <div className="record-cards">{rows.map((item) => <article key={item.id}><div><b>{item[titleKey]}</b><span>{meta(item)}</span></div><IconButton label="删除" onClick={() => onDelete(item.id)}><Trash /></IconButton></article>)}</div> }
 
-function SettingsPanel({ edition, data, setData, onClose, onSwitch, onExport, onImport, onReset }) {
+function SettingsPanel({ edition, data, setData, onClose, onSwitch, onExport, onImport, onReset, onDownloadLocal }) {
   const updateProfile = (patch) => setData((old) => ({ ...old, profile: { ...old.profile, ...patch } }))
   const loadAvatar = (event) => {
     const file = event.target.files?.[0]
@@ -308,6 +340,10 @@ function SettingsPanel({ edition, data, setData, onClose, onSwitch, onExport, on
       <div className="settings-section">
         <h3>切换工作台版本</h3><p>每个版本的数据独立保存，切换不会丢失。</p>
         <div className="edition-settings-grid"><button type="button" onClick={() => onSwitch('basic')}><House /><span><b>基础版</b><small>通用模块与模块市场</small></span></button>{Object.entries(editions).map(([key, item]) => { const Icon = item.icon; return <button type="button" className={edition === key ? 'selected' : ''} key={key} onClick={() => onSwitch(key)}><Icon /><span><b>{item.label}</b><small>{item.subtitle}</small></span>{edition === key && <CheckCircle weight="fill" />}</button> })}</div>
+      </div>
+      <div className="settings-section">
+        <h3>带走这份工作台</h3><p>下载后得到一个完整 HTML 文件，放到桌面双击即可打开；当前专业版和你的内容会一起保留。</p>
+        <div className="settings-actions"><button type="button" onClick={onDownloadLocal}><DownloadSimple />下载此版本到电脑</button></div>
       </div>
       <div className="settings-section">
         <h3>本地数据</h3><p>内容默认只保存在这台设备的浏览器中。</p>
