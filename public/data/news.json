@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T15:19:58.275Z",
-  "expiresAt": "2026-08-02T21:19:58.275Z",
+  "generatedAt": "2026-08-02T17:15:51.011Z",
+  "expiresAt": "2026-08-02T23:15:51.011Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
+      "title": "上海横沙誉民队直通国际篮联三人篮球洪川挑战赛",
+      "category": "综合",
+      "summary": "中新网北京8月2日电 为期3天的2026年中国男子三人篮球联赛北京西城争霸赛2日收官。上海横沙誉民队在决赛中以21比15击败上海久事队，获得冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
+      "publishedAt": "2026-08-02T15:53:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670960.shtml",
+      "title": "NBA 3X宁波站赛事收官",
+      "category": "综合",
+      "summary": "中新网8月2日电 作为美职篮(NBA)旗下三人篮球赛事，NBA 3X区域赛宁波站比赛于8月1日收官。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670960.shtml",
+      "publishedAt": "2026-08-02T15:53:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
       "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
@@ -526,42 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670920.shtml",
       "publishedAt": "2026-08-02T12:54:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670926.shtml",
-      "title": "盘活高山生态资源 山西五寨培育避暑康养经济",
-      "category": "综合",
-      "summary": "中新网忻州8月2日电 题：盘活高山生态资源 山西五寨培育避暑康养经济",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670926.shtml",
-      "publishedAt": "2026-08-02T12:53:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199983.shtml",
-      "title": "重庆：大熊猫萌态十足",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-02/1199983.shtml",
-      "publishedAt": "2026-08-02T12:38:02.000Z",
       "tags": [
         "国内",
         "社会",
