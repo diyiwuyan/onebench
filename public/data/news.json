@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T21:10:34.093Z",
-  "expiresAt": "2026-08-03T03:10:34.093Z",
+  "generatedAt": "2026-08-02T23:11:57.717Z",
+  "expiresAt": "2026-08-03T05:11:57.717Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,10 +32,316 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-03/10670979.shtml",
+      "title": "查实作弊！河南通报“三支一扶”核查结果：相关负责人停职",
+      "category": "综合",
+      "summary": "针对近期备受关注的2026年河南省“三支一扶”计划招募相关舆情，河南省“三支一扶”领导小组协调办公室8月2日晚发布最新通报。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-03/10670979.shtml",
+      "publishedAt": "2026-08-02T22:54:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
+      "title": "特朗普称美伊3日将举行谈判",
+      "category": "综合",
+      "summary": "中新网8月3日电 综合外媒报道，当地时间2日，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
+      "publishedAt": "2026-08-02T22:36:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-03/10670977.shtml",
+      "title": "8月3日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-03/10670977.shtml",
+      "publishedAt": "2026-08-02T22:35:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml",
+      "title": "巴西总统卢拉登记参选 谋求连任",
+      "category": "综合",
+      "summary": "中新社圣保罗8月2日电 今年是巴西大选年，总统卢拉已在高等选举法院正式登记为巴西劳工党总统候选人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml",
+      "publishedAt": "2026-08-02T21:45:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml",
+      "title": "巴西劳工党正式确认卢拉为总统候选人",
+      "category": "综合",
+      "summary": "新华社里约热内卢8月2日电(记者周永穗)巴西劳工党2日正式确认现总统卢拉为该党总统候选人。卢拉将再次参加大选，角逐其第四个总统任期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml",
+      "publishedAt": "2026-08-02T21:41:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670974.shtml",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡",
+      "category": "综合",
+      "summary": "新华社伊斯兰堡8月2日电(记者杨恺)巴基斯坦警方2日说，该国西北部开伯尔－普什图省一警局附近发生爆炸，造成至少14人死亡、26人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670974.shtml",
+      "publishedAt": "2026-08-02T21:37:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670973.shtml",
+      "title": "网络暴力危害有多大？普通人如何有效维权？专家解读",
+      "category": "综合",
+      "summary": "为了预防、制止和惩治网络暴力，近日，国家网信办发布《中华人民共和国反网络暴力法(征求意见稿)》，我国反网暴治理即将迎来首部专门性法律。哪些行为属于网络暴力？网络暴力对受害者带来的伤害有多大？普通人如何有效维权？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670973.shtml",
+      "publishedAt": "2026-08-02T21:34:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670972.shtml",
+      "title": "中国地震局启动四级应急响应 现场工作队赶赴震区",
+      "category": "综合",
+      "summary": "据中国地震台网正式测定，2026年8月3日2时21分，在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6公里。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670972.shtml",
+      "publishedAt": "2026-08-02T21:32:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10670971.shtml",
+      "title": "事关货币政策、债券市场，央行重要部署→",
+      "category": "综合",
+      "summary": "央行8月1日召开下半年工作会议，明确下半年货币政策重点，推动经济持续向新向优向好发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10670971.shtml",
+      "publishedAt": "2026-08-02T21:30:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10670970.shtml",
+      "title": "打卡观光→多次赴华，外国游客：“中国值得一次又一次探索”",
+      "category": "综合",
+      "summary": "今年，入境游持续火热。从内蒙古的“场景上新”到横琴口岸的“通关提速”，再到外国游客从“打卡观光”向“多次赴华”的转变，不仅是文旅市场强劲复苏的直观体现，更是中国服务贸易活力迸发的生动缩影。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10670970.shtml",
+      "publishedAt": "2026-08-02T21:27:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670969.shtml",
+      "title": "帕什尼扬连任亚美尼亚总理",
+      "category": "综合",
+      "summary": "中新社阿斯塔纳8月2日电 埃里温消息：亚美尼亚总统哈恰图良2日签署法令，任命帕什尼扬为该国新一任总理，帕什尼扬由此获得连任。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670969.shtml",
+      "publishedAt": "2026-08-02T21:19:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670968.shtml",
+      "title": "特鲁姆普战胜威尔逊 时隔两年再夺斯诺克上海大师赛冠军",
+      "category": "综合",
+      "summary": "中新社上海8月3日电 (记者 缪璐)2026世界斯诺克上海大师赛2日晚间落幕，现世界排名第一的贾德·特鲁姆普以11:6战胜凯伦·威尔逊夺冠，后者无缘卫冕。中国选手肖国栋凭借单杆147分获得单杆最高分奖。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670968.shtml",
+      "publishedAt": "2026-08-02T21:18:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670967.shtml",
+      "title": "波兰卫冕世界排球联赛男排总决赛冠军",
+      "category": "综合",
+      "summary": "中新社宁波8月2日电(张煜欢 鲍梦妮)2026世界排球联赛男排总决赛2日在浙江宁波北仑收官，波兰队以3:2战胜美国队，再次加冕冠军。斯洛文尼亚队收获铜牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670967.shtml",
+      "publishedAt": "2026-08-02T21:18:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670966.shtml",
+      "title": "中超第21轮：津门虎逆转玉昆 泰山胜海港止颓",
+      "category": "综合",
+      "summary": "中新社北京8月2日电 (刘梦青)2026赛季中超联赛第21轮比赛8月2日全部战罢。本轮天津津门虎连追三球、上演读秒“绝杀”，以3:2逆转云南玉昆，豪取联赛四连胜。山东泰山换帅后首秀告捷，以1:0力克上海海港，终结联赛两连败。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670966.shtml",
+      "publishedAt": "2026-08-02T21:13:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670965.shtml",
+      "title": "中国U18男篮陕西集结 首战大胜澳大利亚劲旅",
+      "category": "综合",
+      "summary": "中新社陕西咸阳8月2日电 (记者 张一辰)2026年中国国青男篮热身赛国际篮球对抗赛(咸阳站)2日在陕西省咸阳市体育馆举行，凭借相对稳定的发挥，中国U18男篮最终以89:52击败澳大利亚纽纳华丁闪电队，取得本站比赛的开门红。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670965.shtml",
+      "publishedAt": "2026-08-02T21:13:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670964.shtml",
+      "title": "印尼一渡轮起火致5人遇难41人失踪",
+      "category": "综合",
+      "summary": "中新社雅加达8月2日电 (记者 李志全)印度尼西亚一艘渡轮2日在东爪哇省马都拉岛以北的爪哇海海域起火，已造成至少5人遇难、41人失踪。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670964.shtml",
+      "publishedAt": "2026-08-02T21:12:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670963.shtml",
+      "title": "2026年中俄国际象棋青少年友谊赛在哈尔滨举行",
+      "category": "综合",
+      "summary": "中新社哈尔滨8月2日电(记者 王妮娜)2026年中俄国际象棋青少年友谊赛2日在哈尔滨开幕，中俄两国青少年棋手以国际象棋为桥梁，促进彼此间文化交流。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670963.shtml",
+      "publishedAt": "2026-08-02T21:10:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
       "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
       "category": "综合",
-      "summary": "中新网8月3日电 中国地震台网正式测定：08月03日02时21分在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6千米。",
+      "summary": "中新网8月3日电 据中国地震台网正式测定：08月03日02时21分在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
@@ -89,7 +395,7 @@
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
       "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
       "category": "综合",
-      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
+      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
@@ -107,7 +413,7 @@
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
       "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
       "category": "综合",
-      "summary": "中新网8月2日电 中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
+      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
@@ -256,312 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670947.shtml",
       "publishedAt": "2026-08-02T13:40:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-02/10670938.shtml",
-      "title": "《再走绛州》首演 千年古调成古城文旅“新引擎”",
-      "category": "综合",
-      "summary": "中新网运城8月2日电(卫世新 杨建义)“一根扁担软溜软溜溜呀哈咳，担上了扁担我走绛州……”传唱数百年的经典民歌《走绛州》，早已成为绛州最鲜活、最鲜明的文化图腾。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-02/10670938.shtml",
-      "publishedAt": "2026-08-02T13:18:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-02/10670929.shtml",
-      "title": "东西问·知味东方｜广府菜“香”动外国政要：一煲一焖藏鲜香，一煎一焗见中国",
-      "category": "综合",
-      "summary": "中新社广州8月2日电 题：广府菜“香”动外国政要：一煲一焖藏鲜香，一煎一焗见中国",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-02/10670929.shtml",
-      "publishedAt": "2026-08-02T13:17:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670937.shtml",
-      "title": "中外青年组队共创短视频 在上海寻找打动海外的中国故事",
-      "category": "综合",
-      "summary": "中新网上海8月2日电 (范宇斌)首届“新出海·国际传播训练营”结营式2日在上海市黄浦区举办。来自9个国家的50位青年在过去三周时间内混合组队共创短视频作品。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670937.shtml",
-      "publishedAt": "2026-08-02T13:17:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-02/10670946.shtml",
-      "title": "学习·故事丨古厝焕新生",
-      "category": "综合",
-      "summary": "“十五五”开局之年“第一课”，习近平总书记指出：“政绩观问题是一个根本性问题，关乎立党为公、执政为民。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670946.shtml",
-      "publishedAt": "2026-08-02T13:16:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-02/10670936.shtml",
-      "title": "韩国最高气温创纪录",
-      "category": "综合",
-      "summary": "中新社首尔8月2日电 (记者 金旭)据韩国气象厅2日消息，韩国多地当天遭遇40摄氏度以上高温天气，庆尚南道梁山日间气温连续五天超过40摄氏度，2日更升至42.5摄氏度，刷新韩国最高气温纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670936.shtml",
-      "publishedAt": "2026-08-02T13:16:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-02/10670945.shtml",
-      "title": "习语丨我和你们一起在这里站岗",
-      "category": "综合",
-      "summary": "走边防、到连队，登甲板、进座舱，习近平主席一直十分关心战士们的衣食冷暖、部队建设和战备训练等情况。步履之间，言行之中，统帅的爱兵之情，真挚流露。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670945.shtml",
-      "publishedAt": "2026-08-02T13:15:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-02/10670943.shtml",
-      "title": "学习新语｜坚定不移走中国特色强军之路",
-      "category": "综合",
-      "summary": "今天是八一建军节。千秋伟业大道如砥，强国强军征途如虹。党的十八大以来，在习近平总书记领航掌舵下，在习近平强军思想科学指引下，新时代强军事业取得历史性成就、发生历史性变革。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670943.shtml",
-      "publishedAt": "2026-08-02T13:14:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670935.shtml",
-      "title": "广货迭代升级 “湾区智造”畅销全球",
-      "category": "综合",
-      "summary": "中新社广州8月2日电 (记者 蔡敏婕)装载着近2000辆“广东造”汽车的永乐口轮2日从广州港南沙汽车口岸驶离，即将开往地中海地区港口。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670935.shtml",
-      "publishedAt": "2026-08-02T13:12:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-02/10670928.shtml",
-      "title": "AI时代，心血管学科的“心”生与融合",
-      "category": "综合",
-      "summary": "中新网杭州8月2日电(张煜欢)随着人工智能深度落地临床，学科交叉融合持续提速，当下中国心血管医学正迎来迭代革新的关键期。7月27日至8月2日，2026杭州心血管创新大会在浙江杭州举行，多位院士专家及学科带头人围绕学科转型、技术赋能、慢病防控、人才培养等关键议题分享权威观点，解码AI时代心血管学科的全新变革与发展内核。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-02/10670928.shtml",
-      "publishedAt": "2026-08-02T13:08:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670934.shtml",
-      "title": "【活力中国调研行】卫星走上“流水线”之后",
-      "category": "综合",
-      "summary": "生产周期缩短至28天，流水线可实现日产1至2颗",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670934.shtml",
-      "publishedAt": "2026-08-02T13:08:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-02/10670942.shtml",
-      "title": "量子计算：从理论构想到未来引擎",
-      "category": "综合",
-      "summary": "量子计算：从理论构想到未来引擎(院士讲科普·未来产业)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670942.shtml",
-      "publishedAt": "2026-08-02T13:04:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670933.shtml",
-      "title": "开局之年看中国·解码“产业大脑”丨数实相融聚合力 产业升级向新高",
-      "category": "综合",
-      "summary": "近日，“开局之年看中国#12539;解码‘产业大脑’”网络主题宣传活动在济南启动。调研团队深入济南、青岛、烟台、威海、临沂五大产业集群一线，实地考察山东数实融合的落地实践与发展成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670933.shtml",
-      "publishedAt": "2026-08-02T13:02:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-02/10670930.shtml",
-      "title": "青海“河南蒙旗”那达慕盛会上演牧民搏克比赛",
-      "category": "综合",
-      "summary": "图为选手在比赛中。中新社记者 马铭言 摄 图为选手在比赛中。中新社记者 马铭言 摄 图为选手在比赛中。中新社记者 马铭言 摄 图为选手在比赛中。中新社记者 马铭言 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670930.shtml",
-      "publishedAt": "2026-08-02T13:02:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670932.shtml",
-      "title": "邮政行业寄递业务量2030年将达2900亿件",
-      "category": "综合",
-      "summary": "央视新闻客户端消息(新闻联播)：记者从国家邮政局了解到，《邮政业发展“十五五”规划》正式对外发布。到2030年，邮政行业业务收入将达2.4万亿元，邮政行业寄递业务量达2900亿件，国际快递网络覆盖国家和地区数达到110个，规模以上处理中心全自动化率达到88%，快递企业绿色包装使用率达到80%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670932.shtml",
-      "publishedAt": "2026-08-02T13:01:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-02/10670931.shtml",
-      "title": "学习进行时｜句句铿锵——总书记的强军号令",
-      "category": "综合",
-      "summary": "【学习进行时】“强国必须强军，军强才能国安。”党的十八大以来，以习近平同志为核心的党中央围绕新时代强军目标，对国防和军队建设作出一系列重要部署，引领国防和军队建设取得历史性成就、发生历史性变革。一起学习领会习近平总书记的重要论述，感受句句铿锵的强军号令。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670931.shtml",
-      "publishedAt": "2026-08-02T13:00:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-02/10670927.shtml",
-      "title": "台湾青年访浙江杭州蔡志忠文化馆 感悟中华传统文化之美",
-      "category": "综合",
-      "summary": "8月2日，台湾青年参观蔡志忠文化馆。中新社记者 郭其钰 摄 8月2日，台湾青年观看、拍摄蔡志忠文化馆的漫画作品。中新社记者 郭其钰 摄 8月2日，台湾青年拍摄蔡志忠文化馆的漫画作品。中新社记者 郭其钰 摄 8月2日，台湾青年观看蔡志忠文化馆的漫画作品。中新社记者 郭其钰 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670927.shtml",
-      "publishedAt": "2026-08-02T12:56:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-02/10670924.shtml",
-      "title": "2026广东工会“工BA”职工嘉年华在广东中山启幕",
-      "category": "综合",
-      "summary": "图为舞狮表演。中新社记者 陈楚红 摄 图为广东省篮球协会会长杜锋(左)和篮球名宿郑海霞(中)参加开幕活动。中新社记者 陈楚红 摄 图为球员在篮球友谊赛拼抢。中新社记者 陈楚红 摄 图为广东省篮球协会会长杜锋(左)和篮球名宿郑海霞向观众比心。中新社记者 陈楚红 摄 图为广东省篮球协会会长杜锋(前排右二)参加开幕活动。中新社记者 陈楚红 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-02/10670924.shtml",
-      "publishedAt": "2026-08-02T12:55:50.000Z",
       "tags": [
         "国内",
         "社会",
