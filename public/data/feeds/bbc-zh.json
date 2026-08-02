@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad#0",
+      "title": "西班牙移民危機如何引發政治風暴 社交媒體推波助瀾",
+      "meta": "BBC 中文 · 2026/8/2",
+      "url": "https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T09:38:44.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad#0",
       "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
       "meta": "BBC 中文 · 2026/8/2",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-07-31T14:53:52.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad#1",
       "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
       "meta": "BBC 中文 · 2026/7/31",
       "url": "https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/7/30",
       "url": "https://www.bbc.com/zhongwen/articles/c98vjejn839o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-30T00:17:50.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdvn5npelo/trad#1",
-      "title": "「不要等到想報復時才行動」：為何婚前協議越來越普遍？",
-      "meta": "BBC 中文 · 2026/7/30",
-      "url": "https://www.bbc.com/zhongwen/articles/c0rdvn5npelo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T00:17:17.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-15T12:26:18.000Z"
     }
   ],
-  "updatedAt": "2026-08-02T06:45:42.673Z",
+  "updatedAt": "2026-08-02T10:07:47.111Z",
   "provider": "OneBench 公共资讯快照"
 }
