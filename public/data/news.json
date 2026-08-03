@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T23:11:57.717Z",
-  "expiresAt": "2026-08-03T05:11:57.717Z",
+  "generatedAt": "2026-08-03T03:54:56.082Z",
+  "expiresAt": "2026-08-03T09:54:56.082Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-03/10670979.shtml",
-      "title": "查实作弊！河南通报“三支一扶”核查结果：相关负责人停职",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671123.shtml",
+      "title": "证监会主席吴清：支持优质港股上市公司在境内上市",
       "category": "综合",
-      "summary": "针对近期备受关注的2026年河南省“三支一扶”计划招募相关舆情，河南省“三支一扶”领导小组协调办公室8月2日晚发布最新通报。",
+      "summary": "中新网8月3日电 据“证监会发布”微信公众号消息，8月3日，证监会主席吴清在香港推出人民币国债期货上市仪式上致辞，吴清指出，要聚焦“功能协同”，更好支持企业跨境双向融资，将一如既往地支持拓展国际布局的境内企业赴港上市，支持优质港股上市公司境内上市，共同提升服务新质生产力发展质效。同时，积极支持符合条件的香港企业到内地发债，运用多元化资本市场工具实现创新发展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-03/10670979.shtml",
-      "publishedAt": "2026-08-02T22:54:12.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671123.shtml",
+      "publishedAt": "2026-08-03T03:48:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
-      "title": "特朗普称美伊3日将举行谈判",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad#0",
+      "title": "美日罕有聯手干預匯市，圖阻日圓跌至40年來新低",
+      "category": "国际",
+      "summary": "兩國均表示，未來如有需要，將毫不猶豫再次採取聯合干預行動。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T03:46:57.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671127.shtml",
+      "title": "陕西遭遇持续强降雨 8万余人转移避险",
       "category": "综合",
-      "summary": "中新网8月3日电 综合外媒报道，当地时间2日，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+      "summary": "中新网西安8月3日电 (李一璠)连日来，陕西遭遇持续强降雨。8月2日6时至8月3日6时，陕北中南部、关中大部、陕南大部降大到暴雨，其中宜川、佛坪、汉滨、紫阳、旬阳、山阳、镇安7县区降大暴雨。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
-      "publishedAt": "2026-08-02T22:36:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671127.shtml",
+      "publishedAt": "2026-08-03T03:44:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-03/10670977.shtml",
-      "title": "8月3日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671119.shtml",
+      "title": "证监会主席吴清：积极支持符合条件的内地企业在香港上市",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网8月3日电 据“证监会发布”微信公众号消息，8月3日，证监会主席吴清在香港推出人民币国债期货上市仪式上致辞，他指出，中国证监会坚决贯彻落实中央决策部署，把支持香港国际金融中心建设摆在突出位置，以推出和落实“惠港五项”等政策措施为契机，从市场、机构、产品等方面全方位深化与香港同仁务实合作，全力为资本市场发展注入新活力、新动能。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-03/10670977.shtml",
-      "publishedAt": "2026-08-02T22:35:39.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671119.shtml",
+      "publishedAt": "2026-08-03T03:42:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml",
-      "title": "巴西总统卢拉登记参选 谋求连任",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671124.shtml",
+      "title": "A股午评：超3700只个股飘红，三大指数收跌",
       "category": "综合",
-      "summary": "中新社圣保罗8月2日电 今年是巴西大选年，总统卢拉已在高等选举法院正式登记为巴西劳工党总统候选人。",
+      "summary": "A股午评：超3700只个股飘红，三大指数收跌；核电概念股走强，发电设备、电信板块上涨；半导体设备产业链集体下挫，电脑硬件、贵金属下跌",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml",
-      "publishedAt": "2026-08-02T21:45:14.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671124.shtml",
+      "publishedAt": "2026-08-03T03:41:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml",
-      "title": "巴西劳工党正式确认卢拉为总统候选人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-03/10671122.shtml",
+      "title": "天津：更好凝聚侨心侨力 以侨为“桥”促发展",
       "category": "综合",
-      "summary": "新华社里约热内卢8月2日电(记者周永穗)巴西劳工党2日正式确认现总统卢拉为该党总统候选人。卢拉将再次参加大选，角逐其第四个总统任期。",
+      "summary": "中新网天津8月3日电 (记者 孙玲玲)全国侨务工作会议7月27日至28日在北京召开。连日来，会议引发天津市侨界人士热烈反响。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml",
-      "publishedAt": "2026-08-02T21:41:35.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-03/10671122.shtml",
+      "publishedAt": "2026-08-03T03:36:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670974.shtml",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671121.shtml",
+      "title": "国家防总、应急管理部针对云南启动防汛四级应急响应",
       "category": "综合",
-      "summary": "新华社伊斯兰堡8月2日电(记者杨恺)巴基斯坦警方2日说，该国西北部开伯尔－普什图省一警局附近发生爆炸，造成至少14人死亡、26人受伤。",
+      "summary": "据气象部门预报，8月3日至6日，云南持续多降雨，部分地区有大到暴雨、局地大暴雨，山洪和地质灾害、中小河流洪水等风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月3日9时针对云南启动防汛四级应急响应。(总台央视记者 唐国荣）",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670974.shtml",
-      "publishedAt": "2026-08-02T21:37:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671121.shtml",
+      "publishedAt": "2026-08-03T03:34:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670973.shtml",
-      "title": "网络暴力危害有多大？普通人如何有效维权？专家解读",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671110.shtml",
+      "title": "AI驱动品牌变革新突破 洽洽推出零食行业首个品牌数字代言人“洽可儿”",
       "category": "综合",
-      "summary": "为了预防、制止和惩治网络暴力，近日，国家网信办发布《中华人民共和国反网络暴力法(征求意见稿)》，我国反网暴治理即将迎来首部专门性法律。哪些行为属于网络暴力？网络暴力对受害者带来的伤害有多大？普通人如何有效维权？",
+      "summary": "7月30日，洽洽食品在北京正式发布全新品牌伙伴——数字代言人洽可儿Chacky。据介绍，这也是休闲零食行业首个品牌数字代言人。这次除了洽可儿的形象发布，洽洽也同步上线了洽可儿专属出道单曲《世界一起洽洽》及定制MV，以AI技术重构休闲零食行业传统营销模式。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670973.shtml",
-      "publishedAt": "2026-08-02T21:34:13.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671110.shtml",
+      "publishedAt": "2026-08-03T03:32:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670972.shtml",
-      "title": "中国地震局启动四级应急响应 现场工作队赶赴震区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671118.shtml",
+      "title": "深山告别“靠天用电” 边境生态管护迈入“全电时代”",
       "category": "综合",
-      "summary": "据中国地震台网正式测定，2026年8月3日2时21分，在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6公里。",
+      "summary": "中新网内蒙古大兴安岭8月3日电 题：深山告别“靠天用电”边境生态管护迈入“全电时代”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670972.shtml",
-      "publishedAt": "2026-08-02T21:32:13.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671118.shtml",
+      "publishedAt": "2026-08-03T03:31:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10670971.shtml",
-      "title": "事关货币政策、债券市场，央行重要部署→",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671108.shtml",
+      "title": "中国高校抗战迁徙陈列馆的东南回响",
       "category": "综合",
-      "summary": "央行8月1日召开下半年工作会议，明确下半年货币政策重点，推动经济持续向新向优向好发展。",
+      "summary": "中新网三明8月3日电 (雷朝良)正值暑期，位于福建省三明市的中国高校抗战迁徙陈列馆迎来多地高校学生的参观热潮。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10670971.shtml",
-      "publishedAt": "2026-08-02T21:30:47.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671108.shtml",
+      "publishedAt": "2026-08-03T03:31:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10670970.shtml",
-      "title": "打卡观光→多次赴华，外国游客：“中国值得一次又一次探索”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-03/10671113.shtml",
+      "title": "651个项目549位传承人 文化之约跨越山海",
       "category": "综合",
-      "summary": "今年，入境游持续火热。从内蒙古的“场景上新”到横琴口岸的“通关提速”，再到外国游客从“打卡观光”向“多次赴华”的转变，不仅是文旅市场强劲复苏的直观体现，更是中国服务贸易活力迸发的生动缩影。",
+      "summary": "2026“新疆是个好地方”非遗援疆主题展示活动近日在新疆生产建设兵团石河子市举行，全国31个省区市和新疆生产建设兵团的651个非遗代表性项目、549位非遗代表性传承人汇聚于此，呈现共展共创共享成果。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10670970.shtml",
-      "publishedAt": "2026-08-02T21:27:55.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-03/10671113.shtml",
+      "publishedAt": "2026-08-03T03:30:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670969.shtml",
-      "title": "帕什尼扬连任亚美尼亚总理",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671106.shtml",
+      "title": "中国石油西南油气田“十四五”以来累计带动地区GDP达1.8万亿元",
       "category": "综合",
-      "summary": "中新社阿斯塔纳8月2日电 埃里温消息：亚美尼亚总统哈恰图良2日签署法令，任命帕什尼扬为该国新一任总理，帕什尼扬由此获得连任。",
+      "summary": "中新网成都8月3日电 (记者 王鹏)中国石油西南油气田公司(下称西南油气田)3日正式发布2025年度社会责任报告。报告显示，“十四五”以来，公司累计带动地区GDP达1.8万亿元，纳税354亿元，天然气资源就地留存率保持80%以上，深度融入成渝地区双城经济圈建设，天然气产业间接创造就业岗位超50万个。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670969.shtml",
-      "publishedAt": "2026-08-02T21:19:36.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671106.shtml",
+      "publishedAt": "2026-08-03T03:29:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670968.shtml",
-      "title": "特鲁姆普战胜威尔逊 时隔两年再夺斯诺克上海大师赛冠军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671115.shtml",
+      "title": "证监会主席吴清在香港推出人民币国债期货上市仪式上致辞",
       "category": "综合",
-      "summary": "中新社上海8月3日电 (记者 缪璐)2026世界斯诺克上海大师赛2日晚间落幕，现世界排名第一的贾德·特鲁姆普以11:6战胜凯伦·威尔逊夺冠，后者无缘卫冕。中国选手肖国栋凭借单杆147分获得单杆最高分奖。",
+      "summary": "深化务实合作 密切协同发展 共创“十五五”资本市场高水平开放新局面——吴清主席在香港推出人民币国债期货上市仪式上的致辞",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670968.shtml",
-      "publishedAt": "2026-08-02T21:18:34.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671115.shtml",
+      "publishedAt": "2026-08-03T03:26:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670967.shtml",
-      "title": "波兰卫冕世界排球联赛男排总决赛冠军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671117.shtml",
+      "title": "我国牵头的区块链国际标准在国际标准化组织（ISO）立项",
       "category": "综合",
-      "summary": "中新社宁波8月2日电(张煜欢 鲍梦妮)2026世界排球联赛男排总决赛2日在浙江宁波北仑收官，波兰队以3:2战胜美国队，再次加冕冠军。斯洛文尼亚队收获铜牌。",
+      "summary": "记者今天了解到，由我国牵头的国际标准《区块链和分布式记账技术 区块链即服务的技术框架和功能要求》近日在国际标准化组织成功立项。德国、英国、爱尔兰、日本、葡萄牙、乌干达等国将派员参与制定。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670967.shtml",
-      "publishedAt": "2026-08-02T21:18:06.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671117.shtml",
+      "publishedAt": "2026-08-03T03:23:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670966.shtml",
-      "title": "中超第21轮：津门虎逆转玉昆 泰山胜海港止颓",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671116.shtml",
+      "title": "国际标准化组织人工冰雪景观技术委员会秘书处落户中国",
       "category": "综合",
-      "summary": "中新社北京8月2日电 (刘梦青)2026赛季中超联赛第21轮比赛8月2日全部战罢。本轮天津津门虎连追三球、上演读秒“绝杀”，以3:2逆转云南玉昆，豪取联赛四连胜。山东泰山换帅后首秀告捷，以1:0力克上海海港，终结联赛两连败。",
+      "summary": "记者今天了解到，国际标准化组织近日批准人工冰雪景观技术委员会秘书处落户中国，这是中国在冰雪领域承担的首个ISO技术机构秘书处。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670966.shtml",
-      "publishedAt": "2026-08-02T21:13:36.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671116.shtml",
+      "publishedAt": "2026-08-03T03:22:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-03/10670965.shtml",
-      "title": "中国U18男篮陕西集结 首战大胜澳大利亚劲旅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671111.shtml",
+      "title": "中国最高法发布案例规范平台经营",
       "category": "综合",
-      "summary": "中新社陕西咸阳8月2日电 (记者 张一辰)2026年中国国青男篮热身赛国际篮球对抗赛(咸阳站)2日在陕西省咸阳市体育馆举行，凭借相对稳定的发挥，中国U18男篮最终以89:52击败澳大利亚纽纳华丁闪电队，取得本站比赛的开门红。",
+      "summary": "中新社北京8月3日电 (记者 张素)中国最高人民法院3日发布5件依法规范平台经营、保护消费者合法权益典型案例，旨在为各类经营主体明确行为规则、稳定经营预期提供清晰指引。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-03/10670965.shtml",
-      "publishedAt": "2026-08-02T21:13:00.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671111.shtml",
+      "publishedAt": "2026-08-03T03:17:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10670964.shtml",
-      "title": "印尼一渡轮起火致5人遇难41人失踪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671104.shtml",
+      "title": "“China Cool”风靡海外 入境游市场热度持续走高",
       "category": "综合",
-      "summary": "中新社雅加达8月2日电 (记者 李志全)印度尼西亚一艘渡轮2日在东爪哇省马都拉岛以北的爪哇海海域起火，已造成至少5人遇难、41人失踪。",
+      "summary": "今年夏天，“China Cool”正成为海外社交平台上的热词。从“打卡中国”到“体验中国”，从“走马观花”到“深度上瘾”。不少外国游客慕名而来，入境游市场的热度持续走高。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670964.shtml",
-      "publishedAt": "2026-08-02T21:12:14.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671104.shtml",
+      "publishedAt": "2026-08-03T03:16:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670963.shtml",
-      "title": "2026年中俄国际象棋青少年友谊赛在哈尔滨举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671096.shtml",
+      "title": "210元一条，日本右翼用AI批量造谎 ｜真相",
       "category": "综合",
-      "summary": "中新社哈尔滨8月2日电(记者 王妮娜)2026年中俄国际象棋青少年友谊赛2日在哈尔滨开幕，中俄两国青少年棋手以国际象棋为桥梁，促进彼此间文化交流。",
+      "summary": "日本右翼势力正在发动一场“技术认知战”，《朝日新闻》近期的一则调查报道撕下了他们的伪装。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670963.shtml",
-      "publishedAt": "2026-08-02T21:10:10.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671096.shtml",
+      "publishedAt": "2026-08-03T03:16:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
-      "title": "四川宜宾市高县发生4.8级地震 震源深度6千米",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671114.shtml",
+      "title": "集中供冷，真的来了！",
       "category": "综合",
-      "summary": "中新网8月3日电 据中国地震台网正式测定：08月03日02时21分在四川宜宾市高县(北纬28.54度，东经104.67度)发生4.8级地震，震源深度6千米。",
+      "summary": "三伏天酷热难耐，可在江苏徐州，却有居民正在享受一种别样的清凉，不用开空调，室温就能保持在25℃左右。这份清凉从何而来？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10670962.shtml",
-      "publishedAt": "2026-08-02T21:02:59.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671114.shtml",
+      "publishedAt": "2026-08-03T03:15:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
-      "title": "上海横沙誉民队直通国际篮联三人篮球洪川挑战赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10671100.shtml",
+      "title": "南非资深媒体人：日本设立“国家情报局”严重威胁地区和平稳定",
       "category": "综合",
-      "summary": "中新网北京8月2日电 为期3天的2026年中国男子三人篮球联赛北京西城争霸赛2日收官。上海横沙誉民队在决赛中以21比15击败上海久事队，获得冠军。",
+      "summary": "对于日本政府7月31日正式设立“国家情报局”，南非资深媒体人、南非全国新闻俱乐部主席弗朗斯·马查特在接受总台记者采访时表示，日本的军事扩张与情报扩张行为给地区安全与和平稳定带来严重危害。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670961.shtml",
-      "publishedAt": "2026-08-02T15:53:46.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10671100.shtml",
+      "publishedAt": "2026-08-03T03:12:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-02/10670960.shtml",
-      "title": "NBA 3X宁波站赛事收官",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671099.shtml",
+      "title": "专访丨中国式现代化为发展中国家探索现代化道路提供借鉴——访塔吉克斯坦人民民主党第一副主席涅马特佐达",
       "category": "综合",
-      "summary": "中新网8月2日电 作为美职篮(NBA)旗下三人篮球赛事，NBA 3X区域赛宁波站比赛于8月1日收官。",
+      "summary": "新华社杜尚别8月2日电专访｜中国式现代化为发展中国家探索现代化道路提供借鉴——访塔吉克斯坦人民民主党第一副主席涅马特佐达",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-02/10670960.shtml",
-      "publishedAt": "2026-08-02T15:53:26.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671099.shtml",
+      "publishedAt": "2026-08-03T03:12:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
-      "title": "青海海南州兴海县发生3.6级地震 震源深度10千米",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-03/10671109.shtml",
+      "title": "空港“加速度”！中国外贸打开全球新通道",
       "category": "综合",
-      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时37分在青海海南州兴海县(北纬35.36度，东经99.51度)发生3.6级地震，震源深度10千米。",
+      "summary": "包机、专线",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670959.shtml",
-      "publishedAt": "2026-08-02T14:52:08.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671109.shtml",
+      "publishedAt": "2026-08-03T03:12:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
-      "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-03/10671091.shtml",
+      "title": "俄罗斯宗教人士代表团在西藏参访",
       "category": "综合",
-      "summary": "中新网8月2日电 据中国地震台网正式测定：08月02日22时31分在青海海南州兴海县（北纬35.34度，东经99.50度）发生4.8级地震，震源深度10千米。",
+      "summary": "7月28日至8月1日，俄罗斯宗教人士代表团在西藏自治区林芝、拉萨两地参访。参访期间，代表团体验了高原复兴号动车组列车、藏医理疗，走进高原村落、拉萨南山公园，深入西藏唐卡画院、布达拉宫、大昭寺、色拉寺等场所调研。图为7月30日，俄罗斯宗教人士代表团在西藏唐卡画院观摩一幅格萨尔主题手绘唐卡。江飞波 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670958.shtml",
-      "publishedAt": "2026-08-02T14:40:53.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-03/10671091.shtml",
+      "publishedAt": "2026-08-03T03:11:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-02/10670957.shtml",
-      "title": "2026年“文化中国·水立方杯”中文歌曲大赛总决赛落幕",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-03/1200003.shtml",
+      "title": "贵州花江峡谷大桥开启无人机光影秀常态化表演",
       "category": "综合",
-      "summary": "中新社北京8月2日电 (记者 吴侃 门睿)2026年“文化中国·水立方杯”中文歌曲大赛总决赛2日晚在北京落幕。",
+      "summary": "8月2日晚，花江峡谷大桥无人机光影秀。近日，位于贵州省关岭县与贞丰县交界处的世界第一高桥——花江峡谷大桥，开启无人机光影秀常态化表演。无人机在大桥上空编队飞行，变幻出多个图案，为前来观光的游客呈现了一场震撼的视觉盛宴。（无人机照片）中新社记者 瞿宏伦 摄 8月2日晚，花江峡谷大桥无人机光影秀。近日，位于贵州省关岭县与贞丰县交界处的世界第一高桥——花江峡谷大桥",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-02/10670957.shtml",
-      "publishedAt": "2026-08-02T14:27:18.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-03/1200003.shtml",
+      "publishedAt": "2026-08-03T03:11:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
-      "title": "藏羚羊带娃回家啦！青藏公路开启“静音模式”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671094.shtml",
+      "title": "种植“三红”柚子引发纠纷 海南一果园一审被判赔偿34万元",
       "category": "综合",
-      "summary": "7月下旬",
+      "summary": "中新网海口8月3日电 (记者 王晓斌)近日在海南，一场因为种植“三红”柚子引发的品种权诉讼暂时告一段落：原告要求被告赔偿百万元经济损失并“砍掉”侵权果树；被告则辩称相关品种在申请保护前已在原产地广泛种植；海南自由贸易港知识产权法院一审宣判，被告赔偿损失，但可保留砧木用于嫁接其他品种。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670956.shtml",
-      "publishedAt": "2026-08-02T14:24:32.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671094.shtml",
+      "publishedAt": "2026-08-03T03:08:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
-      "title": "行进中国｜跟着牦牛尾巴走的派出所",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671097.shtml",
+      "title": "黑龙江省佳木斯市副市长仇文会接受审查调查",
       "category": "综合",
-      "summary": "西藏阿里，札达县，曲松乡。",
+      "summary": "中新网8月3日电 据黑龙江省纪委监委消息：黑龙江省佳木斯市人民政府党组成员、副市长仇文会涉嫌严重违纪违法，目前正接受黑龙江省纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670955.shtml",
-      "publishedAt": "2026-08-02T14:19:40.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671097.shtml",
+      "publishedAt": "2026-08-03T03:06:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
-      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671098.shtml",
+      "title": "山东省济南市政府原党组成员、副市长谢堃被\"双开\"",
       "category": "综合",
-      "summary": "天山网-新疆日报记者 杨舒涵",
+      "summary": "中新网8月3日电 据山东省纪委监委消息：经山东省委批准，山东省纪委监委对济南市政府原党组成员、副市长谢堃严重违纪违法问题进行了立案审查调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
-      "publishedAt": "2026-08-02T14:16:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671098.shtml",
+      "publishedAt": "2026-08-03T03:06:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670953.shtml",
-      "title": "勇立潮头大湾区丨“来数加工”成跨境算力新场景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-03/10671101.shtml",
+      "title": "有边防部队为啥还要护边员？巡了一辈子边的她说",
       "category": "综合",
-      "summary": "算力，不是遥不可及的黑科技 而是数字时代的“新水电” 从《哪吒之魔童降世》《流浪地球》的 影视特效 到《王者荣耀》《黑神话：悟空》等游戏 丝滑操作 甚至是每一次精准的天气预警 …… 这一切的背后都离不开两个字：算力 依托大湾区平台优势 粤港澳大湾区数据特区 “来数加工”跨境算力专区 近期在广东韶关 正式启用 韶关和香港之间架起“数字桥梁” 为粤港澳科创协同 ",
+      "summary": "原标题：守边之责比山重(中国道路中国梦·每一个人都是主角)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670953.shtml",
-      "publishedAt": "2026-08-02T14:03:51.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671101.shtml",
+      "publishedAt": "2026-08-03T03:05:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670952.shtml",
-      "title": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-03/10671095.shtml",
+      "title": "民调：76%日本人支持“无核三原则”",
       "category": "综合",
-      "summary": "近期，美国开放人工智能研究中心(OpenAI)模型自主入侵其他企业数据系统、中国开源模型参与应急响应，引发国际舆论持续关注。美国媒体也对各国开展AI安全治理合作以及AI开源生态价值#8204;进行思考与讨论。",
+      "summary": "日本媒体8月2日公布的一项民调结果显示，76%的受访者支持继续坚持“不制造、不拥有、不让核武器进入日本”的“无核三原则”。77%的受访者反对日本参与“核共享”，也就是由美国在日本部署核武器，并由两国共同运作。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670952.shtml",
-      "publishedAt": "2026-08-02T13:55:02.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-03/10671095.shtml",
+      "publishedAt": "2026-08-03T03:03:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-02/10670951.shtml",
-      "title": "破壁而立，寻新机！ 中国跨境电商从“卖产品”转向“拥有品牌议价权和定价权”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-03/10671090.shtml",
+      "title": "两岸观察丨一声“阿嬷”跨海峡 两岸文脉割不断",
       "category": "综合",
-      "summary": "央视网消息：从2026年7月1日起，欧盟正式取消150欧元以下进口包裹的免税政策。在两年过渡期内，对所有入境小包裹按件征收3欧元临时统一关税，并与原有增值税叠加征收。延续多年的“免税红利”终结后，中国跨境电商的低价直邮模式遭遇冲击。对于客单价10欧元左右的商品而言，3欧元关税意味着成本增长30%。政策施行一个月，商家受到哪些影响？",
+      "summary": "大陆电影《给阿嬷的情书》将于8月15日、16日在台湾桃园电影节亮相。这是该片首次在台湾地区公开放映，受到不少台湾影迷的关注和期待，7月27日开票即售罄。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670951.shtml",
-      "publishedAt": "2026-08-02T13:48:50.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671090.shtml",
+      "publishedAt": "2026-08-03T03:02:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-02/10670947.shtml",
-      "title": "中国北疆列车助力少数民族文化传承",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-03/1199995.shtml",
+      "title": "贾德·特鲁姆普获得2026世界斯诺克上海大师赛冠军",
       "category": "综合",
-      "summary": "中新社黑龙江齐齐哈尔8月2日电 (记者 史轶夫)黑龙江省齐齐哈尔市富裕县七家子村玛纳斯广场8月2日鼓乐悠扬，传统敖包祭祀启幕，一年一度的柯尔克孜族东迁节如期而至。",
+      "summary": "8月2日，在2026世界斯诺克上海大师赛决赛中，英格兰选手贾德·特鲁姆普最终以11:6战胜英格兰选手凯伦·威尔逊，获得冠军。图为贾德·特鲁姆普在比赛中。中新社记者 殷立勤 摄 8月2日，在2026世界斯诺克上海大师赛决赛中，英格兰选手贾德·特鲁姆普最终以11:6战胜英格兰选手凯伦·威尔逊，获得冠军。图为贾德·特鲁姆普在比赛前等待进场。中新社记者 殷立勤 摄 ",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670947.shtml",
-      "publishedAt": "2026-08-02T13:40:55.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-03/1199995.shtml",
+      "publishedAt": "2026-08-03T03:01:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -572,7 +589,77 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad#0",
+      "id": "sspai-https://sspai.com/post/112551",
+      "title": "角落新声｜两平米、两个角落，安放两个自己",
+      "category": "科技",
+      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/112551",
+      "publishedAt": "2026-08-03T02:52:56.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#0",
+      "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
+      "category": "国际",
+      "summary": "2026年中國求職大軍超過1500萬，AI浪潮對高學歷年輕女性的衝擊尤其大。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:19:18.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad#0",
+      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
+      "category": "国际",
+      "summary": "壓力正逐漸落在詹尼·恩凡蒂諾身上。在這項備受爭議的世界盃投資計劃崩潰後，他這國際足協主席還當得下去嗎？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T00:01:11.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113014",
+      "title": "派早报：DeepSeek V4 Flash 正式版发布",
+      "category": "科技",
+      "summary": "DeepSeek V4 Flash 正式版发布 特朗普向科技公司频繁索要捐款 马斯克称从未讨论过出售特斯拉中国业务 国补调整后终端销售承压 风投机构重新涌入中国科技领域 统计显示实体光盘并不能保证游戏长期可玩 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113014",
+      "publishedAt": "2026-08-02T22:49:31.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad#1",
       "title": "西班牙移民危機如何引發政治風暴 社交媒體推波助瀾",
       "category": "国际",
       "summary": "數萬摩洛哥移民游泳及徒步湧入西班牙飛地休達，至少67人死亡。多數已返回，但事件引發歐盟政治風暴，社群媒體假訊息成推手。",
@@ -641,7 +728,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#1",
       "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
       "category": "国际",
       "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
@@ -676,7 +763,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#1",
       "title": "網傳胡錦濤舉家身亡 秦楓稱流傳帖文屬冒用",
       "category": "国际",
       "summary": "在黨政元老預計按傳統聚集北戴河休假之際，網傳前中共中央總書記胡錦濤與兒子胡海峰一家食物中毒身亡。原始消息來源後來被否認。",
@@ -925,40 +1012,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad#1",
-      "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
-      "category": "国际",
-      "summary": "來自香港科技大學廣州分校的一項研究顯示，生命早期較少攝取糖分有助長期腦部健康，但相關證據尚未有定論。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T00:27:53.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgjegwxddeqo/trad#1",
-      "title": "驗血與超聲波檢查：韓國正成為全球醫療旅遊樞紐之一",
-      "category": "国际",
-      "summary": "愈來愈多旅客把全面身體檢查納入韓國行程，原因在於價格相宜、報告出得快，以及提供英語支援服務。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cgjegwxddeqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T00:27:49.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142566",
       "title": "联合国呼吁加强应对阿富汗人口贩运风险",
       "category": "国际",
@@ -1073,42 +1126,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/112405",
       "publishedAt": "2026-07-30T09:30:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112656",
-      "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
-      "category": "科技",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/112656",
-      "publishedAt": "2026-07-30T06:53:18.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112858",
-      "title": "少数派会员年度更新：把共同的热爱随身携带",
-      "category": "科技",
-      "summary": "感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/112858",
-      "publishedAt": "2026-07-30T03:01:11.000Z",
       "tags": [
         "科技",
         "效率",
@@ -1261,7 +1278,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad#5",
       "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
       "category": "国际",
       "summary": "從重慶到紐約、柏林和悉尼，政治投影近年成為部分海外倡議團體表達政治訴求的新方式。",
@@ -1619,23 +1636,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c05qmrj6lgqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-27T02:03:48.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2594ne6g7o/trad#5",
-      "title": "審視阿努廷時代下的泰中關係：中國「長臂管轄」連上泰國了？",
-      "category": "国际",
-      "summary": "當中國當局尋找逃往泰國的異議人士或難民時，泰國政府幾乎有求必應。泰國是否正在成為中國政府跨境執法的延伸？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2594ne6g7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T00:06:51.000Z",
       "tags": [
         "国际",
         "商业",
