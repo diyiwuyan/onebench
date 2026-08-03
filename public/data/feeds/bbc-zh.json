@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#1",
+      "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
+      "meta": "BBC 中文 · 2026/8/3",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:11:26.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad#2",
+      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
+      "meta": "BBC 中文 · 2026/8/3",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T14:08:15.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v47zjjzpeo/trad#0",
       "title": "緬甸軍方發佈最新照片 昂山素與世隔絕兩年半後首會客",
       "meta": "BBC 中文 · 2026/8/3",
@@ -80,13 +94,6 @@
       "meta": "BBC 中文 · 2026/8/1",
       "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T09:56:01.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#1",
-      "title": "網傳胡錦濤舉家身亡 秦楓稱流傳帖文屬冒用",
-      "meta": "BBC 中文 · 2026/7/31",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T14:53:52.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad#1",
@@ -194,13 +201,6 @@
       "publishedAt": "2026-07-24T04:16:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d0vn8dx3o/trad#2",
-      "title": "距離金門僅三公里，廈門翔安機場為何引發台灣國安疑慮？",
-      "meta": "BBC 中文 · 2026/7/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cj9d0vn8dx3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T09:29:08.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1k13k3xyw9o/trad#2",
       "title": "「電影最大的風險是不去冒險」：BBC專訪電影《奧德賽》劇組",
       "meta": "BBC 中文 · 2026/7/17",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-15T12:26:18.000Z"
     }
   ],
-  "updatedAt": "2026-08-03T11:44:06.703Z",
+  "updatedAt": "2026-08-03T15:16:16.022Z",
   "provider": "OneBench 公共资讯快照"
 }
