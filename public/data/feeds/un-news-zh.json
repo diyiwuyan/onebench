@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142575",
+      "title": "刚果（金）：埃博拉疫情中心地带新设治疗中心",
+      "meta": "联合国新闻 · 2026/8/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142575",
+      "publishedAt": "2026-08-03T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142567",
       "title": "窑火不熄：千年瓷都景德镇如何与世界连接——申遗成功注入新动力",
       "meta": "联合国新闻 · 2026/7/31",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/7/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142541",
       "publishedAt": "2026-07-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142540",
-      "title": "联大决定联合国人权事务高级专员蒂尔克续任四年",
-      "meta": "联合国新闻 · 2026/7/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142540",
-      "publishedAt": "2026-07-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-03T18:05:31.470Z",
+  "updatedAt": "2026-08-03T19:57:57.450Z",
   "provider": "OneBench 公共资讯快照"
 }

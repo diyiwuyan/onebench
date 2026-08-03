@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T18:05:31.470Z",
-  "expiresAt": "2026-08-04T00:05:31.470Z",
+  "generatedAt": "2026-08-03T19:57:57.450Z",
+  "expiresAt": "2026-08-04T01:57:57.450Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -602,6 +602,24 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142575",
+      "title": "刚果（金）：埃博拉疫情中心地带新设治疗中心",
+      "category": "国际",
+      "summary": "随着上周末刚果民主共和国（刚果（金））确诊埃博拉病例数持续急剧攀升，联合国支持的新治疗中心将开始在该国东部地区提供服务。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142575",
+      "publishedAt": "2026-08-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1723,24 +1741,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142541",
       "publishedAt": "2026-07-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142540",
-      "title": "联大决定联合国人权事务高级专员蒂尔克续任四年",
-      "category": "国际",
-      "summary": "联合国大会周五通过决议，决定现任联合国人权事务高级专员蒂尔克四年，该决议获144个会员国批准，13个会员国弃权，10个会员国反对。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142540",
-      "publishedAt": "2026-07-24T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",
