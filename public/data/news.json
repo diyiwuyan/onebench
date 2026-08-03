@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T15:16:16.022Z",
-  "expiresAt": "2026-08-03T21:16:16.022Z",
+  "generatedAt": "2026-08-03T18:05:31.470Z",
+  "expiresAt": "2026-08-04T00:05:31.470Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -1063,6 +1063,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:423f5646-df5f-462f-a6ec-b9a9aec18160",
+      "title": "敦促各国加强母乳喂养支持和卫生系统建设，为每个孩子提供健康生命开端",
+      "category": "健康",
+      "summary": "世界各地仍有太多母亲和家庭无法获得能够促进和支持母乳喂养的服务和干预措施。然而，母乳喂养是保护儿童健康最简单、最有效的方法之一。母乳喂养能够为婴幼儿提供必需的营养，增强免疫力，帮助预防严重疾病，并促进认知发育。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/31-07-2026-countries-urged-to-strengthen-breastfeeding-support-and-health-systems-to-give-every-child-a-healthy-start-in-life",
+      "publishedAt": "2026-07-31T09:11:46.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "sspai-https://sspai.com/post/112730",
       "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
       "category": "科技",
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
       "publishedAt": "2026-06-12T12:35:26.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:7fcf64d7-0d62-4ce3-9589-cf46e9d02e13",
-      "title": "非洲疾控中心和世卫组织启动非洲大陆联合应对埃博拉计划",
-      "category": "健康",
-      "summary": "非洲疾病预防控制中心（下称“非洲疾控中心”）与世界卫生组织（下称“世卫组织”）今日发布了针对本迪布焦病毒引发的当前埃博拉疫情的非洲大陆联合准备和应对计划。该计划旨在筹集5.18亿美元，以支持非洲国家与各合作伙伴共同准备、快速发现和应对疫情。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-      "publishedAt": "2026-06-05T12:28:26.000Z",
       "tags": [
         "健康",
         "育儿",
