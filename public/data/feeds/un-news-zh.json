@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142577",
+      "title": "苏丹无人机空袭威胁平民及人道主义救援行动",
+      "meta": "联合国新闻 · 2026/8/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
+      "publishedAt": "2026-08-03T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142576",
+      "title": "以色列侵犯黎巴嫩领空，周末空袭加沙造成二十余人死亡",
+      "meta": "联合国新闻 · 2026/8/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142576",
+      "publishedAt": "2026-08-03T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142575",
       "title": "刚果（金）：埃博拉疫情中心地带新设治疗中心",
       "meta": "联合国新闻 · 2026/8/3",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/7/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142542",
       "publishedAt": "2026-07-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142521",
-      "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国",
-      "meta": "联合国新闻 · 2026/7/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142521",
-      "publishedAt": "2026-07-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142541",
-      "title": "秘书长在阿萨德政权倒台后首次访问叙利亚，称赞该国迎来“充满希望的时刻”",
-      "meta": "联合国新闻 · 2026/7/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142541",
-      "publishedAt": "2026-07-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-04T03:37:10.224Z",
+  "updatedAt": "2026-08-04T06:40:50.663Z",
   "provider": "OneBench 公共资讯快照"
 }

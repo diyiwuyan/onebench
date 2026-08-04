@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T03:37:10.224Z",
-  "expiresAt": "2026-08-04T09:37:10.224Z",
+  "generatedAt": "2026-08-04T06:40:50.663Z",
+  "expiresAt": "2026-08-04T12:40:50.663Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -21,8 +21,9 @@
     },
     {
       "id": "who-zh",
-      "ok": true,
-      "itemCount": 25
+      "ok": false,
+      "itemCount": 0,
+      "error": "HTTP 400"
     },
     {
       "id": "bbc-zh",
@@ -32,14 +33,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671639.shtml",
-      "title": "超时一分钟，多收一小时？停车收费岂能“向上取整”！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-04/10671709.shtml",
+      "title": "美国暴发大规模环孢子虫病疫情，已现死亡病例，医生紧急提醒",
       "category": "综合",
-      "summary": "“入场61分钟，需缴费30元。”上海某商场停车场内，商先生和家人吃完饭，立马冲向停车场。“61分钟就要算两小时，紧赶慢赶，还是慢了1分钟！”商先生说。",
+      "summary": "近日，美国多州暴发环孢子虫病疫情，引发关注。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671639.shtml",
-      "publishedAt": "2026-08-04T03:34:44.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-04/10671709.shtml",
+      "publishedAt": "2026-08-04T06:35:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +51,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671637.shtml",
-      "title": "8月天气最新预测：将有2到3个台风登陆或明显影响我国",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671710.shtml",
+      "title": "长鑫科技上市背后的资本“长跑”",
       "category": "综合",
-      "summary": "中新网8月4日电 中国气象局8月4日召开新闻发布会。会上，国家气候中心副主任贾小龙介绍8月气候趋势预测。",
+      "summary": "长鑫科技登顶A股市值榜首，被认为是A股估值体系向硬科技倾斜的标志性事件，它意味着资金不再只追逐存量资产的稳健收益，开始愿意为底层技术突破、产业链安全、新质生产力的长期成长支付估值溢价。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671637.shtml",
-      "publishedAt": "2026-08-04T03:34:30.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671710.shtml",
+      "publishedAt": "2026-08-04T06:32:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +69,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671636.shtml",
-      "title": "暑期入境游“量质齐升” 中国之“酷”如何圈粉全球",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-04/10671675.shtml",
+      "title": "贵州加榜梯田：晨雾缭绕梯田叠翠",
       "category": "综合",
-      "summary": "时空观察丨暑期入境游“量质齐升” 中国之“酷”如何圈粉全球",
+      "summary": "8月4日，贵州省从江县的加榜梯田绿意盎然，层层叠叠的稻田与错落有致的苗族村寨、蜿蜒的山间公路交相辉映。清晨云雾缭绕，梯田在云雾中若隐若现，宛如一幅山水画卷，美不胜收。卢忠南 摄 8月4日，贵州省从江县的加榜梯田绿意盎然，层层叠叠的稻田与错落有致的苗族村寨、蜿蜒的山间公路交相辉映。清晨云雾缭绕，梯田在云雾中若隐若现，宛如一幅山水画卷，美不胜收。卢忠南 摄 8月",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671636.shtml",
-      "publishedAt": "2026-08-04T03:33:50.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-04/10671675.shtml",
+      "publishedAt": "2026-08-04T06:28:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +87,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671634.shtml",
-      "title": "出口中国 大市场带来大机遇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671697.shtml",
+      "title": "十月稻田第八大基地落子兴安盟 北纬46度的“草原好米”熟了",
       "category": "综合",
-      "summary": "数据来源：商务部",
+      "summary": "2026年盛夏，内蒙古兴安盟扎赉特旗的稻田里，稻穗正迎着长日照饱满灌浆。这片地处北纬46度“黄金水稻种植带”的黑土地，迎来了新的“合伙人”——首批”中国消费名品“企业十月稻田。随着双方合作落地，十月稻田第八大现代化生产基地正式在此投产运营，产自兴安盟的“十月稻田草原大米”也同步上市。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671634.shtml",
-      "publishedAt": "2026-08-04T03:33:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671697.shtml",
+      "publishedAt": "2026-08-04T06:26:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +105,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10671632.shtml",
-      "title": "中国气象局：7月全国降水量略偏多 高温持续时间长",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671707.shtml",
+      "title": "重庆17个区县出现暴雨 万州出现特大暴雨",
       "category": "综合",
-      "summary": "中新网8月4日电 中国气象局8月4日召开新闻发布会。会上，国家气候中心副主任贾小龙介绍7月全国天气气候特征。7月全国降水量略偏多，南方暴雨过程强、落区重叠，华北雨季偏早，北方暴雨极端性突出；台风生成和登陆个数均偏多，风雨影响持续久、范围广；气温为历史同期第二高，高温持续时间长。",
+      "summary": "中新网重庆8月4日电 (记者 刘相琳)记者4日从重庆市水利局获悉，3日8时至4日8时，重庆17个区县出现暴雨，其中10个区县出现大暴雨，万州出现特大暴雨，最大日降雨量出现在万州区双河口街道龙宝村，为250毫米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671632.shtml",
-      "publishedAt": "2026-08-04T03:28:28.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671707.shtml",
+      "publishedAt": "2026-08-04T06:24:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +123,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-04/10671616.shtml",
-      "title": "山西孝义：南北木偶皮影“同台竞秀” 上演“指掌乾坤”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671706.shtml",
+      "title": "福建莆田投用福建首个海上风机塔顶通信基站 破解外海通信难题",
       "category": "综合",
-      "summary": "图为艺人演绎木偶戏经典剧目。蒋建林 摄 图为艺人演绎皮影戏经典剧目。蒋建林 摄 图为艺人演绎皮影戏经典剧目。蒋建林 摄 图为艺人演绎木偶戏经典剧目。蒋建林 摄 图为艺人演绎木偶戏经典剧目。蒋建林 摄 图为艺人演绎皮影戏经典剧目。蒋建林 摄 图为艺人演绎木偶戏经典剧目。蒋建林 摄",
+      "summary": "中新网福州8月4日电 (陈婉婷)出海作业，手机无信号、通信中断，这曾是福建外海海域的常见通信状态。如今这一海上通信困境得到彻底破解。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-04/10671616.shtml",
-      "publishedAt": "2026-08-04T03:27:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671706.shtml",
+      "publishedAt": "2026-08-04T06:23:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +141,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10671635.shtml",
-      "title": "中国气象局：今年夏秋季发生超强厄尔尼诺事件概率增大",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671704.shtml",
+      "title": "7月中国北方15个国家级气象站日降水量突破历史极值",
       "category": "综合",
-      "summary": "中新网北京8月4日电(记者 邵萌) 记者4日从中国气象局新闻发布会获悉，最新监测显示，2026年6-7月厄尔尼诺状态持续加强。预计赤道中东太平洋海表温度将持续升高，夏秋季形成一次东部型强到超强厄尔尼诺事件，发生超强事件的概率增大，秋冬季达到峰值，2027年春夏季逐步衰减结束。本次事件发展快、强度强、需高度重视。在强到超强厄尔尼诺事件背景下，8月我国暴雨、高温",
+      "summary": "中新社北京8月4日电 (记者 陈溯)中国气象局4日公布的监测结果显示，7月，中国北方暴雨极端性突出，有15个国家级气象站日降水量突破历史极值。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671635.shtml",
-      "publishedAt": "2026-08-04T03:26:10.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671704.shtml",
+      "publishedAt": "2026-08-04T06:23:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +159,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671628.shtml",
-      "title": "超长三伏天如何科学养生？中医专家给出“生活处方”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-04/10671705.shtml",
+      "title": "演员葛兰去世",
       "category": "综合",
-      "summary": "中新网上海8月4日电 (陈静 喻文龙)今年，又湿又热的三伏天长达40天，应该如何科学养生？上海的中医专家叶敏4日给出了“生活处方”。",
+      "summary": "据多家港媒报道，香港传奇影星、被誉为“一代歌舞巨星”的葛兰3日安详离世，享年93岁。这位活跃于20世纪50年代至60年代的华语影坛全能艺人，凭借集演唱、演戏、舞蹈于一身的出众才华，在华语电影史上留下深刻印记。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671628.shtml",
-      "publishedAt": "2026-08-04T03:23:42.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-04/10671705.shtml",
+      "publishedAt": "2026-08-04T06:20:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +177,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671626.shtml",
-      "title": "湖北发布农作物高温热害风险预警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671667.shtml",
+      "title": "广西宾阳警方通报“一对男女进店挑手机拿了就跑”：手机已追回",
       "category": "综合",
-      "summary": "中新网武汉8月4日电 (记者 马芙蓉)湖北省气象局、湖北省农业农村厅3日晚联合发布农作物高温热害风险预警。",
+      "summary": "中新网8月4日电 广西南宁宾阳县公安局8月4日在其官方微信公众号发布警情通报称，近日，网上流传“南宁一对男女进店挑手机拿了就跑”相关视频信息，经核查，该起案件发生在宾阳县宾州镇。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671626.shtml",
-      "publishedAt": "2026-08-04T03:23:14.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671667.shtml",
+      "publishedAt": "2026-08-04T06:20:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +195,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671629.shtml",
-      "title": "《医疗健康行业智能体协同要求》标准发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-04/10671701.shtml",
+      "title": "山西32名教师将赴海外华校任教 行前培训班在太原开班",
       "category": "综合",
-      "summary": "中新网北京8月4日电 由中国信息通信研究院联合复旦大学附属中山医院共同牵头编制的《医疗健康行业智能体协同要求》标准日前在上海发布。该标准是国内首个正式发布的医疗多智能体协同相关规范。",
+      "summary": "中新网太原8月4日电 (记者 杨杰英)山西省2026年外派教师行前培训班4日在太原开班。山西省32名外派教师和省、市侨务办公室相关工作负责人参加培训。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671629.shtml",
-      "publishedAt": "2026-08-04T03:22:52.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-04/10671701.shtml",
+      "publishedAt": "2026-08-04T06:19:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +213,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671627.shtml",
-      "title": "广东公安查处编造涉台风谣言网民69人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-04/10671702.shtml",
+      "title": "韩国今夏高温已致16人死亡",
       "category": "综合",
-      "summary": "中新网广州8月4日电 (记者 方伟彬)记者4日从广东省公安厅获悉，近日，台风“红霞”登陆广东，多地出现强风暴雨，个别网民为吸引流量，在网上故意编造、传播涉台风谣言信息，引发社会公众恐慌，影响防汛救灾与社会公共秩序。",
+      "summary": "中新网8月4日电 据韩国疾病管理厅3日消息，今年5月15日至8月2日，韩国累计报告2025名高温相关疾病患者，其中16人死亡。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671627.shtml",
-      "publishedAt": "2026-08-04T03:21:18.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671702.shtml",
+      "publishedAt": "2026-08-04T06:18:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +231,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
-      "title": "韩国赴华游客数量持续增长",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-04/10671699.shtml",
+      "title": "中国东方演艺集团将以顶尖阵容打造舞蹈作品《一梦三境》",
       "category": "综合",
-      "summary": "韩国政府最新统计数据显示，今年1月至6月，韩国访华人数约171.4万人次，较去年同期增长16%。韩国业界普遍认为，中国是“距离近、体验好的海外旅游目的地”，预计2026年全年韩国赴华游客人数将继续保持增长。据韩国《东亚日报》报道，中国正作为“高性价比旅游目的地”受到韩国游客关注，赴华旅游产品持续扩容。特别是中国自2024年11月起对韩国公民实行最长30天免签",
+      "summary": "中新网北京8月4日电 (记者 应妮)中国东方演艺集团重磅打造的舞蹈作品《一梦三境》3日在京举行建组会，该剧将于2027年1月在北京天桥艺术中心首演。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671631.shtml",
-      "publishedAt": "2026-08-04T03:21:06.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-04/10671699.shtml",
+      "publishedAt": "2026-08-04T06:17:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +249,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-04/10671625.shtml",
-      "title": "香江观澜：国债期货上市 香港离岸人民币枢纽功能再升级",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671695.shtml",
+      "title": "员工上班“摸鱼” 单位有权开除吗？",
       "category": "综合",
-      "summary": "中新社香港8月4日电 题：国债期货上市 香港离岸人民币枢纽功能再升级",
+      "summary": "在上班族中有个流行语叫“摸鱼”，它指的是在工作时间里偷偷做跟工作没关系的事，比如玩手机、逛网站、闲聊等。在有些上班族看来，紧张的工作之余偶尔“摸鱼”放松一下，是平常不过的事。但在江苏南京上班的林某却因为这些行为被公司开除了。林某不服将公司告上法庭。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-04/10671625.shtml",
-      "publishedAt": "2026-08-04T03:20:52.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671695.shtml",
+      "publishedAt": "2026-08-04T06:17:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +267,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10671630.shtml",
-      "title": "我国牵头制定的工业通信国际标准发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671700.shtml",
+      "title": "《共生之城：人与自然和谐共生的深圳实践》白皮书发布",
       "category": "综合",
-      "summary": "央视新闻客户端消息：记者今天(4日)了解到，由我国牵头多国专家联合参与编制的《WiTSnet 工业以太网通信协议》国际标准，近日通过国际电工委员会发布，标志着我国自主工业网络技术方案得到全球行业广泛认可。该协议是全球首个采用动态组织网络架构、实现设备同步精度小于10纳秒、全网端到端高可靠传输的工业通信协议。",
+      "summary": "中新网深圳8月4日电 (记者 索有为)作为2026年亚太经合组织(APEC)林业部长级会议系列成果之一的《共生之城：人与自然和谐共生的深圳实践》白皮书，经国家林业和草原局、深圳市委、市政府审定，3日正式面向全球发布。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671630.shtml",
-      "publishedAt": "2026-08-04T03:16:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671700.shtml",
+      "publishedAt": "2026-08-04T06:17:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +285,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-04/10671623.shtml",
-      "title": "土耳其驻华大使：携手开辟土中关系更加美好的未来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671698.shtml",
+      "title": "今年7月中国平均气温为历史同期第二高",
       "category": "综合",
-      "summary": "携手开辟土中关系更加美好的未来(国际论坛)",
+      "summary": "中新社北京8月4日电 (记者 陈溯)记者4日从中国气象局获悉，今年7月，中国平均气温为历史同期第二高。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-04/10671623.shtml",
-      "publishedAt": "2026-08-04T03:16:38.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671698.shtml",
+      "publishedAt": "2026-08-04T06:17:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +303,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671622.shtml",
-      "title": "玉渊谭天丨中国科技产业，正在批量越过“可见线”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671696.shtml",
+      "title": "受持续降雨影响 陕西连发多条预警",
       "category": "综合",
-      "summary": "最近有个现象值得注意，不同领域的中国科技产业，接连进入全球市场和国际媒体的视野。",
+      "summary": "央视新闻客户端消息：受持续降雨影响，陕西今天发布暴雨橙色预警和强对流橙色预警、地质灾害气象风险橙色预警、山洪灾害气象风险预警。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671622.shtml",
-      "publishedAt": "2026-08-04T03:16:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671696.shtml",
+      "publishedAt": "2026-08-04T06:15:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +321,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10671624.shtml",
-      "title": "8月或有2到3个台风登陆或明显影响我国",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671692.shtml",
+      "title": "惠民生促消费 中国银联携手多地文旅单位开启夏日惠民季",
       "category": "综合",
-      "summary": "中新网北京8月4日电(记者 邵萌) 记者4日从中国气象局新闻发布会获悉，预计8月，西北太平洋和南海海域有6～7个台风生成，较常年同期(5.6个)偏多；有2～3个台风登陆或明显影响我国，接近常年同期(2.3个)；强度总体偏强，存在较强台风北上影响我国北方地区的风险。",
+      "summary": "蝉鸣盛夏，暑期消费旺季如期而至。立足惠民生、促消费的政策导向，紧扣文旅融合发展趋势，中国银联联动全国多地文旅单位等合作伙伴，正式启动2026年“银联优惠日”暑期惠民系列活动，以“带上银联，相惠每一个夏天”为主题，以政企协同为核心抓手，以支付普惠为纽带，全面激活暑期文旅及全域消费活力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671624.shtml",
-      "publishedAt": "2026-08-04T03:14:47.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671692.shtml",
+      "publishedAt": "2026-08-04T06:10:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +339,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-04/10671620.shtml",
-      "title": "“了解更多吉中合作的美好故事”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-04/10671683.shtml",
+      "title": "外媒：因凡蒂诺多次致电特朗普未果 深感“孤立无援”",
       "category": "综合",
-      "summary": "“了解更多吉中合作的美好故事”(中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访)",
+      "summary": "中新网8月4日电 综合《纽约邮报》、路透社3日报道，知情人士透露，国际足联主席因凡蒂诺正寻求特朗普政府的支持，希望能帮助他保住职位，他多次尝试致电美国总统特朗普，但均未能接通。另一位消息人士称，因媒体铺天盖地的负面报道，因凡蒂诺正感到“孤立无援”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-04/10671620.shtml",
-      "publishedAt": "2026-08-04T03:12:41.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671683.shtml",
+      "publishedAt": "2026-08-04T06:10:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +357,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-04/10671619.shtml",
-      "title": "“勇担历史使命，始终掌握战略主动”——访哥斯达黎加远程教育大学对外贸易观察站全球事务主任戈瓦莱",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671693.shtml",
+      "title": "台风“白海豚”两种路径公布，其发展情况6日将趋于明朗",
       "category": "综合",
-      "summary": "“中国共产党带领中国人民实现了国家快速发展和社会深刻变革。”哥斯达黎加远程教育大学对外贸易观察站全球事务主任，哥斯达黎加经济、工业和商业部前副部长维利亚·戈瓦莱日前接受本报记者采访时表示，中国共产党始终把国家发展与人民福祉紧密联系在一起，坚持从中国实际出发推进现代化建设，不断以新的实践回应时代课题。",
+      "summary": "中新网北京8月4日电(记者 邵萌)今年第13号台风“白海豚”的移动路径持续引发关注。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671619.shtml",
-      "publishedAt": "2026-08-04T03:11:35.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671693.shtml",
+      "publishedAt": "2026-08-04T06:09:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +375,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671609.shtml",
-      "title": "【“十四五”西藏发展成就网络巡礼】5万元到689万元：藏北牧村用八年改写致富路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-04/10671694.shtml",
+      "title": "俄太平洋舰队启动大规模演习 约60艘舰船参演",
       "category": "综合",
-      "summary": "中新网那曲8月4日电(戴悦)那曲市色尼区达萨乡六村，一个西藏北部的普通牧村。2016年，全村一年卖牦牛奶的收入只有5万元。而到2024年，这个数字变成689万元，八年时间增长136.8倍。",
+      "summary": "央视新闻客户端消息：8月4日，俄罗斯国防部通报，俄太平洋舰队当天起在日本海、鄂霍次克海及西北太平洋水域启动大规模军事演习，大量舰艇、飞机及万余兵力参演。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671609.shtml",
-      "publishedAt": "2026-08-04T03:11:21.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671694.shtml",
+      "publishedAt": "2026-08-04T06:07:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +393,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671618.shtml",
-      "title": "360纳米Work企业版启动全国各级渠道城市合伙人招募 加速AI应用本地化落地",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-04/10671691.shtml",
+      "title": "AI+微短剧重构影视生态",
       "category": "综合",
-      "summary": "近日，360正式推出新一代企业智能体工作平台纳米Work，并同步开启全国渠道城市合伙人招募。此次招募面向具备本地行业客户资源、企业客户基础或渠道服务能力的合作伙伴，构建总部能力与本地服务协同体系，推动企业级AI服务进入更多企业、门店、园区等真实业务场景，加速AI普惠应用。",
+      "summary": "当你随意点开短视频软件，大概率刷到过抓眼球的AI微短剧。随着人工智能技术加速迭代，曾经大团队、高预算的影视生产模式，正被“一键成片”“一人剧组”等新模式改写。在AI微短剧遍地开花的同时，也引发诸多思考——技术浪潮中，行业格局将如何被重塑？真人表演价值是否会被AI稀释？行业长期发展的核心竞争力又是什么？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671618.shtml",
-      "publishedAt": "2026-08-04T03:10:33.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-04/10671691.shtml",
+      "publishedAt": "2026-08-04T06:05:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +411,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671603.shtml",
-      "title": "停车场一汽车着火 深圳龙岗通报：明火已扑灭，无人员伤亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-04/10671686.shtml",
+      "title": "首次纳入广东省运会竞技体育组 霹雳舞赛事在茂名收官",
       "category": "综合",
-      "summary": "中新网8月4日电 据“龙岗区应急管理”微信公众号消息，深圳龙岗区消防救援局、龙岗区应急管理局8月4日发布情况通报称，8月4日04时34分许，龙岗区布吉街道木棉湾社区湖西路立体停车场8楼一汽车着火，龙岗区消防、应急部门接报后第一时间前往处置，05时25分扑灭明火。初步判断过火面积约1平方米，无人员伤亡，具体起火原因正在进一步调查中。",
+      "summary": "中新网茂名8月4日电 (记者 梁盛)首次纳入广东省第十七届运动会的霹雳舞赛事，3日下午在茂名奥体中心完美收官。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671603.shtml",
-      "publishedAt": "2026-08-04T03:08:05.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-04/10671686.shtml",
+      "publishedAt": "2026-08-04T06:03:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +429,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-04/10671615.shtml",
-      "title": "海南自贸港“十五五”全面加快服务业国际化进程",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-04/10671685.shtml",
+      "title": "宁夏原州“村BA”落幕 乡土赛事点燃乡村文体活力",
       "category": "综合",
-      "summary": "中新网海口8月4日电 (记者 王子谦)海南省人民政府办公厅3日发布《海南省推进服务业扩能提质增效的实施意见》(简称《实施意见》)，提出充分发挥政策制度开放优势，主动对接国际高标准经贸规则，推动规则、规制、管理、标准相通相容，打造服务业开放发展新高地。",
+      "summary": "中新网固原8月4日电 (记者 李佩珊)8月3日晚，以“相约村BA 乐享原州味 共绘石榴红”为主题的宁夏固原市原州区2026年“村BA”在固原体育馆收官。赛事自7月25日开赛，历时10天、共进行106场比拼，四大组别冠亚季军全部决出，本届乡土篮球赛事圆满落下帷幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-04/10671615.shtml",
-      "publishedAt": "2026-08-04T03:07:49.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-04/10671685.shtml",
+      "publishedAt": "2026-08-04T06:03:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +447,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671614.shtml",
-      "title": "江苏六部门联合发文保障高温天气劳动者权益 日最高气温40℃以上停止露天作业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-04/10671688.shtml",
+      "title": "梁振英批香港部分楼盘仅有英文名、不设中文名",
       "category": "综合",
-      "summary": "中新网南京8月4日电 (记者 徐珊珊)江苏多地近日最高气温突破35℃，高温作业风险持续攀升。江苏省人力资源和社会保障厅、住房和城乡建设厅等六部门3日联合下发通知，加强高温天气劳动者权益保障工作。",
+      "summary": "梁振英批香港部分楼盘仅有英文名、不设中文名：靠洋名刻意“扮鬼吓人”的扭曲文化心态不可取",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671614.shtml",
-      "publishedAt": "2026-08-04T03:07:37.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-04/10671688.shtml",
+      "publishedAt": "2026-08-04T06:03:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +465,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671613.shtml",
-      "title": "海南出台新政推进教育科技人才一体改革",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10671689.shtml",
+      "title": "人工智能扎根千行百业",
       "category": "综合",
-      "summary": "中新网海口8月4日电 (记者 王子谦)中共海南省委办公厅、海南省人民政府办公厅3日对外发布《关于统筹推进教育科技人才一体改革的实施意见》(简称《实施意见》)，畅通教育、科技、人才良性循环，加快建设人才荟萃之岛、技术创新之岛。",
+      "summary": "日前召开的中共中央政治局会议提出，深入实施“人工智能+”行动，发展智能经济新形态，完善人工智能治理体系。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671613.shtml",
-      "publishedAt": "2026-08-04T03:07:19.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671689.shtml",
+      "publishedAt": "2026-08-04T06:00:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +483,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671612.shtml",
-      "title": "美丽中国行|绿染黄土高原 圣地谱写新篇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671682.shtml",
+      "title": "公众如何科学做好防暑降温？中国气象局支招",
       "category": "综合",
-      "summary": "美丽中国行 | 绿染黄土高原 圣地谱写新篇",
+      "summary": "中新网8月4日电 中国气象局8月4日召开新闻发布会。针对8月我国是否还会出现极端高温、公众如何科学做好防暑降温等问题，国家气候中心副主任贾小龙表示，预计8月份，全国大部地区气温较常年同期偏高，高温日数偏多，华北南部、华东、华中中南部、西南地区东部、西北地区东南部、新疆等地出现阶段性高温热浪风险较高，华中中部、西南地区东部、新疆等地发生区域性极端高温事件的概率",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671612.shtml",
-      "publishedAt": "2026-08-04T03:06:47.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671682.shtml",
+      "publishedAt": "2026-08-04T05:58:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +501,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671608.shtml",
-      "title": "【长江十年行】算清猕猴桃“碳足迹”，把长江保护前置到果园里",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-04/1200081.shtml",
+      "title": "【四时映画】贵州加榜梯田：晨雾缭绕梯田叠翠",
       "category": "综合",
-      "summary": "【写在前面】",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671608.shtml",
-      "publishedAt": "2026-08-04T03:06:21.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-04/1200081.shtml",
+      "publishedAt": "2026-08-04T05:57:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +519,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671610.shtml",
-      "title": "中欧班列高质量发展取得显著成效",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-04/10671684.shtml",
+      "title": "多地加码消费“三新”试点建设",
       "category": "综合",
-      "summary": "央视网消息(新闻联播)：记者从国家发展改革委了解到，自2016年6月中欧班列统一品牌以来，中欧班列高质量发展取得显著成效。质量效益持续向好，开行规模稳步向上，目前中欧班列累计开行量已突破13万列，运送货值超5200亿美元，成为丝绸之路经济带上驰而不息的“钢铁驼队”。",
+      "summary": "7月份以来，厦门、贵阳、郑州、南京等地就消费新业态新模式新场景(以下简称“三新”)试点工作发布新文件。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671610.shtml",
-      "publishedAt": "2026-08-04T03:05:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10671684.shtml",
+      "publishedAt": "2026-08-04T05:55:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +537,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671607.shtml",
-      "title": "无人区里的“生灵守护”——走进世界平均海拔最高的羌塘国家级自然保护区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10671670.shtml",
+      "title": "暑期灾害性天气多发，出游需防范哪些风险？中国气象局提醒",
       "category": "综合",
-      "summary": "新华社拉萨8月3日电 题：无人区里的“生灵守护”——走进世界平均海拔最高的羌塘国家级自然保护区",
+      "summary": "中新网8月4日电 中国气象局8月4日召开新闻发布会。国家气象中心副主任肖潺提醒，暑期灾害性天气多发，出游需重点防范四类风险：一是台风及伴随的强风暴雨、风暴潮；二是短时强降雨、雷暴大风、冰雹等强对流天气；三是强降雨诱发的山洪及滑坡、泥石流及城乡积涝等次生灾害；四是持续性高温天气。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671607.shtml",
-      "publishedAt": "2026-08-04T03:04:57.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10671670.shtml",
+      "publishedAt": "2026-08-04T05:52:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +555,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10671617.shtml",
-      "title": "整治恶意炒作涉企信息 国家网信办公开一批典型案例",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/gj/shipin/2026/08-04/news1064250.shtml",
+      "title": "欧洲干旱威胁堤坝安全与航道运输",
       "category": "综合",
-      "summary": "中新网8月4日电 据“网信中国”微信公众号消息，近期，国家网信办组织开展“清朗·优化营商网络环境 整治恶意炒作涉企信息”专项行动。根据有关部门和地方网信办来函，从严处置一批侵犯企业、企业家网络合法权益的违法违规账号。现将部分典型案例通报如下。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671617.shtml",
-      "publishedAt": "2026-08-04T03:03:59.000Z",
+      "url": "http://www.chinanews.com.cn/gj/shipin/2026/08-04/news1064250.shtml",
+      "publishedAt": "2026-08-04T05:51:28.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112738",
+      "title": "角落新声｜成年的快乐，是可以将角落铺满全家",
+      "category": "科技",
+      "summary": "我理解中的角落，不是电影里那种阴暗逼仄、藏着邪恶与不堪的地方，而是生活中时间与现实的锚点。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/112738",
+      "publishedAt": "2026-08-04T02:59:26.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -671,6 +690,42 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142577",
+      "title": "苏丹无人机空袭威胁平民及人道主义救援行动",
+      "category": "国际",
+      "summary": "联合国人道主义事务协调厅周一表示，随着袭击持续波及受冲突影响的地区，无人机空袭正给苏丹平民带来致命风险，并阻碍了人道主义救援力量向受灾民众提供援助。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
+      "publishedAt": "2026-08-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142576",
+      "title": "以色列侵犯黎巴嫩领空，周末空袭加沙造成二十余人死亡",
+      "category": "国际",
+      "summary": "联合国机构周一表示，尽管停火协议仍在生效，但据报道，以色列军队上周末在加沙打死了二十余名巴勒斯坦人；与此同时，联合国维和部门表示，以色列侵犯黎巴嫩领空超过100次。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142576",
+      "publishedAt": "2026-08-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1105,24 +1160,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/112962",
       "publishedAt": "2026-07-31T10:49:07.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112961",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "category": "科技",
-      "summary": "📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/112961",
-      "publishedAt": "2026-07-31T09:57:39.000Z",
       "tags": [
         "科技",
         "效率",
@@ -1705,42 +1742,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142542",
       "publishedAt": "2026-07-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142521",
-      "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国",
-      "category": "国际",
-      "summary": "从“看不见的能源”到改变未来生活的绿色力量，绿氢正在成为全球能源转型的重要方向。它既能将风电、光伏等可再生能源产生的富余电力储存起来，也能为钢铁、化工、交通等难以实现电气化的领域提供低碳解决方案。那么，绿氢究竟是什么？它距离普通人的生活还有多远？在这场全球能源变革中，中国又具备哪些优势？本期《前方视野》专访水电水利规划设计总院副院长张益国，一起探寻绿氢如何补",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142521",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142541",
-      "title": "秘书长在阿萨德政权倒台后首次访问叙利亚，称赞该国迎来“充满希望的时刻”",
-      "category": "国际",
-      "summary": "秘书长古特雷斯周六在大马士革开启了具有里程碑意义的对叙利亚的访问。他表示，叙利亚不仅有机会从冲突中恢复过来，还有机会为所有叙利亚人建设“一个更加稳定、更加包容、更加繁荣的未来”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142541",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",
