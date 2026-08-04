@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:39:31.105Z",
-  "expiresAt": "2026-08-04T20:39:31.105Z",
+  "generatedAt": "2026-08-04T18:03:50.198Z",
+  "expiresAt": "2026-08-05T00:03:50.198Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-04/10672053.shtml",
+      "title": "闽澳高层会晤暨闽澳合作会议第五次会议在福州举行",
+      "category": "综合",
+      "summary": "中新社福州8月4日电 (记者 闫旭)闽澳高层会晤暨闽澳合作会议第五次会议4日在福州举行。《闽澳高层会晤暨闽澳合作会议第五次会议合作备忘录》以及旅游、闽企出海、青年发展、文化交流、医疗卫生、人才培养等领域的相关合作协议、备忘录在会上签署。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-04/10672053.shtml",
+      "publishedAt": "2026-08-04T15:02:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-04/10672050.shtml",
+      "title": "女演员带孩子看电影，孩子兴奋叫出声，散场后被观众淋奶油",
+      "category": "综合",
+      "summary": "中新网8月4日电 据香港星岛头条、香港01报道，日前，34岁香港女星陈凯琳带三个儿子看电影《蜘蛛侠：崭新之日》，但有网友指出，孩子不断大声交谈、嬉笑及尖叫。散场时更有人疑因不满，向陈凯琳儿子的头部直接淋奶油。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-04/10672050.shtml",
+      "publishedAt": "2026-08-04T14:47:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-04/10672051.shtml",
       "title": "我国加快构建绿色低碳电力供给格局",
@@ -536,42 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-04/10672011.shtml",
-      "title": "新材料企业负债40亿元陷困局 法院“执破融合”助企重生",
-      "category": "综合",
-      "summary": "中新网杭州8月4日电(郭其钰)当40亿元债务压身，上百件执行案件在两家法院分头执行，一个掌握行业领先技术的新材料企业，能否摆脱困境“破茧重生”？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-04/10672011.shtml",
-      "publishedAt": "2026-08-04T13:56:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-04/10672012.shtml",
-      "title": "山西、敦煌实地取景 《花开锦绣》官宣定档",
-      "category": "综合",
-      "summary": "中新网北京8月4日电 (记者 高凯)剧集《花开锦绣》4日官宣定档，将于8月9日正式开播。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-04/10672012.shtml",
-      "publishedAt": "2026-08-04T13:55:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad#0",
       "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
       "category": "国际",
@@ -614,6 +614,40 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T11:43:49.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad#2",
+      "title": "陸委會主委專訪：北京每年「已讀不回」3000封信 民進黨執政十年兩岸溝通未斷",
+      "category": "国际",
+      "summary": "民進黨自2016年上台後，已連續執政十年，台海局勢持續緊張。台灣大陸委員會主委邱垂正接受BBC中文專訪表示，目前兩岸關係風險高，中國對台施壓已擴及軍事、經濟、法律及認知領域。但他指出，兩岸溝通管道並未完全中斷，台灣仍透過官方聯絡、既有協議及民間交流維持互動與風險管控。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:17:07.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad#2",
+      "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
+      "category": "国际",
+      "summary": "中國知名地下教會「錫安教會」創辦人金明日牧師，在當局去年十月的大規模抓捕基督徒行動中被捕。他在被關押266天後突然獲釋，被視為是外交上罕見的案例。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:15:40.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1768,23 +1802,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8jn09e194go/trad#2",
-      "title": "香港步入「禁書時代」？回顧書店與出版環境的變化",
-      "category": "国际",
-      "summary": "BBC中文整理近年與出版、書店及書籍執法相關的重要事件，回顧香港出版環境的變化。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c8jn09e194go/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T10:57:47.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad#3",
       "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
       "category": "国际",
@@ -1900,23 +1917,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1k13k3xyw9o/trad#2",
-      "title": "「電影最大的風險是不去冒險」：BBC專訪電影《奧德賽》劇組",
-      "category": "国际",
-      "summary": "今年夏天，克里斯多福．諾蘭（Christopher Nolan）正以擁有三千年歷史的《奧德賽》改寫電影史 —— 該部片是全球首部全程以IMAX規格拍攝的電影。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c1k13k3xyw9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T08:24:01.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
