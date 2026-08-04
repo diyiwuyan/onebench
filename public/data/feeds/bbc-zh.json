@@ -5,11 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad#0",
+      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T12:36:25.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#0",
       "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
       "meta": "BBC 中文 · 2026/8/4",
       "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:19:23.000Z"
+      "publishedAt": "2026-08-04T12:16:12.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#0",
+      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:43:49.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad#0",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-08-04T01:17:05.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw91wpe1g1o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw91wpe1g1o/trad#1",
       "title": "「奇蹟」嬰兒胚胎接受開創性子宮手術 修復腸臟外露",
       "meta": "BBC 中文 · 2026/8/4",
       "url": "https://www.bbc.com/zhongwen/articles/cpw91wpe1g1o/trad?at_medium=RSS&at_campaign=rss",
@@ -54,13 +68,6 @@
       "publishedAt": "2026-08-03T11:17:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyl8d3d4gdo/trad#1",
-      "title": "時差如何影響你的身體？如何減輕不適？",
-      "meta": "BBC 中文 · 2026/8/3",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyl8d3d4gdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T08:51:52.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw91e718vzo/trad#1",
       "title": "為何我不後悔20多歲就選擇結紮？",
       "meta": "BBC 中文 · 2026/8/3",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-08-03T03:46:57.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#1",
       "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
       "meta": "BBC 中文 · 2026/8/3",
       "url": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
@@ -103,7 +110,7 @@
       "publishedAt": "2026-08-02T09:38:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad#4",
       "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
       "meta": "BBC 中文 · 2026/8/2",
       "url": "https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad?at_medium=RSS&at_campaign=rss",
@@ -115,13 +122,6 @@
       "meta": "BBC 中文 · 2026/8/1",
       "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T09:56:01.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce852385914o/trad#4",
-      "title": "澳門國安法首案：區錦新被羈押滿一年，「外界難以聯絡」",
-      "meta": "BBC 中文 · 2026/7/30",
-      "url": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T11:55:00.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-17T08:24:01.000Z"
     }
   ],
-  "updatedAt": "2026-08-04T10:50:17.185Z",
+  "updatedAt": "2026-08-04T14:39:31.105Z",
   "provider": "OneBench 公共资讯快照"
 }
