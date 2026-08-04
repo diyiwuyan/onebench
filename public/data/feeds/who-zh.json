@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:423f5646-df5f-462f-a6ec-b9a9aec18160",
+      "title": "敦促各国加强母乳喂养支持和卫生系统建设，为每个孩子提供健康生命开端",
+      "meta": "世界卫生组织 · 2026/7/31",
+      "url": "https://www.who.int/zh/news-room/31-07-2026-countries-urged-to-strengthen-breastfeeding-support-and-health-systems-to-give-every-child-a-healthy-start-in-life",
+      "publishedAt": "2026-07-31T09:11:46.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:3a2fbd46-aab7-4f65-a970-2bd25cf68c83",
       "title": "世卫组织报告指出：整合、创新和社区领导力是终结艾滋病毒、病毒性肝炎和性传播感染的关键",
       "meta": "世界卫生组织 · 2026/7/27",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/6/12",
       "url": "https://www.who.int/zh/news-room/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
       "publishedAt": "2026-06-12T12:35:26.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:7fcf64d7-0d62-4ce3-9589-cf46e9d02e13",
-      "title": "非洲疾控中心和世卫组织启动非洲大陆联合应对埃博拉计划",
-      "meta": "世界卫生组织 · 2026/6/5",
-      "url": "https://www.who.int/zh/news-room/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-      "publishedAt": "2026-06-05T12:28:26.000Z"
     }
   ],
-  "updatedAt": "2026-08-04T06:40:50.663Z",
+  "updatedAt": "2026-08-04T10:50:17.185Z",
   "provider": "OneBench 公共资讯快照"
 }
