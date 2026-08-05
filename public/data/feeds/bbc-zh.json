@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#0",
+      "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T10:59:27.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#1",
       "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
@@ -110,13 +117,6 @@
       "publishedAt": "2026-08-03T14:08:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v47zjjzpeo/trad#1",
-      "title": "緬甸軍方發佈最新照片 昂山素與世隔絕兩年半後首會客",
-      "meta": "BBC 中文 · 2026/8/3",
-      "url": "https://www.bbc.com/zhongwen/articles/c9v47zjjzpeo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T11:17:02.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/trad#5",
       "title": "台灣物流商成「審書人」：香港國安法如何改變跨境圖書供應鏈？",
       "meta": "BBC 中文 · 2026/8/3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:16:29.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T10:46:51.783Z",
+  "updatedAt": "2026-08-05T14:32:59.124Z",
   "provider": "OneBench 公共资讯快照"
 }
