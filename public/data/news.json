@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T19:54:53.298Z",
-  "expiresAt": "2026-08-06T01:54:53.298Z",
+  "generatedAt": "2026-08-05T21:32:38.903Z",
+  "expiresAt": "2026-08-06T03:32:38.903Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-06/10672664.shtml",
+      "title": "泰国上半年大米出口量下降18.81%",
+      "category": "综合",
+      "summary": "中新社曼谷8月5日电 (记者 李映民)泰国商务部对外贸易厅5日通报称，2026年上半年，泰国大米出口量为328万吨，比上年同期下降18.81%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672664.shtml",
+      "publishedAt": "2026-08-05T21:10:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-06/10672663.shtml",
+      "title": "《给阿嬷的情书》印尼首映 潮汕乡音唤起华裔观众祖辈记忆",
+      "category": "综合",
+      "summary": "中新社雅加达8月5日电 (记者 李志全)电影《给阿嬷的情书》5日晚在印度尼西亚雅加达举行首映礼，引发当地华侨华人及印尼观众共鸣。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672663.shtml",
+      "publishedAt": "2026-08-05T21:08:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-06/10672662.shtml",
+      "title": "台风“鲸鱼”来袭 菲律宾多地停工停课",
+      "category": "综合",
+      "summary": "中新社马尼拉8月5日电 (记者 周璟)受今年第14号台风“鲸鱼”及西南季风叠加影响，菲律宾多地5日遭遇强降雨和强风天气。菲律宾总统府宣布，自当日15时起，大马尼拉地区以及吕宋岛中部和北部多省政府机构停工、学校停课。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672662.shtml",
+      "publishedAt": "2026-08-05T21:06:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672661.shtml",
       "title": "人贩子“梅姨”真实姓名曝光",
@@ -518,56 +572,92 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-05/10672624.shtml",
-      "title": "中钢协：铁矿石市场新秩序正逐步构建",
-      "category": "综合",
-      "summary": "中新社北京8月5日电 中国钢铁工业协会5日发文表示，打造以人民币计价的铁矿石价格指数体系，为市场提供了除美元指数之外的重要价格参照，有利于提升价格形成的代表性和透明度。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672624.shtml",
-      "publishedAt": "2026-08-05T14:04:27.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142586",
+      "title": "人权高专结束访问约旦 呼吁加强司法保障并继续支持难民",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周三结束对约旦为期一天的访问。访问期间，他会见了约旦高级官员、国家人权中心和民间社会代表，就人权、司法改革、难民保护等议题交换意见。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142586",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672619.shtml",
-      "title": "广西钦州推进向海产业布局 深化与东盟跨境产供链合作",
-      "category": "综合",
-      "summary": "【东盟专线】广西钦州推进向海产业布局 深化与东盟跨境产供链合作",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672619.shtml",
-      "publishedAt": "2026-08-05T14:03:59.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142587",
+      "title": "伊朗处决和死刑判决数量急剧上升",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员周三对自2月下旬美以联军开始空袭以来伊朗处决和死刑判决数量的急剧上升表示震惊，并警告称，死刑正被用来恐吓民众并压制异议。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142587",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-05/10672632.shtml",
-      "title": "印度东北部雷击造成至少14人死亡",
-      "category": "综合",
-      "summary": "中新社北京8月5日电 据印度媒体5日报道，受季风雨季影响，印度东北部恰尔肯德邦多地4日发生雷击事件，造成至少14人死亡，另有多人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672632.shtml",
-      "publishedAt": "2026-08-05T14:03:25.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142585",
+      "title": "乌克兰平民伤亡持续增加 联合国谴责俄罗斯新一轮袭击",
+      "category": "国际",
+      "summary": "联合国驻乌克兰人道主义事务协调员施马勒周三发表声明，谴责俄罗斯武装力量新一轮大规模袭击，呼吁保护平民和民用基础设施。联合国乌克兰人权监察团表示，最新袭击导致乌克兰平民伤亡继续攀升。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142585",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142584",
+      "title": "安理会：联合国警告“伊斯兰国”持续构成威胁",
+      "category": "国际",
+      "summary": "联合国负责反恐事务代理副秘书长办公室主任尼亚兹贝迪耶娃周三向安理会表示，尽管国际社会持续开展反恐行动，“伊黎伊斯兰国”（又称“达伊沙”）仍继续对国际和平与安全构成严重威胁。该组织在组织结构日益分散的情况下不断调整策略，并利用武装冲突、脆弱的安全环境和新兴技术维持和扩大活动。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142584",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142583",
+      "title": "粮食署：“厄尔尼诺”现象或致数千万人陷入急性饥饿",
+      "category": "国际",
+      "summary": "世界粮食计划署周三表示，日益加剧的“厄尔尼诺”气候现象预计将在2027年前显著加剧全球部分最脆弱国家的粮食不安全状况。最新分析显示，气候引发的冲击可能导致45个国家粮食不安全进一步恶化，到2027年底至少有4900万新增人口陷入急性粮食不安全。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142583",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1627,78 +1717,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142555",
-      "title": "联合国称：气候灾害加剧 威胁生命安全并重创各国经济",
-      "category": "国际",
-      "summary": "《联合国气候变化框架公约》执行秘书斯蒂尔周二发表声明表示，全球各地由气候变化驱动的灾害正在加剧，威胁生命安全并重创各国经济。他警告说，“气候警报正从四面八方传来，响彻云霄”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142555",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142554",
-      "title": "国际移民组织：人口贩运受害者被迫参与网络诈骗 呼吁加强保护与跨境合作",
-      "category": "国际",
-      "summary": "在7月30日“世界打击贩运人口行为日”到来前夕，国际移民组织发出警告称，全球已有数十万人被犯罪网络贩运，并被强迫参与价值数十亿美元的网络诈骗活动。今年“世界打击贩运人口行为日”的主题为“被骗局困住”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142554",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142553",
-      "title": "《难民公约》通过75周年 联合国发起全球团结倡议呼吁支持难民保护",
-      "category": "国际",
-      "summary": "在《1951年关于难民地位的公约》（《难民公约》）通过75周年之际，联合国难民署周二与来自全球各界的75位人士共同发起“承诺”倡议，重申对难民及其寻求安全权利的支持，并呼吁建立支持难民保护的全球联盟。联合国秘书长古特雷斯当天也发表声明，呼吁各会员国重申对《难民公约》文字与精神的承诺。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142553",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142552",
-      "title": "中东局势持续紧张 安理会听取加沙、西岸及地区局势通报",
-      "category": "国际",
-      "summary": "联合国中东和平进程副特别协调员阿拉克巴罗夫周二向安理会表示，约旦河西岸局势过去几天迅速恶化，加剧了巴勒斯坦被占领土整体紧张局势。如果不立即采取措施扭转局面，局势进一步升级的风险将持续增加。他强调，必须全面执行安理会第2803号决议和《结束加沙冲突综合计划》，包括哈马斯及所有武装团体解除武装、以色列国防军撤出加沙、部署国际稳定部队，并将治理职责移交加沙行政国家",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142552",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74gn25q1jdo/trad#2",
       "title": "香港前民主黨主席胡志偉 出獄後赴英面臨遣返",
       "category": "国际",
@@ -1746,24 +1764,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142547",
-      "title": "联合国实况调查团敦促委内瑞拉撤销退出国际刑事法院的决定",
-      "category": "国际",
-      "summary": "联合国委内瑞拉问题国际独立实况调查团周一发表声明，对该国宣布退出《国际刑事法院罗马规约》表示严重关切，并敦促当局撤销这一决定。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142547",
-      "publishedAt": "2026-07-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

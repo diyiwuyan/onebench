@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142586",
+      "title": "人权高专结束访问约旦 呼吁加强司法保障并继续支持难民",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142586",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142587",
+      "title": "伊朗处决和死刑判决数量急剧上升",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142587",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142585",
+      "title": "乌克兰平民伤亡持续增加 联合国谴责俄罗斯新一轮袭击",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142585",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142584",
+      "title": "安理会：联合国警告“伊斯兰国”持续构成威胁",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142584",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142583",
+      "title": "粮食署：“厄尔尼诺”现象或致数千万人陷入急性饥饿",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142583",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142582",
       "title": "非洲人首当其冲承受着生物多样性丧失的后果",
       "meta": "联合国新闻 · 2026/8/4",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/7/28",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142556",
       "publishedAt": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142555",
-      "title": "联合国称：气候灾害加剧 威胁生命安全并重创各国经济",
-      "meta": "联合国新闻 · 2026/7/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142555",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142554",
-      "title": "国际移民组织：人口贩运受害者被迫参与网络诈骗 呼吁加强保护与跨境合作",
-      "meta": "联合国新闻 · 2026/7/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142554",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142553",
-      "title": "《难民公约》通过75周年 联合国发起全球团结倡议呼吁支持难民保护",
-      "meta": "联合国新闻 · 2026/7/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142553",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142552",
-      "title": "中东局势持续紧张 安理会听取加沙、西岸及地区局势通报",
-      "meta": "联合国新闻 · 2026/7/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142552",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142547",
-      "title": "联合国实况调查团敦促委内瑞拉撤销退出国际刑事法院的决定",
-      "meta": "联合国新闻 · 2026/7/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142547",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T19:54:53.298Z",
+  "updatedAt": "2026-08-05T21:32:38.903Z",
   "provider": "OneBench 公共资讯快照"
 }
