@@ -5,11 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#0",
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T08:40:02.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#0",
       "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T06:22:38.000Z"
+      "publishedAt": "2026-08-05T08:20:14.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad#1",
@@ -17,13 +24,6 @@
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T05:16:15.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#0",
-      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
-      "meta": "BBC 中文 · 2026/8/5",
-      "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T02:30:53.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:16:29.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T06:42:09.327Z",
+  "updatedAt": "2026-08-05T10:46:51.783Z",
   "provider": "OneBench 公共资讯快照"
 }
