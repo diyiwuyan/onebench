@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T14:32:59.124Z",
-  "expiresAt": "2026-08-05T20:32:59.124Z",
+  "generatedAt": "2026-08-05T17:53:51.297Z",
+  "expiresAt": "2026-08-05T23:53:51.297Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,168 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672661.shtml",
+      "title": "人贩子“梅姨”真实姓名曝光",
+      "category": "综合",
+      "summary": "8月5日晚，“梅姨”案中被拐儿童钟彬告诉记者，他终于知道了那个曾被称为“梅姨”的人贩子的真实姓名一一谢家梅。他说，自己前两天收到了法院的告知书，案件已进入审查起诉环节，上面明确写着“嫌疑人谢家梅涉及拐卖儿童”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672661.shtml",
+      "publishedAt": "2026-08-05T15:20:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-05/10672660.shtml",
+      "title": "让渔民当“群演”，菲律宾的海上闹剧演给谁看",
+      "category": "综合",
+      "summary": "让渔民当“群演”，菲律宾的海上闹剧演给谁看(环球走笔)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672660.shtml",
+      "publishedAt": "2026-08-05T14:56:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-05/10672659.shtml",
+      "title": "“日本政府正为危险战争做准备”，日本长崎32个团体抗议小泉“拥核论”",
+      "category": "综合",
+      "summary": "【环球网报道】据日本《每日新闻》报道，日本长崎县32个市民团体8月4日召开记者会，对日本防卫大臣小泉进次郎日前发表的“拥核论”提出抗议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672659.shtml",
+      "publishedAt": "2026-08-05T14:53:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-05/10672658.shtml",
+      "title": "零时差 | 美企联名“说不”：中国开源模型如何成为“必选项”？",
+      "category": "综合",
+      "summary": "日前，近200家硅谷初创企业组成的“小型科技协会”联名致信美国政府，明确反对限制本土企业使用中国开放权重人工智能模型。理由很直白：“美国开发者需要继续使用全球已开放获取的模型”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672658.shtml",
+      "publishedAt": "2026-08-05T14:43:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672656.shtml",
+      "title": "宣称对标星巴克、瑞幸，香港网红咖啡门店被曝光，竟是亿级传销骗局",
+      "category": "综合",
+      "summary": "中新网香港8月5日电 (记者 戴小橦)近日，一宗以养生咖啡为外壳、依托虚拟货币高额回报敛财的跨境诈骗案引发港澳社会关注。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672656.shtml",
+      "publishedAt": "2026-08-05T14:41:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672655.shtml",
+      "title": "香港一女子虐待患病幼子致死 获刑22年",
+      "category": "综合",
+      "summary": "中新网香港8月5日电 (记者 戴小橦)香港高等法院5日宣判一起虐童致死案件，一名38岁女子因长期残酷虐待患有发展迟缓疾病的5岁亲生儿子，致使幼童最终因重度营养不良引发并发症死亡。被告早前承认误杀、虐儿两项罪名，法院当庭判处其监禁22年。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672655.shtml",
+      "publishedAt": "2026-08-05T14:39:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-05/10672648.shtml",
+      "title": "今年前7个月海南离岛免税购物额216亿元 同比增长17.9%",
+      "category": "综合",
+      "summary": "中新网海口8月5日电 (王纯豪 谢东良)海口海关5日披露，2026年1-7月海南离岛免税购物金额216亿元，购物人数311.1万人次，购物件数1765.3万件，同比分别增长17.9%、11.9%、6.9%，离岛免税产业延续强劲增长态势。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672648.shtml",
+      "publishedAt": "2026-08-05T14:38:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672647.shtml",
+      "title": "广西崇左白头叶猴保护区启用三维立体模式开展野生猕猴种群调查",
+      "category": "综合",
+      "summary": "中新网崇左8月5日电 (梁霁鹏)广西崇左市林业局5日介绍，崇左白头叶猴国家级自然保护区近日首次启用“无人机航拍+地面手持热成像仪+人工踏查”协同调查模式，全面开展野生猕猴种群专项调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672647.shtml",
+      "publishedAt": "2026-08-05T14:31:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672654.shtml",
+      "title": "如何让基层首诊从“有”到“优”",
+      "category": "综合",
+      "summary": "如何让基层首诊从“有”到“优”(政策问答·回应关切)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672654.shtml",
+      "publishedAt": "2026-08-05T14:31:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-05/10672653.shtml",
       "title": "“暴雨+强对流”双预警 多地多部门全力投入抢险救灾工作",
@@ -410,168 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-05/10672612.shtml",
-      "title": "西藏拉萨打通虫草标准化外贸通道 出口货值达850万元",
-      "category": "综合",
-      "summary": "中新社拉萨8月5日电 (记者 江飞波)西藏自治区拉萨市商务局5日披露，拉萨打通冬虫夏草标准化外贸通道，破解了长期以来依赖邮政小包零散邮寄的出口难题。自2025年11月以来，已实现批量规模化出口货值850万元(人民币，下同)，主要销往香港及东南亚地区。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672612.shtml",
-      "publishedAt": "2026-08-05T14:03:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-05/10672631.shtml",
-      "title": "圆明园兽首掀杭州观展热潮 “国宝”回归牵动人心",
-      "category": "综合",
-      "summary": "中新社杭州8月5日电 (曹丹 施予涵)排队超五小时，只为一睹四尊圆明园兽首真容。这个夏天，在浙江杭州，“再现圆明园——国宝百年归藏特展”正以超乎预期的热度迎接观众。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672631.shtml",
-      "publishedAt": "2026-08-05T14:03:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-05/10672630.shtml",
-      "title": "俄总统普京对国防部及前线指挥官进行部分调整",
-      "category": "综合",
-      "summary": "中新社莫斯科8月5日电 俄罗斯总统普京5日在克里姆林宫与俄国防部领导层举行会议，对国防部及前线作战部队指挥官进行部分人事调整。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672630.shtml",
-      "publishedAt": "2026-08-05T14:03:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-05/10672628.shtml",
-      "title": "泰国消费者信心指数连续第二个月保持高位",
-      "category": "综合",
-      "summary": "中新社曼谷8月5日电 (记者 李映民)泰国商务部贸易政策与战略办公室5日公布的一项针对全国5524名民众的民意调查结果显示，该国7月整体消费者信心指数为51.1，高于上月的50.2，连续第二个月保持在“信心”水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672628.shtml",
-      "publishedAt": "2026-08-05T14:02:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-05/10672614.shtml",
-      "title": "专家学者厦门共话“全球化视野下的月港”",
-      "category": "综合",
-      "summary": "中新社厦门8月5日电 (吴冠标)“大航海时代，月港是中国参与早期海洋全球化的重要桥头堡。”厦门大学博士生导师、海洋学家洪华生5日在厦门表示，发掘、保护月港文化遗产，对建设21世纪海上丝绸之路具有重要现实意义。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672614.shtml",
-      "publishedAt": "2026-08-05T14:02:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-05/10672618.shtml",
-      "title": "广东7月用电量突破千亿千瓦时 折射经济强劲活力",
-      "category": "综合",
-      "summary": "中新社广州8月5日电 (王华 沈甸)中国南方电网广东电网公司5日公布，广东省7月全社会用电量突破千亿千瓦时大关，达1007.98亿千瓦时，成为中国内地首个单月用电量突破千亿千瓦时的省份，强劲的电力需求折射出广东经济的韧性与活力。目前，广东电力运行安全有序、供应充足。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672618.shtml",
-      "publishedAt": "2026-08-05T14:01:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-05/10672611.shtml",
-      "title": "60余个国家、地区和国际组织确认在2026年服贸会设展办会",
-      "category": "综合",
-      "summary": "中新社北京8月5日电 (记者 吕少威)北京市商务局党组成员、北京市国际服务贸易事务中心主任赵旗舟5日表示，目前已有60余个国家、地区和国际组织确认在2026年中国国际服务贸易交易会(简称“服贸会”)设展办会，参会的世界500强和行业龙头企业近300家。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672611.shtml",
-      "publishedAt": "2026-08-05T14:00:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-05/10672610.shtml",
-      "title": "2026红山文化大会开幕 辽冀蒙签署考古研究合作协议",
-      "category": "综合",
-      "summary": "中新社辽宁朝阳8月5日电 (刁海洋 韩宏 王翕瞳)以“红山文化连古今 文明对话向未来”为主题的2026红山文化大会5日在辽宁朝阳举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672610.shtml",
-      "publishedAt": "2026-08-05T14:00:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-05/10672615.shtml",
-      "title": "上海野生动物园为大熊猫“嘉嘉”庆祝14岁生日",
-      "category": "综合",
-      "summary": "中新社上海8月5日电 (陈静 倪丽)上海野生动物园的雌性大熊猫“嘉嘉”5日迎来14岁生日，园方为这位大熊猫“辣妈”线上线下同步举行生日庆典。龙凤胎大熊猫“芊然”“芊逸”同日接受周岁前健康测评。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-05/10672615.shtml",
-      "publishedAt": "2026-08-05T13:57:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#0",
       "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
       "category": "国际",
@@ -793,6 +793,96 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142582",
+      "title": "非洲人首当其冲承受着生物多样性丧失的后果",
+      "category": "国际",
+      "summary": "对于非洲及发展中国家的民众而言，生物多样性危机并非一个抽象的问题——它体现在不再能带来丰收的土地上，也体现在不再游回到近海的鱼群身上。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142582",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142581",
+      "title": "国际贸易中心：霍尔木兹海峡航运中断冲击关键产品供应",
+      "category": "国际",
+      "summary": "世界贸易组织和联合国的联合机构——国际贸易中心在最新一期《全球贸易状况月度简报》中表示，霍尔木兹海峡航运中断已对全球能源、化肥和工业投入品供应造成冲击。尽管部分进口市场已开始通过增加替代供应来源调整采购，但目前仍不足以完全弥补来自依赖霍尔木兹海峡经济体的供应减少。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142581",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142580",
+      "title": "世卫组织：刚果（金）埃博拉疫情扩大 多项治疗和疫苗研究同步推进",
+      "category": "国际",
+      "summary": "世界卫生组织周二表示，刚果民主共和国本迪布焦病毒埃博拉疫情正在持续扩大，规模已超出当前应对能力范围。这是该国迄今为止暴发的最大规模本迪布焦病毒埃博拉疫情，亟需更多资金和资源，以扩大治疗、疫情调查、安全埋葬和社区宣传等各项应对工作。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142580",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142579",
+      "title": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险",
+      "category": "国际",
+      "summary": "世界银行集团周二发布《2026年世界发展报告：人工智能：发展新机遇》指出，人工智能有可能帮助发展中国家在十年内取得原本可能需要上百年才能实现的发展成果，但前提是各国政府必须迅速行动，缩小在电力、网络、技能和制度质量等方面的差距。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142579",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142578",
+      "title": "阿富汗儿童营养不良危机加剧 粮食署警告援助削减将危及生命",
+      "category": "国际",
+      "summary": "世界粮食计划署周二警告，阿富汗儿童营养不良危机持续加剧，但资金短缺却迫使挽救生命的粮食和营养项目缩减规模。如果没有紧急援助，世界粮食计划署及其合作伙伴将无法阻止更多儿童陷入危及生命的营养不良状态，未来数月将有更多儿童面临生命威胁。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142578",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1678,78 +1768,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142546",
-      "title": "教科文组织将六处遗址列入《濒危世界遗产名录》",
-      "category": "国际",
-      "summary": "联合国教科文组织世界遗产委员会周日在韩国釜山举行会议，决定将六处遗址列入《濒危世界遗产名录》，其中三处遗址通过紧急程序列入《世界遗产名录》，并同步列入《濒危世界遗产名录》。委员会表示，武装冲突、气候变化等持续发生的危机正严重影响文化遗产，使其面临重大威胁。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142546",
-      "publishedAt": "2026-07-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142545",
-      "title": "人权高专结束访问黎巴嫩：冲突造成严重人道影响 必须确保问责并推进改革",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周一在结束对黎巴嫩正式访问时表示，黎巴嫩新领导层提出的改革议程为国家带来希望，但近期冲突升级严重冲击了改革进程，造成大量平民伤亡、广泛破坏和大规模流离失所。他呼吁确保违反国际法行为得到调查和问责，继续推进司法独立和法治改革，重建国家与民众之间的信任。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142545",
-      "publishedAt": "2026-07-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142543",
-      "title": "艾滋病规划署：全球艾滋病防控工作陷入停滞 疫情卷土重来风险加剧",
-      "category": "国际",
-      "summary": "联合国艾滋病规划署周一在第26届国际艾滋病大会召开期间发布特别报告指出，国际资金减少以及艾滋病预防和社区服务削减，使全球艾滋病防控工作陷入停滞，疫情卷土重来的风险正在加剧。报告警告，如果不立即采取行动实现2030年目标，到2030年全球艾滋病病毒新发感染病例可能超过300万例。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142543",
-      "publishedAt": "2026-07-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142544",
-      "title": "安理会审议乌克兰局势 联合国呼吁立即停火并重启外交努力",
-      "category": "国际",
-      "summary": "安理会周一举行会议，审议乌克兰局势。联合国官员表示，近期俄罗斯加剧空袭，乌克兰境内平民伤亡持续增加，俄罗斯境内平民伤亡报告也在上升，黑海港口、粮食出口、核设施安全及人道主义局势均令人关切。联合国呼吁各方遵守国际人道法，保护平民和民用基础设施，恢复对话与包容性谈判，实现立即、全面、无条件停火。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142544",
-      "publishedAt": "2026-07-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad#4",
       "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
       "category": "国际",
@@ -1780,24 +1798,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142542",
-      "title": "叙利亚重获新生的希望取决于重建信任、重振生活和恢复生计",
-      "category": "国际",
-      "summary": "叙利亚这个长期被誉为“文明交汇点”的国家，再次站在了十字路口。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142542",
-      "publishedAt": "2026-07-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142582",
+      "title": "非洲人首当其冲承受着生物多样性丧失的后果",
+      "meta": "联合国新闻 · 2026/8/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142582",
+      "publishedAt": "2026-08-04T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142581",
+      "title": "国际贸易中心：霍尔木兹海峡航运中断冲击关键产品供应",
+      "meta": "联合国新闻 · 2026/8/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142581",
+      "publishedAt": "2026-08-04T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142580",
+      "title": "世卫组织：刚果（金）埃博拉疫情扩大 多项治疗和疫苗研究同步推进",
+      "meta": "联合国新闻 · 2026/8/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142580",
+      "publishedAt": "2026-08-04T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142579",
+      "title": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险",
+      "meta": "联合国新闻 · 2026/8/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142579",
+      "publishedAt": "2026-08-04T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142578",
+      "title": "阿富汗儿童营养不良危机加剧 粮食署警告援助削减将危及生命",
+      "meta": "联合国新闻 · 2026/8/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142578",
+      "publishedAt": "2026-08-04T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142577",
       "title": "苏丹无人机空袭威胁平民及人道主义救援行动",
       "meta": "联合国新闻 · 2026/8/3",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/7/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142547",
       "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142546",
-      "title": "教科文组织将六处遗址列入《濒危世界遗产名录》",
-      "meta": "联合国新闻 · 2026/7/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142546",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142545",
-      "title": "人权高专结束访问黎巴嫩：冲突造成严重人道影响 必须确保问责并推进改革",
-      "meta": "联合国新闻 · 2026/7/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142545",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142543",
-      "title": "艾滋病规划署：全球艾滋病防控工作陷入停滞 疫情卷土重来风险加剧",
-      "meta": "联合国新闻 · 2026/7/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142543",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142544",
-      "title": "安理会审议乌克兰局势 联合国呼吁立即停火并重启外交努力",
-      "meta": "联合国新闻 · 2026/7/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142544",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142542",
-      "title": "叙利亚重获新生的希望取决于重建信任、重振生活和恢复生计",
-      "meta": "联合国新闻 · 2026/7/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142542",
-      "publishedAt": "2026-07-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T14:32:59.124Z",
+  "updatedAt": "2026-08-05T17:53:51.297Z",
   "provider": "OneBench 公共资讯快照"
 }
