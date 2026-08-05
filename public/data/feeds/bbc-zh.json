@@ -5,14 +5,28 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#0",
+      "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T06:22:38.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad#1",
+      "title": "月經週期：什麼是「黃體期變醜」？如何影響女性？",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T05:16:15.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#0",
-      "title": "台灣「漢光演習」四大看點：首次阻絕淡江大橋、動員民用工廠產武器",
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T02:30:53.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#1",
       "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
@@ -103,14 +117,14 @@
       "publishedAt": "2026-08-03T11:17:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/trad#5",
       "title": "台灣物流商成「審書人」：香港國安法如何改變跨境圖書供應鏈？",
       "meta": "BBC 中文 · 2026/8/3",
       "url": "https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-03T08:05:32.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#5",
       "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
       "meta": "BBC 中文 · 2026/8/3",
       "url": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +136,6 @@
       "meta": "BBC 中文 · 2026/8/3",
       "url": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-03T00:01:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad#5",
-      "title": "西班牙移民危機如何引發政治風暴 社交媒體推波助瀾",
-      "meta": "BBC 中文 · 2026/8/2",
-      "url": "https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T09:38:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad#4",
@@ -157,13 +164,6 @@
       "meta": "BBC 中文 · 2026/7/29",
       "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T11:14:21.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad#5",
-      "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
-      "meta": "BBC 中文 · 2026/7/29",
-      "url": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T00:22:01.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2kqgn3n3ro/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:16:29.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T03:32:48.036Z",
+  "updatedAt": "2026-08-05T06:42:09.327Z",
   "provider": "OneBench 公共资讯快照"
 }
