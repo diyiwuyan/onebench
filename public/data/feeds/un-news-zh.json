@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142588",
+      "title": "困在霍尔木兹海峡的船只面临另一种威胁",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142588",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142586",
       "title": "人权高专结束访问约旦 呼吁加强司法保障并继续支持难民",
       "meta": "联合国新闻 · 2026/8/5",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/7/29",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142548",
       "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142556",
-      "title": "【前方视野】黄金与阿拉伯胶——苏丹战争的重要资金来源",
-      "meta": "联合国新闻 · 2026/7/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142556",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T23:18:02.533Z",
+  "updatedAt": "2026-08-06T03:37:27.170Z",
   "provider": "OneBench 公共资讯快照"
 }
