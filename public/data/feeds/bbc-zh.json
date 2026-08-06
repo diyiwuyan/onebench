@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#0",
+      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T13:34:05.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad#0",
       "title": "SpaceX火箭殘骸據信擊中了月球，科學家能學到甚麼？",
       "meta": "BBC 中文 · 2026/8/6",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-08-06T00:36:59.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#1",
       "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-08-05T00:03:04.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad#5",
       "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad?at_medium=RSS&at_campaign=rss",
@@ -129,13 +136,6 @@
       "meta": "BBC 中文 · 2026/8/4",
       "url": "https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T11:15:40.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad#5",
-      "title": "「台灣出版、香港銷售」模式受阻，書商如何在紅線下找出路？",
-      "meta": "BBC 中文 · 2026/8/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T01:17:05.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-06T10:49:04.233Z",
+  "updatedAt": "2026-08-06T14:35:03.212Z",
   "provider": "OneBench 公共资讯快照"
 }
