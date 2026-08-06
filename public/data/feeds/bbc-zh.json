@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad#0",
+      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:59:42.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#1",
       "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad?at_medium=RSS&at_campaign=rss",
@@ -124,7 +131,7 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#4",
       "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
       "meta": "BBC 中文 · 2026/8/3",
       "url": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
@@ -201,13 +208,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad#4",
-      "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
-      "meta": "BBC 中文 · 2026/7/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T09:19:49.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad#3",
       "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
       "meta": "BBC 中文 · 2026/7/24",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-06T03:37:27.170Z",
+  "updatedAt": "2026-08-06T06:46:09.067Z",
   "provider": "OneBench 公共资讯快照"
 }
