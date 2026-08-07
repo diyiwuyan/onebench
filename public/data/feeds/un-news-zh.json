@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142589",
+      "title": "儿基会：加沙停火300天 至少300名儿童遇难",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142589",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142588",
       "title": "困在霍尔木兹海峡的船只面临另一种威胁",
       "meta": "联合国新闻 · 2026/8/5",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/7/29",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142558",
       "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142548",
-      "title": "【子午播报】2026年7月29日",
-      "meta": "联合国新闻 · 2026/7/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142548",
-      "publishedAt": "2026-07-29T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-06T14:35:03.212Z",
+  "updatedAt": "2026-08-07T00:15:53.445Z",
   "provider": "OneBench 公共资讯快照"
 }

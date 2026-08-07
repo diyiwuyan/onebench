@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#0",
+      "title": "一半疫苗被丟棄讓人不解，免冷藏版本有望減少浪費",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T00:06:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad#0",
+      "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T00:06:39.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#0",
       "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
       "meta": "BBC 中文 · 2026/8/6",
@@ -12,7 +26,7 @@
       "publishedAt": "2026-08-06T13:34:05.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad#1",
       "title": "SpaceX火箭殘骸據信擊中了月球，科學家能學到甚麼？",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad?at_medium=RSS&at_campaign=rss",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-08-06T09:13:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad#1",
       "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad?at_medium=RSS&at_campaign=rss",
@@ -103,14 +117,7 @@
       "publishedAt": "2026-08-05T00:02:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad#1",
-      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
-      "meta": "BBC 中文 · 2026/8/4",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T12:36:25.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#4",
       "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
       "meta": "BBC 中文 · 2026/8/4",
       "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
@@ -166,13 +173,6 @@
       "publishedAt": "2026-08-03T01:19:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad#4",
-      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
-      "meta": "BBC 中文 · 2026/8/3",
-      "url": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T00:01:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad#4",
       "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
       "meta": "BBC 中文 · 2026/8/2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-06T14:35:03.212Z",
+  "updatedAt": "2026-08-07T00:15:53.445Z",
   "provider": "OneBench 公共资讯快照"
 }
