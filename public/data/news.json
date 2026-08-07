@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T00:15:53.445Z",
-  "expiresAt": "2026-08-07T06:15:53.445Z",
+  "generatedAt": "2026-08-07T03:19:00.442Z",
+  "expiresAt": "2026-08-07T09:19:00.442Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,20 +32,595 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673324.shtml",
-      "title": "什么是柔性制造？如何高效匹配差异化需求？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673482.shtml",
+      "title": "叙利亚大马士革农村省爆炸致2死13伤",
       "category": "综合",
-      "summary": "柔性制造，高效匹配差异化需求(经济新方位·制造业新趋势)",
+      "summary": "中新社北京8月7日电 大马士革消息：当地时间8月6日，叙利亚大马士革农村省一小巴发生爆炸，造成至少2人死亡、13人受伤，地方政府将此次袭击定性为恐袭。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673324.shtml",
-      "publishedAt": "2026-08-07T00:08:24.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673482.shtml",
+      "publishedAt": "2026-08-07T03:16:30.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673493.shtml",
+      "title": "“家事”与“国事”",
+      "category": "综合",
+      "summary": "“老百姓想什么，共产党就干什么。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673493.shtml",
+      "publishedAt": "2026-08-07T03:12:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673453.shtml",
+      "title": "山西省发布山洪灾害气象风险红色预警",
+      "category": "综合",
+      "summary": "中新网8月7日电 据中央气象台网站消息，山西省水利厅和山西省气象局2026年8月7日8时00分联合发布山洪灾害气象风险预警：2026年8月7日8时至8月8日8时，受强降雨影响，山西省阳泉市南部1个县发生山洪的可能性很大(红色预警)；阳泉市北部和中部、晋中市东北部2个市5个县发生山洪的可能性大(橙色预警)；忻州市东南部、晋中市东部2个市2个县发生山洪的可能性较",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673453.shtml",
+      "publishedAt": "2026-08-07T03:10:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673429.shtml",
+      "title": "北京市发布积水内涝风险蓝色预警",
+      "category": "综合",
+      "summary": "中新网8月7日电 据“气象北京”官方微博消息，北京市水务局与北京市气象局2026年8月7日9时联合发布积水内涝风险蓝色预警。预计8月7日12时至8日8时，北京市海淀区、石景山区存在积水内涝中等风险(黄色风险)，其他城区存在积水内涝一般风险(蓝色风险)。请广大市民关注天气形势及雨水情变化，出行尽量避开低洼处，同时做好地下空间防护工作。 #8203;#8203;",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673429.shtml",
+      "publishedAt": "2026-08-07T03:07:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673484.shtml",
+      "title": "日本新版《防卫白皮书》，满篇野心和谎言（钟声）",
+      "category": "综合",
+      "summary": "新版《防卫白皮书》字里行间透出的，已非战后日本标榜的“专守防卫”原则，而是一颗被军国主义余毒浸泡已久的野心",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673484.shtml",
+      "publishedAt": "2026-08-07T03:07:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673436.shtml",
+      "title": "北京市发布地质灾害气象风险蓝色预警",
+      "category": "综合",
+      "summary": "中新网8月7日电 据“气象北京”官方微博消息，北京市规划自然资源委联合北京市气象局2026年8月7日09时发布地质灾害气象风险蓝色预警：8月7日14时至8月8日14时，北京市山区有发生崩塌、滑坡、泥石流等地质灾害的风险(蓝色预警)，请注意防范。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673436.shtml",
+      "publishedAt": "2026-08-07T03:06:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673425.shtml",
+      "title": "宁夏回族自治区发布雷电黄色预警信号",
+      "category": "综合",
+      "summary": "中新网8月7日电 据中央气象台网站消息，宁夏回族自治区气象台2026年08月07日09时50分发布雷电黄色预警信号：预计今天午后到前半夜，贺兰山沿山、兴庆区、灵武市东北部、盐池县、同心县东南部、海原县东部及固原市将有分散性雷电天气，部分乡镇伴有短时强降水、雷暴大风等强对流天气，请相关部门和广大群众注意预防。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673425.shtml",
+      "publishedAt": "2026-08-07T03:03:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673415.shtml",
+      "title": "北京市发布山洪灾害风险黄色预警",
+      "category": "综合",
+      "summary": "中新网8月7日电 据“气象北京”官方微博消息，北京市水务局与北京市气象局2026年8月7日9时联合发布山洪灾害风险黄色预警。预计8月7日12时至8日8时，北京市石景山区、门头沟区发生山洪灾害可能性大(橙色风险)，其他山区发生山洪灾害可能性较大(黄色风险)。请公众远离山洪沟道，暂停涉山涉水户外活动，防范山洪灾害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673415.shtml",
+      "publishedAt": "2026-08-07T03:02:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673476.shtml",
+      "title": "强降雨易发生次生灾害，如何避险？做好这几点",
+      "category": "综合",
+      "summary": "8月4日",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673476.shtml",
+      "publishedAt": "2026-08-07T03:00:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673410.shtml",
+      "title": "献血屋暴雨时阻拦群众入内避雨？山西忻州血站回应",
+      "category": "综合",
+      "summary": "中新网8月7日电 据“山西省忻州市中心血站”微信公众号消息，8月6日，忻州市中心血站针对“献血屋暴雨时阻拦群众入内避雨”事件进行回应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673410.shtml",
+      "publishedAt": "2026-08-07T02:58:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673468.shtml",
+      "title": "防汛关键期 多地以创新思维增强防灾减灾救灾能力",
+      "category": "综合",
+      "summary": "多地以创新思维增强防灾减灾救灾能力",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673468.shtml",
+      "publishedAt": "2026-08-07T02:56:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673465.shtml",
+      "title": "风光赋能产绿氨 吉林小城产品远航“五洲”",
+      "category": "综合",
+      "summary": "中新网白城8月7日电 (高龙安 李彦国)走进位于吉林西部(大安)清洁能源化工产业园区的国家电投集团“氢洲·大安绿氨”示范项目，不见废烟、废水，周边遍布深蓝的光伏板、白色的风力发电机组、银色的电力铁塔，高压输电线、公路网与葱绿的原野交织，绘就一幅自然生态与现代科技相融的画卷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673465.shtml",
+      "publishedAt": "2026-08-07T02:55:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673466.shtml",
+      "title": "河北启动重大气象灾害（暴雨）Ⅳ级应急响应",
+      "category": "综合",
+      "summary": "中新网石家庄8月7日电(赵丹媚 冯艳蕊)河北省气象灾害防御指挥部于8月7日9时启动重大气象灾害(暴雨)Ⅳ级应急响应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673466.shtml",
+      "publishedAt": "2026-08-07T02:55:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673464.shtml",
+      "title": "（长江十年行）三峡文脉传承寻“妙法” 科技赋能古迹更“年轻”",
+      "category": "综合",
+      "summary": "中新网重庆8月7日电 题：三峡文脉传承寻“妙法” 科技赋能古迹更“年轻”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673464.shtml",
+      "publishedAt": "2026-08-07T02:55:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673463.shtml",
+      "title": "评论：破局价值转化难题 让绿水青山永续产出金山银山",
+      "category": "综合",
+      "summary": "中新网长春8月7日电 (记者 李彦国 张瑶)坐拥优质生态资源，如何走出“守着山水难致富”的困局？如何杜绝短期化粗放开发、避免透支生态本底，实现生态优势向发展优势的长效转化？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673463.shtml",
+      "publishedAt": "2026-08-07T02:53:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad#0",
+      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
+      "category": "国际",
+      "summary": "美國總統特朗普（川普）簽署行政命令，禁止生育旅遊，並擴大了對不符合美國出生公民權資格的兒童的定義。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T02:50:00.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673461.shtml",
+      "title": "前7个月我国货物贸易进出口超30万亿元",
+      "category": "综合",
+      "summary": "央视网消息：海关总署8月7日发布数据显示，2026年前7个月，我国货物贸易进出口延续良好增长态势，总值达到30.13万亿元，同比增长17.3%。其中，出口17.44万亿元，增长14%；进口12.69万亿元，增长22%，进口增速继续快于出口。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673461.shtml",
+      "publishedAt": "2026-08-07T02:49:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673370.shtml",
+      "title": "法国卫生部确认一名曾在法国度假的游客感染汉坦病毒",
+      "category": "综合",
+      "summary": "中新网巴黎8月7日电 法国卫生部当地时间6日确认一名曾在法国度假的游客感染汉坦病毒。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673370.shtml",
+      "publishedAt": "2026-08-07T02:46:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673369.shtml",
+      "title": "德国联邦检察院接管莱比锡机场携爆无人机事件调查",
+      "category": "综合",
+      "summary": "中新网柏林8月7日电 德国联邦检察院6日宣布，已接管莱比锡机场携带爆炸装置无人机事件的调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673369.shtml",
+      "publishedAt": "2026-08-07T02:46:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673344.shtml",
+      "title": "巴安全部队在俾路支省清剿恐怖分子已击毙12人",
+      "category": "综合",
+      "summary": "中新社北京8月7日电 伊斯兰堡消息：当地时间8月6日，巴基斯坦三军新闻局发布声明称，巴安全部队5日至6日在俾路支省瓦舒克(Washuk)和马斯通(Mastung)两地接连开展两场情报导向反恐行动，累计击毙12名恐怖分子。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673344.shtml",
+      "publishedAt": "2026-08-07T02:46:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673417.shtml",
+      "title": "Meta被判支付5.67亿美元赔偿金，回应称将上诉",
+      "category": "综合",
+      "summary": "中新网8月7日电 据法新社报道，当地时间8月6日，美国新墨西哥州一名法官下令，Instagram、Facebook和WhatsApp母公司Meta需支付5.67亿美元赔偿金，以应对旗下平台对青少年造成的影响。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673417.shtml",
+      "publishedAt": "2026-08-07T02:45:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-07/10673451.shtml",
+      "title": "2026“亲情中华·中国寻根之旅”夏令营辽宁营开营",
+      "category": "综合",
+      "summary": "中新网沈阳8月7日电 (记者 李晛)8月6日，2026“亲情中华·中国寻根之旅”夏令营辽宁营开营。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-07/10673451.shtml",
+      "publishedAt": "2026-08-07T02:42:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673447.shtml",
+      "title": "聚焦“多元储能”“新型电池” 中国科协年会举办两场专题论坛",
+      "category": "综合",
+      "summary": "中新网北京8月7日电 (记者 孙自法)第二十八届中国科协年会“多元储能(含抽水蓄能、新型储能)的智能调控与安全运行”“新型电池与储能关键材料的技术突破与跨学科协同路径”专题论坛，最近在北京分别举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673447.shtml",
+      "publishedAt": "2026-08-07T02:42:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673452.shtml",
+      "title": "8月7日北京预计迎短时强降水 启动全市防汛四级应急响应",
+      "category": "综合",
+      "summary": "中新网北京8月7日电 (记者 陈杭)北京市气象台7日9时发布暴雨蓝色预警信号：预计7日12时至23时，北京市将出现小时雨量30毫米以上的短时强降水，其中，延庆、怀柔、密云、昌平、门头沟、房山等区将出现小时雨量50毫米以上的短时强降水，6小时降雨量可达70毫米以上，请注意防范。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673452.shtml",
+      "publishedAt": "2026-08-07T02:41:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673445.shtml",
+      "title": "23名台湾青年法律人才在沪完成“职场初体验”",
+      "category": "综合",
+      "summary": "中新网上海8月7日电(记者 缪璐)2026“台湾青年法律人才实践基地”结业仪式6日在华东政法大学长宁校区举行。23名台湾青年圆满完成为期一个月的实践学习，顺利结业。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673445.shtml",
+      "publishedAt": "2026-08-07T02:41:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673440.shtml",
+      "title": "（活力中国调研行）“科漂”不漂泊 合肥吸引科技人才“近悦远来”",
+      "category": "综合",
+      "summary": "中新网合肥8月7日电 (记者 周昕 储玮玮)你听说过“科漂”吗？“科漂”一词源自合肥，指的是奔赴安徽奔赴合肥、深耕科技成果转化、追逐科创创业梦想的科技创新人才。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673440.shtml",
+      "publishedAt": "2026-08-07T02:41:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673434.shtml",
+      "title": "北极变暖如何影响西伯利亚冻土？最新研究称甲烷排放加速增长",
+      "category": "综合",
+      "summary": "中新网北京8月7日电 (记者 孙自法)在全球变暖大背景下，北极的快速变暖对西伯利亚地区多年冻土有何影响？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673434.shtml",
+      "publishedAt": "2026-08-07T02:40:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-07/10673443.shtml",
+      "title": "美国大学生足球队走进海南琼中：数千民众齐唱黎歌致远客",
+      "category": "综合",
+      "summary": "中新网海南琼中8月7日电 (记者 王晓斌 李宇凡)当美国宾州大学生足球队走进海南琼中黎族苗族自治县的球场时，看台上数千名观众爆发出掌声与欢呼。这支今年刚成立的队伍未料到在遥远的中国海南中部山区，会迎来如此热烈的回应。8月6日傍晚，琼中县历史上首场中美足球友谊赛，在数千人的注视下开球。赛后，观众齐唱黎族民歌，向远道而来的客人致意。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-07/10673443.shtml",
+      "publishedAt": "2026-08-07T02:39:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673435.shtml",
+      "title": "四川会理：火把盛会“燃”川滇交界 千年古城迎八方来客",
+      "category": "综合",
+      "summary": "中新网凉山8月7日电 题：四川会理：火把盛会“燃”川滇交界 千年古城迎八方来客",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673435.shtml",
+      "publishedAt": "2026-08-07T02:39:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-07/10673439.shtml",
+      "title": "侨乡泉州智造筑基绘就产城共生新图景",
+      "category": "综合",
+      "summary": "中新网泉州8月7日电 (记者 孙虹)走进泉州洛江区铁拓机械5G智能产业园，焊接机械臂自动完成焊接工序，AGV小车穿梭转运各类物料，中控大屏实时滚动全车间生产参数……作为福建省首家登陆北交所的装备制造业民营企业，这里是侨乡泉州智能装备产业链迭代升级的鲜活样本。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-07/10673439.shtml",
+      "publishedAt": "2026-08-07T02:38:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-07/10673450.shtml",
+      "title": "突破地域限制 网络平台成多款新药首发渠道",
+      "category": "综合",
+      "summary": "让药品更好触达患者",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-07/10673450.shtml",
+      "publishedAt": "2026-08-07T02:38:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113144",
+      "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
+      "category": "科技",
+      "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113144",
+      "publishedAt": "2026-08-07T02:15:51.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113162",
+      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+      "category": "科技",
+      "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113162",
+      "publishedAt": "2026-08-07T00:51:06.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -80,528 +655,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673323.shtml",
-      "title": "收到税务提醒后，平台内经营者该如何自查整改",
-      "category": "综合",
-      "summary": "《互联网平台企业涉税信息报送规定》已实施一年，平台企业涉税信息报送制度体系初步建立，数据归集与比对机制日趋完善。前期，税务部门集中曝光了一批网红网店偷税案件，让越来越多的平台内经营者意识到：依法合规经营才是长远之道。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673323.shtml",
-      "publishedAt": "2026-08-07T00:02:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673322.shtml",
-      "title": "2000余年种植史、宋代文豪点赞，这座小城用一缕清香“麻”翻全国",
-      "category": "综合",
-      "summary": "近期，正值藤椒采收季，在四川省眉山市洪雅县，椒农们紧跟农时，穿梭在漫山的藤椒树中忙碌着。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673322.shtml",
-      "publishedAt": "2026-08-06T23:59:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673320.shtml",
-      "title": "特朗普承认：美国某些弹药供应相对紧张",
-      "category": "综合",
-      "summary": "中新网8月7日电 据路透社报道，美国总统特朗普6日对记者表示，他认为与伊朗的冲突很快就会结束，并称美军在某些武器的供应方面遇到了一些问题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673320.shtml",
-      "publishedAt": "2026-08-06T23:58:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-07/10673319.shtml",
-      "title": "今日立秋，养生千万避开六大误区（附食补指南）",
-      "category": "综合",
-      "summary": "8月7日迎来立秋节气#127810;",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-07/10673319.shtml",
-      "publishedAt": "2026-08-06T23:46:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673318.shtml",
-      "title": "服务实体经济 财政金融打出“组合拳”",
-      "category": "综合",
-      "summary": "今年中央财政安排1000亿元专项资金，推出财政金融协同促内需一揽子政策，统筹推进促消费与扩投资。上半年，这项宏观调控创新举措进一步打开财政政策发力空间，提升金融服务实体经济的质效，实现“1+1＞2”的政策效果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673318.shtml",
-      "publishedAt": "2026-08-06T23:39:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-07/10673317.shtml",
-      "title": "内容比宣发更重要！“有共鸣的故事”让年轻人奔向电影院",
-      "category": "综合",
-      "summary": "受访者认为电影内容比宣发、流量更重要",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-07/10673317.shtml",
-      "publishedAt": "2026-08-06T23:37:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673316.shtml",
-      "title": "如果AI能拿菲尔兹奖，人类还剩下什么",
-      "category": "综合",
-      "summary": "AI似乎进一步“开智”了。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673316.shtml",
-      "publishedAt": "2026-08-06T23:33:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673314.shtml",
-      "title": "热浪催生“凉”机，夏日消费火力全开",
-      "category": "综合",
-      "summary": "家电市场、防晒经济、避暑文旅全面升温",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673314.shtml",
-      "publishedAt": "2026-08-06T23:27:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673311.shtml",
-      "title": "“白海豚”逐渐向华东沿海靠近 或在浙江到福建北部沿海地区登陆",
-      "category": "综合",
-      "summary": "中新网8月7日电 据中央气象台网站7日消息，中央气象台8月7日06时继续发布台风黄色预警：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673311.shtml",
-      "publishedAt": "2026-08-06T23:26:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673313.shtml",
-      "title": "AI陪伴：懂你也可能坑你",
-      "category": "综合",
-      "summary": "聊天搭子、情感代糖、知心朋友……",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673313.shtml",
-      "publishedAt": "2026-08-06T23:25:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673312.shtml",
-      "title": "特朗普签署公告 对多晶硅及衍生产品实施限价与关税措施",
-      "category": "综合",
-      "summary": "中新网8月7日电 综合外媒报道，白宫发表消息称，美国总统特朗普6日签署总统公告，依据《1962年贸易扩展法》第232条，对进口多晶硅及其衍生产品采取最低进口限价和加征关税措施，以支持美国国内供应链。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673312.shtml",
-      "publishedAt": "2026-08-06T23:22:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673310.shtml",
-      "title": "伊媒：格什姆岛附近爆炸声系打击“敌对目标”所致",
-      "category": "综合",
-      "summary": "中新网8月7日电 据卡塔尔半岛电视台援引伊朗塔斯尼姆通讯社6日报道，知情人士称，伊朗格什姆岛附近当晚传出的两次爆炸声系伊朗在霍尔木兹海峡入口处对“敌对目标”采取行动所致。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673310.shtml",
-      "publishedAt": "2026-08-06T23:16:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673309.shtml",
-      "title": "7月份中国仓储指数保持扩张 行业运行韧性较强",
-      "category": "综合",
-      "summary": "中国物流与采购联合会今天(7日)公布7月份中国仓储指数。指数连续两个月运行在50%以上的扩张区间。总体来看，仓储行业在季节性气候和极端天气扰动下仍保持扩张，行业运行具有较强韧性。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673309.shtml",
-      "publishedAt": "2026-08-06T23:11:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673307.shtml",
-      "title": "特朗普再签行政令 禁止“生育旅游”收紧“出生公民权”",
-      "category": "综合",
-      "summary": "中新网8月7日电 综合报道，美国总统特朗普6日签署两项行政令，收紧“出生公民权”适用范围，并禁止赴美生育从而使新生儿获得美国公民身份的“生育旅游”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673307.shtml",
-      "publishedAt": "2026-08-06T22:56:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-07/10673306.shtml",
-      "title": "8月7日新闻早报",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-07/10673306.shtml",
-      "publishedAt": "2026-08-06T22:54:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673305.shtml",
-      "title": "立下中国新坐标！最新版月球“说明书”高清细节图来了",
-      "category": "综合",
-      "summary": "对月球的认知",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673305.shtml",
-      "publishedAt": "2026-08-06T22:16:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673304.shtml",
-      "title": "金价大反弹！黄金以旧换新业务火热，记者探访",
-      "category": "综合",
-      "summary": "国际金价冲高",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673304.shtml",
-      "publishedAt": "2026-08-06T22:09:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673303.shtml",
-      "title": "健身、穿搭、诊疗 AI加速融入千行百业 新职业不断涌现",
-      "category": "综合",
-      "summary": "当AI教练帮你定制健身方案，当AI试衣镜为你一键搭配穿搭，当AI大模型在诊室里读懂一张眼底照片——人工智能早已不是实验室里的前沿科技，而是深度落地千行百业的“新帮手”。从培训到时尚，从医疗到更多领域，AI正以前所未有的速度重塑产业格局，也悄然改写着无数人的职业轨迹。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673303.shtml",
-      "publishedAt": "2026-08-06T22:07:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673302.shtml",
-      "title": "耗水激增 美国AI数据中心引发民众担忧",
-      "category": "综合",
-      "summary": "为巩固人工智能领域竞争优势，美国政商界持续加码各地数据中心的新建和扩建项目。但支撑AI算力的海量服务器，不仅耗电，还会耗费大量的水资源，尤其是大量新增数据中心偏偏选址在缺水区域，引发美国民众的质疑与反对。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673302.shtml",
-      "publishedAt": "2026-08-06T22:04:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673301.shtml",
-      "title": "好店不再“藏在深巷”，数字化帮扶让“名特优新”被看见",
-      "category": "综合",
-      "summary": "当前，千千万万的个体工商户在线上经营过程中，常常面临缺乏曝光机会、缺乏渠道对接、好产品没有好销量等难题，即便是“名特优新”商户也不例外。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673301.shtml",
-      "publishedAt": "2026-08-06T22:02:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673300.shtml",
-      "title": "多国刷新高温纪录 中欧遭遇近年来最强热浪",
-      "category": "综合",
-      "summary": "当地时间8月6日，斯洛伐克气象部门表示，位于大克尔季什县的下普拉赫廷采当天下午气温达到42摄氏度，再次刷新斯洛伐克有气象记录以来的全国最高气温纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673300.shtml",
-      "publishedAt": "2026-08-06T22:00:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673299.shtml",
-      "title": "中国经贸治理体系一次重要升级——专家解读中国首例对外贸易国家安全调查",
-      "category": "综合",
-      "summary": "新华社北京8月6日电 题：中国经贸治理体系一次重要升级——专家解读中国首例对外贸易国家安全调查",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673299.shtml",
-      "publishedAt": "2026-08-06T21:52:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673298.shtml",
-      "title": "综述丨巨额关税退款难以惠及美国消费者",
-      "category": "综合",
-      "summary": "新华社纽约8月6日电 综述｜巨额关税退款难以惠及美国消费者",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673298.shtml",
-      "publishedAt": "2026-08-06T21:49:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673297.shtml",
-      "title": "天文望远镜观测到“猎鹰9”火箭残骸撞击月球迹象",
-      "category": "综合",
-      "summary": "新华社洛杉矶8月6日电(记者高山)欧洲南方天文台表示，其位于智利的甚大望远镜观测到美国太空探索技术公司废弃的一枚“猎鹰9”号火箭残骸在美国东部时间5日凌晨撞击月球的相关迹象。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673297.shtml",
-      "publishedAt": "2026-08-06T21:48:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673296.shtml",
-      "title": "德国6月工业新订单连续第二个月环比增长",
-      "category": "综合",
-      "summary": "中新社柏林8月6日电 (记者 马秀秀)德国联邦统计局6日公布的数据显示，经季节和工作日调整后，受大量大额订单推动，德国6月工业新订单环比增长3.1%，明显高于经济学家此前预期的0.3%。这也是德国工业新订单连续第二个月增长。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673296.shtml",
-      "publishedAt": "2026-08-06T21:45:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673295.shtml",
-      "title": "俄外交部：和平发展道路是日本唯一明智选择",
-      "category": "综合",
-      "summary": "中新社莫斯科8月6日电 俄罗斯外交部信息与出版司副司长法捷耶夫6日在例行记者会上表示，日本加速“再军事化”对全球和地区安全造成负面影响，并呼吁日方以史为鉴，和平发展道路是其唯一明智选择。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673295.shtml",
-      "publishedAt": "2026-08-06T21:44:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673294.shtml",
-      "title": "电力故障引发英格兰北部铁路大面积瘫痪",
-      "category": "综合",
-      "summary": "中新社伦敦8月6日电 (记者 欧阳开宇)当地时间8月6日，英国曼彻斯特铁路运营通信中心突发电力故障，造成英格兰北部铁路系统大面积瘫痪，多条干线列车取消或延误，大量旅客滞留。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673294.shtml",
-      "publishedAt": "2026-08-06T21:43:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673293.shtml",
-      "title": "德国北威州两辆有轨电车相撞致约25人受伤",
-      "category": "综合",
-      "summary": "中新社柏林8月6日电 德国北莱茵-威斯特法伦州盖尔森基兴市6日发生两辆有轨电车相撞事故，造成约25人受伤，其中3人伤势危及生命。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673293.shtml",
-      "publishedAt": "2026-08-06T21:42:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673292.shtml",
-      "title": "尼泊尔一客车撞桥墩致1死19伤",
-      "category": "综合",
-      "summary": "中新社加德满都8月6日电 (记者 崔楠)尼泊尔加德满都谷地勒利德布尔市6日发生一起交通事故，一辆客车撞上正在建设中的高架桥桥墩，造成1人身亡、19人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673292.shtml",
-      "publishedAt": "2026-08-06T21:40:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -728,7 +781,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad#1",
       "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
       "category": "国际",
       "summary": "這支受到國際足協（FIFA）認可的女子隊隊員表示，足球給予她們自由和獨立。",
@@ -940,7 +993,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#5",
       "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
       "category": "国际",
       "summary": "楠榜省被稱為印尼首個利用中國先進影像衛星技術的省份，能夠探測患病樹木，甚至某個地區的黃金蘊藏量。一些人士對資料安全表示憂慮。",
@@ -1045,24 +1098,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113087",
-      "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
-      "category": "科技",
-      "summary": "索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113087",
-      "publishedAt": "2026-08-05T00:30:43.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#4",
       "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
       "category": "国际",
@@ -1071,23 +1106,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T00:03:04.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad#5",
-      "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
-      "category": "国际",
-      "summary": "日本抗議中國在東海新設構造物；剛出爐的防衛白皮書指中國為「前所未有最大戰略挑戰」。分析人士懷疑北京是否藉灰色地帶策略試探美國對印太盟友的承諾。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T00:02:45.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1280,24 +1298,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/74342",
       "publishedAt": "2026-08-04T10:42:08.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/prime/story/home-made-beverages-3",
-      "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
-      "category": "科技",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐之前说的液体物料只是把最常用的几类跟大家分享一下，其实还有非常多好喝的好用的液体物料无法一一说明，后边配方中如果需要会顺带介绍。这篇聊一聊固 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/prime/story/home-made-beverages-3",
-      "publishedAt": "2026-08-04T09:54:35.000Z",
       "tags": [
         "科技",
         "效率",
