@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T05:50:41.353Z",
-  "expiresAt": "2026-08-07T11:50:41.353Z",
+  "generatedAt": "2026-08-07T07:41:27.510Z",
+  "expiresAt": "2026-08-07T13:41:27.510Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673568.shtml",
-      "title": "宁夏原州网纹瓜错峰上市 数字农业铺就甜蜜致富路",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#0",
+      "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
+      "category": "国际",
+      "summary": "曼谷西北面市郊一家學校發生槍擊事件，槍手據稱是一名14歲男生。當局懷疑他在到學校逞兇前先殺害了自己的祖父母。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T07:35:09.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-07/10673655.shtml",
+      "title": "近视600度冲上热搜：为什么它被称为眼睛的“风险临界值”？",
       "category": "综合",
-      "summary": "中新网固原8月7日电 (记者 李佩珊)八月六盘山下瓜果飘香，宁夏固原原州区头营镇杨郎村网纹瓜标准化种植基地迎来头茬丰收，依托物联网数字种植管理、全链条配套帮扶，错峰上市的网纹瓜订单络绎不绝。",
+      "summary": "近日，近视 600 度相关话题冲上热搜，引起不少网友讨论。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673568.shtml",
-      "publishedAt": "2026-08-07T05:42:09.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-07/10673655.shtml",
+      "publishedAt": "2026-08-07T07:32:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673571.shtml",
-      "title": "上半年中国规模以上工业中小企业盈利能力持续增强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-07/10673652.shtml",
+      "title": "济南市宗教政策法规文件贯彻落实工作专题推进会议召开",
       "category": "综合",
-      "summary": "中新社北京8月7日电 中国工信部7日披露，今年上半年，中国中小企业经济运行总体平稳，主要指标保持较快增长，企业效益持续改善。",
+      "summary": "为全面贯彻落实党的宗教工作方针政策，坚持和巩固宗教界“学法规、守戒律、重修为、树形象”主题教育活动，持续提升全市宗教工作法治化、规范化、制度化水平，8月3日，济南市宗教政策法规文件贯彻落实工作专题推进会议召开。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673571.shtml",
-      "publishedAt": "2026-08-07T05:40:47.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673652.shtml",
+      "publishedAt": "2026-08-07T07:27:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673567.shtml",
-      "title": "燕山深处“捕风捉光”：河北宽城“风光储”变绿色“家当”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-07/10673650.shtml",
+      "title": "江西新余移民村寨篝火起 各族同胞同庆火把节",
       "category": "综合",
-      "summary": "中新网承德8月7日电 题：燕山深处“捕风捉光”：河北宽城“风光储”变绿色“家当”",
+      "summary": "中新网新余8月7日电 (刘力鑫)8月6日，农历六月二十四，“彝火传千年 同心向未来”2026鹄山都则力塘下彝族火把节在江西省新余市渝水区鹄山镇力塘下村举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673567.shtml",
-      "publishedAt": "2026-08-07T05:39:49.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673650.shtml",
+      "publishedAt": "2026-08-07T07:27:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673572.shtml",
-      "title": "乌兹别克斯坦出口企业B2B洽谈会在乌鲁木齐举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673653.shtml",
+      "title": "《民用航空发展“十五五”规划》印发",
       "category": "综合",
-      "summary": "中新网乌鲁木齐8月7日电 (冯晓玲 王振宇 王鸿斌)乌兹别克斯坦出口企业B2B洽谈会5日至6日在乌鲁木齐保税展示交易中心举办。23家乌方优质出口企业与50家新疆进出口、跨境电商及商贸流通企业参会，聚焦商品贸易与产业协作，深化中乌双边产业链供应链合作。",
+      "summary": "为认真贯彻党中央和国务院决策部署，根据“十五五”规划纲要及交通强国建设部署，中国民航局、国家发展改革委、交通运输部近日联合印发《民用航空发展“十五五”规划》。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673572.shtml",
-      "publishedAt": "2026-08-07T05:38:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673653.shtml",
+      "publishedAt": "2026-08-07T07:26:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673566.shtml",
-      "title": "（乡村行·看振兴）梅里斯达斡尔族区：“企业+村集体+农户”串起致富链",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673646.shtml",
+      "title": "“直通非洲”烟台-非洲产业合作对接活动在烟台举办",
       "category": "综合",
-      "summary": "中新网齐齐哈尔8月7日电 题：梅里斯达斡尔族区：“企业+村集体+农户”串起致富链",
+      "summary": "中新网烟台8月7日电 (记者 王娇妮)6日至7日，“直通非洲”烟台-非洲产业合作对接活动在山东省烟台市举办。来自贝宁、埃塞俄比亚、几内亚等15个非洲国家的驻华使节及商协会、企业代表，与烟台50余家企业代表面对面交流，共拓产业合作新空间。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673566.shtml",
-      "publishedAt": "2026-08-07T05:37:58.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673646.shtml",
+      "publishedAt": "2026-08-07T07:25:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673574.shtml",
-      "title": "获市委书记赋诗点赞！菲尔兹奖“0”的突破背后有他一份功劳",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-07/10673641.shtml",
+      "title": "重庆北碚：9万亩水稻开镰绘就好“丰”景",
       "category": "综合",
-      "summary": "“很怀念家乡的胡辣汤、烧饼。”8月6日，从河南新乡走出的28岁数学家马骁接受中新社采访时如是说。",
+      "summary": "图为北碚区三圣镇古佛村采用机械化设备收割成熟的水稻。秦廷富 摄 图为航拍北碚区柳荫镇明通村采用机械化设备收割成熟的水稻。(无人机照片)秦廷富 摄 图为航拍北碚区柳荫镇明通村采用机械化设备收割成熟的水稻。(无人机照片)秦廷富 摄 图为北碚区柳荫镇明通村采用机械化设备收割成熟的水稻。秦廷富 摄 图为村民正在晾晒收割好的水稻。(无人机照片)秦廷富 摄 图为北碚区柳",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673574.shtml",
-      "publishedAt": "2026-08-07T05:36:48.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673641.shtml",
+      "publishedAt": "2026-08-07T07:24:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673565.shtml",
-      "title": "天津市发布雷雨大风蓝色预警信号",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-07/10673640.shtml",
+      "title": "立秋时节 贵州肇兴侗寨景致宜人",
       "category": "综合",
-      "summary": "中新网8月7日电 据中央气象台网站消息，天津市气象台于2026年08月07日13时02分发布雷雨大风蓝色预警信号：预计今天午后至前半夜，天津中心城区有分散性雷阵雨，局地短时雨强较大，并伴有6-7级阵风，个别点8级以上，请注意防范。",
+      "summary": "图为8月7日航拍肇兴侗寨。(无人机照片)唐哲 摄 图为8月7日航拍肇兴侗寨。(无人机照片)唐哲 摄 图为8月7日航拍游客在肇兴侗寨游玩。(无人机照片)唐哲 摄 图为8月7日航拍肇兴侗寨。(无人机照片)唐哲 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673565.shtml",
-      "publishedAt": "2026-08-07T05:28:14.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-07/10673640.shtml",
+      "publishedAt": "2026-08-07T07:23:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673564.shtml",
-      "title": "四川宜宾市高县发生4.9级地震 震源深度6千米",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-07/1200383.shtml",
+      "title": "第38届大众电影百花奖配套展览和市集活动亮相北京朝阳公园",
       "category": "综合",
-      "summary": "中新网8月7日电 中国地震台网正式测定：08月07日13时08分在四川宜宾市高县(北纬28.51度，东经104.67度)发生4.9级地震，震源深度6千米。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673564.shtml",
-      "publishedAt": "2026-08-07T05:24:30.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-07/1200383.shtml",
+      "publishedAt": "2026-08-07T07:22:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/hr/shipin/cns/2026/08-07/news1064607.shtml",
-      "title": "华裔新生代广东江门开讲：“我在世界看中外文化交汇”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673625.shtml",
+      "title": "中白将举行“神鹰-2026”空降兵联合训练",
       "category": "综合",
-      "summary": "近日，2026年“少年中国说”华裔新生代使者选拔赛决赛暨颁奖研学活动启动仪式在广东江门新会区梁启超故居礼堂举行。来自德国、荷兰、加拿大、美国、日本等10个国家17所华文学校的师生代表，以及国内高校专家评委等参与活动。",
+      "summary": "中新网8月7日电 据“国防部发布”微信公众号，8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/hr/shipin/cns/2026/08-07/news1064607.shtml",
-      "publishedAt": "2026-08-07T05:18:53.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673625.shtml",
+      "publishedAt": "2026-08-07T07:22:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673561.shtml",
-      "title": "四川宜宾市高县附近发生5.0级左右地震",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-07/10673633.shtml",
+      "title": "河南新乡市凤泉区：凝心聚力强根基 多元共进谱新篇",
       "category": "综合",
-      "summary": "中新网8月7日电 据中国地震台网微博消息，中国地震台网自动测定：8月7日13时08分在四川宜宾市高县附近(北纬28.54度，东经104.68度)发生5.0级左右地震，最终结果以正式速报为准。",
+      "summary": "近日来，新乡市凤泉区委统战部紧扣新时代统战工作主线，统筹推进民族宗教政策法规培训、思想引领、联谊慰问等重点活动，在学深悟透中筑牢法治根基，在红色洗礼中凝聚思想共识，在走访慰问中深化鱼水情谊，以扎实行动书写统一战线服务全区中心大局的生动答卷。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673561.shtml",
-      "publishedAt": "2026-08-07T05:16:43.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673633.shtml",
+      "publishedAt": "2026-08-07T07:21:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673560.shtml",
-      "title": "浙江海事局启动沿海Ⅱ级防台应急响应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673643.shtml",
+      "title": "国防部：推动基本实现国防和军队现代化取得决定性进展",
       "category": "综合",
-      "summary": "中新网杭州8月7日电(记者 王逸飞)今年第13号台风“白海豚”(强台风级)即将进入24小时警戒线。7日8时，浙江海事局启动沿海Ⅱ级防台应急响应。目前，浙江162条客渡运航线、316艘客运船舶已全部停航，193个水工项目已全部停工，474艘施工船舶全部进入安全避风水域。",
+      "summary": "中新网8月7日电 8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673560.shtml",
-      "publishedAt": "2026-08-07T05:16:11.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673643.shtml",
+      "publishedAt": "2026-08-07T07:21:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673562.shtml",
-      "title": "四川宜宾市高县附近发生5.0级左右地震",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-07/10673634.shtml",
+      "title": "辽聊共同体系列活动之铸牢中华民族共同体意识宣讲在大东区举办终场宣讲",
       "category": "综合",
-      "summary": "中国地震台网自动测定：8月7日13时08分在四川宜宾市高县附近(北纬28.54度，东经104.68度)发生5.0级左右地震，最终结果以正式速报为准。",
+      "summary": "近日，辽聊共同体系列活动——“红色抗战热土？圆梦聚力同心”铸牢中华民族共同体意识专题宣讲的最后一场在沈阳市大东区时代文仓城市书房举行。活动深挖辽宁红色抗战资源，以厚重史实为载体开展民族团结宣传教育，省市区民族工作系统干部、民族和宗教界代表人士、社区工作者、各族群众等130余人参加。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673562.shtml",
-      "publishedAt": "2026-08-07T05:15:59.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673634.shtml",
+      "publishedAt": "2026-08-07T07:19:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673559.shtml",
-      "title": "中国科研团队破解超导量子计算“速度与保真度”相互制约难题",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673642.shtml",
+      "title": "国防部：日本“再军事化”妄动是地区和平稳定的真正威胁",
       "category": "综合",
-      "summary": "中新网合肥8月7日电 (记者 张俊)记者7日从安徽省量子计算芯片重点实验室获悉，本源量子计算科技(合肥)有限公司与中国科学技术大学组成的研究团队提出新型量子门技术方案，成功破解超导量子计算领域“速度与保真度”相互制约难题。",
+      "summary": "中新网8月7日电 据国防部网站消息，8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673559.shtml",
-      "publishedAt": "2026-08-07T05:15:55.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673642.shtml",
+      "publishedAt": "2026-08-07T07:18:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673557.shtml",
-      "title": "泰媒：泰国校园枪击案已致7死 枪手是九年级学生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673639.shtml",
+      "title": "国防部：中国军队坚决反制任何闹海挑衅图谋",
       "category": "综合",
-      "summary": "中新网8月7日电 据泰媒最新报道，7日发生的泰国暖武里府校园枪击案已造成包括枪手在内的7人死亡、死者还包括3名教师和3名学生。事件造成15人受伤，已被送往医院。",
+      "summary": "中新网8月7日电 据国防部官网消息，8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673557.shtml",
-      "publishedAt": "2026-08-07T05:13:57.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673639.shtml",
+      "publishedAt": "2026-08-07T07:16:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-07/10673558.shtml",
-      "title": "依赖AI定制高强度减肥方案？健康瘦身没有速成公式",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673635.shtml",
+      "title": "“APEC大会倒计时100天媒体采风活动”在深圳开启",
       "category": "综合",
-      "summary": "近日，成都一名自媒体从业者的极端减肥悲剧，为热衷AI瘦身的人群敲响了警钟。该从业者长期熬夜、作息无序，身体日渐发胖，因急于瘦身，完全依赖AI工具定制高强度减肥方案，坚持空腹高强度健身。短短45天暴瘦40斤，看似收获了理想的减重效果，却付出了惨重的健康代价：突发昏迷被紧急送医，被确诊为多器官功能障碍综合征，伴随全身炎症爆发、免疫系统崩溃，一度送入ICU抢救。一",
+      "summary": "中新网深圳8月7日电 (记者 索有为)为期3天的“相约深圳 见证奇迹——APEC大会倒计时100天媒体采风活动”6日在深圳开启。从重大文化设施，到文化精品创作创意机构，再到以舞台艺术传递中国声音的文艺院团，记者们不仅见证了深圳文化高质量发展的生动实践，也感受着这座城市为迎接APEC会议所做的精心筹备。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-07/10673558.shtml",
-      "publishedAt": "2026-08-07T05:11:55.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673635.shtml",
+      "publishedAt": "2026-08-07T07:15:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673556.shtml",
-      "title": "浙江省防指将防台风应急响应提升至Ⅲ级",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673638.shtml",
+      "title": "A股收评：超2800只个股飘红，三大指数集体收涨",
       "category": "综合",
-      "summary": "中新网8月7日电 据浙江应急管理微信公众号消息，今年第13号台风“白海豚”8月7日8时位于温岭偏东方向约763公里的洋面上，中心附近最大风力14级(强台风级)。预计“白海豚”将以每小时15-20公里左右的速度向偏西方向移动，强度变化不大或略有增强。受“白海豚”影响，今天明天东海海域风力10-13级部分13-16级。沿海海面今天阵风7-9级，夜里9-11级，明",
+      "summary": "A股收评：超2800只个股飘红，三大指数集体收涨，科创综指涨超3%；医药板块掀涨停潮，CPO概念走高，半导体、贵金属上涨；电信、软件下跌",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673556.shtml",
-      "publishedAt": "2026-08-07T05:09:55.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673638.shtml",
+      "publishedAt": "2026-08-07T07:12:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673554.shtml",
-      "title": "江苏省发布海区大风黄色预警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673636.shtml",
+      "title": "泰国校园枪击案细节曝光：枪手先杀祖父母后行凶，累计开26枪",
       "category": "综合",
-      "summary": "中新网8月7日电 据中央气象台网站消息，江苏省气象台2026年08月07日12时00分发布海区大风黄色预警：受今年第13号台风“白海豚”影响，预计8日下午起，南通海区将出现阵风9级以上大风。省应急厅(省防减救灾办)、省气象局提醒注意防范。",
+      "summary": "中新网8月7日电 据路透社等外媒报道，8月7日上午，泰国首都曼谷以北的暖武里府一所中学发生枪击事件。警方称，枪击造成包括枪手在内共7人死亡，受伤人数为15人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673554.shtml",
-      "publishedAt": "2026-08-07T05:09:01.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673636.shtml",
+      "publishedAt": "2026-08-07T07:08:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673552.shtml",
-      "title": "河北省发布山洪灾害气象橙色预警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673631.shtml",
+      "title": "7月中国公路物流运价指数环比小幅回落",
       "category": "综合",
-      "summary": "中新网8月7日电 据中央气象台网站消息，河北省水利厅和河北省气象局8月7日11时联合发布山洪灾害气象风险预警：预计，8月7日12时至8月8日12时，保定市(阜平县)、石家庄市(平山县、灵寿县、井陉县)等地局地发生山洪灾害可能性大(橙色预警)。保定市(易县、涞水县、涞源县)、张家口市(涿鹿县、蔚县)、石家庄市(井陉矿区、赞皇县)、邢台市(临城县、内丘县、沙河市",
+      "summary": "中新社北京8月7日电 (记者 阮煜琳)中国物流与采购联合会7日发布的数据显示，受季节性波动和极端天气影响，7月份，中国公路物流运价指数为105.2点，比上月回落0.05%，同比回升0.15%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673552.shtml",
-      "publishedAt": "2026-08-07T05:08:09.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673631.shtml",
+      "publishedAt": "2026-08-07T06:56:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673551.shtml",
-      "title": "陕西省发布山洪灾害橙色预警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673630.shtml",
+      "title": "重庆仙女山“清凉经济”走俏：高山清风迎远客",
       "category": "综合",
-      "summary": "中新网8月7日电 据中央气象台网站消息，陕西省水利厅联合陕西省气象局于2026年08月07日11时发布第55期山洪灾害气象风险预警。预计2026年08月07日11时至2026年08月08日11时，安康市汉阴县等县发生山洪灾害可能性大(橙色预警)，汉中市汉台区、南郑区、城固县、洋县、西乡县、勉县、镇巴县、佛坪县，安康市汉滨区、石泉县、宁陕县、紫阳县、岚皋县、平",
+      "summary": "中新网重庆8月7日电 题：重庆仙女山“清凉经济”走俏：高山清风迎远客",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673551.shtml",
-      "publishedAt": "2026-08-07T05:06:43.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673630.shtml",
+      "publishedAt": "2026-08-07T06:56:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-07/10673555.shtml",
-      "title": "泰国暖武里府防灾减灾办公室：校园枪击案死亡人数升至7人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673629.shtml",
+      "title": "台风“白海豚”逼近 长江江苏辖区暂停全部出江试航作业",
       "category": "综合",
-      "summary": "当地时间7日，泰国暖武里府防灾减灾办公室说，当日发生的校园枪击案已造成包括枪手在内的7人死亡、15人受伤，其中2人重伤。死者还包括3名教师和3名学生。",
+      "summary": "中新网南京8月7日电 (姚鹏 时崇 朱晓颖)台风“白海豚”逼近华东沿海。江苏海事局7日发布消息，长江江苏辖区暂停全部出江试航作业。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673555.shtml",
-      "publishedAt": "2026-08-07T05:04:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673629.shtml",
+      "publishedAt": "2026-08-07T06:55:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673553.shtml",
-      "title": "受降雨影响 甬江、椒江可能发生编号洪水",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673628.shtml",
+      "title": "苏州“网师夜花园”：“非遗”添彩“世遗” 游客竞相打卡",
       "category": "综合",
-      "summary": "今天上午，水利部举行会商，分析研判全国的防汛形势。截至今天9时，黑龙江、内蒙古、河北、陕西、云南等地13条河流仍维持超警。",
+      "summary": "中新网苏州8月7日电 (常慕城)一到傍晚时分，苏州网师园门前就排起了长队，来自各地的游客竞相打卡知名夜间文旅项目“网师夜花园”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673553.shtml",
-      "publishedAt": "2026-08-07T04:59:40.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673628.shtml",
+      "publishedAt": "2026-08-07T06:54:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673546.shtml",
-      "title": "前7月中国进出口总值超30万亿元 同比增17.3%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-07/10673626.shtml",
+      "title": "河南商丘市虞城县：以商会力量激活民营经济新活力",
       "category": "综合",
-      "summary": "中新社北京8月7日电 (记者 尹倩芸)中国海关总署7日公布数据显示，今年前7个月，中国货物贸易进出口总值30.13万亿元(人民币，下同)，同比(下同)增长17.3%。其中出口增长14%，进口增长22%。",
+      "summary": "车间机器轰鸣不息，产销订单接续不断。在河南省虞城县稍岗镇一批批精密钢卷尺经过自动化加工、智能检测后有序打包，销往全国、远销海外。作为全国规模最大的钢卷尺产业集聚区，当地年产钢卷尺15亿只，占据全国市场份额85%以上。小小五金产品领跑全国市场的背后，是虞城持续建强商会阵地、细化全链条助企服务，全方位为中小微企业纾困解难、蓄势赋能的生动实践。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673546.shtml",
-      "publishedAt": "2026-08-07T04:53:07.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673626.shtml",
+      "publishedAt": "2026-08-07T06:54:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673545.shtml",
-      "title": "中国仓储指数连续两个月运行在扩张区间",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673623.shtml",
+      "title": "浙江防台风应急响应提升至Ⅲ级 162条客渡运航线停航",
       "category": "综合",
-      "summary": "中新社北京8月7日电 (记者 阮煜琳)中国物流与采购联合会7日发布的数据显示，2026年7月，中国仓储指数为50.3%，较上月回升0.1个百分点，连续两个月运行在扩张区间。",
+      "summary": "中新社杭州8月7日电 (钱晨菲)浙江省防汛防台抗旱指挥部7日12时将防台风应急响应提升至Ⅲ级。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673545.shtml",
-      "publishedAt": "2026-08-07T04:49:25.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673623.shtml",
+      "publishedAt": "2026-08-07T06:53:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673550.shtml",
-      "title": "各地聚力攻坚 护航高校毕业生走稳就业路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-07/10673627.shtml",
+      "title": "以“体”为媒 架起甬澳青年同心桥——澳门体育界青年走进江北",
       "category": "综合",
-      "summary": "【职引未来】各地聚力攻坚 护航高校毕业生走稳就业路",
+      "summary": "绿茵牵线，甬澳连心。近日，甬澳两地体育界青年交流活动在宁波甬江TOD体育公园举办。活动依托甬江TOD体育公园平台，推动澳门国际体育资源与宁波体育平台深度对接，通过建立常态化合作模式，深度促进两地青年交往、文体产业联动。江北区委常委、统战部部长潘卫锋、北京体育大学澳门校友会会长何力辉、宁波市足球协会主席席伟达、宁波市乒乓球协会副主席范定以及甬澳两地体育界人士等",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673550.shtml",
-      "publishedAt": "2026-08-07T04:46:33.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-07/10673627.shtml",
+      "publishedAt": "2026-08-07T06:53:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673544.shtml",
-      "title": "内地及港澳学者重建嫦娥五号着陆区月壤完整演化史",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673621.shtml",
+      "title": "国家能源局印发《电力安全生产“十五五”行动计划》",
       "category": "综合",
-      "summary": "中新社武汉8月7日电 (记者 马芙蓉)记者7日从中国地质大学(武汉)获悉，该校地球与行星科学学院肖龙教授团队联合香港大学、澳门科技大学等高校学者，重建了嫦娥五号着陆区月壤完整演化历史，为后续月球探测与资源开发提供直接支撑。",
+      "summary": "中新网8月7日电 据国家能源局微信公众号消息，国家能源局近日印发《电力安全生产“十五五”行动计划》，通知全文如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673544.shtml",
-      "publishedAt": "2026-08-07T04:46:19.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673621.shtml",
+      "publishedAt": "2026-08-07T06:50:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673549.shtml",
-      "title": "中安时评丨3014.9亿斤打底，“大国粮仓”的秋收底气从何而来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-07/10673624.shtml",
+      "title": "三尊北魏合金佛造像，如何传到青藏高原？",
       "category": "综合",
-      "summary": "【好评中国】中安时评 | 3014.9亿斤打底，“大国粮仓”的秋收底气从何而来",
+      "summary": "中新社记者 赵朗",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673549.shtml",
-      "publishedAt": "2026-08-07T04:40:45.000Z",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-07/10673624.shtml",
+      "publishedAt": "2026-08-07T06:48:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-07/10673548.shtml",
-      "title": "东湖评论丨“慧眼”升空，“金山”“银山”守护绿水青山",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-07/10673611.shtml",
+      "title": "8月全国自然灾害风险形势发布：可能有2-3个台风登陆或影响我国沿海地区",
       "category": "综合",
-      "summary": "【好评中国】东湖评论丨“慧眼”升空，“金山”“银山”守护绿水青山",
+      "summary": "中新网8月7日电 据应急管理部网站消息，近日，国家防灾减灾救灾委员会办公室、应急管理部会同自然资源部、水利部、农业农村部、中国气象局、国家能源局、国家林草局等部门召开会商会，对2026年8月份全国自然灾害风险形势进行会商研判。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-07/10673548.shtml",
-      "publishedAt": "2026-08-07T04:39:11.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-07/10673611.shtml",
+      "publishedAt": "2026-08-07T06:45:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-07/10673547.shtml",
-      "title": "好评中国丨全民参与、动力十足！万亿体育产业“炼”接消费新蓝海",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-07/news1064617.shtml",
+      "title": "老人坐轮椅过马路被隔离柱挡住 两位路过司机下车俯身托举",
       "category": "综合",
-      "summary": "前不久，国务院批复印发《体育强国建设“十五五”规划》《全民健身计划（2026—2030年）》，明确提出要健全全民健身公共服务体系，推动经常参加体育运动锻炼人数比例升至40%，体育产业总规模将从2024年的3.8万亿元突破7万亿元，为推动全民健身运动、加快建设体育强国明确了发展蓝图。万亿规模跃迁背后，是全民健身社会化普及、消费结构迭代升级、产业价值多元释放的综",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673547.shtml",
-      "publishedAt": "2026-08-07T04:37:41.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-07/news1064617.shtml",
+      "publishedAt": "2026-08-07T06:38:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/gj/shipin/2026/08-07/news1064605.shtml",
-      "title": "算法无善恶，但军国主义正在投毒AI｜真相",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673617.shtml",
+      "title": "评论：不临海，吉林何以经略深蓝？",
       "category": "综合",
-      "summary": "近期日本媒体披露，日本右翼势力通过付费招募，大规模利用人工智能等手段，批量炮制虚假信息，企图歪曲侵华历史，混淆视听。算法本身没有立场，但若被军国主义思想“喂养”，AI便沦为篡改历史、煽动对立的危险帮凶。",
+      "summary": "中新网长春8月7日电 (记者 李彦国)近日，吉林省委书记黄强到延边州珲春市调研时强调，要充分把握历史机遇，坚定不移向海图强，以高水平对外开放推动吉林高质量发展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/gj/shipin/2026/08-07/news1064605.shtml",
-      "publishedAt": "2026-08-07T04:25:40.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673617.shtml",
+      "publishedAt": "2026-08-07T06:38:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673542.shtml",
-      "title": "中印举行边境事务磋商和协调工作机制第36次会议",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-07/10673622.shtml",
+      "title": "实干开新局｜消费市场开局起势",
       "category": "综合",
-      "summary": "中新网8月7日电 据外交部网站消息，2026年8月6日，外交部边界与海洋事务司司长侯艳琪同印度外交部东亚司联秘高士在印度新德里共同主持中印边境事务磋商和协调工作机制第36次会议，两国外交、国防、内政、移民等部门代表参加。",
+      "summary": "7月30日，习近平总书记主持召开中共中央政治局会议。会议分析研究当前经济形势，部署下半年经济工作，明确要求有效扩大国内需求，适应不同群体消费需求扩大优质供给，挖掘服务消费潜力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673542.shtml",
-      "publishedAt": "2026-08-07T04:22:48.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673622.shtml",
+      "publishedAt": "2026-08-07T06:36:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -572,7 +589,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#1",
       "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
       "category": "国际",
       "summary": "英國科學家首次成功人體試驗免冷藏疫苗，可在室溫保存，有望在全球範圍大幅減少因冷鏈失效而被浪費掉的防疫靈丹。",
@@ -834,7 +851,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#4",
       "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
       "category": "国际",
       "summary": "科技正被用於監測野火，但仍需消防員來撲滅火災。",
@@ -1235,23 +1252,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#4",
-      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
-      "category": "国际",
-      "summary": "多艘船隻在紅海遭到襲擊——自伊朗封鎖霍爾木茲海峽後，一些油輪一直使用這條替代水道。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T11:43:49.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },

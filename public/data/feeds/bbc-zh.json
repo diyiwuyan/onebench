@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#0",
+      "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T07:35:09.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#1",
       "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
       "meta": "BBC 中文 · 2026/8/7",
       "url": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
@@ -61,7 +68,7 @@
       "publishedAt": "2026-08-06T05:59:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#4",
       "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +129,6 @@
       "meta": "BBC 中文 · 2026/8/4",
       "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T12:16:12.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#4",
-      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
-      "meta": "BBC 中文 · 2026/8/4",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T11:43:49.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-07T05:50:41.353Z",
+  "updatedAt": "2026-08-07T07:41:27.510Z",
   "provider": "OneBench 公共资讯快照"
 }
