@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142549",
+      "title": "【子午播报】2026年8月7日",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142549",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142593",
+      "title": "非洲疾控中心和世卫组织呼吁扩大社区防控 遏制刚果（金）埃博拉疫情",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142593",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142592",
+      "title": "广岛原子弹爆炸81周年 古特雷斯呼吁各国共同降低核风险",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142592",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142591",
+      "title": "联合国：南苏丹举行可信选举所需条件仍未具备 呼吁停止战斗并重启包容性对话",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142591",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142589",
       "title": "儿基会：加沙停火300天 至少300名儿童遇难",
       "meta": "联合国新闻 · 2026/8/6",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/7/29",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142562",
       "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142561",
-      "title": "教科文组织新增25处世界遗产 “景德镇手工瓷业遗存”成功入选",
-      "meta": "联合国新闻 · 2026/7/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142561",
-      "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142560",
-      "title": "联合国警告约旦河西岸定居者暴力事件达到“历史最高水平”",
-      "meta": "联合国新闻 · 2026/7/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142560",
-      "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142559",
-      "title": "刚果（金）埃博拉病例突破3200例，饥饿阻碍疫情应对",
-      "meta": "联合国新闻 · 2026/7/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142559",
-      "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142558",
-      "title": "塞浦路斯：古特雷斯呼吁重建信任并就未来方向举行新一轮会谈",
-      "meta": "联合国新闻 · 2026/7/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142558",
-      "publishedAt": "2026-07-29T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-07T13:39:23.862Z",
+  "updatedAt": "2026-08-07T15:10:03.433Z",
   "provider": "OneBench 公共资讯快照"
 }
