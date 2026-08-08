@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142603",
+      "title": "【世界进行时】2026年8月7日",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142603",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142599",
       "title": "国际刑事法院缔约国大会主席团对乍得和委内瑞拉退出《罗马规约》表示遗憾",
       "meta": "联合国新闻 · 2026/8/7",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/7/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142568",
       "publishedAt": "2026-07-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142566",
-      "title": "联合国呼吁加强应对阿富汗人口贩运风险",
-      "meta": "联合国新闻 · 2026/7/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142566",
-      "publishedAt": "2026-07-30T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-08T16:51:47.880Z",
+  "updatedAt": "2026-08-08T18:58:25.976Z",
   "provider": "OneBench 公共资讯快照"
 }
