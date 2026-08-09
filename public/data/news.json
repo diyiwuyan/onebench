@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T14:52:37.948Z",
-  "expiresAt": "2026-08-09T20:52:37.948Z",
+  "generatedAt": "2026-08-09T16:53:52.284Z",
+  "expiresAt": "2026-08-09T22:53:52.284Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674866.shtml",
+      "title": "泰国2026年上半年出口额同比增长17.6%",
+      "category": "综合",
+      "summary": "中新社曼谷8月9日电 (记者 李映民)泰国总理府副发言人拉丽达9日表示，上半年泰国出口持续保持良好增长势头，高于去年同期水平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674866.shtml",
+      "publishedAt": "2026-08-09T15:21:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674865.shtml",
+      "title": "消息称伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
+      "category": "综合",
+      "summary": "据伊朗方面9日消息，伊朗议会国家安全与外交政策委员会批准了确保霍尔木兹海峡安全与发展的战略行动计划纲要。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674865.shtml",
+      "publishedAt": "2026-08-09T15:13:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-09/10674864.shtml",
+      "title": "台风“白海豚”登陆 警惕“三碰头”叠加风险",
+      "category": "综合",
+      "summary": "今年第13号台风“白海豚”已于9日17时30分前后在浙江玉环登陆。各地在防汛防台风部署中多次提及，需高度警惕台风影响期间可能带来的“三碰头”叠加风险。何为“三碰头”？其危害有哪些？普通民众该如何防范避险？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674864.shtml",
+      "publishedAt": "2026-08-09T15:05:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-09/news1064837.shtml",
+      "title": "多点位直击台风“白海豚”登陆：树木被吹倒 雨水淹没车辆轮胎",
+      "category": "综合",
+      "summary": "今年第13号台风“白海豚”(强台风级)的中心已于8月9日下午17点30分前后在浙江省台州玉环市坎门街道沿海登陆，登陆时中心附近最大风力有14级(42米/秒)，中心最低气压为945百帕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-09/news1064837.shtml",
+      "publishedAt": "2026-08-09T14:53:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-09/10674862.shtml",
+      "title": "中超第22轮：国安大胜新鹏城 蓉城不敌玉昆",
+      "category": "综合",
+      "summary": "中新社北京8月9日电 (刘梦青)2026赛季中超联赛第22轮比赛9日全部战罢。北京国安主场4:0大胜深圳新鹏城，联赛七轮不败；成都蓉城客场0:1不敌云南玉昆，遭遇六轮不胜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674862.shtml",
+      "publishedAt": "2026-08-09T14:53:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-09/10674861.shtml",
       "title": "“少年中国说”华裔新生代使者选拔赛研学营走进江门",
@@ -472,96 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674836.shtml",
       "publishedAt": "2026-08-09T13:50:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674835.shtml",
-      "title": "架起巴西和中国人民相知相亲的桥梁",
-      "category": "综合",
-      "summary": "架起巴西和中国人民相知相亲的桥梁(国际论坛)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674835.shtml",
-      "publishedAt": "2026-08-09T13:48:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-09/10674834.shtml",
-      "title": "深山里的全球冠军：海外“Z世代”在贵州读懂中国机遇",
-      "category": "综合",
-      "summary": "立秋前夕，一场阵雨让铜仁市江口县的山林更加葱茏。群峰之下，全球最大的抹茶单体精制车间便坐落于此。走进车间，全自动智能生产线吞吐着翠绿色粉末，这便是风靡全球的健康饮品——抹茶。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674834.shtml",
-      "publishedAt": "2026-08-09T13:45:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-09/10674831.shtml",
-      "title": "台湾学生低成本游广东Vlog走红：镜头内外，交流升温",
-      "category": "综合",
-      "summary": "没有周详的行程规划、吃饭全靠“闭眼随便走进一家店”、出行主要搭乘公共交通、住在低价经济酒店或青年旅馆……",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674831.shtml",
-      "publishedAt": "2026-08-09T13:12:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-09/news1064833.shtml",
-      "title": "直击台风“白海豚”登陆点浙江玉环：风雨交加 树木倒伏 当地救援力量已开始行动",
-      "category": "综合",
-      "summary": "直击台风“白海豚”登陆点浙江玉环：风雨交加 树木倒伏 当地救援力量已开始行动",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-09/news1064833.shtml",
-      "publishedAt": "2026-08-09T13:10:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-09/10674827.shtml",
-      "title": "湖北启动防汛四级应急响应",
-      "category": "综合",
-      "summary": "中新网武汉8月9日电 (记者 梁婷)根据《湖北省防汛抗旱应急预案》规定，湖北省防办于9日18时启动防汛四级应急响应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674827.shtml",
-      "publishedAt": "2026-08-09T13:03:14.000Z",
       "tags": [
         "国内",
         "社会",
