@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T16:53:52.284Z",
-  "expiresAt": "2026-08-09T22:53:52.284Z",
+  "generatedAt": "2026-08-09T19:00:59.680Z",
+  "expiresAt": "2026-08-10T01:00:59.680Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -637,6 +637,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142604",
+      "title": "身处气候危机中的巴西土著青年：“被看见、被听到”就是“抵抗力”",
+      "category": "国际",
+      "summary": "随着气候变化正在重塑巴西各地的土著人的领地，新一代正步入公众视野。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142604",
+      "publishedAt": "2026-08-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1705,24 +1723,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142569",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142568",
-      "title": "世卫组织和儿基会呼吁加强母乳喂养支持 为每个孩子提供健康生命开端",
-      "category": "国际",
-      "summary": "在“世界母乳喂养周”（8月1日—8月7日）来临之际，联合国儿童基金会执行主任拉塞尔和世界卫生组织总干事谭德塞于周五发表联合声明，呼吁各国加强对母乳喂养的支持和卫生体系建设，为母亲和婴幼儿提供高质量服务，让每个孩子都能拥有健康的生命开端。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142568",
       "publishedAt": "2026-07-31T12:00:00.000Z",
       "tags": [
         "国际",
