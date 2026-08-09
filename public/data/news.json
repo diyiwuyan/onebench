@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T20:51:51.283Z",
-  "expiresAt": "2026-08-10T02:51:51.283Z",
+  "generatedAt": "2026-08-09T22:49:58.636Z",
+  "expiresAt": "2026-08-10T04:49:58.636Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,150 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml",
+      "title": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
+      "category": "综合",
+      "summary": "中新网8月10日电 据美国哥伦比亚广播公司(CBS)报道，美国芝加哥市本周末发生多起枪击事件，截至当地时间9日下午，事件造成至少4人死亡，多人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml",
+      "publishedAt": "2026-08-09T22:37:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10674873.shtml",
+      "title": "手机APP广告“乱跳转”咋就成了“数字牛皮癣”？",
+      "category": "综合",
+      "summary": "“套娃式”广告、轻微晃动便触发跳转、叉号图标竟是跳转键……",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10674873.shtml",
+      "publishedAt": "2026-08-09T22:37:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10674872.shtml",
+      "title": "中国“陪伴经济”打开消费新空间",
+      "category": "综合",
+      "summary": "爬山能雇“搭子”，看病能找“陪诊”，外媒关注中国消费新热点——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674872.shtml",
+      "publishedAt": "2026-08-09T22:32:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-10/10674871.shtml",
+      "title": "印尼一赛车比赛发生事故致7亡9重伤",
+      "category": "综合",
+      "summary": "中新社雅加达8月9日电 (记者 李志全)印度尼西亚北苏拉威西省科塔莫巴古地区9日举行的赛车比赛发生事故。一辆参赛车辆冲出赛道撞向观众，造成7人罹难、9人重伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674871.shtml",
+      "publishedAt": "2026-08-09T22:25:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml",
+      "title": "特朗普称正在“低调处理”伊朗问题",
+      "category": "综合",
+      "summary": "据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml",
+      "publishedAt": "2026-08-09T22:22:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-10/10674869.shtml",
+      "title": "三伏天运动，试试“超慢跑”",
+      "category": "综合",
+      "summary": "三伏天运动，试试“超慢跑”(健康驿站)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-10/10674869.shtml",
+      "publishedAt": "2026-08-09T22:21:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10674868.shtml",
+      "title": "“校园贷”换上“新马甲” 警惕暑期网络消费陷阱",
+      "category": "综合",
+      "summary": "警惕！暑期网络消费陷阱(财经观)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674868.shtml",
+      "publishedAt": "2026-08-09T22:18:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-10/10674867.shtml",
+      "title": "选购牛肉，这几点要注意",
+      "category": "综合",
+      "summary": "选购牛肉，这几点要注意(有问有答)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/08-10/10674867.shtml",
+      "publishedAt": "2026-08-09T22:16:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674866.shtml",
       "title": "泰国2026年上半年出口额同比增长17.6%",
       "category": "综合",
@@ -51,7 +195,7 @@
     },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674865.shtml",
-      "title": "消息称伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
+      "title": "伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
       "category": "综合",
       "summary": "据伊朗方面9日消息，伊朗议会国家安全与外交政策委员会批准了确保霍尔木兹海峡安全与发展的战略行动计划纲要。",
       "source": "中国新闻网",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/edu/2026/08-09/10674844.shtml",
       "publishedAt": "2026-08-09T14:08:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-09/10674843.shtml",
-      "title": "我们的家园｜从助力重建家园到治理乡村 萨迦县扎西岗乡的乡贤力量",
-      "category": "综合",
-      "summary": "中国网西藏日喀则8月8日讯(记者 郑亮)走进日喀则市萨迦县扎西岗乡，油菜花沿着田埂铺开，一栋栋藏式民居错落在山脚。这个距萨迦县城约3公里、辖8个行政村45个自然村的半农半牧乡，眼前的安静日常来得并不轻松。一年前，定日地震波及这里，群众生产生活受到影响。如今，全乡786户民房重建、148户维修加固、775户围墙修建任务均已完成，完成率达到100%。从过渡安置到",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674843.shtml",
-      "publishedAt": "2026-08-09T14:03:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674842.shtml",
-      "title": "全球媒体聚焦 | 美媒：中国在AI竞赛中有独特优势",
-      "category": "综合",
-      "summary": "美国消费者新闻与商业频道近日刊文称，中国人工智能企业正缩小与美国前沿实验室的性能差距，部分领域甚至实现反超。当前全球性能顶尖的开源模型(即可下载、修改、自主部署的模型)均来自中国。此外，多位专家表示，中国的机器人技术同样处于世界领先水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674842.shtml",
-      "publishedAt": "2026-08-09T14:00:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-09/10674840.shtml",
-      "title": "广东省第十七届运动会在茂名开幕",
-      "category": "综合",
-      "summary": "中新社茂名8月9日电 (梁盛 梁天宇)广东省第十七届运动会暨第十届残疾人运动会开幕式9日晚在茂名市举行。据悉，本届广东省运会是广东省规模最大、层次最高、影响最广的综合性体育盛会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674840.shtml",
-      "publishedAt": "2026-08-09T13:57:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674841.shtml",
-      "title": "俄驻日大使：日本推翻“无核三原则”将招致邻国反制",
-      "category": "综合",
-      "summary": "据俄罗斯方面9日消息，俄罗斯驻日本大使尼古拉·诺兹德廖夫在接受采访时表示，日本推翻“无核三原则”将引发地区其他国家的反应，并招致这些国家的反制。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674841.shtml",
-      "publishedAt": "2026-08-09T13:57:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-09/10674839.shtml",
-      "title": "香港学子安徽职场“初体验” 沉浸式感知内地科创机遇",
-      "category": "综合",
-      "summary": "中新社合肥8月9日电 (记者 赵强)为期七周的2026年香港大学生暑期安徽实习活动9日步入尾声。其间，30余名香港高校学子在安徽合肥多个企事业单位实习，近距离感受安徽产业活力、发展机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-09/10674839.shtml",
-      "publishedAt": "2026-08-09T13:57:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674838.shtml",
-      "title": "OpenAI等美企被曝旗下AI模型“越界” 安全风险引担忧",
-      "category": "综合",
-      "summary": "美国开放人工智能研究中心(OpenAI)7日发布声明称，最新的内部评估结果显示，该公司即将推出的人工智能模型“阿斯特拉”在“网络安全活动”方面，可能达到有严重风险的级别。该公司决定采取包括暂停涉及该模型的部分活动等安全保障措施。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674838.shtml",
-      "publishedAt": "2026-08-09T13:55:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-09/10674837.shtml",
-      "title": "爆款频出！国产动画工业链，正把“中国故事”做成全球生意",
-      "category": "综合",
-      "summary": "《八仙！》成为暑期档“黑马”！",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674837.shtml",
-      "publishedAt": "2026-08-09T13:53:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-09/10674836.shtml",
-      "title": "全球媒体聚焦丨大白兔奶糖包装走红西方社交媒体",
-      "category": "综合",
-      "summary": "新加坡《海峡时报》9日报道，一款已有六十年历史的中国奶糖包装纸，意外地在西方社交媒体上引发热潮。专家指出，这一现象反映出全球对中国传统美学，尤其是未受西方设计影响的中国本土风格越来越着迷。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674836.shtml",
-      "publishedAt": "2026-08-09T13:50:59.000Z",
       "tags": [
         "国内",
         "社会",
