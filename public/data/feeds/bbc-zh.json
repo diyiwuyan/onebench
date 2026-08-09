@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy74j0rz54go/trad#0",
+      "title": "霍爾木茲海峽：阿曼稱會談進展順利，伊朗則警告協議不會打通海峽",
+      "meta": "BBC 中文 · 2026/8/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cy74j0rz54go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T04:27:09.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad#0",
+      "title": "「瘦瘦針」如何改變人們的飲酒習慣？",
+      "meta": "BBC 中文 · 2026/8/9",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T03:59:09.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#0",
       "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
       "meta": "BBC 中文 · 2026/8/7",
@@ -19,13 +33,6 @@
       "publishedAt": "2026-08-07T09:24:48.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#1",
-      "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
-      "meta": "BBC 中文 · 2026/8/7",
-      "url": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T03:43:54.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad#0",
       "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
       "meta": "BBC 中文 · 2026/8/7",
@@ -33,14 +40,7 @@
       "publishedAt": "2026-08-07T02:50:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad#0",
-      "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
-      "meta": "BBC 中文 · 2026/8/7",
-      "url": "https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T00:06:39.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#1",
       "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-09T02:28:57.838Z",
+  "updatedAt": "2026-08-09T05:18:21.360Z",
   "provider": "OneBench 公共资讯快照"
 }
