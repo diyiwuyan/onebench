@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#0",
+      "title": "為什麼航空公司對鋰電池日趨警惕",
+      "meta": "BBC 中文 · 2026/8/10",
+      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T09:16:11.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlxgle9prro/trad#0",
       "title": "保「先人」清靜 《哈利波特》書迷影迷成功迫使跨境電纜改道",
       "meta": "BBC 中文 · 2026/8/10",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-08-10T05:41:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjejnyxg9ggo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjejnyxg9ggo/trad#1",
       "title": "加拿大山火迅速蔓延並擴大一倍 當局宣布進入緊急狀態",
       "meta": "BBC 中文 · 2026/8/9",
       "url": "https://www.bbc.com/zhongwen/articles/cjejnyxg9ggo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,7 +82,7 @@
       "publishedAt": "2026-08-07T02:50:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#5",
       "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
@@ -129,13 +136,6 @@
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T08:40:02.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#5",
-      "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
-      "meta": "BBC 中文 · 2026/8/5",
-      "url": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T08:20:14.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T08:04:16.555Z",
+  "updatedAt": "2026-08-10T09:47:51.160Z",
   "provider": "OneBench 公共资讯快照"
 }
