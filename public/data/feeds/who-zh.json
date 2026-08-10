@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
+      "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
+      "meta": "世界卫生组织 · 2026/8/6",
+      "url": "https://www.who.int/zh/news-room/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc",
+      "publishedAt": "2026-08-06T16:50:24.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:423f5646-df5f-462f-a6ec-b9a9aec18160",
       "title": "敦促各国加强母乳喂养支持和卫生系统建设，为每个孩子提供健康生命开端",
       "meta": "世界卫生组织 · 2026/7/31",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/6/15",
       "url": "https://www.who.int/zh/news-room/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
       "publishedAt": "2026-06-15T09:05:36.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:ff266293-0338-45b2-9adf-1f0f6ef6b70f",
-      "title": "自愿献血率超过85%，安全血液供应改善，但许多患者仍无法获得安全血液",
-      "meta": "世界卫生组织 · 2026/6/12",
-      "url": "https://www.who.int/zh/news-room/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
-      "publishedAt": "2026-06-12T12:35:26.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T15:16:59.741Z",
+  "updatedAt": "2026-08-10T17:08:44.081Z",
   "provider": "OneBench 公共资讯快照"
 }

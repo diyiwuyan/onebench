@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142590",
+      "title": "从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142590",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142604",
       "title": "身处气候危机中的巴西土著青年：“被看见、被听到”就是“抵抗力”",
       "meta": "联合国新闻 · 2026/8/8",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/7/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142570",
       "publishedAt": "2026-07-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142569",
-      "title": "古特雷斯警告强厄尔尼诺正在增强 呼吁采取行动应对全球极端高温",
-      "meta": "联合国新闻 · 2026/7/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142569",
-      "publishedAt": "2026-07-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T15:16:59.741Z",
+  "updatedAt": "2026-08-10T17:08:44.081Z",
   "provider": "OneBench 公共资讯快照"
 }
