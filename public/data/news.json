@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T21:02:21.169Z",
-  "expiresAt": "2026-08-11T03:02:21.169Z",
+  "generatedAt": "2026-08-10T22:56:24.177Z",
+  "expiresAt": "2026-08-11T04:56:24.177Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675462.shtml",
+      "title": "美国战略石油储备降至1983年以来最低水平",
+      "category": "综合",
+      "summary": "中新社华盛顿8月10日电 (记者 沙晗汀)美国能源部当地时间10日发布数据显示，美国战略石油储备(SPR)上周降至3亿桶以下，是自1983年以来的最低水平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675462.shtml",
+      "publishedAt": "2026-08-10T22:39:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675461.shtml",
+      "title": "哥伦比亚7.5级强震已致111人死亡",
+      "category": "综合",
+      "summary": "当地时间10日，哥伦比亚总统德拉埃斯普列亚表示，当天发生的7.5级地震已造成111人死亡，87人受伤，61座建筑物倒塌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675461.shtml",
+      "publishedAt": "2026-08-10T22:37:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675460.shtml",
+      "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
+      "category": "综合",
+      "summary": "当地时间10日，伊朗最高领袖穆杰塔巴·哈梅内伊对伊朗武装力量进行6项新的人事任命，其中包括：任命阿里·阿卜杜拉希空军少将为伊朗武装部队总参谋长；艾哈迈德·瓦希迪准将晋升少将，被任命为伊朗伊斯兰革命卫队总司令。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675460.shtml",
+      "publishedAt": "2026-08-10T22:36:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675459.shtml",
+      "title": "委内瑞拉地震已致6301人遇难",
+      "category": "综合",
+      "summary": "中新网8月11日电 当地时间8月10日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯在社交媒体上说，6月24日地震造成的遇难人数已升至6301人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675459.shtml",
+      "publishedAt": "2026-08-10T22:33:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675458.shtml",
+      "title": "特朗普称要向伊朗索赔",
+      "category": "综合",
+      "summary": "当地时间8月10日，美国总统特朗普在社交媒体发帖称，他注意到，伊朗正在要求就过去五个月军事冲突中遭受的损失获得赔偿。特朗普称，“我同样要求伊朗进行赔偿，我已指示我的代表们将这一要求明确纳入未来所有谈判之中。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675458.shtml",
+      "publishedAt": "2026-08-10T22:32:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675457.shtml",
+      "title": "“免费领宠”咋背上了“宠物贷”",
+      "category": "综合",
+      "summary": "“0元领养小狗”“不花钱拥有品种猫”……伴随宠物经济持续升温，“免费领宠”成为部分商家新型引流套路。一些年轻人抱着“零成本养宠”心态，兴冲冲地把宠物抱回家，迎来的却不是温馨陪伴，而是数额几千元甚至上万元的“分期付款”协议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675457.shtml",
+      "publishedAt": "2026-08-10T22:24:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675456.shtml",
+      "title": "刘海星率中共代表团访问古巴并出席首届“菲德尔国际对话”",
+      "category": "综合",
+      "summary": "新华社哈瓦那8月10日电(记者蒋彪)8月8日至10日，中共中央对外联络部部长刘海星率中共代表团访问古巴并出席首届“菲德尔国际对话”。其间，同古共中央第一书记、古巴国家主席迪亚斯-卡内尔，古共中央政治局委员、中央组织书记莫拉莱斯，古共中央国际关系部部长洛萨达等会见交流。双方表示，将共同落实好两党两国最高领导人达成的重要共识，赓续传统友谊，深化党际交往，加强战略",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675456.shtml",
+      "publishedAt": "2026-08-10T22:18:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675455.shtml",
+      "title": "哥伦比亚进入“国家灾难状态” 强震已致111死87伤",
+      "category": "综合",
+      "summary": "中新网8月11日电 据美国有线电视新闻网(CNN)报道，当地时间10日，哥伦比亚总统德拉埃斯普列亚表示，该国西部当天发生的强震已造成全国111人死亡、87人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675455.shtml",
+      "publishedAt": "2026-08-10T22:17:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675454.shtml",
       "title": "伊朗最高领袖任命6人担任高级军事指挥官",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-10/news1064945.shtml",
       "publishedAt": "2026-08-10T14:32:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675431.shtml",
-      "title": "甘肃敦煌景区被曝现“昂贵饮料” 调查显示系设备系统故障",
-      "category": "综合",
-      "summary": "中新网甘肃敦煌8月10日电 (记者 冯志军 李亚龙)10日，一段“月牙泉景区售货机芬达标价180元”的网络视频引发网友关注和热议。后经敦煌鸣沙山月牙泉景区核查，视频拍摄画面内容属实，但该标价并非景区商品实际售价，系一处自助售货机设备系统故障，造成的价格显示异常。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675431.shtml",
-      "publishedAt": "2026-08-10T14:20:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675430.shtml",
-      "title": "从生肖书签到“猫脸”关公 传统元素闪耀台湾文博会",
-      "category": "综合",
-      "summary": "中新社台北8月10日电 (记者 朱贺)一只只招财三脚“揪吉”，一群长着“猫脸”的关公、城隍爷，一张张刻有吉祥纹饰的生肖书签……正在举行的台湾文博会上，生肖、宫庙信俗等传统元素文创品成为“流量密码”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675430.shtml",
-      "publishedAt": "2026-08-10T14:14:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-10/10675424.shtml",
-      "title": "2026鲁台民乐交流音乐会在济南举行",
-      "category": "综合",
-      "summary": "8月10日，“丝竹雅韵 乐聚泉城”2026鲁台民乐交流音乐会在济南举行。图为望亭荷塘乐团、雅风筝乐团带来古筝合奏《高山青》。中新社记者 李明芮 摄 8月10日，“丝竹雅韵 乐聚泉城”2026鲁台民乐交流音乐会在济南举行。图为彰化社区大学带来戏曲《歌仔戏组曲》。中新社记者 李明芮 摄 8月10日，“丝竹雅韵 乐聚泉城”2026鲁台民乐交流音乐会在济南举行。图为",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675424.shtml",
-      "publishedAt": "2026-08-10T14:09:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675428.shtml",
-      "title": "大连化物所研制高能量密度一次电池功率获突破 放电倍率可提高百倍",
-      "category": "综合",
-      "summary": "中新网大连8月10日电 (记者 杨毅)中国科学院大连化学物理研究所10日发布消息称，该所能源催化转化全国重点实验室陈忠伟团队近日成功研制出25安时级软包金属锂一次电池，其放电倍率可提高百倍，实现10C(电池放电速度单位)短时大电流放电。这一成果标志着中国在高功率一次电池领域迈入国际前列。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675428.shtml",
-      "publishedAt": "2026-08-10T14:09:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-10/10675423.shtml",
-      "title": "格萨尔史诗古乐专场音乐会在青海西宁上演",
-      "category": "综合",
-      "summary": "图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为指挥边巴正在指挥演奏。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675423.shtml",
-      "publishedAt": "2026-08-10T14:09:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675426.shtml",
-      "title": "宁夏首次实现向内蒙古送电 外送省份扩展至23个",
-      "category": "综合",
-      "summary": "中新网银川8月10日电 (记者 于晶)记者10日从国网宁夏电力有限公司获悉，今年7月，宁夏外送电量达112.59亿千瓦时，同比增长5.3%；其中外送新能源电量32.72亿千瓦时，同比增长12.7%，单月外送电量及新能源外送电量双双创历史新高。同日，宁夏首次完成电力外送内蒙古，外送省份由此扩展至23个。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675426.shtml",
-      "publishedAt": "2026-08-10T14:02:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675421.shtml",
-      "title": "宁夏发布循环经济发展“十五五”规划 全域构建绿色循环新格局",
-      "category": "综合",
-      "summary": "中新网银川8月10日电 (记者 于晶)8月10日，记者从宁夏回族自治区发展和改革委员会获悉，《宁夏循环经济发展“十五五”规划》(以下简称《规划》)正式发布，明确未来五年宁夏资源节约与低碳转型路径，标志着宁夏全域绿色循环发展新格局建设全面启动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675421.shtml",
-      "publishedAt": "2026-08-10T14:01:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675420.shtml",
-      "title": "59名港澳台侨代表访问广东茂名 寻合作发展机遇",
-      "category": "综合",
-      "summary": "中新网茂名8月10日电 (梁盛 吴咏蔚)8日至10日，59名港澳台侨代表相聚广东茂名，在观看广东省运会开幕式及体育赛事后，实地走访城市发展点位，近距离感受当地生态风貌、产业活力与人文底蕴，寻找合作发展机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675420.shtml",
-      "publishedAt": "2026-08-10T14:00:54.000Z",
       "tags": [
         "国内",
         "社会",
