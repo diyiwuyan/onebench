@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T17:08:44.081Z",
-  "expiresAt": "2026-08-10T23:08:44.081Z",
+  "generatedAt": "2026-08-10T19:17:02.711Z",
+  "expiresAt": "2026-08-11T01:17:02.711Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -590,8 +590,62 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142608",
+      "title": "阿富汗：联合国敦促塔利班就安全部队犯下的滥用职权行为公开信息",
+      "category": "国际",
+      "summary": "联合国周一表示，在塔利班执政五年后，阿富汗民众几乎仍无从知晓那些滥用职权的士兵、警察和道德监察官员是否曾受到惩处——而这种保密状态正在侵蚀民众对国家的信任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142608",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142607",
+      "title": "联合国呼吁采取紧急行动，保护儿童免受网络信息风险的侵害",
+      "category": "国际",
+      "summary": "目前，全球15至24岁的年轻人中，每10人就有超过8人上网，而在低收入国家，这一比例几乎是其他人群的两倍。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142607",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142606",
+      "title": "乌克兰人道主义援助仓库遭袭",
+      "category": "国际",
+      "summary": "俄罗斯对乌克兰持续进行的大规模入侵，使平民屡遭致命袭击，人道主义工作者和关键设施也成为袭击目标并遭到破坏。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142606",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142590",
-      "title": "从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
+      "title": "【专题报道】从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
       "category": "国际",
       "summary": "一个废弃的油桶，能变成什么？在特立尼达和多巴哥，人们给出的答案是：一件能够奏响动人旋律的乐器。 20世纪初，当地民众将废弃油桶改造成钢鼓，创造出20世纪唯一诞生的原声乐器。如今，钢鼓的旋律早已传遍世界，不仅成为加勒比文化的重要象征，也延续着源自西非打击乐的音乐传统。 2023年，联合国大会通过决议，决定将每年的8月11日定为“世界钢鼓日”，旨在提升国际社会对",
       "source": "联合国新闻",
@@ -1686,60 +1740,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142567",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142574",
-      "title": "【世界进行时】2026年7月31日",
-      "category": "国际",
-      "summary": "本期要点：厄尔尼诺正在增强，古特雷斯呼吁采取行动应对全球极端高温；中东：加沙、黎巴嫩和约旦河西岸平民死亡人数攀升；艾滋病规划署：全球艾滋病防控工作陷入停滞，疫情卷土重来风险加剧；教科文组织新增25处世界遗产 “景德镇手工瓷业遗存”成功入选；《难民公约》通过75周年，联合国发起全球团结倡议呼吁支持难民保护。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142574",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142571",
-      "title": "野火烟雾构成隐性健康威胁",
-      "category": "国际",
-      "summary": "世界卫生组织警告说，人们通常只关注野火造成的破坏，但野火产生的烟雾却可能对远超火灾区域范围以外的人群构成严重健康威胁。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142571",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142570",
-      "title": "加沙、黎巴嫩和约旦河西岸平民死亡人数攀升，联合国秘书长呼吁“必须停止战斗”",
-      "category": "国际",
-      "summary": "联合国各机构周五报告称，中东各地的暴力事件和平民伤亡人数正在上升——从以色列对加沙的空袭到黎巴嫩和约旦河西岸持续的敌对行动——与此同时，联合国秘书长呼吁“必须停止战斗”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142570",
       "publishedAt": "2026-07-31T12:00:00.000Z",
       "tags": [
         "国际",

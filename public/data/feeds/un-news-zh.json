@@ -5,8 +5,29 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142608",
+      "title": "阿富汗：联合国敦促塔利班就安全部队犯下的滥用职权行为公开信息",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142608",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142607",
+      "title": "联合国呼吁采取紧急行动，保护儿童免受网络信息风险的侵害",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142607",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142606",
+      "title": "乌克兰人道主义援助仓库遭袭",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142606",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142590",
-      "title": "从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
+      "title": "【专题报道】从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
       "meta": "联合国新闻 · 2026/8/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142590",
       "publishedAt": "2026-08-10T12:00:00.000Z"
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/7/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/07/1142567",
       "publishedAt": "2026-07-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142574",
-      "title": "【世界进行时】2026年7月31日",
-      "meta": "联合国新闻 · 2026/7/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142574",
-      "publishedAt": "2026-07-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142571",
-      "title": "野火烟雾构成隐性健康威胁",
-      "meta": "联合国新闻 · 2026/7/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142571",
-      "publishedAt": "2026-07-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142570",
-      "title": "加沙、黎巴嫩和约旦河西岸平民死亡人数攀升，联合国秘书长呼吁“必须停止战斗”",
-      "meta": "联合国新闻 · 2026/7/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142570",
-      "publishedAt": "2026-07-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T17:08:44.081Z",
+  "updatedAt": "2026-08-10T19:17:02.711Z",
   "provider": "OneBench 公共资讯快照"
 }
