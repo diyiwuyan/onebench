@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0n9gejzpo/trad#0",
+      "title": "「最強颱風」紀錄險再刷新 白海豚登陸後北移百萬人疏散",
+      "meta": "BBC 中文 · 2026/8/10",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0n9gejzpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T05:41:30.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crl74ww8581o/trad#0",
       "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
       "meta": "BBC 中文 · 2026/8/10",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-08-07T10:34:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad#1",
       "title": "人工智能被用於設計全新病毒",
       "meta": "BBC 中文 · 2026/8/7",
       "url": "https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad?at_medium=RSS&at_campaign=rss",
@@ -110,13 +117,6 @@
       "publishedAt": "2026-08-06T00:35:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#5",
-      "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
-      "meta": "BBC 中文 · 2026/8/5",
-      "url": "https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T10:59:27.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#1",
       "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
       "meta": "BBC 中文 · 2026/8/5",
@@ -131,7 +131,7 @@
       "publishedAt": "2026-08-05T08:20:14.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad#5",
       "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad?at_medium=RSS&at_campaign=rss",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T02:34:36.837Z",
+  "updatedAt": "2026-08-10T05:44:12.242Z",
   "provider": "OneBench 公共资讯快照"
 }
