@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T19:17:02.711Z",
-  "expiresAt": "2026-08-11T01:17:02.711Z",
+  "generatedAt": "2026-08-10T21:02:21.169Z",
+  "expiresAt": "2026-08-11T03:02:21.169Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -586,6 +586,42 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
+      "title": "哥伦比亚再次发生强烈地震，联合国提供援助",
+      "category": "国际",
+      "summary": "联合国系统正与哥伦比亚当局保持联系，应急团队正努力抵达受灾社区，但农村地区通信不畅，给评估灾情全貌带来了困难。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142611",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142609",
+      "title": "刚果（金）：埃博拉病毒在患者尚未就医前便已夺走他们的生命",
+      "category": "国际",
+      "summary": "在刚果民主共和国（刚果（金））暴发的埃博拉疫情中，已有超过1900人死亡——其中大多数人甚至未能抵达治疗中心。60%至70%的死亡病例发生在远离医疗服务社区的地区，这一缺口现已成为世界卫生组织应对工作的核心。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142609",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1698,24 +1734,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142575",
-      "title": "刚果（金）：埃博拉疫情中心地带新设治疗中心",
-      "category": "国际",
-      "summary": "随着上周末刚果民主共和国（刚果（金））确诊埃博拉病例数持续急剧攀升，联合国支持的新治疗中心将开始在该国东部地区提供服务。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142575",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
       "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
       "category": "国际",
@@ -1729,24 +1747,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142567",
-      "title": "窑火不熄：千年瓷都景德镇如何与世界连接——申遗成功注入新动力",
-      "category": "国际",
-      "summary": "一千多年来，景德镇的窑火从未熄灭。在这座千年瓷都，老匠人在窑火旁传承技艺，年轻的“景漂”在老街与咖啡馆之间寻找创意，七十二道制瓷工序仍在延续。一件件瓷器背后，是一座城市与手艺共同生长的故事。 7月25日，在韩国釜山举行的联合国教科文组织第48届世界遗产大会上，“景德镇手工瓷业遗存”成功列入《世界遗产名录》。这不仅是对千年制瓷文明的认可，也让世界看到了一座“活",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142567",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

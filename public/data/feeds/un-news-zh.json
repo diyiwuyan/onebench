@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
+      "title": "哥伦比亚再次发生强烈地震，联合国提供援助",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142611",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142609",
+      "title": "刚果（金）：埃博拉病毒在患者尚未就医前便已夺走他们的生命",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142609",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142608",
       "title": "阿富汗：联合国敦促塔利班就安全部队犯下的滥用职权行为公开信息",
       "meta": "联合国新闻 · 2026/8/10",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/3",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142576",
       "publishedAt": "2026-08-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142575",
-      "title": "刚果（金）：埃博拉疫情中心地带新设治疗中心",
-      "meta": "联合国新闻 · 2026/8/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142575",
-      "publishedAt": "2026-08-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/07/1142567",
-      "title": "窑火不熄：千年瓷都景德镇如何与世界连接——申遗成功注入新动力",
-      "meta": "联合国新闻 · 2026/7/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/07/1142567",
-      "publishedAt": "2026-07-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T19:17:02.711Z",
+  "updatedAt": "2026-08-10T21:02:21.169Z",
   "provider": "OneBench 公共资讯快照"
 }
