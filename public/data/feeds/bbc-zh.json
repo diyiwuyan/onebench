@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crl74ww8581o/trad#0",
+      "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
+      "meta": "BBC 中文 · 2026/8/10",
+      "url": "https://www.bbc.com/zhongwen/articles/crl74ww8581o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T00:01:29.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjejnyxg9ggo/trad#0",
       "title": "加拿大山火迅速蔓延並擴大一倍 當局宣布進入緊急狀態",
       "meta": "BBC 中文 · 2026/8/9",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-09T03:59:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#1",
       "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
       "meta": "BBC 中文 · 2026/8/7",
       "url": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
@@ -117,7 +124,7 @@
       "publishedAt": "2026-08-05T08:40:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#5",
       "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
       "meta": "BBC 中文 · 2026/8/5",
       "url": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-08-03T14:08:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#5",
-      "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
-      "meta": "BBC 中文 · 2026/8/3",
-      "url": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T01:19:18.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
       "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
       "meta": "BBC 中文 · 2026/8/1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-09T22:49:58.636Z",
+  "updatedAt": "2026-08-10T02:34:36.837Z",
   "provider": "OneBench 公共资讯快照"
 }
