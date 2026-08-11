@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T15:16:25.065Z",
-  "expiresAt": "2026-08-11T21:16:25.065Z",
+  "generatedAt": "2026-08-11T17:12:42.320Z",
+  "expiresAt": "2026-08-11T23:12:42.320Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
+      "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
+      "category": "综合",
+      "summary": "伊朗最高领袖顾问穆赫贝尔11日在社交媒体上说，在伊朗的条件得到满足之前，霍尔木兹海峡不会开放。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
+      "publishedAt": "2026-08-11T15:54:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676075.shtml",
+      "title": "俄伊外交部就伊朗核计划问题举行司长级磋商",
+      "category": "综合",
+      "summary": "中新社莫斯科8月11日电 俄罗斯外交部11日发布消息说，俄罗斯与伊朗外交部门在莫斯科就伊朗核计划解决前景等议题进行了磋商。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676075.shtml",
+      "publishedAt": "2026-08-11T15:51:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-11/10676071.shtml",
+      "title": "共赴统战文化之约 把团结故事讲给更多人听",
+      "category": "综合",
+      "summary": "近年来，统战文化建设成为全国多地统战部门的重要工作内容。丰富多彩的统战文化周、文化月、文化博览汇等活动，不仅广泛汇聚起统一战线“同心”力量，更推动统战文化“出圈”，让“团结”故事走入大众视野。《中国新闻》报近日专访上海市委统战部副部长房剑森、重庆市委统战部副部长赖顺材、湖北省委统战部副部长邵志祥，解读三地释放统战文化活力、推动统战文化建设的创新“密码”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-11/10676071.shtml",
+      "publishedAt": "2026-08-11T15:51:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676070.shtml",
+      "title": "西藏：“数字拉萨”建设成果丰硕 数字赋能雪域高质量发展",
+      "category": "综合",
+      "summary": "中新网拉萨8月11日电 (贡嘎来松)11日，西藏拉萨作为全球数字经济大会中国国内唯一永久分会场，2026全球数字经济大会拉萨高层论坛新闻发布会在拉萨举行。记者从发布会上获悉，以“数聚拉萨·能创未来”为主题的拉萨高层论坛，将于8月18日在拉萨市群众文化体育中心篮球主场馆启幕，拉萨已连续五年与北京主会场双向联动，打造京拉数字协作标杆与高原数字经济发展样板。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676070.shtml",
+      "publishedAt": "2026-08-11T15:49:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-11/10676074.shtml",
+      "title": "国家体育总局体操中心发表抵制“饭圈”声明",
+      "category": "综合",
+      "summary": "8月11日，中国体操协会发表声明。声明全文如下：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10676074.shtml",
+      "publishedAt": "2026-08-11T15:20:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676073.shtml",
       "title": "亚洲首个！我国柔直海上风电项目发电量破百亿千瓦时",
@@ -482,92 +572,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-11/10676038.shtml",
-      "title": "27国好物齐聚拉萨 环球优品展览会助力雪顿节",
-      "category": "综合",
-      "summary": "图为市民在选购商品。中新社记者 贡嘎来松 摄 图为市民在选购商品。中新社记者 贡嘎来松 摄 图为市民在选购商品。中新社记者 贡嘎来松 摄 图为市民在选购毛毯。中新社记者 贡嘎来松 摄 图为市民在选购毛毯。中新社记者 贡嘎来松 摄 图为市民在选购藏装。中新社记者 贡嘎来松 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10676038.shtml",
-      "publishedAt": "2026-08-11T14:10:01.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142612",
+      "title": "安理会：联合国官员警告约旦河西岸局势恶化 呼吁采取紧急行动",
+      "category": "国际",
+      "summary": "联合国中东和平进程副特别协调员阿拉克巴罗夫周二向安理会通报中东局势时表示，尽管加沙地带脆弱停火和地区紧张局势受到国际社会关注，被占领的约旦河西岸（包括东耶路撒冷）已处于崩溃边缘。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142612",
+      "publishedAt": "2026-08-11T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-11/10676039.shtml",
-      "title": "香港驻吉隆坡经贸办开幕 加码东盟市场布局",
-      "category": "综合",
-      "summary": "中新社香港8月11日电 据香港特区政府新闻处11日消息，特区政府商务及经济发展局局长丘应桦当日在马来西亚访问，并主持香港驻吉隆坡经济贸易办事处(简称“香港驻吉隆坡经贸办”)开幕典礼。该办事处开幕标志着香港深化与马来西亚乃至整个东盟的伙伴关系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10676039.shtml",
-      "publishedAt": "2026-08-11T14:09:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676054.shtml",
-      "title": "活力中国调研行｜长沙：老厂区里长出新艺术",
-      "category": "综合",
-      "summary": "新华社长沙8月10日电 题：长沙：老厂区里长出新艺术",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676054.shtml",
-      "publishedAt": "2026-08-11T14:08:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-11/10676033.shtml",
-      "title": "广东大雾岭林场探索盘活林地资源",
-      "category": "综合",
-      "summary": "图为8月11日，航拍大雾岭林场。中新社记者 陈骥旻 摄 图为8月11日，航拍高山茶园“高黄酮茶叶生产基地”。中新社记者 陈骥旻 摄 图为8月11日，工作人员在高黄酮茶园采摘茶叶。中新社记者 陈骥旻 摄 图为8月11日，游客登上大田顶观光。中新社记者 陈骥旻 摄 图为8月11日，大雾岭林场周边村民在林下种植菌菇。中新社记者 陈骥旻 摄 图为8月11日，大雾岭林",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10676033.shtml",
-      "publishedAt": "2026-08-11T14:07:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676052.shtml",
-      "title": "看舞狮、跳竹竿舞 中国非遗民俗“圈粉”世界",
-      "category": "综合",
-      "summary": "暑期以来，湖南张家界天门山景区开启暑期“宠客”模式，推出系列沉浸式非遗民俗活动。山水为景、民俗为趣，精彩纷呈的特色表演、趣味互动体验，吸引了很多海外游客。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676052.shtml",
-      "publishedAt": "2026-08-11T14:07:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -817,7 +835,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
-      "title": "哥伦比亚再次发生强烈地震，联合国提供援助",
+      "title": "哥伦比亚发生强烈地震，联合国提供援助",
       "category": "国际",
       "summary": "联合国系统正与哥伦比亚当局保持联系，应急团队正努力抵达受灾社区，但农村地区通信不畅，给评估灾情全貌带来了困难。",
       "source": "联合国新闻",
@@ -1705,24 +1723,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142576",
-      "title": "以色列侵犯黎巴嫩领空，周末空袭加沙造成二十余人死亡",
-      "category": "国际",
-      "summary": "联合国机构周一表示，尽管停火协议仍在生效，但据报道，以色列军队上周末在加沙打死了二十余名巴勒斯坦人；与此同时，联合国维和部门表示，以色列侵犯黎巴嫩领空超过100次。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142576",
       "publishedAt": "2026-08-03T12:00:00.000Z",
       "tags": [
         "国际",

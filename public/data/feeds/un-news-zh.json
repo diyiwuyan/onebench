@@ -5,8 +5,15 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142612",
+      "title": "安理会：联合国官员警告约旦河西岸局势恶化 呼吁采取紧急行动",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142612",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
-      "title": "哥伦比亚再次发生强烈地震，联合国提供援助",
+      "title": "哥伦比亚发生强烈地震，联合国提供援助",
       "meta": "联合国新闻 · 2026/8/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142611",
       "publishedAt": "2026-08-10T12:00:00.000Z"
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/3",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
       "publishedAt": "2026-08-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142576",
-      "title": "以色列侵犯黎巴嫩领空，周末空袭加沙造成二十余人死亡",
-      "meta": "联合国新闻 · 2026/8/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142576",
-      "publishedAt": "2026-08-03T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-11T15:16:25.065Z",
+  "updatedAt": "2026-08-11T17:12:42.320Z",
   "provider": "OneBench 公共资讯快照"
 }
