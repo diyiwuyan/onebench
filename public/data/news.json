@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T21:04:19.978Z",
-  "expiresAt": "2026-08-12T03:04:19.978Z",
+  "generatedAt": "2026-08-11T23:03:17.853Z",
+  "expiresAt": "2026-08-12T05:03:17.853Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-12/10676083.shtml",
+      "title": "8月12日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-12/10676083.shtml",
+      "publishedAt": "2026-08-11T22:57:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676082.shtml",
+      "title": "“人民艺术家”郭兰英逝世 享年97岁",
+      "category": "综合",
+      "summary": "中国歌剧舞剧院发布讣告，中国共产党优秀党员，“人民艺术家”国家荣誉称号获得者，“最美奋斗者”荣誉称号获得者，“中国文联终身成就戏剧家”荣誉称号获得者，第一、二、三、五、六届全国人民代表大会代表，中国歌剧舞剧院一级演员，著名歌剧表演艺术家郭兰英同志，因病于2026年8月11日17时14分在广州逝世，享年97岁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676082.shtml",
+      "publishedAt": "2026-08-11T22:46:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676081.shtml",
+      "title": "当智能眼镜成为“行走的摄像头”，隐私边界如何守住？",
+      "category": "综合",
+      "summary": "轻量佩戴无负担，方便以第一视角随时记录生活，但也暗藏偷拍偷录风险",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676081.shtml",
+      "publishedAt": "2026-08-11T22:34:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676080.shtml",
+      "title": "中方严斥美国炮制“弹道导弹发射通报”涉华共同发言",
+      "category": "综合",
+      "summary": "新华社日内瓦8月11日电(记者王其冰)中国裁军事务大使李驰江11日在日内瓦裁军谈判会议(简称裁谈会)上严正驳斥美国代表所谓“弹道导弹发射通报”涉华共同发言，强调中国正当合理的国防现代化建设不容置疑，中方提前通报导弹发射的善意举措不应被地缘政治算计所绑架；中方坚决反对个别国家滥用裁谈会平台搞政治操弄。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676080.shtml",
+      "publishedAt": "2026-08-11T22:31:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676079.shtml",
+      "title": "英国首相伯纳姆出台新政 力图振兴萧条的商业街",
+      "category": "综合",
+      "summary": "中新社伦敦8月11日电 (记者 欧阳开宇)英国首相安迪·伯纳姆11日公布一揽子政策，希望扭转国内城镇商业街长期“空心化”、持续萧条的局面，将更多城市建设的决策权下放至地方社区与市政当局。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676079.shtml",
+      "publishedAt": "2026-08-11T22:29:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676078.shtml",
+      "title": "美军：使用导弹袭击一艘驶往伊朗的货轮 并致其停航",
+      "category": "综合",
+      "summary": "中新网8月12日电 当地时间11日，美军中央司令部在社交媒体发布消息称，美军一架直升机当天向一艘“违反美国对伊朗海上封锁”的货轮开火，致使其转向装置失效而停止航行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676078.shtml",
+      "publishedAt": "2026-08-11T22:28:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676077.shtml",
+      "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
+      "category": "综合",
+      "summary": "当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，美国是霍尔木兹海峡、波斯湾和阿曼湾不安全的根源，美国对伊朗发动非法战争，危及整个地区。“除非美国改变其行为并接受伊朗的条件，否则霍尔木兹海峡不会开放。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676077.shtml",
+      "publishedAt": "2026-08-11T22:28:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
       "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -436,132 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676015.shtml",
       "publishedAt": "2026-08-11T14:14:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676056.shtml",
-      "title": "泰国政府宣布暂停发放购枪许可证",
-      "category": "综合",
-      "summary": "据泰国政府网站11日消息，泰国政府当天发布公告，宣布暂停发放购枪许可证，并在全国范围内核查尚未完成枪支交易的许可证。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676056.shtml",
-      "publishedAt": "2026-08-11T14:13:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676021.shtml",
-      "title": "河南启动营运客车突出问题专项整治行动",
-      "category": "综合",
-      "summary": "中新网郑州8月11日电 (记者 刘鹏)记者11日从河南省交通运输厅获悉，即日起至2026年12月31日，河南省交通运输厅联合河南省公安厅、河南省文化和旅游厅、河南省应急管理厅等部门，在全省范围内开展营运客车突出问题专项整治行动，通过严查非法改装、非法营运等七类顽疾，明确多项整治措施，为民众出行系紧“安全带”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676021.shtml",
-      "publishedAt": "2026-08-11T14:13:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676016.shtml",
-      "title": "贵阳国际陆港：借力平陆运河 助“贵州造”批量走向“深蓝”",
-      "category": "综合",
-      "summary": "中新网贵阳8月11日电 题：贵阳国际陆港：借力平陆运河 助“贵州造”批量走向“深蓝”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676016.shtml",
-      "publishedAt": "2026-08-11T14:13:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676051.shtml",
-      "title": "广西自贸试验区全面推行政府采购制度型开放改革对接国际经贸规则",
-      "category": "综合",
-      "summary": "中新网南宁8月11日电(林浩 韦佳秀)广西壮族自治区财政厅日前印发通知，将在中国(广西)自由贸易试验区全面推行政府采购领域制度型开放改革试点措施，进一步对接国际高标准经贸规则，推进高水平制度型开放。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676051.shtml",
-      "publishedAt": "2026-08-11T14:12:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-11/10676043.shtml",
-      "title": "香港青少年广西开启“少年强”国防教育之旅",
-      "category": "综合",
-      "summary": "中新社南宁8月11日电 (韦佳秀)“这次活动中，我非常期待亲手操控无人机，近距离感受祖国国防科技的发展。”8月11日，桂港澳台青少年交流计划暨“少年强”2026香港青少年广西夏令营学员苏锦雄在南宁说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10676043.shtml",
-      "publishedAt": "2026-08-11T14:12:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10676049.shtml",
-      "title": "最新研究揭示3亿年前地球极热事件机制 为全球变暖应对提供参照",
-      "category": "综合",
-      "summary": "中新网北京8月11日电 (记者 孙自法)地球上“正在进行时”的全球变暖及其发展趋势、产生影响和如何应对，一直以来广受关注。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10676049.shtml",
-      "publishedAt": "2026-08-11T14:11:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10676040.shtml",
-      "title": "海峡两岸客家文化交流大会在福建长汀举行",
-      "category": "综合",
-      "summary": "中新社福建龙岩8月11日电 (记者 闫旭)海峡两岸客家文化交流大会系列活动11日在素有“客家首府”之称的福建龙岩长汀举行。两岸约300名客属乡亲、专家学者和青年代表齐聚，共话两岸青年在多领域深耕、融合，拥抱大陆发展机遇的故事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10676040.shtml",
-      "publishedAt": "2026-08-11T14:10:41.000Z",
       "tags": [
         "国内",
         "社会",
