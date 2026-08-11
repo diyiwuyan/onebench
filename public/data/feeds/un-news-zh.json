@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142615",
+      "title": "缅甸：联合国调查人员记录了军方对平民的蓄意袭击",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142615",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142614",
+      "title": "全球7月气温创有记录以来第二高",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142614",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142613",
+      "title": "应对哥伦比亚7.4级地震 联合国表示随时准备提供支持",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142613",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142612",
       "title": "安理会：联合国官员警告约旦河西岸局势恶化 呼吁采取紧急行动",
       "meta": "联合国新闻 · 2026/8/11",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/4",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142580",
       "publishedAt": "2026-08-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142579",
-      "title": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险",
-      "meta": "联合国新闻 · 2026/8/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142579",
-      "publishedAt": "2026-08-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142578",
-      "title": "阿富汗儿童营养不良危机加剧 粮食署警告援助削减将危及生命",
-      "meta": "联合国新闻 · 2026/8/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142578",
-      "publishedAt": "2026-08-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142577",
-      "title": "苏丹无人机空袭威胁平民及人道主义救援行动",
-      "meta": "联合国新闻 · 2026/8/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
-      "publishedAt": "2026-08-03T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-11T17:12:42.320Z",
+  "updatedAt": "2026-08-11T19:20:20.604Z",
   "provider": "OneBench 公共资讯快照"
 }

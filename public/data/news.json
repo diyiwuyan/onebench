@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T17:12:42.320Z",
-  "expiresAt": "2026-08-11T23:12:42.320Z",
+  "generatedAt": "2026-08-11T19:20:20.604Z",
+  "expiresAt": "2026-08-12T01:20:20.604Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,60 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142615",
+      "title": "缅甸：联合国调查人员记录了军方对平民的蓄意袭击",
+      "category": "国际",
+      "summary": "据人权理事会任命的调查人员称，缅甸军方持续对平民实施蓄意袭击——包括对民宅、学校和流离失所者营地的空袭，以及任意拘留、酷刑和性暴力。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142615",
+      "publishedAt": "2026-08-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142614",
+      "title": "全球7月气温创有记录以来第二高",
+      "category": "国际",
+      "summary": "世界气象组织周二表示，创纪录的海表温度、高温、干旱、火灾和洪水，共同构成了7月及8月初的气候状况。全球7月气温创有记录以来第二高。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142614",
+      "publishedAt": "2026-08-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142613",
+      "title": "应对哥伦比亚7.4级地震 联合国表示随时准备提供支持",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周二通过发言人发表声明，对哥伦比亚发生7.4级地震、目前造成至少160多人遇难、多人受伤的报道深感悲痛。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142613",
+      "publishedAt": "2026-08-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1629,42 +1683,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142579",
-      "title": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险",
-      "category": "国际",
-      "summary": "世界银行集团周二发布《2026年世界发展报告：人工智能：发展新机遇》指出，人工智能有可能帮助发展中国家在十年内取得原本可能需要上百年才能实现的发展成果，但前提是各国政府必须迅速行动，缩小在电力、网络、技能和制度质量等方面的差距。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142579",
-      "publishedAt": "2026-08-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142578",
-      "title": "阿富汗儿童营养不良危机加剧 粮食署警告援助削减将危及生命",
-      "category": "国际",
-      "summary": "世界粮食计划署周二警告，阿富汗儿童营养不良危机持续加剧，但资金短缺却迫使挽救生命的粮食和营养项目缩减规模。如果没有紧急援助，世界粮食计划署及其合作伙伴将无法阻止更多儿童陷入危及生命的营养不良状态，未来数月将有更多儿童面临生命威胁。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142578",
-      "publishedAt": "2026-08-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad#2",
       "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
       "category": "国际",
@@ -1712,24 +1730,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142577",
-      "title": "苏丹无人机空袭威胁平民及人道主义救援行动",
-      "category": "国际",
-      "summary": "联合国人道主义事务协调厅周一表示，随着袭击持续波及受冲突影响的地区，无人机空袭正给苏丹平民带来致命风险，并阻碍了人道主义救援力量向受灾民众提供援助。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
