@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T15:14:47.282Z",
-  "expiresAt": "2026-08-12T21:14:47.282Z",
+  "generatedAt": "2026-08-12T17:12:08.246Z",
+  "expiresAt": "2026-08-12T23:12:08.246Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,76 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#0",
+      "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
+      "category": "国际",
+      "summary": "美國總統多次質疑兒童疫苗的安全性，並發表許多誤導性言論。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T16:00:21.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-12/10676689.shtml",
+      "title": "海内外足球小将聚沈阳 11天鏖战千余场比赛",
+      "category": "综合",
+      "summary": "中新社沈阳8月12日电 (记者 李晛)2026沈阳第十二届“和平杯”国际青少年足球邀请赛12日开幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676689.shtml",
+      "publishedAt": "2026-08-12T15:52:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676688.shtml",
+      "title": "云南华宁南盘江一民船侧翻致6人落水 目前1人获救",
+      "category": "综合",
+      "summary": "8月12日18时许，云南省华宁县盘溪镇水头寨南盘江水域发生一起村民自用小船侧翻事件，船上6人落水。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676688.shtml",
+      "publishedAt": "2026-08-12T15:49:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad#2",
+      "title": "朱鎔基逝世：中國改革開放時期的「鐵腕總理」是誰？",
+      "category": "国际",
+      "summary": "中國前總理朱鎔基週一在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T15:24:03.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad#0",
       "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
@@ -553,42 +623,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-12/10676653.shtml",
-      "title": "浙江绍兴：窗帘布艺吸引客商",
-      "category": "综合",
-      "summary": "图为两名参展商整理展出的地毯。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄 图为客商挑选窗帘款式。中新社记者 项菁 摄 图为展会现场。中新社记者 项菁 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676653.shtml",
-      "publishedAt": "2026-08-12T14:11:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676616.shtml",
-      "title": "无人机“坠箭”系非法狩猎 湖南打击新型环境犯罪",
-      "category": "综合",
-      "summary": "中新社长沙8月12日电 (记者 傅煜)湖南省高级人民法院12日对外发布一起利用无人机“坠箭”非法狩猎的新型环境犯罪案件，两名被告人获刑并承担生态修复赔偿责任。目前该判决已生效。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676616.shtml",
-      "publishedAt": "2026-08-12T14:11:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#0",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
       "category": "国际",
@@ -746,7 +780,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#1",
       "title": "「我被朝鮮綁架，還被迫嫁給美國士兵」",
       "category": "国际",
       "summary": "曾我瞳十多歲時遭綁架，並被扣押超過20年。她是東京指稱於1970年代和1980年代遭朝鮮綁架的至少17名日本公民之一。",
@@ -1041,23 +1075,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad#1",
-      "title": "哥倫比亞多年來最大地震造成至少132人死亡",
-      "category": "国际",
-      "summary": "這場7.4級地震震央位於太平洋沿岸附近的喬科省（Chocó），但數百公里外的城市亦有震感。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T03:43:53.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1725,23 +1742,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T00:01:45.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad#2",
-      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
-      "category": "国际",
-      "summary": "中國政府已推出一系列刺激消費措施，包括發放消費補貼，以及公佈擴大消費的五年規劃。然而，為何這些政策未能達到北京預期的效果？中國消費低迷究竟只是短期現象，還是反映出更深層的結構性問題？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T14:08:15.000Z",
       "tags": [
         "国际",
         "商业",

@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#0",
+      "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T16:00:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad#2",
+      "title": "朱鎔基逝世：中國改革開放時期的「鐵腕總理」是誰？",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T15:24:03.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad#0",
       "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
       "meta": "BBC 中文 · 2026/8/12",
@@ -47,7 +61,7 @@
       "publishedAt": "2026-08-12T04:52:50.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#1",
       "title": "「我被朝鮮綁架，還被迫嫁給美國士兵」",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad?at_medium=RSS&at_campaign=rss",
@@ -94,13 +108,6 @@
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T07:58:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad#1",
-      "title": "哥倫比亞多年來最大地震造成至少132人死亡",
-      "meta": "BBC 中文 · 2026/8/11",
-      "url": "https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T03:43:53.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#1",
@@ -180,13 +187,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad#2",
-      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
-      "meta": "BBC 中文 · 2026/8/3",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T14:08:15.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
       "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
       "meta": "BBC 中文 · 2026/8/1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T15:14:47.282Z",
+  "updatedAt": "2026-08-12T17:12:08.246Z",
   "provider": "OneBench 公共资讯快照"
 }
