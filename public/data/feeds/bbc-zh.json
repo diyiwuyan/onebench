@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#0",
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T08:31:43.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad#0",
       "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
       "meta": "BBC 中文 · 2026/8/12",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-08-11T11:00:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad#1",
       "title": "芬蘭海底天然氣管道受損，案件為何在香港審理？",
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/8/10",
       "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T09:16:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlxgle9prro/trad#1",
-      "title": "保「先人」清靜 《哈利波特》書迷影迷成功迫使跨境電纜改道",
-      "meta": "BBC 中文 · 2026/8/10",
-      "url": "https://www.bbc.com/zhongwen/articles/cqlxgle9prro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T08:00:07.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T07:52:34.128Z",
+  "updatedAt": "2026-08-12T09:32:07.086Z",
   "provider": "OneBench 公共资讯快照"
 }
