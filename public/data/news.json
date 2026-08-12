@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T21:02:48.955Z",
-  "expiresAt": "2026-08-13T03:02:48.955Z",
+  "generatedAt": "2026-08-12T23:01:16.152Z",
+  "expiresAt": "2026-08-13T05:01:16.152Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676696.shtml",
+      "title": "美国佐治亚州一所高中卫生间内发生枪击，一人受伤",
+      "category": "综合",
+      "summary": "中新网8月13日电 据美国哥伦比亚广播公司(CBS)报道。据当地警方消息，美国佐治亚州一所高中12日发生一起枪击事件，造成一名学生受伤，嫌疑人已被拘留。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676696.shtml",
+      "publishedAt": "2026-08-12T22:56:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-13/10676695.shtml",
+      "title": "8月13日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-13/10676695.shtml",
+      "publishedAt": "2026-08-12T22:54:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
+      "title": "已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情",
+      "category": "综合",
+      "summary": "世界卫生组织总干事谭德塞8月12日警告，如果刚果(金)埃博拉疫情维持当前传播速度，其规模可能超过2014年至2016年西非埃博拉疫情，成为有记录以来最致命的埃博拉疫情。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
+      "publishedAt": "2026-08-12T22:46:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676693.shtml",
+      "title": "美国国务院成立特别工作组遏止“生育旅游”",
+      "category": "综合",
+      "summary": "中新社华盛顿8月12日电 美国国务院当地时间12日发表声明说，国务院已成立特别工作组，以打击针对赴美生育从而使新生儿获得美国公民身份的“生育旅游”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676693.shtml",
+      "publishedAt": "2026-08-12T22:44:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml",
+      "title": "中国智能网联汽车为何发展快",
+      "category": "综合",
+      "summary": "今年以来，L2级组合驾驶辅助功能乘用车渗透率达到70.5%——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml",
+      "publishedAt": "2026-08-12T22:38:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
+      "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+      "category": "综合",
+      "summary": "当地时间12日，伊朗“波斯湾海峡管理局”表示，美国官员反复声称霍尔木兹海峡已重新开放，但这并不能改变事实。霍尔木兹海峡仍然关闭，除非美国接受伊朗提出的条件，否则该海峡不会重新开放。(总台记者 李健南)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
+      "publishedAt": "2026-08-12T22:26:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "title": "卡内余额不能买折扣商品？警惕预付卡变“闹心卡”！",
+      "category": "综合",
+      "summary": "商家未提前告知充值卡只能买正价商品，并称“顾客没有问，所以没有说”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "publishedAt": "2026-08-12T22:18:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#0",
       "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
@@ -487,132 +613,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676661.shtml",
       "publishedAt": "2026-08-12T14:14:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676662.shtml",
-      "title": "“十五五”时期 青海将推动中（藏）医药走向国际",
-      "category": "综合",
-      "summary": "中新网西宁8月12日电 (记者 孙睿)记者12日从青海省政府新闻办公室召开的“开局起步‘十五五’”主题系列新闻发布会国民健康专场上获悉，“十五五”时期，青海将依托独有高原资源，打造全国特色中(藏)医药服务体系，推动中(藏)医药走向国际。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676662.shtml",
-      "publishedAt": "2026-08-12T14:13:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-12/10676623.shtml",
-      "title": "香港商经局局长：香港已准备好作为连接中国内地与马来西亚的理想跳板",
-      "category": "综合",
-      "summary": "中新社香港8月12日电 “香港一直发挥‘超级联系人’和‘超级增值人’角色，并汇聚资金和机遇。凭借战略角色及其他众多优势，香港已准备好作为连接中国内地与马来西亚的理想跳板。”香港特区政府商务及经济发展局局长丘应桦12日表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676623.shtml",
-      "publishedAt": "2026-08-12T14:13:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-12/10676648.shtml",
-      "title": "今年以来中欧班列“中通道”通行量突破3000列",
-      "category": "综合",
-      "summary": "中新网呼和浩特8月12日电 (记者 李爱平)中国铁路呼和浩特局集团有限公司12日对外发布消息称，当日，1295次中欧班列从内蒙古自治区二连浩特铁路口岸驶出，标志着该口岸今年以来通行中欧班列数量突破3000列。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-12/10676648.shtml",
-      "publishedAt": "2026-08-12T14:12:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676664.shtml",
-      "title": "辽宁省挂牌督办朝阳市3人中毒死亡事故",
-      "category": "综合",
-      "summary": "辽宁省安全生产委员会发布的《较大生产安全事故查处挂牌督办通知书》披露，2026年8月5日19时3分许，位于辽宁朝阳市建平县万寿街道老西店村的建平县鑫隆泰牧业有限公司，在操作化粪池附近的积液池阀门时，发生一起中毒事故，造成3人死亡。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676664.shtml",
-      "publishedAt": "2026-08-12T14:12:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-12/10676654.shtml",
-      "title": "“羊妞”过生日，象粪变文创 云南西双版纳野象谷玩出新花样",
-      "category": "综合",
-      "summary": "图为“与象同学”科普互动现场。胡铮 摄 图为小朋友现场体验象粪制陶。胡铮 摄 图为亚洲象现场品尝水果宴。胡铮 摄 图为志愿者现场给亚洲象投喂水果。胡铮 摄 图为网红亚洲象“羊妞 ”享用特制生日蛋糕。白晨玥 摄 图为游客观看“亚洲象与我们”主题展。胡铮 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676654.shtml",
-      "publishedAt": "2026-08-12T14:12:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-12/10676618.shtml",
-      "title": "中国香港海关与巴基斯坦海关签订海关合作安排",
-      "category": "综合",
-      "summary": "中新社香港8月12日电 据香港特区政府新闻处12日消息，香港海关关长陈子达当日在香港海关总部大楼，以线上线下模式签订香港海关与巴基斯坦海关的海关合作安排。巴基斯坦海关关长Syed Shakeel Shah(赛义德·沙克尔·沙哈)及其代表团在线上见证整个过程，巴基斯坦驻香港总领事谢赫(Riaz Ahmed Shaikh)在线下出席签署仪式。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676618.shtml",
-      "publishedAt": "2026-08-12T14:12:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "title": "“东升西降”重塑台海博弈 两岸专家指新格局凸显时势在大陆",
-      "category": "综合",
-      "summary": "中新社北京8月12日电 (记者 李百加 刘大炜)第十一届京台学者共研会12日在北京举办。与会两岸专家表示，在百年变局深入演进、“东升西降”大势持续深化的时代背景下，台海新格局加速成形，凸显时势在大陆。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "publishedAt": "2026-08-12T14:12:02.000Z",
       "tags": [
         "国内",
         "社会",
