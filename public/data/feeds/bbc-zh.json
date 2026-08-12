@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad#0",
+      "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T15:12:05.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#0",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
       "meta": "BBC 中文 · 2026/8/12",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-08-12T08:31:43.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad#1",
       "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad?at_medium=RSS&at_campaign=rss",
@@ -103,7 +110,7 @@
       "publishedAt": "2026-08-11T00:02:22.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#4",
       "title": "為什麼航空公司對鋰電池日趨警惕",
       "meta": "BBC 中文 · 2026/8/10",
       "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
@@ -159,13 +166,6 @@
       "publishedAt": "2026-08-05T08:40:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#4",
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "meta": "BBC 中文 · 2026/8/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T12:16:12.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad#2",
       "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
       "meta": "BBC 中文 · 2026/8/4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T13:47:27.423Z",
+  "updatedAt": "2026-08-12T15:14:47.282Z",
   "provider": "OneBench 公共资讯快照"
 }
