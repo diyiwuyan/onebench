@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#0",
+      "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T12:00:14.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/trad#2",
       "title": "中國單身漢為何陷「閃婚」騙局？",
       "meta": "BBC 中文 · 2026/8/12",
@@ -12,7 +19,7 @@
       "publishedAt": "2026-08-12T10:31:56.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#1",
       "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
@@ -101,13 +108,6 @@
       "meta": "BBC 中文 · 2026/8/10",
       "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T09:16:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad#1",
-      "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
-      "meta": "BBC 中文 · 2026/8/10",
-      "url": "https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T06:37:01.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T11:10:43.058Z",
+  "updatedAt": "2026-08-12T13:47:27.423Z",
   "provider": "OneBench 公共资讯快照"
 }
