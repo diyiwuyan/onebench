@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad#0",
+      "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T04:52:50.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#0",
       "title": "「我被朝鮮綁架，還被迫嫁給美國士兵」",
       "meta": "BBC 中文 · 2026/8/12",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-08-11T08:39:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#1",
       "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +73,6 @@
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T00:02:22.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj0nz7d5mo/trad#1",
-      "title": "多了少了都不行：我們到底需要多少陽光？",
-      "meta": "BBC 中文 · 2026/8/11",
-      "url": "https://www.bbc.com/zhongwen/articles/clyj0nz7d5mo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T00:02:18.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T02:44:22.033Z",
+  "updatedAt": "2026-08-12T05:46:07.896Z",
   "provider": "OneBench 公共资讯快照"
 }

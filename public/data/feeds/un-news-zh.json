@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142616",
+      "title": "国际劳工组织：全球青年失业率上升 年轻人获得体面工作的道路愈发艰难",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142616",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142610",
+      "title": "【专题报道】“孔雀外交”：五位蓝白“新使者”亮相日内瓦",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142610",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142617",
+      "title": "教科文组织呼吁全面恢复阿富汗女童和妇女受教育权",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142617",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142615",
       "title": "缅甸：联合国调查人员记录了军方对平民的蓄意袭击",
       "meta": "联合国新闻 · 2026/8/11",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/5",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142583",
       "publishedAt": "2026-08-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142582",
-      "title": "非洲人首当其冲承受着生物多样性丧失的后果",
-      "meta": "联合国新闻 · 2026/8/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142582",
-      "publishedAt": "2026-08-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142581",
-      "title": "国际贸易中心：霍尔木兹海峡航运中断冲击关键产品供应",
-      "meta": "联合国新闻 · 2026/8/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142581",
-      "publishedAt": "2026-08-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142580",
-      "title": "世卫组织：刚果（金）埃博拉疫情扩大 多项治疗和疫苗研究同步推进",
-      "meta": "联合国新闻 · 2026/8/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142580",
-      "publishedAt": "2026-08-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T02:44:22.033Z",
+  "updatedAt": "2026-08-12T05:46:07.896Z",
   "provider": "OneBench 公共资讯快照"
 }
