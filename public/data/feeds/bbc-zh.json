@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg4dp9g9v1ko/trad#2",
+      "title": "「白海豚」中國暴雨持續：為何颱風災情愈來愈深入內陸地區？",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/cg4dp9g9v1ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T12:32:18.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
       "title": "朱鎔基逝世：台灣記住「搞台獨沒好下場」 香港感念金融風暴「挺港功臣」",
       "meta": "BBC 中文 · 2026/8/13",
@@ -152,13 +159,6 @@
       "publishedAt": "2026-08-10T09:16:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad#2",
-      "title": "SpaceX火箭撞擊月球 NASA將啟動調查事故",
-      "meta": "BBC 中文 · 2026/8/6",
-      "url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T09:13:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#4",
       "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
       "meta": "BBC 中文 · 2026/8/6",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T11:11:38.367Z",
+  "updatedAt": "2026-08-13T13:48:20.397Z",
   "provider": "OneBench 公共资讯快照"
 }
