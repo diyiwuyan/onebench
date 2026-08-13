@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T21:03:35.798Z",
-  "expiresAt": "2026-08-14T03:03:35.798Z",
+  "generatedAt": "2026-08-13T23:02:50.582Z",
+  "expiresAt": "2026-08-14T05:02:50.582Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-14/10677343.shtml",
+      "title": "8月14日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-14/10677343.shtml",
+      "publishedAt": "2026-08-13T22:53:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677342.shtml",
+      "title": "驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下",
+      "category": "综合",
+      "summary": "中新网8月14日电 据卡塔尔半岛电视台14日报道，伊朗方面驳斥了美国总统特朗普此前关于霍尔木兹海峡控制权的说法，伊朗民兵武装组织负责人侯赛因·塔伊布称，霍尔木兹海峡“在伊朗的控制和管理之下”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677342.shtml",
+      "publishedAt": "2026-08-13T22:42:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-14/10677341.shtml",
+      "title": "斯诺克中国公开赛八强出炉 中国选手占两席",
+      "category": "综合",
+      "summary": "中新社太原8月14日电 (记者 胡健)2026世界斯诺克中国公开赛13日晚在山西太原决出最后两个八强席位，四届世锦赛冠军、英格兰选手马克·塞尔比和中国选手张安达晋级八强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10677341.shtml",
+      "publishedAt": "2026-08-13T22:41:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-14/10677340.shtml",
+      "title": "外卖不等于垃圾食品，关键在于如何点",
+      "category": "综合",
+      "summary": "如今，外卖已融入现代生活，成为很多人日常饮食不可或缺的一部分。然而，“方便”与“健康”之间，横亘着一条需要主动跨越的鸿沟。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-14/10677340.shtml",
+      "publishedAt": "2026-08-13T22:34:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
+      "title": "高达100% 美国将对进口无人机及零部件征收关税",
+      "category": "综合",
+      "summary": "当地时间8月13日，美国白宫发表声明称，美国总统特朗普当日签署公告，以应对国家安全威胁为由对进口无人机及零部件征收10%至100%的从价关税。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
+      "publishedAt": "2026-08-13T22:28:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-13/10677338.shtml",
       "title": "周星驰新作《功夫女足》登陆香港院线",
@@ -472,96 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677305.shtml",
       "publishedAt": "2026-08-13T14:00:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10677302.shtml",
-      "title": "中秘合营 钱凯港上半年集装箱吞吐量同比增长超七成",
-      "category": "综合",
-      "summary": "中新社上海8月13日电 总部设于上海的中远海运集团13日对外发布信息称，今年上半年钱凯港完成集装箱船舶作业137艘次，比去年同期增长35.64%；散杂货船舶作业50艘次，同比增长28.2%；滚装船作业14艘次，同比增长133.33%；装箱作业4349TEU(标准箱)，同比增长127.82%；拆箱作业1724TEU，同比增长168.54%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677302.shtml",
-      "publishedAt": "2026-08-13T13:59:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-13/10677304.shtml",
-      "title": "东南亚水果经中老铁路输华今年已超20万吨",
-      "category": "综合",
-      "summary": "【东盟专线】东南亚水果经中老铁路输华今年已超20万吨",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-13/10677304.shtml",
-      "publishedAt": "2026-08-13T13:58:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10677303.shtml",
-      "title": "追忆“两弹一星”元勋王希季：转行拓荒，铺就中国航天路",
-      "category": "综合",
-      "summary": "中新社北京8月13日电 题：追忆“两弹一星”元勋王希季：转行拓荒，铺就中国航天路",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677303.shtml",
-      "publishedAt": "2026-08-13T13:58:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10677295.shtml",
-      "title": "中国汽车生产重镇重庆车企出海动作不断",
-      "category": "综合",
-      "summary": "中新社重庆8月13日电 (张旭 陈媛)重庆海关13日公布，据该关统计，2026年前7个月，重庆出口汽车353.3亿元人民币，同比增长57.1%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677295.shtml",
-      "publishedAt": "2026-08-13T13:56:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10677300.shtml",
-      "title": "两岸传媒学子采风河北长城文化和冬奥遗产",
-      "category": "综合",
-      "summary": "中新社唐山8月13日电 (陈林 李鹏 安麒静)为期11天的“青春相约·逐梦燕赵”——第八届两岸未来媒体人河北长城文化采风暨台湾传媒学子河北实习营活动13日落幕，来自冀台两地10余所高校新闻、影视、视觉传达类专业的近40名大学生在唐山作别，各自踏上返程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677300.shtml",
-      "publishedAt": "2026-08-13T13:53:25.000Z",
       "tags": [
         "国内",
         "社会",
