@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp87prg297po/trad#2",
+      "title": "台灣「城鎮韌性」演練 模擬戰時「斷網」",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/cp87prg297po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T09:19:35.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#0",
       "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
       "meta": "BBC 中文 · 2026/8/13",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-08-05T08:40:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad#2",
-      "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
-      "meta": "BBC 中文 · 2026/8/4",
-      "url": "https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T11:15:40.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
       "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
       "meta": "BBC 中文 · 2026/8/4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T07:53:20.887Z",
+  "updatedAt": "2026-08-13T09:33:45.306Z",
   "provider": "OneBench 公共资讯快照"
 }
