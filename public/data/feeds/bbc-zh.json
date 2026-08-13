@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
+      "title": "朱鎔基逝世：台灣記住「搞台獨沒好下場」 香港感念金融風暴「挺港功臣」",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T09:58:02.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp87prg297po/trad#2",
       "title": "台灣「城鎮韌性」演練 模擬戰時「斷網」",
       "meta": "BBC 中文 · 2026/8/13",
@@ -75,7 +82,7 @@
       "publishedAt": "2026-08-12T09:33:20.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#5",
       "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
@@ -145,13 +152,6 @@
       "publishedAt": "2026-08-10T09:16:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#5",
-      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
-      "meta": "BBC 中文 · 2026/8/6",
-      "url": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T13:34:05.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad#2",
       "title": "SpaceX火箭撞擊月球 NASA將啟動調查事故",
       "meta": "BBC 中文 · 2026/8/6",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T09:33:45.306Z",
+  "updatedAt": "2026-08-13T11:11:38.367Z",
   "provider": "OneBench 公共资讯快照"
 }
