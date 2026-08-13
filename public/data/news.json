@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T23:01:16.152Z",
-  "expiresAt": "2026-08-13T05:01:16.152Z",
+  "generatedAt": "2026-08-13T02:47:40.270Z",
+  "expiresAt": "2026-08-13T08:47:40.270Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676696.shtml",
-      "title": "美国佐治亚州一所高中卫生间内发生枪击，一人受伤",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10676817.shtml",
+      "title": "厦金“小三通”客运航线2023年复航以来运送旅客逾500万人次",
       "category": "综合",
-      "summary": "中新网8月13日电 据美国哥伦比亚广播公司(CBS)报道。据当地警方消息，美国佐治亚州一所高中12日发生一起枪击事件，造成一名学生受伤，嫌疑人已被拘留。",
+      "summary": "中新社厦门8月13日电 最新数据显示，自2023年厦金“小三通”客运航线复航以来，截至8月12日，航线累计运送旅客量已突破500万人次。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676696.shtml",
-      "publishedAt": "2026-08-12T22:56:11.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676817.shtml",
+      "publishedAt": "2026-08-13T02:42:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,32 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-13/10676695.shtml",
-      "title": "8月13日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/kong/2026/08-13/10676827.shtml",
+      "title": "7月汽车出口同比增超八成 车企加速全球化布局",
+      "category": "综合",
+      "summary": "记者 袁小康 来源：经济参考报",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/kong/2026/08-13/10676827.shtml",
+      "publishedAt": "2026-08-13T02:42:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-13/1200930.shtml",
+      "title": "哥伦比亚强震已致265人遇难 搜救工作持续进行",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-13/10676695.shtml",
-      "publishedAt": "2026-08-12T22:54:21.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-13/1200930.shtml",
+      "publishedAt": "2026-08-13T02:41:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
-      "title": "已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10676823.shtml",
+      "title": "剑指基金投资方向过度集中 首例罚单落地",
       "category": "综合",
-      "summary": "世界卫生组织总干事谭德塞8月12日警告，如果刚果(金)埃博拉疫情维持当前传播速度，其规模可能超过2014年至2016年西非埃博拉疫情，成为有记录以来最致命的埃博拉疫情。",
+      "summary": "剑指基金投资方向过度集中 首例罚单落地",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
-      "publishedAt": "2026-08-12T22:46:42.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676823.shtml",
+      "publishedAt": "2026-08-13T02:40:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676693.shtml",
-      "title": "美国国务院成立特别工作组遏止“生育旅游”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-13/1200934.shtml",
+      "title": "斯诺克中国公开赛：“火箭”奥沙利文遭泰国“黑马”淘汰",
       "category": "综合",
-      "summary": "中新社华盛顿8月12日电 美国国务院当地时间12日发表声明说，国务院已成立特别工作组，以打击针对赴美生育从而使新生儿获得美国公民身份的“生育旅游”。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676693.shtml",
-      "publishedAt": "2026-08-12T22:44:50.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-13/1200934.shtml",
+      "publishedAt": "2026-08-13T02:37:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml",
-      "title": "中国智能网联汽车为何发展快",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-13/10676820.shtml",
+      "title": "铺展电影这张“文化地图”",
       "category": "综合",
-      "summary": "今年以来，L2级组合驾驶辅助功能乘用车渗透率达到70.5%——",
+      "summary": "铺展电影这张“文化地图”(创作谈)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml",
-      "publishedAt": "2026-08-12T22:38:22.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10676820.shtml",
+      "publishedAt": "2026-08-13T02:36:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
-      "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10676816.shtml",
+      "title": "生态环境部自然生态保护司有关负责人就《生态保护“十五五”规划》答记者问",
       "category": "综合",
-      "summary": "当地时间12日，伊朗“波斯湾海峡管理局”表示，美国官员反复声称霍尔木兹海峡已重新开放，但这并不能改变事实。霍尔木兹海峡仍然关闭，除非美国接受伊朗提出的条件，否则该海峡不会重新开放。(总台记者 李健南)",
+      "summary": "《生态保护“十五五”规划》答记者问",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
-      "publishedAt": "2026-08-12T22:26:17.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676816.shtml",
+      "publishedAt": "2026-08-13T02:34:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
-      "title": "卡内余额不能买折扣商品？警惕预付卡变“闹心卡”！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-13/10676810.shtml",
+      "title": "运动干预新方案从源头减少老人跌倒概率",
       "category": "综合",
-      "summary": "商家未提前告知充值卡只能买正价商品，并称“顾客没有问，所以没有说”",
+      "summary": "科技日报哈尔滨8月12日电 (记者朱虹 通讯员衣晓峰)记者12日从哈尔滨医科大学获悉，该校田懋一教授团队依托发表于《美国医学会杂志》的全国农村老人跌倒预防(FAMILY)大型试验，针对1706名患有高血压、心脏病的农村高龄老人，完成二次分析，为基层推出低成本、易落地的老年防跌倒运动干预方案。相关研究12日在线刊发于国际期刊《年龄和老龄化》。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
-      "publishedAt": "2026-08-12T22:18:55.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676810.shtml",
+      "publishedAt": "2026-08-13T02:30:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,7 +176,455 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#0",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676794.shtml",
+      "title": "一男子在商业区偷拍女性 太原警方：违法人员已被行拘",
+      "category": "综合",
+      "summary": "中新网8月13日电 太原市公安局迎泽分局8月12日在其官方微博发布警情通报称，近日，该局在工作中发现网民反映“一男子在柳巷商业区偷拍女性”的情况后，迅速组织警力开展调查处置。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676794.shtml",
+      "publishedAt": "2026-08-13T02:28:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676803.shtml",
+      "title": "泽连斯基通报乌军夜间行动：俄海军基地、粮食出口码头遭突袭",
+      "category": "综合",
+      "summary": "中新网8月13日电 综合外媒报道，乌克兰总统泽连斯基当地时间12日表示，乌军对黑海沿岸的俄罗斯海军基地、港口基础设施等实施了夜间突袭。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676803.shtml",
+      "publishedAt": "2026-08-13T02:24:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-13/10676796.shtml",
+      "title": "山东“铅衣卫士”负重前行 以先进技术护佑儿童健康",
+      "category": "综合",
+      "summary": "中新网济南8月13日电 题：山东“铅衣卫士”负重前行 以先进技术护佑儿童健康",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676796.shtml",
+      "publishedAt": "2026-08-13T02:22:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/kong/2026/08-13/10676805.shtml",
+      "title": "滁河、沙颍河发生2026年第1号洪水",
+      "category": "综合",
+      "summary": "受降雨影响，长江下游支流滁河、淮河中游支流沙颍河分别发生2026年第1号洪水。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/kong/2026/08-13/10676805.shtml",
+      "publishedAt": "2026-08-13T02:22:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676802.shtml",
+      "title": "支持“国家项目”坐享380万元红利？ 17人犯诈骗罪被判刑",
+      "category": "综合",
+      "summary": "假借爱国名义 伪造红头文件 虚构巨额福利",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676802.shtml",
+      "publishedAt": "2026-08-13T02:20:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-13/10676793.shtml",
+      "title": "专访李亚鹏、王林海：一茶一世界，茶席“开明堂”",
+      "category": "综合",
+      "summary": "中新网北京8月13日电 题：专访李亚鹏、王林海：一茶一世界，茶席“开明堂”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10676793.shtml",
+      "publishedAt": "2026-08-13T02:20:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-13/10676798.shtml",
+      "title": "调查显示短视频和网游成中小学生暑期消时“两件套”",
+      "category": "综合",
+      "summary": "调查显示短视频和网游成中小学生暑期消时“两件套”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-13/10676798.shtml",
+      "publishedAt": "2026-08-13T02:14:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676789.shtml",
+      "title": "游客因未骑马遭辱骂：涉事人员书面道歉，服务暂停",
+      "category": "综合",
+      "summary": "中新网乌兰察布8月13日电 (记者 张林虎)近日，一则游客在内蒙古自治区乌兰察布黄花沟附近游玩时遭马场工作人员辱骂威胁的视频引发关注。事发后，当地文旅部门联合公安机关及属地乡镇迅速介入。目前，涉事人员已向游客书面道歉并取得游客谅解，其牵马服务被暂停。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676789.shtml",
+      "publishedAt": "2026-08-13T02:13:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676786.shtml",
+      "title": "宁夏滩羊种质保护实现重大突破 优异种羊拥有永久基因备份",
+      "category": "综合",
+      "summary": "中新网银川8月13日电 (记者 于晶)8月12日，7只体细胞克隆滩羊羔羊在宁夏盐池滩羊产业集团朔牧繁育有限公司育种基地健康生长，全部顺利渡过初生、二毛、断奶关键阶段，各项生理指标稳定正常。此举标志宁夏成功建成克隆滩羊群体，滩羊优异种质资源实现“细胞永生、永久备份”，当地特色畜禽种源保护工作迈入全新阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676786.shtml",
+      "publishedAt": "2026-08-13T02:12:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676776.shtml",
+      "title": "哥伦比亚强震已致265人死亡",
+      "category": "综合",
+      "summary": "中新社北京8月13日电 波哥大消息：哥伦比亚总统德拉埃斯普列亚当地时间12日晚表示，该国10日发生的强震已造成265人死亡、3494人受伤，另有496人失踪。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676776.shtml",
+      "publishedAt": "2026-08-13T02:09:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676775.shtml",
+      "title": "委内瑞拉7月通胀率升至近20%",
+      "category": "综合",
+      "summary": "中新社北京8月13日电 加拉加斯消息：委内瑞拉中央银行当地时间12日发表声明称，该国7月通胀率升至19.9%，高于6月的13.8%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676775.shtml",
+      "publishedAt": "2026-08-13T02:09:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676763.shtml",
+      "title": "白宫新闻秘书莱维特将于8月底离任",
+      "category": "综合",
+      "summary": "中新社华盛顿8月12日电 (记者 陈孟统)美国总统特朗普12日宣布，白宫新闻秘书莱维特将于8月底离任。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676763.shtml",
+      "publishedAt": "2026-08-13T02:09:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-13/10676783.shtml",
+      "title": "58所高校学子在京研学 以智能技术赋能乡村振兴",
+      "category": "综合",
+      "summary": "中新网北京8月13日电 由中国乡村发展基金会发起的2026公益未来大学生公益社团集训营日前在北京收官。来自全国58所高校的69名公益社团代表在研学与实践中，把智能技术应用从日常学习延伸到乡村振兴。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-13/10676783.shtml",
+      "publishedAt": "2026-08-13T02:07:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-13/10676784.shtml",
+      "title": "抗过敏药容易形成药物依赖，能不用就不用？丨中新真探",
+      "category": "综合",
+      "summary": "中新网8月13日电 抗过敏药(主要指抗组胺药)并无生理成瘾性，临床常用的第二代抗组胺药(如氯雷他定、西替利嗪)安全性极高，不具备阿片类药物或镇静安眠药的成瘾机制。当然，任何药物都应在医生指导下按照疗程和剂量使用，如果需要长期服药，也建议定期复诊评估治疗方案。(来源：@科学辟谣 中国新闻网微博)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/08-13/10676784.shtml",
+      "publishedAt": "2026-08-13T02:05:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10676781.shtml",
+      "title": "跳出二元对立窠臼 学者：中国民族事务治理贡献新范式",
+      "category": "综合",
+      "summary": "中新社北京8月13日电(记者 杜雅楠)全球200多个国家和地区大多为多民族国家和地区，民族事务治理是共性问题与难题。中央民族大学教授王伟近日接受中新社记者采访时指出，中国推进民族团结进步立法，为多民族国家的民族事务治理贡献独具特色的新范式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676781.shtml",
+      "publishedAt": "2026-08-13T02:03:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676788.shtml",
+      "title": "分蓄超额洪水削减洪峰 这张防洪“底牌”你了解多少？",
+      "category": "综合",
+      "summary": "记者今早从水利部了解到，根据沙颍河水系来水情况，河南省今天凌晨2时启用漯河舞阳泥河洼蓄滞洪区。泥河洼蓄滞洪区设计蓄洪容积2.38亿立方米。此次启用前，蓄滞洪区内需转移群众已提前全部安全转移。蓄滞洪区是确保流域防洪安全的最后一招“底牌”，什么是蓄滞洪区？一起来了解↓",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676788.shtml",
+      "publishedAt": "2026-08-13T02:02:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10676787.shtml",
+      "title": "美国7月消费者价格指数环比上涨 通胀仍处高位",
+      "category": "综合",
+      "summary": "美国劳工部12日发布的数据显示，美国7月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.1%，6月出现的环比下降未能持续。扣除食品和能源，美国7月核心CPI同比上涨2.5%，环比上涨0.2%，而6月为环比持平。多家美国媒体12日指出，美以伊战事引发的能源价格上涨是当前美国通胀难以降低的主要原因。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676787.shtml",
+      "publishedAt": "2026-08-13T02:01:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-13/10676780.shtml",
+      "title": "广东省运会首设铁人三项赛事 开赛首日深圳队包揽四金",
+      "category": "综合",
+      "summary": "中新网茂名8月13日电(梁盛 杨珮珮)广东省第十七届运动会铁人三项比赛12日在茂名露天矿生态公园开赛，深圳队表现亮眼，四个组别赛事夺得4金1银2铜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676780.shtml",
+      "publishedAt": "2026-08-13T01:54:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10676777.shtml",
+      "title": "日本两条私人饲养的蟒蛇“出逃” 警方紧急搜寻",
+      "category": "综合",
+      "summary": "中新网8月13日电 据日本《读卖新闻》报道，当地时间13日5时左右，日本神奈川县川崎市一男子报警称，自己饲养的两条蟒蛇“出逃”，当地警方已展开搜寻。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676777.shtml",
+      "publishedAt": "2026-08-13T01:53:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10676779.shtml",
+      "title": "中国香水从“被看见”到“被选择”还有多远？",
+      "category": "综合",
+      "summary": "证券日报记者 梁傲男",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676779.shtml",
+      "publishedAt": "2026-08-13T01:52:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-13/10676778.shtml",
+      "title": "大湾区城市协同激活外贸增长新动能",
+      "category": "综合",
+      "summary": "李雯珊",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-13/10676778.shtml",
+      "publishedAt": "2026-08-13T01:51:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10676774.shtml",
+      "title": "侵扰民众生活的“公害” AI外呼乱象亟待治理",
+      "category": "综合",
+      "summary": "AI外呼乱象亟待治理",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676774.shtml",
+      "publishedAt": "2026-08-13T01:47:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad#0",
+      "title": "AI代理新案例：黑進健身中心系統替「主人」預約課堂",
+      "category": "国际",
+      "summary": "此事件被視為人工智慧工具為完成任務而不擇手段的最新例證。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T01:34:37.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113385",
+      "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+      "category": "科技",
+      "summary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113385",
+      "publishedAt": "2026-08-13T00:14:09.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad#0",
+      "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
+      "category": "国际",
+      "summary": "英國大學這位醫學生必須向學術小組答辯他的研究成果。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T00:03:47.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#1",
       "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
       "category": "国际",
       "summary": "美國總統多次質疑兒童疫苗的安全性，並發表許多誤導性言論。",
@@ -171,42 +637,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-12/10676689.shtml",
-      "title": "海内外足球小将聚沈阳 11天鏖战千余场比赛",
-      "category": "综合",
-      "summary": "中新社沈阳8月12日电 (记者 李晛)2026沈阳第十二届“和平杯”国际青少年足球邀请赛12日开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676689.shtml",
-      "publishedAt": "2026-08-12T15:52:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676688.shtml",
-      "title": "云南华宁南盘江一民船侧翻致6人落水 目前1人获救",
-      "category": "综合",
-      "summary": "8月12日18时许，云南省华宁县盘溪镇水头寨南盘江水域发生一起村民自用小船侧翻事件，船上6人落水。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676688.shtml",
-      "publishedAt": "2026-08-12T15:49:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -245,388 +675,10 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676687.shtml",
-      "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
-      "category": "综合",
-      "summary": "美国总统特朗普12日在社交媒体上发文宣称，“美国完全控制着霍尔木兹海峡……伊朗对此束手无策”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676687.shtml",
-      "publishedAt": "2026-08-12T14:53:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-12/10676686.shtml",
-      "title": "综艺《不想睡的星期五》定档 聚焦城市夜间消费新图景",
-      "category": "综合",
-      "summary": "中新网长沙8月12日电 (记者 邓霞)当工作日的秩序退场，周五夜晚应当如何度过？湖南卫视与芒果TV联合打造的新奇夜生活探访真人秀《不想睡的星期五》正式定档，郭京飞、黄明昊、李小冉、孙怡、唐艺昕、周翊然六位常驻嘉宾，将以“夜务员”身份探访全国多座城市，沉浸式记录夜间消费新场景与青年文化表达。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676686.shtml",
-      "publishedAt": "2026-08-12T14:50:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676685.shtml",
-      "title": "三部门调拨2万件中央救灾物资 支持河北、河南做好安置救助工作",
-      "category": "综合",
-      "summary": "8月12日，国家防灾减灾救灾委员会办公室、应急管理部针对今年第13号台风“白海豚”残余环流带来的强降雨影响，根据河北、河南等地受灾群众安置救助需要，会同国家粮食和物资储备局调拨折叠床、褥子、毛毯、家庭应急包等2万件中央救灾物资，支持灾区做好受灾群众安置救助和生活保障工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676685.shtml",
-      "publishedAt": "2026-08-12T14:44:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-12/10676682.shtml",
-      "title": "ICU医生薄世宁：40岁，每个人都应该做一次防癌筛查",
-      "category": "综合",
-      "summary": "中新网广州8月12日电 (记者 蔡敏婕)“40岁以后，每个人都应该进行癌症筛查。”长期活跃于医学科普领域的北京大学第三医院危重医学科主任医师薄世宁12日在广州称，人体在40岁以后，患癌风险会呈现指数级上升，因此这一年龄段是防癌筛查的关键节点，“40岁，每个人都应该做一次防癌筛查”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-12/10676682.shtml",
-      "publishedAt": "2026-08-12T14:42:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676681.shtml",
-      "title": "平陆运河开启通航前“大考” 实船试验攻坚四大核心难点",
-      "category": "综合",
-      "summary": "中新网南宁8月12日电(记者 杨陈)8月12日上午，随着首艘5000吨级试验船舶从广西南宁新福水上综合服务区起航，平陆运河实船试验正式启动。这也是平陆运河9月通航前最后一项大型现场实测。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676681.shtml",
-      "publishedAt": "2026-08-12T14:41:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/gn/shipin/2026/08-12/news1065206.shtml",
-      "title": "《江泽民》 第3集 《临危受命》",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/gn/shipin/2026/08-12/news1065206.shtml",
-      "publishedAt": "2026-08-12T14:41:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676679.shtml",
-      "title": "联合国任命冬奥冠军苏翊鸣为“体育促土地”大使",
-      "category": "综合",
-      "summary": "中新网北京8月12日电 (记者 陈溯)2026年8月12日，《联合国防治荒漠化公约》(UNCCD)正式宣布，任命中国单板滑雪冬奥冠军苏翊鸣为其“体育促土地”韧性大使(Sport4Land Champion for Resilience)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676679.shtml",
-      "publishedAt": "2026-08-12T14:41:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676678.shtml",
-      "title": "湖北警方打掉涉黑恶违法犯罪团伙50余个",
-      "category": "综合",
-      "summary": "中新网武汉8月12日电 (武一力 李宗吾 彭黎)记者12日从湖北省公安厅获悉，湖北省公安机关全面启动深化扫黑除恶专项斗争第一轮集中收网行动，对各类涉黑恶违法犯罪发起凌厉攻势，目前已打掉犯罪团伙50余个，抓获犯罪嫌疑人300余人，破获刑事案件160余起。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676678.shtml",
-      "publishedAt": "2026-08-12T14:40:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676677.shtml",
-      "title": "广西南宁出台快递行业用工指引 守护从业人员劳动权益",
-      "category": "综合",
-      "summary": "中新网南宁8月12日电(黄艳梅 陈沿佑)8月11日，广西南宁市邮政管理局、南宁市总工会、南宁市人力资源和社会保障局联合印发《南宁市快递行业劳动用工管理指引(试行)》(以下简称《指引》)，同步配套发布《快递从业人员劳动合同(示范文本)》。这是广西首个快递行业劳动用工专项指引。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676677.shtml",
-      "publishedAt": "2026-08-12T14:40:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676676.shtml",
-      "title": "中国首家尼加拉瓜国家馆落地武汉",
-      "category": "综合",
-      "summary": "中新网武汉8月12日电 (张芹 蒋鹰)“丝路新桥·中尼同航”——中国(湖北)—尼加拉瓜经贸合作洽谈会暨国家馆授牌仪式12日在武汉举行。当日，尼加拉瓜国家馆在武汉金控华中贸易服务区正式揭牌，成为中国首家受尼加拉瓜驻华大使馆官方授牌的特色产品与文化实体展馆，同时成立中国(湖北)—尼加拉瓜经济贸易合作中心，推动双边在农产品、新能源等领域的深度合作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676676.shtml",
-      "publishedAt": "2026-08-12T14:39:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676680.shtml",
-      "title": "央行将开展隔夜逆回购操作 每日不超过6000亿元",
-      "category": "综合",
-      "summary": "记者从中国人民银行了解到，为更好匹配银行体系短期流动性需求，中国人民银行将在8月14日、8月17日至8月19日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过6000亿元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676680.shtml",
-      "publishedAt": "2026-08-12T14:34:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676673.shtml",
-      "title": "光伏项目纠纷“府院联动”巧化解 湖南以司法之力守护“天空蓝”",
-      "category": "综合",
-      "summary": "中新网长沙8月12日电(傅煜 杨勤煊)在一起某新能源公司与三家企业光伏项目合同纠纷案中，面对被告企业阶段性经营困难但双方仍有合作意愿的复杂局面，湖南益阳市赫山区人民法院并未简单一判了之，而是启动“府院联动”多元解纷机制，主动对接属地政府和行业主管部门，经多方协调最终促成双方达成调解协议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676673.shtml",
-      "publishedAt": "2026-08-12T14:30:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-12/10676670.shtml",
-      "title": "2026兰州书展将启幕：一城书香“读”此不同",
-      "category": "综合",
-      "summary": "中新网兰州8月12日电 (田羽芷瑄 王子予)“本届书展打造集精品图书展销、名家思想交流、本土创作发布、跨界文化体验于一体的复合型文化空间。”甘肃省新华书店副总经理韩波这样定义2026兰州书展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676670.shtml",
-      "publishedAt": "2026-08-12T14:29:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676669.shtml",
-      "title": "广西大桂山保护区野外放归子三代、子四代人工繁育鳄蜥",
-      "category": "综合",
-      "summary": "中新网贺州8月12日电 (罗树毅 陈萍)广西大桂山鳄蜥国家级自然保护区12日介绍，该保护区近日开展第五次鳄蜥野外放归，共放归20只子三代、子四代人工繁育鳄蜥。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676669.shtml",
-      "publishedAt": "2026-08-12T14:26:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-12/10676668.shtml",
-      "title": "全国近800名青少年棒球选手齐聚佛山挥棒争锋",
-      "category": "综合",
-      "summary": "中新网佛山8月12日电 (程景伟 谢丽巧)为期五天的2025-2026 MLB CUP青少年棒球系列赛总决赛12日在广东佛山开幕。来自全国30余座城市的62支队伍、近800名青少年棒球选手齐聚佛山南海文翰湖畔，向赛事冠军荣耀发起冲击。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676668.shtml",
-      "publishedAt": "2026-08-12T14:25:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676671.shtml",
-      "title": "AI生成视频拼接虚假场景 这些涉台风信息都是谣言！",
-      "category": "综合",
-      "summary": "在受“白海豚”影响期间，有网民为博取流量、吸引关注，故意发布涉台风虚假信息。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676671.shtml",
-      "publishedAt": "2026-08-12T14:25:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676667.shtml",
-      "title": "陕西面食手艺人深耕传统制面技艺 传承地道“老陕味”",
-      "category": "综合",
-      "summary": "中新网西安8月12日电 (梅镱泷 张煜晨)油泼面、裤带面、臊子面……各式风味面食构成了陕西人一日三餐的主力。“我们店一到饭点，吃面都得排队叫号，一天下来平均能卖1500碗面。这一口面一口蒜就是咱最地道的‘老陕’生活味。”西安市尚寨油泼面制作技艺代表性传承人朱涛向记者表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676667.shtml",
-      "publishedAt": "2026-08-12T14:24:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-12/10676666.shtml",
-      "title": "“观化·当代茶生活艺术展”于国家大剧院启幕",
-      "category": "综合",
-      "summary": "中新网北京8月12日电 (记者 高凯)“观化——当代茶生活艺术展”日前在国家大剧院艺术馆西展厅正式启幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676666.shtml",
-      "publishedAt": "2026-08-12T14:24:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676665.shtml",
-      "title": "津巴布韦船只倾覆已致44人死亡",
-      "category": "综合",
-      "summary": "津巴布韦警方12日表示，该国北部卡里巴湖11日下午发生的船只倾覆事故已造成44人死亡。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676665.shtml",
-      "publishedAt": "2026-08-12T14:19:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676658.shtml",
-      "title": "联合国官员：中国重视青年发展为发展中国家提供重要借鉴",
-      "category": "综合",
-      "summary": "中新社北京8月12日电 (记者 官逸伦)8月12日是国际青年日。联合国驻华发展系统青年主题小组主席、联合国人口基金驻华代表那迪娅当日在北京参加相关纪念活动时表示，中国高度重视青年发展，为发展中国家及其青年提供了重要借鉴。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676658.shtml",
-      "publishedAt": "2026-08-12T14:15:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676661.shtml",
-      "title": "青海科学技术奖励大会在西宁召开",
-      "category": "综合",
-      "summary": "中新网西宁8月12日电 (祁增蓓)12日，青海省科学技术奖励大会在西宁召开，对推进全省创新发展作出突出贡献的科技工作者和创新实践者进行表彰，引导企业创新和战略性新兴产业发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676661.shtml",
-      "publishedAt": "2026-08-12T14:14:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#0",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
       "category": "国际",
-      "summary": "朱鎔基在副總理及總理任上，前後12年主導中國經濟發展，在中國經濟的幾乎所有領域都推行改革。改革過程中，朱鎔基也因為造成大量國企工人下崗而受民間批評。但此後，中國整體上往市場經濟的方向邁了一大步，也由此開啟了中國歷史上發展速度最高的二十年。",
+      "summary": "朱鎔基前後12年主導中國經濟發展，改革過程中因為造成大量國企工人下崗而受民間批評。但中國整體上往市場經濟的方向邁了一大步，也由此開啟了歷史上發展速度最高的20年。",
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad?at_medium=RSS&at_campaign=rss",
@@ -797,7 +849,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad#1",
       "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
       "category": "国际",
       "summary": "最新影像和影片顯示到了太陽活動形成的「漩渦」，呈現出過去無法觀測到的景象。",
@@ -1009,7 +1061,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#4",
       "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
       "category": "国际",
       "summary": "科技公司並未以自身實踐證明這項技術能為人們帶來更多閒暇時間。",
@@ -1115,7 +1167,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#4",
       "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
       "category": "国际",
       "summary": "粉絲和創作者表示，MySpace 若要復興，必須給人一種個人化的感覺，而不是由演算法驅動的。",
@@ -1128,24 +1180,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/prime/story/direct-power-supply-mod",
-      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
-      "category": "科技",
-      "summary": "去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
-      "publishedAt": "2026-08-10T13:50:02.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
@@ -1401,23 +1435,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad#4",
-      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
-      "category": "国际",
-      "summary": "美國總統特朗普（川普）簽署行政命令，禁止生育旅遊，並擴大了對不符合美國出生公民權資格的兒童的定義。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T02:50:00.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
       "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
       "category": "健康",
@@ -1532,23 +1549,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T09:13:11.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad#4",
-      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
-      "category": "国际",
-      "summary": "這支受到國際足協（FIFA）認可的女子隊隊員表示，足球給予她們自由和獨立。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T05:59:42.000Z",
       "tags": [
         "国际",
         "商业",
