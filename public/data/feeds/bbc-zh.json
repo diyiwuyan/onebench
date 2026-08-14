@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#0",
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T05:11:59.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad#2",
+      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T03:41:21.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#0",
       "title": "伊朗跟美國、以色列打仗 還能撐多久？",
       "meta": "BBC 中文 · 2026/8/14",
@@ -33,7 +47,7 @@
       "publishedAt": "2026-08-13T09:19:35.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#1",
       "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
       "meta": "BBC 中文 · 2026/8/13",
       "url": "https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad?at_medium=RSS&at_campaign=rss",
@@ -82,14 +96,7 @@
       "publishedAt": "2026-08-12T12:00:14.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/trad#2",
-      "title": "中國單身漢為何陷「閃婚」騙局？",
-      "meta": "BBC 中文 · 2026/8/12",
-      "url": "https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T10:31:56.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#4",
       "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
@@ -166,13 +173,6 @@
       "publishedAt": "2026-08-10T09:16:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#4",
-      "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
-      "meta": "BBC 中文 · 2026/8/6",
-      "url": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T00:35:47.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#5",
       "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
       "meta": "BBC 中文 · 2026/8/6",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T02:46:08.876Z",
+  "updatedAt": "2026-08-14T05:46:36.721Z",
   "provider": "OneBench 公共资讯快照"
 }
