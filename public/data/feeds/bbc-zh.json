@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#0",
+      "title": "伊朗跟美國、以色列打仗 還能撐多久？",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T00:01:11.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg4dp9g9v1ko/trad#2",
       "title": "「白海豚」中國暴雨持續：為何颱風災情愈來愈深入內陸地區？",
       "meta": "BBC 中文 · 2026/8/13",
@@ -13,7 +20,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
-      "title": "朱鎔基逝世：台灣記住「搞台獨沒好下場」 香港感念金融風暴「挺港功臣」",
+      "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
       "meta": "BBC 中文 · 2026/8/13",
       "url": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T09:58:02.000Z"
@@ -68,7 +75,7 @@
       "publishedAt": "2026-08-12T15:12:05.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#1",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad?at_medium=RSS&at_campaign=rss",
@@ -117,7 +124,7 @@
       "publishedAt": "2026-08-12T00:07:28.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad#4",
       "title": "「我根本沒想過要停下來」：美國物理學家講述長崎原爆內幕",
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-08-06T00:35:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#4",
-      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
-      "meta": "BBC 中文 · 2026/8/5",
-      "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T08:40:02.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
       "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
       "meta": "BBC 中文 · 2026/8/4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T23:02:50.582Z",
+  "updatedAt": "2026-08-14T02:46:08.876Z",
   "provider": "OneBench 公共资讯快照"
 }
