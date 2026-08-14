@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T07:50:35.334Z",
-  "expiresAt": "2026-08-14T13:50:35.334Z",
+  "generatedAt": "2026-08-14T09:20:49.219Z",
+  "expiresAt": "2026-08-14T15:20:49.219Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-14/10677680.shtml",
-      "title": "2026年中美知名高校击剑邀请赛在穗开展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677751.shtml",
+      "title": "甘肃省副省长程晓波被查 系主动投案",
       "category": "综合",
-      "summary": "8月14日，中美知名高校击剑邀请赛团体赛在位于广州市的中山大学开展。8月12至16日，由教育部中外人文交流中心与中山大学联合主办的“逸仙论剑——2026年中美知名高校击剑邀请赛暨中美人文交流营”活动在广东举办，来自美国哈佛大学、斯坦福大学、耶鲁大学、北京大学、清华大学、中山大学等高校的中美高校击剑队100余名大学生同场竞技，以剑会友。图为学生为队友加油助威。",
+      "summary": "中新社北京8月14日电 中国官方14日通报，甘肃省委常委、副省长程晓波涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-14/10677680.shtml",
-      "publishedAt": "2026-08-14T07:46:03.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677751.shtml",
+      "publishedAt": "2026-08-14T09:11:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,446 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677674.shtml",
-      "title": "全面打造“公园城市、安逸家园” 四川出台城市更新“十五五”规划",
-      "category": "综合",
-      "summary": "中新网成都8月14日电 (祝欢)14日，四川省人民政府官网公布《四川省城市更新“十五五”规划》(以下简称《规划》)，围绕20项“十五五”时期城市更新主要指标，涵盖城市更新重点片区、老旧街区厂区改造、城镇危旧房改造、老旧小区改造等多个领域，系统构建了六大基础工程和两大重点工程，明确了未来五年四川城市更新的具体内容。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677674.shtml",
-      "publishedAt": "2026-08-14T07:45:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677664.shtml",
-      "title": "国防部：《制胜》呈现人民军队新风新貌和冲锋姿态",
-      "category": "综合",
-      "summary": "中新网8月14日电 据国防部网站消息，8月14日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677664.shtml",
-      "publishedAt": "2026-08-14T07:44:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677679.shtml",
-      "title": "手机录不清、机构测不了…… 住宅噪音为何取证难",
-      "category": "综合",
-      "summary": "新修订的《中华人民共和国治安管理处罚法》已施行半年多，其中被称为“社会生活噪音维权最强法条”的第88条，将噪音扰民的惩戒上限从500元罚款提高至5日以上10日以下拘留。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677679.shtml",
-      "publishedAt": "2026-08-14T07:43:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677677.shtml",
-      "title": "部分网约车司机边开车边追剧 “分心驾驶”有多危险？",
-      "category": "综合",
-      "summary": "8月4日，记者亲历网约车司机边开车边看短剧。 杨芮雯摄 “网约车司机边开车边刷短剧，行车途中车辆几度跑偏，全程都要我帮忙观察路况，太吓人。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677677.shtml",
-      "publishedAt": "2026-08-14T07:42:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677669.shtml",
-      "title": "浙江玉环女村医李雯芳 风雨中的仁心坚守",
-      "category": "综合",
-      "summary": "中新网台州8月14日电(胡丰盛 陈玮)2026年，双台风“巴威”与“白海豚”接连正面登陆浙江玉环。狂风暴雨中，一抹“粉马甲”始终逆向而行——从深夜到凌晨，她带领“娘子军”紧急遮盖63吨水泥、清理坍塌民房、抢通主干道、救助摔伤村民，更在灾前未雨绸缪备齐防疫物资，台风过境后第一时间启动全域消杀。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677669.shtml",
-      "publishedAt": "2026-08-14T07:42:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677656.shtml",
-      "title": "多地探索物业难题破解之道 用心用情办好群众身边事",
-      "category": "综合",
-      "summary": "焦点访谈｜多地探索物业难题破解之道 用心用情办好群众身边事",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677656.shtml",
-      "publishedAt": "2026-08-14T07:40:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677650.shtml",
-      "title": "守护美丽中国 生态环境法典8月15日起施行",
-      "category": "综合",
-      "summary": "新华社北京8月14日电(记者孙鹏程、高敬)8月15日是第四个全国生态日。继民法典之后我国第二部以“法典”命名的法律——《中华人民共和国生态环境法典》将自15日起施行，标志着我国生态环境法治建设迈入新境界，为实现人与自然和谐共生的现代化进一步筑牢法治根基。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677650.shtml",
-      "publishedAt": "2026-08-14T07:37:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677663.shtml",
-      "title": "水利部迅即安排部署贾鲁河堤防险情应急处置工作",
-      "category": "综合",
-      "summary": "中新网8月14日电 据“中国水利”微信公众号消息，8月14日上午，国家防总副总指挥、水利部部长李国英主持召开专题会商，启动水利部重大水旱灾害事件调度指挥机制，分析研判淮河流域沙颍河汛情形势和贾鲁河堤防险情，安排部署洪水防御和险情应对处置工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677663.shtml",
-      "publishedAt": "2026-08-14T07:37:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677661.shtml",
-      "title": "今年前7个月海口海关累计签发各类原产地证书15588份",
-      "category": "综合",
-      "summary": "据海口海关统计，2026年1—7月，海口海关累计签发各类原产地证书15588份，签证总货值75.97亿元，分别同比增长76.14%、47.89%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677661.shtml",
-      "publishedAt": "2026-08-14T07:34:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677662.shtml",
-      "title": "江苏：合规高校院所技术经理人可到市场化技术转移机构兼职取酬",
-      "category": "综合",
-      "summary": "中新网南京8月14日电 (唐娟 张传明)14日，江苏省人民政府召开《关于突出市场导向建设科技成果转化高地的实施意见》(以下简称《实施意见》)新闻发布会，并公布合规的高校院所技术经理人可到市场化技术转移机构兼职取酬等支持政策。江苏省科学技术厅厅长徐光辉在会上表示，《实施意见》突出改革思维和创新方法，打出政策“组合拳”，让企业站“C位”，让科学家与企业家双向奔赴",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677662.shtml",
-      "publishedAt": "2026-08-14T07:33:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677665.shtml",
-      "title": "中国海警舰艇编队在我钓鱼岛及其附属岛屿领海内维权巡航",
-      "category": "综合",
-      "summary": "中新网8月14日电 据“中国海警”微信公众号消息，8月14日，中国海警梅山舰编队在我钓鱼岛及其附属岛屿领海内维权巡航。这是中国海警依法开展的维权巡航活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677665.shtml",
-      "publishedAt": "2026-08-14T07:33:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677659.shtml",
-      "title": "重庆打造数智生态警务体系 守护长江上游山水之“秀”",
-      "category": "综合",
-      "summary": "中新网重庆8月14日电 (记者 刘相琳)在《中华人民共和国生态环境法典》正式施行前夕，记者14日从重庆市公安局环境资源犯罪侦查总队获悉，面对法治新标尺与生态新使命，当地警方紧扣“数字重庆”建设，创新打造“智巡、智侦、智治”三位一体的数智生态警务体系，以科技之“智”守护长江上游的山水之“秀”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677659.shtml",
-      "publishedAt": "2026-08-14T07:29:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677643.shtml",
-      "title": "“白海豚”残涡影响持续 各地多措并举积极应对",
-      "category": "综合",
-      "summary": "“白海豚”的残涡深入内陆后，降雨持续影响我国中东部多地，给河南、湖北多地带来破纪录的降雨，各地多措并举，积极应对。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677643.shtml",
-      "publishedAt": "2026-08-14T07:29:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677660.shtml",
-      "title": "国防部：中埃将举行“文明之鹰-2026”空军联合训练",
-      "category": "综合",
-      "summary": "中新网8月14日电 据国防部网站消息，8月14日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677660.shtml",
-      "publishedAt": "2026-08-14T07:28:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677657.shtml",
-      "title": "（乡村行·看振兴）广东水墩镇：蝉茶香飘大湾区 “茗”片富农家",
-      "category": "综合",
-      "summary": "中新网河源8月14日电 (张璐 余冰冰 甘建楼)时下，走进广东河源市紫金县水墩镇，连片茶垄顺着山势铺展，老树新芽吐绿，村民穿梭垄间管护采收，山风过处，茶香裹着草木清气漫溢，茶园里一派夏秋生长的盎然景象。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677657.shtml",
-      "publishedAt": "2026-08-14T07:24:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-14/10677654.shtml",
-      "title": "45岁邹市明要“复出” 是再次寻梦还是另一次起跳？",
-      "category": "综合",
-      "summary": "羊城晚报记者 周方平",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10677654.shtml",
-      "publishedAt": "2026-08-14T07:22:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-14/10677652.shtml",
-      "title": "吃苦夏令营火热背后，藏着家长的焦虑、机构的套路",
-      "category": "综合",
-      "summary": "汪昌莲",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-14/10677652.shtml",
-      "publishedAt": "2026-08-14T07:18:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201053.shtml",
-      "title": "重庆丰都：山间朝霞映云海",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201053.shtml",
-      "publishedAt": "2026-08-14T07:18:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677624.shtml",
-      "title": "看图学习·和谐共生丨总书记用这些古语阐释自然之道",
-      "category": "综合",
-      "summary": "“子钓而不纲，弋不射宿”“草木植成，国之富也”……党的十八大以来，习近平总书记高度重视生态文明建设，在重要讲话中多次引用中华优秀传统文化中的经典语句予以深刻阐释，指引我们坚定不移走生态优先、绿色发展之路。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677624.shtml",
-      "publishedAt": "2026-08-14T07:18:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677639.shtml",
-      "title": "（走进中国乡村）“中国辣椒之乡”采收忙 借力火锅产业出海",
-      "category": "综合",
-      "summary": "中新社重庆8月14日电 题：“中国辣椒之乡”采收忙 借力火锅产业出海",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677639.shtml",
-      "publishedAt": "2026-08-14T07:14:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677647.shtml",
-      "title": "A股收评：超2900只个股飘绿，三大指数集体收涨",
-      "category": "综合",
-      "summary": "A股收评：超2900只个股飘绿，三大指数集体收涨；稀土、CPO大涨，通信设备、半导体、贵金属上涨；保险、酒类、券商、汽车下跌",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677647.shtml",
-      "publishedAt": "2026-08-14T07:14:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-14/10677635.shtml",
-      "title": "东西问丨张强：西北干旱气象研究如何助力丝路古道“风调雨顺”？",
-      "category": "综合",
-      "summary": "中新社兰州8月14日电 题：西北干旱气象研究如何助力丝路古道“风调雨顺”？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-14/10677635.shtml",
-      "publishedAt": "2026-08-14T07:11:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677638.shtml",
-      "title": "应急管理部紧急调派中国安能工程救援力量驰援河南周口执行贾鲁河溃口险情处置任务",
-      "category": "综合",
-      "summary": "中新网8月14日电 据应急管理部网站消息，8月13日23时许，受贾鲁河上游来水和沙颍河倒灌顶托挤压影响，河南省周口市川汇区新北环桥下贾鲁河东岸堤坝出现溃口。应急管理部调派中国安能工程救援力量200人，携带动力舟桥、水陆两栖挖掘机、装载机等大型工程机械装备110台(套)，紧急驰援周口灾区。14日上午10时，以上力量已到达现场投入抢险救援工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677638.shtml",
-      "publishedAt": "2026-08-14T07:10:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677648.shtml",
-      "title": "国防部：“台独”死局演不赢、改不了",
-      "category": "综合",
-      "summary": "中新网8月14日电 据国防部网站消息，8月14日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677648.shtml",
-      "publishedAt": "2026-08-14T07:10:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677646.shtml",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677748.shtml",
       "title": "国防部：中方将继续在仁爱礁附近海域开展维权执法行动",
       "category": "综合",
-      "summary": "中新网8月14日电 据国防部网站消息，8月14日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
+      "summary": "中新社北京8月14日电 (记者 李纯)中国国防部新闻发言人陈曦14日就近期涉军问题发布消息。他表示，仁爱礁是中国南沙群岛的一部分，是中国固有领土。中方将继续开展维权执法行动，坚决挫败一切侵权挑衅，维护国家领土主权和海洋权益。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677646.shtml",
-      "publishedAt": "2026-08-14T07:10:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677748.shtml",
+      "publishedAt": "2026-08-14T09:10:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677645.shtml",
-      "title": "国防部：日本“新型军国主义”祸患不得不防",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677746.shtml",
+      "title": "浙江省温州市人大常委会原副主任梁超接受审查调查",
       "category": "综合",
-      "summary": "中新网8月14日电 据国防部网站消息，8月14日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。",
+      "summary": "中新网8月14日电 据浙江省纪委监委消息：浙江省温州市人大常委会原党组成员、副主任梁超涉嫌严重违纪违法，主动投案，目前正接受浙江省纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677645.shtml",
-      "publishedAt": "2026-08-14T07:08:41.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677746.shtml",
+      "publishedAt": "2026-08-14T09:08:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677636.shtml",
-      "title": "航行警告！渤海部分海域进行军事训练 禁止驶入",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677744.shtml",
+      "title": "俄乌互袭波及粮食出口 乌方提议黑海停火",
       "category": "综合",
-      "summary": "中新网8月14日电 据中国海事局网站消息，大港海事局发布航行警告，8月17日8时至19日17时，渤海部分海域进行军事训练，禁止驶入。",
+      "summary": "据乌克兰消息人士13日透露，乌方已向俄罗斯提议在黑海停止相互袭击民用目标。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677636.shtml",
-      "publishedAt": "2026-08-14T07:08:21.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677744.shtml",
+      "publishedAt": "2026-08-14T09:07:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns/2026/08-14/news1065407.shtml",
-      "title": "【东西问】张强：西北干旱气象研究如何助力丝路古道“风调雨顺”？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677747.shtml",
+      "title": "中国成品油价迎年内“第五降”",
       "category": "综合",
-      "summary": "“决不能让民勤成为第二个罗布泊，决不能让敦煌成为第二个楼兰。”分别位于河西走廊东端与西端的甘肃民勤县和敦煌市，均是古丝绸之路必经之地，与不少销声匿迹于历史长河中的丝路名城相似，曾面临着干旱气象灾害背景下的“消亡”风险。",
+      "summary": "中新社北京8月14日电 (记者 庞无忌)中国成品油价迎年内“第五降”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-14/news1065407.shtml",
-      "publishedAt": "2026-08-14T07:05:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677747.shtml",
+      "publishedAt": "2026-08-14T09:05:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +122,470 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677623.shtml",
-      "title": "8月14日“农产品批发价格200指数”比昨天上升0.29个点",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677742.shtml",
+      "title": "央行：7月末社会融资规模存量为463.27万亿元 同比增长7.4%",
       "category": "综合",
-      "summary": "中新网8月14日电 据农业农村部网站消息，据农业农村部监测，8月14日“农产品批发价格200指数”为115.19，比昨天上升0.29个点，“菜篮子”产品批发价格指数为115.63，比昨天上升0.33个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为15.77元/公斤，比昨天下降0.2%；牛肉67.69元/公斤，比昨天上升0.5%；羊肉64.79元/",
+      "summary": "中新网8月14日电 据中国人民银行微信公众号消息，中国人民银行今天公布2026年7月金融统计数据报告。报告显示，初步统计，2026年7月末社会融资规模存量为463.27万亿元，同比增长7.4%。报告全文如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677623.shtml",
-      "publishedAt": "2026-08-14T07:03:49.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677742.shtml",
+      "publishedAt": "2026-08-14T09:03:30.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677745.shtml",
+      "title": "全国首个科幻IP+AI OPC社区在成都正式开园",
+      "category": "综合",
+      "summary": "中新网成都8月14日电(记者 何浠)成都AI生态伙伴大会暨成都科梦OPC社区开园活动14日在成都传媒·白鹭湾科创园举办。众多头部OPC及国内外人工智能企业齐聚现场，共探AI时代个体创业新路径，助力成都人工智能产业创新生态建设。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677745.shtml",
+      "publishedAt": "2026-08-14T09:03:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-14/10677743.shtml",
+      "title": "网红美白淡斑霜能即刻美白？当心引发“激素脸”",
+      "category": "综合",
+      "summary": "近日，广州一位年轻女孩使用了一款“网红美白淡斑面霜”，刚开始，皮肤白皙细腻，但停用之后，却发生面部红肿、瘙痒、起疹子等严重不适。紧急就医后，被诊断为“激素依赖性皮炎”，这是一种严重的激素“戒断症状”，也就是俗称的“激素脸”。为什么会出现这种情况呢？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-14/10677743.shtml",
+      "publishedAt": "2026-08-14T09:01:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677741.shtml",
+      "title": "黄河岸边采摘忙 鸿雁故里奏响丰收“交响曲”",
+      "category": "综合",
+      "summary": "中新网巴彦淖尔8月14日电 题：黄河岸边采摘忙 鸿雁故里奏响丰收“交响曲”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677741.shtml",
+      "publishedAt": "2026-08-14T08:58:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677738.shtml",
+      "title": "违法违规收集使用个人信息 75款移动应用被点名",
+      "category": "综合",
+      "summary": "中新网8月14日电 据“国家网络安全通报中心”微信公众号消息，根据中央网信办、工业和信息化部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，经国家计算机病毒应急处理中心检测，75款移动应用存在一项或者多项违法",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677738.shtml",
+      "publishedAt": "2026-08-14T08:53:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677740.shtml",
+      "title": "自然资源部：2025年南海区海洋生态状况总体稳定",
+      "category": "综合",
+      "summary": "8月14日，自然资源部南海局正式发布《2025年南海区海洋生态预警监测公报》和《2025年南海区海洋生态保护修复公报》。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677740.shtml",
+      "publishedAt": "2026-08-14T08:53:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677734.shtml",
+      "title": "武威“金”品鲜动甘味绵长",
+      "category": "综合",
+      "summary": "中新网兰州8月14日电 (刘薛梅)14日，甘肃省政府新闻办在武威市举办“甘味出陇”系列新闻发布活动，以“相约天马故乡 尽享武味金品”为主题，这种把发布台从发布厅搬到现场的方式，让大家直观感受到“甘”美之“味”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677734.shtml",
+      "publishedAt": "2026-08-14T08:51:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677739.shtml",
+      "title": "恶意拨打110达172次被拘留 究竟哪些情况才该报警？",
+      "category": "综合",
+      "summary": "遇到危险拨打110，是人人都知道的安全常识。然而，云南昆明一男子却将这条“生命线”当成了个人宣泄情绪的工具，在一年多的时间里，他恶意拨打报警电话多达172次，最终将自己送进了拘留所。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677739.shtml",
+      "publishedAt": "2026-08-14T08:51:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677726.shtml",
+      "title": "北海海关综合技术服务中心2026年实验室仪器设备更新项目（重）（GXGL2026M-X228-Z）竞争性协商公告",
+      "category": "综合",
+      "summary": "一、项目基本情况",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677726.shtml",
+      "publishedAt": "2026-08-14T08:51:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677737.shtml",
+      "title": "公安部：今年前7月侦办破坏环境资源犯罪案逾2万起",
+      "category": "综合",
+      "summary": "中新网8月14日电 据公安部微信公众号消息，今年前7个月，公安机关共侦办破坏环境资源犯罪案件2.25万起，抓获犯罪嫌疑人3.56万名。在第四个全国生态日到来之际，公安部公布4起破坏环境资源犯罪典型案例。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677737.shtml",
+      "publishedAt": "2026-08-14T08:50:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677724.shtml",
+      "title": "八所海关办公设备定点技术维护项目比选成交公告",
+      "category": "综合",
+      "summary": "根据《八所海关办公设备定点技术维护项目比选文件》确定的评审原则和要求，八所海关组织评审组完成了比选评审工作。经评审组推荐，现将成交结果公告如下：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677724.shtml",
+      "publishedAt": "2026-08-14T08:50:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677736.shtml",
+      "title": "中埃将举行“文明之鹰-2026”空军联合训练",
+      "category": "综合",
+      "summary": "中新社北京8月14日电 (记者 李纯)中国国防部新闻发言人陈曦14日就近期涉军问题发布消息。他介绍说，中国与埃及两国空军将在埃举行“文明之鹰-2026”联合训练。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677736.shtml",
+      "publishedAt": "2026-08-14T08:49:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677725.shtml",
+      "title": "防城海关二区4#楼拆除工程（重）（项目编号：GGZX2026-ZB-258（重））成交结果公告",
+      "category": "综合",
+      "summary": "一、项目编号：GGZX2026-ZB-258(重)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677725.shtml",
+      "publishedAt": "2026-08-14T08:49:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677735.shtml",
+      "title": "国防部：“台独”死局演不赢、改不了",
+      "category": "综合",
+      "summary": "中新社北京8月14日电 (记者 李纯)国防部新闻发言人陈曦14日就近期涉军问题发布消息。他表示，“台独”死局演不赢、改不了。解放军枕戈待旦备实当下，持续提升反分裂反干涉实战能力，始终是捍卫国家主权和领土完整、维护台海和平稳定的稳固底牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677735.shtml",
+      "publishedAt": "2026-08-14T08:48:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677728.shtml",
+      "title": "南宁海关基础设施功能恢复项目-凭祥海关竞争性磋商公告",
+      "category": "综合",
+      "summary": "项目概况：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677728.shtml",
+      "publishedAt": "2026-08-14T08:48:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677723.shtml",
+      "title": "北海海关综合技术服务中心2026年实验室仪器设备更新项目（GXGL2026M-X228-Z）采购结果公告",
+      "category": "综合",
+      "summary": "一、项目编号：GXGL2026M-X228-Z",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677723.shtml",
+      "publishedAt": "2026-08-14T08:46:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677709.shtml",
+      "title": "日本民间人士呼吁正视侵华日军细菌战罪行",
+      "category": "综合",
+      "summary": "近日，日本民间团体“调查军医学校旧址所发现人骨问题协会”举行发现人骨37周年集会。参会人士表示，侵华日军细菌战罪行长期未被追究，日本社会应正视并反省战争责任。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677709.shtml",
+      "publishedAt": "2026-08-14T08:44:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677733.shtml",
+      "title": "谈感情、博信任、用算法 “信息围猎”为何瞄准老年人？",
+      "category": "综合",
+      "summary": "谈感情、博信任、用算法……“信息围猎”为何瞄准老年人？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677733.shtml",
+      "publishedAt": "2026-08-14T08:44:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677716.shtml",
+      "title": "在“火炉”重庆，老外为何直呼“Cool”",
+      "category": "综合",
+      "summary": "这个夏天",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677716.shtml",
+      "publishedAt": "2026-08-14T08:43:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677731.shtml",
+      "title": "违法违规收集使用个人信息 75款移动应用被点名",
+      "category": "综合",
+      "summary": "根据中央网信办、工业和信息化部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，经国家计算机病毒应急处理中心检测，75款移动应用存在一项或者多项违法违规收集使用个人信息情况，现通报如下：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677731.shtml",
+      "publishedAt": "2026-08-14T08:43:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677730.shtml",
+      "title": "7月贷款利率保持低位水平",
+      "category": "综合",
+      "summary": "记者8月14日从中国人民银行获悉，今年以来，我国贷款利率保持低位水平，7月延续下行态势。7月份，企业新发放贷款加权平均利率略低于3%，比上年同期低约0.2个百分点；个人住房新发放贷款加权平均利率约3.1%，与上年同期基本持平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677730.shtml",
+      "publishedAt": "2026-08-14T08:40:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677701.shtml",
+      "title": "国际观察：全球生态治理的中国贡献",
+      "category": "综合",
+      "summary": "8月15日是全国生态日。生态环境是人类生存和发展的根基，生态治理成效攸关文明兴衰和人类前途。当前，世界百年变局加速演进，气候变化、生物多样性丧失、环境污染三重危机交织叠加，单边主义、保护主义逆流又使治理赤字持续扩大，全球生态治理正处在何去何从的十字路口。中国以习近平生态文明思想为指引，从理念、行动、机制三个维度持续发力，日益成为全球生态文明建设的重要参与者、",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677701.shtml",
+      "publishedAt": "2026-08-14T08:39:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677727.shtml",
+      "title": "中国首个调味品技贸评议基地落户江门",
+      "category": "综合",
+      "summary": "中新网广东江门8月14日电 (郭军 梁海棠)据江门海关14日消息，中国海关总署国际检验检疫标准与技术法规研究中心(简称“标法中心”)近日正式批复，同意在广东省江门市新会区创建调味品技术性贸易措施研究评议基地。这是中国首个聚焦调味品领域的国家级技术性贸易措施研究评议基地，标志着中国调味品行业应对国外技术性贸易壁垒、参与国际规则制定迈出关键一步。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677727.shtml",
+      "publishedAt": "2026-08-14T08:38:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677721.shtml",
+      "title": "中缅边境德宏多个口岸通道今年客货流量齐升",
+      "category": "综合",
+      "summary": "【东盟专线】中缅边境德宏多个口岸通道今年客货流量齐升",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677721.shtml",
+      "publishedAt": "2026-08-14T08:38:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677720.shtml",
+      "title": "中国国防部：日本“新型军国主义”图穷匕见、祸患不得不防",
+      "category": "综合",
+      "summary": "中新社北京8月14日电 (记者 李纯)1945年8月15日，日本宣布无条件投降。但现在日本右翼势力不断篡改历史、扩军备武，日防卫省即将提交的2027财年防卫预算申请总额约8.9万亿日元，再创历史新高。对此，中国国防部新闻发言人陈曦14日就近期涉军问题发布消息时指出，日本“新型军国主义”可谓是图穷匕见、祸患不得不防。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677720.shtml",
+      "publishedAt": "2026-08-14T08:35:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113416",
+      "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
+      "category": "科技",
+      "summary": "纪念并且感谢他为我们留下的推理世界。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113416",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1183,24 +1201,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113352",
-      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
-      "category": "科技",
-      "summary": "《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113352",
-      "publishedAt": "2026-08-12T07:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
