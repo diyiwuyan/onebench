@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#0",
+      "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T06:31:11.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#0",
       "title": "美國稱數十國助中國避特朗普關稅",
       "meta": "BBC 中文 · 2026/8/14",
@@ -61,14 +68,7 @@
       "publishedAt": "2026-08-13T03:13:24.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c39e20rkmnyo/trad#1",
-      "title": "想提高做決定的能力？問問螞蟻吧",
-      "meta": "BBC 中文 · 2026/8/13",
-      "url": "https://www.bbc.com/zhongwen/articles/c39e20rkmnyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T03:04:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad#1",
       "title": "為了安全旅行，女性付出了什麼代價？",
       "meta": "BBC 中文 · 2026/8/13",
       "url": "https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad?at_medium=RSS&at_campaign=rss",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T05:46:36.721Z",
+  "updatedAt": "2026-08-14T07:50:35.334Z",
   "provider": "OneBench 公共资讯快照"
 }

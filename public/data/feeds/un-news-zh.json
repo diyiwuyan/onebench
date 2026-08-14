@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142629",
+      "title": "乌克兰：平民伤亡人数创2022年3月以来新高",
+      "meta": "联合国新闻 · 2026/8/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142629",
+      "publishedAt": "2026-08-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142628",
+      "title": "人权高专谴责土耳其法律修订 呼吁避免对儿童判处终身监禁",
+      "meta": "联合国新闻 · 2026/8/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142628",
+      "publishedAt": "2026-08-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142627",
+      "title": "难民署呼吁国际社会支持叙利亚返乡与重建",
+      "meta": "联合国新闻 · 2026/8/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142627",
+      "publishedAt": "2026-08-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142626",
+      "title": "安理会：联合国警告也门重陷大规模冲突风险加剧 人道主义危机持续恶化",
+      "meta": "联合国新闻 · 2026/8/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142626",
+      "publishedAt": "2026-08-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142625",
+      "title": "人权高专办：定居者对被占约旦河西岸巴勒斯坦人围困必须停止",
+      "meta": "联合国新闻 · 2026/8/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142625",
+      "publishedAt": "2026-08-13T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142623",
       "title": "霍乱在西非和中非地区跨境蔓延",
       "meta": "联合国新闻 · 2026/8/12",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/8/7",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142596",
       "publishedAt": "2026-08-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142549",
-      "title": "【子午播报】2026年8月7日",
-      "meta": "联合国新闻 · 2026/8/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142549",
-      "publishedAt": "2026-08-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142593",
-      "title": "非洲疾控中心和世卫组织呼吁扩大社区防控 遏制刚果（金）埃博拉疫情",
-      "meta": "联合国新闻 · 2026/8/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142593",
-      "publishedAt": "2026-08-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142592",
-      "title": "广岛原子弹爆炸81周年 古特雷斯呼吁各国共同降低核风险",
-      "meta": "联合国新闻 · 2026/8/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142592",
-      "publishedAt": "2026-08-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142591",
-      "title": "联合国：南苏丹举行可信选举所需条件仍未具备 呼吁停止战斗并重启包容性对话",
-      "meta": "联合国新闻 · 2026/8/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142591",
-      "publishedAt": "2026-08-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142589",
-      "title": "儿基会：加沙停火300天 至少300名儿童遇难",
-      "meta": "联合国新闻 · 2026/8/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142589",
-      "publishedAt": "2026-08-06T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T05:46:36.721Z",
+  "updatedAt": "2026-08-14T07:50:35.334Z",
   "provider": "OneBench 公共资讯快照"
 }
