@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T20:45:30.380Z",
-  "expiresAt": "2026-08-15T02:45:30.380Z",
+  "generatedAt": "2026-08-14T22:41:01.171Z",
+  "expiresAt": "2026-08-15T04:41:01.171Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml",
+      "title": "拉美首个中外共建中文本科专业在巴西阿西斯开学",
+      "category": "综合",
+      "summary": "中新社圣保罗8月14日电 (记者 林春茵)当地时间13日，作为巴西乃至拉丁美洲首个由中外高校合作举办、实行四年制培养并授予学士学位的中文本科专业，巴西圣保罗州立大学中国语言与文化本科专业在该校阿西斯校区举行开学典礼。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml",
+      "publishedAt": "2026-08-14T22:33:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
+      "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+      "category": "综合",
+      "summary": "当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
+      "publishedAt": "2026-08-14T22:18:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678011.shtml",
       "title": "中国人民银行将发行江泽民诞辰100周年纪念币",
@@ -543,42 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677980.shtml",
       "publishedAt": "2026-08-14T14:23:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
-      "title": "拉萨车站迎高位客流 多举措护航雪域天路",
-      "category": "综合",
-      "summary": "中新网拉萨8月14日电 (旦增旺姆 格桑央金)14日，中国铁路青藏集团有限公司拉萨车站介绍，近期，进藏观光、探亲访友、学生返程等多重客流高度叠加，拉萨车站迎来持续高位客流。面对暑运高温、暴雨多发、客流高位运行的多重压力，拉萨车站采取多项举措，确保大客流期间站内秩序井然、运输平稳有序。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
-      "publishedAt": "2026-08-14T14:22:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
-      "title": "零时差｜侵略者家书，就是日本军国主义的自供状",
-      "category": "综合",
-      "summary": "今年8月15日，是日本宣布无条件投降81周年。在这个理应正视历史、反省罪责的重要节点，一批尘封80余年的侵华日军“军事邮便”重回公众视野。这些经战时日军严格审查、从中国战场寄回日本本土的战地家书，不仅是侵略者亲笔写下的自供状，更是军国主义思想渗透驯化的鲜活标本。字里行间的冷血与傲慢清晰昭示：军国主义的幽灵从未真正远去，历史的警示始终振聋发聩。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
-      "publishedAt": "2026-08-14T14:21:26.000Z",
       "tags": [
         "国内",
         "社会",
