@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T17:11:18.006Z",
-  "expiresAt": "2026-08-14T23:11:18.006Z",
+  "generatedAt": "2026-08-14T19:14:04.091Z",
+  "expiresAt": "2026-08-15T01:14:04.091Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -585,6 +585,96 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142634",
+      "title": "世卫组织：过去八年全球发生超过1万起医疗卫生领域袭击事件",
+      "category": "国际",
+      "summary": "世界卫生组织周五表示，过去八年间，全球医疗卫生领域遭受超过1万起袭击，其中包括乌克兰冲突期间以及刚果民主共和国东部埃博拉疫情应对工作中的袭击。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142634",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142633",
+      "title": "苏丹：战争导致分娩困难的残酷现实",
+      "category": "国际",
+      "summary": "联合国人口基金周五表示，在持续的战争中，由于缺乏专业医疗支持，苏丹临产妇女不仅可能失去孩子，有时甚至危及自身生命。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142633",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142632",
+      "title": "联合国毒品和犯罪问题办公室警告：中东地区冰毒走私活动日益猖獗",
+      "category": "国际",
+      "summary": "据联合国毒品和犯罪问题办公室称，2026年第一季度，伊朗当局截获了3663公斤冰毒，这些毒品原本计划运往欧洲和波斯湾地区。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142632",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142631",
+      "title": "原子能机构：扎波罗热核电站一周内第三次失去全部厂外电源",
+      "category": "国际",
+      "summary": "国际原子能机构总干事格罗西周五表示，8月8日，扎波罗热核电站短暂失去全部厂外电源，这是该站一周内第三次发生此类断电事件。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142631",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142630",
+      "title": "南苏丹难民面临极度饥饿，但援助资金告罄",
+      "category": "国际",
+      "summary": "联合国难民署和世界粮食计划署周五警告称，由于资金严重短缺，南苏丹境内超过65万名难民和寻求庇护者面临无法继续获得粮食、营养及其他援助的风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142630",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1606,96 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142604",
-      "title": "身处气候危机中的巴西土著青年：“被看见、被听到”就是“抵抗力”",
-      "category": "国际",
-      "summary": "随着气候变化正在重塑巴西各地的土著人的领地，新一代正步入公众视野。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142604",
-      "publishedAt": "2026-08-08T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142603",
-      "title": "【世界进行时】2026年8月7日",
-      "category": "国际",
-      "summary": "本期要点：儿基会：加沙停火300天，至少300名儿童遇难；乌克兰平民伤亡持续增加，联合国谴责俄罗斯新一轮袭击；“生物污损”—— 困在霍尔木兹海峡的船只面临的另一种威胁；广岛原子弹爆炸81周年，古特雷斯呼吁各国共同降低核风险；粮食署：“厄尔尼诺”现象或致数千万人陷入急性饥饿；非洲首当其冲承受着生物多样性丧失的后果；世行报告：人工智能可为发展中经济体提供新机遇，",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142603",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142599",
-      "title": "国际刑事法院缔约国大会主席团对乍得和委内瑞拉退出《罗马规约》表示遗憾",
-      "category": "国际",
-      "summary": "针对乍得和委内瑞拉两国政府为退出《罗马规约》所采取的举措，《罗马规约》缔约国大会主席团发表声明，对这一事态发展表示关切，并呼吁两国继续作为《罗马规约》缔约国履行承诺。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142599",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142598",
-      "title": "世卫组织技术委员会同意在刚果（金）对传统埃博拉疫苗实施针对本迪布焦型病毒临床试验",
-      "category": "国际",
-      "summary": "世界卫生组织本迪布焦埃博拉病毒病疫情应对候选疫苗优先排序技术咨询小组周五发布新报告，建议优先将目前唯一获批的针对扎伊尔型病毒的埃博拉疫苗“埃尔维博”（Ervebo）纳入刚果民主共和国（刚果（金））当前疫情背景下开展的随机临床试验，以评估其针对本迪布焦型病毒病的有效性。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142598",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142595",
-      "title": "【前方视野】委内瑞拉双强震：联合国紧急驰援",
-      "category": "国际",
-      "summary": "今年6月24日，百年不遇的连环强震，让委内瑞拉中北部沦为重灾区，成千上万个家庭瞬间流离失所。在这一危难时刻，联合国各机构紧急响应、协同作战，将粮食、药品与临时庇护材料源源不断运往灾区最前线。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142595",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

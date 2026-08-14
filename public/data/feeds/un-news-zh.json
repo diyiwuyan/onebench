@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142634",
+      "title": "世卫组织：过去八年全球发生超过1万起医疗卫生领域袭击事件",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142634",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142633",
+      "title": "苏丹：战争导致分娩困难的残酷现实",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142633",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142632",
+      "title": "联合国毒品和犯罪问题办公室警告：中东地区冰毒走私活动日益猖獗",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142632",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142631",
+      "title": "原子能机构：扎波罗热核电站一周内第三次失去全部厂外电源",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142631",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142630",
+      "title": "南苏丹难民面临极度饥饿，但援助资金告罄",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142630",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142550",
       "title": "【子午播报】2026年8月14日",
       "meta": "联合国新闻 · 2026/8/14",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/8/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142590",
       "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142604",
-      "title": "身处气候危机中的巴西土著青年：“被看见、被听到”就是“抵抗力”",
-      "meta": "联合国新闻 · 2026/8/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142604",
-      "publishedAt": "2026-08-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142603",
-      "title": "【世界进行时】2026年8月7日",
-      "meta": "联合国新闻 · 2026/8/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142603",
-      "publishedAt": "2026-08-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142599",
-      "title": "国际刑事法院缔约国大会主席团对乍得和委内瑞拉退出《罗马规约》表示遗憾",
-      "meta": "联合国新闻 · 2026/8/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142599",
-      "publishedAt": "2026-08-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142598",
-      "title": "世卫组织技术委员会同意在刚果（金）对传统埃博拉疫苗实施针对本迪布焦型病毒临床试验",
-      "meta": "联合国新闻 · 2026/8/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142598",
-      "publishedAt": "2026-08-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142595",
-      "title": "【前方视野】委内瑞拉双强震：联合国紧急驰援",
-      "meta": "联合国新闻 · 2026/8/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142595",
-      "publishedAt": "2026-08-07T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T17:11:18.006Z",
+  "updatedAt": "2026-08-14T19:14:04.091Z",
   "provider": "OneBench 公共资讯快照"
 }
