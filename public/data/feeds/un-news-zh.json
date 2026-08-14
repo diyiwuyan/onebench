@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142550",
+      "title": "【子午播报】2026年8月14日",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142550",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142629",
       "title": "乌克兰：平民伤亡人数创2022年3月以来新高",
       "meta": "联合国新闻 · 2026/8/13",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/7",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142595",
       "publishedAt": "2026-08-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142596",
-      "title": "天气、能源及地缘政治因素推动国际食品价格指数7月小幅上涨",
-      "meta": "联合国新闻 · 2026/8/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142596",
-      "publishedAt": "2026-08-07T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T13:42:51.482Z",
+  "updatedAt": "2026-08-14T15:07:04.535Z",
   "provider": "OneBench 公共资讯快照"
 }
