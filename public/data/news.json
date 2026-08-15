@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T14:39:40.320Z",
-  "expiresAt": "2026-08-15T20:39:40.320Z",
+  "generatedAt": "2026-08-15T16:41:30.704Z",
+  "expiresAt": "2026-08-15T22:41:30.704Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678439.shtml",
+      "title": "河南清潩河鄢陵县仓头村段溃口实现成功合龙",
+      "category": "综合",
+      "summary": "8月15日23时56分，河南清潩河鄢陵县仓头村段溃口实现成功合龙。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678439.shtml",
+      "publishedAt": "2026-08-15T16:12:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-15/10678438.shtml",
+      "title": "中国男篮佛山不敌乌拉圭男篮 热身赛一胜一负",
+      "category": "综合",
+      "summary": "中新社佛山8月15日电 (记者 张璐)中国男篮15日晚在广东佛山与乌拉圭男篮的第二场热身赛中，以72:91不敌对手，热身赛一胜一负。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678438.shtml",
+      "publishedAt": "2026-08-15T15:54:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678437.shtml",
+      "title": "《给阿嬷的情书》在台湾首映",
+      "category": "综合",
+      "summary": "中新社台北8月15日电 (记者 朱贺)电影《给阿嬷的情书》15日、16日以“特别放映”单元亮相2026桃园电影节，系在台湾首映。15日下午放映前，等待入场的观众已排起长龙；观影结束，不少观众红着眼眶走出影厅。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678437.shtml",
+      "publishedAt": "2026-08-15T15:53:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-15/10678436.shtml",
+      "title": "吉隆坡广东义山举办815公祭活动 缅怀南侨机工",
+      "category": "综合",
+      "summary": "中新社吉隆坡8月15日电 (记者 刘育英)今年是世界反法西斯战争胜利81周年。8月15日，马来西亚吉隆坡广东义山举办815公祭活动，海内外各界齐聚园区，缅怀二战先烈与战争蒙难民众，追忆南侨机工归国支援抗战的爱国往事。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-15/10678436.shtml",
+      "publishedAt": "2026-08-15T15:53:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678435.shtml",
+      "title": "中国使馆：日政要参拜靖国神社严重挑战战后国际秩序",
+      "category": "综合",
+      "summary": "中国驻日本大使馆发言人15日就日本首相高市早苗向靖国神社供奉祭祀费、部分内阁成员和国会议员参拜靖国神社答记者问时表示，日方有关行径严重挑战二战胜利成果和战后国际秩序。中方对此表示强烈愤慨、严厉谴责，已向日方提出严正交涉、强烈抗议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678435.shtml",
+      "publishedAt": "2026-08-15T15:30:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678434.shtml",
+      "title": "2026海峡两岸（福州）青少年科技教育交流会在福州开幕",
+      "category": "综合",
+      "summary": "中新社福州8月15日电 (叶秋云)2026海峡两岸(福州)青少年科技教育交流会15日在福州开幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678434.shtml",
+      "publishedAt": "2026-08-15T15:30:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678433.shtml",
+      "title": "洪秀柱：大海是连接两岸同胞的天然纽带",
+      "category": "综合",
+      "summary": "中新社广东阳江8月15日电 (记者 孙秋霞)中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱15日在广东阳江表示，大海从来不是阻隔，而是连接两岸同胞的天然纽带。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678433.shtml",
+      "publishedAt": "2026-08-15T15:02:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678432.shtml",
       "title": "莫言刷短剧拒绝“套路” 谈AI有体会",
@@ -436,132 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678404.shtml",
       "publishedAt": "2026-08-15T13:04:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678401.shtml",
-      "title": "林芝消防救援机动支队开展实战训练 夯实高海拔全域机动救援核心能力",
-      "category": "综合",
-      "summary": "中新网拉萨8月15日电 (费贤浩)近日，林芝消防救援机动支队将实训课堂搬进高原复杂险地，聚焦以水灭火、地震救援、山岳绳索救援三大实战课题，夯实高海拔全域机动救援核心能力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678401.shtml",
-      "publishedAt": "2026-08-15T13:03:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-15/10678393.shtml",
-      "title": "东西问丨李小平：音乐剧《黑旗令》何以牵动两岸共同家国情怀？",
-      "category": "综合",
-      "summary": "中新社南宁8月15日电 题：音乐剧《黑旗令》何以牵动两岸共同家国情怀？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-15/10678393.shtml",
-      "publishedAt": "2026-08-15T13:02:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678396.shtml",
-      "title": "（经济观察）中国信贷结构持续调整 对实体经济支持力度不减",
-      "category": "综合",
-      "summary": "中新社北京8月15日电 (陶思阅)中国央行14日公布7月金融数据。数据显示，7月末，普惠小微贷款余额、不含房地产业的服务业中长期贷款余额同比分别增长9%和9.3%。以上贷款增速均高于同期各项贷款增速。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678396.shtml",
-      "publishedAt": "2026-08-15T13:02:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065525.shtml",
-      "title": "中新健康｜关灯侧躺刷手机，正在悄悄毁掉你的眼睛",
-      "category": "综合",
-      "summary": "黑暗中看手机，瞳孔会散大，导致房水流出受阻、眼压升高，易诱发青光眼；侧躺玩手机时，明暗反差大，且压迫眼球，会加剧视疲劳、导致眼球变形。专家建议：夜晚玩手机，要保持光亮环境，坐正，保持一尺距离，避免在黑暗或侧躺时看手机。(赵方园 张静 陈庆洋 张嘉怡）",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065525.shtml",
-      "publishedAt": "2026-08-15T13:00:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678380.shtml",
-      "title": "近思录·到2035年建成健康中国，为什么关键在走对路？",
-      "category": "综合",
-      "summary": "到2035年建成健康中国，是中共中央作出的一项战略决策。在《求是》杂志发表的重要文章《加快建设健康中国》中，习近平总书记为新征程上卫生与健康工作把脉定向，强调要坚定不移走中国特色卫生与健康发展道路，推动“十五五”时期健康中国建设取得决定性进展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678380.shtml",
-      "publishedAt": "2026-08-15T13:00:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678378.shtml",
-      "title": "学习新语｜绿色承诺一以贯之",
-      "category": "综合",
-      "summary": "今年8月15日是第四个全国生态日，也是生态环境法典正式实施的日子。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678378.shtml",
-      "publishedAt": "2026-08-15T12:58:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678377.shtml",
-      "title": "嘱托为笔，绘天地国色",
-      "category": "综合",
-      "summary": "策划：朱基钗、许晟",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678377.shtml",
-      "publishedAt": "2026-08-15T12:57:13.000Z",
       "tags": [
         "国内",
         "社会",
