@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T10:39:01.215Z",
-  "expiresAt": "2026-08-15T16:39:01.215Z",
+  "generatedAt": "2026-08-15T12:58:43.019Z",
+  "expiresAt": "2026-08-15T18:58:43.019Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678297.shtml",
-      "title": "万物云2026年中期业绩：主动退出低回报项目，营收同比增长5.4%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678388.shtml",
+      "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
       "category": "综合",
-      "summary": "中新网北京8月15日电 (记者 庞无忌)房地产市场深度调整，倒逼物业企业加速转型。物业企业万物云日前发布截至2026年6月30日止六个月中期业绩。报告期内，万物云实现营业收入191.1亿元，同比增长5.4%；行政开支同比下降4.9%；剔除开发商业务影响后，核心净利润同比增长7.3%。开发商业务毛利下降、非开发商业务毛利增长、AI带来费用提效，三股力量正在重塑",
+      "summary": "当地时间8月15日，伊朗外交部发言人巴加埃表示，尽管美国从中阻挠，伊朗和阿曼之间的会谈仍在积极推进，双方已就霍尔木兹海峡航道通行方案达成协议。(总台记者 王政)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678297.shtml",
-      "publishedAt": "2026-08-15T10:29:08.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678388.shtml",
+      "publishedAt": "2026-08-15T12:52:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678300.shtml",
-      "title": "前7个月山西进出口总值797.6亿元 民营企业成稳外贸中坚力量",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678387.shtml",
+      "title": "全景式记录长江流域重大工程与文明演进互动 《大江润国》新书首发",
       "category": "综合",
-      "summary": "中新网太原8月15日电 (记者 杨静)记者15日从太原海关获悉，2026年前7个月，山西省进出口总值797.6亿元。其中，进口406.9亿元，同比增长4.6%。7月份，山西省进出口112.7亿元，进口64.1亿元，同比增长23.8%。",
+      "summary": "中新网北京8月15日电 (记者 孙自法)记者8月15日从科学出版社获悉，作为一部着眼于长江流域重大工程与文明演进互动的全景式记录，由该出版社出版的《大江润国》新书当天在上海书展首发。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678300.shtml",
-      "publishedAt": "2026-08-15T10:29:02.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678387.shtml",
+      "publishedAt": "2026-08-15T12:50:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,374 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678299.shtml",
-      "title": "唐代渤海贞孝公主墓壁画服饰复原成果首展亮相吉林延边",
-      "category": "综合",
-      "summary": "中新网延边8月15日电 (记者 郭佳)15日，“六合同风——唐代渤海贞孝公主墓壁画服饰复原成果展”中国首展在延边博物馆正式启幕。展览通过复原实物、文献考证、工艺展示等多种形式，系统直观呈现渤海国服饰的历史风貌与文化内涵。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678299.shtml",
-      "publishedAt": "2026-08-15T10:28:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678298.shtml",
-      "title": "粤港澳青年齐聚羊城探索短剧创作",
-      "category": "综合",
-      "summary": "中新网广州8月15日电 (记者 王坚)“南沙有戏·光影职场2026”粤港澳青年短剧创作实训成长计划成果发布活动15日在广州举行。来自粤港澳三地的青年代表、主办及支持单位代表、行业专家等齐聚一堂，共同见证青年学员经过实习实践、专业培训和创作实训后形成的阶段性成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678298.shtml",
-      "publishedAt": "2026-08-15T10:28:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/08-15/10678294.shtml",
-      "title": "生态环境法典施行首日 广东首宗适用新规案办结",
-      "category": "综合",
-      "summary": "中新网广州8月15日电 (记者 方伟彬)《中华人民共和国生态环境法典》15日正式施行，广州市海珠区人民法院在法典落地当天，于某小区现场成功调解一宗噪声污染责任纠纷案。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-15/10678294.shtml",
-      "publishedAt": "2026-08-15T10:25:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678295.shtml",
-      "title": "中国人民抗日战争纪念馆举办“赓续胜利荣光”主题社教活动",
-      "category": "综合",
-      "summary": "中新网北京8月15日电 中国人民抗日战争纪念馆15日开展“赓续胜利荣光”主题社教活动。百余名通过线上预约报名的观众走进抗战馆，重温十四年浴血抗战的峥嵘岁月，感悟伟大抗战精神。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678295.shtml",
-      "publishedAt": "2026-08-15T10:25:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678296.shtml",
-      "title": "商铺低频噪声扰民被判担责 生态环境法典施行第一案宣判",
-      "category": "综合",
-      "summary": "8月15日，我国第二部法典——《中华人民共和国生态环境法典》正式施行。当日，全国首例适用生态环境法典审理的噪声污染责任纠纷案在浙江省衢州市衢江区人民法院开庭并当庭宣判，新法迎来司法实践“第一案”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678296.shtml",
-      "publishedAt": "2026-08-15T10:23:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678290.shtml",
-      "title": "2026年全球发明大会（中国）总决赛暨国际赛在河南郑州启幕",
-      "category": "综合",
-      "summary": "8月15日，河南郑州，2025-2026学年全球发明大会(中国)竞赛活动全国总决赛暨国际赛在郑州国际会展中心启幕，本次活动汇聚近万名中外青少年同台竞技。图为中国澳门队选手向评委介绍作品。赵梦阳 摄 8月15日，河南郑州，2025-2026学年全球发明大会(中国)竞赛活动全国总决赛暨国际赛在郑州国际会展中心启幕，本次活动汇聚近万名中外青少年同台竞技。图为参赛选",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678290.shtml",
-      "publishedAt": "2026-08-15T10:23:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-15/10678291.shtml",
-      "title": "广州“绿色处方”上线 为市民定制专属山林康养路线",
-      "category": "综合",
-      "summary": "中新网广州8月15日电 (记者 程景伟)2026年8月15日是第四个全国生态日，广州市“绿色处方·助您健康——全国生态日森林康养行动”主题活动在白云山云溪植物园举行。活动现场正式上线“绿色处方”康养服务平台小程序，探索“生态+医疗”融合发展新模式，以数字化创新方式激活森林康养价值。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-15/10678291.shtml",
-      "publishedAt": "2026-08-15T10:20:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678289.shtml",
-      "title": "浙江绍兴：绍剧折子戏暑期开演",
-      "category": "综合",
-      "summary": "8月14日至16日，“好戏消夏”2026绍剧暑期展演月·绍剧折子戏专场在浙江绍兴六龄童大戏院开演。本次专场演出剧目多元，包括《摇钱树》《宇宙锋》《吕布试马》《水漫金山》等十多个折子戏，其中不乏新编折子戏。舞台上，一批中青年演员协力参演，新生代演员占比约一半以上。绍剧高亢激昂、风格粗犷，距今已有400多年历史，被列入国家级非物质文化遗产代表性项目名录。图为8月",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678289.shtml",
-      "publishedAt": "2026-08-15T10:16:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678284.shtml",
-      "title": "印尼7.7级地震死亡人数增至38人 仍有人员被困废墟",
-      "category": "综合",
-      "summary": "中新网雅加达8月15日电 (记者 李志全)印度尼西亚国家抗灾署负责人苏哈里扬托15日通报，截至当地时间15时，发生在弗洛勒斯岛附近海域的7.7级地震已造成38人死亡。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678284.shtml",
-      "publishedAt": "2026-08-15T10:13:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678287.shtml",
-      "title": "《正义审判——新中国审判日本战犯史实特展》全国巡展江苏站开展",
-      "category": "综合",
-      "summary": "图为观众在展厅内参观展览。中新社记者 泱波 摄 图为观众在展厅内参观展览。中新社记者 泱波 摄 图为讲解员向观众介绍展览。中新社记者 泱波 摄 图为参加展览开幕式的观众走进南京抗日航空烈士公墓，缅怀抗日航空英烈。中新社记者 泱波 摄 图为参加展览开幕式的观众走进南京抗日航空烈士公墓，缅怀抗日航空英烈。中新社记者 泱波 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678287.shtml",
-      "publishedAt": "2026-08-15T10:12:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678281.shtml",
-      "title": "歌唱家刘和刚：生活是一首歌，看你怎么唱",
-      "category": "综合",
-      "summary": "中新网鄂尔多斯8月15日电 题：歌唱家刘和刚：生活是一首歌，看你怎么唱",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678281.shtml",
-      "publishedAt": "2026-08-15T10:02:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678282.shtml",
-      "title": "敦煌印象：14万余份“暖心早餐”与一年四季“循环接力”",
-      "category": "综合",
-      "summary": "中新网兰州8月15日电 (记者 冯志军 高莹)“不管逢年过节或是节假日，一年四季一天没落下，餐餐都没重样过。”8月中旬7时30分许，低头忙碌了两个小时城市保洁工作的刘富贵和十几位工友在短暂歇息的片刻，围坐在一起共享甘肃敦煌官方一年来持续免费派送的“暖心早餐”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678282.shtml",
-      "publishedAt": "2026-08-15T10:00:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678288.shtml",
-      "title": "湖南发布首批国土空间生态修复成果 聚焦矿山土壤河湖治理难题",
-      "category": "综合",
-      "summary": "中新网长沙8月15日电(陶利 江涛)2026年8月15日是第4个全国生态日，湖南省自然资源厅正式发布湖南省国土空间生态保护修复科研成果名录(第一批)，31项覆盖理论研究、适用技术、经验做法的科研成果集中亮相，为山水林田湖草沙一体化保护和系统治理提供方案。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678288.shtml",
-      "publishedAt": "2026-08-15T09:59:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678285.shtml",
-      "title": "广西内燃机车“心血管诊疗师”50℃高温下坚守保障暑运",
-      "category": "综合",
-      "summary": "中新网柳州8月15日电 题：广西内燃机车“心血管诊疗师”50℃高温下坚守保障暑运",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678285.shtml",
-      "publishedAt": "2026-08-15T09:57:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678286.shtml",
-      "title": "从“沙进人退”到“绿进沙退”：祁连山下的绿色接力",
-      "category": "综合",
-      "summary": "中新网兰州8月15日电 (王牧雨)8月15日，《中华人民共和国生态环境法典》正式施行，当日，由甘肃省人大环资委牵头组织的2026年“陇原环保世纪行”祁连山生态保护专题采访活动也告一段落。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678286.shtml",
-      "publishedAt": "2026-08-15T09:55:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678283.shtml",
-      "title": "广西柳州各公园开展暑期科普研学活动 解锁自然课堂",
-      "category": "综合",
-      "summary": "中新网柳州8月15日电(林馨 张荣兴)正值暑假，广西柳州市各公园开展系列科普研学活动，将“探索互动”与“自然教育”深度融合，打造多元化的沉浸式体验场景，引导广大少年儿童走出家门、走进自然、亲近科学。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678283.shtml",
-      "publishedAt": "2026-08-15T09:53:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678280.shtml",
-      "title": "国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问",
-      "category": "综合",
-      "summary": "中新网8月15日电 据“国防部发布”微信公众号消息，国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678280.shtml",
-      "publishedAt": "2026-08-15T09:40:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678278.shtml",
-      "title": "立秋≠入秋 立秋后仍需警惕三类气象风险",
-      "category": "综合",
-      "summary": "当前已进入立秋节气，北方干冷空气日渐活跃，人们能明显察觉到风吹时体感的变化，尤其是早晚时段，盛夏湿热蒸腾的暑气缓缓收敛。但不少华南地区的公众觉得立秋后反而更热了，各地气温到底有哪些变化？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678278.shtml",
-      "publishedAt": "2026-08-15T09:35:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678274.shtml",
-      "title": "一习话·和谐共生丨跟着总书记瞰大美中国",
-      "category": "综合",
-      "summary": "青山就是美丽，蓝天也是幸福。党的十八大以来，从持续打好蓝天、碧水、净土保卫战，到统筹推进生态系统保护与修复，在习近平生态文明思想的引领下，我国经济社会发展实现全面绿色转型，美丽中国建设不断取得新成效。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678274.shtml",
-      "publishedAt": "2026-08-15T09:35:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678270.shtml",
-      "title": "良法善治·回响｜人与青山两不负",
-      "category": "综合",
-      "summary": "行至山野，哪里应当止步；生态受损，伤痕怎样修复；城市灯火，又该在何时暗下来。与自然共生，同万物相融，皆有其度。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678270.shtml",
-      "publishedAt": "2026-08-15T09:33:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-15/10678275.shtml",
-      "title": "直播：河南周口贾鲁河溃口合龙在即 直击封堵现场",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065527.shtml",
+      "title": "现场视频！河南贾鲁河溃口成功合龙 救援人员挥舞旗帜庆祝",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-15/10678275.shtml",
-      "publishedAt": "2026-08-15T09:23:00.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065527.shtml",
+      "publishedAt": "2026-08-15T12:48:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201159.shtml",
-      "title": "海南大熊猫兄弟“贡贡”“舜舜”庆十三岁生日",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
+      "title": "南海开渔在即 广东闸坡渔港千帆待发",
       "category": "综合",
-      "summary": "8月15日，海南海口，大熊猫“舜舜”与“猫粉”赠送的玩偶互动。当日，大熊猫兄弟“贡贡”“舜舜”十三岁生日庆典暨第八届海野国际猫粉节在海南热带野生动植物园举行。大熊猫“贡贡”“舜舜”享用特色生日庆典大餐，与“猫粉”和市民游客共享生日喜悦。中新社记者 骆云飞 摄 8月15日，海南海口，大熊猫“舜舜”享用“生日蛋糕”。当日，大熊猫兄弟“贡贡”“舜舜”十三岁生日庆典",
+      "summary": "8月15日，南海开渔前夕，渔船有序停靠在广东阳江闸坡国家级中心渔港内。2026年南海伏季休渔期将于8月16日正式结束，届时闸坡国家级中心渔港内的渔船将奔赴远洋，开启耕海牧渔的生活。（无人机照片）中新社记者 陈骥旻 摄 8月15日，南海开渔前夕，广东阳江闸坡国家级中心渔港内，船员搬运生活物资乘船前往渔船。2026年南海伏季休渔期将于8月16日正式结束，届时闸坡",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201159.shtml",
-      "publishedAt": "2026-08-15T09:12:48.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
+      "publishedAt": "2026-08-15T12:46:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678266.shtml",
-      "title": "网文IP牵手传统戏曲 越韵音乐剧《千面》在浙江杭州首演",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678385.shtml",
+      "title": "从理论到实践 传统药香制作技艺传承面向大众开班授课",
       "category": "综合",
-      "summary": "中新网杭州8月15日电(傅飞扬)当悬疑IP遇上江南越韵唱腔，会碰撞出怎样的舞台火花？8月14日晚，越音三部曲《花夜前行》(上部)越韵音乐剧《千面》在浙江杭州蝴蝶剧场迎来首演。作为“越音三部曲”的开篇力作，该剧将在此连演9场，演出持续至8月22日。",
+      "summary": "中新网北京8月15日电 (记者 应妮)在北京大观园蘅芜苑内，一缕源自古籍与自然的草木清香正悠然弥散，串联起古典文学、非遗技艺与现代生活。位于这里的红楼药香体验馆，以《红楼梦》“蘅芷清芬”香草意境为底色，是一处专门传播国家级非物质文化遗产传统香制作技艺(药香制作技艺)的特色空间。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678266.shtml",
-      "publishedAt": "2026-08-15T09:12:07.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678385.shtml",
+      "publishedAt": "2026-08-15T12:46:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678267.shtml",
-      "title": "AI化身“生态眼” 浙江吴兴“智”守城市生物多样性",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678384.shtml",
+      "title": "云南百岁老兵忆峥嵘 一堂特殊党课赓续抗战精神",
       "category": "综合",
-      "summary": "中新网湖州8月15日电(黄彦君 江宇)“机器狗上面有红外相机，后面带了一个声音采集设备，用来接收鸟类鸣声。它可以到人去不了的地方，可以更近距离地拍摄到一些比较好的素材，我们可以更直观更真实地去获取一些数据。”在浙江省湖州市吴兴区，技术人员袁浩然一边操作电脑，一边介绍道。",
+      "summary": "中新网昆明8月15日电 (罗婕 黄兴鸿)“我一直忘不了81年前的今天，昆明市锣鼓鞭炮声震天，全民庆祝抗战胜利。”15日，云南百岁抗战老兵杨毓骧现身一堂特殊的主题党课，回望峥嵘岁月。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678267.shtml",
-      "publishedAt": "2026-08-15T09:11:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678384.shtml",
+      "publishedAt": "2026-08-15T12:45:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678269.shtml",
-      "title": "《中国工业领域绿色低碳发展技术蓝皮书》在湖州发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
+      "title": "9国青年相聚塞上 2026宁夏国际青年友谊营银川启幕",
       "category": "综合",
-      "summary": "中新网湖州8月15日电(鲍梦妮)8月15日，2026绿色低碳创新大会在浙江湖州举办，《中国工业领域绿色低碳发展技术蓝皮书》(下称《蓝皮书》)在现场发布。",
+      "summary": "8月15日，以“青春汇丝路·携手向未来”为主题的2026宁夏国际青年友谊营在银川正式开营。来自加拿大、中国、格鲁吉亚、印度尼西亚、日本、吉尔吉斯斯坦、马来西亚、韩国、斯里兰卡等9个国家13个地区的青年代表齐聚宁夏，开启跨文化交流之旅。图为国际青年友谊营的青年代表正在制作面塑。中新社记者 于晶 摄 8月15日，以“青春汇丝路·携手向未来”为主题的2026宁夏国",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678269.shtml",
-      "publishedAt": "2026-08-15T09:11:33.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
+      "publishedAt": "2026-08-15T12:45:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678265.shtml",
-      "title": "护万物共生：浙江递出绿色发展新名片",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678382.shtml",
+      "title": "福建沙县：两百萌童开笔破蒙，古街飘起“文化宴”",
       "category": "综合",
-      "summary": "中新网杭州8月15日电(记者 王逸飞)8月15日，由浙江省生态环境宣传教育中心、中国新闻社浙江分社联合出品的《每年夏天》在全网上线。该片带领观众走进浙江海岛，了解中华凤头燕鸥的保护故事。",
+      "summary": "中新网福建沙县8月15日电 (吴伟 张凌欣)起立正衣冠、行拜师礼，开笔破蒙写“人”字，齐声诵读《三字经》……8月15日，七夕传统节日前夕，一场以“传承文脉启迪未来”为主题的七夕蒙学亲子嘉年华，在福建省三明市沙县区拉开帷幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678265.shtml",
-      "publishedAt": "2026-08-15T09:10:17.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678382.shtml",
+      "publishedAt": "2026-08-15T12:44:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678264.shtml",
-      "title": "内蒙古自治区人大财政经济委员会主任委员冯玉臻被查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
+      "title": "“俄罗斯制造”节庆集市首登天津 主打“达恰”田园风情",
       "category": "综合",
-      "summary": "中新网呼和浩特8月15日电(记者李爱平)内蒙古自治区纪委监委15日对外发布消息称：内蒙古自治区人大财政经济委员会主任委员冯玉臻涉嫌严重违纪违法，目前正接受内蒙古自治区纪委监委纪律审查和监察调查。",
+      "summary": "中新网天津8月15日电 (记者 周亚强)由俄罗斯出口中心主办的“俄罗斯制造”节庆集市15日在天津和平路金街开幕，为期5天。这是该系列活动首次在天津举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678264.shtml",
-      "publishedAt": "2026-08-15T09:10:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
+      "publishedAt": "2026-08-15T12:42:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +194,374 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-15/10678262.shtml",
-      "title": "第七届全国少数民族文艺会演将启 天津《赶大营》将献演开场大戏",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
+      "title": "中消协提出50条行动建议 引导绿色消费行为",
       "category": "综合",
-      "summary": "中新网天津8月15日电 (记者 孙玲玲)14日，天津市召开第七届全国少数民族文艺会演进京演出动员部署会。记者从会上获悉，天津人民艺术剧院大型原创历史话剧《赶大营》将作为第七届全国少数民族文艺会演首演剧目，于8月18日至19日在北京梅兰芳大剧院上演。这也是天津剧目首次以开场大戏身份亮相全国少数民族文艺会演。",
+      "summary": "中新网北京8月15日电 (记者 刘亮)中国消费者协会15日在北京发布《中国消费者绿色消费指南(2026版)》(以下简称《指南》)。中消协、生态环境部宣传教育中心、中国社会科学院社会学研究所相关人围绕《指南》编制背景、核心内容、发布意义进行了介绍，引导广大消费者践行绿色低碳理念。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-15/10678262.shtml",
-      "publishedAt": "2026-08-15T09:08:45.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
+      "publishedAt": "2026-08-15T12:42:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-15/10678379.shtml",
+      "title": "32支龙舟队竞速广州白云湖",
+      "category": "综合",
+      "summary": "中新网广州8月15日电 (记者 王坚)以“百舸争流全城争渡”为口号的2026年广州龙舟超级联赛第二站赛事15日在广州市白云区白云湖东湖开赛，广州龙威组500米直道竞速激战上演。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678379.shtml",
+      "publishedAt": "2026-08-15T12:40:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678376.shtml",
+      "title": "广州启动2027年高考“三侨生”身份确认工作",
+      "category": "综合",
+      "summary": "中新网广州8月15日电 (记者 蔡敏婕)广州市报考2027年普通高校入学考试“三侨生”身份确认办理工作正式开启，受理时间为2026年8月15日至11月10日法定工作日，逾期将不再受理相关申请。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678376.shtml",
+      "publishedAt": "2026-08-15T12:39:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678373.shtml",
+      "title": "河南周口川汇区贾鲁河东岸堤防溃口成功合龙",
+      "category": "综合",
+      "summary": "记者了解到，经过多方应急抢险力量昼夜不停努力，8月15日晚上8时29分，河南省周口市川汇区贾鲁河东岸堤防117米溃口成功合龙。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678373.shtml",
+      "publishedAt": "2026-08-15T12:30:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065524.shtml",
+      "title": "合龙倒计时！河南周口贾鲁河溃口封堵现场：钢丝笼固定石块抛入，加快进度",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065524.shtml",
+      "publishedAt": "2026-08-15T12:28:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678371.shtml",
+      "title": "2026中国大学生飞行器设计创新大赛东部区赛开赛 1200余名选手集结南京空天争锋",
+      "category": "综合",
+      "summary": "图为飞行器在开赛仪式上进行飞行展示。中新社记者 泱波 摄 图为参赛选手带着飞行器走向赛场。中新社记者 泱波 摄 图为飞行器比赛现场。中新社记者 泱波 摄 图为飞行器在开赛仪式上进行飞行展示。中新社记者 泱波 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678371.shtml",
+      "publishedAt": "2026-08-15T12:27:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678370.shtml",
+      "title": "山珍遇海味 第七届昆台美食文化系列活动在昆明启动",
+      "category": "综合",
+      "summary": "8月15日，市民购买台湾小吃“蚵仔煎”。当日，“山海同云·明月同乡”2026年第七届昆台美食文化系列活动在云南省昆明市启动，活动以美食为媒，汇聚昆台特色风味，融合民俗展示、特色市集等内容，搭建两岸民间交流平台。中新社记者 李嘉娴 摄 8月15日，市民品尝台湾小吃“甜不辣”。当日，“山海同云·明月同乡”2026年第七届昆台美食文化系列活动在云南省昆明市启动，活",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678370.shtml",
+      "publishedAt": "2026-08-15T12:26:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678360.shtml",
+      "title": "人大监督护绿 杭州垃圾焚烧厂变身“透明工厂”",
+      "category": "综合",
+      "summary": "中新网杭州8月15日电 (钱晨菲)垃圾吊抓斗在库区内有序作业，将生活垃圾投入焚烧炉；中控大屏上，各类污染物排放数据实时更新；厂区内，一只搭载检测设备的机器狗巡回监测环境指标……在杭州市滨江区，运营22年的杭州绿能环保发电有限公司已褪去垃圾焚烧厂“脏乱扰民”的固有标签，成为可视、可测、可监督的“透明工厂”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678360.shtml",
+      "publishedAt": "2026-08-15T12:24:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678372.shtml",
+      "title": "听，长江在说",
+      "category": "综合",
+      "summary": "“以前马达声从早响到晚，现在安静得能听见鱼儿蹦跶”——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678372.shtml",
+      "publishedAt": "2026-08-15T12:23:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201169.shtml",
+      "title": "斯诺克中国公开赛：周跃龙决胜局憾负桑卡姆无缘决赛",
+      "category": "综合",
+      "summary": "8月15日，在山西太原举行的2026斯诺克中国公开赛半决赛中，泰国选手诺鹏·桑卡姆以6比5战胜中国选手周跃龙，晋级决赛。图为诺鹏·桑卡姆在比赛中。中新社记者 韦亮 摄 8月15日，在山西太原举行的2026斯诺克中国公开赛半决赛中，泰国选手诺鹏·桑卡姆以6比5战胜中国选手周跃龙，晋级决赛。图为诺鹏·桑卡姆在比赛中。中新社记者 韦亮 摄 8月15日，在山西太原举",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201169.shtml",
+      "publishedAt": "2026-08-15T12:20:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678362.shtml",
+      "title": "生态环境法典施行首案宣判 商铺低频噪声扰民被判担责",
+      "category": "综合",
+      "summary": "中新网衢州8月15日电(郭其钰)8月15日，《中华人民共和国生态环境法典》正式施行。当日，全国首例适用生态环境法典审理的噪声污染责任纠纷案在浙江省衢州市衢江区人民法院开庭并当庭宣判，以司法刚性守护群众居住安宁权益。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678362.shtml",
+      "publishedAt": "2026-08-15T12:20:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678364.shtml",
+      "title": "评论：一场收官战，长春踢出城市发展和鸣曲",
+      "category": "综合",
+      "summary": "中新网长春8月15日电 (记者 李彦国)15日晚，长春奥林匹克公园体育场人声鼎沸。此番与沈阳队的较量，是2026“东北超”长春赛区常规赛收官之战，场内氛围热烈、场外烟火气浓，体育赛事成功跳出单纯赛场范畴，奏响了民生、文化、产业交织共生的城市发展和鸣曲。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678364.shtml",
+      "publishedAt": "2026-08-15T12:20:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678368.shtml",
+      "title": "“风雨中，大家拧成了一股绳”",
+      "category": "综合",
+      "summary": "“风雨中，大家拧成了一股绳”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678368.shtml",
+      "publishedAt": "2026-08-15T12:19:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/ty/shipin/2026/08-15/news1065523.shtml",
+      "title": "机器人带队助阵“东北超” 沈阳“赛博啦啦队”硬控全场",
+      "category": "综合",
+      "summary": "8月15日晚，2026“东北超”长春主场，来自沈阳的“赛博啦啦队”到场助阵。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/ty/shipin/2026/08-15/news1065523.shtml",
+      "publishedAt": "2026-08-15T12:16:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-15/10678366.shtml",
+      "title": "印尼7.7级地震中三名中国游客受轻伤",
+      "category": "综合",
+      "summary": "8月15日，总台记者从中国驻登巴萨总领馆获悉，在印尼发生的7.7级地震中，有3名中国游客受轻伤，目前均无大碍。据了解，其中一名中国游客在地震发生后紧急避险过程中，因慌乱不慎头部撞到墙壁。另外两名游客是腰部扭伤。目前，3名游客伤势均较轻。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-15/10678366.shtml",
+      "publishedAt": "2026-08-15T12:15:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678351.shtml",
+      "title": "中国地震局：印尼海域7.7级地震构造体系复杂、板块汇聚作用强烈",
+      "category": "综合",
+      "summary": "中新网北京8月15日电 (记者 孙自法)中国地震局8月15日向媒体发布震情信息说，根据地震专家分析，印度尼西亚(印尼)弗洛勒斯岛附近海域当天凌晨的7.7级地震，是发生在澳大利亚板块与巽他板块交汇区域的逆冲型破裂，该区域构造体系复杂、板块汇聚作用强烈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678351.shtml",
+      "publishedAt": "2026-08-15T12:15:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678363.shtml",
+      "title": "大熊猫“贡贡”“舜舜”海南迎13岁“生日趴”",
+      "category": "综合",
+      "summary": "中新网海口8月15日电 (记者 张茜翼)当热带椰风遇上国宝生辰，一场别具风味的“生日趴”15日在海口上演。海南热带野生动植物园的大熊猫兄弟“贡贡”和“舜舜”迎来13周岁生日，数百名中外游客齐聚于此，为这对熊猫兄弟庆生。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678363.shtml",
+      "publishedAt": "2026-08-15T12:14:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678361.shtml",
+      "title": "长江十年行｜见证长江蜕变，畅游赣鄱滨江新画卷",
+      "category": "综合",
+      "summary": "长江奔流不息，承载着赣鄱大地独特的江岸风光。今天，沿着长江江西段前行，感受江风拂面，欣赏粼粼江水，探寻江岸的岁月变迁。十年时光流转，昔日荒芜滩涂，化作可游可赏的滨江画卷。这份沿江打卡清单，带你解锁五处赣鄱江岸美景。眼前满目青绿风光，便是长江十年江西儿女交出的动人答卷，即刻启程，共赴长江之约。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678361.shtml",
+      "publishedAt": "2026-08-15T12:13:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678357.shtml",
+      "title": "重庆：暑假老师带学生下田打谷子 体验“粒粒皆辛苦”",
+      "category": "综合",
+      "summary": "图为师生下田收割水稻。（无人机照片）中新社记者 肖江川 摄 图为师生下田收割水稻。（无人机照片）中新社记者 肖江川 摄 图为师生下田收割水稻。（无人机照片）中新社记者 肖江川 摄 图为师生下田收割水稻。（无人机照片）中新社记者 肖江川 摄 图为师生下田收割水稻。（无人机照片）中新社记者 肖江川 摄 图为师生下田收割水稻。（无人机照片）中新社记者 肖江川 摄 ",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678357.shtml",
+      "publishedAt": "2026-08-15T12:02:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678352.shtml",
+      "title": "拉丁美洲现代艺术大师奥斯瓦尔多·维加斯回顾展在广州开展",
+      "category": "综合",
+      "summary": "8月15日，“奥斯瓦尔多·维加斯回顾展——心外无物”在位于广州市的广东美术馆新馆开展。本次展览呈现拉丁美洲现代艺术大师奥斯瓦尔多 · 维加斯跨越七十载创作生涯的重要作品，以及罕见的文献资料。图为画作《蝎子》吸引参观者。中新社记者 陈楚红 摄 8月15日，“奥斯瓦尔多·维加斯回顾展——心外无物”在位于广州市的广东美术馆新馆开展。本次展览呈现拉丁美洲现代艺术大师",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678352.shtml",
+      "publishedAt": "2026-08-15T12:02:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678359.shtml",
+      "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
+      "category": "综合",
+      "summary": "新华社北京8月15日电#8195;纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平将出席大会并发表重要讲话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678359.shtml",
+      "publishedAt": "2026-08-15T12:02:02.000Z",
       "tags": [
         "国内",
         "社会",
