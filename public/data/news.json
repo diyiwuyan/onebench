@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T20:38:35.129Z",
-  "expiresAt": "2026-08-16T02:38:35.129Z",
+  "generatedAt": "2026-08-15T22:37:13.040Z",
+  "expiresAt": "2026-08-16T04:37:13.040Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678442.shtml",
+      "title": "中国队在第38届国际信息学奥赛斩获3金1银",
+      "category": "综合",
+      "summary": "第38届国际信息学奥林匹克竞赛(IOI 2026)15日在乌兹别克斯坦首都塔什干落下帷幕。中国代表队斩获3金1银，并取得团体第一名的优异成绩。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678442.shtml",
+      "publishedAt": "2026-08-15T22:36:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678441.shtml",
+      "title": "职场新人入职签约要注意什么",
+      "category": "综合",
+      "summary": "问：眼下，2026届高校毕业生正陆续从校园走向职场，一些必要的劳动保障知识是每个职场新人都要掌握的“护身符”。劳动合同怎么签？要警惕哪些陷阱？社保怎么缴纳更合适？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678441.shtml",
+      "publishedAt": "2026-08-15T22:34:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678440.shtml",
+      "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
+      "category": "综合",
+      "summary": "今天(16日)早晨，厄瓜多尔共和国总统丹尼尔·罗伊－希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期8天的访华行程。此访是诺沃亚总统首次对中国进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678440.shtml",
+      "publishedAt": "2026-08-15T21:38:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678439.shtml",
       "title": "河南清潩河鄢陵县仓头村段溃口实现成功合龙",
@@ -508,60 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678397.shtml",
       "publishedAt": "2026-08-15T13:11:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678400.shtml",
-      "title": "浙博《金石书画》第八期开展 展出南宋拓本与王阳明绝笔",
-      "category": "综合",
-      "summary": "中新网杭州8月15日电(曹丹)8月15日，浙江省博物馆《金石书画》系列展览第八期正式启幕。这一创办于2016年的学术品牌已走过十年，本次展览设有湖北省博物馆藏善本碑帖、书法手卷，以及浙江省博物馆藏明清名家尺牍两大专题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678400.shtml",
-      "publishedAt": "2026-08-15T13:09:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678406.shtml",
-      "title": "文旅观察：年轻人夜间“拼蟹”怎么成了旅游新风尚？",
-      "category": "综合",
-      "summary": "中新网宁波8月15日电(林波 刘雨)8月15日晚，浙江宁波水产品批发市场(路林市场)灯火通明，一筐筐鲜活梭子蟹自冷链车卸下，咸湿的海风裹挟着海鲜的味道扑面而来。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678406.shtml",
-      "publishedAt": "2026-08-15T13:08:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-15/10678404.shtml",
-      "title": "世台联主席弗格森：中国已成斯诺克核心阵地",
-      "category": "综合",
-      "summary": "中新网太原8月15日电 (记者 胡健)“中国已经成为斯诺克的全球核心阵地，27年前我就这样预言过。我们必须感谢中国，是中国让斯诺克运动迈入新的发展阶段。”世界职业比利与斯诺克协会(简称“世台联”)主席杰森·弗格森15日在山西太原说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678404.shtml",
-      "publishedAt": "2026-08-15T13:04:06.000Z",
       "tags": [
         "国内",
         "社会",
