@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142639",
+      "title": "【专题报道┃前方视野】阿富汗：营养不良危机正在失控",
+      "meta": "联合国新闻 · 2026/8/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142639",
+      "publishedAt": "2026-08-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142637",
+      "title": "【世界进行时】2026年8月14日",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142637",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142636",
+      "title": "联合国追加3050万美元应急资金应对刚果民主共和国埃博拉疫情",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142636",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142635",
+      "title": "儿基会：自2021年以来阿富汗超过260万名女童无缘中等教育",
+      "meta": "联合国新闻 · 2026/8/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142635",
+      "publishedAt": "2026-08-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142634",
       "title": "世卫组织：过去八年全球发生超过1万起医疗卫生领域袭击事件",
       "meta": "联合国新闻 · 2026/8/14",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/8/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142609",
       "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142608",
-      "title": "阿富汗：联合国敦促塔利班就安全部队犯下的滥用职权行为公开信息",
-      "meta": "联合国新闻 · 2026/8/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142608",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142607",
-      "title": "联合国呼吁采取紧急行动，保护儿童免受网络信息风险的侵害",
-      "meta": "联合国新闻 · 2026/8/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142607",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142606",
-      "title": "乌克兰人道主义援助仓库遭袭",
-      "meta": "联合国新闻 · 2026/8/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142606",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142590",
-      "title": "【专题报道】从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
-      "meta": "联合国新闻 · 2026/8/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142590",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-15T18:47:38.424Z",
+  "updatedAt": "2026-08-15T20:38:35.129Z",
   "provider": "OneBench 公共资讯快照"
 }
