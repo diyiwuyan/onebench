@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#0",
+      "title": "為何Z世代女性比母親一代更了解月經？",
+      "meta": "BBC 中文 · 2026/8/16",
+      "url": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T08:34:23.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#0",
       "title": "分析：劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
       "meta": "BBC 中文 · 2026/8/16",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-08-14T09:36:38.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#1",
       "title": "朱鎔基的話：從「搞台獨沒好下場」 到「搞壞香港是民族罪人」",
       "meta": "BBC 中文 · 2026/8/14",
       "url": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
@@ -145,13 +152,6 @@
       "publishedAt": "2026-08-12T04:52:50.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#1",
-      "title": "「我被朝鮮綁架，還被迫嫁給美國士兵」",
-      "meta": "BBC 中文 · 2026/8/12",
-      "url": "https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T00:07:32.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad#1",
       "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
       "meta": "BBC 中文 · 2026/8/12",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-16T06:59:31.663Z",
+  "updatedAt": "2026-08-16T08:46:52.369Z",
   "provider": "OneBench 公共资讯快照"
 }
