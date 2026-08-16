@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T13:00:43.313Z",
-  "expiresAt": "2026-08-16T19:00:43.313Z",
+  "generatedAt": "2026-08-16T14:39:16.896Z",
+  "expiresAt": "2026-08-16T20:39:16.896Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,384 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678793.shtml",
+      "title": "低价团曝出“转卖游客、赌团”内幕 总台曝光暑期游乱象",
+      "category": "综合",
+      "summary": "财经调查丨低价团曝出“转卖游客、赌团”内幕 总台曝光暑期游乱象",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678793.shtml",
+      "publishedAt": "2026-08-16T14:09:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678789.shtml",
+      "title": "日媒：高市政权回避历史反省 要警惕其“回归战前”的政策动向",
+      "category": "综合",
+      "summary": "中新社东京8月16日电 日本多家媒体16日发表社论，批评首相高市早苗在日本宣布无条件投降81周年之际回避历史反省，并对高市政权“回归战前”的政策动向表示警惕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678789.shtml",
+      "publishedAt": "2026-08-16T14:02:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-16/10678788.shtml",
+      "title": "新起点、新机遇、新突破——澳门各界期盼“三五”规划开创高质量发展新局面",
+      "category": "综合",
+      "summary": "新华社澳门8月16日电 题：新起点、新机遇、新突破——澳门各界期盼“三五”规划开创高质量发展新局面",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678788.shtml",
+      "publishedAt": "2026-08-16T13:11:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
+      "title": "我的新疆日记·第五天|北庭与天山，在遗址与群山之间",
+      "category": "综合",
+      "summary": "这几天，我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访，以日记的形式，记录一路的所见所闻、所思所感。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
+      "publishedAt": "2026-08-16T13:10:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678786.shtml",
+      "title": "日政要参拜靖国神社遭国际社会强烈反对",
+      "category": "综合",
+      "summary": "新华社北京8月16日电 综合新华社驻外记者报道：在日本宣布无条件投降81周年之际，日本首相高市早苗15日以“自民党总裁”身份，向供奉有二战甲级战犯的靖国神社供奉“玉串料”（祭祀费），并在出席日本政府举办的“全国战殁者追悼仪式”前从会场停车场朝靖国神社所在方向“遥拜”。此外，日本防卫大臣小泉进次郎等多名政客分别前往靖国神社参拜，这是日本连续第7年有现任阁僚在这",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678786.shtml",
+      "publishedAt": "2026-08-16T13:09:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678784.shtml",
+      "title": "多家日媒：高市政权回避历史反省 要警惕其“回归战前”倾向",
+      "category": "综合",
+      "summary": "日本多家媒体16日发表社论，批评高市早苗政权在日本宣布无条件投降81周年之际回避历史反省、淡化战争责任，并对日本政坛和安全政策日益显现的“回归战前”倾向表示警惕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678784.shtml",
+      "publishedAt": "2026-08-16T13:07:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678783.shtml",
+      "title": "一店卖全球，跨境电商推动中国制造加速出海",
+      "category": "综合",
+      "summary": "3年时间，年销售额从400多万美元增长到6000多万美元，海外市场从北美拓展到欧洲和日本——这是鑫帕特娜丝（青岛）家居饰品有限公司通过单家跨境电商平台出海交出的成绩单。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678783.shtml",
+      "publishedAt": "2026-08-16T13:07:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065605.shtml",
+      "title": "司机隧道口停车盖雨布 民警声嘶力竭劝离",
+      "category": "综合",
+      "summary": "近日，在#8204;沪武高速罗田段凤凰关隧道出口#8204;处，一辆大货车违规停在行车道内，司机爬上车顶试图覆盖雨布以防货物淋湿。湖北高速交警通过视频巡查发现后迅速赶到现场，因情况危急，民警#8204;声嘶力竭地喊话劝离#8204;，要求司机立即驶离。司机起初辩称“只需要一分钟”，未意识到在隧道口停车的巨大安全隐患，最终在民警反复严厉劝导下驾车离开。#820",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065605.shtml",
+      "publishedAt": "2026-08-16T13:07:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678781.shtml",
+      "title": "国际锐评丨中国为什么值得“反复探索”？",
+      "category": "综合",
+      "summary": "“这是一个令人惊叹的国家。”英国游客乌尔维最近开启第三次中国之旅，去了西安、拉萨等地，计划明年重走丝绸之路。荷兰游客巴哈原计划来华旅行几周，结果待了半年；西班牙游客佩雷斯一家回国后意犹未尽，又开启了“二刷”。而美国特斯拉公司首席执行官马斯克日前在社交平台上点赞中国并“强烈推荐大家去看看”，更是点燃外国游客对中国的热情。他们纷纷感叹，“中国值得反复探索，一次根",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678781.shtml",
+      "publishedAt": "2026-08-16T13:05:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/yl/shipin/cns-d/2026/08-16/news1065604.shtml",
+      "title": "《给阿嬷的情书》台湾首映掀观影热 区桂芝：片名中的“阿嬷”足以触动观众",
+      "category": "综合",
+      "summary": "8月15日、16日，电影《给阿嬷的情书》以“特别放映”单元亮相2026桃园电影节，系在台湾首映。15日下午放映前，等待入场的观众已排起长龙；观影结束，不少观众红着眼眶走出影厅。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/yl/shipin/cns-d/2026/08-16/news1065604.shtml",
+      "publishedAt": "2026-08-16T13:04:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678773.shtml",
+      "title": "（活力中国调研行）湖南湘西“挤满”外国人",
+      "category": "综合",
+      "summary": "中新社湖南湘西8月16日电 题：湖南湘西“挤满”外国人",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678773.shtml",
+      "publishedAt": "2026-08-16T13:04:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678779.shtml",
+      "title": "山水间的清凉，海河边的美景——老外感叹津门魅力",
+      "category": "综合",
+      "summary": "新华社天津8月16日电（记者白佳丽、马博文、包庆龄）最近，“China Cool”（中国又酷又凉）成为外国游客的热门选择。位于渤海湾畔的滨海城市天津，正以丰富生态资源、多元文化场景和不断升级的入境服务，吸引着越来越多的外国游客在火热余暑中体验其独特魅力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678779.shtml",
+      "publishedAt": "2026-08-16T13:03:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
+      "title": "共创1000个AI场景 上海交大成立AI时代商科人才培养联盟",
+      "category": "综合",
+      "summary": "中新网上海8月16日电 (记者 许婧)在16日举办的上海交大AI时代产业创新管理论坛暨交大安泰MBA“智能时代五链人才”培养体系发布会上，上海交大宣布联合上海市人工智能协会、上海市人工智能研究院、上海交通大学安泰经济与管理学院和上海交通大学人工智能学院共同发起成立AI时代商科人才培养联盟，并启动交大安泰百业千企10×100 AI场景共创计划。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
+      "publishedAt": "2026-08-16T13:03:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678775.shtml",
+      "title": "北斗时空安全产业平台落地长沙 共建共享推动特色产业集群建设",
+      "category": "综合",
+      "summary": "中新网长沙8月16日电(宋倩)北斗时空安全试验基地共建启动暨产业平台建设发布会16日在长沙举行，相关专家学者、企业代表等300余人齐聚，聚焦时空安全产业，共探共建共享产业生态。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678775.shtml",
+      "publishedAt": "2026-08-16T13:02:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678771.shtml",
+      "title": "西藏青藏高原作物种质资源中期库保存青稞资源10000余份",
+      "category": "综合",
+      "summary": "中新网拉萨8月16日电 (记者 赵朗)记者16日从青稞产业科技成果观摩研讨会上获悉，西藏青藏高原作物种质资源中期库，保存青稞资源10000余份。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678771.shtml",
+      "publishedAt": "2026-08-16T13:02:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678777.shtml",
+      "title": "好评中国丨2291万入境客的账单：老外们的“Chinamaxxing”都max了些啥？",
+      "category": "综合",
+      "summary": "2026年，“China Travel”从社交平台的热词变成海关入境章上的真实数据。上半年2291.4万人次外国人入境，同比增长20.4%，免签入境占比高达77.7%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678777.shtml",
+      "publishedAt": "2026-08-16T13:01:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-16/10678772.shtml",
+      "title": "巴西里约州举行“中国友好日”庆祝活动",
+      "category": "综合",
+      "summary": "中新网里约热内卢8月16日电 (记者 林春茵)品潮汕佳肴，叙中巴友谊。巴西里约热内卢日前举行庆祝“中国友好日”活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678772.shtml",
+      "publishedAt": "2026-08-16T13:01:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678759.shtml",
+      "title": "学者：AI革命的下半场将是技术对个人赋能",
+      "category": "综合",
+      "summary": "中新网上海8月16日电 (记者 陈静)15日正在举行的2026上海书展上，《微弱烛光：PA时代与人类沉浮》新书发布会举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678759.shtml",
+      "publishedAt": "2026-08-16T13:00:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678778.shtml",
+      "title": "【好评中国】东湖评论丨防灾前置，方能从容应对",
+      "category": "综合",
+      "summary": "8月16日出版的第16期《求是》杂志发表习近平总书记的重要文章《提高防灾减灾救灾能力》。文章指出，要提升大灾巨灾应对处置能力。树牢底线思维、极限思维，深入研判大灾巨灾风险，不断完善应急预案，把困难和挑战估计得更充分一些，把工作举措考虑得更周全一些。近期，受极端天气影响，陕西、甘肃、四川、黑龙江、湖北、河南等省份部分地区遭遇强降雨，多地发生洪涝灾害，江河水位急",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678778.shtml",
+      "publishedAt": "2026-08-16T13:00:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678774.shtml",
+      "title": "【好评中国】秦平 | 解码外资看好中国的多重“硬核”底气",
+      "category": "综合",
+      "summary": "近期，外资在中国高端制造领域投资动作频频，一批重大项目接连落地、开工或投产，主要集中于汽车核心零部件再制造、动力电池、化工新材料及半导体等高新技术产业领域。受访专家认为，外资加码中国高端制造的背后，是中国产业升级红利与全球供应链重构的双重驱动，跨国公司正以实际行动为“投资中国”投下信任票。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678774.shtml",
+      "publishedAt": "2026-08-16T12:59:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678762.shtml",
+      "title": "印尼强震已致53人死亡 5000余人疏散避难",
+      "category": "综合",
+      "summary": "中新社雅加达8月16日电 (记者 李志全)印度尼西亚国家抗灾署16日通报，弗洛勒斯岛附近海域7.7级地震已造成53人死亡、135人受伤。目前，救援人员仍在继续搜寻幸存者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678762.shtml",
+      "publishedAt": "2026-08-16T12:57:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
       "title": "伊朗称美军已被驱逐 不得进入霍尔木兹海峡",
@@ -194,384 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678760.shtml",
-      "title": "中国银幕数量世界第一 “龙餐馆”“奥德赛”特效厅一票难求",
-      "category": "综合",
-      "summary": "这个暑期，电影市场持续火热。截至目前，2026年度电影票房已突破255亿元，暑期档连续37天单日票房过亿；今年暑期档票房(含预售)已突破98亿元，观影人次超2.6亿。市场热度的背后，既有优质内容点燃的观影热潮，也离不开影院持续升级影厅、丰富观影体验的助力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678760.shtml",
-      "publishedAt": "2026-08-16T12:40:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678757.shtml",
-      "title": "立秋已到，各地气温到底有哪些变化？一文了解→",
-      "category": "综合",
-      "summary": "央视网消息：当前已进入立秋节气，北方干冷空气日渐活跃，人们能明显察觉到风吹时体感的变化，尤其是早晚时段，盛夏湿热蒸腾的暑气缓缓收敛。但不少华南地区的公众觉得立秋后反而更热了。各地气温到底有哪些变化？我们来了解一下。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678757.shtml",
-      "publishedAt": "2026-08-16T12:38:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678752.shtml",
-      "title": "“绿水青山·美丽中国行”生态文化传播活动走进甘肃武威",
-      "category": "综合",
-      "summary": "中新网兰州8月16日电 “绿水青山·美丽中国行”系列生态文化传播活动(武威站)14日在甘肃省武威市正式启动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678752.shtml",
-      "publishedAt": "2026-08-16T12:37:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678751.shtml",
-      "title": "山东—新疆产业合作对接活动走进新疆兵团第十二师",
-      "category": "综合",
-      "summary": "中新网乌鲁木齐8月16日电 (记者 戚亚平)16日，“鲁兵携手·产业共兴”山东—新疆产业合作对接活动(新疆生产建设兵团第十二师)在乌鲁木齐市举行。活动邀请两地80余家企业参与，涉及农业机械及装备、食品、消费品、生物科技等领域；同时安排了产业合作对接推介、实地对接等环节，力争达成实质性合作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678751.shtml",
-      "publishedAt": "2026-08-16T12:35:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678750.shtml",
-      "title": "南海迎来开渔季 中国海警局南海分局护航开渔生产",
-      "category": "综合",
-      "summary": "中新网北京8月16日电 (阮煜琳 李昂 匡雷 颜泽彬)南海开渔啦！8月16日12时，南海海域为期三个半月的伏季休渔期正式结束。随着新修订的《中华人民共和国渔业法》今年5月1日正式施行，南海迎来了该法实施后的首个开渔季。8月16日，粤桂琼三省(区)沿海数万艘渔船在海警舰艇的护航引导下，有序驶离渔港，前往南海开展捕捞作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678750.shtml",
-      "publishedAt": "2026-08-16T12:34:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml",
-      "title": "“我是廊坊推荐官”走进8大领域 解锁产业发展新动能",
-      "category": "综合",
-      "summary": "中新网廊坊8月16日电 8月14日至15日，由中共廊坊市委网信办组织开展的“我是廊坊推荐官”之行在河北廊坊举行。活动聚焦新材料、空港装备、智慧康养、数字档案、航空实训、柔性显示、高端医疗、文化科教八大领域，系统记录并展示廊坊现代化产业体系建设的阶段性成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml",
-      "publishedAt": "2026-08-16T12:33:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-16/10678748.shtml",
-      "title": "2026吉木萨尔天山马拉松开跑 24支文艺队沿赛道表演为跑者加油",
-      "category": "综合",
-      "summary": "中新网乌鲁木齐8月16日电 (宋志彤 张艳玲)16日，2026吉木萨尔天山马拉松鸣枪开跑，6000余名疆内外跑者参与全程、半程马拉松的角逐。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-16/10678748.shtml",
-      "publishedAt": "2026-08-16T12:32:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-16/10678746.shtml",
-      "title": "香港康文署将举办展览和教育活动纪念孙中山诞辰160周年",
-      "category": "综合",
-      "summary": "中新网香港8月16日电 (记者 赵静怡)香港特区政府文化体育及旅游局局长罗淑佩16日在港出席一个活动时表示，今年适逢孙中山先生诞辰160周年，特区政府康乐及文化事务署(简称“康文署”)正积极筹备在香港不同地区举办展览和教育推广活动，让公众从多角度认识孙中山先生的生平事迹与历史贡献，活动详情将于稍后公布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678746.shtml",
-      "publishedAt": "2026-08-16T12:32:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678693.shtml",
-      "title": "四川云南西藏等地部分地区发生地质灾害的气象风险较高",
-      "category": "综合",
-      "summary": "中新网8月16日电 据中央气象台网站消息，自然资源部与中国气象局8月16日18时联合发布黄色地质灾害气象风险预警：预计，8月16日20时至17日20时，四川中北部、云南西部、西藏东南部等地部分地区发生地质灾害的气象风险较高(黄色预警)。各级政府及有关部门按照应急预案做好地质灾害防御工作。请社会公众及时关注地质灾害气象风险预警信息，谨慎前往地质灾害预警区域。黄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678693.shtml",
-      "publishedAt": "2026-08-16T12:32:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678745.shtml",
-      "title": "两岸同胞广东阳江共赏千帆竞发的开渔盛景",
-      "category": "综合",
-      "summary": "中新网广东阳江8月16日电 (记者 孙秋霞)第二届海峡两岸民俗文体汇南海(阳江)开渔季民俗文化交流活动15日至19日在广东阳江举办，本次活动以阳江特色开渔文化为载体，融合民俗体验、经贸对接、青年交流等多元内容，吸引400余名台湾同胞参与。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678745.shtml",
-      "publishedAt": "2026-08-16T12:31:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678744.shtml",
-      "title": "400余名骑友福建武平七夕前夕追风骑绿道",
-      "category": "综合",
-      "summary": "中新网福建武平8月16日电 (王展雄 刘鹏标)8月16日，2026“希恩凯”杯福建武平第七届浪漫七夕自行车骑游活动在福建龙岩武平百家大院正式启幕。来自闽、粤、赣以及台湾、香港等地的400余名骑行爱好者齐聚武平，沿环中山河湿地精品骑行道追风而行，以车轮丈量山水，共赴一场浪漫山水之约。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678744.shtml",
-      "publishedAt": "2026-08-16T12:30:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-16/10678753.shtml",
-      "title": "空气炸锅炸裹淀粉或水分大的食物会致癌？真相是……",
-      "category": "综合",
-      "summary": "流言",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678753.shtml",
-      "publishedAt": "2026-08-16T12:26:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201286.shtml",
-      "title": "福建8000余艘渔船开渔出海",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201286.shtml",
-      "publishedAt": "2026-08-16T12:25:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678742.shtml",
-      "title": "逾450名两岸青年岭南文化寻根 体味沙滩运动乐趣",
-      "category": "综合",
-      "summary": "中新社广东汕尾8月16日电 (记者 郭军)8月14日至18日，第二届海峡两岸民俗文体汇沙滩运动会暨2026台湾青年岭南行潮汕文化寻根营活动在汕尾、揭阳举行。海峡两岸450余名青年进行了沙滩竞技、校际交流、文化寻根、民俗体验等活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678742.shtml",
-      "publishedAt": "2026-08-16T12:24:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678743.shtml",
-      "title": "（走进中国乡村）“吃茶去”品出武夷山星村镇的茶旅共富图景",
-      "category": "综合",
-      "summary": "中新社福建武夷山8月16日电 题：“吃茶去”品出武夷山星村镇的茶旅共富图景",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678743.shtml",
-      "publishedAt": "2026-08-16T12:23:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678707.shtml",
-      "title": "万名游客赴“冰雪之都”牙克石 在林海绿野中嬉雪狂欢",
-      "category": "综合",
-      "summary": "中新网呼伦贝尔8月16日电 (记者 张玮)林海翻涌，绿意无边。2026呼伦贝尔牙克石凤凰山冲雪狂欢季系列活动，16日在内蒙古自治区呼伦贝尔牙克石市启幕。万名游客在这场“冰与火”的盛宴中，解锁独一份的“反季嬉雪”极致体验。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678707.shtml",
-      "publishedAt": "2026-08-16T12:20:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678706.shtml",
-      "title": "福建柘荣举办鸳鸯草场翻越挑战赛 近千名跑者体验“自在”夏日",
-      "category": "综合",
-      "summary": "中新网宁德8月16日电 (吴雨薇 马启晨)16日，2026年第三届福建柘荣鸳鸯草场翻越挑战赛鸣枪开跑，来自全国各地及海外的近千名跑者齐聚高山草甸，在融合越野竞技、非遗民俗与康养美食的赛事中，感受“南方呼伦贝尔”的独特风光。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678706.shtml",
-      "publishedAt": "2026-08-16T12:20:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678741.shtml",
-      "title": "一见·山水间的三重对话",
-      "category": "综合",
-      "summary": "山清水秀，物阜民丰。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678741.shtml",
-      "publishedAt": "2026-08-16T12:17:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678738.shtml",
-      "title": "“如是书院”违法经营已被关停 赖某明等3人虐待学员被刑拘",
-      "category": "综合",
-      "summary": "8月5日，有媒体报道浙江新昌县“如是书院”相关问题。当日当地成立联合调查组，开展线索核查、调查取证、溯源摸排等工作。调查组经调查后发布如下通报：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678738.shtml",
-      "publishedAt": "2026-08-16T12:15:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678740.shtml",
-      "title": "学习新语·铸魂强党｜切实担负起管党治党政治责任",
-      "category": "综合",
-      "summary": "习近平党建思想，是习近平新时代中国特色社会主义思想的重要组成部分，是加强新时代党的建设的根本遵循。要深刻理解和把握习近平党建思想的内涵要义，必须深刻领会“十四个坚持”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678740.shtml",
-      "publishedAt": "2026-08-16T12:14:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678739.shtml",
-      "title": "和谐共生丨八个字里的生态密码",
-      "category": "综合",
-      "summary": "今年8月15日是第四个全国生态日。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678739.shtml",
-      "publishedAt": "2026-08-16T12:12:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#0",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
       "category": "国际",
@@ -641,7 +641,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#4",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#1",
       "title": "印尼強震造成至少47死 救援人員搜尋生還者",
       "category": "国际",
       "summary": "這場地震造成47人死亡，摧毀了數百棟建築物。官員表示，目前正在快速評估地震帶來的影響。",
@@ -1345,7 +1345,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#4",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
       "category": "国际",
       "summary": "朱鎔基前後12年主導中國經濟發展，改革過程中因為造成大量國企工人下崗而受民間批評。但中國整體上往市場經濟的方向邁了一大步，也由此開啟了歷史上發展速度最高的20年。",
@@ -1478,23 +1478,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T09:33:20.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad#1",
-      "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
-      "category": "国际",
-      "summary": "基輔稱，莫斯科使用了來自朝鮮（北韓）的導彈攻擊烏克蘭，造成多人死傷。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T04:52:50.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1730,6 +1713,23 @@
         "育儿",
         "家庭",
         "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#5",
+      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
+      "category": "国际",
+      "summary": "日本2026防衛白皮書將中國定位為空前最大戰略挑戰，但新版本刪除了台海「攸關日本安保」字句，僅強調國際社會穩定，原因何在？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T00:35:37.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
