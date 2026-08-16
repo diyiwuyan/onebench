@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T14:39:16.896Z",
-  "expiresAt": "2026-08-16T20:39:16.896Z",
+  "generatedAt": "2026-08-16T16:42:38.549Z",
+  "expiresAt": "2026-08-16T22:42:38.549Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678796.shtml",
+      "title": "赛事类型多样，超5000名“勇士”齐聚崇礼",
+      "category": "综合",
+      "summary": "中新网北京8月16日电 过去的两个周末，2026斯巴达勇士赛崇礼云顶站在云顶滑雪公园举行。记者获悉，本次赛事涵盖障碍赛、越野赛及12小时飓风赛等多个赛事类型，两周共吸引超过5000名选手参与。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678796.shtml",
+      "publishedAt": "2026-08-16T15:48:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678793.shtml",
       "title": "低价团曝出“转卖游客、赌团”内幕 总台曝光暑期游乱象",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
       "publishedAt": "2026-08-16T12:42:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678761.shtml",
-      "title": "不断攀升！多组数据透视中国出口含“新”量含“绿”量",
-      "category": "综合",
-      "summary": "海关总署数据显示，7月份，全国货物贸易进出口总值4.66万亿元，其中，高技术产品出口增长超五成。面对全球数字化、绿色化发展趋势，中国人工智能、绿色低碳等产业出口动力强劲，出口含“新”量含“绿”量不断攀升。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678761.shtml",
-      "publishedAt": "2026-08-16T12:41:09.000Z",
       "tags": [
         "国内",
         "社会",
