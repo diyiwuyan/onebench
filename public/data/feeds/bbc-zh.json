@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#0",
+      "title": "分析：劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
+      "meta": "BBC 中文 · 2026/8/16",
+      "url": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T03:50:04.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#0",
       "title": "印尼強震造成至少47死 救援人員搜尋生還者",
       "meta": "BBC 中文 · 2026/8/16",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-15T03:19:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad#1",
       "title": "「我一個月便虧了一萬四」——遭遇韓國股市暴跌的散戶們",
       "meta": "BBC 中文 · 2026/8/14",
       "url": "https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-08-11T07:58:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#5",
-      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
-      "meta": "BBC 中文 · 2026/8/6",
-      "url": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T00:35:37.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
       "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
       "meta": "BBC 中文 · 2026/8/4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-16T03:12:59.915Z",
+  "updatedAt": "2026-08-16T04:50:18.766Z",
   "provider": "OneBench 公共资讯快照"
 }
