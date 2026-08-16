@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#0",
+      "title": "印尼強震造成至少47死 救援人員搜尋生還者",
+      "meta": "BBC 中文 · 2026/8/16",
+      "url": "https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T03:07:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad#0",
+      "title": "「他送給我一個長得像他的洋娃娃」：卡斯特羅之女回顧那個她從不想認的父親",
+      "meta": "BBC 中文 · 2026/8/16",
+      "url": "https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T02:29:29.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad#0",
       "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
       "meta": "BBC 中文 · 2026/8/15",
@@ -33,7 +47,7 @@
       "publishedAt": "2026-08-14T09:20:28.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#4",
       "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
       "meta": "BBC 中文 · 2026/8/14",
       "url": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
@@ -54,7 +68,7 @@
       "publishedAt": "2026-08-14T03:41:21.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#4",
       "title": "伊朗跟美國、以色列打仗 還能撐多久？",
       "meta": "BBC 中文 · 2026/8/14",
       "url": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad?at_medium=RSS&at_campaign=rss",
@@ -159,20 +173,6 @@
       "publishedAt": "2026-08-11T07:58:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#4",
-      "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
-      "meta": "BBC 中文 · 2026/8/11",
-      "url": "https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T00:02:22.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#4",
-      "title": "為什麼航空公司對鋰電池日趨警惕",
-      "meta": "BBC 中文 · 2026/8/10",
-      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T09:16:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#5",
       "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
       "meta": "BBC 中文 · 2026/8/6",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-16T01:57:20.109Z",
+  "updatedAt": "2026-08-16T03:12:59.915Z",
   "provider": "OneBench 公共资讯快照"
 }

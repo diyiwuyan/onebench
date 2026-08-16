@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T01:57:20.109Z",
-  "expiresAt": "2026-08-16T07:57:20.109Z",
+  "generatedAt": "2026-08-16T03:12:59.915Z",
+  "expiresAt": "2026-08-16T09:12:59.915Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678480.shtml",
-      "title": "天天学习｜艰苦卓绝的伟大战争",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#0",
+      "title": "印尼強震造成至少47死 救援人員搜尋生還者",
+      "category": "国际",
+      "summary": "這場地震造成47人死亡，摧毀了數百棟建築物。官員表示，目前正在快速評估地震帶來的影響。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T03:07:46.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678512.shtml",
+      "title": "青岛警方：男子利用AI技术编造涉青岛大学校徽谣言 已被行拘",
       "category": "综合",
-      "summary": "天天学习“中国人民抗日战争是艰苦卓绝的伟大战争。”",
+      "summary": "中新网青岛8月16日电 (张孝鹏)青岛市公安局崂山分局16日通过其官方微信公众号发布警情通报称，近日该局接到青岛大学工作人员报警，反映有网民在网络平台发布传播涉及该校校徽的不实信息。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678480.shtml",
-      "publishedAt": "2026-08-16T01:50:58.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678512.shtml",
+      "publishedAt": "2026-08-16T03:01:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678475.shtml",
-      "title": "韩国就日本政要参拜靖国神社提出严正抗议 敦促日方正视历史",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678514.shtml",
+      "title": "全球顶级赛道设计师姚启明：极速背后的博弈",
       "category": "综合",
-      "summary": "中新网8月16日电 据韩联社报道，韩国政府15日强烈批评日本政界人士向靖国神社供奉祭品及参拜的行为，并分别召见日本驻韩防卫驻在官和日本驻韩大使馆总括公使，提出严正抗议。",
+      "summary": "中新网上海8月16日电 (记者 郑莹莹)F1中国大奖赛这些年来吸引大批赛车粉丝。15日在上海科技馆举办的第245期上海科普大讲坛上，全球顶级赛道设计师姚启明带领观众从另一个角度看赛场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678475.shtml",
-      "publishedAt": "2026-08-16T01:45:39.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678514.shtml",
+      "publishedAt": "2026-08-16T03:00:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678476.shtml",
-      "title": "从太空看中国丨卫星视角见证大美中国",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678508.shtml",
+      "title": "中俄12支篮球队伍竞技“赫哲故里”同江",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网佳木斯8月16日电(缪海月 单庚辰 梁晨)15日，2026同江“边超”暨中俄篮球邀请赛在黑龙江省同江市火热开赛。中俄两国12支篮球队伍将在7天时间里，展开多轮激烈角逐。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678476.shtml",
-      "publishedAt": "2026-08-16T01:43:53.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678508.shtml",
+      "publishedAt": "2026-08-16T03:00:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678470.shtml",
-      "title": "韩国总统李在明：将追缴亲日反民族行为者财产",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678529.shtml",
+      "title": "“中国为全球防治荒漠化作出重要贡献”——访《联合国防治荒漠化公约》秘书处执行秘书福阿德",
       "category": "综合",
-      "summary": "中新网首尔8月16日电 (记者 金旭)当地时间15日，韩国总统李在明在光复节81周年庆祝仪式上表示，韩国政府将调查、追缴亲日反民族行为者不当聚敛的财产，并追究其历史责任。",
+      "summary": "“今年7月访华期间，我见证了中国在防治荒漠化、恢复退化土地方面取得的成就。”《联合国防治荒漠化公约》秘书处执行秘书亚丝明·福阿德日前接受本报记者采访时表示，中国的经验表明，依靠政策支持、科技创新、持续投资，完全可以扭转大范围的荒漠化局面。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678470.shtml",
-      "publishedAt": "2026-08-16T01:43:27.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678529.shtml",
+      "publishedAt": "2026-08-16T02:59:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678471.shtml",
-      "title": "AI时代 纸质书该何去何从",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678528.shtml",
+      "title": "中国品牌汽车走进非洲千家万户",
       "category": "综合",
-      "summary": "近年来，各大书展结合流行趋势，开发出各类新潮活动，迎来爆棚人气。一边是读者在旧书堆中耐心“淘宝”，另一边是AI领读、沉浸式体验书中场景等新技术展示出的未来阅读场景。“新”与“旧”融为一体。AI时代，纸质书的价值如何体现？又该何去何从？",
+      "summary": "近年来，中国品牌汽车以本土化智造、场景化适配、共赢化合作，深度融入非洲大陆发展，实现了从整车出口到本地组装、从单一销售到全链条服务的升级。从埃及首都开罗，到安哥拉首都罗安达，高性价比、高可靠度的中国品牌汽车正在走进非洲千家万户。同时，中企携手本土合作伙伴搭建起完整的生产、销售、维保产业体系，为推动非洲汽车产业和制造业发展注入动能，成为新时代中非合作的生动实践",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678471.shtml",
-      "publishedAt": "2026-08-16T01:38:13.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678528.shtml",
+      "publishedAt": "2026-08-16T02:58:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678469.shtml",
-      "title": "电商平台售卖的所谓“抗焦虑”食品，是真有用还是智商税？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-16/10678527.shtml",
+      "title": "打呼噜是睡得香？小心影响孩子身高智力",
       "category": "综合",
-      "summary": "当“抗焦虑、舒缓压力”被印在普通糖果和固体饮料的包装上，还打着所谓“9项国家专利”的旗号，您会选择购买吗？记者近日调查发现，这类所谓的“抗焦虑”食品在电商平台售卖的背后，不仅套路满满，而且还涉嫌违法宣传疾病治疗功效。",
+      "summary": "进入暑期，各大医院耳鼻喉科出现儿童就诊高峰，其中儿童睡眠打鼾问题成为家长咨询、就诊的热点。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678469.shtml",
-      "publishedAt": "2026-08-16T01:36:33.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678527.shtml",
+      "publishedAt": "2026-08-16T02:56:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678466.shtml",
-      "title": "宁夏银川：晚风传歌 本土原创音乐浸润塞上夜晚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678526.shtml",
+      "title": "国家发展改革委：扎实开展碳达峰行动",
       "category": "综合",
-      "summary": "中新网银川8月16日电 (记者 李佩珊)这个周末，银川市民杨晓茹的闲暇时光格外充实。8月15日晚，她和朋友来到利思酒庄，参与“夏‘YEAH’晚风·唱响自己的歌”原创歌曲成果演唱会，伴着徐徐晚风与淡淡酒香，静静聆听本土音乐人带来的原创曲目。",
+      "summary": "昨天，2026年全国生态日主场活动在内蒙古自治区呼伦贝尔市举办。国家发展改革委相关负责人在活动上表示，要扎实开展碳达峰行动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678466.shtml",
-      "publishedAt": "2026-08-16T01:32:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678526.shtml",
+      "publishedAt": "2026-08-16T02:54:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678464.shtml",
-      "title": "粤桂携手选苗 桂林青少年足球训练营开营",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678525.shtml",
+      "title": "气田、大飞机、算力……本周一批重大工程迎来“高光时刻”",
       "category": "综合",
-      "summary": "中新网桂林8月16日电(杨宗盛)8月15日，一场面向U12、U15年龄段的青少年足球选拔训练营在广西桂林信息工程职业学院开营。",
+      "summary": "从算力到气田",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678464.shtml",
-      "publishedAt": "2026-08-16T01:32:11.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678525.shtml",
+      "publishedAt": "2026-08-16T02:52:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678468.shtml",
-      "title": "多地出现强降雨天气 防汛救灾加紧进行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678523.shtml",
+      "title": "《英汉大词典》App版亮相 传统书籍如何拥抱数智时代？",
       "category": "综合",
-      "summary": "央视网消息（新闻联播）：连日来，我国多地出现强降雨天气，各地各部门积极应对。",
+      "summary": "2026上海书展暨“书香中国”上海周近日开幕，本届书展以“最是书香能致远”为主题，来自全国各地的出版人与爱书人再度相聚，共赴文化盛会，开启“阅读时间”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678468.shtml",
-      "publishedAt": "2026-08-16T01:31:11.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678523.shtml",
+      "publishedAt": "2026-08-16T02:50:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678473.shtml",
-      "title": "创意微视频｜点染山河色",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678522.shtml",
+      "title": "印尼7.7级地震死亡人数升至48人 另有64人受伤",
       "category": "综合",
-      "summary": "视频：创意微视频｜点染山河色来源：新华社",
+      "summary": "据印尼救援部门消息，截至当地时间16日8时30分，印尼7.7级地震死亡人数升至48人，另有64人受伤。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678473.shtml",
-      "publishedAt": "2026-08-16T01:29:59.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678522.shtml",
+      "publishedAt": "2026-08-16T02:48:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-16/10678462.shtml",
-      "title": "湖北为匈牙利华裔青少年送教中华文化课程",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678507.shtml",
+      "title": "广东工会百场义诊进县镇 服务职工超万人次",
       "category": "综合",
-      "summary": "中新网武汉8月16日电 (马芙蓉 叶群)来自武汉体育学院、武汉音乐学院等4所湖北高校以及湖北省京剧院的12名教师，15日晚乘机从武汉出发飞赴匈牙利，开展“2026年中华文化大乐园——匈牙利布达佩斯园”活动。",
+      "summary": "中新网广州8月16日电(张璐 余冰冰)记者16日从广东省总工会获悉，“关爱职工健康助力‘百千万工程’”百场县镇职工健康服务活动(以下简称“活动”)持续在广东各地偏远山区县镇推进。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678462.shtml",
-      "publishedAt": "2026-08-16T01:29:47.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678507.shtml",
+      "publishedAt": "2026-08-16T02:47:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678461.shtml",
-      "title": "拉美艺术家维加斯回顾展在穗开展 助推“全球南方”叙事",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678521.shtml",
+      "title": "机型“大换小”却不能全额退款 旅客权益怎样维护？",
       "category": "综合",
-      "summary": "中新网广州8月16日电 (记者 程景伟)“奥斯瓦尔多·维加斯回顾展——心外无物”15日在广东美术馆新馆开展，呈现拉美艺术家奥斯瓦尔多·维加斯跨越七十载创作生涯的重要作品，以及罕见的文献资料。",
+      "summary": "眼下正值暑期出游高峰期，很多旅客在出游时出于飞行舒适度、座位宽敞度等考虑，特意购买了大型机航班，结果出发前却发现自己乘坐的机型被换成了中小型机。想退票？可以，但航司说，退改签的手续费得自己掏。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678461.shtml",
-      "publishedAt": "2026-08-16T01:28:53.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678521.shtml",
+      "publishedAt": "2026-08-16T02:47:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201178.shtml",
-      "title": "河南周口贾鲁河溃口成功实现合龙",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-16/10678506.shtml",
+      "title": "粤港澳青少年三人篮球公开赛在广州举行",
       "category": "综合",
-      "summary": "8月15日20时许，河南周口贾鲁河川汇区段溃口实现合龙。该段东岸堤防13日深夜发生溃口后，抢险人员采取两端同步作业、集装箱稳固堤脚、中间填筑石料等措施连续奋战，完成封堵。图为封堵现场。中新社记者 李超庆 摄 8月15日20时许，河南周口贾鲁河川汇区段溃口实现合龙。该段东岸堤防13日深夜发生溃口后，抢险人员采取两端同步作业、集装箱稳固堤脚、中间填筑石料等措施连",
+      "summary": "中新网广州8月16日电 (张璐 陈楚红 余冰冰)第四届“日新杯”暨粤港澳青少年三人篮球公开赛(简称“赛事”)15日至17日在广州举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201178.shtml",
-      "publishedAt": "2026-08-16T01:26:07.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678506.shtml",
+      "publishedAt": "2026-08-16T02:47:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678463.shtml",
-      "title": "浙江调整水旱灾害防御应急响应至三级",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-16/10678505.shtml",
+      "title": "华裔大学生海南研习行：从“种子到杯子”领略侨乡咖啡文化",
       "category": "综合",
-      "summary": "记者从浙江省水利厅了解到，当前，浙江苕溪流域瓶窑站水位6.64米，已降至保证水位以下，杭嘉湖东部平原嘉兴站水位高位波动，缓慢回落。根据《浙江省水利厅水旱灾害防御应急工作预案》，浙江省水利厅决定于今日8时30分将水旱灾害防御应急响应调整至Ⅲ级（三级）。",
+      "summary": "中新网海南万宁8月16日电 题：华裔大学生海南研习行：从“种子到杯子”领略侨乡咖啡文化",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678463.shtml",
-      "publishedAt": "2026-08-16T01:24:26.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678505.shtml",
+      "publishedAt": "2026-08-16T02:46:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-16/10678457.shtml",
-      "title": "每天这样散步拉伸等于白练！4个动作帮你纠正体态",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678515.shtml",
+      "title": "从“边疆煤都”到“宝藏小城” 黑龙江鹤岗焕发绿色新生",
       "category": "综合",
-      "summary": "不管是工作还是闲暇休息",
+      "summary": "中新网鹤岗8月16日电 题：从“边疆煤都”到“宝藏小城”黑龙江鹤岗焕发绿色新生",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678457.shtml",
-      "publishedAt": "2026-08-16T01:01:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678515.shtml",
+      "publishedAt": "2026-08-16T02:45:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-16/10678456.shtml",
-      "title": "直播：长江十年行｜八百里皖江润万家 看安徽生态新篇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678517.shtml",
+      "title": "台湾餐饮业师生学做正宗川菜 立体感受“山城烟火”",
       "category": "综合",
-      "summary": "",
+      "summary": "中新社重庆8月16日电 (记者 钟旖)渝台青年职业教育交流暨渝菜培训活动8月11日至16日在重庆开展，40余名台湾餐饮专业师生带着一份份“心愿清单”赴渝，在研习中式烹饪技艺之余，用脚步丈量城市。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-16/10678456.shtml",
-      "publishedAt": "2026-08-16T00:56:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678517.shtml",
+      "publishedAt": "2026-08-16T02:45:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065546.shtml",
-      "title": "与法国青年在东京街头，呼吁日本承认南京大屠杀！中国青年钟灏松：这是良知！这是人的本性！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678494.shtml",
+      "title": "（长征胜利90周年）广西资源县苗乡火塘边的红色故事",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网桂林8月15日电 题：广西资源县苗乡火塘边的红色故事",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065546.shtml",
-      "publishedAt": "2026-08-16T00:54:05.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678494.shtml",
+      "publishedAt": "2026-08-16T02:44:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678454.shtml",
-      "title": "津巴布韦船只倾覆事故死亡人数升至72人 其中含18名儿童",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678495.shtml",
+      "title": "纪念红军长征胜利90周年暨弘扬长征精神作品巡展在广州启幕",
       "category": "综合",
-      "summary": "中新网8月16日电 据卡塔尔半岛电视台报道，当地时间15日，津巴布韦警方表示，随着救援人员当天在该国北部卡里巴湖水域又搜寻到26具遇难者遗体，11日发生的船只倾覆事故死亡人数已升至72人。",
+      "summary": "中新网广州8月16日电 (记者 许青青)今年是红军长征胜利90周年。2026年度国家艺术基金传播交流推广资助项目，“信仰长歌：纪念红军长征胜利90周年暨弘扬长征精神作品巡展(广州站)”15日在岭南画派纪念馆启幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678454.shtml",
-      "publishedAt": "2026-08-16T00:53:38.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678495.shtml",
+      "publishedAt": "2026-08-16T02:44:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678453.shtml",
-      "title": "人这一辈子，一定要去一趟鹤岗！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678519.shtml",
+      "title": "香港举行“纪念抗日英烈谒碑典礼” 缅怀抗日英烈",
       "category": "综合",
-      "summary": "烟火裹着炭火烤串的香气，",
+      "summary": "新华社香港8月15日电（许淑敏）为缅怀保卫香港而捐躯的抗日英烈，由原东江纵队港九独立大队老游击战士联谊会主办的“纪念抗日英烈谒碑典礼”，15日在西贡斩竹湾烈士碑园举行，150多位社会各界人士出席。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678453.shtml",
-      "publishedAt": "2026-08-16T00:53:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678519.shtml",
+      "publishedAt": "2026-08-16T02:42:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678452.shtml",
-      "title": "餐馆废油“变身”后身价暴涨 出口订单排到明年→",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678518.shtml",
+      "title": "广纳真知 共绘蓝图——香港各界积极为香港首个五年规划建言献策",
       "category": "综合",
-      "summary": "废油变身“抢手货”！出口订单排到2027年，价格还在涨→",
+      "summary": "新华社香港8月15日电 题：广纳真知 共绘蓝图——香港各界积极为香港首个五年规划建言献策",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678452.shtml",
-      "publishedAt": "2026-08-16T00:51:06.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678518.shtml",
+      "publishedAt": "2026-08-16T02:41:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065545.shtml",
-      "title": "河南贾鲁河溃口成功合龙！救援人员难掩激动、挥旗鸣笛，现场一个细节令记者动容",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678501.shtml",
+      "title": "“东北超”：长春主场战胜沈阳",
       "category": "综合",
-      "summary": "河南贾鲁河溃口成功合龙！救援人员难掩激动、挥旗鸣笛，现场一个细节令记者动容……为奋战的你们点赞！",
+      "summary": "8月15日，在2026年东北地区城市足球联赛(简称“东北超”)比赛中，长春队主场1比0战胜沈阳。图为京剧联唱表演。中新社记者 张瑶 摄 8月15日，在2026年东北地区城市足球联赛(简称“东北超”)比赛中，长春队主场1比0战胜沈阳。图为沈阳青年与机器人“小琪”一同为比赛加油助威。中新社记者 张瑶 摄 8月15日，在2026年东北地区城市足球联赛(简称“东北超",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065545.shtml",
-      "publishedAt": "2026-08-16T00:50:26.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678501.shtml",
+      "publishedAt": "2026-08-16T02:41:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678450.shtml",
-      "title": "内容提质转型、监管持续完善 微短剧跨越“量大管饱”阶段",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678520.shtml",
+      "title": "在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩——纪念江泽民同志诞辰100周年",
       "category": "综合",
-      "summary": "内容提质转型，监管持续完善，专业评价体系正在建立",
+      "summary": "江泽民同志是我党我军我国各族人民公认的享有崇高威望的卓越领导人，伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，久经考验的共产主义战士，中国特色社会主义伟大事业的杰出领导者，党的第三代中央领导集体的核心，“三个代表”重要思想的主要创立者。在江泽民同志诞辰100周年之际，缅怀他的丰功伟绩，学习他的崇高风范，对广大党员干部群众紧密团结在以习近平",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678450.shtml",
-      "publishedAt": "2026-08-16T00:37:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678520.shtml",
+      "publishedAt": "2026-08-16T02:40:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678449.shtml",
-      "title": "婚姻登记解锁新场景 多地创新服务让结婚领证更有“仪式感”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678499.shtml",
+      "title": "穿行龟兹小巷 海外高校教师感受新疆南部老城烟火",
       "category": "综合",
-      "summary": "本报讯(记者秦亦姝)公园、景区、音乐节、体育赛事……如今，新人领证场景早已不局限于传统的办事大厅。近日，天津首个银行内结婚登记点启用，“银行能办结婚证了”冲上热搜，引发网友热议。",
+      "summary": "图为参访团成员漫步街巷体验丝路古城独特的人文风情。袁鹏冲 摄 图为参访团成员漫步街巷体验丝路古城独特的人文风情。袁鹏冲 摄 图为参访团成员漫步街巷体验丝路古城独特的人文风情。袁鹏冲 摄 图为参访团成员漫步街巷体验丝路古城独特的人文风情。袁鹏冲 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678449.shtml",
-      "publishedAt": "2026-08-16T00:35:09.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678499.shtml",
+      "publishedAt": "2026-08-16T02:38:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678448.shtml",
-      "title": "四川等地局部有大暴雨 下周江南多地热力升级高温增多",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678516.shtml",
+      "title": "通讯丨“这一天是日本人必须深刻反省的日子”",
       "category": "综合",
-      "summary": "中国天气网讯 今天(8月16日)，随着低涡北上，东北地区多地降雨将增强，同时，甘肃、四川等地部分地区雨势较强。明后天，华南多地也将遭遇强降雨，公众需关注预警预报信息，外出带好雨具。同时，随着副热带高压西伸增强，南方高温将再度增多，江南多地也将加入高温阵营，需注意及时补水降温，降低中暑风险。",
+      "summary": "新华社东京8月15日电 通讯丨“这一天是日本人必须深刻反省的日子”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678448.shtml",
-      "publishedAt": "2026-08-16T00:31:27.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678516.shtml",
+      "publishedAt": "2026-08-16T02:38:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678447.shtml",
-      "title": "中央气象台：四川中西部等地有强降雨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678498.shtml",
+      "title": "海外高校教师探访新疆龟兹博物馆",
       "category": "综合",
-      "summary": "中新网8月16日电 据中央气象台网站16日消息，预计未来三天，浙江东部、福建东部、四川盆地西部、西藏东南部等地有较强降雨；华北、内蒙古中东部、东北地区等地多降雨，上述部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
+      "summary": "图为参访团成员在龟兹博物馆参观。袁鹏冲 摄 图为参访团成员在龟兹博物馆参观。袁鹏冲 摄 图为参访团成员在龟兹博物馆参观。袁鹏冲 摄 图为参访团成员在龟兹博物馆参观。袁鹏冲 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678447.shtml",
-      "publishedAt": "2026-08-16T00:26:29.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678498.shtml",
+      "publishedAt": "2026-08-16T02:37:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678446.shtml",
-      "title": "北京今天仍有雷雨天气局地阵风6级 明天以晴为主最高气温32℃",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678513.shtml",
+      "title": "投降日“拜鬼”，日本执政当局死抱军国主义执念",
       "category": "综合",
-      "summary": "中国天气网讯 北京今天(8月16日)仍有雷雨天气，最高气温29℃，雷电黄色预警信号生效中，雷雨时局地阵风可达六级，需注意防范。明天，北京以晴为主，最高气温将升至32℃，后天还将有分散雷雨天气。",
+      "summary": "新华社东京8月15日电（记者梁晨 陈泽安 李子越）8月15日是日本宣布无条件投降81周年的日子。这一天，日本首相高市早苗不仅向供奉有14名二战甲级战犯的靖国神社供奉“玉串料”（祭祀费），在当天的纪念仪式致辞中也丝毫未提“反省”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678446.shtml",
-      "publishedAt": "2026-08-16T00:14:10.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678513.shtml",
+      "publishedAt": "2026-08-16T02:36:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678445.shtml",
-      "title": "塞尔比与泰国“黑马”桑卡姆会师斯诺克中国公开赛决赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678487.shtml",
+      "title": "中国构造解析和地震分析预报体系重要奠基人马宗晋院士逝世",
       "category": "综合",
-      "summary": "中新社太原8月16日电 (记者 胡健)2026世界斯诺克巡回赛中国公开赛15日晚在山西太原展开第二场半决赛争夺，四届世锦赛冠军、英格兰选手马克·塞尔比以6比2击败英格兰选手斯图亚特·宾汉姆，他将与泰国“黑马”诺鹏·桑卡姆争夺冠军。",
+      "summary": "中新社北京8月16日电 (记者 孙自法)中国地震局官方网络平台15日晚发布讣告：中国科学院院士、中国著名地质学家和灾害学专家、中国地震局地质研究所原所长马宗晋研究员，因病医治无效，于15日上午在北京逝世，享年93岁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678445.shtml",
-      "publishedAt": "2026-08-15T23:46:40.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678487.shtml",
+      "publishedAt": "2026-08-16T02:36:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-16/10678444.shtml",
-      "title": "8月16日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678497.shtml",
+      "title": "CPB中国棒球城市联赛揭幕战 厦门海豚拿下开门红",
       "category": "综合",
-      "summary": "",
+      "summary": "图为厦门海豚队球员71号陆昀轰出赛季首支本垒打。中新社记者 张亨伟 摄 图为上海虎鲸队投手奋力投球。中新社记者 张亨伟 摄 图为上海虎鲸队球员击出安打。中新社记者 张亨伟 摄 图为厦门海豚队投手奋力投球。中新社记者 张亨伟 摄 图为上海虎鲸队捕手接球后，发起双杀战术。中新社记者 张亨伟 摄 图为厦门海豚队球员完成接杀。中新社记者 张亨伟 摄 图为CPB中国棒",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-16/10678444.shtml",
-      "publishedAt": "2026-08-15T23:03:52.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678497.shtml",
+      "publishedAt": "2026-08-16T02:35:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678443.shtml",
-      "title": "以色列空袭黎巴嫩 造成11人死亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678511.shtml",
+      "title": "“中国游”圈粉全球 境外游客：中国，我还会再来！",
       "category": "综合",
-      "summary": "据黎巴嫩公共卫生部紧急行动中心当地时间15日下午发布的声明，当天以色列对纳巴提耶区代尔扎赫拉尼和安萨尔镇的空袭共造成11人死亡，另有19人受伤。",
+      "summary": "这个夏天，“中国游”圈粉全球。从打卡式观光，到如今的“深度漫游”，从千年古建到现代科技，从沿海都市到广袤腹地，“中国值得反复探索”正成为不少境外游客的共同感受。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678443.shtml",
-      "publishedAt": "2026-08-15T22:40:56.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678511.shtml",
+      "publishedAt": "2026-08-16T02:35:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,37 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678442.shtml",
-      "title": "中国队在第38届国际信息学奥赛斩获3金1银",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678483.shtml",
+      "title": "WTT欧洲大满贯赛瑞典站：中国女单三人进四强",
       "category": "综合",
-      "summary": "第38届国际信息学奥林匹克竞赛(IOI 2026)15日在乌兹别克斯坦首都塔什干落下帷幕。中国代表队斩获3金1银，并取得团体第一名的优异成绩。",
+      "summary": "中新社北京8月16日电 2026年世界乒乓球职业大联盟(WTT)欧洲大满贯赛瑞典站于马尔默当地时间15日展开正赛第六个比赛日的争夺。中国选手王曼昱、王艺迪和蒯曼分别击败各自对手，挺进女单四强。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678442.shtml",
-      "publishedAt": "2026-08-15T22:36:02.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678483.shtml",
+      "publishedAt": "2026-08-16T02:30:04.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad#0",
+      "title": "「他送給我一個長得像他的洋娃娃」：卡斯特羅之女回顧那個她從不想認的父親",
+      "category": "国际",
+      "summary": "在她成長過程中有記憶以來的每一段時間，阿麗娜·費爾南德斯經常獲得菲德爾·卡斯特羅探訪，卻不知道這位古巴革命領袖正是她的父親。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T02:29:29.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -874,7 +908,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#4",
       "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
       "category": "国际",
       "summary": "據報美國海軍亞伯拉罕·林肯號航空母艦（USS Abraham Lincoln）上數以千計水兵面臨食物短缺和排污管道損壞，部分人甚至試圖跳海。",
@@ -979,7 +1013,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#4",
       "title": "伊朗跟美國、以色列打仗 還能撐多久？",
       "category": "国际",
       "summary": "伊朗戰爭爆發七個月後，儘管該國經濟和基礎設施承受巨大壓力，其決策者看來仍不急於結束戰事。但這場戰爭還能持續多久？",
@@ -1630,23 +1664,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#4",
-      "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
-      "category": "国际",
-      "summary": "粉絲和創作者表示，MySpace 若要復興，必須給人一種個人化的感覺，而不是由演算法驅動的。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T00:02:22.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
       "title": "哥伦比亚发生强烈地震，联合国提供援助",
       "category": "国际",
@@ -1679,23 +1696,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#4",
-      "title": "為什麼航空公司對鋰電池日趨警惕",
-      "category": "国际",
-      "summary": "航空公司希望乘客在攜帶鋰離子電池旅行時要格外小心。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T09:16:11.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
