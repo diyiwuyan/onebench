@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#0",
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T14:43:54.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#0",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "meta": "BBC 中文 · 2026/8/17",
@@ -45,13 +52,6 @@
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T00:05:40.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
-      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
-      "meta": "BBC 中文 · 2026/8/17",
-      "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T00:05:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#0",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T14:44:28.321Z",
+  "updatedAt": "2026-08-17T16:45:46.800Z",
   "provider": "OneBench 公共资讯快照"
 }

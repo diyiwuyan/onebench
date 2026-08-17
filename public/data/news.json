@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T14:44:28.321Z",
-  "expiresAt": "2026-08-17T20:44:28.321Z",
+  "generatedAt": "2026-08-17T16:45:46.800Z",
+  "expiresAt": "2026-08-17T22:45:46.801Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,203 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679349.shtml",
+      "title": "巴西“乐”“粤”与共 庆祝巴中建交52周年",
+      "category": "综合",
+      "summary": "中新社里约热内卢8月17日电 题：巴西“乐”“粤”与共 庆祝巴中建交52周年",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679349.shtml",
+      "publishedAt": "2026-08-17T15:56:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679346.shtml",
+      "title": "中国男篮热身赛惜败新西兰男篮",
+      "category": "综合",
+      "summary": "中新社佛山8月17日电 (记者 张璐)中国男篮17日晚在广东佛山举行的一场热身赛中，以77:84不敌新西兰男篮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679346.shtml",
+      "publishedAt": "2026-08-17T15:54:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679348.shtml",
+      "title": "伊朗战事拖累选情 美总统被曝拨款支持共和党候选人",
+      "category": "综合",
+      "summary": "据美国方面近日消息，随着美国中期选举的临近，共和党的一些高级竞选顾问私下承认，共和党保住参众两院控制权的可能性正在变小。知情人士称，美国总统特朗普已经批准从自己的政治行动委员会拨出数百万美元，用于支持共和党候选人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679348.shtml",
+      "publishedAt": "2026-08-17T15:52:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679345.shtml",
+      "title": "韩国前国务总理金民锡当选执政党共同民主党党首",
+      "category": "综合",
+      "summary": "中新社首尔8月18日电 (记者 金旭)韩国执政党共同民主党当地时间17日在大田市举行全国党员大会，前国务总理金民锡以54.08%的得票率当选新一任党首。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679345.shtml",
+      "publishedAt": "2026-08-17T15:50:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-17/10679347.shtml",
+      "title": "暴食后真有“后悔药”吗？专家：网传方法存健康隐患",
+      "category": "综合",
+      "summary": "不知道你有没有这样的感受，那就是“美食当前防线失守，暴饮暴食后又陷入满心愧疚”。于是当下各种“暴食后自救方法”在网络上流传，但是，真有所谓的暴食“后悔药”吗？这些所谓的“自救方法”有没有健康隐患？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-17/10679347.shtml",
+      "publishedAt": "2026-08-17T15:50:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679344.shtml",
+      "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+      "category": "综合",
+      "summary": "当地时间17日，一名伊朗高级官员在接受采访时说，伊朗已为美国全面履行伊美谅解备忘录设定了数周的最后期限，伊朗不会无限期等待美国继续实施海上封锁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679344.shtml",
+      "publishedAt": "2026-08-17T15:17:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679342.shtml",
+      "title": "美军宣布与雷神公司签订229亿美元“战斧”导弹合同",
+      "category": "综合",
+      "summary": "当地时间8月17日，美国海军方面宣布已与美国雷神公司签订一份价值229亿美元的合同，以提高“战斧”巡航导弹的产量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679342.shtml",
+      "publishedAt": "2026-08-17T15:03:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679338.shtml",
+      "title": "羽毛球世锦赛：卫冕冠军石宇奇遭遇“一轮游”",
+      "category": "综合",
+      "summary": "中新社北京8月17日电 2026年世界羽毛球锦标赛当地时间8月17日在印度新德里英迪拉·甘地室内体育馆正式挥拍。首日登场的男单卫冕冠军、中国选手石宇奇以1:2惜败印度选手阿尤什，遭遇“一轮游”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679338.shtml",
+      "publishedAt": "2026-08-17T15:01:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679337.shtml",
+      "title": "柬埔寨首都金边启动“五年规划”提质旅游业",
+      "category": "综合",
+      "summary": "【东盟专线】柬埔寨首都金边启动“五年规划”提质旅游业",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679337.shtml",
+      "publishedAt": "2026-08-17T15:00:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679336.shtml",
+      "title": "香港特区廉政专员率团赴大连参加APEC反腐败会议",
+      "category": "综合",
+      "summary": "中新网香港8月17日电 据香港廉政公署(简称“香港廉署”)消息，香港特区廉政专员胡英明17日率领香港廉署代表团在辽宁大连出席亚太经合组织(APEC)第43届反贪腐倡透明专家工作小组会议，持续推动《北京反腐败宣言》加强国际反腐败合作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679336.shtml",
+      "publishedAt": "2026-08-17T14:58:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#0",
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "category": "国际",
+      "summary": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T14:43:54.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679334.shtml",
       "title": "甘肃“一站式”平台巧解百姓烦心事",
@@ -392,186 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-17/10679319.shtml",
-      "title": "8月17日夜读",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-17/10679319.shtml",
-      "publishedAt": "2026-08-17T13:38:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679292.shtml",
-      "title": "兰建平：开源成为中国主导AI生态竞争的重要路径",
-      "category": "综合",
-      "summary": "中新网杭州8月17日电(鲍梦妮)千问系列全球下载量破10亿次，衍生模型数量已超20万个，位居全球第一；“魔搭社区”作为国内第一大、全球第二大开源社区正加速激发智能体创新……17日，以“AI赋能具身未来——浙江的新引擎与新赛道”为主题的第三期民营经济大讲堂活动在杭州举行，浙江省发展规划研究院副院长兰建平作主旨演讲时表示，开源正成为中国主导AI生态竞争的重要路径",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679292.shtml",
-      "publishedAt": "2026-08-17T13:35:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679290.shtml",
-      "title": "山西阳泉：“十五五”末可再生能源装机规模达到480万千瓦",
-      "category": "综合",
-      "summary": "中新网太原8月17日电 (记者 杨静)“到‘十五五’末，可再生能源装机规模达到480万千瓦、储能达到200万千瓦以上。”山西阳泉市委副书记、市长陈凯17日在山西省委宣传部、山西省人民政府新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上表示，阳泉将立足实际，实施好“十五五”规划，走好高质量发展之路。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679290.shtml",
-      "publishedAt": "2026-08-17T13:35:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679289.shtml",
-      "title": "广州南沙新增一项通行粤港澳的职业资质",
-      "category": "综合",
-      "summary": "中新网广州8月17日电 (记者 王坚)据广州市南沙区政府17日消息，南沙区“一试三证”技能人才评价体系迎来重要扩展——养老护理员项目近日正式落地。此举是继餐厅服务员、客房服务员之后，南沙在推动粤港澳技能人才互认方面取得的又一进展，粤港澳三地养老护理技能人才互认“最后一公里”顺利打通。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679289.shtml",
-      "publishedAt": "2026-08-17T13:34:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679284.shtml",
-      "title": "黑龙江发布地质灾害气象风险蓝色预警",
-      "category": "综合",
-      "summary": "中新网哈尔滨8月17日电(记者 王妮娜)黑龙江省自然资源厅和黑龙江省气象局于8月17日20时00分联合发布地质灾害气象风险蓝色预警。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679284.shtml",
-      "publishedAt": "2026-08-17T13:34:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
-      "title": "应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
-      "category": "综合",
-      "summary": "央视网消息：中央气象台预计，8月16日、17日两天，黑龙江东部、吉林东部等地降雨有所增强。17日之后，北方降雨增多，华南多地也会强降雨。16日，江苏太湖流域水位仍处于高位，多条河流水位超警。太湖沿线地区继续执行应急响应，巡堤查险，做好防洪排涝应急处置准备。水利部和中国气象局联合发布橙色山洪灾害气象预警。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
-      "publishedAt": "2026-08-17T13:32:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10679317.shtml",
-      "title": "坚持正确的中华民族历史观 把握好历史文化研究、阐释和宣传方向",
-      "category": "综合",
-      "summary": "核心提示",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10679317.shtml",
-      "publishedAt": "2026-08-17T13:31:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201376.shtml",
-      "title": "（活力中国调研行）福建泉州惠女风情园影雕吸睛",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201376.shtml",
-      "publishedAt": "2026-08-17T13:30:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-17/10679283.shtml",
-      "title": "束景南遗著《阳明诗赋编年笺证》在沪首发",
-      "category": "综合",
-      "summary": "中新网上海8月17日电 (记者 陈静)2024年，中国知名朱子学、阳明学研究专家束景南先生逝世。记者17日获悉，两年后，束景南先生生前最后一部力作《阳明诗赋编年笺证》正式付梓。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679283.shtml",
-      "publishedAt": "2026-08-17T13:28:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679298.shtml",
-      "title": "一款适合高危场景作业的人形机器人在香港发布",
-      "category": "综合",
-      "summary": "中新网香港8月17日电 (记者 刘玥晴)可实现30公斤常规操作负载、100至200公斤硬拉负载、60公斤双臂抱持负载，能高效完成重载搬运、物料转运、精细操作等任务……这款名为“小睿G3”(RayNex G3)的产业级人形机器人17日在香港科学园发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679298.shtml",
-      "publishedAt": "2026-08-17T13:26:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#0",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "category": "国际",
@@ -737,23 +754,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T00:05:40.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
-      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
-      "category": "国际",
-      "summary": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T00:05:37.000Z",
       "tags": [
         "国际",
         "商业",
