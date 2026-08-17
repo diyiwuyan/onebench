@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
+      "title": "泰國也有槍枝氾濫問題──全國有1000萬把槍",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:56:58.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad#0",
       "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
       "meta": "BBC 中文 · 2026/8/17",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-08-16T08:34:23.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#1",
       "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
       "meta": "BBC 中文 · 2026/8/16",
       "url": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
@@ -54,7 +61,7 @@
       "publishedAt": "2026-08-16T03:07:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad#4",
       "title": "卡斯特羅之女回顧那個她從不想認的父親",
       "meta": "BBC 中文 · 2026/8/16",
       "url": "https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad?at_medium=RSS&at_campaign=rss",
@@ -159,13 +166,6 @@
       "publishedAt": "2026-08-12T12:00:14.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#4",
-      "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
-      "meta": "BBC 中文 · 2026/8/12",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T09:33:20.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#5",
       "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
       "meta": "BBC 中文 · 2026/8/12",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T04:58:06.227Z",
+  "updatedAt": "2026-08-17T07:16:07.938Z",
   "provider": "OneBench 公共资讯快照"
 }
