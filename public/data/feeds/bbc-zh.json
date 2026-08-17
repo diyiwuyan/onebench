@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
+      "title": "泰國槍枝問題規模有多大？1000萬把槍",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T09:43:58.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad#0",
+      "title": "「爛到爆紅」的動畫電影成為中國票房黑馬",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T09:40:26.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad#0",
       "title": "韓國疏遠伊朗戰事 特朗普稱將縮減聯合軍演規模",
       "meta": "BBC 中文 · 2026/8/17",
@@ -12,28 +26,21 @@
       "publishedAt": "2026-08-17T08:02:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
-      "title": "泰國也有槍枝氾濫問題──全國有1000萬把槍",
-      "meta": "BBC 中文 · 2026/8/17",
-      "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T06:56:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad#1",
       "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T02:56:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad#1",
       "title": "外國超市為何總讓遊客們樂不思蜀",
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T00:05:40.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
       "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
@@ -145,13 +152,6 @@
       "publishedAt": "2026-08-13T03:13:24.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad#1",
-      "title": "為了安全旅行，女性付出了什麼代價？",
-      "meta": "BBC 中文 · 2026/8/13",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T02:58:16.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad#2",
       "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
       "meta": "BBC 中文 · 2026/8/12",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T09:01:14.522Z",
+  "updatedAt": "2026-08-17T10:48:15.739Z",
   "provider": "OneBench 公共资讯快照"
 }
