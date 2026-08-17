@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad#0",
+      "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T02:56:37.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad#0",
       "title": "外國超市為何總讓遊客們樂不思蜀",
       "meta": "BBC 中文 · 2026/8/17",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-16T10:44:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#1",
       "title": "為何Z世代女性比母親一代更了解月經？",
       "meta": "BBC 中文 · 2026/8/16",
       "url": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/8/14",
       "url": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T09:20:28.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#1",
-      "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
-      "meta": "BBC 中文 · 2026/8/14",
-      "url": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T06:31:11.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T01:55:22.014Z",
+  "updatedAt": "2026-08-17T03:13:15.708Z",
   "provider": "OneBench 公共资讯快照"
 }
