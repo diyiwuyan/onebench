@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#0",
+      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T12:16:16.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#1",
       "title": "泰國槍枝問題規模有多大？1000萬把槍",
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
@@ -52,13 +59,6 @@
       "meta": "BBC 中文 · 2026/8/16",
       "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T10:44:03.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#1",
-      "title": "為何Z世代女性比母親一代更了解月經？",
-      "meta": "BBC 中文 · 2026/8/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T08:34:23.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T10:48:15.739Z",
+  "updatedAt": "2026-08-17T13:05:38.304Z",
   "provider": "OneBench 公共资讯快照"
 }
