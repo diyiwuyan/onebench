@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142642",
+      "title": "泛美卫生组织发布工具包，预防儿童和青少年遭受欺凌及网络欺凌",
+      "meta": "联合国新闻 · 2026/8/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142642",
+      "publishedAt": "2026-08-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142641",
+      "title": "也门敌对行动升级，人权高专对平民伤亡表示震惊",
+      "meta": "联合国新闻 · 2026/8/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142641",
+      "publishedAt": "2026-08-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142639",
       "title": "【专题报道┃前方视野】阿富汗：营养不良危机正在失控",
       "meta": "联合国新闻 · 2026/8/15",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/11",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142612",
       "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
-      "title": "哥伦比亚发生强烈地震，联合国提供援助",
-      "meta": "联合国新闻 · 2026/8/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142611",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142609",
-      "title": "刚果（金）：埃博拉病毒在患者尚未就医前便已夺走他们的生命",
-      "meta": "联合国新闻 · 2026/8/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142609",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T16:45:46.800Z",
+  "updatedAt": "2026-08-17T18:57:09.004Z",
   "provider": "OneBench 公共资讯快照"
 }

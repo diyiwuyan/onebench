@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T16:45:46.800Z",
-  "expiresAt": "2026-08-17T22:45:46.801Z",
+  "generatedAt": "2026-08-17T18:57:09.004Z",
+  "expiresAt": "2026-08-18T00:57:09.004Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -602,6 +602,42 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142642",
+      "title": "泛美卫生组织发布工具包，预防儿童和青少年遭受欺凌及网络欺凌",
+      "category": "国际",
+      "summary": "泛美卫生组织周一发布《美洲地区儿童和青少年反欺凌及网络欺凌有效干预措施工具包》，汇集相关证据、建议和实用工具，预防和应对影响本地区数百万儿童和青少年的欺凌，包括网络欺凌。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142642",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142641",
+      "title": "也门敌对行动升级，人权高专对平民伤亡表示震惊",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周一对也门日益升级的敌对行动导致平民伤亡人数不断增加表示震惊，呼吁各方保持克制并立即缓和紧张局势。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142641",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1694,42 +1730,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
-      "title": "哥伦比亚发生强烈地震，联合国提供援助",
-      "category": "国际",
-      "summary": "联合国系统正与哥伦比亚当局保持联系，应急团队正努力抵达受灾社区，但农村地区通信不畅，给评估灾情全貌带来了困难。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142611",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142609",
-      "title": "刚果（金）：埃博拉病毒在患者尚未就医前便已夺走他们的生命",
-      "category": "国际",
-      "summary": "在刚果民主共和国（刚果（金））暴发的埃博拉疫情中，已有超过1900人死亡——其中大多数人甚至未能抵达治疗中心。60%至70%的死亡病例发生在远离医疗服务社区的地区，这一缺口现已成为世界卫生组织应对工作的核心。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142609",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
