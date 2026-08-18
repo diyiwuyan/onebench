@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142645",
+      "title": "西岸库斯拉村围困局势有所缓解，但加沙危机加剧",
+      "meta": "联合国新闻 · 2026/8/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
+      "publishedAt": "2026-08-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142644",
+      "title": "遏制荒漠化 保护我们“最关键的基础设施”",
+      "meta": "联合国新闻 · 2026/8/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142644",
+      "publishedAt": "2026-08-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142643",
+      "title": "刚果（金）当前埃博拉疫情成为该国史上最致命的一次",
+      "meta": "联合国新闻 · 2026/8/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142643",
+      "publishedAt": "2026-08-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142642",
       "title": "泛美卫生组织发布工具包，预防儿童和青少年遭受欺凌及网络欺凌",
       "meta": "联合国新闻 · 2026/8/17",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/11",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142615",
       "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142614",
-      "title": "全球7月气温创有记录以来第二高",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142614",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142613",
-      "title": "应对哥伦比亚7.4级地震 联合国表示随时准备提供支持",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142613",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142612",
-      "title": "安理会：联合国官员警告约旦河西岸局势恶化 呼吁采取紧急行动",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142612",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T22:41:28.102Z",
+  "updatedAt": "2026-08-18T01:50:45.807Z",
   "provider": "OneBench 公共资讯快照"
 }
