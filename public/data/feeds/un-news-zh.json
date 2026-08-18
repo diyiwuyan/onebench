@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142648",
+      "title": "联合国：利比亚政治进程取得进展，但仍面临治理、安全和经济挑战",
+      "meta": "联合国新闻 · 2026/8/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142648",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142645",
       "title": "西岸库斯拉村围困局势有所缓解，但加沙危机加剧",
       "meta": "联合国新闻 · 2026/8/17",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/11",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142617",
       "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142615",
-      "title": "缅甸：联合国调查人员记录了军方对平民的蓄意袭击",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142615",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T16:48:28.528Z",
+  "updatedAt": "2026-08-18T18:56:46.024Z",
   "provider": "OneBench 公共资讯快照"
 }

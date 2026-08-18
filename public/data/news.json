@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:48:28.528Z",
-  "expiresAt": "2026-08-18T22:48:28.528Z",
+  "generatedAt": "2026-08-18T18:56:46.024Z",
+  "expiresAt": "2026-08-19T00:56:46.024Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,95 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#0",
+      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "category": "国际",
+      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T18:00:44.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679973.shtml",
+      "title": "尼泊尔和印度将联合测绘“跨境占用”土地",
+      "category": "综合",
+      "summary": "中新社加德满都8月18日电 尼泊尔和印度近日同意对两国边境地区存在的“跨境占用”土地展开联合测绘，并计划在三年内完成相关测绘工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679973.shtml",
+      "publishedAt": "2026-08-18T16:52:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
+      "title": "伊朗举行已故最高领袖下葬四十日纪念仪式",
+      "category": "综合",
+      "summary": "据伊朗方面18日消息，伊朗当天在首都德黑兰伊玛目霍梅尼清真寺建筑外广场举行已故最高领袖阿里·哈梅内伊下葬四十日纪念仪式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
+      "publishedAt": "2026-08-18T16:52:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679972.shtml",
+      "title": "英国二季度劳动力市场进一步降温",
+      "category": "综合",
+      "summary": "中新社伦敦8月18日电 (记者 欧阳开宇)英国国家统计局18日发布最新就业数据显示，今年第二季度英国劳动力市场整体持续降温，薪资增长显著放缓、用工需求大幅收缩，多项核心指标走弱，显示英国经济内生复苏动能持续衰减。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679972.shtml",
+      "publishedAt": "2026-08-18T16:51:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679974.shtml",
+      "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
+      "category": "综合",
+      "summary": "伊朗伊斯兰革命卫队副总司令穆斯塔法·伊扎迪日前表示，美国曾考虑将“委内瑞拉”模式用于伊朗，但最终未能得逞。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679974.shtml",
+      "publishedAt": "2026-08-18T16:51:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
       "title": "中越举行海上搜救应急通信演练",
@@ -500,91 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679936.shtml",
-      "title": "中外青年沉浸式探访宁夏 友谊营架起丝路文明对话桥梁",
-      "category": "综合",
-      "summary": "中新网银川8月18日电 (记者 于晶)“这是我首次到访宁夏，在这里处处感受到暖心的善意。我沉醉于宁夏浓郁的风土气息，银川这座城市更是留给我极为美好的印象。”闭营仪式上加拿大营员张李安(Leanne Zhang)的一席话，道出众多外籍营员的共同感受。18日，为期6天的2026宁夏国际青年友谊营在银川顺利闭营，各国青年以沉浸式体验、深度互动的方式读懂宁夏，搭建起",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679936.shtml",
-      "publishedAt": "2026-08-18T13:53:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679945.shtml",
-      "title": "特朗普：目前和未来不会与伊朗进行任何会谈或对话",
-      "category": "综合",
-      "summary": "中新网8月18日电 当地时间18日，美国总统特朗普在社交媒体发文称，目前和未来不会与伊朗进行任何会谈或对话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679945.shtml",
-      "publishedAt": "2026-08-18T13:52:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679938.shtml",
-      "title": "西藏墨脱有了“火焰蓝” 构建四位一体森林防灭火防控网",
-      "category": "综合",
-      "summary": "中新网拉萨8月18日电 (西绕拉翁)墨脱消防救援机动中队18日介绍，入驻西藏林芝市墨脱县一年来，该中队不仅填补了区域专业森林防灭火力量的空白，还构建起“巡、清、宣、建”四位一体的森林防灭火防控网。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679938.shtml",
-      "publishedAt": "2026-08-18T13:49:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-18/10679927.shtml",
-      "title": "中央政府驻澳门联络办公室：支持澳门在新一份五年规划引领下实现更好发展",
-      "category": "综合",
-      "summary": "中新社澳门8月18日电 《澳门特别行政区经济和社会发展第三个五年规划(2026—2030年)》18日正式发布。中央人民政府驻澳门特别行政区联络办公室(简称“中央政府驻澳门联络办公室”)发言人当日就此发表谈话指出，“一规引未来”，支持澳门在新一份五年规划引领下实现更好发展，推动澳门各项事业迈上新台阶。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679927.shtml",
-      "publishedAt": "2026-08-18T13:46:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#0",
-      "title": "朱鎔基在京火化：從民間悼念到八寶山公墓，中國領導人「身後事」的政治邏輯",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142648",
+      "title": "联合国：利比亚政治进程取得进展，但仍面临治理、安全和经济挑战",
       "category": "国际",
-      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T12:56:25.000Z",
+      "summary": "联合国秘书长利比亚问题特别代表汉娜·塔特周二在安理会表示，推动利比亚政治进程向前发展依然至关重要。近期大范围停电、公众不满情绪以及持续热浪，暴露出制度分裂、公共资源大规模挪用、投资不足和决策缺乏协调等治理问题。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142648",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
       "tags": [
         "国际",
-        "商业",
-        "科技",
-        "社会"
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1688,24 +1706,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142617",
-      "publishedAt": "2026-08-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142615",
-      "title": "缅甸：联合国调查人员记录了军方对平民的蓄意袭击",
-      "category": "国际",
-      "summary": "据人权理事会任命的调查人员称，缅甸军方持续对平民实施蓄意袭击——包括对民宅、学校和流离失所者营地的空袭，以及任意拘留、酷刑和性暴力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142615",
       "publishedAt": "2026-08-11T12:00:00.000Z",
       "tags": [
         "国际",
