@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T14:52:34.177Z",
-  "expiresAt": "2026-08-18T20:52:34.177Z",
+  "generatedAt": "2026-08-18T16:48:28.528Z",
+  "expiresAt": "2026-08-18T22:48:28.528Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,222 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
+      "title": "中越举行海上搜救应急通信演练",
+      "category": "综合",
+      "summary": "中新社南宁8月18日电 (黄艳梅 莫卫华)18日，中国广西海上搜救中心与越南航海搜救协调中心一区举行海上搜救应急通信演练。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
+      "publishedAt": "2026-08-18T15:55:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679970.shtml",
+      "title": "泰国前7个月吸引外资额同比增长37%",
+      "category": "综合",
+      "summary": "中新社曼谷8月18日电 (记者 李映民)泰国商业部商业发展厅18日公布的最新数据显示，2026年前7个月，共有736家外资企业获准落户泰国，同比增长26%；投资总额达2192.08亿泰铢，较去年同期增加597.48亿泰铢，增幅达37%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679970.shtml",
+      "publishedAt": "2026-08-18T15:54:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-18/10679959.shtml",
+      "title": "香港黄金交易所交易系统有限公司成立 将打造国际化黄金交易平台",
+      "category": "综合",
+      "summary": "中新社香港8月18日电 由香港黄金交易所与金链通技术有限公司共同组建的香港黄金交易所交易系统有限公司(Hong Kong Gold Exchange Trading System Limited，简称“HKGXTS”)18日在港正式成立。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679959.shtml",
+      "publishedAt": "2026-08-18T15:25:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679968.shtml",
+      "title": "首届电竞世界杯推迟至2027年举行",
+      "category": "综合",
+      "summary": "总部位于沙特阿拉伯利雅得的电竞发展基金会18日宣布，首届电竞世界杯将推迟至2027年11月举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679968.shtml",
+      "publishedAt": "2026-08-18T15:24:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679960.shtml",
+      "title": "俄对英涉乌行动发警告 英首相表示坚定支持乌克兰",
+      "category": "综合",
+      "summary": "中新社伦敦8月18日电 (记者 欧阳开宇)针对俄方就英国涉乌相关行动发出警告，英国首相伯纳姆当地时间18日公开表态，英国将坚定支持乌克兰，始终在关键时刻与乌方站在一起，对乌支持立场不会发生改变。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679960.shtml",
+      "publishedAt": "2026-08-18T15:22:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
+      "title": "特朗普：未与伊朗进行任何会谈 未来也无相关计划",
+      "category": "综合",
+      "summary": "当地时间8月18日，美国总统特朗普在社交媒体平台“真实社交”上发文表示，目前并未与伊朗进行任何会谈或对话，未来也无相关计划。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
+      "publishedAt": "2026-08-18T15:03:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml",
+      "title": "满足多样化、高品质出行需求正成为行业共识",
+      "category": "综合",
+      "summary": "中新网北京8月18日电(记者 查志远)近年来，多样化、高品质出行需求越来越受到关注。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml",
+      "publishedAt": "2026-08-18T15:02:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679956.shtml",
+      "title": "这才是《欢迎来龙餐馆》的彩蛋",
+      "category": "综合",
+      "summary": "中新网北京8月18日电(记者 任思雨)上映一周，票房突破10亿元，豆瓣评分涨至8.6分，《欢迎来龙餐馆》成为这个暑期档后半程口碑最高、也是最让人揪心的电影。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679956.shtml",
+      "publishedAt": "2026-08-18T15:01:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679965.shtml",
+      "title": "伊朗最高领袖据称将在德黑兰主持活动",
+      "category": "综合",
+      "summary": "据伊朗方面18日消息，伊朗最高领袖即将在德黑兰主持一场宗教活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679965.shtml",
+      "publishedAt": "2026-08-18T15:00:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679958.shtml",
+      "title": "全国少数民族文艺会演北京开启 首场话剧重现津商传奇",
+      "category": "综合",
+      "summary": "中新社北京8月18日电 (记者 黄欣欣 孙玲玲)第七届全国少数民族文艺会演18日在北京开启。由天津人民艺术剧院创编的话剧《赶大营》作为首场剧目，于梅兰芳大剧院重现津商传奇故事。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679958.shtml",
+      "publishedAt": "2026-08-18T14:59:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679964.shtml",
+      "title": "美国30年期国债收益率创19年新高",
+      "category": "综合",
+      "summary": "当地时间18日，美国财政部公布的最新数据显示，美国30年期国债收益率17日达5.31%，创下2007年6月以来新高。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679964.shtml",
+      "publishedAt": "2026-08-18T14:58:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679962.shtml",
+      "title": "欧盟提议将以色列国家安全部长列入制裁名单",
+      "category": "综合",
+      "summary": "欧盟外交与安全政策首席发言人阿妮塔·希佩尔18日在布鲁塞尔举行的新闻发布会上表示，已向各成员国提交提案，建议将以色列国家安全部长本-格维尔列入制裁名单。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679962.shtml",
+      "publishedAt": "2026-08-18T14:56:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-18/10679957.shtml",
       "title": "浑身困重提不起精神？没有胃口又不能不吃？体内湿气排不出去？长夏时节这样做！",
@@ -346,222 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679927.shtml",
       "publishedAt": "2026-08-18T13:46:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679928.shtml",
-      "title": "北京亦庄发布“AI人才八条” 为原生创业者打开新通道",
-      "category": "综合",
-      "summary": "中新网北京8月18日电 (记者 杜燕)在今天举行的2026北京亦庄人才发展大会上，北京经济技术开发区(简称“北京经开区”，又称“北京亦庄”)发布《北京经济技术开发区关于支持人工智能原生人才发展的若干措施》(以下简称“AI人才八条”)。该政策聚焦人工智能人才创业、青年就业、生态培育三个核心维度，推出8条务实举措，构建起覆盖在校实习生到顶尖科学家的全链条人才引育",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679928.shtml",
-      "publishedAt": "2026-08-18T13:46:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679930.shtml",
-      "title": "2026上海书展闭幕 “图书盲盒”成人气“黑马”",
-      "category": "综合",
-      "summary": "中新社上海8月18日电 (记者 王笈)2026上海书展暨“书香中国”上海周18日落下帷幕，实现图书销售总码洋7220.5万元(人民币，下同)，同比增长11.5%；文创产品销售收入1299.7万元，同比增长27.8%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679930.shtml",
-      "publishedAt": "2026-08-18T13:45:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679933.shtml",
-      "title": "全国首次电力行业“应急救援员”专业职业技能竞赛在云南开远开幕",
-      "category": "综合",
-      "summary": "中新网云南开远8月18日电 (高小雅 展宁)2026年电力行业职业技能竞赛(应急救援员)18日在云南省开远市开幕，来自26家参赛单位共37支队伍的185名精英选手同台竞技。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679933.shtml",
-      "publishedAt": "2026-08-18T13:45:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679926.shtml",
-      "title": "两岸青商福建宁德共话数字新生态",
-      "category": "综合",
-      "summary": "中新社福建宁德8月18日电 (记者 叶茂)第十八届海峡论坛·第十三届海峡两岸商会发展论坛——“智联两岸·创享数字新生态”海峡青商交流会18日在福建省宁德市举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679926.shtml",
-      "publishedAt": "2026-08-18T13:45:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679934.shtml",
-      "title": "四川震灾防减救一体化智能大模型“磐御”正式发布",
-      "category": "综合",
-      "summary": "中新网成都8月18日电 (记者 刘忠俊)8月18日，四川省地震局、四川省测绘地理信息局、雅安市人民政府在蓉联合举行“震灾防减救一体化智能大模型‘磐御’”发布活动，省、市、县政府相关部门负责人、高校代表及行业专家参加。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679934.shtml",
-      "publishedAt": "2026-08-18T13:44:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679925.shtml",
-      "title": "黑龙江广东工商联系统携手深化对口合作 南北赋能共促民营经济协同发展",
-      "category": "综合",
-      "summary": "中新网哈尔滨8月18日电(韩雪)今日，黑龙江省工商联与广东省工商联系统工作交流会召开。会议以“龙商粤商携手南北双向赋能”为主题，深入落实国家区域协调发展战略，精准对接东北全面振兴与粤港澳大湾区建设两大国家战略，搭建两省工商联、商协会、民营企业多层次、全方位协作对接平台。黑龙江省委统战部副部长、省工商联党组书记夏天，广东省委统战部副部长、省工商联党组书记陈志清",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679925.shtml",
-      "publishedAt": "2026-08-18T13:43:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679924.shtml",
-      "title": "AI赋能文化出海 多方探索文化产业新路径",
-      "category": "综合",
-      "summary": "中新网香港8月18日电 “AI赋能、文化出海”访谈交流活动暨战略合作签约仪式日前在第36届香港书展内地出版展区举行。来自出版、通信、文旅等领域的嘉宾围绕人工智能与文化产业融合发展展开交流，由中国新闻出版传媒集团战略投资的南宁峰值文化传播有限公司分别与中国大百科全书出版社、中国移动国际有限公司、桂林旅游股份有限公司相关企业签署战略合作协议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679924.shtml",
-      "publishedAt": "2026-08-18T13:43:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-18/10679922.shtml",
-      "title": "上海侨界聚力助进博会越办越好 华商侨企共享开放机遇",
-      "category": "综合",
-      "summary": "中新网上海8月18日电(范宇斌)第九届中国国际进口博览会将于11月在上海举办，上海市侨联18日举办“侨助进博会越办越好”专题调研座谈会，邀请进博局、组展机构、华侨华人参展商代表等深度交流对接，凝聚侨界力量，共促高水平开放。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-18/10679922.shtml",
-      "publishedAt": "2026-08-18T13:42:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679921.shtml",
-      "title": "第二十一届两岸林博会聚焦“以竹代塑” 200余家企业共拓绿色产业新机",
-      "category": "综合",
-      "summary": "中新网福建永安8月18日电 (雷朝良)第二十一届海峡两岸(三明)林业博览会暨2026年永安竹博会18日在福建三明永安开幕。本届展会以“以竹代塑 让生活更美好”为主题，立足三明竹木产业特色优势，集中展示林业改革发展丰硕成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679921.shtml",
-      "publishedAt": "2026-08-18T13:41:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679910.shtml",
-      "title": "首趟新疆南部“疆果外运”冷鲜快线班列开行",
-      "category": "综合",
-      "summary": "中新网乌鲁木齐8月18日电 (吴奇 银曼菲)当前正值新疆南部瓜果成熟上市季，一列装载着200余吨新梅的班列，17日从新疆阿克苏站启程，开往浙江嘉兴，标志着首趟新疆南部“疆果外运”冷鲜快线班列开行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679910.shtml",
-      "publishedAt": "2026-08-18T13:41:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-18/10679931.shtml",
-      "title": "东西问丨张怀存：为何说“家”是东西方共情密码？",
-      "category": "综合",
-      "summary": "中新社伦敦8月18日电 题：为何说“家”是东西方共情密码？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-18/10679931.shtml",
-      "publishedAt": "2026-08-18T13:40:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679909.shtml",
-      "title": "今年1—7月浙江绿电交易成交量超80亿千瓦时",
-      "category": "综合",
-      "summary": "中新网杭州8月18日电(鲍梦妮 张悦)据国网浙江电力8月18日消息，截至7月底，今年浙江全省绿色电力交易累计成交电量约80.5亿千瓦时，同比增长6.2%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679909.shtml",
-      "publishedAt": "2026-08-18T13:40:47.000Z",
       "tags": [
         "国内",
         "社会",
