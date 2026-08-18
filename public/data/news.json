@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T20:40:43.027Z",
-  "expiresAt": "2026-08-19T02:40:43.027Z",
+  "generatedAt": "2026-08-18T22:41:32.475Z",
+  "expiresAt": "2026-08-19T04:41:32.475Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679984.shtml",
+      "title": "医师节，听听医生的心愿",
+      "category": "综合",
+      "summary": "医师节，听听医生的心愿(民生一线·中国医师节特别策划)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679984.shtml",
+      "publishedAt": "2026-08-18T22:26:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10679983.shtml",
+      "title": "一个被低估的减肥小技巧，后悔没早点知道！",
+      "category": "综合",
+      "summary": "众所周知，当我们想关心一个人，却又不知道说点什么的时候，可以发一句万能的“多喝热水”。其实，多喝水还是一个实用的体重管理小技巧。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10679983.shtml",
+      "publishedAt": "2026-08-18T22:22:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679982.shtml",
+      "title": "更好满足多样化住房消费需求 住房公积金提取和使用范围拓宽",
+      "category": "综合",
+      "summary": "更好满足多样化住房消费需求",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679982.shtml",
+      "publishedAt": "2026-08-18T22:16:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
+      "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+      "category": "综合",
+      "summary": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
+      "publishedAt": "2026-08-18T22:13:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679980.shtml",
+      "title": "定制客运何以“加速跑”",
+      "category": "综合",
+      "summary": "截至去年底，全国开通超1.1万条服务线路，同比增长约25%——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679980.shtml",
+      "publishedAt": "2026-08-18T22:10:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml",
+      "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+      "category": "综合",
+      "summary": "据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程，原计划持续至27日的演习将提前至本周结束，第二阶段反击演练被取消。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml",
+      "publishedAt": "2026-08-18T22:02:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679978.shtml",
+      "title": "青海海西州直辖区发生5.6级地震 震源深度10千米",
+      "category": "综合",
+      "summary": "中国地震台网正式测定：8月19日5时36分在青海海西州直辖区(北纬37.81度，东经95.63度)发生5.6级地震，震源深度10千米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679978.shtml",
+      "publishedAt": "2026-08-18T21:52:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679977.shtml",
+      "title": "青海海西州直辖区附近发生5.6级左右地震",
+      "category": "综合",
+      "summary": "中国地震台网自动测定：8月19日5时36分，在青海海西州直辖区附近(北纬37.79度，东经95.60度)发生5.6级左右地震。最终结果以正式速报为准。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679977.shtml",
+      "publishedAt": "2026-08-18T21:45:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#0",
       "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
@@ -435,150 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679940.shtml",
       "publishedAt": "2026-08-18T14:03:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-18/10679947.shtml",
-      "title": "2026澳门青年创新创业大赛决赛举行 推动项目对接产业资源",
-      "category": "综合",
-      "summary": "中新网澳门8月18日电 (记者 郑嘉伟)2026澳门青年创新创业大赛总决赛及颁奖礼18日在澳门科学馆举行。澳门项目“下一代光子—电子—自旋磁混合自学习芯片”和中国内地项目“面向高频通讯的高性能钙钛矿超显芯片材料”分获初创团队组、企业公开组冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679947.shtml",
-      "publishedAt": "2026-08-18T14:02:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679946.shtml",
-      "title": "广州把生态修复“种”进生活：让“生态欠账”变“满城青绿”",
-      "category": "综合",
-      "summary": "中新网广州8月18日电 题：广州把生态修复“种”进生活：让“生态欠账”变“满城青绿”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679946.shtml",
-      "publishedAt": "2026-08-18T14:01:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679944.shtml",
-      "title": "广西“巧女”赛巧迎七夕 百年民俗焕新韵",
-      "category": "综合",
-      "summary": "中新社南宁8月18日电 (记者 黄艳梅)中国民间传统节日七夕将至，一年一度的“赛巧节”18日在广西南宁市邕宁区蒲庙镇孟连村那莲街举行。当地村民纷纷在家门口“摆花台”，一件件匠心独运的手工艺品令往来游客赞叹不已。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679944.shtml",
-      "publishedAt": "2026-08-18T14:00:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679943.shtml",
-      "title": "海南成立对外投资合作协同发展联盟 助企出海",
-      "category": "综合",
-      "summary": "中新网海口8月18日电 (记者 王子谦)海南对外投资合作协同发展联盟18日在海口成立，旨在打造企业出海“一站式”资源对接平台，为出海企业提供出口信用保险、融资、政策咨询、专业服务等全链条服务。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679943.shtml",
-      "publishedAt": "2026-08-18T13:59:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679939.shtml",
-      "title": "章子怡到手了3个亿，不是通过演戏",
-      "category": "综合",
-      "summary": "中新网8月18日电(吴家驹)4年间，章子怡投的几百万，变成了3个亿。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679939.shtml",
-      "publishedAt": "2026-08-18T13:57:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679937.shtml",
-      "title": "越南青少年首访海南：“现代、好客、超出预期”",
-      "category": "综合",
-      "summary": "中新网海口8月18日电 (张茜翼 张芷懿)“现代、好客、超出预期。”16岁的越南女孩阮琼娇(Nguyen Quynh Giao)用三个词，定格她对海南的第一印象。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679937.shtml",
-      "publishedAt": "2026-08-18T13:56:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679942.shtml",
-      "title": "两只股票“涨疯了”，公司：如进一步异常上涨或申请停牌核查",
-      "category": "综合",
-      "summary": "中新网8月18日电(吴家驹)8月18日，爱丽家居和一鸣食品相继发布公告，提示股票交易风险。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679942.shtml",
-      "publishedAt": "2026-08-18T13:55:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679941.shtml",
-      "title": "DeepSeek想要土木人才",
-      "category": "综合",
-      "summary": "中新网8月18日电(吴家驹)近日，DeepSeek官网出现一则IDC数据中心团队的招聘信息，招聘方向(全职)为：数据中心基础设施运营方向、数据中心规划设计方向、数据中心现场方向。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679941.shtml",
-      "publishedAt": "2026-08-18T13:54:20.000Z",
       "tags": [
         "国内",
         "社会",
