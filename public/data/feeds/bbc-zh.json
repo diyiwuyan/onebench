@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
+      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T06:41:30.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#1",
       "title": "專門減肥藥能否提升運動員表現？",
       "meta": "BBC 中文 · 2026/8/19",
       "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-08-17T08:02:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
       "meta": "BBC 中文 · 2026/8/16",
       "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
@@ -152,13 +159,6 @@
       "publishedAt": "2026-08-13T12:32:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#4",
-      "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
-      "meta": "BBC 中文 · 2026/8/13",
-      "url": "https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T03:19:02.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#5",
       "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
       "meta": "BBC 中文 · 2026/8/13",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T04:52:00.876Z",
+  "updatedAt": "2026-08-19T07:05:20.719Z",
   "provider": "OneBench 公共资讯快照"
 }
