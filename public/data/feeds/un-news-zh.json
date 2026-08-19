@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142646",
+      "title": "【专题报道】300公斤牛仔布的第二次生命——青年如何重新思考零废物",
+      "meta": "联合国新闻 · 2026/8/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142646",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142652",
       "title": "黎巴嫩：86万流离失所者已返回家园，但人道主义危机依然严峻",
       "meta": "联合国新闻 · 2026/8/18",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/12",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142605",
       "publishedAt": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142621",
-      "title": "塔利班接管五年后：阿富汗对妇女和女童的排斥已成常态",
-      "meta": "联合国新闻 · 2026/8/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142621",
-      "publishedAt": "2026-08-12T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T13:08:53.147Z",
+  "updatedAt": "2026-08-19T14:53:04.027Z",
   "provider": "OneBench 公共资讯快照"
 }
