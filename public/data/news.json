@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T07:05:20.719Z",
-  "expiresAt": "2026-08-19T13:05:20.719Z",
+  "generatedAt": "2026-08-19T08:54:43.509Z",
+  "expiresAt": "2026-08-19T14:54:43.509Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,374 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201529.shtml",
-      "title": "沉浸式艺术展流行美国纽约",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680431.shtml",
+      "title": "微纪录片｜情润塞上",
+      "category": "综合",
+      "summary": "视频：微纪录片｜情润塞上来源：新华社",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680431.shtml",
+      "publishedAt": "2026-08-19T08:48:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-19/10680415.shtml",
+      "title": "外交部提醒中国公民谨慎赴帕劳旅游",
+      "category": "综合",
+      "summary": "中新网8月19日电 据“领事直通车”微信公众号消息，近年，帕劳发生多起针对游客盗抢案件，当事人损失严重。当地涉水环境复杂，搜救力量、医疗条件有限，涉中国游客意外事故频发。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-19/10680415.shtml",
+      "publishedAt": "2026-08-19T08:47:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680424.shtml",
+      "title": "国际刑事法院强烈反对美国新的制裁名单",
+      "category": "综合",
+      "summary": "国际刑事法院19日发表声明，对美国政府宣布制裁国际刑事法院院长、日本法官赤根智子和检察官办公室高级审判律师、塞内加尔人阿卜杜拉耶·塞耶表示遗憾。声明说，这些制裁是对国际刑事法院独立性的“公然攻击”。国际刑事法院依据《罗马规约》赋予的职责独立履行司法职能。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680424.shtml",
+      "publishedAt": "2026-08-19T08:46:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680421.shtml",
+      "title": "从“世界经验”到“中国机遇”：海外学子以留学经历打开中外沟通窗口",
+      "category": "综合",
+      "summary": "中新网 8月19日电 (刘牧奇 王一安)从人工智能重塑就业方式，到集成电路、航空航天、生物医药等产业加速发展；从如何把海外求学积累转化为职业竞争力，到如何在跨文化交流中讲好中国故事——对今天的海外中国学子而言，“学成之后做什么、去哪里发展”，答案正在更加多元化。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680421.shtml",
+      "publishedAt": "2026-08-19T08:46:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-19/10680321.shtml",
+      "title": "驻哈萨克斯坦使领馆提醒中国公民注意骑乘电动滑板车新规",
+      "category": "综合",
+      "summary": "中新网8月19日电 据中国驻哈萨克斯坦大使馆微信公众号消息，近期，哈萨克斯坦修订相关法律，对骑乘电动滑板车作出新规定。新规将于8月25日正式生效。驻哈使领馆提醒中国公民注意出行安全，避免违法违规。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-19/10680321.shtml",
+      "publishedAt": "2026-08-19T08:45:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680425.shtml",
+      "title": "学习新语｜广大医务人员是最美的天使",
+      "category": "综合",
+      "summary": "视频：学习新语｜广大医务人员是最美的天使来源：新华社",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680425.shtml",
+      "publishedAt": "2026-08-19T08:45:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10680422.shtml",
+      "title": "“医”路有你 守护生命之光",
+      "category": "综合",
+      "summary": "央广网天津8月19日消息(记者褚夫晴)白衣执甲守初心，仁心济世护苍生。2026年8月19日，全国1600多万卫生健康工作者迎来属于自己的节日——中国医师节。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680422.shtml",
+      "publishedAt": "2026-08-19T08:41:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680411.shtml",
+      "title": "广西贵港出台“千帆计划” 全面融入平陆运河经济带建设",
+      "category": "综合",
+      "summary": "中新网贵港8月19日电(黄艳梅 李孔兰)西部陆海新通道骨干工程平陆运河通航进入倒计时之际，广西贵港市于日前正式出台《平陆运河赋能贵港发展“千帆计划”工作方案(2026—2028年)》，锚定“通航即运营”目标，加快培育超千艘现代化适航船队，全面融入平陆运河经济带建设。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680411.shtml",
+      "publishedAt": "2026-08-19T08:40:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680410.shtml",
+      "title": "“中国话语与世界文学研究丛书”系统梳理德语世界里的中国书写",
+      "category": "综合",
+      "summary": "中新网上海8月19日电 “他者之镜：德语世界的中国书写——‘中国话语与世界文学研究丛书’分享会”日前在上海举行。该丛书共十部著作，题材丰富、视角多元，构建起跨时空、多维度的德语世界中国叙事谱系。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680410.shtml",
+      "publishedAt": "2026-08-19T08:39:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680409.shtml",
+      "title": "全球首张食蟹猴全生命周期脑图谱揭示脑衰老真相",
+      "category": "综合",
+      "summary": "中新网深圳8月19日电 (索有为 王彧恬)总部位于深圳的华大集团19日发布消息称，由华大生命科学研究院牵头建设的基因组多维解析技术全国重点实验室、吉林大学人畜共患传染病重症诊治全国重点实验室主导，联合国内外科研团队绘制出全球首张覆盖全生命周期的食蟹猴脑多模态细胞图谱，完整还原灵长类大脑衰老的演变过程。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680409.shtml",
+      "publishedAt": "2026-08-19T08:38:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680406.shtml",
+      "title": "巴基斯坦延长对印航空器领空禁令至9月24日",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 综合消息：巴基斯坦机场管理局当地时间19日发布公告，宣布将针对印度航空器的领空禁令延长至今年9月24日。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680406.shtml",
+      "publishedAt": "2026-08-19T08:38:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680396.shtml",
+      "title": "哈萨克斯坦7月多地刷新高温纪录",
+      "category": "综合",
+      "summary": "中新网阿斯塔纳8月19日电 据哈萨克斯坦国家水文气象局19日消息，今年7月，该国多地持续高温，多个城市刷新单日最高气温纪录。其中，奇姆肯特市两项保持111年的单日最高气温纪录被刷新。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680396.shtml",
+      "publishedAt": "2026-08-19T08:37:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-19/10680408.shtml",
+      "title": "海外侨胞过七夕：既话浪漫亦重传统",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 (记者 门睿 吴侃)8月19日适逢七夕节，多位海外侨胞接受中新社记者连线采访表示，七夕是满载爱意的节日，也寄托着人们对美好生活的期盼。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-19/10680408.shtml",
+      "publishedAt": "2026-08-19T08:37:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680372.shtml",
+      "title": "联合国警告称黎巴嫩人道危机远未结束",
+      "category": "综合",
+      "summary": "中新网北京8月19日电 日内瓦消息：联合国难民署当地时间18日警告称，约86万因黎巴嫩南部冲突而流离失所的民众已返回家园，约36万人仍流离失所，该国人道主义危机远未结束。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680372.shtml",
+      "publishedAt": "2026-08-19T08:37:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680407.shtml",
+      "title": "宇树科技上市首日股价大涨 收盘市值超3400亿元",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 (记者 陈康亮)备受关注的宇树科技19日正式登陆A股。当天宇树科技股价开盘大涨，随后涨幅有所收窄；截至收盘，宇树科技股价报每股845元(人民币，下同)，涨幅为460.34%，市值超3400亿元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680407.shtml",
+      "publishedAt": "2026-08-19T08:36:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680419.shtml",
+      "title": "海外博主看中国｜“中国让人民过上了更好的生活”",
+      "category": "综合",
+      "summary": "近日，澳大利亚博主丹尼来到湖北武汉，探访当地市民的日常生活。武汉满满的安全感、完善的基础设施、便捷的医疗与出行体验，以及热情友善的氛围给他留下了深刻印象。丹尼表示，在这里人们过上了更加舒适的生活。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680419.shtml",
+      "publishedAt": "2026-08-19T08:36:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680399.shtml",
+      "title": "陆军某旅卫勤分队展开连贯演练考核",
+      "category": "综合",
+      "summary": "图为官兵架设医疗帐篷。熊勖希 摄 图为官兵进行伤病员后送。熊勖希 摄 图为官兵在给伤员进行检伤分类。刘俊磊 摄 图为官兵进行伤病员登记。熊勖希 摄 图为官兵为伤病员进行静脉输液。刘俊磊 摄 图为官兵为伤病员静脉注射。刘俊磊 摄 图为官兵在给重症伤病员进行救治。刘俊磊 摄 图为官兵在进行手术。熊勖希 摄 图为重伤救治组官兵为伤员治疗。刘俊磊 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680399.shtml",
+      "publishedAt": "2026-08-19T08:35:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680403.shtml",
+      "title": "2026汽车轻量化大会向全球发出“英雄帖”：直击四大行业痛点",
+      "category": "综合",
+      "summary": "中新网扬州8月19日电 (徐珊珊 张子诺)8月19日，2026(第十九届)汽车轻量化大会组委会正式发布企业核心技术需求清单，面向全球征集解决方案。作为汽车轻量化领域极具行业影响力的年度盛会，本届大会将于9月9日至11日在江苏扬州会议中心举办，由中国汽车工程学会与汽车轻量化技术创新战略联盟联合主办。大会旨在搭建“需求发布—方案征集—评估筛选—精准对接”的全链条",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680403.shtml",
+      "publishedAt": "2026-08-19T08:35:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680402.shtml",
+      "title": "广西崇左金属新材料产业提质增效 冲刺千亿级产业集群",
+      "category": "综合",
+      "summary": "中新网广西崇左8月19日电 (杨陈 张诗缨 马乃鹏)记者19日从广西崇左市官方获悉，依托区位优势与资源禀赋，近年来崇左聚焦铜、稀土、锰等金属新材料产业，通过龙头牵引、延链补链、智能转型、绿色发展多维发力，推动产业从基础原料供应向精深加工、终端应用延伸，产业集群效应持续释放，全力冲刺千亿级产业集群目标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680402.shtml",
+      "publishedAt": "2026-08-19T08:34:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-19/10680401.shtml",
+      "title": "湘疆少年以画连心 共绘民族团结“石榴籽”画卷",
+      "category": "综合",
+      "summary": "中新网永州8月19日电 (黄新 谢修萍 黄倩)近日，一场别开生面的“共绘石榴籽长卷”民族团结交流活动在湖南省永州市新田县骥村镇骥村社区党群服务中心开展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680401.shtml",
+      "publishedAt": "2026-08-19T08:33:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201539.shtml",
+      "title": "第二届世界人形机器人运动会开赛在即",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201529.shtml",
-      "publishedAt": "2026-08-19T06:53:17.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201539.shtml",
+      "publishedAt": "2026-08-19T08:33:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680326.shtml",
-      "title": "（乡村行·看振兴）省运赛事推动广东高州农文旅融合发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-19/10680400.shtml",
+      "title": "传统民俗相遇世界赛场 中外劲旅湖南相约龙舟世界杯",
       "category": "综合",
-      "summary": "中新网广东茂名8月19日电 题：省运赛事推动广东高州农文旅融合发展",
+      "summary": "中新网怀化8月19日电 (付敬懿)2026年国际划联龙舟世界杯将于9月25日至27日在湖南沅陵县举行，目前已有全球26支顶尖龙舟队伍报名参赛。赛事融合国际竞技标准与本土非遗民俗，同步配套国家级非遗沅陵传统龙舟展演、特色文艺晚会等系列活动，让中外运动员共同体验中国传统龙舟文化。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680326.shtml",
-      "publishedAt": "2026-08-19T06:50:14.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-19/10680400.shtml",
+      "publishedAt": "2026-08-19T08:32:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-19/10680324.shtml",
-      "title": "泰国明义善壇举办扶贫济困慈善活动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-19/10680398.shtml",
+      "title": "江西永修激活统战侨力 绘就乡村振兴新图景",
       "category": "综合",
-      "summary": "中新网曼谷8月19日电(李映民 邵佳怡)当地时间8月18日，泰国尖竹汶府东英学校内举办一年一度的盂兰胜会扶贫济困活动。此次活动由尖竹汶明义善壇主办，泰国尖竹汶府府尹蒙西、明义善壇理事长詹俊成以及社会贤达和各界民众齐聚一堂，共同见证这一延续百余年之久的慈善盛举。",
+      "summary": "中新网九江8月19日电 (袁勃兴 黄柳根)初秋时节，走进江西省九江市永修县八角岭垦殖场沙丰分场的半巷花田农旅产业园，连片果园郁郁葱葱，独具特色的民宿错落有致，三五成群的游客或在采摘园里体验农趣，或在花香庭院中品茗休憩……一幅“农中有旅、旅中有农”的乡村振兴新图景在这里徐徐展开。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-19/10680324.shtml",
-      "publishedAt": "2026-08-19T06:49:40.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680398.shtml",
+      "publishedAt": "2026-08-19T08:31:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680323.shtml",
-      "title": "中国式民族团结之道启示全球治理",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680413.shtml",
+      "title": "海外博主看中国｜中国机器人凭什么吸引全球采购商？",
       "category": "综合",
-      "summary": "多民族国家是当今世界各国的主要形态，民族事务治理是全世界治理难题。目前来看，世界民族问题仍处在民族冲突与区域冲突交织叠加，民族分离主义和宗教极端主义势力抬头的总体态势，各国在一定程度上普遍陷入认同撕裂或社会分化等困局。反观中国，走出了一条以政治整合凝聚共识、以利益共生夯实根基、以文化相通滋养认同和合共生的民族团结进步之路，并将成功经验上升为民族团结进步促进法",
+      "summary": "机器人产业被视作极具潜力的赛道，中国机器人产业的蓬勃发展活力也吸引了众多海外从业人员。来自法国的塞巴斯蒂安近日就来到深圳，为他所在的跨境采购企业寻找中国机器人领域的最新创新成果。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680323.shtml",
-      "publishedAt": "2026-08-19T06:48:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680413.shtml",
+      "publishedAt": "2026-08-19T08:31:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680322.shtml",
-      "title": "华南首个“生物制造+美妆、食品、农业”公共中试平台落地广州白云",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-19/10680397.shtml",
+      "title": "湖北京山网球持续“出圈” 国际赛事扎堆聚集",
       "category": "综合",
-      "summary": "中新网广州8月19日电 (记者 王坚)据广州市白云区政府19日消息，华南首个“生物制造+美妆、食品、农业”细分领域公共中试平台——白云生物制造中试平台18日进入实质建设阶段。",
+      "summary": "中新网武汉8月19日电 (记者 武一力)记者从湖北省政府新闻办19日召开的新闻发布会上获悉，2025年，湖北京山“网球+”综合产值突破35亿元人民币，吸引352万人次“带着球拍游京山”。目前，京山已建成标准网球场356片，常年参与网球运动的民众近10万人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680322.shtml",
-      "publishedAt": "2026-08-19T06:47:22.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-19/10680397.shtml",
+      "publishedAt": "2026-08-19T08:31:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680320.shtml",
-      "title": "《筝途》古筝音乐会伦敦上演 传统民乐唱响跨文化新韵",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680390.shtml",
+      "title": "严查违规设立分支机构，民政部通报5起社会团体违法典型案例",
       "category": "综合",
-      "summary": "中新网伦敦8月19日电 (记者 欧阳开宇)《筝途》古筝音乐会日前在伦敦威斯敏斯特音乐图书馆举办。演出以多元演绎与中西跨界融合，生动展现中国古筝艺术的当代表达，推动中华传统民乐深度融入英国本土文化场景。",
+      "summary": "中新网8月19日电 据民政部网站消息，8月19日，民政部社会组织管理局通报5起社会团体分支机构、代表机构违法典型案例。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680320.shtml",
-      "publishedAt": "2026-08-19T06:46:38.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680390.shtml",
+      "publishedAt": "2026-08-19T08:30:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680327.shtml",
-      "title": "2026广东（连山）“七月香”壮家戏水暨非遗民俗系列活动晚会举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-19/10680395.shtml",
+      "title": "穗港新质生产力赋能中心在香港揭牌 助力两地企业创新出海",
       "category": "综合",
-      "summary": "中新网清远8月19日电 (张璐 何俊杰 唐震)“清爽氧吧城·戏水乐翻天”2026广东(连山)“七月香”壮家戏水暨非遗民俗系列活动晚会(简称“晚会”)18日晚在清远连山上演。",
+      "summary": "中新网香港8月19日电 (记者 赵静怡)穗港新质生产力赋能中心(简称“中心”)揭牌仪式19日在香港举行，全面启动穗港两地协同打造的新质生产力实体服务平台，两地政府与企业代表到场见证。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680327.shtml",
-      "publishedAt": "2026-08-19T06:46:04.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-19/10680395.shtml",
+      "publishedAt": "2026-08-19T08:28:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680319.shtml",
-      "title": "黑龙江17处景区公园式婚姻登记处“七夕”见证良缘",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680394.shtml",
+      "title": "深圳注册医师超8万人 较去年同期增长3.87%",
       "category": "综合",
-      "summary": "中新网哈尔滨8月19日电 (田德雨)当爱情遇上青山绿水，公园、江畔、园林景区化作浪漫爱情的见证场所。松风为颂，江河为盟，草木繁花共同聆听新人许下“我愿意”的真挚誓言。8月19日是“七夕”佳节，哈尔滨市香坊区黛秀湖公园婚姻登记处开门办公仅两个小时，就已经为50对新人办理婚姻登记手续。香坊区民政局婚姻服务中心负责人许乃琪告诉记者：“平时每天服务新人在30对左右，",
+      "summary": "中新网深圳8月19日电 (索有为 深卫信 王彧恬)8月19日是第九个“中国医师节”。据深圳市卫生健康委当日发布的统计数据，截至7月31日，全市注册医师突破8万大关，达80876人，较去年同期增长3.87%。其中，执业医师76169人，占94.18%；执业助理医师4707人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680319.shtml",
-      "publishedAt": "2026-08-19T06:45:16.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680394.shtml",
+      "publishedAt": "2026-08-19T08:27:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-19/10680332.shtml",
-      "title": "银川市构建“四位一体”学校铸牢中华民族共同体意识教育体系",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680412.shtml",
+      "title": "长江十年行｜城乡共饮一江水",
       "category": "综合",
-      "summary": "银川市以铸牢中华民族共同体意识为主线，推动思政小课堂与社会大课堂深度融合，打造“石榴花开·‘银’领思政”工作品牌，构建实践、课程、活动、师资“四位一体”育人体系，各项工作取得扎实进展。",
+      "summary": "临近傍晚，邓万秀放下手中的活计，准备接水做饭。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680332.shtml",
-      "publishedAt": "2026-08-19T06:44:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680412.shtml",
+      "publishedAt": "2026-08-19T08:27:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680318.shtml",
-      "title": "2026安徽摄影季在合肥启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680393.shtml",
+      "title": "大小如鸵鸟蛋 斯里兰卡一男子体内取出6.2斤巨型膀胱结石",
       "category": "综合",
-      "summary": "中新网合肥8月19日电 (赵强 韩苏原)以“皖美如画 影像安徽”为主题的2026安徽摄影季19日在合肥启幕。",
+      "summary": "中新网8月19日电 据英国广播公司(BBC)18日报道，近日，斯里兰卡一家医院从一名男子的膀胱内取出一块重达3.1千克的巨型结石，大小接近鸵鸟蛋。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680318.shtml",
-      "publishedAt": "2026-08-19T06:44:28.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680393.shtml",
+      "publishedAt": "2026-08-19T08:23:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,56 +572,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680328.shtml",
-      "title": "临夏有约：文人墨客为何在此留下“清凉诗句”",
-      "category": "综合",
-      "summary": "中新网兰州8月19日电 (李文 袁林)入秋以来，甘肃临夏州康乐县山野浓翠未褪，持续数月的避暑旅游季虽渐入尾声，但进山游客仍络绎不绝。近年来，当地景区客流持续走高，文旅产业的“清凉优势”不断释放。其实，康乐避暑之名由来已久，境内莲花山自古便是陇上知名纳凉地。历代文人墨客赴山消暑游历，留下诸多描摹山林清凉的诗作，藏着这片土地跨越数百年的“清凉密码”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680328.shtml",
-      "publishedAt": "2026-08-19T06:43:22.000Z",
+      "id": "sspai-https://sspai.com/post/113588",
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+      "category": "科技",
+      "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113588",
+      "publishedAt": "2026-08-19T07:20:08.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680330.shtml",
-      "title": "王毅同智利外长佩雷斯会谈",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 中共中央政治局委员、外交部长王毅19日在北京同智利外长佩雷斯举行会谈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680330.shtml",
-      "publishedAt": "2026-08-19T06:42:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-19/10680317.shtml",
-      "title": "2026年第二届中哈地方间青少年体育交流周开幕式举行",
-      "category": "综合",
-      "summary": "中新网新疆阿拉山口8月19日电 (张家伟)19日上午，2026年第二届中哈地方间青少年体育交流周开幕式在新疆阿拉山口市举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-19/10680317.shtml",
-      "publishedAt": "2026-08-19T06:42:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -279,312 +603,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-19/10680306.shtml",
-      "title": "法治赋能互嵌共建 黑龙江绘就民族团结新图景",
-      "category": "综合",
-      "summary": "中新网哈尔滨8月19日电 题：法治赋能互嵌共建 黑龙江绘就民族团结新图景",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680306.shtml",
-      "publishedAt": "2026-08-19T06:41:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680307.shtml",
-      "title": "国台办：《国务院关于出境入境管理的规定》有利于维护两岸民众往来合法权益",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 (记者 徐雪莹 陈建新)《国务院关于出境入境管理的规定》将于9月15日施行。国务院台办发言人朱凤莲8月19日在北京应询指出，该规定有利于维护两岸民众往来的合法权益，为台湾同胞来大陆营造更好的法治环境。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680307.shtml",
-      "publishedAt": "2026-08-19T06:40:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680304.shtml",
-      "title": "南海热带扰动活跃 广东将遭遇新一轮强风雨天气",
-      "category": "综合",
-      "summary": "中新网广州8月19日电 (记者 王坚)据广东省气象局19日消息，位于海南文昌偏东方向约380公里的南海北部海面上的扰动云团将于19日夜间加强为热带低压，未来将向西偏北方向移动，可能于20日前后在海南东部到雷州半岛沿海登陆。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680304.shtml",
-      "publishedAt": "2026-08-19T06:38:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680288.shtml",
-      "title": "江西南昌：七夕佳节 中式颁证缔幸福良缘",
-      "category": "综合",
-      "summary": "图为正在做中式妆造的新人。 熊锦阳 摄 图为婚姻登记处布置的中式颁证厅。 熊锦阳 摄 图为集体婚礼现场，新人们携手跨过火盆，寓意生活红火、岁月温暖。 熊锦阳 摄 图为正在行“对拜礼”的新人。 熊锦阳 摄 图为正在饮“合卺酒”的新人。 熊锦阳 摄 图为中式集体婚礼现场。 熊锦阳 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680288.shtml",
-      "publishedAt": "2026-08-19T06:37:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680287.shtml",
-      "title": "黑龙江哈尔滨：新人七夕领证迎热潮",
-      "category": "综合",
-      "summary": "8月19日，黑龙江哈尔滨，摄影师在哈尔滨香坊区黛秀湖公园婚姻登记处为新人拍照。当日是中国传统节日七夕节，许多新人办理结婚登记手续，在特殊的日子里感受爱情的甜蜜。中新社记者 赵宇航 摄 8月19日，黑龙江哈尔滨，一对新人在哈尔滨香坊区黛秀湖公园婚姻登记处领取结婚证后拍照留念。当日是中国传统节日七夕节，许多新人办理结婚登记手续，在特殊的日子里感受爱情的甜蜜。中新",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680287.shtml",
-      "publishedAt": "2026-08-19T06:36:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-19/10680303.shtml",
-      "title": "前7月中欧班列开行12988列 同比增长17.6%",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 (记者 刘文文)1至7月，中欧班列开行12988列，同比增长17.6%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-19/10680303.shtml",
-      "publishedAt": "2026-08-19T06:36:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680302.shtml",
-      "title": "台青“重走科举路” 在寻古探今中走近走亲",
-      "category": "综合",
-      "summary": "“亲身体验了一段风雨‘赶考’路，我体会到‘重走科举路’不只是看风景，更是学习古人面对风雨的坚韧心志、顺应变化的豁达心态……”近日，“2026年台湾学子重走科举路研习营”在北京台湾会馆举行结营仪式，营员曾同学的一番真挚感言，引发现场共鸣。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680302.shtml",
-      "publishedAt": "2026-08-19T06:35:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680259.shtml",
-      "title": "四川成都：七夕节里结良缘",
-      "category": "综合",
-      "summary": "8月19日，四川成都，新人在成都高新区桂溪生态公园婚姻登记处等待办理结婚手续。当日是中国传统节日七夕节，许多新人办理结婚登记手续，在特殊的日子里收获爱情的甜蜜。中新社记者 安源 摄 8月19日，四川成都，一对新人在成都高新区桂溪生态公园婚姻登记处领取结婚证后拍照留念。当日是中国传统节日七夕节，许多新人办理结婚登记手续，在特殊的日子里收获爱情的甜蜜。中新社记者",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680259.shtml",
-      "publishedAt": "2026-08-19T06:35:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680245.shtml",
-      "title": "漫评：列车+ 解锁暑期文旅消费市场新赛道",
-      "category": "综合",
-      "summary": "今夏大众出游热情高涨，文旅消费持续升温。铁路跳出传统运输思维，打造多元特色出行场景，将普通通勤升级为沉浸式文旅体验，有效激活沿线客流，持续撬动暑期文旅消费增量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680245.shtml",
-      "publishedAt": "2026-08-19T06:33:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201519.shtml",
-      "title": "2026世界机器人大会在北京揭幕",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201519.shtml",
-      "publishedAt": "2026-08-19T06:29:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680276.shtml",
-      "title": "AI陪伴代替不了家人的拥抱",
-      "category": "综合",
-      "summary": "【创新谈】",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680276.shtml",
-      "publishedAt": "2026-08-19T06:28:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680299.shtml",
-      "title": "今年第18号台风“沙德尔”生成",
-      "category": "综合",
-      "summary": "中新网8月19日电 据中央气象台微博消息，今年第18号台风“沙德尔”(热带风暴级；英文名称：Saudel；名字来源：密克罗尼西亚；名称意义：密克罗尼西亚波纳佩岛(Pohnpei)传说中的将领“苏迪罗”信任的卫兵)19日上午在西北太平洋洋面上生成，中心附近最大风力有8级(18米/秒)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680299.shtml",
-      "publishedAt": "2026-08-19T06:25:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680250.shtml",
-      "title": "【青春华章·长征路上山河新】三年不饮湘江水，十年不食湘江鱼",
-      "category": "综合",
-      "summary": "视频：【青春华章·长征路上山河新】三年不饮湘江水，十年不食湘江鱼来源：中国青年网",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680250.shtml",
-      "publishedAt": "2026-08-19T06:25:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680258.shtml",
-      "title": "政客公然组团“拜鬼”，日本的历史倒车要开到哪里去？",
-      "category": "综合",
-      "summary": "政客公然组团“拜鬼”，涂抹篡改历史叙事，持续推进扩军备武",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680258.shtml",
-      "publishedAt": "2026-08-19T06:24:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680271.shtml",
-      "title": "从月均1班到日均10班 “拓荒者”见证中原“钢铁丝路”蝶变",
-      "category": "综合",
-      "summary": "中新网郑州8月19日电(记者 韩章云)初秋时节，郑州国际陆港经开片区，汽笛声声。一列列中欧班列满载“中国制造”缓缓驶出场站，驶向万里之外的欧洲。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680271.shtml",
-      "publishedAt": "2026-08-19T06:24:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680282.shtml",
-      "title": "最高赔付26.7万，件均17万：中国人寿发布2025年学平险十大理赔案例",
-      "category": "综合",
-      "summary": "日前，中国人寿保险股份有限公司(以下简称“中国人寿”，股票代码：601628.SH，2628.HK)发布了2025年学平险十大理赔案例。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680282.shtml",
-      "publishedAt": "2026-08-19T06:22:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680268.shtml",
-      "title": "外国游客在沪“反向海淘” 中国原创品牌凭实力圈粉",
-      "category": "综合",
-      "summary": "中新网上海8月19日电 (李秋莹 曾子琴)“以前有一种刻板印象，觉得中国产品质量很差，但事实完全不是这样。这里有很多好东西，回到自己国家后，我常常会想念淘宝和中国品牌。”在上海淮海中路，来自俄罗斯的Polina Sutiagina表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680268.shtml",
-      "publishedAt": "2026-08-19T06:21:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -1126,24 +1144,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/113368",
       "publishedAt": "2026-08-17T07:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113448",
-      "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
-      "category": "科技",
-      "summary": "如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113448",
-      "publishedAt": "2026-08-17T05:55:17.000Z",
       "tags": [
         "科技",
         "效率",
