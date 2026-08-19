@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142652",
+      "title": "黎巴嫩：86万流离失所者已返回家园，但人道主义危机依然严峻",
+      "meta": "联合国新闻 · 2026/8/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142652",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142653",
+      "title": "世卫组织和儿基会：医疗机构卫生设施仍存在显著缺口",
+      "meta": "联合国新闻 · 2026/8/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142653",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142651",
+      "title": "加沙地带：仅3%的耕地既可进入又未受损",
+      "meta": "联合国新闻 · 2026/8/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142651",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142650",
+      "title": "哥伦比亚地震：联合国加大对10万人的援助力度",
+      "meta": "联合国新闻 · 2026/8/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142650",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142649",
+      "title": "埃博拉：运送病人的摩托车骑手或成加强应对的关键",
+      "meta": "联合国新闻 · 2026/8/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142649",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142648",
       "title": "联合国：利比亚政治进程取得进展，但仍面临治理、安全和经济挑战",
       "meta": "联合国新闻 · 2026/8/18",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/8/12",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142621",
       "publishedAt": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142620",
-      "title": "国际移民组织：非法入境人数下降 移民路线却变得更加危险",
-      "meta": "联合国新闻 · 2026/8/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142620",
-      "publishedAt": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142619",
-      "title": "红海船只遭致命袭击，加剧全球供应链不确定性",
-      "meta": "联合国新闻 · 2026/8/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142619",
-      "publishedAt": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142616",
-      "title": "国际劳工组织：全球青年失业率上升 年轻人获得体面工作的道路愈发艰难",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142616",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142610",
-      "title": "【专题报道】“孔雀外交”：五位蓝白“新使者”亮相日内瓦",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142610",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142617",
-      "title": "教科文组织呼吁全面恢复阿富汗女童和妇女受教育权",
-      "meta": "联合国新闻 · 2026/8/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142617",
-      "publishedAt": "2026-08-11T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T03:11:13.805Z",
+  "updatedAt": "2026-08-19T04:52:00.876Z",
   "provider": "OneBench 公共资讯快照"
 }
