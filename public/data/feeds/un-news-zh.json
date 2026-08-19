@@ -5,8 +5,36 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142659",
+      "title": "苏丹：战事和洪灾加剧，20万人新近流离失所",
+      "meta": "联合国新闻 · 2026/8/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142659",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142658",
+      "title": "人权高专办：以色列政府部长最新言论已逾越人性底线",
+      "meta": "联合国新闻 · 2026/8/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142658",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142657",
+      "title": "古特雷斯：确保世界各地人道主义工作者得到保护、支持并永远被铭记",
+      "meta": "联合国新闻 · 2026/8/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142657",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142656",
+      "title": "国际刑事法院强烈反对美国新的制裁指令",
+      "meta": "联合国新闻 · 2026/8/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142656",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142655",
-      "title": "伊线 | 她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
+      "title": "世界人道主义日 | 【特写】伊线：她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
       "meta": "联合国新闻 · 2026/8/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142655",
       "publishedAt": "2026-08-19T12:00:00.000Z"
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/8/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142627",
       "publishedAt": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142626",
-      "title": "安理会：联合国警告也门重陷大规模冲突风险加剧 人道主义危机持续恶化",
-      "meta": "联合国新闻 · 2026/8/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142626",
-      "publishedAt": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142625",
-      "title": "人权高专办：定居者对被占约旦河西岸巴勒斯坦人围困必须停止",
-      "meta": "联合国新闻 · 2026/8/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142625",
-      "publishedAt": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142623",
-      "title": "霍乱在西非和中非地区跨境蔓延",
-      "meta": "联合国新闻 · 2026/8/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142623",
-      "publishedAt": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142622",
-      "title": "世卫组织总干事对特朗普政府关于疫苗的行政命令表示担忧",
-      "meta": "联合国新闻 · 2026/8/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142622",
-      "publishedAt": "2026-08-12T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T20:45:26.267Z",
+  "updatedAt": "2026-08-19T22:41:32.887Z",
   "provider": "OneBench 公共资讯快照"
 }

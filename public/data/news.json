@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T20:45:26.267Z",
-  "expiresAt": "2026-08-20T02:45:26.267Z",
+  "generatedAt": "2026-08-19T22:41:32.887Z",
+  "expiresAt": "2026-08-20T04:41:32.887Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,240 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680727.shtml",
+      "title": "知情人士：若美升级战事 伊朗考虑打击驻欧美军设施",
+      "category": "综合",
+      "summary": "英国方面当地时间19日有消息称，伊朗高层已在斟酌应对美国升级战事的反击方案，选项包括攻击美国在欧洲的军事目标、破坏霍尔木兹海峡海底光纤电缆。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680727.shtml",
+      "publishedAt": "2026-08-19T22:28:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680717.shtml",
+      "title": "“尼泊尔摄影记者镜头下的中国”摄影展开展",
+      "category": "综合",
+      "summary": "中新社加德满都8月19日电 (记者 崔楠)“尼泊尔摄影记者镜头下的中国”摄影展19日在尼首都加德满都杜巴广场开展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680717.shtml",
+      "publishedAt": "2026-08-19T22:26:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680718.shtml",
+      "title": "一乌克兰籍嫌疑人涉嫌参与“北溪”爆炸案被捕",
+      "category": "综合",
+      "summary": "中新社柏林8月19日电 (记者 马秀秀)德国联邦检察院19日发布声明说，一名乌克兰籍嫌疑人因涉嫌参与“北溪”天然气管道爆炸事件，当天在克罗地亚被捕。这是“北溪”爆炸案中被捕的第二名嫌疑人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680718.shtml",
+      "publishedAt": "2026-08-19T22:26:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10680726.shtml",
+      "title": "1次观光游“误闯”10余个直播间，游客“非自愿入镜”咋维权？",
+      "category": "综合",
+      "summary": "1次观光游“误闯”10余个直播间，游客“非自愿入镜”咋维权？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680726.shtml",
+      "publishedAt": "2026-08-19T22:25:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680720.shtml",
+      "title": "“看见西藏”故事分享会在尼泊尔举行",
+      "category": "综合",
+      "summary": "中新社加德满都8月19日电 (记者 崔楠)“看见西藏”故事分享会19日在尼泊尔首都加德满都举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680720.shtml",
+      "publishedAt": "2026-08-19T22:21:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10680725.shtml",
+      "title": "我国火箭陆地回收如何实现",
+      "category": "综合",
+      "summary": "本报北京8月19日电 (记者刘诗瑶)19日7时35分，朱雀三号重复使用遥二运载火箭在东风商业航天创新试验区发射升空。起飞后，火箭一二级分离，二子级继续飞行，将“鸿鹄03星”准确送入预定轨道。7时41分，火箭一子级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪，飞行试验任务取得圆满成功。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10680725.shtml",
+      "publishedAt": "2026-08-19T22:19:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10680724.shtml",
+      "title": "网约车司机下车后猝死，保险“只保行驶中”？法官：劳动者的保障应覆盖整个工作过程",
+      "category": "综合",
+      "summary": "网约车司机下车后猝死，保险“只保行驶中”？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680724.shtml",
+      "publishedAt": "2026-08-19T22:17:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680719.shtml",
+      "title": "巴西南部巴拉那州两车相撞致23死5伤",
+      "category": "综合",
+      "summary": "中新社圣保罗8月19日电 据巴媒报道，巴西南部巴拉那州19日发生一起严重交通事故，已造成23人死亡、5人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680719.shtml",
+      "publishedAt": "2026-08-19T22:13:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10680723.shtml",
+      "title": "手机充电为什么越来越快",
+      "category": "综合",
+      "summary": "手机充电为什么越来越快(身边的创新)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680723.shtml",
+      "publishedAt": "2026-08-19T22:12:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680721.shtml",
+      "title": "特朗普提名奥弗顿出任美国食品和药物管理局局长",
+      "category": "综合",
+      "summary": "中新社华盛顿8月19日电 (记者 沙晗汀)美国总统特朗普当地时间19日提名白宫助理奥弗顿(Heidi Overton)出任美国食品和药物管理局(FDA)局长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680721.shtml",
+      "publishedAt": "2026-08-19T22:08:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680716.shtml",
+      "title": "英国刘易斯列车脱轨事故调查：轨道存异常",
+      "category": "综合",
+      "summary": "中新社伦敦8月19日电 (记者 欧阳开宇)英国铁路事故调查局19日发布初步调查报告称，本月发生在英格兰刘易斯的列车脱轨事故，事发路段轨道存在几何形态异常，持续极端高温天气或为重要关联因素。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680716.shtml",
+      "publishedAt": "2026-08-19T22:07:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10680715.shtml",
+      "title": "国际市场仍为中国航空货运重要增长点",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 (记者 阮煜琳)记者19日从中国物流与采购联合会航空物流分会获悉，从统计数据来看，2026年7月，国际货运延续增长态势，国内市场整体微降，跨境电商货物需求仍为核心驱动力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680715.shtml",
+      "publishedAt": "2026-08-19T22:06:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680722.shtml",
+      "title": "普京：乌军袭击俄境内目标造成损失但未产生严重后果",
+      "category": "综合",
+      "summary": "中新社莫斯科8月19日电 (记者 田冰)俄罗斯总统普京19日在克里姆林宫主持召开俄战略发展和国家项目委员会会议时表示，俄经济增长总体较为平稳，呈现积极势头。乌军袭击俄境内目标造成损失但未产生严重后果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680722.shtml",
+      "publishedAt": "2026-08-19T22:05:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
@@ -355,240 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680676.shtml",
-      "title": "2026年太原能源低碳发展论坛首设“双主宾” 120多位国外嘉宾将参会",
-      "category": "综合",
-      "summary": "中新网太原8月19日电 (记者 范丽芳)记者19日从山西省人民政府新闻办公室举行的新闻发布会获悉，2026年太原能源低碳发展论坛(简称“太原论坛”)将于9月4日至5日在山西太原举办。今年是太原论坛举办10周年，主题为“双碳引领能源转型 创新加速绿色未来”。截至目前，已有来自28个国家和地区的120多位外宾确认参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680676.shtml",
-      "publishedAt": "2026-08-19T13:58:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680686.shtml",
-      "title": "西藏“十四五”以来累计落实残疾人事业发展资金11.3亿元",
-      "category": "综合",
-      "summary": "中新社拉萨8月19日电 (记者 江飞波)中国残疾人联合会8月19日在拉萨召开全国残联对口援藏工作现场会，记者从会上获悉，“十四五”以来，西藏全区累计落实残疾人事业发展资金11.3亿元(人民币，下同)，接收援藏资金4582.83万元，落地重点援助项目27个，西藏残疾人事业实现了高质量发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680686.shtml",
-      "publishedAt": "2026-08-19T13:58:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680678.shtml",
-      "title": "海口“十五五”构建六大教育体系 推进国际教育优质开放发展",
-      "category": "综合",
-      "summary": "中新网海口8月19日电 (张茜翼 张芷懿)海南自贸港全岛封关运作，海口教育如何同步“升级”？海口市教育局局长赵金玲19日在海南省新闻办公室举办的新闻发布会上表示，“十五五”期间，海口将构建六大类优质教育体系，形成与海南自贸港相适配的现代教育格局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680678.shtml",
-      "publishedAt": "2026-08-19T13:57:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680677.shtml",
-      "title": "2026广东（连山）“七月香”壮家戏水暨非遗民俗系列活动在清远开幕",
-      "category": "综合",
-      "summary": "中新网清远8月19日电 (张璐 唐震)广东省“四季村晚”秋季展示活动之2026广东(连山)“七月香”壮家戏水暨非遗民俗系列活动(简称“活动”)19日在清远开幕。活动现场，各族群众与来自全国各地的游客们手持水盆、水枪戏水狂欢。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680677.shtml",
-      "publishedAt": "2026-08-19T13:57:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680675.shtml",
-      "title": "辽宁营口：力争2030年临港工业产值突破1500亿元",
-      "category": "综合",
-      "summary": "中新网沈阳8月19日电 (王翕瞳)辽宁省政府新闻办19日发布消息称，营口推进高水平对外开放，力争到2030年港口货物吞吐量达到2.85亿吨、集装箱吞吐量达670万标箱。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680675.shtml",
-      "publishedAt": "2026-08-19T13:56:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680673.shtml",
-      "title": "上厅堂下厨房 中国机器人努力成为“生活搭子”",
-      "category": "综合",
-      "summary": "中新社北京8月19日电(记者 陈杭 吕少威 徐婧)2026世界机器人大会19日在北京开幕，多款机器人化身能提供情感陪护、会按摩理疗、可服务办公的“生活搭子”，加速走进千家万户。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680673.shtml",
-      "publishedAt": "2026-08-19T13:56:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680672.shtml",
-      "title": "“爱侣圣地”鸳鸯溪设婚姻登记点 福建屏南打造山水婚恋新场景",
-      "category": "综合",
-      "summary": "中新网宁德8月19日电 (叶茂 陈阿娜)19日，由宁德市屏南县民政和人力资源社会保障局联合宁德市旅发集团有限公司打造的宁德市首个5A级景区婚姻登记点——屏南县鸳鸯溪婚姻登记点正式投入使用，实现婚姻办证、浪漫颁证、景区游览、家风宣教一站式服务，打造闽东山水婚恋新地标。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680672.shtml",
-      "publishedAt": "2026-08-19T13:55:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680682.shtml",
-      "title": "南海热带低压生成 中国气象局启动暴雨四级应急响应",
-      "category": "综合",
-      "summary": "中国气象局启动重大气象灾害(暴雨)四级应急响应！",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680682.shtml",
-      "publishedAt": "2026-08-19T13:55:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680670.shtml",
-      "title": "福建罗源县西洋村：从“卖苗木”到“卖风景”的杜鹃谷",
-      "category": "综合",
-      "summary": "中新网福州8月19日电 (高坤颖 刘其燚)虽未到杜鹃盛花期，但福建省福州市罗源县碧里乡西洋村的四季杜鹃谷内，紫薇花正开得热烈。近日，游客张敏和朋友驱车前来，在花间小径中拍照留念，“怎么拍都很出片”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680670.shtml",
-      "publishedAt": "2026-08-19T13:47:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680669.shtml",
-      "title": "两岸信众福建柘荣共谒马仙",
-      "category": "综合",
-      "summary": "中新社福建宁德8月19日电 (叶茂 潘文书 袁婉萱)首届海峡两岸(柘荣)马仙信俗文化周暨第六届马仙信俗非遗活动19日在福建省宁德市柘荣县举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680669.shtml",
-      "publishedAt": "2026-08-19T13:46:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680668.shtml",
-      "title": "“中国荔乡”广东茂名今年荔枝出口收官",
-      "category": "综合",
-      "summary": "中新社广东茂名8月19日电 (梁盛 赵思懿)记者19日从广东茂名海关获悉，当日，随着最后一批出口鲜荔枝顺利完成海关查验发往美国，今年茂名荔枝出口季圆满收官。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680668.shtml",
-      "publishedAt": "2026-08-19T13:46:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680671.shtml",
-      "title": "刘国中在天津调研时强调 建设优质高效医疗服务体系 更好满足人民群众健康需求",
-      "category": "综合",
-      "summary": "新华社天津8月19日电 中共中央政治局委员、国务院副总理刘国中8月19日在天津调研。他强调，要深入学习贯彻习近平总书记关于健康中国建设的重要论述精神，坚定不移走中国特色卫生与健康发展道路，坚定不移贯彻新时代卫生与健康工作方针，坚持健康优先发展战略，建设优质高效医疗服务体系，推动脑机接口等卫生健康领域新质生产力发展，更好满足人民群众全方位全周期健康需求。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680671.shtml",
-      "publishedAt": "2026-08-19T13:45:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680667.shtml",
-      "title": "南宁加速打造面向东盟AI合作高地 产业集聚效应显现",
-      "category": "综合",
-      "summary": "中新社南宁8月19日电 (记者 黄艳梅)广西南宁市官方19日举行新闻发布会介绍，截至目前，中国—东盟国家人工智能应用合作中心(南A中心)及配套园区累计签约国内人工智能(AI)项目102个，落地外资人工智能企业19家，产业集聚效应逐步显现。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680667.shtml",
-      "publishedAt": "2026-08-19T13:45:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#0",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "category": "国际",
@@ -606,8 +606,80 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142659",
+      "title": "苏丹：战事和洪灾加剧，20万人新近流离失所",
+      "category": "国际",
+      "summary": "国际移民组织周三表示，尽管有大量民众返回喀土穆，但随着冲突升级和破坏性季节性洪灾加剧，苏丹正面临日益加剧的流离失所和人道主义压力。全球供应链延误，尤其是经由红海和霍尔木兹海峡的运输延误，进一步阻碍了人道主义援助的通行。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142659",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142658",
+      "title": "人权高专办：以色列政府部长最新言论已逾越人性底线",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员办事处周三表示，以色列国家安全部长本-格维尔最近发表的言论，鼓吹并煽动暴力，其性质已构成暴行罪，再次表明以色列政府高级官员对国际人道法、国际人权法以及基本人道准则的极度蔑视。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142658",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142657",
+      "title": "古特雷斯：确保世界各地人道主义工作者得到保护、支持并永远被铭记",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周三在联合国巴格达总部遭炸弹袭击23周年纪念仪式上发表讲话，缅怀在2003年巴格达联合国总部爆炸事件中遇难的22名联合国工作人员，以及众多伤者、遇难者家属和亲人，并向所有在那一天生活从此改变的人们表达缅怀。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142657",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142656",
+      "title": "国际刑事法院强烈反对美国新的制裁指令",
+      "category": "国际",
+      "summary": "国际刑事法院周三发表声明，对美国政府宣布对该院院长赤根智子法官（日本）以及检察官办公室高级审判律师塞耶（塞内加尔）实施新的制裁指定表示强烈谴责。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142656",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142655",
-      "title": "伊线 | 她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
+      "title": "世界人道主义日 | 【特写】伊线：她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
       "category": "国际",
       "summary": "8月19日世界人道主义日，《联合国新闻》推出人物纪录片系列《伊线》，记录扎根深野一线的女性联合国职员。第一期走近联合国难民署刚果（金）布尼亚驻地办公室助理外勤官袁希程。",
       "source": "联合国新闻",
@@ -1594,42 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142626",
-      "title": "安理会：联合国警告也门重陷大规模冲突风险加剧 人道主义危机持续恶化",
-      "category": "国际",
-      "summary": "联合国也门问题特使格伦德贝里周四在安理会发出警告说，也门目前面临2022年停火协议以来最严重的重陷大规模冲突风险，前线军事活动加剧以及地区紧张局势可能进一步将也门卷入更广泛的地区对抗。他呼吁各方立即缓和局势、恢复停火、停止针对航运的袭击和跨境袭击，并重启由也门人主导的政治进程。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142626",
-      "publishedAt": "2026-08-13T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142625",
-      "title": "人权高专办：定居者对被占约旦河西岸巴勒斯坦人围困必须停止",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员办事处周四呼吁以色列当局，帮助那些因定居者日益加剧的攫取土地行动而被困在家中数日的被占领土约旦河西岸的巴勒斯坦家庭。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142625",
-      "publishedAt": "2026-08-13T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#5",
       "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
       "category": "国际",
@@ -1660,42 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142623",
-      "title": "霍乱在西非和中非地区跨境蔓延",
-      "category": "国际",
-      "summary": "联合国儿童基金会表示，霍乱正在西非和中非地区迅速蔓延，目前已有六个国家出现活跃疫情，数百万儿童面临日益加剧的风险。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142623",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142622",
-      "title": "世卫组织总干事对特朗普政府关于疫苗的行政命令表示担忧",
-      "category": "国际",
-      "summary": "针对白宫关于全面调整推荐免疫接种时间表的新指令，世界卫生组织总干事周三重申了儿童疫苗的安全性。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142622",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
