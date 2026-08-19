@@ -5,18 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#0",
+      "title": "專門減肥藥能否提升運動員表現？",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T00:07:17.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#0",
+      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
+      "meta": "BBC 中文 · 2026/8/18",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T23:53:38.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#0",
-      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T18:00:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98069d07x2o/trad#0",
-      "title": "Z世代為何要用抗焦慮藥物取代酒精？從一位中國女孩講起",
-      "meta": "BBC 中文 · 2026/8/18",
-      "url": "https://www.bbc.com/zhongwen/articles/c98069d07x2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T10:51:28.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad#1",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-08-18T00:06:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#1",
       "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T08:02:15.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad#1",
-      "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
-      "meta": "BBC 中文 · 2026/8/17",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T02:56:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T22:41:32.475Z",
+  "updatedAt": "2026-08-19T01:53:23.226Z",
   "provider": "OneBench 公共资讯快照"
 }
