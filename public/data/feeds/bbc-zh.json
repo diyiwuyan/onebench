@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#0",
+      "title": "中國動畫電影《牛來》爆紅背後：為爛片還是真誠買單",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T10:33:54.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
       "meta": "BBC 中文 · 2026/8/19",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T09:43:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad#0",
-      "title": "「爛到爆紅」的動畫電影成為中國票房黑馬",
-      "meta": "BBC 中文 · 2026/8/17",
-      "url": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T09:40:26.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T08:54:43.509Z",
+  "updatedAt": "2026-08-19T10:46:14.024Z",
   "provider": "OneBench 公共资讯快照"
 }
