@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T14:53:04.027Z",
-  "expiresAt": "2026-08-19T20:53:04.027Z",
+  "generatedAt": "2026-08-19T16:46:53.834Z",
+  "expiresAt": "2026-08-19T22:46:53.834Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
+      "title": "特朗普称可能在“某个时候”恢复与伊朗的谈判",
+      "category": "综合",
+      "summary": "美国总统特朗普19日接受媒体采访时表示，可能在“某个时候”恢复与伊朗的谈判，但伊朗必须彻底放弃核武器。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
+      "publishedAt": "2026-08-19T15:59:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680710.shtml",
+      "title": "（台湾写真）一个七夕两样情：雨中拜月老，古礼贺成年",
+      "category": "综合",
+      "summary": "中新社台北8月19日电 题：一个七夕两样情：雨中拜月老，古礼贺成年",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680710.shtml",
+      "publishedAt": "2026-08-19T15:51:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
+      "title": "业内人士：AI时代，内容体系将进一步扩展",
+      "category": "综合",
+      "summary": "中新网北京8月19日电(梁小燕)AI不仅是提效工具，还在改变着内容与用户的关系。网易传媒副总裁李淼日前接受采访时表示，进入AI时代，内容体系将进一步扩展。内容创作的形式不再局限于图文和视频，还可能延伸至游戏、剧集或微电影等领域。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
+      "publishedAt": "2026-08-19T15:46:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10680699.shtml",
+      "title": "专家：科学减重要关注腰围，告别“唯体重论”",
+      "category": "综合",
+      "summary": "中新网北京8月19日电(记者 赵方园)“减重并非只看数字，健康的腰围和代谢指标才是关键。”8月18日，由信达生物和京东健康共同支持的“和奥运冠军一起健康体重管理”主题公益科普活动在京举行。奥运冠军巩立姣呼吁大家走出减重误区，关注体重的同时也要重视腰围和脂肪肝等代谢疾病指标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680699.shtml",
+      "publishedAt": "2026-08-19T15:40:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680701.shtml",
+      "title": "王毅同韩国外长赵显会谈",
+      "category": "综合",
+      "summary": "新华社首尔8月19日电(记者张粲)中共中央政治局委员、外交部长王毅19日在首尔同韩国外长赵显举行会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680701.shtml",
+      "publishedAt": "2026-08-19T15:17:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680697.shtml",
       "title": "从拼融资到比落地，具身智能面临数据“大考”",
@@ -499,96 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680653.shtml",
-      "title": "四川成都：年轻人青睐“文物修复体验”",
-      "category": "综合",
-      "summary": "图为文物修复师（左）给体验者讲解瓷器的修复技巧。中新社记者 王磊 摄 图为一位体验者制作修复模具。中新社记者 王磊 摄 图为文物修复师（左一）给体验者讲解瓷器的修复过程。中新社记者 王磊 摄 图为一位体验者清理瓷器。中新社记者 王磊 摄 图为文物修复师（右）给体验者讲解瓷器的修复方法。中新社记者 王磊 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680653.shtml",
-      "publishedAt": "2026-08-19T13:42:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201578.shtml",
-      "title": "北京：市民游客欣赏露天音乐会度七夕",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201578.shtml",
-      "publishedAt": "2026-08-19T13:40:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201573.shtml",
-      "title": "湖南新化上演七夕“晒书”雅集",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201573.shtml",
-      "publishedAt": "2026-08-19T13:33:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680663.shtml",
-      "title": "跨越时空的《英歌》于北京城再掀热潮",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 题：跨越时空的《英歌》于北京城再掀热潮",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680663.shtml",
-      "publishedAt": "2026-08-19T13:32:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680662.shtml",
-      "title": "上海欲推进6G商用 构建国际数据加工枢纽",
-      "category": "综合",
-      "summary": "中新社上海8月19日电 (范宇斌)上海市人民政府办公厅19日发布《上海市“数字上海”建设“十五五”规划》。规划提出，“十五五”时期，上海将推进第六代移动通信技术(6G)试验网实现智能协同并部署商用。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680662.shtml",
-      "publishedAt": "2026-08-19T13:32:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#0",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "category": "国际",
@@ -602,6 +602,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142655",
+      "title": "伊线 | 她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
+      "category": "国际",
+      "summary": "8月19日世界人道主义日，《联合国新闻》推出人物纪录片系列《伊线》，记录扎根深野一线的女性联合国职员。第一期走近联合国难民署刚果（金）布尼亚驻地办公室助理外勤官袁希程。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142655",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1671,24 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142622",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142605",
-      "title": "【专题报道】“乒乓外交”续写友谊新篇——访联合国乒乓球俱乐部主席黄武耀及其队友",
-      "category": "国际",
-      "summary": "午休时分，纽约联合国总部大厦位于地下二层的乒乓球俱乐部活动室里，清脆的击球声不绝于耳。来自不同国家的工作人员和外交官在紧张繁忙工作之余，以球会友，享受着运动带来的快乐。 成立于20世纪50年代的联合国乒乓球俱乐部，最初只是为工作人员提供休闲健身的兴趣社团。经过数十年发展，它逐渐成为联合国内部一个独特的跨文化交流平台。不同国籍、不同岗位、不同文化背景的人们，因",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142605",
       "publishedAt": "2026-08-12T12:00:00.000Z",
       "tags": [
         "国际",
