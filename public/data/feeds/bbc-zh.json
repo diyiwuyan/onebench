@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:55:34.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#0",
       "title": "台灣為何此刻提出「鞭刑入法」公投？",
       "meta": "BBC 中文 · 2026/8/20",
@@ -40,13 +47,6 @@
       "publishedAt": "2026-08-20T00:07:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#1",
-      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
-      "meta": "BBC 中文 · 2026/8/19",
-      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:50:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#1",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "meta": "BBC 中文 · 2026/8/19",
@@ -54,7 +54,7 @@
       "publishedAt": "2026-08-19T12:47:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#1",
       "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
       "meta": "BBC 中文 · 2026/8/19",
       "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T20:46:26.104Z",
+  "updatedAt": "2026-08-20T22:45:17.259Z",
   "provider": "OneBench 公共资讯快照"
 }

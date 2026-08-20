@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T20:46:26.104Z",
-  "expiresAt": "2026-08-21T02:46:26.104Z",
+  "generatedAt": "2026-08-20T22:45:17.259Z",
+  "expiresAt": "2026-08-21T04:45:17.259Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,131 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml",
+      "title": "吉尔吉斯斯坦欢迎中方对吉公民实施过境免签政策",
+      "category": "综合",
+      "summary": "中新社阿斯塔纳8月20日电 比什凯克消息：吉尔吉斯斯坦总统办公厅20日发文表示，吉方欢迎中方将吉尔吉斯斯坦纳入240小时过境免签和海南30天入境免签政策适用国家范围。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml",
+      "publishedAt": "2026-08-20T22:40:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml",
+      "title": "泰国政府官员中文学习班赴华学习",
+      "category": "综合",
+      "summary": "中新社曼谷8月20日电 (记者 李映民)当地时间20日晚，中国驻泰国大使馆举办仪式欢送第22届泰国政府官员中文学习班69名学员赴中国华侨大学学习。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml",
+      "publishedAt": "2026-08-20T22:39:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml",
+      "title": "今年上半年中国继续保持德国最大贸易伙伴",
+      "category": "综合",
+      "summary": "中新社柏林8月20日电 (记者 马秀秀)德国联邦统计局20日公布的数据显示，2026年上半年，中国继续保持德国最大贸易伙伴地位，双边贸易额达到1255亿欧元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml",
+      "publishedAt": "2026-08-20T22:38:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681387.shtml",
+      "title": "暑期兼职外卖骑手的保障短板如何补齐？",
+      "category": "综合",
+      "summary": "中介收费乱象丛生，短期跑单拉高从业成本，新手易陷“水土不服”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681387.shtml",
+      "publishedAt": "2026-08-20T22:35:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681386.shtml",
+      "title": "特朗普宣布对伊朗实施“毁灭性经济行动”",
+      "category": "综合",
+      "summary": "由于与伊朗的谈判陷入停滞，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。20日，伊朗外长阿拉格齐在社交媒体表示，美国对伊朗的所谓经济打击，是在已然失败的策略上加码，只会带来“进一步的失败”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681386.shtml",
+      "publishedAt": "2026-08-20T22:33:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml",
+      "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+      "category": "综合",
+      "summary": "开学临近",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml",
+      "publishedAt": "2026-08-20T22:28:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "category": "国际",
+      "summary": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:55:34.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
       "title": "特朗普称白宫立法事务主任布雷德将离职",
@@ -464,114 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
-      "title": "华裔青少年在天津沉浸式体验侨批文化",
-      "category": "综合",
-      "summary": "中新社天津8月20日电 (记者 孙玲玲)“看着一页页泛黄信纸，我真切读懂了汉字背后沉甸甸的情感。”参观完“纸短情长——《给阿嬷的情书》观后展”，来自德国的14岁华裔青少年傅筱乐接受中新社记者采访时如是说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
-      "publishedAt": "2026-08-20T13:51:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
-      "title": "还原“平常人”孔繁森",
-      "category": "综合",
-      "summary": "中新网北京8月20日电 题：还原“平常人”孔繁森",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
-      "publishedAt": "2026-08-20T13:50:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
-      "title": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
-      "category": "综合",
-      "summary": "中新网南宁8月20日电(黄艳梅 杨樯)记者20日从广西壮族自治区人力资源和社会保障厅获悉，广西壮族自治区第四届职业技能大赛(以下简称“大赛”)将于今年11月在南宁市举行，这是广西层级最高、覆盖领域最广的综合性职业技能赛事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
-      "publishedAt": "2026-08-20T13:50:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
-      "title": "浙江横店：短剧热度延伸至线下 游客走进片场“当主角”",
-      "category": "综合",
-      "summary": "中新网金华8月20日电 (刘子琳)换上戏服、走进片场、面对镜头“当主角”……正值暑期，在浙江东阳横店影视城，不少游客把“拍一部短剧”加入旅行行程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
-      "publishedAt": "2026-08-20T13:50:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
-      "title": "世界青年花样滑冰大奖赛西安站开赛 百余选手聚古都",
-      "category": "综合",
-      "summary": "中新社西安8月20日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站20日正式开赛，来自30余个国家和地区的百余名青年花滑选手齐聚古城西安。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
-      "publishedAt": "2026-08-20T13:49:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
-      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
-      "category": "综合",
-      "summary": "中新网重庆8月20日电(肖江川 王佳杰)20日，2026重庆武隆“白马山杯”东南亚围棋邀请赛在武隆白马山古力围棋学苑开幕。来自中国、老挝、马来西亚、新加坡、泰国、越南六国的围棋高手齐聚云雾缭绕的白马山巅，以棋为媒、以艺会友，展开一场跨越国界的智力对决。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
-      "publishedAt": "2026-08-20T13:49:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/113650",
       "title": "新玩意 249｜少数派的编辑们最近买了啥？",
       "category": "科技",
@@ -729,23 +746,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#1",
-      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
-      "category": "国际",
-      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:50:11.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#1",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "category": "国际",
@@ -889,7 +889,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#1",
       "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
       "category": "国际",
       "summary": "一部因製作粗糙而被網友嘲笑的中國動畫《牛來》，意外在社交網絡走紅並掀起觀影熱潮，觀眾為何從「玩梗」轉而買票支持？",
