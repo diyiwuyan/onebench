@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T16:50:45.355Z",
-  "expiresAt": "2026-08-20T22:50:45.355Z",
+  "generatedAt": "2026-08-20T18:59:11.767Z",
+  "expiresAt": "2026-08-21T00:59:11.767Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "title": "特朗普称白宫立法事务主任布雷德将离职",
+      "category": "综合",
+      "summary": "美国总统特朗普20日在社交媒体发文，宣布白宫立法事务主任詹姆斯·布雷德将于9月离职。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "publishedAt": "2026-08-20T16:52:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "title": "德国今年4月以来约有1.4万人因高温相关因素死亡",
+      "category": "综合",
+      "summary": "中新社柏林8月20日电 (记者 马秀秀)德国罗伯特·科赫研究所(RKI)20日发布的最新报告显示，今年4月6日至8月9日期间，德国约有1.4万人因高温相关因素死亡，相当于每10万人中约有17人因此死亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "publishedAt": "2026-08-20T16:51:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681382.shtml",
+      "title": "餐饮黄牛高价倒卖排号是否涉嫌违法？律师解读来了",
+      "category": "综合",
+      "summary": "出门吃饭，遇到特别火爆的网红餐厅，您会选择默默排队几小时，还是无奈找“黄牛”加钱买“号”？如今，餐饮“黄牛”已经把免费的餐饮号变成了付费的商品，把等待变成了一门生意。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681382.shtml",
+      "publishedAt": "2026-08-20T16:49:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10681380.shtml",
       "title": "歌剧《卡门》中文版厦门上演 97岁指挥家郑小瑛执棒",
@@ -508,60 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
       "publishedAt": "2026-08-20T13:49:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "title": "武警青海某支队开展“萌娃进军营”夏令营活动",
-      "category": "综合",
-      "summary": "中新网西宁8月20日电(祁增蓓)8月20日，武警青海总队某支队组织“萌娃进军营”主题夏令营活动。二十多名少年儿童走进高原军营，近距离接触军旅生活、学习国防知识，在沉浸式体验中解锁别样暑假。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "publishedAt": "2026-08-20T13:48:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "title": "赵乐际同萨尔瓦多立法大会主席卡斯特罗举行会谈",
-      "category": "综合",
-      "summary": "中新社北京8月20日电 全国人大常委会委员长赵乐际20日在北京人民大会堂同萨尔瓦多立法大会主席卡斯特罗举行会谈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "publishedAt": "2026-08-20T13:48:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
-      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
-      "category": "综合",
-      "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
-      "publishedAt": "2026-08-20T13:47:53.000Z",
       "tags": [
         "国内",
         "社会",
