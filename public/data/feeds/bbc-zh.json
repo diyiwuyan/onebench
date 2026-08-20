@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#0",
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T08:57:23.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad#0",
       "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
       "meta": "BBC 中文 · 2026/8/20",
@@ -17,13 +24,6 @@
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T06:43:47.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#0",
-      "title": "台灣為何此刻提出「鞭刑入法」公投？",
-      "meta": "BBC 中文 · 2026/8/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T04:00:32.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T08:56:40.795Z",
+  "updatedAt": "2026-08-20T10:47:18.712Z",
   "provider": "OneBench 公共资讯快照"
 }
