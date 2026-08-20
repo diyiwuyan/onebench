@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#0",
+      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T00:07:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#1",
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
       "meta": "BBC 中文 · 2026/8/19",
       "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
@@ -87,13 +94,6 @@
       "meta": "BBC 中文 · 2026/8/17",
       "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T09:43:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad#1",
-      "title": "韓國疏遠伊朗戰事 特朗普稱將縮減聯合軍演規模",
-      "meta": "BBC 中文 · 2026/8/17",
-      "url": "https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T08:02:15.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T22:41:32.887Z",
+  "updatedAt": "2026-08-20T01:51:36.606Z",
   "provider": "OneBench 公共资讯快照"
 }

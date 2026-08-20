@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142660",
+      "title": "赞比亚：大选后政治对手遭逮捕和拘留引发担忧",
+      "meta": "联合国新闻 · 2026/8/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142660",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142659",
       "title": "苏丹：战事和洪灾加剧，20万人新近流离失所",
       "meta": "联合国新闻 · 2026/8/19",
@@ -41,7 +48,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142646",
-      "title": "【专题报道】300公斤牛仔布的第二次生命——青年如何重新思考零废物",
+      "title": "【专题报道】300公斤牛仔布的第二次生命——重新思考零废物",
       "meta": "联合国新闻 · 2026/8/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142646",
       "publishedAt": "2026-08-19T12:00:00.000Z"
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142628",
       "publishedAt": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142627",
-      "title": "难民署呼吁国际社会支持叙利亚返乡与重建",
-      "meta": "联合国新闻 · 2026/8/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142627",
-      "publishedAt": "2026-08-13T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T22:41:32.887Z",
+  "updatedAt": "2026-08-20T01:51:36.606Z",
   "provider": "OneBench 公共资讯快照"
 }
