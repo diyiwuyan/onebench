@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad#0",
+      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T08:36:06.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#0",
       "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
       "meta": "BBC 中文 · 2026/8/20",
@@ -19,7 +26,7 @@
       "publishedAt": "2026-08-20T04:00:32.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#1",
       "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
@@ -52,13 +59,6 @@
       "meta": "BBC 中文 · 2026/8/19",
       "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T10:33:54.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#1",
-      "title": "專門減肥藥能否提升運動員表現？",
-      "meta": "BBC 中文 · 2026/8/19",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T00:07:17.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T07:06:07.196Z",
+  "updatedAt": "2026-08-20T08:56:40.795Z",
   "provider": "OneBench 公共资讯快照"
 }
