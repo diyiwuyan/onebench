@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#0",
+      "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
+      "meta": "BBC 中文 · 2026/8/21",
+      "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T09:40:09.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#0",
       "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
       "meta": "BBC 中文 · 2026/8/21",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-21T08:21:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#1",
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
@@ -75,7 +82,7 @@
       "publishedAt": "2026-08-20T00:07:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#4",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "meta": "BBC 中文 · 2026/8/19",
       "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T00:15:00.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#4",
-      "title": "日本企業應用人工智慧為何如此緩慢？",
-      "meta": "BBC 中文 · 2026/8/18",
-      "url": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T00:06:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T08:58:34.384Z",
+  "updatedAt": "2026-08-21T10:47:19.187Z",
   "provider": "OneBench 公共资讯快照"
 }
