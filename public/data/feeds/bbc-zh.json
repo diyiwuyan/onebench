@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#0",
+      "title": "香港支聯會煽動顛覆案 高等法院裁定有罪",
+      "meta": "BBC 中文 · 2026/8/21",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T02:13:03.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#0",
       "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
       "meta": "BBC 中文 · 2026/8/21",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-08-20T08:36:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#1",
       "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
@@ -89,7 +96,7 @@
       "publishedAt": "2026-08-18T00:15:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#4",
       "title": "日本企業應用人工智慧為何如此緩慢？",
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
@@ -129,13 +136,6 @@
       "meta": "BBC 中文 · 2026/8/16",
       "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T10:44:03.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#4",
-      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
-      "meta": "BBC 中文 · 2026/8/16",
-      "url": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T03:50:04.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T01:57:30.254Z",
+  "updatedAt": "2026-08-21T03:16:01.021Z",
   "provider": "OneBench 公共资讯快照"
 }
