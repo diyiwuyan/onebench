@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T20:41:21.965Z",
-  "expiresAt": "2026-08-22T02:41:21.965Z",
+  "generatedAt": "2026-08-21T22:41:47.194Z",
+  "expiresAt": "2026-08-22T04:41:47.194Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682138.shtml",
+      "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
+      "category": "综合",
+      "summary": "当地时间8月21日，美国总统特朗普在马里兰州安德鲁斯联合基地表示，他认为伊朗尚未准备好达成“合适的协议”，华盛顿方面正在观察冲突中“事态的发展”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682138.shtml",
+      "publishedAt": "2026-08-21T22:36:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682137.shtml",
       "title": "越南青年赴广西研学 感知中国科创活力",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682096.shtml",
       "publishedAt": "2026-08-21T13:55:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10682105.shtml",
-      "title": "大型舞剧《武道》首次走出香港开启内地巡演",
-      "category": "综合",
-      "summary": "中新网上海8月21日电(记者 缪璐)大型舞剧“《武道》——李小龙的有法与无限”上海站演出21日举行，由此正式拉开其内地巡演序幕。此次演出获香港特别行政区政府驻上海经济贸易办事处(以下简称“香港驻沪办”)支持，是香港舞蹈团携该剧目首次走出香港、亮相内地舞台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682105.shtml",
-      "publishedAt": "2026-08-21T13:55:06.000Z",
       "tags": [
         "国内",
         "社会",
