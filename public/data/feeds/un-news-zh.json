@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142667",
+      "title": "救援人员警告：刚果（金）埃博拉疫情呈指数级蔓延",
+      "meta": "联合国新闻 · 2026/8/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142667",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142551",
       "title": "【子午播报】2026年8月21日",
       "meta": "联合国新闻 · 2026/8/21",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/14",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142635",
       "publishedAt": "2026-08-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142634",
-      "title": "世卫组织：过去八年全球发生超过1万起医疗卫生领域袭击事件",
-      "meta": "联合国新闻 · 2026/8/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142634",
-      "publishedAt": "2026-08-14T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T14:53:49.057Z",
+  "updatedAt": "2026-08-21T16:51:16.413Z",
   "provider": "OneBench 公共资讯快照"
 }
