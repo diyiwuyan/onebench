@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142668",
+      "title": "索马里儿童危机加剧，205家卫生和营养机构关闭",
+      "meta": "联合国新闻 · 2026/8/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142668",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142667",
       "title": "救援人员警告：刚果（金）埃博拉疫情呈指数级蔓延",
       "meta": "联合国新闻 · 2026/8/21",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/14",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142636",
       "publishedAt": "2026-08-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142635",
-      "title": "儿基会：自2021年以来阿富汗超过260万名女童无缘中等教育",
-      "meta": "联合国新闻 · 2026/8/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142635",
-      "publishedAt": "2026-08-14T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T18:55:56.157Z",
+  "updatedAt": "2026-08-21T20:41:21.965Z",
   "provider": "OneBench 公共资讯快照"
 }

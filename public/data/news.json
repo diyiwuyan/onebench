@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T18:55:56.157Z",
-  "expiresAt": "2026-08-22T00:55:56.157Z",
+  "generatedAt": "2026-08-21T20:41:21.965Z",
+  "expiresAt": "2026-08-22T02:41:21.965Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -636,6 +636,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142668",
+      "title": "索马里儿童危机加剧，205家卫生和营养机构关闭",
+      "category": "国际",
+      "summary": "联合国儿童基金会周五表示，援助削减正导致索马里卫生和营养机构关闭，饮用水、教育和儿童保护服务也受到影响。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142668",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1637,24 +1655,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142636",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142635",
-      "title": "儿基会：自2021年以来阿富汗超过260万名女童无缘中等教育",
-      "category": "国际",
-      "summary": "联合国儿童基金会周五表示，自事实上的当局掌权以来的五年间，阿富汗已有超过260万名女童被剥夺了接受中等教育的机会。阿富汗仍是世界上唯一一个女童和妇女实际上无法接受中等及高等教育的国家。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142635",
       "publishedAt": "2026-08-14T12:00:00.000Z",
       "tags": [
         "国际",
