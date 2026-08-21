@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#0",
+      "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
+      "meta": "BBC 中文 · 2026/8/21",
+      "url": "https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T00:04:00.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
       "meta": "BBC 中文 · 2026/8/20",
@@ -12,7 +19,7 @@
       "publishedAt": "2026-08-20T20:55:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#1",
       "title": "台灣為何此刻提出「鞭刑入法」公投？",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
@@ -89,7 +96,7 @@
       "publishedAt": "2026-08-18T00:06:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#5",
       "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-08-12T15:24:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#5",
-      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
-      "meta": "BBC 中文 · 2026/8/12",
-      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T08:31:43.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad#2",
       "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
       "meta": "BBC 中文 · 2026/8/11",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T22:45:17.259Z",
+  "updatedAt": "2026-08-21T01:57:30.254Z",
   "provider": "OneBench 公共资讯快照"
 }
