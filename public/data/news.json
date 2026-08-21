@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T16:51:16.413Z",
-  "expiresAt": "2026-08-21T22:51:16.413Z",
+  "generatedAt": "2026-08-21T18:55:56.157Z",
+  "expiresAt": "2026-08-22T00:55:56.157Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682137.shtml",
+      "title": "越南青年赴广西研学 感知中国科创活力",
+      "category": "综合",
+      "summary": "【东盟专线】越南青年赴广西研学 感知中国科创活力",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682137.shtml",
+      "publishedAt": "2026-08-21T17:25:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682131.shtml",
+      "title": "今年7月欧盟油价同比增长16.9%",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔8月21日电 (记者 德永健)欧盟统计局21日公布的数据显示，今年7月欧盟油价继续上涨，燃油和润滑油价格同比增长16.9%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682131.shtml",
+      "publishedAt": "2026-08-21T17:23:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
+      "title": "伊朗外长：美国对伊经济施压行动“注定失败”",
+      "category": "综合",
+      "summary": "当地时间21日晚，伊朗外交部长阿拉格齐在社交媒体发文称，美国历届政府针对伊朗采取的制裁和施压政策均以失败告终，美国最新宣布的对伊经济施压行动同样“注定失败”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
+      "publishedAt": "2026-08-21T17:22:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682135.shtml",
+      "title": "网传飞机“散云止雨”加重内蒙古旱情？真相来了",
+      "category": "综合",
+      "summary": "近期，多条有关内蒙古牧区的短视频在网络热传，视频声称：内蒙古牧区原本预报有雨，但是飞机升空飞行几圈后，云层直接消散，本该落下的雨水凭空消失，因此认为飞机是在刻意驱散降雨，加重当地旱情。由于视频搭配AI画面呈现出了飞机“吞云驱雨”的场景，不少人信以为真，引发网友担忧。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682135.shtml",
+      "publishedAt": "2026-08-21T17:20:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682134.shtml",
+      "title": "日本新财年预算申请额或超130万亿日元",
+      "category": "综合",
+      "summary": "据日本方面21日消息，日本政府部门和机构2027财年(2027年4月至2028年3月)预算申请总额预计将超过130万亿日元(1美元约合159日元)，相比本财年的122万亿日元显著增加。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682134.shtml",
+      "publishedAt": "2026-08-21T17:11:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682130.shtml",
+      "title": "羽毛球世锦赛：中国队五对双打组合晋级四强",
+      "category": "综合",
+      "summary": "中新社北京8月21日电 在印度新德里当地时间21日进行的2026年世界羽毛球锦标赛双打1/4决赛中，冯彦哲/黄东萍、刘圣书/谭宁、梁伟铿/王昶等五对中国组合分别战胜各自对手，晋级各单项四强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682130.shtml",
+      "publishedAt": "2026-08-21T17:10:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682133.shtml",
+      "title": "国际足联就世界杯期间多起事件对阿根廷足协作出处罚",
+      "category": "综合",
+      "summary": "当地时间21日，国际足联纪律委员会发表声明称，根据相关调查报告，就2026年世界杯期间发生的多起事件作出处罚。国际足联纪律委员会对阿根廷足协处以总计32.1万美元的罚款，并对其接下来两场主场比赛实施50%的入场人数限制。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682133.shtml",
+      "publishedAt": "2026-08-21T17:09:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682132.shtml",
+      "title": "今年第18、19号台风同时活跃 会怎样影响我国？",
+      "category": "综合",
+      "summary": "目前，西太平洋上有多个热带系统正在活跃，其中北部湾热带低压在今天下午已经加强为今年第19号台风，同时，台湾东侧热带扰动活跃，这两个热带系统离我们较近，今年第18号台风“沙德尔”较远，但强度较强。台风“沙德尔”如何发展？会登陆我国吗？多个热带系统同时活跃，会怎样相互影响？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682132.shtml",
+      "publishedAt": "2026-08-21T17:08:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10682129.shtml",
       "title": "中国印尼外长防长“2+2”对话机制举行第二次部长级会议",
@@ -428,114 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10682095.shtml",
-      "title": "多国艺术家张家界共赴新杂技之约",
-      "category": "综合",
-      "summary": "中新社湖南张家界8月21日电 (记者 邓霞)2026张家界新杂技戏剧周21日拉开帷幕，来自11个国家和地区的19个优秀剧组将在张家界的奇峰秀水间上演超百场新杂技秀，开启一场山水与艺术共生、传统与新潮交融的文旅艺术盛会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682095.shtml",
-      "publishedAt": "2026-08-21T13:54:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10682100.shtml",
-      "title": "大陆产业升级释放新机遇 两岸专家吁深化合作",
-      "category": "综合",
-      "summary": "中新网武汉8月21日电 (记者 张晓曦 马芙蓉)2026年两岸关系研讨会20日至21日在武汉举办。多位专家指出，大陆超大规模市场、完整产业体系和科技创新优势持续释放，为台胞台企参与大陆发展、深化两岸产业合作带来新机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682100.shtml",
-      "publishedAt": "2026-08-21T13:54:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10682094.shtml",
-      "title": "鄂维南院士：科学智能进入“下半场” 未来需推动科研平权化",
-      "category": "综合",
-      "summary": "中新社北京8月21日电 (记者 孙自法)中国科学院院士、北京大学数学科学学院讲席教授鄂维南21日指出，科学智能(AI for Science，简称AI4S)已进入“下半场”，面向未来，需要推动科研平权化。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682094.shtml",
-      "publishedAt": "2026-08-21T13:54:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-21/10682093.shtml",
-      "title": "中国人民银行将在香港发行300亿元人民币央行票据",
-      "category": "综合",
-      "summary": "中新社香港8月21日电 香港金融管理局(简称“金管局”)21日宣布，中国人民银行将通过金管局的债务工具中央结算系统发行人民币央行票据，分为3个月期和1年期，规模共300亿元人民币。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682093.shtml",
-      "publishedAt": "2026-08-21T13:53:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-21/10682097.shtml",
-      "title": "粤港澳大湾区“菜篮子”产销对接信息平台上线",
-      "category": "综合",
-      "summary": "中新网广州8月21日电 (记者 程景伟)依托第34届广州博览会平台，2026年粤港澳大湾区“菜篮子”产品产销对接活动21日在广州举办。活动现场正式上线“大湾区‘菜篮子’产销对接信息平台”，与会人员扫码即可实时获取对接信息，相当于为供需双方配备了一位“掌上助手”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682097.shtml",
-      "publishedAt": "2026-08-21T13:53:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10682098.shtml",
-      "title": "涉及汽车门把手缺陷 9家车企召回多款汽车",
-      "category": "综合",
-      "summary": "8月21日，市场监管总局发布公告，多家车企因车内应急机械拉手相关问题召回多款汽车，包括小米、特斯拉、零跑、小鹏、吉利、奇瑞、东风汽车、北汽蓝谷、中国一汽等。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682098.shtml",
-      "publishedAt": "2026-08-21T13:52:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#0",
       "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
       "category": "国际",
@@ -566,42 +602,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10682078.shtml",
-      "title": "“铜城”白银“十五五”的“三张牌”",
-      "category": "综合",
-      "summary": "中新网兰州8月21日电 (戴文昌)甘肃省白银市委常委、常务副市长葛永宏21日表示，作为享誉全国的老工业基地，该市“十五五”时期将围绕打造“三地一极”发展格局，以发展新质生产力为引领，重点打好工业“焕新牌”、农业“特色牌”、服务业“提质牌”，以“三牌联打”构建现代化产业体系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682078.shtml",
-      "publishedAt": "2026-08-21T13:36:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10682079.shtml",
-      "title": "古寨欢歌非遗飘香 千年花瑶唱响“讨僚皈”",
-      "category": "综合",
-      "summary": "中新网长沙8月21日电(向一鹏 刘富洪 陈斌)纪念瑶族人民传统节日“讨僚皈”暨“大张家界·云上花瑶”第七届非遗音乐会，21日在“中国花瑶第一村”湖南隆回虎形山瑶族乡崇木凼村举行。来自全国各地的游客齐聚一堂，共同纪念这一延续千年的民族传统佳节，共享一场原汁原味的非遗盛宴。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682079.shtml",
-      "publishedAt": "2026-08-21T13:35:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
