@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682494.shtml",
+      "title": "日本茨城县南部发生5.9级地震 东京震感明显",
+      "meta": "中国新闻网 · 2026/8/22",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682494.shtml",
+      "publishedAt": "2026-08-22T20:30:50.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682493.shtml",
       "title": "普京称俄军加大对乌企业打击",
       "meta": "中国新闻网 · 2026/8/22",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/8/22",
       "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682461.shtml",
       "publishedAt": "2026-08-22T12:50:31.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682455.shtml",
-      "title": "上海推进药学服务转型 搭建交流互鉴、比武练兵平台",
-      "meta": "中国新闻网 · 2026/8/22",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682455.shtml",
-      "publishedAt": "2026-08-22T12:50:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-22T18:48:46.292Z",
+  "updatedAt": "2026-08-22T20:39:39.951Z",
   "provider": "OneBench 公共资讯快照"
 }
