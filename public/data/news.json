@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T10:40:22.942Z",
-  "expiresAt": "2026-08-22T16:40:22.942Z",
+  "generatedAt": "2026-08-22T13:01:00.376Z",
+  "expiresAt": "2026-08-22T19:01:00.376Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,194 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-22/10682389.shtml",
-      "title": "直播：上海队VS阿森纳！明日之星冠军杯（女子组）终局之战",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682466.shtml",
+      "title": "从摩洛哥到郊区乡村 上海援外医生让大爱薪火相传",
+      "category": "综合",
+      "summary": "中新网上海8月22日电 (记者 陈静)22日，“健康小院·援摩洛哥医疗队员奉贤义诊基地”正式启用。上海市卫生健康委当日表示，将全力支持义诊基地建设，把义诊服务纳入援摩洛哥医疗队员出国前培训的必修科目以及队员回国后的常规活动，由上海市医事团体联合管理发展中心统筹安排，让这份大爱薪火相传、生生不息。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682466.shtml",
+      "publishedAt": "2026-08-22T12:56:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682464.shtml",
+      "title": "（粤港澳大湾区）“湾区明珠 双城海上游”新航线开通",
+      "category": "综合",
+      "summary": "中新社广州8月22日电 (记者 程景伟)随着汽笛鸣响，“大湾区伊敦号”游轮22日14时许驶离广州南沙邮轮母港2号码头，标志着“湾区明珠 双城海上游”新航线开通首航。一批乘客经过约4.5小时的海上之旅，最终抵达深圳蛇口邮轮母港。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682464.shtml",
+      "publishedAt": "2026-08-22T12:55:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682457.shtml",
+      "title": "受台风“紫檀”影响 国铁广州局调整部分列车开行方案",
+      "category": "综合",
+      "summary": "中新网广州8月22日电 (郭军 张晓敏 谢潮方)据中央气象台消息，受第19号台风“紫檀”和西南季风共同影响，海南岛、广西南部、广东、福建、台湾岛、浙江等地部分地区有大到暴雨，局地大暴雨到特大暴雨。为确保旅客列车运行安全，国铁广州局动态调整旅客列车开行方案。预计8月23日20时至24日8时，甬广高铁部分列车停运；8月24日8时至25日2时，海南高铁西环段部分列",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682457.shtml",
+      "publishedAt": "2026-08-22T12:52:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682459.shtml",
+      "title": "2026中国社区乒乓球联赛全国首站开赛",
+      "category": "综合",
+      "summary": "中新网株洲8月22日电(朱煦冰)当“国球”遇上“国瓷”，会碰撞出怎样的火花？22日，“国球荣耀·瓷都之约”2026中国社区乒乓球联赛全国首站城市资格赛在湖南醴陵市火热开赛。来自全国各地的350余名乒乓球爱好者齐聚瓷都，共同见证这场集专业竞技、全民健身与文旅融合于一体的体育盛会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682459.shtml",
+      "publishedAt": "2026-08-22T12:51:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682456.shtml",
+      "title": "肺癌全程个案管理实践指南发布 破解“出院就脱管”困境",
+      "category": "综合",
+      "summary": "中新网长沙8月22日电 (付敬懿)中国抗癌协会个案管理专业委员会22日在长沙发布国内首部《整合医学-全程个案管理实践指南(肺癌篇)》。该指南填补了肺癌全程个案管理领域标准化空白，助力肺癌患者获得个性化、高效率、有温度的全周期医疗服务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682456.shtml",
+      "publishedAt": "2026-08-22T12:50:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682460.shtml",
+      "title": "胡昌华百余件书法精品长沙展出 呈现浓郁书卷气",
+      "category": "综合",
+      "summary": "中新网长沙8月22日电 (李国强)8月22日，“江声云气——胡昌华书法作品展”在湖南省文化馆开幕，现场集中呈现了胡昌华多年来的艺术创作与美育深耕成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682460.shtml",
+      "publishedAt": "2026-08-22T12:50:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682461.shtml",
+      "title": "学者蒙曼：湖南沅陵是扣住大西南的“文化纽扣”",
+      "category": "综合",
+      "summary": "中新网怀化8月22日电(记者 邓霞)8月22日，在湖南沅陵龙兴讲寺，中央民族大学教授蒙曼开讲《书通二酉 襟带西南》。五百年前，王阳明便在此大殿第一次向世人系统讲授“致良知”学说，斗转星移，古殿之内，思想与文化的气韵依旧流转。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682461.shtml",
+      "publishedAt": "2026-08-22T12:50:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682455.shtml",
+      "title": "上海推进药学服务转型 搭建交流互鉴、比武练兵平台",
+      "category": "综合",
+      "summary": "中新网上海8月22日电 (记者 陈静)上海一家三甲医院的总药师吕迁洲22日接受记者采访时表示，如今，药师不仅仅在医院的发药窗口，而是走进门诊、病房，直接面向病患。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682455.shtml",
+      "publishedAt": "2026-08-22T12:50:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682458.shtml",
+      "title": "应急管理部针对广西启动国家地质灾害四级应急响应",
+      "category": "综合",
+      "summary": "据气象部门预测，受今年第19号台风“紫檀”、第20号台风“简拉维”的共同影响，8月22日至25日，广西南部部分地区有大到暴雨，其中广西西南部局地大暴雨至特大暴雨。经与自然资源部联合会商研判，广西南部部分地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月22日针对广西启动国家地质灾害四级应急响应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682458.shtml",
+      "publishedAt": "2026-08-22T12:47:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/2026/08-22/news1066214.shtml",
+      "title": "真金白银投向群众所需，这场发布会讲清“投资于人”",
+      "category": "综合",
+      "summary": "8月21日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会。其中，一个关键词很亮眼——“投资于人”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/cj/shipin/2026/08-22/news1066214.shtml",
+      "publishedAt": "2026-08-22T12:40:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201797.shtml",
+      "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议在京举行",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-22/10682389.shtml",
-      "publishedAt": "2026-08-22T10:29:10.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201797.shtml",
+      "publishedAt": "2026-08-22T12:36:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682376.shtml",
-      "title": "402支队伍角逐中国大学生微纳大赛总决赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682449.shtml",
+      "title": "2026科学智能大会在北京成功举办 为全球合作提供“中国方案”",
       "category": "综合",
-      "summary": "中新网烟台8月22日电 (记者 王娇妮 杨兵)22日，2026年中国大学生机械工程创新创意大赛：第七届“明石杯”微纳传感技术与智能应用赛总决赛在山东烟台拉开帷幕。",
+      "summary": "中新网北京8月22日电 (记者 孙自法)作为中国人工智能赋能科学研究(AI for Science，简称AI4S，也称科学智能)领域最高规格的学术盛会，2026科学智能大会8月21日至22日在北京中关村成功举办。通过国际科技合作专题交流研讨，大会为中国深度参与并引领全球科学智能合作提供“中国方案”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682376.shtml",
-      "publishedAt": "2026-08-22T10:28:02.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682449.shtml",
+      "publishedAt": "2026-08-22T12:32:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682377.shtml",
-      "title": "车轮滚滚向北行 绥芬河汽车出口跑出增长加速度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-22/10682448.shtml",
+      "title": "黑龙江省工商联代表团赴港澳考察对接交流",
       "category": "综合",
-      "summary": "中新网绥芬河8月22日电 (史轶夫 田晓慧)盛夏的绥芬河，汽车出口基地内一排排轿车、SUV整齐列阵，前来挑车的俄罗斯客商穿梭其间，看车、试驾、议价签约，一派繁忙景象。22日，绥芬河口岸对外发布，2026年1—7月，绥芬河口岸出口汽车4.69万辆，同比增长119.2%。",
+      "summary": "中新网哈尔滨8月22日电 (韩雪)为对接粤港澳大湾区建设国家战略，服务新时代东北全面振兴，8月20日至21日，黑龙江省委统战部副部长、工商联党组书记夏天率经贸代表团赴香港、澳门开展考察对接。代表团走访7家港澳工商社团，围绕产业协同、经贸互通、平台共建开展务实洽谈，达成多项合作共识。黑龙江省工商联及省内多家重点商会负责人参加活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682377.shtml",
-      "publishedAt": "2026-08-22T10:27:34.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-22/10682448.shtml",
+      "publishedAt": "2026-08-22T12:31:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682380.shtml",
-      "title": "哈尔滨一高校推出“冰版画”文创礼盒 为新生送上别样开学礼",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682447.shtml",
+      "title": "最新研究：晚期肝癌患者先服药再手术或可得无瘤生存的机会",
       "category": "综合",
-      "summary": "中新网哈尔滨8月22日电(刘璐 李子健)松花江的天然冰材，经自主研发的智能拓印版画机一转，冰的肌理与色彩便被瞬间定格。22日，哈尔滨石油学院发布消息，今年开学季，该校为4000余名2026级新生准备了这样一份独具冰雪特色的“冰版画”文创礼盒，每一个都独一无二。",
+      "summary": "中新网上海8月22日电 (记者 陈静)肝细胞癌(以下简称“肝癌”)是严重威胁中国民众健康的一种恶性肿瘤。中国医学专家的一项最新研究结果率先表明，医生对药物系统治疗有效的晚期肝癌患者实施手术切除，可能给患者提供无瘤生存的机会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682380.shtml",
-      "publishedAt": "2026-08-22T10:27:06.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682447.shtml",
+      "publishedAt": "2026-08-22T12:31:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682381.shtml",
-      "title": "从建机房到做服务：绿色算力大会释放内蒙古算力全链条发展信号",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682446.shtml",
+      "title": "AI重塑创业单元 重庆“一人公司”如何叩响“未来之门”",
       "category": "综合",
-      "summary": "中新网呼和浩特8月22日电 题：从建机房到做服务：绿色算力大会释放内蒙古算力全链条发展信号",
+      "summary": "中新网重庆8月22日电(黄维正)七夕氛围刚刚散去，重庆市两江新区海王星数字文创园星运OPC社区里，同声相应(重庆)人工智能科技有限公司这家“一人公司”却一点没闲。他们刚刚赶在七夕来临前，上线了两款小程序，一款做组织活动，一款做婚恋交友，计划在这几天利用校友会资源开启测试与市场投放。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682381.shtml",
-      "publishedAt": "2026-08-22T10:26:40.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682446.shtml",
+      "publishedAt": "2026-08-22T12:29:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682385.shtml",
-      "title": "日用消费品“零关税”政策加速惠及海南居民",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682445.shtml",
+      "title": "多元业态升级！“电影+”延伸光影消费链条",
       "category": "综合",
-      "summary": "中新网海口8月22日电 (记者 王子谦)海口市第二批岛内居民日用消费品免税店22日开业迎客，日用消费品“零关税”政策加速惠及本地居民。",
+      "summary": "这个暑期，各地积极探索“电影+”融合发展新模式，通过影院场景升级、影视文旅深度融合，不断延伸光影消费链条。在成都，多家影院悄然升级。看电影、逛文创店、喝咖啡、玩游戏，影院正从单一观影空间变身“一站式”消费场景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682385.shtml",
-      "publishedAt": "2026-08-22T10:26:16.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682445.shtml",
+      "publishedAt": "2026-08-22T12:16:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682384.shtml",
-      "title": "解读“机器人组装机器人”：从实验室走向真实工业部署的跨越",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682440.shtml",
+      "title": "云港台近40名选手在云南抚仙湖扬帆竞速",
       "category": "综合",
-      "summary": "中新网北京8月22日电 题：解读“机器人组装机器人”：从实验室走向真实工业部署的跨越",
+      "summary": "8月22日，起航前选手相互鼓励。中新社记者 黄兴鸿 摄 8月22日，选手在升帆。中新社记者 黄兴鸿 摄 8月22日，比赛帆船依次驶入起航点。中新社记者 黄兴鸿 摄 8月22日，参赛选手扬帆竞速。中新社记者 黄兴鸿 摄 8月22日，参赛帆船绕标。中新社记者 黄兴鸿 摄 8月22日，两条帆船水中角逐。中新社记者 黄兴鸿 摄 8月22日，选手默契配合进行转向。中新",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682384.shtml",
-      "publishedAt": "2026-08-22T10:25:56.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682440.shtml",
+      "publishedAt": "2026-08-22T12:14:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682382.shtml",
-      "title": "百名越南青年在广西开启“红色研学之旅”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682439.shtml",
+      "title": "中国主题出版物及文创展在悉尼举行",
       "category": "综合",
-      "summary": "中新网南宁8月22日电(陈秋霞 李映儒)“做中越两党两国事业薪火相传的接棒人”青年交流会21日在广西南宁举行，约200名中越两国各领域青年代表参加，分享各自的故事。",
+      "summary": "中新社悉尼8月22日电 (记者 薄雯雯)中国主题出版物及文创展22日在澳大利亚悉尼开幕，来自中澳两国出版界、文化界、教育界等领域的近百位嘉宾出席。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682382.shtml",
-      "publishedAt": "2026-08-22T10:25:26.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682439.shtml",
+      "publishedAt": "2026-08-22T12:12:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682375.shtml",
-      "title": "人形机器人百米赛即将开跑 “博尔特”速度超越真人世界纪录",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682441.shtml",
+      "title": "宁夏长城非遗展览馆试运营",
       "category": "综合",
-      "summary": "今晚(22日)，第二届世界人形机器人运动会将在北京“冰丝带”开幕。本届比赛将持续到26日，共设置51个项目、1300多场比赛。吸引了666支队伍、2056台机器人同台竞技，参赛队伍数量较首届增长138%。",
+      "summary": "中新社银川8月22日电 (记者 李佩珊)坐落于宁夏银川灵武市水洞沟遗址保护区内的宁夏长城非物质文化遗产展览馆22日开启试运营。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682375.shtml",
-      "publishedAt": "2026-08-22T10:18:39.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682441.shtml",
+      "publishedAt": "2026-08-22T12:11:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682370.shtml",
-      "title": "王毅会见印尼国家经济委员会主席卢胡特",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682443.shtml",
+      "title": "2026年度电影总票房超270亿！暑期档成绩亮眼刷新两项纪录",
       "category": "综合",
-      "summary": "中新社雅加达8月22日电 (记者 李志全)中共中央政治局委员、外交部长王毅22日在雅加达会见印尼国家经济委员会主席卢胡特。",
+      "summary": "据网络平台数据",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682370.shtml",
-      "publishedAt": "2026-08-22T10:04:05.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682443.shtml",
+      "publishedAt": "2026-08-22T12:11:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682369.shtml",
-      "title": "从威尼斯到成都：杨毅斌HERO PAVEL个展亮相A4美术馆",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201793.shtml",
+      "title": "第十届海峡两岸艺术名家邀请展在台北开展",
       "category": "综合",
-      "summary": "中新网成都8月22日电 22日，艺术家杨毅斌HERO PAVEL个展——“400个故事，400件礼物”，在成都天府新区麓镇A4美术馆正式拉开帷幕。本次展览由 A4美术馆主办，四川美术学院教授牟群担任学术主持，王文喆担任策展人。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682369.shtml",
-      "publishedAt": "2026-08-22T10:03:39.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201793.shtml",
+      "publishedAt": "2026-08-22T12:10:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682367.shtml",
-      "title": "2026辽宁非遗夏季博览会打造机场沉浸式体验场景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682438.shtml",
+      "title": "内部渠道免试代办教师资格证？警方：警惕诈骗！",
       "category": "综合",
-      "summary": "中新网沈阳8月22日电 (记者 韩宏)2026辽宁非遗夏季博览会21日至23日在沈阳桃仙国际机场航站楼开展，当拥有穿梭往来人群的航站楼遇上底蕴厚重的传统文化，一场文旅融合创新盛宴开启。",
+      "summary": "近日，有个别不法分子在网络上散布虚假信息骗取钱财。他们称教师资格证可内部渠道免试拿证，证书官网可查。北京警方近期就打掉了一个以代办教师资格证为名实施诈骗的团伙，23人被刑拘。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682367.shtml",
-      "publishedAt": "2026-08-22T10:03:05.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682438.shtml",
+      "publishedAt": "2026-08-22T12:06:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682368.shtml",
-      "title": "平陆运河通江达海连接东盟 货从哪来？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-22/10682437.shtml",
+      "title": "黄金有罪？笑话！",
       "category": "综合",
-      "summary": "中新网南宁8月22日电 题：平陆运河通江达海连接东盟 货从哪来？",
+      "summary": "这段时间，金价一路狂“飙”，新的莫须有“罪名”又上门了。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682368.shtml",
-      "publishedAt": "2026-08-22T10:02:37.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-22/10682437.shtml",
+      "publishedAt": "2026-08-22T12:03:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682366.shtml",
-      "title": "走近“医学攀登者”：在健康前沿，守生命高地",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201785.shtml",
+      "title": "“知境寻源：明清家具文化艺术展”在北京开幕",
       "category": "综合",
-      "summary": "中新网杭州8月22日电(张煜欢)针对全身多发转移的晚期甲状腺癌，高龄患者是否还有治疗转机？对于失去手术机会的难治肿瘤，有没有新的治疗路径点亮希望？饱受终末期心衰折磨的病人，能否在延伸生命长度的同时，提升生活质量？",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682366.shtml",
-      "publishedAt": "2026-08-22T10:01:23.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201785.shtml",
+      "publishedAt": "2026-08-22T11:56:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-22/10682362.shtml",
-      "title": "跨越山海 九州同心：粤港澳青少年与大美新疆的青春之约",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682431.shtml",
+      "title": "应对台风“简拉维” 福建启动防台风四级应急响应",
       "category": "综合",
-      "summary": "中新网乌鲁木齐8月22日电 (记者 李柏涛 实习生 胡叶羽)“从南海边飞到大美新疆，飞机上我一直在想：到底是什么力量，能把四地年轻人，同时拉进同一个会场？后来我明白了，是中华民族的血脉亲情，跨越山海阻隔，将我们聚在一起。”",
+      "summary": "中新网福州8月22日电 (记者 龙敏)台湾岛以东热带低压22日下午已加强为今年第20号台风“简拉维”，将影响福建。福建省防汛抗旱指挥部当天15时启动防台风四级应急响应。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-22/10682362.shtml",
-      "publishedAt": "2026-08-22T10:00:34.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682431.shtml",
+      "publishedAt": "2026-08-22T11:52:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682365.shtml",
-      "title": "台风“紫檀”加剧风雨天气 广西沿海航线停航多景区临时闭园",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682430.shtml",
+      "title": "台风“紫檀”携风雨来袭 广西玉林全力部署筑牢安全线",
       "category": "综合",
-      "summary": "中新社南宁8月22日电 (俞靖)受台风“紫檀”影响，广西西南部8月22日风雨天气加剧，沿海客运航线停航、多家景区临时闭园。广西壮族自治区水文中心预测，崇左、防城港及钦州等市部分中小河流有发生较大洪水风险。",
+      "summary": "中新网玉林8月22日电(记者 黄艳梅)广西玉林市防汛抗旱指挥部办公室22日发布预警预报称，北部湾热带低压21日17时加强为今年第19号台风“紫檀”(热带风暴级)，受其影响，预计8月22日至26日玉林市有持续强降雨过程，大部有中雨到大雨、局部暴雨到大暴雨。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682365.shtml",
-      "publishedAt": "2026-08-22T09:59:38.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682430.shtml",
+      "publishedAt": "2026-08-22T11:51:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-22/10682364.shtml",
-      "title": "首个登上国家空间站的香港科学载荷“天韵相机”运作良好",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682433.shtml",
+      "title": "记录上合青年在中国七座城市沉浸式探访 系列短视频首播",
       "category": "综合",
-      "summary": "中新社香港8月22日电 香港特区政府创新科技及工业局局长孙东22日发表网志表示，首个登上国家空间站的香港科学载荷“天韵相机”整体运作表现良好。它配备的4个分别用于探测二氧化碳、甲烷、氧气及气溶胶的感应器均成功拍摄影像，且成像质量清晰。",
+      "summary": "中新网北京8月22日电 以镜头为眼，见证跨国交流；以青年为媒，传递上合之声。大型短视频创作营融媒体项目《上合，青年在行动》系列短视频于8月21日起面向全球播出。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-22/10682364.shtml",
-      "publishedAt": "2026-08-22T09:59:00.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682433.shtml",
+      "publishedAt": "2026-08-22T11:51:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682363.shtml",
-      "title": "辽宁省图书馆奇妙夜让“阅读”变成可参与的童年体验",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682434.shtml",
+      "title": "健步走趣味投篮听音乐 昆明近千民众“走”出幸福感",
       "category": "综合",
-      "summary": "中新网沈阳8月22日电 (记者 韩宏)辽宁省图书馆(辽宁省古籍保护中心)21日晚在“十载童阅山海向新”第十届少年儿童阅读推广季期间，重磅推出“奇思童年妙享阅读”2026图书馆奇妙夜——书本里的奇遇之旅暑期特色夜间活动。",
+      "summary": "中新网昆明8月22日电 (时文枝)2026年“行走大运河”全民健身主题云南省主会场活动22日在昆明启幕。近千名民众沿昆明瀑布公园及盘龙江生态廊道阔步前行，在流动的绿意与潋滟湖光间，沉浸式体验春城“推窗见山水、出门入画卷”的城市底色。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682363.shtml",
-      "publishedAt": "2026-08-22T09:58:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682434.shtml",
+      "publishedAt": "2026-08-22T11:51:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682360.shtml",
-      "title": "浙江杭州：中国湿地博物馆吸引民众",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682432.shtml",
+      "title": "（活力中国调研行）从“制造”到“智造” 西安高端装备跑出加速度",
       "category": "综合",
-      "summary": "8月22日，鱼皮制成的服装吸引民众。中新社记者 黄彦君 摄 8月22日，中国湿地博物馆内人流如织。中新社记者 黄彦君 摄 8月22日，湿地文化相关展品吸引民众。中新社记者 黄彦君 摄 8月22日，仿真湿地景观吸引民众。中新社记者 黄彦君 摄 8月22日，模拟捕鱼互动装置吸引小朋友。中新社记者 黄彦君 摄 8月22日，民众通过互动装置嗅闻湿地植物气味。中新社记",
+      "summary": "中新网西安8月22日电 题：从“制造”到“智造” 西安高端装备跑出加速度",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682360.shtml",
-      "publishedAt": "2026-08-22T09:50:21.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682432.shtml",
+      "publishedAt": "2026-08-22T11:50:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,194 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682358.shtml",
-      "title": "新加坡队夺得2026重庆武隆“白马山杯”东南亚围棋邀请赛冠军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml",
+      "title": "世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花",
       "category": "综合",
-      "summary": "图为比赛现场。中新社记者 肖江川 摄 图为比赛现场。中新社记者 肖江川 摄 图为比赛现场。中新社记者 肖江川 摄 图为比赛现场。中新社记者 肖江川 摄 图为比赛现场。中新社记者 肖江川 摄 图为比赛现场。中新社记者 肖江川 摄 图为世界围棋“八冠王”、中国围棋协会副主席古力(右一)为新加坡队颁发冠军奖杯、荣誉证书。中新社记者 肖江川 摄",
+      "summary": "中新网西安8月22日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站22日收官。当日决出双人滑、男子单人滑两枚金牌，两项冠军均由来自俄罗斯的中立运动员斩获。至此，本站四个竞赛项目的金牌全部被中立运动员包揽。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682358.shtml",
-      "publishedAt": "2026-08-22T09:46:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682354.shtml",
-      "title": "四川成都：“拍机”成民众休闲新风尚",
-      "category": "综合",
-      "summary": "图为一处观景平台，摄影爱好者正在拍摄飞机起飞。韩金雨 摄 图为民众观看、拍摄飞机起飞。韩金雨 摄 图为民众拍摄飞机起飞。韩金雨 摄 图为摄影爱好者正在拍摄跑道上的飞机。韩金雨 摄 图为成都双流国际机场内的民航客机。韩金雨 摄 图为飞行中的一架民航客机。韩金雨 摄 图为成都双流国际机场附近的一家咖啡厅，民众在此休息、看飞机起降。韩金雨 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682354.shtml",
-      "publishedAt": "2026-08-22T09:43:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682357.shtml",
-      "title": "珠江第一港富宁港年内建成 云南通江达海再近一步",
-      "category": "综合",
-      "summary": "中新网云南文山8月22日电 题：珠江第一港富宁港年内建成 云南通江达海再近一步",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682357.shtml",
-      "publishedAt": "2026-08-22T09:40:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682356.shtml",
-      "title": "借力中俄教育年 苏里科夫油画研修班开班",
-      "category": "综合",
-      "summary": "中新网黑河8月22日电 (记者 史轶夫)8月22日，中国青年画家研修基地莫斯科国立苏里科夫美术学院第九期油画研修班在黑河学院开班。来自中国20余所高校的油画骨干教师齐聚北疆，开启为期两周的沉浸式油画研修。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682356.shtml",
-      "publishedAt": "2026-08-22T09:40:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682359.shtml",
-      "title": "中俄油画名家同台共绘“友谊的色彩”",
-      "category": "综合",
-      "summary": "中新网海口8月22日电 (张茜翼 张芷懿)南海的碧波与伏尔加河畔的晨光，在画布上交汇。“友谊的色彩”2026中国(海南)·俄罗斯国际油画名家学术交流展22日在海口开幕，90余幅两国艺术家的油画精品联袂亮相。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682359.shtml",
-      "publishedAt": "2026-08-22T09:39:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682355.shtml",
-      "title": "两岸青年媒体人辽宁行走进大连：以新媒体叙事讲好同根同源中华故事",
-      "category": "综合",
-      "summary": "中新网大连8月22日电 (记者 杨毅)21日至22日，参加“辽台同频 文媒共声——两岸青年媒体人辽宁行”的30余位媒体人士、青年自媒体人，走进辽宁省大连市，于山海之间感受海滨城市的独特魅力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682355.shtml",
-      "publishedAt": "2026-08-22T09:39:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682353.shtml",
-      "title": "《左公复疆》雕塑在新疆哈密正式落成",
-      "category": "综合",
-      "summary": "中新网新疆哈密8月22日电 (袁鹏冲)8月22日，高9.8米的《左公复疆》雕塑在新疆哈密左宗棠凤凰台历史文化公园落成。来自全国各地的专家学者、各界代表共300余人到场，共同见证雕塑正式落成。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682353.shtml",
-      "publishedAt": "2026-08-22T09:38:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682352.shtml",
-      "title": "山西：国有林管理局4名工作人员深山迷路，多部门连夜救援",
-      "category": "综合",
-      "summary": "中新网晋中8月22日电 (陆祁国 石景坤)8月22日1时50分，随着4名男子被带出密林，历时5个多小时的深山救援画上句号。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682352.shtml",
-      "publishedAt": "2026-08-22T09:38:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682351.shtml",
-      "title": "2026绿色算力大会签约13个项目 总投资1361亿元",
-      "category": "综合",
-      "summary": "中新社呼和浩特8月22日电 (记者 刘文华)2026绿色算力(人工智能)大会22日在内蒙古自治区呼和浩特市举行，院士专家、产业链企业代表等500余人参会，大会集中签约13个项目，签约项目总投资额1361亿元(人民币)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682351.shtml",
-      "publishedAt": "2026-08-22T09:37:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682350.shtml",
-      "title": "壹视界·任平文章解读｜从三个角度，观察中国共产党为什么能成功",
-      "category": "综合",
-      "summary": "“今天，中华民族伟大复兴势不可挡，展现出前所未有的光明前景。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682350.shtml",
-      "publishedAt": "2026-08-22T09:32:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682348.shtml",
-      "title": "【新思想引领新征程】无惧风浪 中国经济高质量发展行稳致远",
-      "category": "综合",
-      "summary": "央视网消息(新闻联播)：习近平总书记强调，在发展中固安全，在安全中谋发展。“十五五”开局之年，国际环境复杂多变，国内经济也面临一些困难和挑战。以习近平同志为核心的党中央统筹国内国际两个大局，统筹发展和安全，有效应对外部冲击挑战，中国经济航船顶压前行，展现出强大韧性和活力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682348.shtml",
-      "publishedAt": "2026-08-22T09:24:52.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml",
+      "publishedAt": "2026-08-22T11:50:59.000Z",
       "tags": [
         "国内",
         "社会",
