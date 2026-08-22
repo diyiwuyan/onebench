@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T20:39:39.951Z",
-  "expiresAt": "2026-08-23T02:39:39.951Z",
+  "generatedAt": "2026-08-22T22:38:11.465Z",
+  "expiresAt": "2026-08-23T04:38:11.465Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml",
+      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+      "category": "综合",
+      "summary": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml",
+      "publishedAt": "2026-08-22T22:30:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-23/10682498.shtml",
+      "title": "美国友人“赛考斯”23日凌晨抵京 用中文说出“我回来了”",
+      "category": "综合",
+      "summary": "中新网北京8月23日电(记者 周昕 李京泽) 应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”(本名罗纳德·萨科尔斯基)23日凌晨抵达北京。时隔20余年再度来到中国，“赛考斯”用中文说出“我回来了”。他告诉记者，“当飞机着陆时，我意识到，我回到了我的第二个家，我将看到我的‘家人’”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682498.shtml",
+      "publishedAt": "2026-08-22T22:23:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-23/10682497.shtml",
+      "title": "“赛考斯”抵达北京：美中两国可以携手建设更加美好的世界",
+      "category": "综合",
+      "summary": "中新网北京8月23日电(记者 周昕 李京泽) 8月23日凌晨，应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”(本名罗纳德·萨科尔斯基)抵达北京。在机场接受记者采访时，“赛考斯”表示，自己与殷玉珍的缘分是一段由上天书写的故事。“我只是扮演好自己的角色，殷玉珍才是真正的英雄。这是故事的一个篇章。我即将要去的那片森林，将会是全新的篇章。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682497.shtml",
+      "publishedAt": "2026-08-22T22:22:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682496.shtml",
+      "title": "日本本州岛5.8级地震已致多人受伤",
+      "category": "综合",
+      "summary": "总台记者23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682496.shtml",
+      "publishedAt": "2026-08-22T22:07:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-23/10682495.shtml",
+      "title": "人工智能进课堂，如何学得更好",
+      "category": "综合",
+      "summary": "人工智能进课堂，如何学得更好(解码“十五五”专项规划)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-23/10682495.shtml",
+      "publishedAt": "2026-08-22T22:05:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682494.shtml",
       "title": "日本茨城县南部发生5.9级地震 东京震感明显",
@@ -472,96 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682464.shtml",
       "publishedAt": "2026-08-22T12:55:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682457.shtml",
-      "title": "受台风“紫檀”影响 国铁广州局调整部分列车开行方案",
-      "category": "综合",
-      "summary": "中新网广州8月22日电 (郭军 张晓敏 谢潮方)据中央气象台消息，受第19号台风“紫檀”和西南季风共同影响，海南岛、广西南部、广东、福建、台湾岛、浙江等地部分地区有大到暴雨，局地大暴雨到特大暴雨。为确保旅客列车运行安全，国铁广州局动态调整旅客列车开行方案。预计8月23日20时至24日8时，甬广高铁部分列车停运；8月24日8时至25日2时，海南高铁西环段部分列",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682457.shtml",
-      "publishedAt": "2026-08-22T12:52:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682459.shtml",
-      "title": "2026中国社区乒乓球联赛全国首站开赛",
-      "category": "综合",
-      "summary": "中新网株洲8月22日电(朱煦冰)当“国球”遇上“国瓷”，会碰撞出怎样的火花？22日，“国球荣耀·瓷都之约”2026中国社区乒乓球联赛全国首站城市资格赛在湖南醴陵市火热开赛。来自全国各地的350余名乒乓球爱好者齐聚瓷都，共同见证这场集专业竞技、全民健身与文旅融合于一体的体育盛会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682459.shtml",
-      "publishedAt": "2026-08-22T12:51:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682456.shtml",
-      "title": "肺癌全程个案管理实践指南发布 破解“出院就脱管”困境",
-      "category": "综合",
-      "summary": "中新网长沙8月22日电 (付敬懿)中国抗癌协会个案管理专业委员会22日在长沙发布国内首部《整合医学-全程个案管理实践指南(肺癌篇)》。该指南填补了肺癌全程个案管理领域标准化空白，助力肺癌患者获得个性化、高效率、有温度的全周期医疗服务。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682456.shtml",
-      "publishedAt": "2026-08-22T12:50:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682460.shtml",
-      "title": "胡昌华百余件书法精品长沙展出 呈现浓郁书卷气",
-      "category": "综合",
-      "summary": "中新网长沙8月22日电 (李国强)8月22日，“江声云气——胡昌华书法作品展”在湖南省文化馆开幕，现场集中呈现了胡昌华多年来的艺术创作与美育深耕成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682460.shtml",
-      "publishedAt": "2026-08-22T12:50:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682461.shtml",
-      "title": "学者蒙曼：湖南沅陵是扣住大西南的“文化纽扣”",
-      "category": "综合",
-      "summary": "中新网怀化8月22日电(记者 邓霞)8月22日，在湖南沅陵龙兴讲寺，中央民族大学教授蒙曼开讲《书通二酉 襟带西南》。五百年前，王阳明便在此大殿第一次向世人系统讲授“致良知”学说，斗转星移，古殿之内，思想与文化的气韵依旧流转。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682461.shtml",
-      "publishedAt": "2026-08-22T12:50:31.000Z",
       "tags": [
         "国内",
         "社会",
