@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142672",
+      "title": "【世界进行时】2026年8月21日",
+      "meta": "联合国新闻 · 2026/8/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142672",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142670",
       "title": "世卫组织与北京大学加强合作，共同推进卫生应急准备工作",
       "meta": "联合国新闻 · 2026/8/21",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142641",
       "publishedAt": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142639",
-      "title": "【前方视野】阿富汗：营养不良危机正在失控",
-      "meta": "联合国新闻 · 2026/8/15",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142639",
-      "publishedAt": "2026-08-15T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-22T03:07:23.598Z",
+  "updatedAt": "2026-08-22T04:49:44.985Z",
   "provider": "OneBench 公共资讯快照"
 }
