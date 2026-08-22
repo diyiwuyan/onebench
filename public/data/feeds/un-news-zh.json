@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142670",
+      "title": "世卫组织与北京大学加强合作，共同推进卫生应急准备工作",
+      "meta": "联合国新闻 · 2026/8/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142670",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142669",
+      "title": "古特雷斯：纪念恐怖主义受害者必须保护其尊严和权利",
+      "meta": "联合国新闻 · 2026/8/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142669",
+      "publishedAt": "2026-08-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142668",
       "title": "索马里儿童危机加剧，205家卫生和营养机构关闭",
       "meta": "联合国新闻 · 2026/8/21",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/15",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142639",
       "publishedAt": "2026-08-15T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142637",
-      "title": "【世界进行时】2026年8月14日",
-      "meta": "联合国新闻 · 2026/8/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142637",
-      "publishedAt": "2026-08-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142636",
-      "title": "联合国追加3050万美元应急资金应对刚果民主共和国埃博拉疫情",
-      "meta": "联合国新闻 · 2026/8/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142636",
-      "publishedAt": "2026-08-14T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T22:41:47.194Z",
+  "updatedAt": "2026-08-22T01:49:58.654Z",
   "provider": "OneBench 公共资讯快照"
 }
