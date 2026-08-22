@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142674",
+      "title": "【专题报道 | 前方视野】希望告别“灾后救援”，干旱韧性指数重构全球抗旱防线",
+      "meta": "联合国新闻 · 2026/8/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142674",
+      "publishedAt": "2026-08-22T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142672",
       "title": "【世界进行时】2026年8月21日",
       "meta": "联合国新闻 · 2026/8/21",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142642",
       "publishedAt": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142641",
-      "title": "也门敌对行动升级，人权高专对平民伤亡表示震惊",
-      "meta": "联合国新闻 · 2026/8/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142641",
-      "publishedAt": "2026-08-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-22T16:41:07.021Z",
+  "updatedAt": "2026-08-22T18:48:46.292Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T16:41:07.021Z",
-  "expiresAt": "2026-08-22T22:41:07.021Z",
+  "generatedAt": "2026-08-22T18:48:46.292Z",
+  "expiresAt": "2026-08-23T00:48:46.292Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,24 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142674",
+      "title": "【专题报道 | 前方视野】希望告别“灾后救援”，干旱韧性指数重构全球抗旱防线",
+      "category": "国际",
+      "summary": "干旱不仅吞噬着农田与水资源，更威胁着全球超过18亿人的生存与生计。它也不只是单纯的“自然灾害”，而是能够演变成跨越经济、社会乃至政治领域的全球性挑战。面对越来越频繁、越来越严重的干旱，传统的“灾后救灾”模式已难以为继。究竟该如何打破这一恶性循环？一套全新的评估体系——干旱韧性指数正尝试给出答案。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142674",
+      "publishedAt": "2026-08-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1620,24 +1638,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142642",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142641",
-      "title": "也门敌对行动升级，人权高专对平民伤亡表示震惊",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周一对也门日益升级的敌对行动导致平民伤亡人数不断增加表示震惊，呼吁各方保持克制并立即缓和紧张局势。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142641",
       "publishedAt": "2026-08-17T12:00:00.000Z",
       "tags": [
         "国际",
