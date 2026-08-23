@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#0",
+      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+      "meta": "BBC 中文 · 2026/8/23",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T11:36:31.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad#0",
       "title": "中國機器人打破人類百米短跑世界紀錄",
       "meta": "BBC 中文 · 2026/8/23",
@@ -61,7 +68,7 @@
       "publishedAt": "2026-08-21T11:05:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#1",
       "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,7 +82,7 @@
       "publishedAt": "2026-08-21T08:21:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#4",
       "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad?at_medium=RSS&at_campaign=rss",
@@ -145,13 +152,6 @@
       "publishedAt": "2026-08-18T18:00:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad#4",
-      "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
-      "meta": "BBC 中文 · 2026/8/18",
-      "url": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T00:15:00.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#4",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "meta": "BBC 中文 · 2026/8/17",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-23T10:40:34.717Z",
+  "updatedAt": "2026-08-23T13:02:08.957Z",
   "provider": "OneBench 公共资讯快照"
 }
