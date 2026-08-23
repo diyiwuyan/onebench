@@ -5,11 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad#0",
+      "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
+      "meta": "BBC 中文 · 2026/8/23",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T13:56:41.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#0",
       "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
       "meta": "BBC 中文 · 2026/8/23",
       "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T11:36:31.000Z"
+      "publishedAt": "2026-08-23T13:56:22.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad#0",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-23T05:58:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad#1",
       "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
       "meta": "BBC 中文 · 2026/8/23",
       "url": "https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad?at_medium=RSS&at_campaign=rss",
@@ -103,7 +110,7 @@
       "publishedAt": "2026-08-20T08:36:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#4",
       "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +129,6 @@
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T00:07:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#4",
-      "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
-      "meta": "BBC 中文 · 2026/8/19",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T12:47:27.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-23T13:02:08.957Z",
+  "updatedAt": "2026-08-23T14:39:40.210Z",
   "provider": "OneBench 公共资讯快照"
 }
