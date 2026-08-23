@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10682870.shtml",
+      "title": "中国队不敌澳大利亚队 获U18男篮亚洲杯亚军",
+      "meta": "中国新闻网 · 2026/8/23",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10682870.shtml",
+      "publishedAt": "2026-08-23T16:57:01.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-23/10682869.shtml",
       "title": "羽毛球世锦赛：中国队1金2银收官",
       "meta": "中国新闻网 · 2026/8/23",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/8/23",
       "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682826.shtml",
       "publishedAt": "2026-08-23T12:59:00.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-23/10682829.shtml",
-      "title": "“王阳明与九华山——2026中华优秀传统文化浸润佛教”学术研讨会在九华山举行",
-      "meta": "中国新闻网 · 2026/8/23",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682829.shtml",
-      "publishedAt": "2026-08-23T12:58:56.000Z"
     }
   ],
-  "updatedAt": "2026-08-23T16:43:21.815Z",
+  "updatedAt": "2026-08-23T18:48:34.781Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T16:43:21.815Z",
-  "expiresAt": "2026-08-23T22:43:21.815Z",
+  "generatedAt": "2026-08-23T18:48:34.781Z",
+  "expiresAt": "2026-08-24T00:48:34.781Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10682870.shtml",
+      "title": "中国队不敌澳大利亚队 获U18男篮亚洲杯亚军",
+      "category": "综合",
+      "summary": "中新社北京8月23日电 北京时间23日晚，2026年国际篮联U18男篮亚洲杯决赛在印度艾哈迈达巴德进行，中国U18男篮以79:89不敌澳大利亚队，获得本届赛事亚军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10682870.shtml",
+      "publishedAt": "2026-08-23T16:57:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-23/10682869.shtml",
       "title": "羽毛球世锦赛：中国队1金2银收官",
@@ -578,24 +596,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682826.shtml",
       "publishedAt": "2026-08-23T12:59:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-23/10682829.shtml",
-      "title": "“王阳明与九华山——2026中华优秀传统文化浸润佛教”学术研讨会在九华山举行",
-      "category": "综合",
-      "summary": "中新网安徽池州8月23日电 “王阳明与九华山——2026中华优秀传统文化浸润佛教”学术研讨会21日在安徽池州九华山举行，相关领域专家学者与佛教界代表人士共百余人出席。安徽省民宗委和池州市委统战部负责同志出席开幕式并致辞。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682829.shtml",
-      "publishedAt": "2026-08-23T12:58:56.000Z",
       "tags": [
         "国内",
         "社会",
