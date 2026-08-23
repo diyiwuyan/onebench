@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#0",
+      "title": "如何不用鬧鐘就能起床？",
+      "meta": "BBC 中文 · 2026/8/23",
+      "url": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T05:58:45.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad#0",
       "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
       "meta": "BBC 中文 · 2026/8/23",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-21T13:39:35.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#1",
       "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
@@ -68,7 +75,7 @@
       "publishedAt": "2026-08-21T00:04:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#5",
       "title": "台灣為何此刻提出「鞭刑入法」公投？",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T00:15:00.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#5",
-      "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
-      "meta": "BBC 中文 · 2026/8/18",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T00:01:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-23T04:52:20.782Z",
+  "updatedAt": "2026-08-23T07:01:15.679Z",
   "provider": "OneBench 公共资讯快照"
 }
