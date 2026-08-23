@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad#0",
+      "title": "中國機器人打破人類百米短跑世界紀錄",
+      "meta": "BBC 中文 · 2026/8/23",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T09:43:30.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#0",
       "title": "如何不用鬧鐘就能起床？",
       "meta": "BBC 中文 · 2026/8/23",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-21T13:47:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#3",
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
@@ -103,7 +110,7 @@
       "publishedAt": "2026-08-20T03:13:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#1",
       "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
@@ -206,15 +213,8 @@
       "meta": "BBC 中文 · 2026/7/29",
       "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T11:14:21.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#3",
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "meta": "BBC 中文 · 2026/7/28",
-      "url": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T08:43:16.000Z"
     }
   ],
-  "updatedAt": "2026-08-23T08:48:42.766Z",
+  "updatedAt": "2026-08-23T10:40:34.717Z",
   "provider": "OneBench 公共资讯快照"
 }
