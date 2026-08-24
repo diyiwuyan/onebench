@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T20:48:23.660Z",
-  "expiresAt": "2026-08-25T02:48:23.660Z",
+  "generatedAt": "2026-08-24T22:44:18.999Z",
+  "expiresAt": "2026-08-25T04:44:18.999Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,168 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-25/10683505.shtml",
+      "title": "8月25日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-25/10683505.shtml",
+      "publishedAt": "2026-08-24T22:36:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml",
+      "title": "以色列总理声称伊朗曾企图暗杀其子",
+      "category": "综合",
+      "summary": "以色列总理内塔尼亚胡24日接受采访时声称，伊朗曾“试图暗杀他的一个儿子”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml",
+      "publishedAt": "2026-08-24T22:10:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10683503.shtml",
+      "title": "加拿大总理：若美国拿出“正确态度” 将重返贸易谈判",
+      "category": "综合",
+      "summary": "当地时间24日，谈及加美关税冲突，加拿大总理卡尼表示，如果美国改变策略，加拿大愿意进行对话。卡尼称，如果“美国人首先以对我们产业的正确态度和真正的伙伴关系坐到谈判桌前，我们当然也会坐到谈判桌前。”他表示，不会接受“加拿大是美国的附庸”这种观点，也不会接受加拿大相对于美国应该处于劣势的观点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683503.shtml",
+      "publishedAt": "2026-08-24T22:00:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10683502.shtml",
+      "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
+      "category": "综合",
+      "summary": "伊朗最高领袖顾问穆赫贝尔24日晚在社交媒体平台表示，面对美方威胁，伊朗的回应将比以往更加坚决。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683502.shtml",
+      "publishedAt": "2026-08-24T21:59:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10683501.shtml",
+      "title": "中美两个“普通人”的兄妹情：相逢是首歌，同行是你和我",
+      "category": "综合",
+      "summary": "中新社鄂尔多斯8月24日电 题：中美两个“普通人”的兄妹情：相逢是首歌，同行是你和我",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683501.shtml",
+      "publishedAt": "2026-08-24T21:57:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10683500.shtml",
+      "title": "“赛考斯”重访殷玉珍家：美中两国人民可以成为一家人",
+      "category": "综合",
+      "summary": "中新社鄂尔多斯8月24日电 题：“赛考斯”重访殷玉珍家：美中两国人民可以成为一家人",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683500.shtml",
+      "publishedAt": "2026-08-24T21:55:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10683499.shtml",
+      "title": "中白“神鹰-2026”空降兵联合训练圆满结束",
+      "category": "综合",
+      "summary": "中新社北京8月24日电 中国与白俄罗斯“神鹰-2026”空降兵联合训练24日在中国空军某训练中心举行结束仪式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683499.shtml",
+      "publishedAt": "2026-08-24T21:54:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10683498.shtml",
+      "title": "台湾青年携宝岛风味与好物亮相黄浦江畔",
+      "category": "综合",
+      "summary": "中新社上海8月24日电 (记者 陈建新 缪璐)24日傍晚在上海西岸穹顶艺术中心广场的一场市集上，台湾青年刘邦圣的卤肉饭摊位不时吸引民众驻足品尝。刘邦圣说，他在附近开的新店预计下月正式营业，这次希望向更多市民和游客推介宝岛美食。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683498.shtml",
+      "publishedAt": "2026-08-24T21:53:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10683497.shtml",
+      "title": "“赛考斯”的“女儿”在中国",
+      "category": "综合",
+      "summary": "中新社北京8月24日电 题：“赛考斯”的“女儿”在中国",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683497.shtml",
+      "publishedAt": "2026-08-24T21:52:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10683494.shtml",
       "title": "Spirit战队获得TI2026冠军 达成三冠王",
@@ -400,168 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683444.shtml",
       "publishedAt": "2026-08-24T13:47:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-24/10683475.shtml",
-      "title": "美国一名海军陆战队员在日本身亡",
-      "category": "综合",
-      "summary": "中新网8月24日电 据美国《星条旗报》网站24日报道，根据美国海军陆战队和日本警方消息，一名美国海军陆战队员在冲绳北部的一辆车内被发现身亡，头部有伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683475.shtml",
-      "publishedAt": "2026-08-24T13:47:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-24/10683450.shtml",
-      "title": "台青南京行医十余载 盼弘扬中华传统医学精髓",
-      "category": "综合",
-      "summary": "中新社南京8月24日电(记者 徐珊珊)南京秦淮区一家中医门诊部内，来自台湾新北市的中医师金瑞祥正为患者切脉问诊。自2006年跨越海峡来到南京中医药大学求学，这位“80后”台青扎根六朝古都书写着脉诊里的两岸故事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683450.shtml",
-      "publishedAt": "2026-08-24T13:47:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-24/10683468.shtml",
-      "title": "“没有文字的史诗”伊玛堪唱响北京",
-      "category": "综合",
-      "summary": "中新社北京8月24日电 题：“没有文字的史诗”伊玛堪唱响北京",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683468.shtml",
-      "publishedAt": "2026-08-24T13:46:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683470.shtml",
-      "title": "云南腾冲回应小区违建：已成立专项整改整治工作小组",
-      "category": "综合",
-      "summary": "中新网昆明8月24日电 (陆希成)8月24日晚，云南省保山市腾冲市专项整改整治工作组发布通报称，针对有媒体反映腾冲市一小区存在私自开挖山体、违规扩建房屋，将别墅大幅扩建为民宿等问题，腾冲市委、市政府已成立专项整改整治工作组，全面开展专项排查、安全评估、整改处置等工作，及时回应社会关切，自觉接受社会监督。(完)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683470.shtml",
-      "publishedAt": "2026-08-24T13:46:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-24/10683467.shtml",
-      "title": "“拉萨文化惠客厅”举行《与太阳共舞》主创分享会 聚焦珞巴族舞剧创作历程",
-      "category": "综合",
-      "summary": "中新网拉萨8月24日电 (李林)23日，由拉萨市文化和旅游局主办的“拉萨文化惠客厅”系列活动之——首部珞巴族舞剧《与太阳共舞》主创分享会在hima hima隙马客厅举行。主创团队与艺术评论专家回溯这部舞剧从田野采风到舞台呈现的创作历程，探讨民族舞剧的创作规律。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683467.shtml",
-      "publishedAt": "2026-08-24T13:45:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683466.shtml",
-      "title": "闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
-      "category": "综合",
-      "summary": "中新网宁夏西吉8月24日电 题：闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683466.shtml",
-      "publishedAt": "2026-08-24T13:45:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683460.shtml",
-      "title": "2026年服贸会环境与能源服务专题首次引入都市型现代农业内容",
-      "category": "综合",
-      "summary": "中新网北京8月24日电 (记者 陈杭)2026年服贸会环境与能源服务专题各项筹备工作已基本完成。专题展首次引入都市型现代农业相关内容，依托北京平谷农业中关村创新优势，集中呈现科技农业、绿色农业、质量农业、品牌农业实践成果，彰显智慧城市建设与现代农业发展有机联动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683460.shtml",
-      "publishedAt": "2026-08-24T13:44:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683464.shtml",
-      "title": "重庆“产业援藏”再拓新路 电竞嘉年华活动落地西藏昌都",
-      "category": "综合",
-      "summary": "中新网拉萨8月24日电(记者 江飞波)近日，“荣耀昌都·巅峰对决”2026昌都电竞消费嘉年华在西藏昌都市茶马广场落下帷幕。本次活动由昌都市经信局、文旅局主办，重庆市文化娱乐行业协会承办。两天时间里，全国大赛藏东片区海选赛激烈对抗，COSER巡游与电竞市集人头攒动，让这座高原城市迎来前所未有的“年轻脉动”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683464.shtml",
-      "publishedAt": "2026-08-24T13:44:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683465.shtml",
-      "title": "宁东能源化工基地纳入国家氢能综合应用试点",
-      "category": "综合",
-      "summary": "中新网银川8月24日电 (记者 于晶)8月24日，记者从宁东能源化工基地管理委员会获悉，工业和信息化部、财政部、国家发展改革委批复同意5个城市群开展国家氢能综合应用试点工作，宁东能源化工基地纳入黄河几字弯#8209;中原试点城市群，成为宁夏唯一入选区域，当地氢能产业正式迈入国家政策赋能、跨区域协同发展新阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683465.shtml",
-      "publishedAt": "2026-08-24T13:43:51.000Z",
       "tags": [
         "国内",
         "社会",
