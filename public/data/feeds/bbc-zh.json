@@ -5,11 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad#0",
+      "title": "烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少",
+      "meta": "BBC 中文 · 2026/8/24",
+      "url": "https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T08:40:31.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#0",
       "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T07:13:57.000Z"
+      "publishedAt": "2026-08-24T08:27:43.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad#0",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-08-23T13:56:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#1",
       "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
       "meta": "BBC 中文 · 2026/8/23",
       "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
@@ -131,7 +138,7 @@
       "publishedAt": "2026-08-20T06:43:47.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#4",
       "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
@@ -157,13 +164,6 @@
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T18:00:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#4",
-      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
-      "meta": "BBC 中文 · 2026/8/17",
-      "url": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T12:16:16.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T07:20:45.337Z",
+  "updatedAt": "2026-08-24T09:04:47.470Z",
   "provider": "OneBench 公共资讯快照"
 }
