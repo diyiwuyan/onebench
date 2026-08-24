@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad#0",
+      "title": "快時尚品牌Shein估值270億美元赴港上市",
+      "meta": "BBC 中文 · 2026/8/24",
+      "url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T02:57:09.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad#0",
       "title": "老乾媽陶華碧教會我們的七件事",
       "meta": "BBC 中文 · 2026/8/24",
@@ -54,7 +61,7 @@
       "publishedAt": "2026-08-23T00:12:49.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
       "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
@@ -138,18 +145,11 @@
       "publishedAt": "2026-08-20T00:07:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#5",
       "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
       "meta": "BBC 中文 · 2026/8/19",
       "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T10:33:54.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#5",
-      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
-      "meta": "BBC 中文 · 2026/8/18",
-      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T23:53:38.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T01:57:53.823Z",
+  "updatedAt": "2026-08-24T03:16:47.142Z",
   "provider": "OneBench 公共资讯快照"
 }
