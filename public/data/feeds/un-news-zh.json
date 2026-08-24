@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142677",
+      "title": "联合国：苏丹冲突持续升级，平民苦难日益加深",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142677",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142676",
+      "title": "古特雷斯：全球粮食供应已成为冲突中的“附带损害”",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142676",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142675",
       "title": "联合国人权监测团：俄罗斯袭击乌克兰购物中心违反国际人道法",
       "meta": "联合国新闻 · 2026/8/23",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
       "publishedAt": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142644",
-      "title": "遏制荒漠化 保护我们“最关键的基础设施”",
-      "meta": "联合国新闻 · 2026/8/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142644",
-      "publishedAt": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142643",
-      "title": "刚果（金）当前埃博拉疫情成为该国史上最致命的一次",
-      "meta": "联合国新闻 · 2026/8/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142643",
-      "publishedAt": "2026-08-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T16:55:38.612Z",
+  "updatedAt": "2026-08-24T19:00:18.865Z",
   "provider": "OneBench 公共资讯快照"
 }

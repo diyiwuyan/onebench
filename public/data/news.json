@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T16:55:38.612Z",
-  "expiresAt": "2026-08-24T22:55:38.612Z",
+  "generatedAt": "2026-08-24T19:00:18.865Z",
+  "expiresAt": "2026-08-25T01:00:18.865Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,42 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142677",
+      "title": "联合国：苏丹冲突持续升级，平民苦难日益加深",
+      "category": "国际",
+      "summary": "联合国主管政治和建设和平事务的副秘书长迪卡洛周一向安理会通报苏丹局势时表示，自6月份上次通报以来，冲突持续升级，民众苦难日益加深，多个战线仍在交火。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142677",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142676",
+      "title": "古特雷斯：全球粮食供应已成为冲突中的“附带损害”",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周一表示，霍尔木兹海峡、黑海和曼德海峡的海上交通中断加剧了饥荒危机，必须立即停止。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142676",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1636,42 +1672,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142644",
-      "title": "遏制荒漠化 保护我们“最关键的基础设施”",
-      "category": "国际",
-      "summary": "随着热浪日益致命，火灾和灾害肆虐城市，海平面上升正吞噬着陆地。然而，土地退化这一环境危机仍被危险地忽视。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142644",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142643",
-      "title": "刚果（金）当前埃博拉疫情成为该国史上最致命的一次",
-      "category": "国际",
-      "summary": "世界卫生组织周一表示，刚果民主共和国（刚果（金））本迪布焦型病毒埃博拉疫情现已成为该国历史上致死人数最多的一次。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142643",
       "publishedAt": "2026-08-17T12:00:00.000Z",
       "tags": [
         "国际",
