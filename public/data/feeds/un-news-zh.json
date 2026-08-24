@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142675",
+      "title": "联合国人权监测团：俄罗斯袭击乌克兰购物中心违反国际人道法",
+      "meta": "联合国新闻 · 2026/8/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142675",
+      "publishedAt": "2026-08-23T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142674",
       "title": "【专题报道 | 前方视野】希望告别“灾后救援”，干旱韧性指数重构全球抗旱防线",
       "meta": "联合国新闻 · 2026/8/22",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142643",
       "publishedAt": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142642",
-      "title": "泛美卫生组织发布工具包，预防儿童和青少年遭受欺凌及网络欺凌",
-      "meta": "联合国新闻 · 2026/8/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142642",
-      "publishedAt": "2026-08-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T03:16:47.142Z",
+  "updatedAt": "2026-08-24T05:01:31.322Z",
   "provider": "OneBench 公共资讯快照"
 }
