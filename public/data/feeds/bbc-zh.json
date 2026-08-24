@@ -5,11 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#0",
+      "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
+      "meta": "BBC 中文 · 2026/8/24",
+      "url": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T07:13:57.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad#0",
+      "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
+      "meta": "BBC 中文 · 2026/8/24",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T06:15:27.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad#0",
-      "title": "快時尚品牌Shein估值270億美元赴港上市",
+      "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T02:57:09.000Z"
+      "publishedAt": "2026-08-24T05:16:33.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad#0",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-08-24T00:01:33.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad#1",
       "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
       "meta": "BBC 中文 · 2026/8/23",
       "url": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad?at_medium=RSS&at_campaign=rss",
@@ -47,18 +61,11 @@
       "publishedAt": "2026-08-23T09:43:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#1",
       "title": "如何不用鬧鐘就能起床？",
       "meta": "BBC 中文 · 2026/8/23",
       "url": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T05:58:45.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad#1",
-      "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
-      "meta": "BBC 中文 · 2026/8/23",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T00:12:49.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T13:39:35.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#1",
-      "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
-      "meta": "BBC 中文 · 2026/8/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T13:24:42.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1r9d8gn2o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T05:01:31.322Z",
+  "updatedAt": "2026-08-24T07:20:45.337Z",
   "provider": "OneBench 公共资讯快照"
 }
