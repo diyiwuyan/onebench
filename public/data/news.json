@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T16:55:42.395Z",
-  "expiresAt": "2026-08-25T22:55:42.395Z",
+  "generatedAt": "2026-08-25T18:56:48.906Z",
+  "expiresAt": "2026-08-26T00:56:48.906Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684213.shtml",
+      "title": "湄公河水位上涨致柬埔寨四省逾1.8万户家庭受灾",
+      "category": "综合",
+      "summary": "中新社金边8月25日电 湄公河水位持续上涨导致柬埔寨多地发生严重洪灾。柬国家灾害管理委员会当地时间25日通报称，截至目前，这轮灾害已导致该国桔井、上丁、特本克蒙和磅湛4省17个市县超过1.8万户家庭受灾，其中1900多户被紧急疏散至安全地带。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684213.shtml",
+      "publishedAt": "2026-08-25T18:10:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml",
+      "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
+      "category": "综合",
+      "summary": "中新社新疆阿勒泰8月25日电 （苟继鹏）25日，以“石英铸基 芯疆未来”为主题的2026高纯石英产业链发展大会在新疆阿勒泰市召开，40余位行业专家学者以及180余家产业链上下游企业代表参会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml",
+      "publishedAt": "2026-08-25T18:09:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-26/10684211.shtml",
+      "title": "王楚钦、孙颖莎领衔WTT中国大满贯赛参赛名单",
+      "category": "综合",
+      "summary": "中新社北京8月25日电 世界乒乓球职业大联盟(WTT)中国大满贯赛首批参赛名单25日公布，男、女单打世界排名第一的中国名将王楚钦、孙颖莎领衔该名单。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684211.shtml",
+      "publishedAt": "2026-08-25T18:08:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#0",
       "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
@@ -525,60 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684173.shtml",
       "publishedAt": "2026-08-25T13:43:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-25/10684179.shtml",
-      "title": "第六届亚洲两栖爬行动物学大会在成都举行",
-      "category": "综合",
-      "summary": "中新网成都8月25日电 (王利文 罗梅歌)第六届亚洲两栖爬行动物学大会暨《亚洲两栖爬行动物研究》(AHR)编委会会议22日至25日在成都举行。来自中国、俄罗斯、法国、加拿大、意大利、日本等国家的120余位专家学者参会，围绕两栖爬行动物多样性、系统进化与保护等议题深入交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-25/10684179.shtml",
-      "publishedAt": "2026-08-25T13:42:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684178.shtml",
-      "title": "航天垂直大模型“华山”健康管理模块完成星上在轨实测验证",
-      "category": "综合",
-      "summary": "中新网北京8月25日电 (刘书睿 张素)自7月24日随“辰光一号”技术试验卫星入轨以来，航天垂直大模型“华山”健康管理模块在轨运行已满一个月，完成星上人工智能全流程在轨实战验证。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684178.shtml",
-      "publishedAt": "2026-08-25T13:41:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684176.shtml",
-      "title": "（长征胜利90周年）探访四川阿坝神座村朱德旧居：藏寨回响长征记忆",
-      "category": "综合",
-      "summary": "中新网阿坝8月25日电 题：探访四川阿坝神座村朱德旧居：藏寨回响长征记忆",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684176.shtml",
-      "publishedAt": "2026-08-25T13:41:22.000Z",
       "tags": [
         "国内",
         "社会",
