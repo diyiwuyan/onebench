@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#0",
+      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
+      "meta": "BBC 中文 · 2026/8/25",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T09:28:45.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#0",
       "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
       "meta": "BBC 中文 · 2026/8/25",
@@ -31,13 +38,6 @@
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T00:10:45.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/trad#0",
-      "title": "「我說的不是女王英語」：為何人們會擔心自己的口音",
-      "meta": "BBC 中文 · 2026/8/25",
-      "url": "https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:10:41.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T09:00:13.021Z",
+  "updatedAt": "2026-08-25T10:49:41.672Z",
   "provider": "OneBench 公共资讯快照"
 }
