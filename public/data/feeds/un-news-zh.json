@@ -5,6 +5,48 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142647",
+      "title": "【专题报道】地中海的另一场“奥德赛”：生态宝藏何以走出危机",
+      "meta": "联合国新闻 · 2026/8/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142647",
+      "publishedAt": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142682",
+      "title": "联合国谴责南苏丹伏击事件，两名维和人员遇害",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142682",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142681",
+      "title": "联合国：乌克兰战争持续升级，平民伤亡和人道主义需求加剧",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142681",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142680",
+      "title": "粮农组织：释放园艺业潜力是促使农业食品体系转型、提供健康膳食的关键",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142680",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142679",
+      "title": "联合国：儿童和青少年仍面临艾滋病毒防治缺口",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142679",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142678",
+      "title": "刚果民主共和国埃博拉疫情持续超过100天 确诊病例超过5200例",
+      "meta": "联合国新闻 · 2026/8/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142678",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142677",
       "title": "联合国：苏丹冲突持续升级，平民苦难日益加深",
       "meta": "联合国新闻 · 2026/8/24",
@@ -171,50 +213,8 @@
       "meta": "联合国新闻 · 2026/8/18",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142652",
       "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142653",
-      "title": "世卫组织和儿基会：医疗机构卫生设施仍存在显著缺口",
-      "meta": "联合国新闻 · 2026/8/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142653",
-      "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142651",
-      "title": "加沙地带：仅3%的耕地既可进入又未受损",
-      "meta": "联合国新闻 · 2026/8/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142651",
-      "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142650",
-      "title": "哥伦比亚地震：联合国加大对10万人的援助力度",
-      "meta": "联合国新闻 · 2026/8/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142650",
-      "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142649",
-      "title": "埃博拉：运送病人的摩托车骑手或成加强应对的关键",
-      "meta": "联合国新闻 · 2026/8/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142649",
-      "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142648",
-      "title": "联合国：利比亚政治进程取得进展，但仍面临治理、安全和经济挑战",
-      "meta": "联合国新闻 · 2026/8/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142648",
-      "publishedAt": "2026-08-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142645",
-      "title": "西岸库斯拉村围困局势有所缓解，但加沙危机加剧",
-      "meta": "联合国新闻 · 2026/8/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
-      "publishedAt": "2026-08-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T13:11:28.205Z",
+  "updatedAt": "2026-08-25T15:05:28.486Z",
   "provider": "OneBench 公共资讯快照"
 }
