@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T20:46:01.511Z",
-  "expiresAt": "2026-08-26T02:46:01.511Z",
+  "generatedAt": "2026-08-25T22:45:06.392Z",
+  "expiresAt": "2026-08-26T04:45:06.392Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,114 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+      "category": "综合",
+      "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "publishedAt": "2026-08-25T22:31:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-26/10684220.shtml",
+      "title": "爱吃糖的小孩长大了，甜食配方怎么改？",
+      "category": "综合",
+      "summary": "爱吃糖的小孩长大了，甜食配方怎么改？(新视野)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684220.shtml",
+      "publishedAt": "2026-08-25T22:00:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "title": "古巴谴责美国延长对古实施经济封锁",
+      "category": "综合",
+      "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "publishedAt": "2026-08-25T21:56:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "title": "中方呼吁推动停火止战以保障粮食生产安全",
+      "category": "综合",
+      "summary": "中国常驻联合国代表傅聪25日在武装冲突与粮食安全问题安理会高级别公开辩论会上发言，呼吁推动停火止战以保障粮食生产的安全环境。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "publishedAt": "2026-08-25T21:54:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+      "title": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+      "category": "综合",
+      "summary": "中国天气网讯 今天(8月26日)3时25分前后，今年第19号台风“紫檀”以热带风暴级再次登陆广东省徐闻县。受“紫檀”及其减弱后的环流、季风槽共同影响，今明天，广西、广东、云南等地将有强降雨，部分地区有大到暴雨，局地大暴雨，需防范持续降雨可能引发的次生灾害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+      "publishedAt": "2026-08-25T21:52:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "title": "俄远东在建天然气化工项目火灾致死人数升至3人",
+      "category": "综合",
+      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目当天发生的火灾事故导致的死亡人数升至3人，146人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "publishedAt": "2026-08-25T21:44:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
       "title": "美国8月消费者信心指数降至7个月来最低值",
@@ -481,110 +589,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
-      "title": "多国科创企业共聚香港 聚焦AI向善推动全球合作",
-      "category": "综合",
-      "summary": "中新社香港8月25日电 (张语洽 刘玥晴)第二届GIS全球创新展暨全球创新峰会25日在香港开幕。展会汇聚来自中国内地、香港和澳门，以及欧洲、美国、日本、新加坡、澳大利亚等国家和地区的科技企业，聚焦推动全球创科合作、助力人工智能(AI)向善发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
-      "publishedAt": "2026-08-25T13:58:39.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142685",
+      "title": "古特雷斯：必须打破武装冲突与粮食不安全之间的恶性循环",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周二在安理会关于“冲突与粮食安全”的公开辩论中表示，武装冲突、暴力与饥饿之间的联系不容否认，必须加强落实安理会第2417号决议，打破冲突与粮食不安全之间的恶性循环。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142685",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684191.shtml",
-      "title": "向失职失责“亮剑” 为美丽中国“护航”——中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问",
-      "category": "综合",
-      "summary": "新华社北京8月25日电 近日，中共中央办公厅印发新修订的《党政领导干部生态环境损害责任追究办法》(以下简称《办法》)。日前，中央组织部负责人就《办法》修订和贯彻实施等问题回答了记者提问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684191.shtml",
-      "publishedAt": "2026-08-25T13:58:31.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142684",
+      "title": "联合国秘书长与红十字会主席再次呼吁制定致命自主武器规则",
+      "category": "国际",
+      "summary": "尽管有未经证实的报道称，全自主且由人工智能引导的无人机目前已在战场上投入使用，但联合国秘书长古特雷斯与红十字国际委员会主席埃格周二再次发出紧急呼吁，要求在为时已晚之前制定更严格的全球管控措施。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142684",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
-      "title": "上海冀“十五五”期间新增认定跨国公司地区总部数量逾300家",
-      "category": "综合",
-      "summary": "中新社上海8月25日电 上海市政府25日发布的《上海市加快国际贸易中心建设“十五五”规划》提出，“十五五”期间，上海将新增认定跨国公司地区总部数量达300家以上。上海将优化升级支持总部经济发展政策，支持总部集聚研发创新、财资管理、投资决策、供应链管理等多项功能，升级成为亚太区总部、事业部全球总部。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
-      "publishedAt": "2026-08-25T13:57:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
-      "title": "湛江海事部门严阵以待防御台风“紫檀”",
-      "category": "综合",
-      "summary": "中新网湛江8月25日电 (梁盛 谢晓琳)为防范台风“紫檀”带来的海上交通安全风险，湛江海事局从25日16时起，全域启动防热带气旋二级应急响应，针对不同吨位船舶实施差异化管控。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
-      "publishedAt": "2026-08-25T13:56:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
-      "title": "中越边境广西宁明爱店口岸恢复通关",
-      "category": "综合",
-      "summary": "中新网广西崇左8月25日电 (黄令妍)8月25日8时30分起，位于中越边境广西崇左市宁明县的爱店口岸恢复通关服务。记者当天在口岸看到，双向四条出入境货运通道上，满载越南榴莲、中国电子产品等货物的货车顺畅通行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
-      "publishedAt": "2026-08-25T13:55:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
-      "category": "综合",
-      "summary": "中新网天津8月25日电 (记者 周亚强)香港特别行政区政府驻北京办事处主任姚继卓25日在天津表示，天津与香港同属国家区域协调发展和高水平对外开放的关键节点，津港合作根基深厚，期待两地共同把握“十五五”新机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "publishedAt": "2026-08-25T13:51:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1664,24 +1700,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142646",
-      "title": "【专题报道】300公斤牛仔布的第二次生命——重新思考零废物",
-      "category": "国际",
-      "summary": "300公斤废弃牛仔布，能变成什么？在肯尼亚马赛马拉，达玛丽丝·露西亚正和当地年轻人及工匠一起，尝试寻找答案。这批从内罗毕运来的废弃牛仔布，将经过清洗、消毒和重新设计，最终成为新的产品。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142646",
-      "publishedAt": "2026-08-19T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#4",
       "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
       "category": "国际",
@@ -1695,24 +1713,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142652",
-      "title": "黎巴嫩：86万流离失所者已返回家园，但人道主义危机依然严峻",
-      "category": "国际",
-      "summary": "联合国周二警告称，约86万因黎巴嫩南部冲突而流离失所的人已返回家园，但流离失所和人道主义危机远未结束。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142652",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
