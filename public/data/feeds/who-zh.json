@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:a0ffe9af-2cfc-49b6-8d84-6c5828860870",
+      "title": "世卫组织和非洲疾控中心欢迎向刚果民主共和国分配埃博拉疫苗",
+      "meta": "世界卫生组织 · 2026/8/20",
+      "url": "https://www.who.int/zh/news-room/20-08-2026-who-and-africa-cdc-welcome-the-allocation-of-ebola-vaccines-to-the-democratic-republic-of-the-congo",
+      "publishedAt": "2026-08-20T09:31:59.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
       "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
       "meta": "世界卫生组织 · 2026/8/6",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/6/16",
       "url": "https://www.who.int/zh/news-room/16-06-2026-medical-product-alert-n-2-2026--falsified-jakavi-(ruxolitinib)",
       "publishedAt": "2026-06-16T08:50:42.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:e473aa4a-97a4-489b-b1d1-c38811549a13",
-      "title": "就最终完成《世卫组织大流行协定》病原体获取和惠益分享附件致七国集团、二十国集团、金砖国家以及世界各国领导人的公开信",
-      "meta": "世界卫生组织 · 2026/6/15",
-      "url": "https://www.who.int/zh/news-room/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
-      "publishedAt": "2026-06-15T09:05:36.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T03:12:54.888Z",
+  "updatedAt": "2026-08-25T04:53:44.944Z",
   "provider": "OneBench 公共资讯快照"
 }

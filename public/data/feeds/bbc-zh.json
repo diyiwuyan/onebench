@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje82403k49o/trad#0",
+      "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
+      "meta": "BBC 中文 · 2026/8/25",
+      "url": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T04:45:13.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad#0",
       "title": "我六歲就來月經了，但醫生們也不知道為什麼",
       "meta": "BBC 中文 · 2026/8/25",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-08-24T06:15:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad#1",
       "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/8/23",
       "url": "https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T09:43:30.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#1",
-      "title": "如何不用鬧鐘就能起床？",
-      "meta": "BBC 中文 · 2026/8/23",
-      "url": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T05:58:45.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T03:12:54.888Z",
+  "updatedAt": "2026-08-25T04:53:44.944Z",
   "provider": "OneBench 公共资讯快照"
 }
