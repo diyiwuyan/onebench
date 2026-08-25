@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#0",
+      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
+      "meta": "BBC 中文 · 2026/8/25",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:53:04.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#0",
       "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
       "meta": "BBC 中文 · 2026/8/25",
@@ -31,13 +38,6 @@
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T05:42:26.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad#0",
-      "title": "我六歲就來月經了，但醫生們也不知道為什麼",
-      "meta": "BBC 中文 · 2026/8/25",
-      "url": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:10:45.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T15:05:28.486Z",
+  "updatedAt": "2026-08-25T16:55:42.395Z",
   "provider": "OneBench 公共资讯快照"
 }

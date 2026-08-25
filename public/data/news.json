@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T15:05:28.486Z",
-  "expiresAt": "2026-08-25T21:05:28.486Z",
+  "generatedAt": "2026-08-25T16:55:42.395Z",
+  "expiresAt": "2026-08-25T22:55:42.395Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,113 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#0",
+      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
+      "category": "国际",
+      "summary": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:53:04.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684210.shtml",
+      "title": "中印边界问题特别代表在北京举行会晤",
+      "category": "综合",
+      "summary": "中新社北京8月25日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、友好坦诚的沟通。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684210.shtml",
+      "publishedAt": "2026-08-25T15:47:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
+      "title": "美军机降落莫斯科？克宫回应",
+      "category": "综合",
+      "summary": "中新网8月25日电 据路透社25日报道，航班追踪网站Flightradar24的数据显示，一架美国军用运输机降落在莫斯科伏努科沃机场。对此，克里姆林宫表示，没有关于该飞机的信息。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
+      "publishedAt": "2026-08-25T15:45:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
+      "title": "加拿大宣布对美国商品征收报复性关税",
+      "category": "综合",
+      "summary": "当地时间25日，加拿大政府宣布，对价值约200亿美元的美国商品征收报复性关税。(央视新闻客户端）",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
+      "publishedAt": "2026-08-25T15:26:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
+      "title": "一名在韩失踪中国公民遇害 嫌疑人已被捕",
+      "category": "综合",
+      "summary": "中新社首尔8月25日电 (记者 金旭)中国驻釜山总领事馆当地时间25日称，经同韩国警方核实，一名失踪数日的中国女留学生当天被发现死亡，警方已以涉嫌杀人罪逮捕一名30多岁男子。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
+      "publishedAt": "2026-08-25T15:23:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
+      "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
+      "category": "综合",
+      "summary": "据网络平台数据",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
+      "publishedAt": "2026-08-25T15:08:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684199.shtml",
       "title": "德国二季度GDP环比增速上调至0.3%",
@@ -482,96 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684174.shtml",
-      "title": "台风“紫檀”或二次登陆广东雷州半岛",
-      "category": "综合",
-      "summary": "中新网广州8月25日电 (记者 王坚)台风“紫檀”在25日18时40分前后登陆海南省昌江县。广东气象部门表示，“紫檀”或将二次登陆广东雷州半岛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684174.shtml",
-      "publishedAt": "2026-08-25T13:40:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
-      "title": "天工机器人百米竞速跑出8.86秒 再创纪录",
-      "category": "综合",
-      "summary": "中新网北京8月25日电 (记者 吕少威 陈杭 徐婧)第二届世界人形机器人运动会正在北京进行中。在25日举行的100米大型组复赛中，第一组成绩再次刷新纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
-      "publishedAt": "2026-08-25T13:40:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684175.shtml",
-      "title": "陈文清会见越南最高人民法院院长阮文广",
-      "category": "综合",
-      "summary": "新华社北京8月25日电 中共中央政治局委员、中央政法委书记陈文清25日在京会见越共中央书记处书记、越南最高人民法院院长阮文广。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684175.shtml",
-      "publishedAt": "2026-08-25T13:34:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
-      "title": "甘肃加快“碳足迹”管理体系建设",
-      "category": "综合",
-      "summary": "中新网兰州8月25日电 (记者 冯志军)当归、黄芪、马铃薯种业、油橄榄等4项农特产品碳足迹量化方法已纳入地方标准立项计划，金川集团电积钴等15个镍钴系列产品、张掖市8个农产品完成碳足迹核算与认证……今年以来，甘肃加快推进碳足迹管理体系建设。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
-      "publishedAt": "2026-08-25T13:33:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
-      "title": "台风“沙德尔”逼近 福建沿海22条客渡运航线停运",
-      "category": "综合",
-      "summary": "中新社福州8月25日电 (记者 闫旭)今年第18号台风“沙德尔”(强台风级)25日下午已移入福建省热带气旋警戒区。据中央气象台预计，“沙德尔”将于27日夜间至28日上午在浙江象山到福建福清一带沿海登陆。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
-      "publishedAt": "2026-08-25T13:33:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142647",
       "title": "【专题报道】地中海的另一场“奥德赛”：生态宝藏何以走出危机",
       "category": "国际",
@@ -726,23 +743,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad#0",
-      "title": "我六歲就來月經了，但醫生們也不知道為什麼",
-      "category": "国际",
-      "summary": "性早熟會導致兒童過早出現第二性徵，而且對女孩的影響比例明顯較高。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:10:45.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
