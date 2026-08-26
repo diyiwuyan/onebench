@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142692",
+      "title": "古特雷斯对尼泊尔和中国严重洪灾造成的人员伤亡和破坏深感悲痛",
+      "meta": "联合国新闻 · 2026/8/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142691",
+      "title": "粮农组织呼吁利用科学技术弥合数字鸿沟、城乡差距和性别差距",
+      "meta": "联合国新闻 · 2026/8/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142691",
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142690",
+      "title": "联合国：加沙停火依然脆弱，必须推进解除武装、恢复治理和重建",
+      "meta": "联合国新闻 · 2026/8/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142690",
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142688",
       "title": "联合国：缅甸罗兴亚人及其他群体持续遭受严重人权侵犯",
       "meta": "联合国新闻 · 2026/8/25",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142662",
       "publishedAt": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142661",
-      "title": "南苏丹：联合国委员会警告选举保障措施缺失或助长冲突重燃",
-      "meta": "联合国新闻 · 2026/8/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142661",
-      "publishedAt": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142660",
-      "title": "赞比亚：大选后政治对手遭逮捕和拘留引发担忧",
-      "meta": "联合国新闻 · 2026/8/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142660",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142659",
-      "title": "苏丹：战事和洪灾加剧，20万人新近流离失所",
-      "meta": "联合国新闻 · 2026/8/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142659",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T16:59:21.593Z",
+  "updatedAt": "2026-08-26T20:03:24.974Z",
   "provider": "OneBench 公共资讯快照"
 }
