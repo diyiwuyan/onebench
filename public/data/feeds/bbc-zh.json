@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad#0",
+      "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T06:12:27.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#0",
+      "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:40:19.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#0",
       "title": "「我感到被騙了」：AI假醫師給台灣老人的震撼教育",
       "meta": "BBC 中文 · 2026/8/26",
@@ -19,8 +33,8 @@
       "publishedAt": "2026-08-26T00:22:13.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad#0",
-      "title": "先天性黑色素細胞痣患者：「皮膚使我獨一無二，我正學習接納它。」",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad#1",
+      "title": "先天黑色素細胞痣：「皮膚使我獨一無二，我正學習接納它。」",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T00:22:07.000Z"
@@ -33,7 +47,7 @@
       "publishedAt": "2026-08-25T16:53:04.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#1",
       "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
@@ -82,18 +96,11 @@
       "publishedAt": "2026-08-24T06:15:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad#4",
       "title": "老乾媽陶華碧教會我們的七件事",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T00:02:12.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#1",
-      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
-      "meta": "BBC 中文 · 2026/8/23",
-      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T13:56:22.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad#2",
@@ -166,13 +173,6 @@
       "publishedAt": "2026-08-20T00:07:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#4",
-      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
-      "meta": "BBC 中文 · 2026/8/18",
-      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T18:00:44.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad#2",
       "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
       "meta": "BBC 中文 · 2026/8/14",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T04:56:00.106Z",
+  "updatedAt": "2026-08-26T07:08:55.588Z",
   "provider": "OneBench 公共资讯快照"
 }
