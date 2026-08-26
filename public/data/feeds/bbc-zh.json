@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad#0",
+      "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T07:35:58.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad#0",
       "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
       "meta": "BBC 中文 · 2026/8/26",
@@ -54,7 +61,7 @@
       "publishedAt": "2026-08-25T09:28:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#1",
       "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-08-24T08:40:31.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#4",
       "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
@@ -159,13 +166,6 @@
       "publishedAt": "2026-08-21T00:04:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#4",
-      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
-      "meta": "BBC 中文 · 2026/8/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T06:43:47.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#5",
       "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
       "meta": "BBC 中文 · 2026/8/20",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T07:08:55.588Z",
+  "updatedAt": "2026-08-26T09:02:25.976Z",
   "provider": "OneBench 公共资讯快照"
 }
