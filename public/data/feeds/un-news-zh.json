@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142688",
+      "title": "联合国：缅甸罗兴亚人及其他群体持续遭受严重人权侵犯",
+      "meta": "联合国新闻 · 2026/8/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142688",
+      "publishedAt": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142689",
+      "title": "古特雷斯谴责海地黑帮袭击事件",
+      "meta": "联合国新闻 · 2026/8/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142689",
+      "publishedAt": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142687",
+      "title": "古特雷斯谴责以色列当局未经授权进入近东救济工程处设施",
+      "meta": "联合国新闻 · 2026/8/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142687",
+      "publishedAt": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142686",
+      "title": "【世界交汇点】对话刘克凡——在联合国做新闻的26年",
+      "meta": "联合国新闻 · 2026/8/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142686",
+      "publishedAt": "2026-08-25T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142685",
       "title": "古特雷斯：必须打破武装冲突与粮食不安全之间的恶性循环",
       "meta": "联合国新闻 · 2026/8/25",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/8/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142659",
       "publishedAt": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142658",
-      "title": "人权高专办：以色列政府部长最新言论已逾越人性底线",
-      "meta": "联合国新闻 · 2026/8/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142658",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142657",
-      "title": "古特雷斯：确保世界各地人道主义工作者得到保护、支持并永远被铭记",
-      "meta": "联合国新闻 · 2026/8/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142657",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142656",
-      "title": "国际刑事法院强烈反对美国新的制裁指令",
-      "meta": "联合国新闻 · 2026/8/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142656",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142655",
-      "title": "世界人道主义日 | 【特写】伊线：她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
-      "meta": "联合国新闻 · 2026/8/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142655",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T13:16:33.450Z",
+  "updatedAt": "2026-08-26T15:52:59.614Z",
   "provider": "OneBench 公共资讯快照"
 }
