@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#0",
+      "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T11:07:16.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad#1",
       "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad?at_medium=RSS&at_campaign=rss",
@@ -87,13 +94,6 @@
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T05:42:26.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad#1",
-      "title": "烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少",
-      "meta": "BBC 中文 · 2026/8/24",
-      "url": "https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T08:40:31.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T10:51:39.459Z",
+  "updatedAt": "2026-08-26T13:16:33.450Z",
   "provider": "OneBench 公共资讯快照"
 }
