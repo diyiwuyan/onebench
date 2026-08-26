@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#0",
+      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T00:22:13.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad#0",
+      "title": "先天性黑色素細胞痣患者：「皮膚使我獨一無二，我正學習接納它。」",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T00:22:07.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#0",
       "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
       "meta": "BBC 中文 · 2026/8/25",
@@ -26,14 +40,14 @@
       "publishedAt": "2026-08-25T08:51:14.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad#1",
       "title": "慈善？演戲？科茨沃爾德？哈利和梅根會怎樣重建英國生活？",
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T08:03:21.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje82403k49o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje82403k49o/trad#1",
       "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
       "meta": "BBC 中文 · 2026/8/25",
       "url": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +87,6 @@
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T00:02:12.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d5qp19gyo/trad#1",
-      "title": "為什麼我們會對未必會傷害自己的事物恐懼萬分？",
-      "meta": "BBC 中文 · 2026/8/24",
-      "url": "https://www.bbc.com/zhongwen/articles/cy5d5qp19gyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T00:01:33.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#1",
@@ -124,7 +131,7 @@
       "publishedAt": "2026-08-21T11:05:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#4",
       "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
@@ -150,13 +157,6 @@
       "meta": "BBC 中文 · 2026/8/20",
       "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T06:43:47.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#4",
-      "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
-      "meta": "BBC 中文 · 2026/8/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T03:13:46.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T22:45:06.392Z",
+  "updatedAt": "2026-08-26T01:58:31.363Z",
   "provider": "OneBench 公共资讯快照"
 }
