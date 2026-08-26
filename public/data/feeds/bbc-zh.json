@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad#0",
+      "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T10:25:24.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad#0",
       "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
       "meta": "BBC 中文 · 2026/8/26",
@@ -19,7 +26,7 @@
       "publishedAt": "2026-08-26T06:12:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#1",
       "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +103,7 @@
       "publishedAt": "2026-08-24T08:27:43.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad#4",
       "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
@@ -143,13 +150,6 @@
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/c1l136ry802o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T11:05:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#4",
-      "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
-      "meta": "BBC 中文 · 2026/8/21",
-      "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T09:40:09.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T09:02:25.976Z",
+  "updatedAt": "2026-08-26T10:51:39.459Z",
   "provider": "OneBench 公共资讯快照"
 }
