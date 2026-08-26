@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T20:03:24.974Z",
-  "expiresAt": "2026-08-27T02:03:24.974Z",
+  "generatedAt": "2026-08-26T23:33:05.751Z",
+  "expiresAt": "2026-08-27T05:33:05.751Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,312 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-27/10684906.shtml",
+      "title": "充电桩也有身份证了 电车充电桩强制3C认证落地",
+      "category": "综合",
+      "summary": "8月1日起，电动汽车供电设备3C强制认证正式落地。新规明确，未取得3C认证的充电桩产品，禁止出厂、销售、进口或者在其他经营活动中使用。新规主要针对新增和扩容设备，遵循“管新不管旧”原则，8月1日前已投运的存量充电桩可继续使用。新规落地带来什么改变？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684906.shtml",
+      "publishedAt": "2026-08-26T23:28:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684905.shtml",
+      "title": "窥探飞行日志等敏感数据 境外间谍盯上了我国巡检无人机",
+      "category": "综合",
+      "summary": "注意！境外间谍情报机关盯上了巡检无人机！",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684905.shtml",
+      "publishedAt": "2026-08-26T23:25:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684904.shtml",
+      "title": "特朗普再次宣称：“没有我，就没有以色列”",
+      "category": "综合",
+      "summary": "中新网8月27日电 据美国哥伦比亚广播公司(CBS)报道，当地时间26日，美国总统特朗普再次声称，若其未能执政，“以色列国家或将不复存在”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684904.shtml",
+      "publishedAt": "2026-08-26T23:17:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684903.shtml",
+      "title": "尼泊尔北部山洪暴发已致157人死亡",
+      "category": "综合",
+      "summary": "总台记者当地时间27日获悉，据尼泊尔警方消息，尼泊尔北部地区山洪造成的死亡人数升至157人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684903.shtml",
+      "publishedAt": "2026-08-26T23:03:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684902.shtml",
+      "title": "尼泊尔北部山洪暴发已致多人死亡与失踪",
+      "category": "综合",
+      "summary": "中新网8月27日电 综合报道，当地时间26日，尼泊尔北部发生的山洪已造成数百人失踪，其中大部分是外国人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684902.shtml",
+      "publishedAt": "2026-08-26T23:01:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-27/10684901.shtml",
+      "title": "8月27日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-27/10684901.shtml",
+      "publishedAt": "2026-08-26T22:42:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684900.shtml",
+      "title": "伊朗外长谴责美国对伊朗实施“经济恐怖主义行动”",
+      "category": "综合",
+      "summary": "中新网8月27日电 据阿拉伯媒体报道，当地时间26日，伊朗外长阿拉格齐就美国针对伊朗的“经济恐怖主义行动”致函联合国秘书长、安理会轮值主席等。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684900.shtml",
+      "publishedAt": "2026-08-26T22:41:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684899.shtml",
+      "title": "特朗普证实美国中情局局长访俄",
+      "category": "综合",
+      "summary": "中新网8月27日电 据英国《卫报》报道，当地时间26日，美国总统特朗普证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684899.shtml",
+      "publishedAt": "2026-08-26T22:32:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-27/10684898.shtml",
+      "title": "从“看别人”到“见自己” 年轻人喜欢电影里的“中国味”",
+      "category": "综合",
+      "summary": "从“看别人”到“见自己”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-27/10684898.shtml",
+      "publishedAt": "2026-08-26T22:21:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-27/10684897.shtml",
+      "title": "智能体支付应用迎来行业自律公约 如何给AI支付立规矩",
+      "category": "综合",
+      "summary": "智能体支付应用迎来行业自律公约",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684897.shtml",
+      "publishedAt": "2026-08-26T22:19:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-27/10684896.shtml",
+      "title": "中国救援队111名消防救援指战员赴西藏吉隆灾害现场增援",
+      "category": "综合",
+      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-27/10684896.shtml",
+      "publishedAt": "2026-08-26T22:01:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684895.shtml",
+      "title": "特朗普：对于伊朗何时重返谈判“没有时间表”",
+      "category": "综合",
+      "summary": "当地时间26日，美国总统特朗普在接受采访时表示，对于预计伊朗何时重返谈判，他“没有时间表”，而且“不着急”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684895.shtml",
+      "publishedAt": "2026-08-26T21:58:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684890.shtml",
+      "title": "地月“信息高速路”开通 中国空间激光通信迈入地月空间",
+      "category": "综合",
+      "summary": "中新社北京8月27日电 (记者 孙自法)经过一年多的在轨测试试验，中国科研团队最近成功构建超过40万公里的地月双向激光链路并首次在轨验证了地月高速激光通信能力，标志着中国空间激光通信正式从近地轨道迈入地月空间。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684890.shtml",
+      "publishedAt": "2026-08-26T21:56:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684891.shtml",
+      "title": "赛场淬能，人形机器人“加速进化”",
+      "category": "综合",
+      "summary": "中新社北京8月27日电 (记者 吕少威)第二届世界人形机器人运动会26日在位于北京的国家速滑馆“冰丝带”落下帷幕。相较于首届赛事“科幻照进现实”的新鲜感，本届运动会汇聚全球六大洲666支赛队，在精彩对决之外，更透出清晰的产业指向：人形机器人的比拼，已从“花拳绣腿”的舞台展示进入“性能淬炼”的考场实战。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684891.shtml",
+      "publishedAt": "2026-08-26T21:56:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684892.shtml",
+      "title": "世界公众科学素质组织在北京正式注册成立",
+      "category": "综合",
+      "summary": "中新社北京8月27日电 (记者 孙自法)世界公众科学素质组织副理事长、秘书长尹霖26日透露，世界公众科学素质组织今年6月在北京正式注册成立，目前已有中外创始单位会员32家。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684892.shtml",
+      "publishedAt": "2026-08-26T21:55:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684893.shtml",
+      "title": "美国友人再访宋庆龄故居：做两国友谊的“架桥人”",
+      "category": "综合",
+      "summary": "中新社北京8月27日电 题：美国友人再访宋庆龄故居：做两国友谊的“架桥人”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684893.shtml",
+      "publishedAt": "2026-08-26T21:54:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684894.shtml",
+      "title": "中印边界问题特别代表第25次会晤达成8点成果共识",
+      "category": "综合",
+      "summary": "中新社北京8月27日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684894.shtml",
+      "publishedAt": "2026-08-26T21:54:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684889.shtml",
       "title": "国际人士析多国对华好感度攀升",
@@ -283,308 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684870.shtml",
-      "title": "广东159个镇街遭遇暴雨、大暴雨",
-      "category": "综合",
-      "summary": "中新网广州8月26日电 (记者 王坚)25日到26日早晨，广东有159个镇街遭遇暴雨、大暴雨，全省最大降雨量达294.1毫米。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684870.shtml",
-      "publishedAt": "2026-08-26T13:55:27.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142693",
+      "title": "非洲的新宏伟目标：更多卫生工作者，更强大的卫生体系",
+      "category": "国际",
+      "summary": "面对到2035年预计将出现超过600万名卫生专业人员短缺的局面，非洲各国正加紧努力以加强其卫生力量，周三在埃塞俄比亚亚的斯亚贝巴举行的卫生部长会议上，各国宣布了一项为期十年的新计划。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142693",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684871.shtml",
-      "title": "吉隆口岸为何频遭泥石流？问题藏在喜马拉雅深谷",
-      "category": "综合",
-      "summary": "核心提要",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684871.shtml",
-      "publishedAt": "2026-08-26T13:55:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-26/10684868.shtml",
-      "title": "北京密云暖心健康服务直达百姓家门口",
-      "category": "综合",
-      "summary": "中新网北京8月26日电(张静)8月26日，国家卫生健康委召开“基层卫生健康综合试验区改革创新经验”主题第四场新闻发布会。北京市密云区委常委、副区长张博在发布会上介绍，作为北京地区唯一的国家基层卫生健康综合试验区，密云区立足山区实际、紧扣群众就医需求，实施了一系列务实惠民就医举措。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684868.shtml",
-      "publishedAt": "2026-08-26T13:53:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-26/10684869.shtml",
-      "title": "筑牢技术底座 “人工智能+”加出新速度、新高度、新成效催生经济新增长点",
-      "category": "综合",
-      "summary": "央视网消息：国务院新闻办公室8月26日上午举行“开局起步‘十五五’”系列主题新闻发布会。工业和信息化部相关负责人表示，“十五五”时期，将组织实施传统产业焕新行动，加快提升传统产业发展质量和效益。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684869.shtml",
-      "publishedAt": "2026-08-26T13:49:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-26/10684867.shtml",
-      "title": "中新网评：被商家公开隐私信息，消费者不能花了钱还被侮辱",
-      "category": "综合",
-      "summary": "中新网北京8月26日电(记者 刘星晨)因为一句消费后的评价被商家曝光个人地址、因为一次到店消费后的感受分享被商家电话骚扰要求删除评论，类似情况是否在你身边上演过？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684867.shtml",
-      "publishedAt": "2026-08-26T13:47:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-26/10684866.shtml",
-      "title": "自然资源部对浙江启动地质灾害防御Ⅳ级响应",
-      "category": "综合",
-      "summary": "中新网8月26日电 据自然资源部微信公众号消息，受第18号台风“沙德尔”影响，未来三天，浙江部分地区有强降雨过程。经自然资源部地质灾害技术指导中心研判，浙江东部和南部部分地区发生地质灾害的风险较高。自然资源部决定于8月26日20时对浙江启动地质灾害防御IV级响应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684866.shtml",
-      "publishedAt": "2026-08-26T13:46:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684862.shtml",
-      "title": "马来西亚烟霾持续 多地空气质量不健康",
-      "category": "综合",
-      "summary": "中新社吉隆坡8月26日电(记者 刘育英)8月26日，马来西亚烟霾天气持续。根据马来西亚空气污染指数管理系统(APIMS)网站数据，截至当日上午8时，全国6个州及2个联邦直辖区共计17个地区录得不健康级别的空气污染指数。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684862.shtml",
-      "publishedAt": "2026-08-26T13:45:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684863.shtml",
-      "title": "西藏吉隆发生泥石流灾害 各方力量赶赴灾区救援",
-      "category": "综合",
-      "summary": "中新社拉萨8月26日电 (赵朗 江飞波 贡嘎来松)8月26日上午10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏自治区日喀则市吉隆县吉隆口岸区域发生重大人员伤亡、失联。记者当日从西藏多部门获悉，各方救援力量正赶赴灾区救援，当地正搭建救灾帐篷。截至发稿，吉隆镇通讯正常。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684863.shtml",
-      "publishedAt": "2026-08-26T13:43:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-26/10684861.shtml",
-      "title": "浙江成立省级数据集团 人工智能产业布局再落关键一子",
-      "category": "综合",
-      "summary": "中新网杭州8月26日电(奚金燕)26日，浙江省数据集团有限公司揭牌仪式在杭州举行，标志着该省数据资源开发利用和人工智能产业发展省级平台正式落地，引发外界关注。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684861.shtml",
-      "publishedAt": "2026-08-26T13:41:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-26/10684858.shtml",
-      "title": "（长征胜利90周年）“追寻长征美·同心建新功——四川新的社会阶层人士弘扬伟大长征精神主题活动”在四川冕宁举行",
-      "category": "综合",
-      "summary": "中新网凉山8月26日电 (尧欣雨)2026年是中国共产党成立105周年、中国工农红军长征胜利90周年。26日，四川新的社会阶层人士等100余人齐聚四川省凉山彝族自治州冕宁县，共同参加“追寻长征美·同心建新功——四川新的社会阶层人士弘扬伟大长征精神主题活动”，追忆长征光辉足迹，赓续伟大长征精神。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684858.shtml",
-      "publishedAt": "2026-08-26T13:40:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-26/10684843.shtml",
-      "title": "广西龙胜欢度“跳香节”",
-      "category": "综合",
-      "summary": "图为8月26日，在广西桂林市龙胜各族自治县伟江乡，当地民众身着节日盛装参加民俗巡游活动。(无人机照片)潘志祥 摄 图为8月26日，广西桂林龙胜各族自治县伟江乡，当地民众身着节日盛装，开展民俗巡游活动。(无人机照片)陆恒江 摄 图为8月26日，在广西桂林市龙胜各族自治县伟江乡，当地民众身着节日盛装参加民俗巡游活动。潘志祥 摄 图为8月26日，在广西桂林市龙胜各",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684843.shtml",
-      "publishedAt": "2026-08-26T13:39:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-26/10684831.shtml",
-      "title": "重庆：“黑灯实验室”赋能水环境精准监测",
-      "category": "综合",
-      "summary": "8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，机器人对检测样本开盖。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对样本开展检测。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对样本开展检测。中新社记者 何蓬磊 摄 8月26日，重庆沙坪坝区生态环境监测“黑灯实验室”，智能仪器对",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-26/10684831.shtml",
-      "publishedAt": "2026-08-26T13:38:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684857.shtml",
-      "title": "京玉携手以超高清点亮三江源文化新视界",
-      "category": "综合",
-      "summary": "中新网青海玉树8月26日电 由北京市广电局、北京市援青玉树指挥部主办，玉树州文体旅游广电局作为支持单位的“北京超高清视听·行！视听奇境”主题活动，日前在玉树落幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684857.shtml",
-      "publishedAt": "2026-08-26T13:37:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
-      "title": "天工Ultra机器人再创纪录 百米跑出8.64秒",
-      "category": "综合",
-      "summary": "8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，天工Ultra机器人后来居上，夺取冠军。记者 吕少威 摄 中新网北京8月26日电(记者 吕少威)8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，北京人形机器人创新中心的天工 Ultra机器人以8.64秒的成绩强势夺冠，再度刷新此前纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
-      "publishedAt": "2026-08-26T13:35:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684856.shtml",
-      "title": "尼泊尔北部泥石流已致17人死亡 384人失联",
-      "category": "综合",
-      "summary": "中新社加德满都8月26日电(记者 崔楠)中国吉隆—尼泊尔拉苏瓦堡口岸尼方一侧当地时间26日上午突发泥石流。据尼泊尔媒体报道，泥石流已在尼泊尔造成至少17人死亡，另有384名游客失联。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684856.shtml",
-      "publishedAt": "2026-08-26T13:35:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202217.shtml",
-      "title": "“赛考斯”参访内蒙古师范大学附属中学",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-26/1202217.shtml",
-      "publishedAt": "2026-08-26T13:33:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684859.shtml",
-      "title": "尼泊尔北部山洪遇难人数升至72人",
-      "category": "综合",
-      "summary": "据尼泊尔警方26日晚通报，该国北部地区山洪造成的死亡人数已升至72人。(总台记者 张玥)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684859.shtml",
-      "publishedAt": "2026-08-26T13:33:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1637,24 +1655,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142663",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142662",
-      "title": "刚果（金）获赠7万剂埃博拉疫苗，本迪布焦病毒疫情持续蔓延",
-      "category": "国际",
-      "summary": "刚果民主共和国（刚果（金））将从联合国国际疫苗协调小组获得7万剂针对扎伊尔型病毒的埃尔维博疫苗，用于保护一线社区免受埃博拉病毒病的侵害。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142662",
       "publishedAt": "2026-08-20T12:00:00.000Z",
       "tags": [
         "国际",

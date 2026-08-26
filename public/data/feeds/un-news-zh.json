@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142693",
+      "title": "非洲的新宏伟目标：更多卫生工作者，更强大的卫生体系",
+      "meta": "联合国新闻 · 2026/8/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142693",
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142692",
       "title": "古特雷斯对尼泊尔和中国严重洪灾造成的人员伤亡和破坏深感悲痛",
       "meta": "联合国新闻 · 2026/8/26",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142663",
       "publishedAt": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142662",
-      "title": "刚果（金）获赠7万剂埃博拉疫苗，本迪布焦病毒疫情持续蔓延",
-      "meta": "联合国新闻 · 2026/8/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142662",
-      "publishedAt": "2026-08-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T20:03:24.974Z",
+  "updatedAt": "2026-08-26T23:33:05.751Z",
   "provider": "OneBench 公共资讯快照"
 }
