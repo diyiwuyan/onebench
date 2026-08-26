@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T15:52:59.614Z",
-  "expiresAt": "2026-08-26T21:52:59.614Z",
+  "generatedAt": "2026-08-26T16:59:21.593Z",
+  "expiresAt": "2026-08-26T22:59:21.593Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,24 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684889.shtml",
+      "title": "国际人士析多国对华好感度攀升",
+      "category": "综合",
+      "summary": "中新社北京8月26日电 (官逸伦 刘纪)由中国人民大学主办的“全球认知之变与中国发展未来国际研讨会”26日在北京举行。多国与会嘉宾表示，中国自身的成功发展与其对和平、合作的追求是世界多国对华好感度提升的原因所在。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684889.shtml",
+      "publishedAt": "2026-08-26T16:33:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#0",
       "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤包括多國遊客",
       "category": "国际",
@@ -39,12 +57,66 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T15:41:22.000Z",
+      "publishedAt": "2026-08-26T16:18:33.000Z",
       "tags": [
         "国际",
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684888.shtml",
+      "title": "HICOOL 2026全球创业者峰会在北京开幕",
+      "category": "综合",
+      "summary": "中新社北京8月26日电 (记者 陈杭)26日晚，为期四天的HICOOL 2026全球创业者峰会在北京开幕。本届峰会年度主题为“从创新源头到产业潮头”，采用“展+会”一体形式，吸引600余家展商在2.3万平方米的展览空间内同台竞技。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684888.shtml",
+      "publishedAt": "2026-08-26T16:15:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684887.shtml",
+      "title": "特朗普证实中情局局长访俄",
+      "category": "综合",
+      "summary": "美国总统特朗普26日证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684887.shtml",
+      "publishedAt": "2026-08-26T16:08:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "title": "上海抢抓AI赋能科技服务业新机遇",
+      "category": "综合",
+      "summary": "中新社上海8月26日电 (记者 郑莹莹)上海市科学技术委员会等多部门26日对外发布《上海市科技研发与创新服务业高质量发展行动方案》(简称“方案”)。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "publishedAt": "2026-08-26T15:48:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
       ],
       "hot": false
     },
@@ -507,78 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684859.shtml",
       "publishedAt": "2026-08-26T13:33:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-26/10684853.shtml",
-      "title": "上海民盟举办“与盟同行·会客厅”科技专场活动",
-      "category": "综合",
-      "summary": "中新网上海8月26日电(范宇斌 陈婕)26日，民盟上海市委会“与盟同行·会客厅”科技专场活动在华东理工大学举行。作为庆祝上海民盟组织建立80周年系列活动之一，本次活动以“民盟的智见：共话‘AI for Science’新范式”为主题，由民盟上海市委会科技委员会、民盟华东理工大学委员会承办，来自高校、国家级技术平台和产业一线的4位盟员代表作科创分享。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684853.shtml",
-      "publishedAt": "2026-08-26T13:28:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684854.shtml",
-      "title": "上海浦东国际机场启用超110平方米婴幼儿友好空间 助力上海儿童友好城市建设",
-      "category": "综合",
-      "summary": "中新网上海8月26日电 (记者 殷立勤)8月26日，上海浦东国际机场T2航站楼国内混流层C77登机口附近，一个总面积超110平方米的婴幼儿友好空间正式启用。该项目集多功能育婴室、婴幼儿休憩区、亲子候机区于一体，提供哺乳、护理、备餐、休憩、娱乐等全链条服务，标志着上海浦东国际机场母婴服务从“有没有”向“好不好用”迈进。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684854.shtml",
-      "publishedAt": "2026-08-26T13:27:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684852.shtml",
-      "title": "国务院食安办挂牌督办“消杀公司违规使用敌敌畏为餐饮门店消杀”事件",
-      "category": "综合",
-      "summary": "中新网北京8月26日电 (记者 刘亮)国家市场监管总局26日公布，针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同国家市场监管总局、国家疾控局成立联合工作组，赴实地督促指导案件查办，依法严惩重处违法违规行为，开展风险排查，切实维护民众饮食安全。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684852.shtml",
-      "publishedAt": "2026-08-26T13:27:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-26/10684855.shtml",
-      "title": "黑龙江省民营经济统战工作协调机制2026年第一次全体会议召开",
-      "category": "综合",
-      "summary": "中新网哈尔滨8月26日电 (韩雪)8月25日，黑龙江省民营经济统战工作协调机制2026年第一次全体会议在哈尔滨召开，会议贯彻落实党中央决策部署和省委工作要求，听取《黑龙江省民营经济发展促进条例》修订等有关事项情况汇报，部署全省民营经济统战工作。黑龙江省委常委、统战部部长，省民营经济统战工作协调机制召集人刘振国主持会议并讲话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684855.shtml",
-      "publishedAt": "2026-08-26T13:27:16.000Z",
       "tags": [
         "国内",
         "社会",
