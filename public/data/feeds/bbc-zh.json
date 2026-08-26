@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#0",
+      "title": "「我感到被騙了」：AI假醫師給台灣老人的震撼教育",
+      "meta": "BBC 中文 · 2026/8/26",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T03:58:37.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#1",
       "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T06:15:27.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad#1",
-      "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
-      "meta": "BBC 中文 · 2026/8/24",
-      "url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T05:16:33.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T03:18:06.613Z",
+  "updatedAt": "2026-08-26T04:56:00.106Z",
   "provider": "OneBench 公共资讯快照"
 }
