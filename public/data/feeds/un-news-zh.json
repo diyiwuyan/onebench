@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142695",
+      "title": "古特雷斯：联合国维和行动必须适应新的现实",
+      "meta": "联合国新闻 · 2026/8/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142694",
+      "title": "儿基会就巴基斯坦医院火灾导致14名新生儿死亡表示悲痛",
+      "meta": "联合国新闻 · 2026/8/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142694",
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142693",
       "title": "非洲的新宏伟目标：更多卫生工作者，更强大的卫生体系",
       "meta": "联合国新闻 · 2026/8/26",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142665",
       "publishedAt": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142664",
-      "title": "俄罗斯导弹袭击再次导致乌克兰17人死亡，古特雷斯呼吁停火",
-      "meta": "联合国新闻 · 2026/8/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142664",
-      "publishedAt": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142663",
-      "title": "几内亚比绍半数疑似猴痘病例为儿童",
-      "meta": "联合国新闻 · 2026/8/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142663",
-      "publishedAt": "2026-08-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T23:33:05.751Z",
+  "updatedAt": "2026-08-27T09:49:08.062Z",
   "provider": "OneBench 公共资讯快照"
 }
