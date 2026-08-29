@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:99d65c3f-e83d-4d1d-9574-d3e2522aa5cf",
+      "title": "刚果民主共和国境内本迪布焦病毒病疫情",
+      "meta": "世界卫生组织 · 2026/8/24",
+      "url": "https://www.who.int/zh/news-room/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations",
+      "publishedAt": "2026-08-24T16:39:32.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:a0ffe9af-2cfc-49b6-8d84-6c5828860870",
       "title": "世卫组织和非洲疾控中心欢迎向刚果民主共和国分配埃博拉疫苗",
       "meta": "世界卫生组织 · 2026/8/20",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/6/17",
       "url": "https://www.who.int/zh/news-room/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
       "publishedAt": "2026-06-17T13:30:57.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:690bd8cf-6a5c-454d-8264-3522b5419c43",
-      "title": "医疗产品警报2026年第2期",
-      "meta": "世界卫生组织 · 2026/6/16",
-      "url": "https://www.who.int/zh/news-room/16-06-2026-medical-product-alert-n-2-2026--falsified-jakavi-(ruxolitinib)",
-      "publishedAt": "2026-06-16T08:50:42.000Z"
     }
   ],
-  "updatedAt": "2026-08-29T02:48:54.003Z",
+  "updatedAt": "2026-08-29T11:05:28.923Z",
   "provider": "OneBench 公共资讯快照"
 }
