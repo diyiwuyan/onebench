@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#0",
+      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T12:37:59.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad#0",
+      "title": "Dolly Parton的父親生前不識字，於是她給數百萬孩子寄上書本",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T11:03:44.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#1",
       "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
@@ -34,7 +48,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#1",
-      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "title": "尼泊爾—西藏泥石流：中國總理赴前線意味著什麼？",
       "meta": "BBC 中文 · 2026/8/28",
       "url": "https://www.bbc.com/zhongwen/articles/c980env4n78o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T11:41:29.000Z"
@@ -68,7 +82,7 @@
       "publishedAt": "2026-08-28T05:35:04.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#1",
       "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
       "meta": "BBC 中文 · 2026/8/28",
       "url": "https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad?at_medium=RSS&at_campaign=rss",
@@ -94,20 +108,6 @@
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-27T16:52:46.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#1",
-      "title": "日本藝術家「波點女王」草間彌生逝世，享年97歲",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T09:40:20.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#1",
-      "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T06:36:56.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T08:18:47.238Z",
+  "updatedAt": "2026-08-30T14:52:13.433Z",
   "provider": "OneBench 公共资讯快照"
 }
