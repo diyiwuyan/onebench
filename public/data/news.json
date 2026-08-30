@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T00:20:14.691Z",
-  "expiresAt": "2026-08-30T06:20:14.691Z",
+  "generatedAt": "2026-08-30T08:18:47.238Z",
+  "expiresAt": "2026-08-30T14:18:47.238Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686615.shtml",
-      "title": "西藏吉隆“8·26”泥石流灾害已致16人遇难",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686818.shtml",
+      "title": "中吉人文交流持续深化",
       "category": "综合",
-      "summary": "今天(30日)，西藏吉隆“8·26”泥石流灾害新闻发布会在吉隆镇举行。8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日18时，灾害造成16人遇难，546人失联。",
+      "summary": "8月28日，在赴比什凯克对吉尔吉斯斯坦进行国事访问并出席2026年上海合作组织峰会前夕，习近平主席在吉尔吉斯斯坦媒体发表的署名文章中指出，中吉传统友谊是两国共同的宝贵财富。要深化两国文化、旅游、艺术、媒体、智库、青年、考古、卫生等交流合作，全面拉紧人文纽带。鼓励更多青年学子赴对方国家留学深造，支持地方交流走深走实。讲好中吉友好交往和互利合作故事，持续筑牢民心",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686615.shtml",
-      "publishedAt": "2026-08-30T00:15:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686818.shtml",
+      "publishedAt": "2026-08-30T08:06:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,7 +50,598 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#0",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686817.shtml",
+      "title": "中埃务实合作成果丰硕",
+      "category": "综合",
+      "summary": "中国和埃及是志同道合、彼此信任的好朋友，也是携手发展、共同繁荣的好伙伴。埃及是最早加入共建“一带一路”倡议的国家之一，中埃在两国元首战略引领下，持续深化共建“一带一路”合作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686817.shtml",
+      "publishedAt": "2026-08-30T08:03:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686807.shtml",
+      "title": "瑞士枪击事件已致1死5伤 警方展开大规模搜捕",
+      "category": "综合",
+      "summary": "中新网8月30日电 综合外媒报道，当地时间30日凌晨，瑞士阿尔高州首府阿劳市发生严重枪击事件，已致1人死亡、5人受伤。事发时现场正在举行电子音乐派对活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686807.shtml",
+      "publishedAt": "2026-08-30T08:03:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-30/1202620.shtml",
+      "title": "南非约翰内斯堡汽车节：中国汽车品牌受关注",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-30/1202620.shtml",
+      "publishedAt": "2026-08-30T08:01:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686803.shtml",
+      "title": "扬诺普洛斯被美国驱逐出境，曾主张“将不能证明自己合法居住在美国的人驱逐出境”",
+      "category": "综合",
+      "summary": "中新网8月30日电 综合路透社、英国广播公司网站30日报道，英国右翼政治评论员米洛·扬诺普洛斯在遭美国移民与海关执法局(ICE)拘留后，已被驱逐出境。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686803.shtml",
+      "publishedAt": "2026-08-30T08:00:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686813.shtml",
+      "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问",
+      "category": "综合",
+      "summary": "新华社比什凯克8月30日电(记者马卓言)当地时间8月30日下午，国家主席习近平乘专机抵达比什凯克，应吉尔吉斯斯坦总统扎帕罗夫邀请，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686813.shtml",
+      "publishedAt": "2026-08-30T07:57:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686810.shtml",
+      "title": "网友建议取消ETC设备使用？官方回复来了",
+      "category": "综合",
+      "summary": "建议取消ETC设备使用，建议车牌感应支付",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686810.shtml",
+      "publishedAt": "2026-08-30T07:56:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-30/10686802.shtml",
+      "title": "AI出海、仿生芯片、人形机器人：海归创业者逐梦新赛道",
+      "category": "综合",
+      "summary": "中新网北京8月30日电 题：AI出海、仿生芯片、人形机器人：海归创业者逐梦新赛道",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-30/10686802.shtml",
+      "publishedAt": "2026-08-30T07:52:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686801.shtml",
+      "title": "（乡村行·看振兴）小花生“链”出大产业 安徽定远“炒”出振兴香",
+      "category": "综合",
+      "summary": "中新网滁州8月30日电(刘鸿鹤)八月中下旬，位于安徽省东部的定远县藕塘镇迎来花生丰收季。广袤田间硕果累累，产业园区内机器轰鸣，浓郁的坚果焦香弥漫街巷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686801.shtml",
+      "publishedAt": "2026-08-30T07:51:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686809.shtml",
+      "title": "新华图讯｜习近平抵达比什凯克",
+      "category": "综合",
+      "summary": "当地时间8月30日下午，国家主席习近平抵达吉尔吉斯斯坦首都比什凯克，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686809.shtml",
+      "publishedAt": "2026-08-30T07:50:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686804.shtml",
+      "title": "日本福井县遭遇强降雨 气象厅发布最高级别警报",
+      "category": "综合",
+      "summary": "中新网东京8月30日电(记者 朱晨曦)受锋面和暖湿气流影响，日本福井县30日遭遇强降雨。日本气象厅当天向福井县福井市、大野市和胜山市发布5级大雨特别警报，这是日本降雨预警系统中的最高级别警报。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686804.shtml",
+      "publishedAt": "2026-08-30T07:39:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686800.shtml",
+      "title": "云南下达1000万元支持磨憨镇水库险情处置和救灾",
+      "category": "综合",
+      "summary": "中新网8月30日电 据云南省应急管理厅微信公众号消息，8月30日，云南省财政厅、省应急管理厅紧急下达西双版纳州、昆明市省级自然灾害救灾资金1000万元，用于补助勐腊县磨憨镇盐塘水库漫溢险情应急处置及洪涝救灾方面的工作。要求充分发挥救灾资金使用效益，规范救灾资金流程控制，依法合规下达预算、分配和使用资金，确保救灾资金全部用于漫溢险情应急处置、排危除险、紧急转移",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686800.shtml",
+      "publishedAt": "2026-08-30T07:33:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686799.shtml",
+      "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问",
+      "category": "综合",
+      "summary": "新华社快讯：当地时间8月30日下午，国家主席习近平抵达吉尔吉斯斯坦首都比什凯克，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686799.shtml",
+      "publishedAt": "2026-08-30T07:23:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-30/10686798.shtml",
+      "title": "超123亿 2026电影暑期档已超去年同档期总票房",
+      "category": "综合",
+      "summary": "网络平台数据显示，截至今天(30日)13时，2026年暑期档电影总票房(含预售)突破123.4亿元，超过2025年暑期档收官总票房，实现暑期档票房连续两年增长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686798.shtml",
+      "publishedAt": "2026-08-30T07:19:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686797.shtml",
+      "title": "告别112哈尔滨舰！读懂“中华第一舰”背后的深蓝征途",
+      "category": "综合",
+      "summary": "被誉为“中华第一舰”的我国第二代国产导弹驱逐舰首舰112舰，日前在青岛某军港正式退出现役。从1994年入列到2026年退役，32年来，这艘功勋战舰的谢幕见证了中国海军从近海走向深蓝的跨越。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686797.shtml",
+      "publishedAt": "2026-08-30T07:18:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-30/10686795.shtml",
+      "title": "香港财政司司长：善用市场力量 提速北都发展",
+      "category": "综合",
+      "summary": "中新社香港8月30日电 香港特区政府财政司司长陈茂波30日发表网志表示，北部都会区(下称“北都”)是香港未来经济增长的重要新引擎。特区政府将善用市场力量，提速北都发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-30/10686795.shtml",
+      "publishedAt": "2026-08-30T07:09:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686790.shtml",
+      "title": "2026中国网球菁英团体邀请赛北京站首场火热开赛",
+      "category": "综合",
+      "summary": "中新网北京8月30日电 2026“沃尔沃汽车杯”中国网球菁英团体邀请赛北京站首场29日在北京朝阳体育中心火热开赛。作为2026“最朝阳”网球嘉年华暨第三届CYTA网球联赛规模最大的赛事，本次北京站首场汇聚北京各界网球精英，以球会友、挥拍争锋。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686790.shtml",
+      "publishedAt": "2026-08-30T07:05:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-30/10686781.shtml",
+      "title": "香港华侨华人总商会新一届理监事就职",
+      "category": "综合",
+      "summary": "中新网香港8月30日电 香港华侨华人总商会第六届理监事就职典礼29日晚在港举行，新一届理监事会正式履新。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-30/10686781.shtml",
+      "publishedAt": "2026-08-30T07:03:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113974",
+      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
+      "category": "科技",
+      "summary": "我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113974",
+      "publishedAt": "2026-08-30T07:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-30/10686788.shtml",
+      "title": "“探索中国 非遗同行”活动在澳大利亚悉尼举行",
+      "category": "综合",
+      "summary": "中新网悉尼8月30日电 (记者 薄雯雯)由中国驻悉尼总领事馆主办的“探索中国 非遗同行”活动30日在澳大利亚悉尼谊园举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-30/10686788.shtml",
+      "publishedAt": "2026-08-30T06:56:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-30/10686789.shtml",
+      "title": "《桨去水合：苏民文集》新书发布会在京举行",
+      "category": "综合",
+      "summary": "中新网北京8月30日电 (记者 高凯)为纪念著名表演艺术家、导演艺术家、戏剧教育家苏民先生诞辰100周年，由北京出版社出版的《桨去水合：苏民文集》新书发布会日前在北京人民艺术剧院首都剧场举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686789.shtml",
+      "publishedAt": "2026-08-30T06:56:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686786.shtml",
+      "title": "甘肃肃北祁连山下“转场记”",
+      "category": "综合",
+      "summary": "中新网兰州8月30日电 (记者 冯志军 高莹)将具有野性血统的公牦牛“请出山”，研发推广良种繁育项目；以科技赋能深度实践联农带农，塑新“雪山羊”品牌和知名度；拓宽本地骆驼养殖及奶源成本优势，借力外部加工撬动市场新赛道……近年来，“三畜兴旺”的故事，正从祁连雪山深处的高原牧场“娓娓道来”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686786.shtml",
+      "publishedAt": "2026-08-30T06:55:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#0",
+      "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
+      "category": "国际",
+      "summary": "官方數據稱今年只有1811隻烏賊前來交配，比去年下降了97%，這可能會對明年的族群數量產生影響。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T06:45:53.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686782.shtml",
+      "title": "厄尔尼诺来袭 巴西加强公众急救培训",
+      "category": "综合",
+      "summary": "中新网圣保罗8月30日电(记者 林春茵)当地时间29日，巴中经贸交流中心医学培训中心在巴西圣保罗启动常态化急救公益培训。首批20余名学员来自当地华社、中资企业、孔子学院等机构。随着新一轮强厄尔尼诺临近，巴西正从医疗救援体系建设到公众防灾急救培训等多个层面加强准备，这场面向普通民众的培训也是其中一个缩影。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686782.shtml",
+      "publishedAt": "2026-08-30T06:45:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686794.shtml",
+      "title": "8月已生成10个台风！今年台风，为何如此活跃？",
+      "category": "综合",
+      "summary": "今年全球台风频发",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686794.shtml",
+      "publishedAt": "2026-08-30T06:44:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-30/10686793.shtml",
+      "title": "利润暴增2000%！订单排到2028年！“芯”浪潮，来了",
+      "category": "综合",
+      "summary": "前7个月我国集成电路出口额超去年全年",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686793.shtml",
+      "publishedAt": "2026-08-30T06:39:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686791.shtml",
+      "title": "无人机培训“包拿证”“包就业”？莫轻信！",
+      "category": "综合",
+      "summary": "莫轻信！无人机培训“包拿证”“包就业”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686791.shtml",
+      "publishedAt": "2026-08-30T06:33:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-30/10686787.shtml",
+      "title": "参观生产线、购买周边文创……智造工厂逛出新花样",
+      "category": "综合",
+      "summary": "智造工厂逛出新花样",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686787.shtml",
+      "publishedAt": "2026-08-30T06:30:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686784.shtml",
+      "title": "12秒传完8K月照！我国地月双向高速激光通信实现重大突破",
+      "category": "综合",
+      "summary": "近日，我国成功完成超40万公里、地月双向高速激光通信试验，这一重大突破，相当于在地球和月球之间搭建起了一条稳定、高速的太空信息通道，为后续月球和深空探测等任务奠定了通信根基。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686784.shtml",
+      "publishedAt": "2026-08-30T06:22:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686783.shtml",
+      "title": "西藏吉隆泥石流灾害新闻发布会实录",
+      "category": "综合",
+      "summary": "30日，西藏自治区人民政府新闻办公室举行新闻发布会，西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部指挥长、自治区党委副书记，自治区主席嘎玛泽登；西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部常务副指挥长，自治区党委常委，自治区常务副主席任维；西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部副指挥长，自治区副主席赵鹏；西藏自治区吉隆县“8·26",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686783.shtml",
+      "publishedAt": "2026-08-30T06:17:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686756.shtml",
+      "title": "访武警遵义支队：“往哪去”是对官兵成长与部队建设的思考",
+      "category": "综合",
+      "summary": "中新网遵义8月30日电 (记者 李纯)在中国工农红军的历史上，长征期间的遵义会议是一个生死攸关的转折点，在极端危急的历史关头挽救了中国革命，也让贵州遵义因此闻名于世。91年后的今天，武警遵义支队正驻守在这座“转折之城”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686756.shtml",
+      "publishedAt": "2026-08-30T06:02:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-30/10686755.shtml",
+      "title": "海南封关看变化：国际化营商环境不断优化，让外企外籍人士“一来无忧”",
+      "category": "综合",
+      "summary": "中新网海口8月30日电 (张茜翼 王俞力)在29日举行的“高标准建设海南自由贸易港”(长春市)专场新闻发布会上，海南省营商环境建设厅副厅长、新闻发言人王雪皓用一句话勾勒出海南对全球投资者的承诺——“一到海南，万事不难”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686755.shtml",
+      "publishedAt": "2026-08-30T06:01:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad#0",
+      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
+      "category": "国际",
+      "summary": "中方調查專家稱，造成泥石流的冰岩崩從發生到衝擊西藏吉隆口岸僅約6到7分鐘。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T05:58:22.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad#0",
+      "title": "尼泊爾洪災：最新衛星圖像揭示村莊災情的嚴重程度",
+      "category": "国际",
+      "summary": "衛星對比圖像曝光尼泊爾洪災的嚴峻災情。許多村莊、橋樑和西藏邊境的重要過境點被毀滅性的洪水沖毀。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T03:53:00.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#1",
       "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
       "category": "国际",
       "summary": "接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。",
@@ -63,528 +654,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-30/10686614.shtml",
-      "title": "8月30日早报",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-30/10686614.shtml",
-      "publishedAt": "2026-08-29T23:03:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
-      "title": "尼日尔军方称逮捕多名企图发动兵变的士兵",
-      "category": "综合",
-      "summary": "当地时间8月29日，总台记者获悉，尼日尔国防部表示，该国国防与安全部队已成功挫败当天发生在首都尼亚美的兵变企图，多名参与叛乱的士兵被现场逮捕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
-      "publishedAt": "2026-08-29T22:46:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
-      "title": "美称与委内瑞拉达成石油协议 被批“公然盗窃”",
-      "category": "综合",
-      "summary": "美国总统特朗普当地时间8月28日在社交媒体发文宣布，美国已与委内瑞拉达成协议，获得对委内瑞拉已探明石油储量中逾650亿桶的“多数控制权”。该协议遭到多方批评，美方的行为也被网友怒斥为是对委内瑞拉石油的“公然盗窃”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
-      "publishedAt": "2026-08-29T22:43:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
-      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
-      "category": "综合",
-      "summary": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过伊朗的协调和许可。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
-      "publishedAt": "2026-08-29T22:16:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
-      "title": "斯诺克武汉公开赛：常冰玉斩获首个排名赛冠军",
-      "category": "综合",
-      "summary": "中新社武汉8月30日电 (记者 张芹)2026世界斯诺克武汉公开赛29日晚收官。决赛中，常冰玉以10：7击败赵心童，获得个人职业生涯首个斯诺克排名赛冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
-      "publishedAt": "2026-08-29T22:09:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
-      "title": "强降雨致云南磨憨水库漫坝 紧急转移2200余人",
-      "category": "综合",
-      "summary": "中新社昆明8月29日电 (陆希成)昆明市防汛抗旱指挥部办公室29日通报，8月28日至29日，磨憨镇出现强降雨，辖区河道水位持续上涨，该镇磨龙村盐塘水库出现漫坝险情，有溃坝风险。截至8月29日16时，已转移2200余人。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
-      "publishedAt": "2026-08-29T22:09:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
-      "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
-      "category": "综合",
-      "summary": "中新社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
-      "publishedAt": "2026-08-29T22:08:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686607.shtml",
-      "title": "中超第25轮：国安战平英博 降级区内斗海牛惨败",
-      "category": "综合",
-      "summary": "中新社北京8月29日电 (刘梦青)2026赛季中超联赛第25轮比赛29日全部战罢。争冠集团中，北京国安与大连英博上演强强对话，最终双方1:1握手言和。降级区展开内斗，武汉三镇5:1横扫青岛海牛。海牛吞下联赛八连败的苦果，排名垫底。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686607.shtml",
-      "publishedAt": "2026-08-29T16:02:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
-      "title": "准确溯源冰岩崩位置 中方部署卫星遥感加强吉隆泥石流灾害监测",
-      "category": "综合",
-      "summary": "中新社北京8月29日电 (记者 郭超凯 陈溯)记者29日从中国应急管理部获悉，该部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对西藏日喀则市吉隆县泥石流灾害过程开展监测。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
-      "publishedAt": "2026-08-29T15:29:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686603.shtml",
-      "title": "西藏自治区政协向全区各级政协委员发出倡议",
-      "category": "综合",
-      "summary": "致全区各级政协委员的倡议书",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686603.shtml",
-      "publishedAt": "2026-08-29T15:18:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686602.shtml",
-      "title": "记者手记：在尼泊尔灾区，我带5名获救同胞回“加”",
-      "category": "综合",
-      "summary": "中新社加德满都8月29日电 题：记者手记：在尼泊尔灾区，我带5名获救同胞回“加”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686602.shtml",
-      "publishedAt": "2026-08-29T15:07:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686598.shtml",
-      "title": "三部门调拨1万件中央救灾物资支持云南受灾群众安置",
-      "category": "综合",
-      "summary": "中新网8月29日电 据“应急管理部”微信公众号消息，8月29日，国家防灾减灾救灾委员会办公室、应急管理部针对近期强降雨导致云南昆明市磨憨磨丁经济合作区洪涝灾害影响，根据灾区群众避险转移和安置救助需要，会同国家粮食和物资储备局调拨帐篷、折叠床、被子、毛毯等1万件中央救灾物资，支持灾区做好救灾救助工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686598.shtml",
-      "publishedAt": "2026-08-29T14:53:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202558.shtml",
-      "title": "武警日喀则支队救援官兵组织河道一侧搜救清淤工作",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202558.shtml",
-      "publishedAt": "2026-08-29T14:49:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686599.shtml",
-      "title": "王毅同尼泊尔外长希西尔通电话",
-      "category": "综合",
-      "summary": "新华社北京8月29日电#8195;中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686599.shtml",
-      "publishedAt": "2026-08-29T14:46:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-29/10686568.shtml",
-      "title": "武警日喀则支队在吉隆口岸附近任务区域开展现场消杀作业",
-      "category": "综合",
-      "summary": "8月29日下午，武警日喀则支队卫勤保障分队在吉隆口岸附近任务区域开展现场消杀作业。杨鑫瑞 摄 8月29日下午，武警日喀则支队卫勤保障分队在吉隆口岸附近任务区域开展现场消杀作业。杨鑫瑞 摄 8月29日下午，武警日喀则支队卫勤保障分队在吉隆口岸附近任务区域开展现场消杀作业。杨鑫瑞 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-29/10686568.shtml",
-      "publishedAt": "2026-08-29T14:39:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-29/10686571.shtml",
-      "title": "香港多家机构捐款支援西藏吉隆泥石流灾区救援工作",
-      "category": "综合",
-      "summary": "中新网香港8月29日电 8月26日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。连日来，香港各界心系灾区灾情，多家机构捐款支持吉隆泥石流灾区救援工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-29/10686571.shtml",
-      "publishedAt": "2026-08-29T14:12:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-29/10686583.shtml",
-      "title": "港深在皇岗口岸举行第二次跨境压力测试 科技助力高效通关",
-      "category": "综合",
-      "summary": "中新社香港8月29日电(记者 邱兆翔 索有为)香港特区政府29日在皇岗口岸与深圳相关单位合作举行第二次跨境压力测试，特区政府共动员超2万名公务员参与。中新社记者在现场看到，高科技设备在测试中频频亮相，助力皇岗口岸高效、安全通关。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-29/10686583.shtml",
-      "publishedAt": "2026-08-29T14:10:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686566.shtml",
-      "title": "赛事成果落地 全国医保影像AI识图大赛赋能广西智慧医疗",
-      "category": "综合",
-      "summary": "中新网南宁8月29日电(韦佳秀)“我们每年归集原始医疗影像数据达到3000万例，经过脱敏处理、质控管理等，能够为AI训练提供坚实的数据基础。”广西医保局办公室二级调研员黄鸿海近日在广西南宁表示，广西医保影像云平台上经过规范化处理的医疗影像资源，是正在广西举办的全国医保影像AI识图大赛开展技术竞技的重要依托。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686566.shtml",
-      "publishedAt": "2026-08-29T14:04:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-29/10686565.shtml",
-      "title": "数智激活电商动能 中国新电商大会共探AI产业新机遇",
-      "category": "综合",
-      "summary": "中新网吉林8月29日电(记者 苍雁 石洪宇)第六届中国新电商大会29日在吉林省吉林市开幕。大会期间举办的“人工智能+新电商”分论坛上，来自政府、企业和学术界的代表共话AI赋能驱动产业新增长。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686565.shtml",
-      "publishedAt": "2026-08-29T14:03:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686562.shtml",
-      "title": "今年以来广西东兴口岸共查验出入境人员650万余人次",
-      "category": "综合",
-      "summary": "中新网广西防城港8月29日电(黄浩铭 王凯婷 周荣宝)东兴出入境边防检查站28日提供的数据显示，今年以来，东兴口岸出入境人员数量已突破650万人次，较去年同期增长10.5%，日均出入境客流量达2.7万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686562.shtml",
-      "publishedAt": "2026-08-29T14:01:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-29/10686564.shtml",
-      "title": "香港芭蕾舞团携“港风”《罗密欧+茱丽叶》登台国家大剧院",
-      "category": "综合",
-      "summary": "中新社北京8月29日电 (记者 应妮)香港芭蕾舞团(简称“港芭”)29日晚携原创芭蕾舞剧《罗密欧+茱丽叶》登台国家大剧院，呈现一场独具香港特色的莎翁经典。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686564.shtml",
-      "publishedAt": "2026-08-29T14:01:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686561.shtml",
-      "title": "云南磨憨强降雨致水库漫坝 超2200人紧急转移",
-      "category": "综合",
-      "summary": "中新网昆明8月29日电(陆希成)昆明市防汛抗旱指挥部办公室29日通报，8月28日至29日，位于中老边境的西双版纳磨憨镇出现强降雨，辖区河道水位持续上涨，该镇磨龙村盐塘水库出现漫坝险情，存在溃坝风险。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686561.shtml",
-      "publishedAt": "2026-08-29T14:00:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686578.shtml",
-      "title": "第六届两岸共同市场海河论坛在天津举办",
-      "category": "综合",
-      "summary": "中新社天津8月29日电 (记者 孙玲玲)以“格局之变与共赢之路”为主题的第六届两岸共同市场海河论坛29日在天津举办。来自两岸政产学研各界的百余名嘉宾参会，围绕“锚定‘十五五’新局，共筑两岸共同市场新生态”等议题展开研讨。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686578.shtml",
-      "publishedAt": "2026-08-29T13:58:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-29/10686559.shtml",
-      "title": "年产值可达200亿元 天津子牙经开区借循环经济链通中亚市场",
-      "category": "综合",
-      "summary": "中新网天津8月29日电 题：年产值可达200亿 天津子牙经开区借循环经济链通中亚市场",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686559.shtml",
-      "publishedAt": "2026-08-29T13:58:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686581.shtml",
-      "title": "应急管理部部署卫星遥感加强吉隆泥石流灾害监测",
-      "category": "综合",
-      "summary": "中新网8月29日电 据应急管理部网站消息，卫星遥感具有全天候、全天时、高动态等观测优势。根据西藏日喀则市吉隆县泥石流灾害救援需要，应急管理部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对灾害过程开展监测。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686581.shtml",
-      "publishedAt": "2026-08-29T13:57:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686579.shtml",
-      "title": "中国新能源公交车驶入比什凯克市民日常",
-      "category": "综合",
-      "summary": "中新社比什凯克8月29日电 题：中国新能源公交车驶入比什凯克市民日常",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686579.shtml",
-      "publishedAt": "2026-08-29T13:56:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686554.shtml",
-      "title": "张家川非遗“十三花”津门展演 东西部厨艺共融出新",
-      "category": "综合",
-      "summary": "中新网天津8月29日电(周亚强 孙翼飞)29日，以“津陇味交融，厨艺共传承”为主题的餐饮交流活动在天津滨海新区启动。来自甘肃省张家川回族自治县的餐饮名店代表与天津滨海新区资深厨师同台切磋，共研融合菜品新路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686554.shtml",
-      "publishedAt": "2026-08-29T13:56:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-29/10686553.shtml",
-      "title": "皇岗口岸跨境通关压力测试 深港2万人“极限大考”",
-      "category": "综合",
-      "summary": "中新网深圳8月29日电 (记者 索有为)8月29日，深圳相关单位与香港特区政府联合在皇岗口岸进行跨境通关压力测试，这是皇岗口岸自7月31日港方口岸区启用以来规模最大的一次深港联合行动，2万人与超1000辆各类车辆在同一时空有序流转。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-29/10686553.shtml",
-      "publishedAt": "2026-08-29T13:54:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-29/10686552.shtml",
-      "title": "中国—东盟共商智能机器人出海合作",
-      "category": "综合",
-      "summary": "【东盟专线】中国—东盟共商智能机器人出海合作",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-29/10686552.shtml",
-      "publishedAt": "2026-08-29T13:50:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -787,7 +856,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#1",
       "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
       "category": "国际",
       "summary": "在中國，災難應對往往也帶有政治訊號。尤其是中共中央總書記作出「重要指示」，或總理、副總理親赴現場，通常意味著北京把事件視為需要高度關注和統籌應對的重大危機。",
@@ -908,25 +977,8 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
-      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
-      "category": "国际",
-      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各數百人失聯，其中包括大批外國遊客。中國總理李強抵達吉隆指導救災。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T05:05:14.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#0",
-      "title": "「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？",
+      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
       "category": "国际",
       "summary": "市場分析公司統計，全球集換式卡牌（TCG）市場規模到2031年有望升至128.6億美元。原本屬於小朋友的遊戲工具，何以突然變成「紙上黃金」？",
       "source": "BBC 中文",
@@ -960,8 +1012,8 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#1",
-      "title": "女性罵髒話很低劣嗎？莫迪批評言論引燃印度「蟑螂人民黨」示威後續辯論",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#4",
+      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
       "category": "国际",
       "summary": "印度在野黨議員拉胡爾·甘地的言論再次引發有關性別差異的辯論，焦點在於人們對辱罵總理莫迪言論的反應是否因性別而有所不同。",
       "source": "BBC 中文",
@@ -1030,7 +1082,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#1",
       "title": "科學家分析尼泊爾—西藏致命山洪的來龍去脈",
       "category": "国际",
       "summary": "美國地質調查局（USGS）表示，這場災難的成因是一次冰川崩塌，但專家仍在調查洪水如何在下游發展並造成嚴重影響。",
@@ -1242,24 +1294,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113873",
-      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
-      "category": "科技",
-      "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113873",
-      "publishedAt": "2026-08-26T23:33:04.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142695",
       "title": "古特雷斯：联合国维和行动必须适应新的现实",
       "category": "国际",
@@ -1368,7 +1402,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#5",
       "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
       "category": "国际",
       "summary": "近日，中國河北省被揭發收購商為達到保鮮效果，將大白菜蘸取工業甲醛，再裝車運輸到外地，事件引發官方及輿論高度關注。",
@@ -1528,23 +1562,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#5",
-      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
-      "category": "国际",
-      "summary": "這是普京執政逾25年來首次踏足「北方四島」（俄稱南千島群島）之一。當前正值俄羅斯遭遇來自烏克蘭一波接一波的無人機攻勢之際，普京為何要在此時親赴遠東登島？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:28:45.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#5",
       "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
       "category": "国际",
@@ -1657,23 +1674,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T06:15:27.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad#4",
-      "title": "老乾媽陶華碧教會我們的七件事",
-      "category": "国际",
-      "summary": "陶華碧憑藉其老乾媽辣椒醬帝國脫貧，蛻變成「中國最火辣的女人」，並成為風靡全球的網絡熱話。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T00:02:12.000Z",
       "tags": [
         "国际",
         "商业",
