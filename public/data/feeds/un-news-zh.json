@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142711",
+      "title": "【子午播报】2026年8月29日",
+      "meta": "联合国新闻 · 2026/8/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142711",
+      "publishedAt": "2026-08-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142709",
+      "title": "【世界进行时】2026年8月28日",
+      "meta": "联合国新闻 · 2026/8/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142709",
+      "publishedAt": "2026-08-28T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142708",
       "title": "世卫组织：乌克兰医疗体系持续承受战争冲击",
       "meta": "联合国新闻 · 2026/8/28",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142681",
       "publishedAt": "2026-08-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142680",
-      "title": "粮农组织：释放园艺业潜力是促使农业食品体系转型、提供健康膳食的关键",
-      "meta": "联合国新闻 · 2026/8/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142680",
-      "publishedAt": "2026-08-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142679",
-      "title": "联合国：儿童和青少年仍面临艾滋病毒防治缺口",
-      "meta": "联合国新闻 · 2026/8/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142679",
-      "publishedAt": "2026-08-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-29T20:55:40.646Z",
+  "updatedAt": "2026-08-30T00:20:14.691Z",
   "provider": "OneBench 公共资讯快照"
 }

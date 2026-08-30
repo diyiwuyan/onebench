@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#0",
+      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T00:14:20.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#0",
       "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
       "meta": "BBC 中文 · 2026/8/28",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-08-28T08:14:57.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#1",
       "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
       "meta": "BBC 中文 · 2026/8/28",
       "url": "https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad?at_medium=RSS&at_campaign=rss",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T07:35:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#1",
-      "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
-      "meta": "BBC 中文 · 2026/8/26",
-      "url": "https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T05:40:19.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-29T20:55:40.646Z",
+  "updatedAt": "2026-08-30T00:20:14.691Z",
   "provider": "OneBench 公共资讯快照"
 }
