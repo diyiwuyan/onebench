@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142714",
+      "title": "【专题报道 | 前方视野】《武器贸易条约》履约状况持续下滑",
+      "meta": "联合国新闻 · 2026/8/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142714",
+      "publishedAt": "2026-08-30T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142711",
       "title": "【子午播报】2026年8月29日",
       "meta": "联合国新闻 · 2026/8/29",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142682",
       "publishedAt": "2026-08-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142681",
-      "title": "联合国：乌克兰战争持续升级，平民伤亡和人道主义需求加剧",
-      "meta": "联合国新闻 · 2026/8/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142681",
-      "publishedAt": "2026-08-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T22:44:04.347Z",
+  "updatedAt": "2026-08-31T05:35:25.173Z",
   "provider": "OneBench 公共资讯快照"
 }
