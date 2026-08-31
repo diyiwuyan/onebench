@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142716",
+      "title": "风险加剧：海平面上升对人类意味着什么",
+      "meta": "联合国新闻 · 2026/8/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142716",
+      "publishedAt": "2026-08-31T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142714",
       "title": "【专题报道 | 前方视野】《武器贸易条约》履约状况持续下滑",
       "meta": "联合国新闻 · 2026/8/30",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142647",
       "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142682",
-      "title": "联合国谴责南苏丹伏击事件，两名维和人员遇害",
-      "meta": "联合国新闻 · 2026/8/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142682",
-      "publishedAt": "2026-08-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T13:50:55.061Z",
+  "updatedAt": "2026-08-31T20:05:16.613Z",
   "provider": "OneBench 公共资讯快照"
 }
