@@ -6,10 +6,17 @@
   "items": [
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#0",
-      "title": "上合組織25週年：中國舞臺、伊朗考驗，還是「清談場所」？",
+      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T08:58:51.000Z"
+      "publishedAt": "2026-09-01T14:11:23.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad#0",
+      "title": "泥石流摧毀西藏吉隆口岸的關鍵幾分鐘",
+      "meta": "BBC 中文 · 2026/9/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:01:05.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad#3",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-09-01T05:03:05.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crer81r33pno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crer81r33pno/trad#1",
       "title": "數百名水力發電工人受困隧道：尼泊爾地下夢魘",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/crer81r33pno/trad?at_medium=RSS&at_campaign=rss",
@@ -138,13 +145,6 @@
       "publishedAt": "2026-08-30T05:58:22.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad#1",
-      "title": "衛星圖像揭示村莊災情的嚴重程度",
-      "meta": "BBC 中文 · 2026/8/30",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T03:53:00.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad#2",
       "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
       "meta": "BBC 中文 · 2026/8/28",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T11:39:24.269Z",
+  "updatedAt": "2026-09-01T16:40:34.196Z",
   "provider": "OneBench 公共资讯快照"
 }

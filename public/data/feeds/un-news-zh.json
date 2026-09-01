@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142722",
+      "title": "尼泊尔洪灾：死亡人数持续攀升，妇女和女童处境令人担忧",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142722",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142719",
+      "title": "尽管全球烟草产量下降，非洲产量仍在增加",
+      "meta": "联合国新闻 · 2026/8/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142719",
+      "publishedAt": "2026-08-31T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142718",
+      "title": "超越贫困：扩大东亚及太平洋地区中产阶级面临更大挑战",
+      "meta": "联合国新闻 · 2026/8/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142718",
+      "publishedAt": "2026-08-31T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142717",
+      "title": "尼泊尔洪灾死亡人数超过900人，救援需求持续增加",
+      "meta": "联合国新闻 · 2026/8/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142717",
+      "publishedAt": "2026-08-31T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142716",
       "title": "风险加剧：海平面上升对人类意味着什么",
       "meta": "联合国新闻 · 2026/8/31",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/8/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142687",
       "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142686",
-      "title": "【世界交汇点】对话刘克凡——在联合国做新闻的26年",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142686",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142685",
-      "title": "古特雷斯：必须打破武装冲突与粮食不安全之间的恶性循环",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142685",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142684",
-      "title": "联合国秘书长与红十字会主席再次呼吁制定致命自主武器规则",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142684",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142647",
-      "title": "【专题报道】地中海的另一场“奥德赛”：生态宝藏何以走出危机",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142647",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T11:39:24.269Z",
+  "updatedAt": "2026-09-01T16:40:34.196Z",
   "provider": "OneBench 公共资讯快照"
 }
