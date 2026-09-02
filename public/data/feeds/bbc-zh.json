@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#0",
+      "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
+      "meta": "BBC 中文 · 2026/9/2",
+      "url": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T00:01:34.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad#0",
+      "title": "日本企業大舉押注印度 中國風險加深之際尋求新成長",
+      "meta": "BBC 中文 · 2026/9/2",
+      "url": "https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T00:01:30.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#0",
       "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
       "meta": "BBC 中文 · 2026/9/1",
@@ -33,14 +47,14 @@
       "publishedAt": "2026-09-01T05:45:54.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad#2",
       "title": "Shein香港上市首日股價下跌 期待已久的股市首秀表現疲弱",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T05:24:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/trad#1",
       "title": "尼泊爾—西藏泥石流：吉隆口岸為何是朝聖之路上的重要關口？",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/trad?at_medium=RSS&at_campaign=rss",
@@ -89,13 +103,6 @@
       "publishedAt": "2026-08-31T09:41:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980y406995o/trad#2",
-      "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
-      "meta": "BBC 中文 · 2026/8/31",
-      "url": "https://www.bbc.com/zhongwen/articles/c980y406995o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T09:35:51.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad#2",
       "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
       "meta": "BBC 中文 · 2026/8/31",
@@ -136,13 +143,6 @@
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T06:45:53.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad#1",
-      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
-      "meta": "BBC 中文 · 2026/8/30",
-      "url": "https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T05:58:22.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T21:02:17.551Z",
+  "updatedAt": "2026-09-02T00:14:43.529Z",
   "provider": "OneBench 公共资讯快照"
 }

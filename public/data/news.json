@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T21:02:17.551Z",
-  "expiresAt": "2026-09-02T03:02:17.551Z",
+  "generatedAt": "2026-09-02T00:14:43.529Z",
+  "expiresAt": "2026-09-02T06:14:43.529Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,562 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688395.shtml",
+      "title": "烘焙界的“世界杯”，中国人夺冠",
+      "category": "综合",
+      "summary": "冰点人物",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688395.shtml",
+      "publishedAt": "2026-09-02T00:10:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
+      "title": "养老监护缺失，谁来“兜底”",
+      "category": "综合",
+      "summary": "保姆张梅发现，照顾了患有阿尔茨海默病的84岁老人5年后，聘请她的雇主、老人的女儿王丽也患上了阿尔茨海默病。母女二人在上海普陀区独居，白天，张梅要照顾二人洗澡、如厕，给她们做饭、喂药。半夜，她要起身帮王丽和母亲换湿掉的衣服，哄着她们入睡。张梅不堪重负、打算离职，又找不到接管这对母女的人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
+      "publishedAt": "2026-09-02T00:04:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-02/10688388.shtml",
+      "title": "各开10家网店非法销售盗版教材 两男子分别获刑并处罚金",
+      "category": "综合",
+      "summary": "本报记者 罗莎莎",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-02/10688388.shtml",
+      "publishedAt": "2026-09-02T00:02:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#0",
+      "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
+      "category": "国际",
+      "summary": "事發河谷上游已形成兩個堰塞湖。與此同時，原本散佈在喜馬拉雅山區的冰川湖，在災區內有10座被標記為高風險，專家形容它們是「定時炸彈」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T00:01:34.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad#0",
+      "title": "日本企業大舉押注印度 中國風險加深之際尋求新成長",
+      "category": "国际",
+      "summary": "日本企業正加碼布局印度，因國內市場萎縮及中國風險升高。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T00:01:30.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-02/10688387.shtml",
+      "title": "AI与人工客服流转规则有“标”可依",
+      "category": "综合",
+      "summary": "《顾客联络服务 人工与智能客户服务协同要求》实施",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-02/10688387.shtml",
+      "publishedAt": "2026-09-01T23:56:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml",
+      "title": "促进民营经济高质量发展丨解难题、送政策，看民营企业如何轻装出海",
+      "category": "综合",
+      "summary": "新华社北京8月30日电 题：解难题、送政策，看民营企业如何轻装出海",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml",
+      "publishedAt": "2026-09-01T23:52:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688385.shtml",
+      "title": "博物馆的“距今”为何年年不变？碳-14测年基准揭秘",
+      "category": "综合",
+      "summary": "走进博物馆，“距今约3000年”“距今约10000年”的说明牌随处可见。老实说，你在参观时，有没有在心里嘀咕过——这数字怎么年年都不变？是不是博物馆一直偷懒没换？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688385.shtml",
+      "publishedAt": "2026-09-01T23:49:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202851.shtml",
+      "title": "习近平抵达开罗对埃及进行国事访问",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202851.shtml",
+      "publishedAt": "2026-09-01T23:47:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688383.shtml",
+      "title": "台风蓝色预警：“沙德尔”强降雨影响5省 南海大部风力较强",
+      "category": "综合",
+      "summary": "中国天气网讯 中央气象台9月2日06时继续发布台风蓝色预警：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688383.shtml",
+      "publishedAt": "2026-09-01T23:42:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-02/10688382.shtml",
+      "title": "如何将“健康第一”摆上餐桌？记者探访“开学第一餐”",
+      "category": "综合",
+      "summary": "开学第一天不仅要让孩子们学得好，也要吃得好。上午10点45分，在工作人员的带领下，记者走进北京市海淀区第二十中学附属实验学校的后厨，一进门烟火气扑面而来。操作台上各类菜品被摆放得整整齐齐，铁锅翻炒滋滋作响，师傅们正忙着烹制孩子们中午的午餐，土豆炖牛肉、素什锦轮番出锅，热气裹挟着饭菜香气在后厨弥漫。一旁的万能蒸烤箱精准控制油盐用量和烹饪时间，再也不靠老师傅凭手",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688382.shtml",
+      "publishedAt": "2026-09-01T23:39:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml",
+      "title": "美众议院通过临时拨款法案，以避免政府在中期选举前“停摆”",
+      "category": "综合",
+      "summary": "中新网9月2日电 据英国《卫报》报道，美国众议院当地时间9月1日通过了一项临时拨款法案，以避免政府在11月中期选举前“停摆”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml",
+      "publishedAt": "2026-09-01T23:38:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688380.shtml",
+      "title": "我国科研团队首次实现高光谱相机实时解析",
+      "category": "综合",
+      "summary": "高光谱成像能通过物质特有的光谱信息识别材质和成分，是遥感监测、工业检测等领域的重要技术。近日，北京理工大学科研团队首创片上光谱计算新方法，将原本依赖大型服务器完成的光谱解析集成到便携设备中，实现高光谱信息的现场实时处理。相关成果近日发表于国际学术期刊《科学》。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688380.shtml",
+      "publishedAt": "2026-09-01T23:37:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml",
+      "title": "希奇莱马宣誓就任赞比亚总统 开启第二个五年任期",
+      "category": "综合",
+      "summary": "中新社约翰内斯堡9月1日电 卢萨卡消息：赞比亚总统哈凯恩德·希奇莱马当地时间9月1日在首都卢萨卡宣誓就职，开启第二个五年任期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml",
+      "publishedAt": "2026-09-01T23:36:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
+      "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
+      "category": "综合",
+      "summary": "中新社柏林9月1日电 德国政府9月1日表示，俄罗斯应对8月上旬发生在德东部莱比锡机场的无人机袭击未遂事件负责，并宣布关闭俄罗斯驻波恩总领事馆等一系列反制措施。俄方否认参与事件，并表示将采取对等回应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
+      "publishedAt": "2026-09-01T23:33:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml",
+      "title": "英国首相伯纳姆在议会发表声明 阐述施政方向",
+      "category": "综合",
+      "summary": "中新社伦敦9月1日电 (记者 欧阳开宇)当地时间9月1日，英国首相安迪·伯纳姆首次以首相身份在议会下院发表重要政策声明，系统阐述施政方向，涉及对外安全、移民、经济民生、权力下放、公用事业改革等多项重大议题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml",
+      "publishedAt": "2026-09-01T23:33:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
+      "title": "“开学第一课”：俄宇航员与学生定下五年中文之约",
+      "category": "综合",
+      "summary": "中新社莫斯科9月1日电 (记者 田冰)9月1日是俄罗斯“知识日”，也是新学年开学日。在师生、家长和各界嘉宾的见证下，俄罗斯中国国际学校当天迎来别具意义的“开学第一课”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
+      "publishedAt": "2026-09-01T23:32:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688371.shtml",
+      "title": "中国第二批援尼紧急援助物资雨中运抵加德满都",
+      "category": "综合",
+      "summary": "中新社加德满都9月1日电 (记者 崔楠)当地时间9月1日下午5时30分许，中国政府向尼泊尔提供的第二批紧急援助物资搭载中国空军运-20大型运输机，在大雨中运抵尼泊尔加德满都特里布万国际机场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688371.shtml",
+      "publishedAt": "2026-09-01T23:32:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688370.shtml",
+      "title": "暴雨黄色预警：浙江福建等5省部分地区有大暴雨",
+      "category": "综合",
+      "summary": "中国天气网讯 中央气象台9月2日06时继续发布暴雨黄色预警：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688370.shtml",
+      "publishedAt": "2026-09-01T23:25:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688369.shtml",
+      "title": "北京未来三天以晴为主 明后天最高气温可达32至33℃",
+      "category": "综合",
+      "summary": "中国天气网讯 今天(9月2日)，北京天气以晴为主，最高气温30℃。明后天晴朗天气持续，白天气温升高，最高气温可达32至33℃，热意提升，紫外线强，需注意防晒、补水。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688369.shtml",
+      "publishedAt": "2026-09-01T23:23:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688368.shtml",
+      "title": "珍稀蛇类标本遭游客“把玩致损”！博物馆标本为什么碰不得？",
+      "category": "综合",
+      "summary": "近日，一件发生在国家动物博物馆的不文明参观事件引发广泛关注。8月29日晚，国家动物博物馆发布《强烈谴责！》文章提到，在一层濒危动物展厅两个孩子在舟山眼镜蛇标本和莽山原矛头蝮标本前玩闹，不断用手抓、用脚踢标本。随行的父亲非但没有制止，反而把两件标本拿起来，递给孩子。两件真品标本不同程度受损，其中莽山原矛头蝮标本伤情较重。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688368.shtml",
+      "publishedAt": "2026-09-01T23:22:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/09-02/10688367.shtml",
+      "title": "蔬菜里的“天然钙片”！秋天常吃有助于平稳血脂血糖",
+      "category": "综合",
+      "summary": "木耳菜口感酷似木耳",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/09-02/10688367.shtml",
+      "publishedAt": "2026-09-01T23:17:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688366.shtml",
+      "title": "特朗普发出强硬威胁：若伊朗实施报复，将遭美方更猛烈打击",
+      "category": "综合",
+      "summary": "中新网9月2日电 据美国《政客》新闻网报道，当地时间9月1日，美国对伊朗发动新一轮袭击，美国总统特朗普在社交媒体上表示，此次袭击“规模大、力度强”，并警告伊朗不要实施任何报复性打击。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688366.shtml",
+      "publishedAt": "2026-09-01T23:12:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-02/10688365.shtml",
+      "title": "9月2日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-02/10688365.shtml",
+      "publishedAt": "2026-09-01T22:56:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688364.shtml",
+      "title": "新华图讯丨习近平抵达开罗对埃及进行国事访问",
+      "category": "综合",
+      "summary": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688364.shtml",
+      "publishedAt": "2026-09-01T22:53:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688363.shtml",
+      "title": "双预警齐发！这些地区有大暴雨、雷暴大风",
+      "category": "综合",
+      "summary": "中央气象台9月2日6时继续发布暴雨黄色预警：预计，9月2日8时至3日8时，湖南东南部、江西中南部、浙江东部和南部、福建东部和南部、广东东部、台湾岛南部以及黑龙江东部等地部分地区有大到暴雨，其中，江西南部、浙江南部、福建东北部和东南部、广东东部、台湾岛南部等地部分地区有大暴雨(100-230毫米)。上述部分地区伴有短时强降水(最大小时降雨量20～50毫米，局地",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688363.shtml",
+      "publishedAt": "2026-09-01T22:45:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688362.shtml",
+      "title": "美军再袭伊朗 伊朗称击落一架美军MQ-9无人机",
+      "category": "综合",
+      "summary": "中新网9月2日电 据土耳其阿纳多卢通讯社援引伊朗媒体消息报道，当地时间9月1日，一架美国MQ-9型无人机在伊朗中部城市霍梅因上空被击落。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688362.shtml",
+      "publishedAt": "2026-09-01T22:39:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688361.shtml",
+      "title": "扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”",
+      "category": "综合",
+      "summary": "俄罗斯外交部发言人扎哈罗娃1日表示，在日本领土上部署美国“堤丰”导弹系统对于俄罗斯来说“绝对不可接受”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688361.shtml",
+      "publishedAt": "2026-09-01T22:32:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688360.shtml",
+      "title": "三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复",
+      "category": "综合",
+      "summary": "美东时间1日，美军对伊朗境内的伊朗伊斯兰革命卫队目标发动新一轮打击，伊朗南部沿海多地遭袭。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688360.shtml",
+      "publishedAt": "2026-09-01T22:28:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688359.shtml",
+      "title": "美众议院通过临时拨款法案 以避免政府“停摆”",
+      "category": "综合",
+      "summary": "央视记者获悉，当地时间9月1日，美国国会众议院通过一项联邦政府临时拨款法案，以避免10月1日发生政府“停摆”，并将法案送交美国总统特朗普签署。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688359.shtml",
+      "publishedAt": "2026-09-01T22:17:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688358.shtml",
+      "title": "手机号能否继承？绑定内容能否擅自处置？姐弟诉到法院→",
+      "category": "综合",
+      "summary": "现在，手机号码与微信、支付宝、银行卡及各类线上账户紧密绑定，承载着显著的财产权益与数据价值。机主去世后，其手机号码能否作为遗产被继承？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688358.shtml",
+      "publishedAt": "2026-09-01T22:10:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
       "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
       "category": "综合",
@@ -40,528 +596,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
       "publishedAt": "2026-09-01T18:12:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-02/10688356.shtml",
-      "title": "曼谷汉字艺术节助推中泰文化交流",
-      "category": "综合",
-      "summary": "中新社曼谷9月1日电 (记者 李映民)第二届曼谷汉字艺术节9月1日在泰国朱拉隆功大学开幕。来自中泰两国政府部门、文化艺术界、教育界、工商界及社会团体的嘉宾，与艺术家、专家学者、师生代表齐聚一堂，以汉字为媒、以艺术为桥，共同开启一场跨越山海的文明对话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688356.shtml",
-      "publishedAt": "2026-09-01T18:11:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688355.shtml",
-      "title": "习近平抵达开罗对埃及进行国事访问",
-      "category": "综合",
-      "summary": "中新社开罗9月1日电 (记者 郭金超 谢雁冰)当地时间9月1日晚，中国国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688355.shtml",
-      "publishedAt": "2026-09-01T17:44:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
-      "title": "习近平抵达埃及开罗国际机场发表书面讲话",
-      "category": "综合",
-      "summary": "新华社开罗9月1日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
-      "publishedAt": "2026-09-01T17:27:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688353.shtml",
-      "title": "“我将无我、不负人民”的世界回响",
-      "category": "综合",
-      "summary": "当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。新华社记者 谢环驰 摄 【学习进行时】当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫在同习近平主席会谈时表示，吉方钦佩在习近平主席领导下中国取得的辉煌发展成就，愿学习中国治国理政经验，特别是习近平主席“我将无我、不负人民”的情怀。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688353.shtml",
-      "publishedAt": "2026-09-01T17:22:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688351.shtml",
-      "title": "“赛考斯”挥别中国",
-      "category": "综合",
-      "summary": "中新社北京9月1日电 (记者 曾玥)9月1日下午，美国友人“赛考斯”(本名罗纳德·萨科尔斯基)从北京启程返美。临别之际，他用“爱、家庭、朋友”三个词，概括此次中国之行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688351.shtml",
-      "publishedAt": "2026-09-01T17:20:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688352.shtml",
-      "title": "外媒关注2026年上合组织峰会：凸显“上海精神”持久意义",
-      "category": "综合",
-      "summary": "中新社北京9月1日电 综合消息：8月31日至9月1日，2026年上海合作组织峰会在吉尔吉斯斯坦首都比什凯克举行。多家外媒称，今年是上海合作组织成立25周年，上合组织发展历程凸显“上海精神”的持久现实意义。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688352.shtml",
-      "publishedAt": "2026-09-01T17:17:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688350.shtml",
-      "title": "习近平抵达开罗对埃及进行国事访问",
-      "category": "综合",
-      "summary": "新华社开罗9月1日电(记者陈梦阳#8195;邵艺博)当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688350.shtml",
-      "publishedAt": "2026-09-01T17:11:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688348.shtml",
-      "title": "新华图讯｜习近平抵达埃及首都开罗",
-      "category": "综合",
-      "summary": "当地时间9月1日晚，国家主席习近平抵达埃及首都开罗，开始对埃及进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688348.shtml",
-      "publishedAt": "2026-09-01T17:05:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688347.shtml",
-      "title": "习近平抵达开罗对埃及进行国事访问",
-      "category": "综合",
-      "summary": "新华社开罗9月1日电(记者陈莹)当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688347.shtml",
-      "publishedAt": "2026-09-01T16:59:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688346.shtml",
-      "title": "习近平抵达开罗，开始对埃及进行国事访问",
-      "category": "综合",
-      "summary": "新华社快讯：当地时间9月1日晚，国家主席习近平抵达埃及首都开罗，开始对埃及进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688346.shtml",
-      "publishedAt": "2026-09-01T16:03:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-01/10688345.shtml",
-      "title": "英国加速警务改革打击性暴力犯罪",
-      "category": "综合",
-      "summary": "中新社伦敦9月1日电 (记者 欧阳开宇)面对侵害妇女女童犯罪高发的严峻现状，英国政府9月1日宣布加快警务专项团队建设，完善司法保护链条，以期打击性暴力、家暴等恶性案件。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10688345.shtml",
-      "publishedAt": "2026-09-01T15:44:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-01/10688342.shtml",
-      "title": "2026中国羽毛球大师赛开赛 中国混双组合首轮晋级",
-      "category": "综合",
-      "summary": "中新社深圳9月1日电 (记者 张璐 索有为)2026李宁·中国羽毛球大师赛9月1日在深圳开赛，首日登场的中国混双组合、头号种子冯彦哲/黄东萍经过三局激战，以2:1淘汰日本组合渡边勇大/田口真彩。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10688342.shtml",
-      "publishedAt": "2026-09-01T15:44:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688344.shtml",
-      "title": "上海合作组织成员国元首理事会关于加强核安全与核安保多边伙伴关系的宣言",
-      "category": "综合",
-      "summary": "新华社比什凯克9月1日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688344.shtml",
-      "publishedAt": "2026-09-01T15:42:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688343.shtml",
-      "title": "上海合作组织成员国元首理事会关于加强对受紧急情况影响的国家援助响应能力的声明",
-      "category": "综合",
-      "summary": "新华社比什凯克9月1日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688343.shtml",
-      "publishedAt": "2026-09-01T15:40:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688341.shtml",
-      "title": "推动上海合作组织发展的中国行动成果清单",
-      "category": "综合",
-      "summary": "新华社比什凯克9月1日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688341.shtml",
-      "publishedAt": "2026-09-01T15:26:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688327.shtml",
-      "title": "海南：高风险地中海贫血基因携带家庭符合申请条件平均可获6万至10万元救助",
-      "category": "综合",
-      "summary": "中新网海口9月1日电 (记者 符宇群)海南省红十字会秘书长李金跃1日在海南省新闻办公室举行的发布会上说，“阳光宝贝基金”运行三年来，已累计救助80对地中海贫血(简称“地贫”)高风险夫妇，符合申请救助条件的家庭平均可获6万至10万元救助。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688327.shtml",
-      "publishedAt": "2026-09-01T15:24:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688332.shtml",
-      "title": "阿曼、约旦科技及管理人员在沪系统研修AI赋能绿色转型",
-      "category": "综合",
-      "summary": "中新网上海9月1日电 (记者 陈静)“中国—阿曼基于人工智能的算电网协同优化技术国际培训班”1日在上海开班，来自阿曼、约旦可再生能源、数字产业领域的23名科技及管理人员将在沪围绕新技术落地应用、新能源产业转型、人工智能绿色普惠实践开展为期17天的系统研修。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688332.shtml",
-      "publishedAt": "2026-09-01T15:23:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688331.shtml",
-      "title": "图纸“纠偏”记 杭州检察机关专项监督无障碍设计",
-      "category": "综合",
-      "summary": "中新网杭州9月1日电(郭其钰)轮椅刹车松开，沿着无障碍坡道平稳滑入，一名残疾人体验员握住坡道入口的扶手用力晃了晃，纹丝不动。想起上次被人抬着进码头的窘境，他笑着说：“这才是真正的无障碍。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688331.shtml",
-      "publishedAt": "2026-09-01T15:23:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml",
-      "title": "暑运期间中国民航累计运送旅客超1.5亿人次",
-      "category": "综合",
-      "summary": "中新社北京9月1日电 (记者 刘文文)为期62天的中国民航暑运已于8月31日结束。记者9月1日从中国民航局获悉，7月1日至8月31日，全国民航累计运送旅客1.51亿人次，日均244.2万人次，同比增长2.9%；累计保障航班121.1万班，日均1.95万班，同比增长1%。(完)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml",
-      "publishedAt": "2026-09-01T15:22:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
-      "title": "河北鸡泽万亩椒田“红”似火 嘉年华里品“热辣”",
-      "category": "综合",
-      "summary": "中新网邯郸9月1日电 题：河北鸡泽万亩椒田“红”似火 嘉年华里品“热辣”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
-      "publishedAt": "2026-09-01T15:15:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688329.shtml",
-      "title": "海南慈善事业向上向善 “十五五” 推动出台《海南省慈善条例》",
-      "category": "综合",
-      "summary": "中新网海口9月1日电 (记者 符宇群)海南省民政厅厅长曾锋1日在海南省新闻办公室举办的新闻发布会上透露，截至目前，全省登记慈善组织151家，实现省、市、县慈善总会全覆盖。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688329.shtml",
-      "publishedAt": "2026-09-01T15:14:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688336.shtml",
-      "title": "上海合作组织二十五周年比什凯克宣言",
-      "category": "综合",
-      "summary": "新华社比什凯克9月1日电#8195;",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688336.shtml",
-      "publishedAt": "2026-09-01T15:10:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688334.shtml",
-      "title": "习言道｜习近平再谈上合“初心”",
-      "category": "综合",
-      "summary": "中新网9月1日电 题：习近平再谈上合“初心”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688334.shtml",
-      "publishedAt": "2026-09-01T14:58:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688335.shtml",
-      "title": "上合组织秘书长：25年来，开启区域合作新模式",
-      "category": "综合",
-      "summary": "上海合作组织秘书长努尔兰·叶尔梅克巴耶夫8月31日在《中国日报》撰文称，25年来，上合组织开启了区域互动与合作的新模式。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688335.shtml",
-      "publishedAt": "2026-09-01T14:54:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688333.shtml",
-      "title": "救援背后的“生命线”",
-      "category": "综合",
-      "summary": "“大家身体有不舒服的，再让医生检查一下。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688333.shtml",
-      "publishedAt": "2026-09-01T14:51:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688330.shtml",
-      "title": "全域立体组网 吉隆口岸救援通信实现核心区域全覆盖",
-      "category": "综合",
-      "summary": "8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。抢险救援救灾各项工作仍在紧张有序推进。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688330.shtml",
-      "publishedAt": "2026-09-01T14:45:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-01/10688326.shtml",
-      "title": "第三个InnoHK创新香港研发平台启动 聚焦可持续发展等领域",
-      "category": "综合",
-      "summary": "中新社香港9月1日电 香港特区政府创新科技署1日举行第三个InnoHK创新香港研发平台——“SEAM@InnoHK”启动礼。该平台聚焦可持续发展、能源、先进制造及材料4个前沿科技领域。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-01/10688326.shtml",
-      "publishedAt": "2026-09-01T14:41:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10688325.shtml",
-      "title": "中国科技馆推出脑科学主题展 全景呈现脑研究、脑健康和类脑技术",
-      "category": "综合",
-      "summary": "中新网北京9月1日电 (记者 孙自法)值此2026年全国科普月全面启动之际，中国科技馆9月1日向媒体通报说，作为全国科普月主场活动重要展览之一，该馆自主策划的脑科学主题展览“沟壑的交响”9月2日起正式开放，预计免费面向公众开放展出到2026年12月中旬。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688325.shtml",
-      "publishedAt": "2026-09-01T14:41:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-01/10688324.shtml",
-      "title": "2026年全国石油石化行业液化天然气储运工职业技能竞赛天津开赛",
-      "category": "综合",
-      "summary": "中新网天津9月1日电 (记者 周亚强)9月1日，2026年全国石油石化行业液化天然气储运工职业技能竞赛在国家管网集团天津LNG接收站拉开帷幕，来自国内10家单位的105名一线骨干选手同台竞技。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688324.shtml",
-      "publishedAt": "2026-09-01T14:40:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -712,7 +746,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad#2",
       "title": "Shein香港上市首日股價下跌 期待已久的股市首秀表現疲弱",
       "category": "国际",
       "summary": "該公司股份正式在香港上市，這是其多年來試圖在紐約和倫敦出售股票之後的成果。",
@@ -729,7 +763,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/trad#1",
       "title": "尼泊爾—西藏泥石流：吉隆口岸為何是朝聖之路上的重要關口？",
       "category": "国际",
       "summary": "目前至少有290名印度人失蹤，許多都正在參加朝聖之旅。其中一名失蹤者的丈夫向BBC表示，太太參加了一行30人、由印度出發前往西藏的朝聖團。",
@@ -992,23 +1026,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980y406995o/trad#2",
-      "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
-      "category": "国际",
-      "summary": "法院表示，韓鶴子曾向前總統尹錫悅的妻子金建希，送贈兩個Chanel手袋及一條鑽石項鏈，總值8,000萬韓圜（57,900美元；42,500英鎊）。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c980y406995o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T09:35:51.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/prime/story/home-made-beverages-4",
       "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
       "category": "科技",
@@ -1174,23 +1191,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T06:45:53.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad#1",
-      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
-      "category": "国际",
-      "summary": "中方調查專家稱，造成泥石流的冰岩崩從發生到衝擊西藏吉隆口岸僅約6到7分鐘。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T05:58:22.000Z",
       "tags": [
         "国际",
         "商业",
