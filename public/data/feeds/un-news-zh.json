@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142727",
+      "title": "资金短缺迫使粮食署削减约旦河西岸粮食援助",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142727",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142726",
+      "title": "联合国：刚果（金）埃博拉疫情蔓延速度创纪录，必须紧急加大应对力度",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142726",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142725",
+      "title": "阿富汗数十年冲突余波未止：多数受害者仍未获得正义与救济",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142725",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142724",
+      "title": "艾滋病规划署、南部非洲发展共同体与中国携手推动南部非洲本地制药业发展",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142724",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142723",
+      "title": "古特雷斯：多极化是实现全球治理和国际关系正义的条件",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142723",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142722",
       "title": "尼泊尔洪灾：死亡人数持续攀升，妇女和女童处境令人担忧",
       "meta": "联合国新闻 · 2026/9/1",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/8/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
       "publishedAt": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142691",
-      "title": "粮农组织呼吁利用科学技术弥合数字鸿沟、城乡差距和性别差距",
-      "meta": "联合国新闻 · 2026/8/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142691",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142690",
-      "title": "联合国：加沙停火依然脆弱，必须推进解除武装、恢复治理和重建",
-      "meta": "联合国新闻 · 2026/8/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142690",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142688",
-      "title": "联合国：缅甸罗兴亚人及其他群体持续遭受严重人权侵犯",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142688",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142689",
-      "title": "古特雷斯谴责海地黑帮袭击事件",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142689",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142687",
-      "title": "古特雷斯谴责以色列当局未经授权进入近东救济工程处设施",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142687",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T11:18:38.338Z",
+  "updatedAt": "2026-09-02T16:34:44.713Z",
   "provider": "OneBench 公共资讯快照"
 }
