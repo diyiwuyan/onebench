@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142730",
+      "title": "人工智能网络对亚太地区数字基础设施提出新要求",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142730",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142729",
+      "title": "气候变暖加剧森林火灾威胁，传统凉爽、降雨充沛地区也需做好准备",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142729",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142728",
+      "title": "为人类而战：避免气候灾难意味着必须立即采取行动",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142728",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142727",
       "title": "资金短缺迫使粮食署削减约旦河西岸粮食援助",
       "meta": "联合国新闻 · 2026/9/1",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
       "publishedAt": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142694",
-      "title": "儿基会就巴基斯坦医院火灾导致14名新生儿死亡表示悲痛",
-      "meta": "联合国新闻 · 2026/8/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142694",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142693",
-      "title": "非洲的新宏伟目标：更多卫生工作者，更强大的卫生体系",
-      "meta": "联合国新闻 · 2026/8/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142693",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142692",
-      "title": "古特雷斯对尼泊尔和中国严重洪灾造成的人员伤亡和破坏深感悲痛",
-      "meta": "联合国新闻 · 2026/8/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T16:34:44.713Z",
+  "updatedAt": "2026-09-02T21:03:45.460Z",
   "provider": "OneBench 公共资讯快照"
 }
