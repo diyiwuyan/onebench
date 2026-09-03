@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142733",
+      "title": "古特雷斯对美伊再次交火深表关切",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142733",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142732",
+      "title": "旨在改善猴痘疫苗可及性的全球倡议正式启动",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142732",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142731",
+      "title": "世界粮食计划署谴责苏丹食品援助卡车遭空袭",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142731",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142730",
       "title": "人工智能网络对亚太地区数字基础设施提出新要求",
       "meta": "联合国新闻 · 2026/9/2",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142698",
       "publishedAt": "2026-08-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142697",
-      "title": "古特雷斯：此次疫情是有记录以来蔓延速度最快的埃博拉疫情",
-      "meta": "联合国新闻 · 2026/8/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142697",
-      "publishedAt": "2026-08-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142696",
-      "title": "喜马拉雅山洪灾发生一天后，震惊与毁灭仍在持续",
-      "meta": "联合国新闻 · 2026/8/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142696",
-      "publishedAt": "2026-08-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142695",
-      "title": "古特雷斯：联合国维和行动必须适应新的现实",
-      "meta": "联合国新闻 · 2026/8/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T21:03:45.460Z",
+  "updatedAt": "2026-09-03T00:16:15.318Z",
   "provider": "OneBench 公共资讯快照"
 }
