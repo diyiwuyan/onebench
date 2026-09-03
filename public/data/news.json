@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T16:25:49.652Z",
-  "expiresAt": "2026-09-03T22:25:49.652Z",
+  "generatedAt": "2026-09-03T21:02:25.274Z",
+  "expiresAt": "2026-09-04T03:02:25.274Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -585,6 +585,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142735",
+      "title": "厄尔尼诺现象正在加剧 可能出现数月极端高温",
+      "category": "国际",
+      "summary": "受太平洋海面异常升温的推动，厄尔尼诺气候现象正在加剧，且尚未达到峰值。气象预报几乎可以肯定，该现象将持续至2027年2月——预计未来数月全球大部分地区将出现异常温暖的天气。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142735",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1688,24 +1706,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142700",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142699",
-      "title": "联合国：叙利亚正处于关键时刻 国际社会应支持政治过渡和人道主义复苏",
-      "category": "国际",
-      "summary": "秘书长叙利亚问题副特使科尔多内和代理助理秘书长兼紧急救济副协调员拉特瓦特周四向安理会通报叙利亚局势，表示叙利亚政治过渡和复苏取得进展，但仍面临安全、人道主义、问责和资源等方面的重大挑战，国际社会必须提供更多支持。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142699",
       "publishedAt": "2026-08-27T12:00:00.000Z",
       "tags": [
         "国际",

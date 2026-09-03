@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142735",
+      "title": "厄尔尼诺现象正在加剧 可能出现数月极端高温",
+      "meta": "联合国新闻 · 2026/9/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142735",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142734",
       "title": "货币基金组织：亚洲的下一个增长故事",
       "meta": "联合国新闻 · 2026/9/2",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142700",
       "publishedAt": "2026-08-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142699",
-      "title": "联合国：叙利亚正处于关键时刻 国际社会应支持政治过渡和人道主义复苏",
-      "meta": "联合国新闻 · 2026/8/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142699",
-      "publishedAt": "2026-08-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-03T16:25:49.652Z",
+  "updatedAt": "2026-09-03T21:02:25.274Z",
   "provider": "OneBench 公共资讯快照"
 }
