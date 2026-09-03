@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142734",
+      "title": "货币基金组织：亚洲的下一个增长故事",
+      "meta": "联合国新闻 · 2026/9/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142734",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142733",
       "title": "古特雷斯对美伊再次交火深表关切",
       "meta": "联合国新闻 · 2026/9/2",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142699",
       "publishedAt": "2026-08-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142698",
-      "title": "古特雷斯就波黑塞族前军事领导人姆拉迪奇去世发表声明",
-      "meta": "联合国新闻 · 2026/8/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142698",
-      "publishedAt": "2026-08-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-03T00:16:15.318Z",
+  "updatedAt": "2026-09-03T04:38:47.432Z",
   "provider": "OneBench 公共资讯快照"
 }

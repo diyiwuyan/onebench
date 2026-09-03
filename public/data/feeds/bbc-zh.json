@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad#0",
+      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+      "meta": "BBC 中文 · 2026/9/3",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:24:54.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#0",
+      "title": "《肖申克的救贖》中國公映：官方字幕把「queer」譯成「變態」，為何引發爭議？",
+      "meta": "BBC 中文 · 2026/9/3",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T00:24:43.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad#2",
       "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
       "meta": "BBC 中文 · 2026/9/2",
@@ -26,8 +40,8 @@
       "publishedAt": "2026-09-02T13:55:55.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad#0",
-      "title": "「我從未去過的祖國」：600萬阿富汗人遭鄰國驅逐，在塔利班治下重新開始",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad#2",
+      "title": "「我從未去過的祖國」：600萬人遭遣返阿富汗，在塔利班治下重新開始",
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T09:18:53.000Z"
@@ -47,7 +61,7 @@
       "publishedAt": "2026-09-02T00:01:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad#2",
       "title": "日本企業大舉押注印度 中國風險加深之際尋求新成長",
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss",
@@ -131,7 +145,7 @@
       "publishedAt": "2026-08-31T09:41:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad#5",
       "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
       "meta": "BBC 中文 · 2026/8/31",
       "url": "https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad?at_medium=RSS&at_campaign=rss",
@@ -157,20 +171,6 @@
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T11:03:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad#2",
-      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
-      "meta": "BBC 中文 · 2026/8/28",
-      "url": "https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T08:51:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#5",
-      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
-      "meta": "BBC 中文 · 2026/8/28",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T02:49:24.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-03T00:16:15.318Z",
+  "updatedAt": "2026-09-03T04:38:47.432Z",
   "provider": "OneBench 公共资讯快照"
 }
