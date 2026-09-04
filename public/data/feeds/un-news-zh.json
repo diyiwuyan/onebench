@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142738",
+      "title": "苏丹：外部支持网络助长冲突并加剧平民伤亡",
+      "meta": "联合国新闻 · 2026/9/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142738",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142737",
+      "title": "尼泊尔洪灾后至少2.2万名儿童亟需安全饮用水和卫生支持",
+      "meta": "联合国新闻 · 2026/9/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142737",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142736",
+      "title": "联合国裁军事务高级代表：叙利亚化学武器销毁工作取得重大进展",
+      "meta": "联合国新闻 · 2026/9/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142736",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142735",
       "title": "厄尔尼诺现象正在加剧 可能出现数月极端高温",
       "meta": "联合国新闻 · 2026/9/3",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/8/28",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142703",
       "publishedAt": "2026-08-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142702",
-      "title": "尼泊尔洪灾影响巨大 遇难人数持续攀升",
-      "meta": "联合国新闻 · 2026/8/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142702",
-      "publishedAt": "2026-08-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142701",
-      "title": "【联合国会客厅】放过孩子 好好吃饭",
-      "meta": "联合国新闻 · 2026/8/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142701",
-      "publishedAt": "2026-08-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142700",
-      "title": "乌干达宣布本迪布焦型埃博拉疫情结束",
-      "meta": "联合国新闻 · 2026/8/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142700",
-      "publishedAt": "2026-08-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-03T21:02:25.274Z",
+  "updatedAt": "2026-09-04T00:06:26.477Z",
   "provider": "OneBench 公共资讯快照"
 }
