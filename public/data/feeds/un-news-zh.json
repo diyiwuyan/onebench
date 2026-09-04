@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142739",
+      "title": "【子午播报】2026年9月4日",
+      "meta": "联合国新闻 · 2026/9/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142739",
+      "publishedAt": "2026-09-04T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142740",
+      "title": "联大支持在“联合国80周年倡议”改革框架下设立新的联合国培训机构",
+      "meta": "联合国新闻 · 2026/9/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142740",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142738",
       "title": "苏丹：外部支持网络助长冲突并加剧平民伤亡",
       "meta": "联合国新闻 · 2026/9/3",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/8/28",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142705",
       "publishedAt": "2026-08-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142704",
-      "title": "欧洲和北美地区严重干旱和热浪加剧森林和城市自然环境压力",
-      "meta": "联合国新闻 · 2026/8/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142704",
-      "publishedAt": "2026-08-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142703",
-      "title": "霍尔木兹海峡通行受阻六个月 国际海事组织关注海员处境",
-      "meta": "联合国新闻 · 2026/8/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142703",
-      "publishedAt": "2026-08-28T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T04:33:47.136Z",
+  "updatedAt": "2026-09-04T11:18:14.808Z",
   "provider": "OneBench 公共资讯快照"
 }
