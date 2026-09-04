@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad#0",
+      "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
+      "meta": "BBC 中文 · 2026/9/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T02:05:55.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#0",
+      "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的虛假消息，作引流「誘餌」",
+      "meta": "BBC 中文 · 2026/9/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T01:39:26.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#0",
       "title": "聯合國警告可能出現「超大型」厄爾尼諾現象，各國須準備應對",
       "meta": "BBC 中文 · 2026/9/3",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-09-03T06:01:33.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad#2",
       "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
       "meta": "BBC 中文 · 2026/9/3",
       "url": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
@@ -61,7 +75,7 @@
       "publishedAt": "2026-09-02T09:18:53.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad#2",
       "title": "美國公司獲批委內瑞拉油田百年開採權 分析人士迷惑 國民震怒",
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad?at_medium=RSS&at_campaign=rss",
@@ -117,25 +131,11 @@
       "publishedAt": "2026-09-01T05:24:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8dkp32xndo/trad#2",
-      "title": "梅西退出阿根廷國家隊：「已沒什麼可以再付出了」",
-      "meta": "BBC 中文 · 2026/9/1",
-      "url": "https://www.bbc.com/zhongwen/articles/cp8dkp32xndo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T05:03:05.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crer81r33pno/trad#1",
       "title": "數百名水力發電工人受困隧道：尼泊爾地下夢魘",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/crer81r33pno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T04:44:45.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#2",
-      "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
-      "meta": "BBC 中文 · 2026/9/1",
-      "url": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T01:19:55.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T00:06:26.477Z",
+  "updatedAt": "2026-09-04T04:33:47.136Z",
   "provider": "OneBench 公共资讯快照"
 }
