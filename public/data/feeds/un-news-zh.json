@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142747",
+      "title": "【世界进行时】2026年9月4日",
+      "meta": "联合国新闻 · 2026/9/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142747",
+      "publishedAt": "2026-09-04T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142746",
       "title": "联合国向世界发出呼吁：别再让非洲在地图上显得那么小",
       "meta": "联合国新闻 · 2026/9/4",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142716",
       "publishedAt": "2026-08-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142714",
-      "title": "【专题报道 | 前方视野】《武器贸易条约》履约状况持续下滑",
-      "meta": "联合国新闻 · 2026/8/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142714",
-      "publishedAt": "2026-08-30T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T04:29:30.879Z",
+  "updatedAt": "2026-09-05T10:35:31.678Z",
   "provider": "OneBench 公共资讯快照"
 }
