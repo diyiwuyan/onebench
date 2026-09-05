@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T20:45:53.565Z",
-  "expiresAt": "2026-09-05T02:45:53.565Z",
+  "generatedAt": "2026-09-05T00:06:47.886Z",
+  "expiresAt": "2026-09-05T06:06:47.886Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,240 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+      "title": "美国8月非农就业增加16.2万 失业率4.1%",
+      "category": "综合",
+      "summary": "中新社华盛顿9月4日电(记者 陈孟统)美国劳工部4日发布数据显示，美国8月非农就业岗位增加16.2万个，失业率为4.1%，与7月持平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+      "publishedAt": "2026-09-04T23:28:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+      "title": "英国建筑业持续收缩拖累经济复苏",
+      "category": "综合",
+      "summary": "中新社伦敦9月4日电 (记者 欧阳开宇)4日公布的标普全球建筑业采购经理人指数(PMI)数据显示，英国建筑业景气度持续走弱，8月行业连续第20个月陷入收缩区间，住宅建造板块低迷，成为拖累基建地产领域的核心短板。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+      "publishedAt": "2026-09-04T23:27:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
+      "title": "2026年柏林国际消费电子展开幕",
+      "category": "综合",
+      "summary": "中新社柏林9月4日电 (记者 马秀秀)2026年德国柏林国际消费电子展(IFA)4日在柏林会展中心开幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
+      "publishedAt": "2026-09-04T23:27:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
+      "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+      "category": "综合",
+      "summary": "中新社华盛顿9月4日电 (记者 沙晗汀)美国国务院当地时间4日宣布，国务卿鲁比奥将于本月8日至10日访问哥伦比亚、厄瓜多尔和秘鲁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
+      "publishedAt": "2026-09-04T23:27:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-05/10690750.shtml",
+      "title": "“遗产家园·美美与共”中柬文化遗产交流展在金边举行",
+      "category": "综合",
+      "summary": "【东盟专线】“遗产家园·美美与共”中柬文化遗产交流展在金边举行",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-05/10690750.shtml",
+      "publishedAt": "2026-09-04T23:13:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-05/10690749.shtml",
+      "title": "9月5日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-05/10690749.shtml",
+      "publishedAt": "2026-09-04T22:51:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-05/10690748.shtml",
+      "title": "女篮世界杯开打 中国队小组赛首战不敌美国队",
+      "category": "综合",
+      "summary": "中新社柏林9月4日电 2026年国际篮联女篮世界杯于当地时间4日在德国柏林开打，上届世界杯亚军中国队在小组赛首战中以61:94负于卫冕冠军美国队。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690748.shtml",
+      "publishedAt": "2026-09-04T22:46:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+      "category": "综合",
+      "summary": "当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+      "publishedAt": "2026-09-04T22:45:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
+      "title": "美总统称可能很快会打击伊朗“镐山”核设施",
+      "category": "综合",
+      "summary": "当地时间4日，美国总统特朗普在白宫接受采访时称，美国可能很快会打击伊朗的“镐山”核设施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
+      "publishedAt": "2026-09-04T22:42:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-05/10690745.shtml",
+      "title": "宁夏第二届残疾人运动会和特殊奥林匹克运动会开幕",
+      "category": "综合",
+      "summary": "中新社银川9月4日电 (记者 杨迪)9月4日晚，宁夏回族自治区第二届残疾人运动会和特殊奥林匹克运动会在银川开幕。本届赛事在项目设置、参赛规模方面均超过首届残特奥运动会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690745.shtml",
+      "publishedAt": "2026-09-04T22:41:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-05/10690744.shtml",
+      "title": "中国羽毛球大师赛：中国女单“独苗”晋级四强",
+      "category": "综合",
+      "summary": "中新社深圳9月4日电 (记者 张璐 索有为)正在深圳举行的2026李宁·中国羽毛球大师赛9月4日结束1/4决赛较量。中国女单“独苗”王祉怡淘汰日本选手奥原希望晋级四强，中国香港男单“黑马”吴英伦战胜中国选手翁泓阳跻身半决赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690744.shtml",
+      "publishedAt": "2026-09-04T22:40:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-05/10690743.shtml",
+      "title": "受台风“沙德尔”影响 福建转移59.93万人",
+      "category": "综合",
+      "summary": "记者从福建省防汛抗旱指挥部了解到，应对台风“沙德尔”和持续性强降雨，截至9月4日22时，福建全省累计下沉干部15.43万人次，转移海上、陆上危险区域群众59.93万人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690743.shtml",
+      "publishedAt": "2026-09-04T22:37:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-05/10690742.shtml",
+      "title": "英国改革党高层人员陷政治献金丑闻",
+      "category": "综合",
+      "summary": "中新社伦敦9月4日电 (记者 欧阳开宇)当地时间9月4日，英国改革党在年度党代会开幕之际深陷政治献金丑闻。受英国第四频道电视台卧底调查曝光违规线索影响，党首法拉奇两名高级助手宣布停职，等待党内调查结果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690742.shtml",
+      "publishedAt": "2026-09-04T22:34:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
       "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
@@ -345,240 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690721.shtml",
       "publishedAt": "2026-09-04T14:31:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-04/10690720.shtml",
-      "title": "实景园林绘烟火群像 《兰香如故》官宣定档",
-      "category": "综合",
-      "summary": "中新网北京9月4日电 (记者 高凯)由桐华、箫楼编剧，黄颖湘、陈丹执导的古装社会家庭大剧《兰香如故》4日官宣定档，将于9月11日起在CCTV-8播出。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-04/10690720.shtml",
-      "publishedAt": "2026-09-04T14:31:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690719.shtml",
-      "title": "福建莆田洪灾安置点灯火暖",
-      "category": "综合",
-      "summary": "中新网莆田9月4日电 (叶秋云)4日，中新网一行驱车从莆田仙游前往市城厢区，沿途多处可见滑坡、塌方，多辆汽车因涉水抛锚。在华亭镇，积水仍未退去，消防救援人员正紧急转移民众。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690719.shtml",
-      "publishedAt": "2026-09-04T14:28:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690716.shtml",
-      "title": "第七届辽洽会深耕东北亚经贸合作 蒙古国担任主宾国",
-      "category": "综合",
-      "summary": "中新网沈阳9月4日电 (记者 韩宏)记者4日从辽宁省政府新闻办召开的发布会上获悉，第七届中国辽宁国际投资贸易洽谈会(以下简称“辽洽会”)持续深耕东北亚经贸合作圈，邀请蒙古国作为本届辽洽会主宾国。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690716.shtml",
-      "publishedAt": "2026-09-04T14:28:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690714.shtml",
-      "title": "首届全国科普创作者大会开幕 中国科普作家协会解读四大关键词",
-      "category": "综合",
-      "summary": "中新网浙江湖州9月4日电 (记者 孙自法)作为2026年全国科普月的一项重要活动，由中国科普作家协会主办的首届全国科普创作者大会9月4日在浙江省湖州市德清县开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690714.shtml",
-      "publishedAt": "2026-09-04T14:27:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690691.shtml",
-      "title": "第二十一届中博会在广州继续开展 吸引参观者",
-      "category": "综合",
-      "summary": "9月4日，埃及展区的工作人员向参观者推荐地毯。第二十一届中国国际中小企业博览会（简称“中博会”）于9月3日至6日在广州市广交会展馆开展。本届中博会国际展区及港澳台展区展位总数718个，共有来自43个国家（地区）及国际组织的510家优秀企业参展。中新社记者 陈楚红 摄 9月4日，希腊展区的工作人员为参观者调制饮品。第二十一届中国国际中小企业博览会（简称“中博会",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690691.shtml",
-      "publishedAt": "2026-09-04T14:25:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690684.shtml",
-      "title": "天津：民众打卡旅博会解锁多元文旅新体验",
-      "category": "综合",
-      "summary": "9月4日，天津，民众参观掐丝工艺品。当日，2026中国文化旅游产业博览会迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。中新社记者 佟郁 摄 9月4日，天津，民众沉浸式体验VR摩托骑行。当日，2026中国文化旅游产业博览会迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。中新社记者 佟郁 摄 9月4日，天津，民众在科",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690684.shtml",
-      "publishedAt": "2026-09-04T14:25:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690715.shtml",
-      "title": "宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
-      "category": "综合",
-      "summary": "中新网银川9月4日电 (记者 李佩珊)记者4日从宁夏机场公司获悉，银川、中卫、固原三地机场今后将不再局限于航空运输中转功能，立足“城市会客厅”定位，将本土风物、地域文化融入航站楼服务细节，让往来旅客在出行途中感受塞上大地的温情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690715.shtml",
-      "publishedAt": "2026-09-04T14:25:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690712.shtml",
-      "title": "海南精细化规范城镇开发边界管理 提升国土空间治理水平",
-      "category": "综合",
-      "summary": "中新网海口9月4日电 (尹建军 陈甲勇)记者4日从海南省自然资源和规划厅获悉，《海南省城镇开发边界管理实施细则(试行)》近日在全国率先出台，通过细化管控标准、优化调整规则、创新激励机制，进一步健全城镇开发边界精细化管理体系，有效破解规划落地难题、提升国土空间治理水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690712.shtml",
-      "publishedAt": "2026-09-04T14:25:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
-      "title": "多方在广州签约共建烧伤跨境医疗服务枢纽",
-      "category": "综合",
-      "summary": "中新网广州9月4日电 (记者 蔡敏婕)南福烧伤国际论坛4日在广州开幕。广州市红十字会医院在会议上与多方签约共建烧伤跨境医疗服务枢纽，并且构建烧伤航空医疗救护网络体系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
-      "publishedAt": "2026-09-04T14:20:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690710.shtml",
-      "title": "四川省首批医药健康科技创新企业联合专项启动",
-      "category": "综合",
-      "summary": "中新网成都9月4日电 (王利文)9月4日，四川省首批医药健康科技创新企业联合专项在成都正式启动。作为四川省级层面探索社会力量捐资纳入科技计划体系的创新实践，专项将聚焦医药健康关键领域开展技术攻关，推动产业核心竞争力提升。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690710.shtml",
-      "publishedAt": "2026-09-04T14:20:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690695.shtml",
-      "title": "天津发布2025年度居民健康报告 居民期望寿命达82.80岁",
-      "category": "综合",
-      "summary": "中新网天津9月4日电 (记者 江莹)天津市卫生健康委4日召开新闻发布会，发布《天津市居民健康状况报告(2025年度)》(以下简称《报告》)，全面披露当地居民整体健康水平、重点疾病发病与死亡原因分析、健康风险防控等最新核心数据，系统呈现天津居民健康现状。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690695.shtml",
-      "publishedAt": "2026-09-04T14:20:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml",
-      "title": "养老服务领域两项强制性国家标准发布",
-      "category": "综合",
-      "summary": "中新网北京9月4日电 4日，市场监管总局联合民政部在北京召开专题新闻发布会，介绍与养老服务强制性国家标准相关的工作情况。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml",
-      "publishedAt": "2026-09-04T14:20:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690703.shtml",
-      "title": "多部门172名专家携150台套设备持续监测西藏吉隆泥石流灾区",
-      "category": "综合",
-      "summary": "中新网西藏吉隆9月4日电 (记者 赵朗 江飞波)记者4日从西藏吉隆县“8·26”泥石流灾害前方指挥部获悉，灾害发生以来，多部门集中优势技术力量及装备，持续在灾区开展监测预警作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690703.shtml",
-      "publishedAt": "2026-09-04T14:18:37.000Z",
       "tags": [
         "国内",
         "社会",
