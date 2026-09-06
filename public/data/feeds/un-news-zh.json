@@ -5,13 +5,6 @@
   "title": "联合国新闻",
   "items": [
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142750",
-      "title": "【专题报道 | 前方视野】海平面上升已成“系统性威胁”：人类该如何应对？",
-      "meta": "联合国新闻 · 2026/9/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142750",
-      "publishedAt": "2026-09-06T12:00:00.000Z"
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142747",
       "title": "【世界进行时】2026年9月4日",
       "meta": "联合国新闻 · 2026/9/4",
@@ -213,8 +206,15 @@
       "meta": "联合国新闻 · 2026/8/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142717",
       "publishedAt": "2026-08-31T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142716",
+      "title": "风险加剧：海平面上升对人类意味着什么",
+      "meta": "联合国新闻 · 2026/8/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142716",
+      "publishedAt": "2026-08-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-06T22:07:33.540Z",
+  "updatedAt": "2026-09-06T23:54:19.228Z",
   "provider": "OneBench 公共资讯快照"
 }
