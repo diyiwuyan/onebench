@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#0",
+      "title": "特朗普取態何以左右福克蘭群島爭議",
+      "meta": "BBC 中文 · 2026/9/6",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T07:42:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#0",
+      "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
+      "meta": "BBC 中文 · 2026/9/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T05:19:17.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crm9k8pggjvo/trad#0",
       "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
       "meta": "BBC 中文 · 2026/9/6",
@@ -47,7 +61,7 @@
       "publishedAt": "2026-09-04T08:09:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad#2",
       "title": "福島爭議升溫：阿根廷制裁附近油企，特朗普暗示未必協助英國",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
@@ -68,7 +82,7 @@
       "publishedAt": "2026-09-04T05:57:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#2",
       "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的假消息作引流「誘餌」",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
@@ -110,25 +124,11 @@
       "publishedAt": "2026-09-02T14:11:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad#2",
-      "title": "黃之鋒「勾結外國勢力危害國家安全」案認罪，最高可囚終身",
-      "meta": "BBC 中文 · 2026/9/2",
-      "url": "https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T14:11:29.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad#3",
       "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T13:55:55.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad#2",
-      "title": "美國公司獲批委內瑞拉油田百年開採權 分析人士迷惑 國民震怒",
-      "meta": "BBC 中文 · 2026/9/2",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T08:59:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-06T04:39:11.559Z",
+  "updatedAt": "2026-09-06T10:57:06.033Z",
   "provider": "OneBench 公共资讯快照"
 }
