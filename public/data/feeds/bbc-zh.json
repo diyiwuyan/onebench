@@ -5,8 +5,22 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crm9k8pggjvo/trad#0",
+      "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
+      "meta": "BBC 中文 · 2026/9/6",
+      "url": "https://www.bbc.com/zhongwen/articles/crm9k8pggjvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T04:35:53.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad#0",
+      "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
+      "meta": "BBC 中文 · 2026/9/6",
+      "url": "https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T02:02:19.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後的角力",
+      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T14:33:16.000Z"
@@ -34,7 +48,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad#0",
-      "title": "福克蘭群島爭議升溫：阿根廷宣佈制裁附近油企，特朗普暗示未必協助英國",
+      "title": "福島爭議升溫：阿根廷制裁附近油企，特朗普暗示未必協助英國",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T07:41:46.000Z"
@@ -54,15 +68,8 @@
       "publishedAt": "2026-09-04T05:57:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad#0",
-      "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T02:05:55.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#0",
-      "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的虛假消息，作引流「誘餌」",
+      "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的假消息作引流「誘餌」",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T01:39:26.000Z"
@@ -75,7 +82,7 @@
       "publishedAt": "2026-09-03T12:09:57.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad#2",
       "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
       "meta": "BBC 中文 · 2026/9/3",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss",
@@ -129,13 +136,6 @@
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T00:01:34.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad#2",
-      "title": "日本企業大舉押注印度 中國風險加深之際尋求新成長",
-      "meta": "BBC 中文 · 2026/9/2",
-      "url": "https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T00:01:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T23:54:02.788Z",
+  "updatedAt": "2026-09-06T04:39:11.559Z",
   "provider": "OneBench 公共资讯快照"
 }
