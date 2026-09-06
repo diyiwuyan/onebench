@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad#0",
+      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
+      "meta": "BBC 中文 · 2026/9/6",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T13:17:31.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#0",
       "title": "特朗普取態何以左右福克蘭群島爭議",
       "meta": "BBC 中文 · 2026/9/6",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-09-06T04:35:53.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad#2",
       "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
       "meta": "BBC 中文 · 2026/9/6",
       "url": "https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad?at_medium=RSS&at_campaign=rss",
@@ -89,7 +96,7 @@
       "publishedAt": "2026-09-04T01:39:26.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#5",
       "title": "聯合國警告可能出現「超大型」厄爾尼諾現象，各國須準備應對",
       "meta": "BBC 中文 · 2026/9/3",
       "url": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T00:01:34.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#5",
-      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
-      "meta": "BBC 中文 · 2026/9/1",
-      "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T14:11:23.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-06T10:57:06.033Z",
+  "updatedAt": "2026-09-06T15:28:23.581Z",
   "provider": "OneBench 公共资讯快照"
 }
