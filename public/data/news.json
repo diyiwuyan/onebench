@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T18:17:58.212Z",
-  "expiresAt": "2026-09-07T00:17:58.212Z",
+  "generatedAt": "2026-09-06T22:07:33.540Z",
+  "expiresAt": "2026-09-07T04:07:33.540Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-07/10691625.shtml",
+      "title": "女篮世界杯：中国队逆转捷克队获小组赛首胜",
+      "category": "综合",
+      "summary": "中新社柏林9月6日电 2026年国际篮联女篮世界杯于当地时间6日在德国柏林继续小组赛比拼。上届世界杯亚军中国队在第二场小组赛中，以74:70逆转捷克队，收获小组赛首胜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691625.shtml",
+      "publishedAt": "2026-09-06T18:19:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-07/10691624.shtml",
+      "title": "中超第26轮：蓉城无缘提前夺冠 英博胜海牛升积分榜次席",
+      "category": "综合",
+      "summary": "中新社北京9月6日电 (刘梦青)2026赛季中超联赛第26轮比赛6日全部战罢。成都蓉城0:0战平河南队，以52分领跑积分榜。大连英博2:1击败青岛海牛，排名升至积分榜次席。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691624.shtml",
+      "publishedAt": "2026-09-06T18:19:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691629.shtml",
       "title": "剧烈摇晃过的可乐也能被安全打开 解密背后的科学原理",
@@ -553,38 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
-      "title": "2026年全国羽毛球单项锦标赛在合肥开赛",
-      "category": "综合",
-      "summary": "9月6日，2026年全国羽毛球单项锦标赛在合肥开赛。本次比赛共吸引来自全国23支代表队的588名运动员参赛。他们将在为期8天的赛程中，角逐男单、女单、男双、女双和混双五个项目的冠军。图为运动员在比赛中。中新社记者 韩苏原 摄 9月6日，2026年全国羽毛球单项锦标赛在合肥开赛。本次比赛共吸引来自全国23支代表队的588名运动员参赛。他们将在为期8天的赛程中，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
-      "publishedAt": "2026-09-06T12:51:43.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142750",
+      "title": "【专题报道 | 前方视野】海平面上升已成“系统性威胁”：人类该如何应对？",
+      "category": "国际",
+      "summary": "海平面上升已不再是对遥远未来的预测，而是一场正在发生的系统性危机——它不仅直接威胁沿海基础设施与居民生存，更深刻冲击着全球粮食安全、国家主权与国际法体系。面对本世纪内不可避免的海平面上升趋势与巨大的适应资金缺口，人类急需在加速减排的同时，从法理保障与资金落实上寻找突破口。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142750",
+      "publishedAt": "2026-09-06T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
-      "title": "西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜",
-      "category": "综合",
-      "summary": "中新社西藏吉隆9月6日电 (记者 赵朗)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，西藏将对吉隆口岸周边灾害风险深入评估，对口岸相关功能恢复等事宜进行深入研究论证。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
-      "publishedAt": "2026-09-06T12:49:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1671,24 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142717",
-      "publishedAt": "2026-08-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142716",
-      "title": "风险加剧：海平面上升对人类意味着什么",
-      "category": "国际",
-      "summary": "目前，海平面上升的速度已超过有记录以来的任何时期。其影响已然显现，威胁也在不断加剧。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142716",
       "publishedAt": "2026-08-31T12:00:00.000Z",
       "tags": [
         "国际",
