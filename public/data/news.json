@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T18:43:57.739Z",
-  "expiresAt": "2026-09-08T00:43:57.739Z",
+  "generatedAt": "2026-09-07T22:50:39.482Z",
+  "expiresAt": "2026-09-08T04:50:39.482Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-08/10692306.shtml",
+      "title": "AI时代，老师为何不可替代",
+      "category": "综合",
+      "summary": "新技术改变师与生、教与学之间的交互生态",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-08/10692306.shtml",
+      "publishedAt": "2026-09-07T22:42:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-08/10692301.shtml",
+      "title": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+      "category": "综合",
+      "summary": "中新网9月8日电 美国总统特朗普当地时间7日在社交媒体发文，威胁禁止加拿大飞机制造商庞巴迪公司在美销售，除非该公司开始在美国生产。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692301.shtml",
+      "publishedAt": "2026-09-07T22:35:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-08/10692300.shtml",
+      "title": "让5追7奇迹再现 郑钦文晋级美网女单八强",
+      "category": "综合",
+      "summary": "北京时间9月8日，在2026美国网球公开赛女单第四轮比赛中，郑钦文在首盘克服0-5落后，连胜7局完成大逆转，最终以7-5、6-3淘汰前赛会冠军、8号种子斯瓦泰克，晋级女单8强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692300.shtml",
+      "publishedAt": "2026-09-07T22:35:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
       "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
@@ -542,60 +596,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692264.shtml",
       "publishedAt": "2026-09-07T14:06:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692263.shtml",
-      "title": "服务全球发展大局 中国政法大学国际组织人才培养研讨会举办",
-      "category": "综合",
-      "summary": "中新网北京9月7日电 (记者 张素)中国政法大学校长卢春龙近日表示，学校将进一步拓宽合作广度与深度，合力打造高校与国际组织协同育人典范，共同服务全球发展大局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692263.shtml",
-      "publishedAt": "2026-09-07T14:05:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203478.shtml",
-      "title": "李强会见卡塔尔首相兼外交大臣穆罕默德",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203478.shtml",
-      "publishedAt": "2026-09-07T14:01:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10692254.shtml",
-      "title": "吉林省第三届职业技能大赛聚焦新业态赋能人才振兴",
-      "category": "综合",
-      "summary": "中新网四平9月7日电 (谭伟旗 金乔)7日，吉林省第三届职业技能大赛在四平开幕。赛事覆盖先进制造、数字技能、现代服务、特色产业等重点领域，聚焦新职业、新业态、新技术，设置多项数字技能竞赛项目。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692254.shtml",
-      "publishedAt": "2026-09-07T14:00:12.000Z",
       "tags": [
         "国内",
         "社会",
