@@ -5,11 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
+      "meta": "BBC 中文 · 2026/9/7",
+      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T16:37:47.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad#0",
+      "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
+      "meta": "BBC 中文 · 2026/9/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T14:36:09.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad#0",
-      "title": "倫敦警察擬對在囚連環強姦犯鄒鎮豪起訴新罪",
+      "title": "鄒鎮豪連環強姦案：警察報請英國檢察官考慮起訴新罪",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T09:55:09.000Z"
+      "publishedAt": "2026-09-07T13:01:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad#0",
@@ -19,14 +33,7 @@
       "publishedAt": "2026-09-07T07:07:52.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
-      "title": "印尼火山爆發，27萬旅客滯留機場",
-      "meta": "BBC 中文 · 2026/9/7",
-      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T07:03:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad#2",
       "title": "氣候變暖如何影響你的飛行旅程？",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad?at_medium=RSS&at_campaign=rss",
@@ -101,13 +108,6 @@
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/cy4z8w39j3no/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T10:25:57.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad#2",
-      "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T08:09:11.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T12:33:12.940Z",
+  "updatedAt": "2026-09-07T18:43:57.739Z",
   "provider": "OneBench 公共资讯快照"
 }
