@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T16:38:29.087Z",
-  "expiresAt": "2026-09-08T22:38:29.087Z",
+  "generatedAt": "2026-09-08T21:09:41.761Z",
+  "expiresAt": "2026-09-09T03:09:41.761Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,40 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#3",
+      "title": "董建華：從「船王」之子到香港首任行政長官",
+      "category": "国际",
+      "summary": "中國香港特區首任行政長官董建華逝世，享年89歲。「香港好，國家好」是他特首生涯中最為人熟知的一句說話。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T18:50:53.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#0",
+      "title": "董建華逝世：從船王富二代到香港首任特首",
+      "category": "国际",
+      "summary": "中國全國政協前副主席，香港首任特首董建華逝世，享年89歲。他的前半生見證主權移交前香港的東方之珠年代，後半生更走入最高行政當局左右香港的前途。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T18:48:17.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10692970.shtml",
       "title": "刘海星率中共代表团访问乌兹别克斯坦、阿塞拜疆",
@@ -589,6 +623,96 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142758",
+      "title": "世卫组织警告：吸烟会损害生育能力",
+      "category": "国际",
+      "summary": "世界卫生组织在周二发布的一份新报告中警告称，吸烟极有可能增加备孕难度，并强调吸烟女性的不孕风险比非吸烟者高出40%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142758",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142757",
+      "title": "叙利亚：问责、包容和防止重演是过渡关键",
+      "category": "国际",
+      "summary": "叙利亚问题独立国际调查委员会周二表示，全面问责、包容以及防止暴力重演是叙利亚实现成功且可持续过渡的关键。委员会赞扬叙利亚政府及其人民取得的进展，同时指出，建立尊重人权的机构并处理过去暴行的遗留问题仍面临挑战。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142757",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142756",
+      "title": "霍尔木兹海峡中断或加剧中小企业遭受排斥风险",
+      "category": "国际",
+      "summary": "联合国贸易和发展会议发布的一份报告指出，贸易中断会影响所有企业，但影响程度往往不尽相同。霍尔木兹海峡的中断也不例外。大企业能够将风险分散到不同的供应商、市场和融资渠道，而中小企业通常无法做到这一点。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142756",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142713",
+      "title": "【专题报道】千年岛国，一米之危——专访联合国马尔代夫驻地协调员张皓",
+      "category": "国际",
+      "summary": "从空中俯瞰马尔代夫，翡翠般的岛礁散落在深蓝色印度洋上，是无数旅行者心驰神往的天堂。但对联合国马尔代夫驻地协调员张皓而言，舷窗外还有另一重景象——那些美丽的小岛，大多仅高出海平面几十厘米。“你一下飞机就能看见海滩，也能看见海水就在脚下。”一年半前初抵此地时，他第一次切身感受到，气候变化并非遥远的概念，它“就在脚下”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142713",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142753",
+      "title": "加沙每四个家庭中就有一个由女性担任户主",
+      "category": "国际",
+      "summary": "联合国妇女署周二发布的一份最新数据简报显示，加沙地带近四分之一的家庭由女性担任户主，估计约有8万6290户家庭。这一比例是2023年10月前的两倍，当时为九分之一。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142753",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "sspai-https://sspai.com/prime/story/sidecar-optimizations",
       "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
       "category": "科技",
@@ -712,7 +836,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#2",
       "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
       "category": "国际",
       "summary": "荷爾蒙、睡眠不足和壓力，都能解釋為何女性更容易受到這種令人衰弱的神經系統疾病所困擾。",
@@ -883,23 +1007,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad#2",
-      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
-      "category": "国际",
-      "summary": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T00:03:27.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1576,60 +1683,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142724",
-      "title": "艾滋病规划署、南部非洲发展共同体与中国携手推动南部非洲本地制药业发展",
-      "category": "国际",
-      "summary": "联合国艾滋病规划署、南部非洲发展共同体和全球卫生创新研究所联合南非政府、中国政府、中国制药企业以及区域和全球合作伙伴，启动一项新合作，旨在加强整个南部非洲的药品生产能力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142724",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142723",
-      "title": "古特雷斯：多极化是实现全球治理和国际关系正义的条件",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周二在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会上表示，世界正日益呈现多极化态势，多极化是全球治理和国际关系中实现正义的条件，也是对有效多边主义以及联合国最有力的支持。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142723",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142722",
-      "title": "尼泊尔洪灾：死亡人数持续攀升，妇女和女童处境令人担忧",
-      "category": "国际",
-      "summary": "随着尼泊尔洪灾救援工作的持续进行，人道主义工作者正重点关注近期致命的山洪暴发对妇女和女童的影响，以及她们获得医疗保健的机会。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142722",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad#3",
       "title": "「大家都是做做樣子」：香港高中公民科推行五週年",
       "category": "国际",
@@ -1643,59 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad#3",
-      "title": "前線報導：BBC走訪中尼邊境被洪災抹去的小鎮",
-      "category": "国际",
-      "summary": "BBC記者阿扎德·莫希里來到夏布盧貝西，這裡緊鄰中國西藏吉隆，曾經生活在這裡的社區已幾乎不留任何痕跡，取而代之的是大量乾硬的泥土和瓦礫。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T05:45:54.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142719",
-      "title": "尽管全球烟草产量下降，非洲产量仍在增加",
-      "category": "国际",
-      "summary": "世界卫生组织最新分析显示，2012年至2024年间，全球烟草产量下降近19%，而非洲产量增长近9%。同期，非洲香烟进口支出翻了一番多，从8.33亿美元增至17.7亿美元。这表明，非洲国家在生产和出口更多烟草的同时，也在花费更多资金进口成品香烟。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142719",
-      "publishedAt": "2026-08-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142718",
-      "title": "超越贫困：扩大东亚及太平洋地区中产阶级面临更大挑战",
-      "category": "国际",
-      "summary": "世界银行周一发布署名博客文章指出，东亚及太平洋地区过去几十年实现了显著经济转型，数亿人摆脱贫困，约三分之一人口如今属于中产阶级。但在地区其他地方，中产阶级增长势头已经放缓，许多摆脱贫困的人正努力在中产阶级中站稳脚跟。文章认为，培育一个规模更大、经济上更稳健的中产阶级是一项独特且更为艰巨的挑战。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142718",
-      "publishedAt": "2026-08-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

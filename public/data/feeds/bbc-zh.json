@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#3",
+      "title": "董建華：從「船王」之子到香港首任行政長官",
+      "meta": "BBC 中文 · 2026/9/8",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T18:50:53.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#0",
+      "title": "董建華逝世：從船王富二代到香港首任特首",
+      "meta": "BBC 中文 · 2026/9/8",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T18:48:17.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#0",
       "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
       "meta": "BBC 中文 · 2026/9/8",
@@ -33,7 +47,7 @@
       "publishedAt": "2026-09-08T02:44:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#2",
       "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +80,6 @@
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T06:39:29.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad#2",
-      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
-      "meta": "BBC 中文 · 2026/9/7",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T00:03:27.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#2",
@@ -166,13 +173,6 @@
       "publishedAt": "2026-09-01T08:18:19.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad#3",
-      "title": "前線報導：BBC走訪中尼邊境被洪災抹去的小鎮",
-      "meta": "BBC 中文 · 2026/9/1",
-      "url": "https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T05:45:54.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#1",
       "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
       "meta": "BBC 中文 · 2026/8/30",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T16:38:29.087Z",
+  "updatedAt": "2026-09-08T21:09:41.761Z",
   "provider": "OneBench 公共资讯快照"
 }

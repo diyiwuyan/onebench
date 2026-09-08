@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142758",
+      "title": "世卫组织警告：吸烟会损害生育能力",
+      "meta": "联合国新闻 · 2026/9/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142758",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142757",
+      "title": "叙利亚：问责、包容和防止重演是过渡关键",
+      "meta": "联合国新闻 · 2026/9/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142757",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142756",
+      "title": "霍尔木兹海峡中断或加剧中小企业遭受排斥风险",
+      "meta": "联合国新闻 · 2026/9/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142756",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142713",
+      "title": "【专题报道】千年岛国，一米之危——专访联合国马尔代夫驻地协调员张皓",
+      "meta": "联合国新闻 · 2026/9/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142713",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142753",
+      "title": "加沙每四个家庭中就有一个由女性担任户主",
+      "meta": "联合国新闻 · 2026/9/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142753",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142751",
       "title": "古特雷斯呼吁塔利班撤销对阿富汗妇女的禁令",
       "meta": "联合国新闻 · 2026/9/6",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/9/1",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142725",
       "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142724",
-      "title": "艾滋病规划署、南部非洲发展共同体与中国携手推动南部非洲本地制药业发展",
-      "meta": "联合国新闻 · 2026/9/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142724",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142723",
-      "title": "古特雷斯：多极化是实现全球治理和国际关系正义的条件",
-      "meta": "联合国新闻 · 2026/9/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142723",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142722",
-      "title": "尼泊尔洪灾：死亡人数持续攀升，妇女和女童处境令人担忧",
-      "meta": "联合国新闻 · 2026/9/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142722",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142719",
-      "title": "尽管全球烟草产量下降，非洲产量仍在增加",
-      "meta": "联合国新闻 · 2026/8/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142719",
-      "publishedAt": "2026-08-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142718",
-      "title": "超越贫困：扩大东亚及太平洋地区中产阶级面临更大挑战",
-      "meta": "联合国新闻 · 2026/8/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142718",
-      "publishedAt": "2026-08-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T16:38:29.087Z",
+  "updatedAt": "2026-09-08T21:09:41.761Z",
   "provider": "OneBench 公共资讯快照"
 }
