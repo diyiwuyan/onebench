@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142751",
+      "title": "古特雷斯呼吁塔利班撤销对阿富汗妇女的禁令",
+      "meta": "联合国新闻 · 2026/9/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142751",
+      "publishedAt": "2026-09-06T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142750",
       "title": "【专题报道 | 前方视野】海平面上升已成“系统性威胁”：人类该如何应对？",
       "meta": "联合国新闻 · 2026/9/6",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142718",
       "publishedAt": "2026-08-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142717",
-      "title": "尼泊尔洪灾死亡人数超过900人，救援需求持续增加",
-      "meta": "联合国新闻 · 2026/8/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142717",
-      "publishedAt": "2026-08-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T04:36:46.836Z",
+  "updatedAt": "2026-09-08T11:19:07.194Z",
   "provider": "OneBench 公共资讯快照"
 }

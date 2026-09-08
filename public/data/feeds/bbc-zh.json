@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#0",
+      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
+      "meta": "BBC 中文 · 2026/9/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T06:35:07.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ym2zy4r77o/trad#0",
       "title": "定罪戰犯「波斯尼亞屠夫」姆拉迪奇去世 塞爾維亞數千人送殯",
       "meta": "BBC 中文 · 2026/9/8",
@@ -24,13 +31,6 @@
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T00:17:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#0",
-      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T00:17:33.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T04:36:46.836Z",
+  "updatedAt": "2026-09-08T11:19:07.194Z",
   "provider": "OneBench 公共资讯快照"
 }
