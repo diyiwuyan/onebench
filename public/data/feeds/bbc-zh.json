@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#0",
+      "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
+      "meta": "BBC 中文 · 2026/9/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T13:37:15.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#0",
       "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
       "meta": "BBC 中文 · 2026/9/8",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-09-07T16:37:47.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad#2",
       "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad?at_medium=RSS&at_campaign=rss",
@@ -52,13 +59,6 @@
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T13:01:37.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad#2",
-      "title": "美國特使穿梭俄烏：雙方分歧未解 澤連斯基料戰事持續到冬季",
-      "meta": "BBC 中文 · 2026/9/7",
-      "url": "https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T07:07:52.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T11:19:07.194Z",
+  "updatedAt": "2026-09-08T16:38:29.087Z",
   "provider": "OneBench 公共资讯快照"
 }
