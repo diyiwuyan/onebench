@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad#2",
+      "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
+      "meta": "BBC 中文 · 2026/9/9",
+      "url": "https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T12:15:39.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad#0",
       "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
       "meta": "BBC 中文 · 2026/9/9",
@@ -38,13 +45,6 @@
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/cx2z9pgprrdo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T07:57:41.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad#2",
-      "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
-      "meta": "BBC 中文 · 2026/9/9",
-      "url": "https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T07:23:00.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr4vwye0z02o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:23:26.338Z",
+  "updatedAt": "2026-09-09T16:38:49.073Z",
   "provider": "OneBench 公共资讯快照"
 }
