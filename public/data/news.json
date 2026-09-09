@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T16:38:49.073Z",
-  "expiresAt": "2026-09-09T22:38:49.073Z",
+  "generatedAt": "2026-09-09T20:56:31.144Z",
+  "expiresAt": "2026-09-10T02:56:31.144Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "title": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+      "category": "综合",
+      "summary": "中新社首尔9月9日电 (记者 金旭)韩国外交部当地时间9日表示，韩国政府决定不参加日本12日在新潟县佐渡市举行的佐渡金山强征劳工受害者悼念仪式。这将是韩国连续第三年缺席该活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "publishedAt": "2026-09-09T17:27:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
+      "category": "综合",
+      "summary": "中新社北京9月9日电 (记者 尹倩芸)就美国发布中国人工智能企业对美蒸馏活动相关网络安全公告，中国商务部新闻发言人9日表示，美方相关公告，是其在人工智能领域推行科技霸权、搞算力垄断，打压竞争的又一明证。中方对此坚决反对。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "publishedAt": "2026-09-09T17:26:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
       "title": "丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要",
@@ -536,42 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693630.shtml",
-      "title": "封关后的海南：外籍教师共话便利化迎教师节",
-      "category": "综合",
-      "summary": "中新网海口9月9日电 题：封关后的海南：外籍教师共话便利化迎教师节",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693630.shtml",
-      "publishedAt": "2026-09-09T14:03:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
-      "title": "报告：中国面向东盟数字贸易呈三大态势",
-      "category": "综合",
-      "summary": "【东盟专线】报告：中国面向东盟数字贸易呈三大态势",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
-      "publishedAt": "2026-09-09T14:02:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad#2",
       "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
       "category": "国际",
@@ -585,6 +585,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142762",
+      "title": "随着全球范围冲突加剧，古特雷斯敦促各国领导人投资于和平",
+      "category": "国际",
+      "summary": "周三，联合国秘书长古特雷斯呼吁世界各国领导人投资于和平，因为暴力、分裂和冲突正在加剧全球范围内的苦难。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142762",
+      "publishedAt": "2026-09-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -810,6 +828,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142761",
+      "title": "奈拜提耶局势升级之际，联合国秘书长要求以色列从黎巴嫩撤军",
+      "category": "国际",
+      "summary": "随着奈拜提耶及其周边地区战事加剧，联合国秘书长古特雷斯谴责了黎巴嫩南部不断增加的平民伤亡，并呼吁以色列将其部队从黎巴嫩境内撤出。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142761",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142760",
+      "title": "人工智能数据中心对全球电力系统构成日益加剧的威胁",
+      "category": "国际",
+      "summary": "联合国欧洲经济委员会警告称，数据密集型技术（尤其是人工智能数据中心）的使用增速已超过电力基础设施的承载能力，这引发了人们对全球能源系统未来可靠性和韧性的担忧。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142760",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142759",
+      "title": "联大主席敲槌宣布新一届会议开幕，努力重建全球信任",
+      "category": "国际",
+      "summary": "周二，联合国大会在联合国总部敲槌宣布第81届会议开幕。新任主席、孟加拉国前外长拉赫曼承诺，在战争、人道主义危机和气候变化日益加剧的当下，将努力重建公众对该机构的信任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142759",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1594,24 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142728",
-      "title": "为人类而战：避免气候灾难意味着必须立即采取行动",
-      "category": "国际",
-      "summary": "根据周三发布的一份联合国报告，创纪录的热浪、致命的洪灾和极端天气反映出地球正在持续变暖，即将突破安全温度阈值；但若现在加大力度采取气候行动，仍可避免气候灾难。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142728",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#1",
       "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
       "category": "国际",
@@ -1642,60 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142727",
-      "title": "资金短缺迫使粮食署削减约旦河西岸粮食援助",
-      "category": "国际",
-      "summary": "世界粮食计划署周二宣布，由于资金严重短缺，该机构将把约旦河西岸能够获得粮食援助的人数削减一半。此次削减正值该地区粮食需求自2023年以来翻了一番之际。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142727",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142726",
-      "title": "联合国：刚果（金）埃博拉疫情蔓延速度创纪录，必须紧急加大应对力度",
-      "category": "国际",
-      "summary": "联合国负责人道主义事务的副秘书长兼紧急救济协调员弗莱彻周二表示，刚果民主共和国（刚果（金））埃博拉疫情是有记录以来蔓延速度最快的疫情，正冲击一个本已深陷严重人道主义危机的国家。除非紧急加大应对力度，否则将有更多生命丧失，威胁也将加剧。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142726",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142725",
-      "title": "阿富汗数十年冲突余波未止：多数受害者仍未获得正义与救济",
-      "category": "国际",
-      "summary": "联合国阿富汗援助团周二发布一份新报告显示，阿富汗长达数十年的武装冲突受害者继续承受严重的身体、心理、社会和经济后果，且往往无法获得司法救济、充分援助或对所受伤害的承认。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142725",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
