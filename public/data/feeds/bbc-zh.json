@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr4vwye0z02o/trad#0",
+      "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
+      "meta": "BBC 中文 · 2026/9/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cr4vwye0z02o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T01:05:42.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#0",
+      "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
+      "meta": "BBC 中文 · 2026/9/9",
+      "url": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T01:05:37.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#3",
       "title": "董建華：從「船王」之子到香港首任行政長官",
       "meta": "BBC 中文 · 2026/9/8",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-09-08T18:48:17.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#2",
       "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad?at_medium=RSS&at_campaign=rss",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-09-08T03:26:47.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad#2",
       "title": "哈利和梅根重返英國 國王發函重申兩人已非「在職王室成員」",
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad?at_medium=RSS&at_campaign=rss",
@@ -59,13 +73,6 @@
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T16:37:47.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad#2",
-      "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
-      "meta": "BBC 中文 · 2026/9/7",
-      "url": "https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T14:36:09.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad#2",
@@ -94,13 +101,6 @@
       "meta": "BBC 中文 · 2026/9/6",
       "url": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-06T13:17:31.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#2",
-      "title": "特朗普取態何以左右福克蘭群島爭議",
-      "meta": "BBC 中文 · 2026/9/6",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T07:42:46.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T00:14:59.700Z",
+  "updatedAt": "2026-09-09T04:47:41.589Z",
   "provider": "OneBench 公共资讯快照"
 }
