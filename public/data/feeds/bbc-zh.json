@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad#0",
+      "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T12:47:54.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad#0",
       "title": "香港記協主席訴《華爾街日報》解僱案 法庭判局部有罪",
       "meta": "BBC 中文 · 2026/9/10",
@@ -89,7 +96,7 @@
       "publishedAt": "2026-09-09T01:05:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#2",
       "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T06:35:07.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ym2zy4r77o/trad#2",
-      "title": "定罪戰犯「波斯尼亞屠夫」姆拉迪奇去世 塞爾維亞數千人送殯",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c5ym2zy4r77o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T03:26:47.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:19:52.171Z",
+  "updatedAt": "2026-09-10T16:24:53.715Z",
   "provider": "OneBench 公共资讯快照"
 }

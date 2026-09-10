@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142754",
+      "title": "【专题报道】难以忘记——911事件二十五周年 三位联合国工作人员讲述亲身经历",
+      "meta": "联合国新闻 · 2026/9/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142754",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142765",
       "title": "2025年超过1.71亿名学生因气候灾害中断学业",
       "meta": "联合国新闻 · 2026/9/9",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142734",
       "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142733",
-      "title": "古特雷斯对美伊再次交火深表关切",
-      "meta": "联合国新闻 · 2026/9/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142733",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:19:52.171Z",
+  "updatedAt": "2026-09-10T16:24:53.715Z",
   "provider": "OneBench 公共资讯快照"
 }
