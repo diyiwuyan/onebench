@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142765",
+      "title": "2025年超过1.71亿名学生因气候灾害中断学业",
+      "meta": "联合国新闻 · 2026/9/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142765",
+      "publishedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142766",
       "title": "遭受洪灾重创的尼泊尔呼吁气候正义",
       "meta": "联合国新闻 · 2026/9/9",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142733",
       "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142732",
-      "title": "旨在改善猴痘疫苗可及性的全球倡议正式启动",
-      "meta": "联合国新闻 · 2026/9/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142732",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T00:14:49.002Z",
+  "updatedAt": "2026-09-10T04:49:12.668Z",
   "provider": "OneBench 公共资讯快照"
 }

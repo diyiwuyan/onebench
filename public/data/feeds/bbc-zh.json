@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad#0",
+      "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T00:14:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad#0",
+      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T00:14:34.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad#2",
       "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
       "meta": "BBC 中文 · 2026/9/9",
@@ -19,14 +33,14 @@
       "publishedAt": "2026-09-09T09:32:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#2",
       "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T09:29:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1j4n836le2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1j4n836le2o/trad#2",
       "title": "習近平與貝安德首次通話 基調積極 同時提及黎智英",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/c1j4n836le2o/trad?at_medium=RSS&at_campaign=rss",
@@ -96,25 +110,11 @@
       "publishedAt": "2026-09-08T02:44:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#2",
-      "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
-      "meta": "BBC 中文 · 2026/9/7",
-      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T16:37:47.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#5",
       "title": "歐洲國家為何提走北美黃金儲備",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T00:03:22.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad#5",
-      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
-      "meta": "BBC 中文 · 2026/9/6",
-      "url": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T13:17:31.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T00:14:49.002Z",
+  "updatedAt": "2026-09-10T04:49:12.668Z",
   "provider": "OneBench 公共资讯快照"
 }
