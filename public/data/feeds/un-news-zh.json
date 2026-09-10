@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142766",
+      "title": "遭受洪灾重创的尼泊尔呼吁气候正义",
+      "meta": "联合国新闻 · 2026/9/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142766",
+      "publishedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142764",
+      "title": "阿富汗民众面临“令人窒息的沉默”，人权高专呼吁加大施压力度",
+      "meta": "联合国新闻 · 2026/9/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142764",
+      "publishedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142763",
+      "title": "保护教育免受袭击是全世界的责任",
+      "meta": "联合国新闻 · 2026/9/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142763",
+      "publishedAt": "2026-09-09T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142762",
       "title": "随着全球范围冲突加剧，古特雷斯敦促各国领导人投资于和平",
       "meta": "联合国新闻 · 2026/9/9",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142732",
       "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142731",
-      "title": "世界粮食计划署谴责苏丹食品援助卡车遭空袭",
-      "meta": "联合国新闻 · 2026/9/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142731",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142730",
-      "title": "人工智能网络对亚太地区数字基础设施提出新要求",
-      "meta": "联合国新闻 · 2026/9/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142730",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142729",
-      "title": "气候变暖加剧森林火灾威胁，传统凉爽、降雨充沛地区也需做好准备",
-      "meta": "联合国新闻 · 2026/9/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142729",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:56:31.144Z",
+  "updatedAt": "2026-09-10T00:14:49.002Z",
   "provider": "OneBench 公共资讯快照"
 }
