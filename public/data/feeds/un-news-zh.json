@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142772",
+      "title": "乌克兰：针对切尔诺贝利的无人机袭击是“在拿数百万人的安全冒险”",
+      "meta": "联合国新闻 · 2026/9/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142772",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142771",
+      "title": "联合国也门特使：也门重陷大规模冲突风险已演变为现实",
+      "meta": "联合国新闻 · 2026/9/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142771",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142770",
+      "title": "“9·11”事件25周年：联合国重申反恐与维护人权共同责任",
+      "meta": "联合国新闻 · 2026/9/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142770",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142769",
+      "title": "联合国气候变化事务负责人：气候危机已成为欧洲经济安全紧急状况",
+      "meta": "联合国新闻 · 2026/9/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142769",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142754",
       "title": "【专题报道】难以忘记——911事件二十五周年 三位联合国工作人员讲述亲身经历",
       "meta": "联合国新闻 · 2026/9/10",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/9/3",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142738",
       "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142737",
-      "title": "尼泊尔洪灾后至少2.2万名儿童亟需安全饮用水和卫生支持",
-      "meta": "联合国新闻 · 2026/9/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142737",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142736",
-      "title": "联合国裁军事务高级代表：叙利亚化学武器销毁工作取得重大进展",
-      "meta": "联合国新闻 · 2026/9/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142736",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142735",
-      "title": "厄尔尼诺现象正在加剧 可能出现数月极端高温",
-      "meta": "联合国新闻 · 2026/9/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142735",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142734",
-      "title": "货币基金组织：亚洲的下一个增长故事",
-      "meta": "联合国新闻 · 2026/9/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142734",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T20:52:08.196Z",
+  "updatedAt": "2026-09-11T00:10:29.811Z",
   "provider": "OneBench 公共资讯快照"
 }
