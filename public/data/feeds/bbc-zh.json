@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4jyk29dq7o/trad#3",
+      "title": "專訪鄧燕娥：與李卓人相伴四十年「互相撐著」",
+      "meta": "BBC 中文 · 2026/9/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4jyk29dq7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T13:23:26.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad#0",
+      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
+      "meta": "BBC 中文 · 2026/9/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T13:23:08.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyj1x17vko/trad#0",
+      "title": "香港支聯會「煽動顛覆」案：李卓人、鄒幸彤、何俊仁判囚5至7年",
+      "meta": "BBC 中文 · 2026/9/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgyj1x17vko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T13:22:16.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad#0",
       "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
       "meta": "BBC 中文 · 2026/9/11",
@@ -19,25 +40,11 @@
       "publishedAt": "2026-09-11T07:58:26.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad#0",
-      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
-      "meta": "BBC 中文 · 2026/9/11",
-      "url": "https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T07:48:01.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ced75zwgd1lo/trad#0",
-      "title": "911事件25年後 美國機場安檢醞釀「鬆綁」：無票可到登機口送行、滿瓶水可過安檢",
+      "title": "911事件25年後 美國機場安檢醞釀「鬆綁」",
       "meta": "BBC 中文 · 2026/9/11",
       "url": "https://www.bbc.com/zhongwen/articles/ced75zwgd1lo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T07:40:27.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyj1x17vko/trad#0",
-      "title": "香港支聯會「煽動顛覆」案：李卓人、鄒幸彤、何俊仁判囚5至7年",
-      "meta": "BBC 中文 · 2026/9/11",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgyj1x17vko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T07:00:19.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad#3",
@@ -55,7 +62,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#1",
-      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
+      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，難屬傷痛難癒",
       "meta": "BBC 中文 · 2026/9/11",
       "url": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T00:22:53.000Z"
@@ -159,13 +166,6 @@
       "publishedAt": "2026-09-06T02:02:19.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad#3",
-      "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T10:56:52.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#2",
       "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
       "meta": "BBC 中文 · 2026/9/2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-01T09:56:01.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T11:21:31.458Z",
+  "updatedAt": "2026-09-11T16:28:42.270Z",
   "provider": "OneBench 公共资讯快照"
 }
