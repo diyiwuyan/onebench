@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T15:31:56.908Z",
-  "expiresAt": "2026-09-12T21:31:56.908Z",
+  "generatedAt": "2026-09-12T18:24:06.728Z",
+  "expiresAt": "2026-09-13T00:24:06.728Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,114 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml",
+      "title": "菲律宾客船起火事故死亡人数升至76人",
+      "category": "综合",
+      "summary": "中新社马尼拉9月12日电 (记者 周璟)菲律宾海岸警卫队12日表示，巴拉望省附近海域起火客船上又发现41具遗体，事故确认死亡人数升至76人，另有13人失联、43人获救。搜救及遗体打捞工作仍在进行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml",
+      "publishedAt": "2026-09-12T17:05:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
+      "title": "当物流装上“AI引擎” 如何跑出新速度？",
+      "category": "综合",
+      "summary": "网上下单、家门口收快递，早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递？在服贸会上，记者发现，人工智能正在改变传统物流的运行逻辑。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
+      "publishedAt": "2026-09-12T17:03:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-13/10695499.shtml",
+      "title": "丁俊晖止步2026斯诺克英格兰公开赛四强",
+      "category": "综合",
+      "summary": "2026斯诺克英格兰公开赛半决赛，丁俊晖2-6不敌阿里·卡特，无缘决赛。上半场，两人战至2-2平，休息过后，阿里·卡特连胜4局，晋级决赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695499.shtml",
+      "publishedAt": "2026-09-12T16:56:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695498.shtml",
+      "title": "新华图讯｜习近平会见印度总理莫迪",
+      "category": "综合",
+      "summary": "当地时间9月12日，国家主席习近平在新德里会见印度总理莫迪。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695498.shtml",
+      "publishedAt": "2026-09-12T16:54:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695496.shtml",
+      "title": "习近平会见印度总理莫迪",
+      "category": "综合",
+      "summary": "中新社新德里9月12日电 （记者 郭金超 黄钰钦）当地时间9月12日下午，中国国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695496.shtml",
+      "publishedAt": "2026-09-12T15:54:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
+      "title": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "category": "综合",
+      "summary": "中新社名古屋9月12日电 当地时间12日，在日本爱知县名古屋市进行的第二十届亚洲运动会男篮项目C组小组赛中，中国男篮以105:59大胜巴林队，收获小组赛两连胜，提前锁定八强席位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
+      "publishedAt": "2026-09-12T15:23:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
       "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
@@ -454,114 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
       "publishedAt": "2026-09-12T13:20:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml",
-      "title": "广西首个“用机器人造机器人”工厂投产",
-      "category": "综合",
-      "summary": "中新社广西柳州9月12日电 (林馨)柳州优必选工业人形机器人超级智慧工厂投产仪式12日在广西柳州市举行。该项目依托工业仿真系统智能规划、数字化“智慧大脑”全域调度，成为广西首个实现“用机器人造机器人”闭环的智造工厂。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml",
-      "publishedAt": "2026-09-12T13:19:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695447.shtml",
-      "title": "报告：中国位列全球太空基础设施评估第二",
-      "category": "综合",
-      "summary": "中新社北京9月12日电 (记者 陈杭)12日，在2026年中国国际服务贸易交易会上发布的《2026全球太空基础设施评估》(下称报告)显示，美国、中国位列全球太空基础设施评估前两名。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695447.shtml",
-      "publishedAt": "2026-09-12T13:18:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695425.shtml",
-      "title": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉被查",
-      "category": "综合",
-      "summary": "中新网9月12日电 据重庆市纪委监委消息：重庆渝富控股集团有限公司原党委书记、董事长谢文辉涉嫌严重违纪违法，目前正接受重庆市纪委监委纪律审查和监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695425.shtml",
-      "publishedAt": "2026-09-12T13:18:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695474.shtml",
-      "title": "（长征胜利90周年）“鸡汤银镯情”见证乌蒙山乡巨变",
-      "category": "综合",
-      "summary": "中新网云南昭通9月12日电 题：“鸡汤银镯情”见证乌蒙山乡巨变",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695474.shtml",
-      "publishedAt": "2026-09-12T13:16:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695476.shtml",
-      "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
-      "category": "综合",
-      "summary": "新华社新德里9月12日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695476.shtml",
-      "publishedAt": "2026-09-12T13:16:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695470.shtml",
-      "title": "西藏印社在拉萨成立",
-      "category": "综合",
-      "summary": "中新网拉萨9月12日电(记者 赵延)9月12日上午，西藏印社成立大会暨第一次会员代表大会在西藏美术馆学术报告厅举行。经西藏自治区民政厅、西藏自治区文联批准，西藏印社正式挂牌成立。当日，“印镌雪域——庆祝中国共产党成立105周年、西藏和平解放75周年暨西藏印社成立篆刻展”(以下简称：“印镌雪域”)同步开展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695470.shtml",
-      "publishedAt": "2026-09-12T13:15:40.000Z",
       "tags": [
         "国内",
         "社会",
