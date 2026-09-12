@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T20:58:11.884Z",
-  "expiresAt": "2026-09-12T02:58:11.884Z",
+  "generatedAt": "2026-09-12T00:18:26.273Z",
+  "expiresAt": "2026-09-12T06:18:26.273Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,312 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695106.shtml",
+      "title": "法国2026年经济增长预期下调至0.5%",
+      "category": "综合",
+      "summary": "中新社巴黎9月11日电 (记者 李洋)法国经济与财政部长莱斯屈尔当地时间11日表示，2026年法国经济增长预期由0.7%下调至0.5%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695106.shtml",
+      "publishedAt": "2026-09-12T00:03:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695105.shtml",
+      "title": "秋燥分两种，很多人都补反了，越补燥感越重！",
+      "category": "综合",
+      "summary": "秋燥分两种，很多人都补反了，越补燥感越重！梨、胖大海别盲目吃，中医教你快速自测体质",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695105.shtml",
+      "publishedAt": "2026-09-11T23:45:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695104.shtml",
+      "title": "警惕肝病年轻化！这五个习惯最伤肝",
+      "category": "综合",
+      "summary": "肝脏位于人体右上腹，堪称身体日夜不休的“化工厂”，承担着代谢、解毒、营养合成等一系列关键功能。它“沉默隐忍”，受损之初很少发出疼痛信号，等到出现明显不适时，往往已经错过了最佳干预时机。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695104.shtml",
+      "publishedAt": "2026-09-11T23:26:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695103.shtml",
+      "title": "大学生活费怎么给？谈“钱”之前，先谈“生活”",
+      "category": "综合",
+      "summary": "开学前，四川姑娘陈子棠收到父母给的1800元。在这笔每月固定的生活费之外，她还有自己的“小金库”，是自己攒下的兼职报酬和奖学金。生活费覆盖日常吃饭、购买生活用品等基本支出，钱不够时，相较于问父母要，她会优先动用“小金库”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695103.shtml",
+      "publishedAt": "2026-09-11T23:19:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695102.shtml",
+      "title": "年纪轻轻，血管健康怎么就亮起红灯？医生提醒",
+      "category": "综合",
+      "summary": "你的血管，要从年轻时开始呵护",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695102.shtml",
+      "publishedAt": "2026-09-11T23:13:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695100.shtml",
+      "title": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
+      "category": "综合",
+      "summary": "中新社罗马9月11日电 联合国粮农组织渔业委员会第37届会议9月7日至11日在意大利首都罗马召开，中国代表团参加此次会议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695100.shtml",
+      "publishedAt": "2026-09-11T23:09:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml",
+      "title": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "category": "综合",
+      "summary": "中新社华盛顿9月11日电 (记者 陈孟统)“25年过去了，自2001年9月11日恐怖袭击以来，一代人已经走过，但时间并没有冲淡那一天的意义。”美国总统特朗普11日在五角大楼出席“9·11”事件25周年纪念仪式时说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml",
+      "publishedAt": "2026-09-11T23:09:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-12/10695099.shtml",
+      "title": "9月12日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-12/10695099.shtml",
+      "publishedAt": "2026-09-11T23:00:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695098.shtml",
+      "title": "WTT澳门冠军赛：中国队三人晋级单打八强",
+      "category": "综合",
+      "summary": "世界乒乓球职业大联盟(WTT)澳门冠军赛11日展开八分之一决赛，中国队选手陈幸同、陈熠、周启豪晋级。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695098.shtml",
+      "publishedAt": "2026-09-11T22:55:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
+      "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
+      "category": "综合",
+      "summary": "当地时间9月11日，胡塞武装发表声明，公布其近日军事行动成果；当天晚些时候，沙特能源部发表声明称，该国东西输油管道遭袭后预防性关闭。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
+      "publishedAt": "2026-09-11T22:45:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695090.shtml",
+      "title": "2026年攀岩世界杯贵阳站开赛 邓丽娟为中国队拿下首金",
+      "category": "综合",
+      "summary": "中新社贵阳9月12日电 (记者 张伟)2026年攀岩世界杯贵阳站开赛仪式11日在贵州·彩湖国际攀岩中心举行。中国选手邓丽娟夺得女子速度赛金牌，零勇志、储守宏分别斩获男子速度赛银牌和铜牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695090.shtml",
+      "publishedAt": "2026-09-11T22:43:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
+      "title": "纽约纪念“9·11”事件25周年",
+      "category": "综合",
+      "summary": "中新社纽约9月11日电 (记者 王帆)当地时间11日，数千人聚集在美国纽约世贸中心遗址广场，悼念25年前“9·11”恐怖袭击事件中的遇难者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
+      "publishedAt": "2026-09-11T22:42:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
+      "title": "美国8月CPI同比上涨3.4%",
+      "category": "综合",
+      "summary": "中新社华盛顿9月11日电 (记者 陈孟统)美国劳工部11日发布数据显示，美国8月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.4%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
+      "publishedAt": "2026-09-11T22:42:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695096.shtml",
+      "title": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+      "category": "综合",
+      "summary": "很多人都知道熬夜伤身，却忽略了熬夜也有可能引发心源性猝死。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695096.shtml",
+      "publishedAt": "2026-09-11T22:39:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695093.shtml",
+      "title": "英国议会否决“安乐死”合法化法案",
+      "category": "综合",
+      "summary": "中新社伦敦9月11日电 (记者 欧阳开宇)英国议会下议院当地时间11日经激烈辩论，投票否决《成年绝症患者(生命终结)法案》，这项在民间俗称“安乐死”法案的立法提案宣告受挫。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695093.shtml",
+      "publishedAt": "2026-09-11T22:34:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
+      "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "category": "综合",
+      "summary": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
+      "publishedAt": "2026-09-11T22:33:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695094.shtml",
+      "title": "胡塞武装称除沙特外其余国家船只红海航行安全",
+      "category": "综合",
+      "summary": "当地时间9月11日，也门胡塞武装发表声明称，胡塞武装9月3日起从多个方向发起大规模军事行动，目标是驱逐在也门西部沿海部分地区集结的沙特方面武装力量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695094.shtml",
+      "publishedAt": "2026-09-11T22:32:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml",
       "title": "菲律宾海警：巴拉望省近海起火客船发现30具遗体",
@@ -256,312 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694985.shtml",
       "publishedAt": "2026-09-11T14:45:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694960.shtml",
-      "title": "（活力中国调研行）河南安阳：实景演出再现红旗渠开凿场景",
-      "category": "综合",
-      "summary": "9月11日，河南省安阳林州市红旗渠风景区，演员以实景演出《红旗渠之歌》，再现20世纪60年代林县(今安阳林州市)人民在太行山上开凿红旗渠的场景。中新社记者 范晓恒 摄 9月11日，河南省安阳林州市红旗渠风景区，演员以实景演出《红旗渠之歌》，再现20世纪60年代林县(今安阳林州市)人民在太行山上开凿红旗渠的场景。中新社记者 范晓恒 摄 9月11日，河南省安阳林",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694960.shtml",
-      "publishedAt": "2026-09-11T14:45:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
-      "title": "2026中国（广西）—东盟青少年无人机足球邀请赛开赛",
-      "category": "综合",
-      "summary": "图为比赛现场。潘信安 摄 图为比赛现场。潘信安 摄 图为比赛现场。杨滔 摄 图为比赛现场。杨滔 摄 图为开幕式文艺表演现场。农佳菁 摄 图为比赛开幕式现场。杨滔 摄 图为东盟国家的参赛队伍。农佳菁 摄 图为参赛选手合影。农佳菁 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
-      "publishedAt": "2026-09-11T14:37:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694940.shtml",
-      "title": "135件（组）新疆文物精品亮相浙江嘉兴",
-      "category": "综合",
-      "summary": "9月11日，游人在拍摄新疆维吾尔自治区博物馆藏唐代文物《彩绘骑马武士俑》。中新社记者 孙琳茹 摄 9月11日，游人在欣赏新疆维吾尔自治区博物馆藏唐代文物《彩绘骑马武士俑》。中新社记者 孙琳茹 摄 9月11日，游人正在拍摄汉代文物《“五星出东方利中国”锦护臂》(复制品)。中新社记者 孙琳茹 摄 9月11日，游人在观看《丝绸之路物产交流一览表》。中新社记者 孙琳",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694940.shtml",
-      "publishedAt": "2026-09-11T14:34:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
-      "title": "服务消费如何高质量发展？多方共探新路径",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (钟余)2026年中国国际服务贸易交易会主题论坛——2026国际消费趋势大会暨服务消费高质量发展论坛日前在首钢园举行，本次论坛以“开放合作共赢 创新服务消费”为主题，围绕内外市场融通、服务消费创新等议题展开研讨，探寻服务消费高质量发展新路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
-      "publishedAt": "2026-09-11T14:31:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695070.shtml",
-      "title": "lululemon营收下滑，千元瑜伽裤不香了？",
-      "category": "综合",
-      "summary": "中新网北京9月11日电(记者 谢艺观)一条瑜伽裤卖到近千元，照样有人抢着买——lululemon，一个在高净值人群口中高频出现的品牌，最近被浇了冷水：最新一季财报全球收入下滑、71岁的创始人奇普·威尔逊被外媒曝出正与妻子办理离婚手续。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695070.shtml",
-      "publishedAt": "2026-09-11T14:22:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695018.shtml",
-      "title": "搭建开放合作平台 服贸会吸引各国代表共赴“中国之约” | 中国不一样",
-      "category": "综合",
-      "summary": "中新网北京9月11日电(记者 巩微微)2026年中国国际服务贸易交易会(以下简称“服贸会”)于9月9日至13日在北京首钢园举办。挪威、格鲁吉亚、津巴布韦等多国官员及代表在接受中新网记者采访时表示，服贸会为各国展示特色服务和产品、探索中国市场以及深化经贸、科技和文化交流，提供了重要平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695018.shtml",
-      "publishedAt": "2026-09-11T14:17:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695050.shtml",
-      "title": "中越跨境游持续升温 云南铁路河口北站服务越南旅客增幅明显",
-      "category": "综合",
-      "summary": "中新网昆明9月11日电 (王一翔 刘昊亮)据中国铁路昆明局集团有限公司消息，今年前8个月，位于中国与越南边境的云南铁路河口北站累计服务越南跨境旅客达9.4万人次，较2025年同期的7.4万人次增长2万人次，增幅达27%，中越跨境游热度持续攀升。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695050.shtml",
-      "publishedAt": "2026-09-11T14:05:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695027.shtml",
-      "title": "2026广东旅博会开幕 首次设立国际医疗旅游展区",
-      "category": "综合",
-      "summary": "中新网广州9月11日电 (记者 程景伟)2026广东国际旅游产业博览会11日在广州广交会展馆开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695027.shtml",
-      "publishedAt": "2026-09-11T14:05:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-11/10695024.shtml",
-      "title": "澳门服贸发展指数居全球第六",
-      "category": "综合",
-      "summary": "中新网澳门9月11日电 (记者 郑嘉伟)记者11日从澳门特区政府招商投资促进局(下称“招商局”)获悉，日前公布的《全球服务贸易发展指数报告2026》(下称“报告”)显示，澳门服务贸易发展指数位居全球第六、亚洲第二。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-11/10695024.shtml",
-      "publishedAt": "2026-09-11T14:05:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695034.shtml",
-      "title": "中方介绍APEC能源安全合作具体成果",
-      "category": "综合",
-      "summary": "中新社北京9月11日电 (记者 王梦瑶)为期两天的第十六次亚太经合组织能源部长会议11日在北京闭幕。2026年亚太经合组织能源部长会议主席、中国国家能源局局长王宏志在会后召开的新闻发布会上介绍本次会议在能源安全合作等方面的具体成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695034.shtml",
-      "publishedAt": "2026-09-11T14:04:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695046.shtml",
-      "title": "全球首创智能封闭式海洋养殖网箱在广东建成出口挪威",
-      "category": "综合",
-      "summary": "中新社广东揭阳9月11日电 (记者 方伟彬)记者11日从广东揭阳市政府获悉，全球首创的第二代高端智能封闭式海洋养殖网箱，当日从惠来县正式启航发运挪威。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695046.shtml",
-      "publishedAt": "2026-09-11T14:04:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-11/10695044.shtml",
-      "title": "广西船员培训教师教学能力竞赛举办",
-      "category": "综合",
-      "summary": "中新网钦州9月11日电(黄艳梅 蒋瑞卿 黄镁光)广西船员培训教师教学能力竞赛11日在钦州市举办。广西各航海院校、职业院校及船员培训机构的教师代表同台竞技、相互交流，集中展示广西船员培训教学水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10695044.shtml",
-      "publishedAt": "2026-09-11T14:04:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695043.shtml",
-      "title": "第三届赣台青年短视频创作大赛颁奖仪式在江西庐山举行",
-      "category": "综合",
-      "summary": "中新网江西庐山9月11日电 (朱莹 刘力鑫 吴思瑜)9月11日晚，赣台荟·第三届赣台青年短视频创作大赛颁奖仪式在江西庐山举行。作为第二十届赣台(庐山)经贸文化合作交流大会的重要专题活动之一，本次颁奖仪式吸引了700余名两岸同胞齐聚现场，共赏两岸青年影像佳作，共叙赣台同根深情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695043.shtml",
-      "publishedAt": "2026-09-11T14:04:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695041.shtml",
-      "title": "渝黔背靠背联网工程（贵州段）有序推进 预计2027年6月底投运",
-      "category": "综合",
-      "summary": "中新网贵州习水9月11日电 (记者 瞿宏伦)“截至8月29日，线路基础开挖完成150基、占83.8%，基础浇筑完成127基、占70.9%，已全面进入铁塔组立阶段。”渝黔背靠背联网工程(贵州段)项目负责人穆浩11日向媒体联合采访团的记者们说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695041.shtml",
-      "publishedAt": "2026-09-11T14:04:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695049.shtml",
-      "title": "第二十六届投洽会闭幕 参会国别数与团组数均创历届最高",
-      "category": "综合",
-      "summary": "中新社厦门9月11日电 (吴冠标)第二十六届中国国际投资贸易洽谈会(简称“投洽会”)11日在福建厦门闭幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695049.shtml",
-      "publishedAt": "2026-09-11T14:03:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695028.shtml",
-      "title": "拒绝技术独占 模型排他 推动人工智能公平普惠发展",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 近期，美国针对中国人工智能企业以蒸馏技术“盗窃”模型能力的一系列指控，正在将技术与法律问题高度政治化，对人工智能公平普惠发展带来了严峻挑战。全球应携手，在确保安全前提下，构建公平普惠的人工智能发展制度环境，共同促进人工智能技术的健康发展，推动人工智能创新成果的全球共享。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695028.shtml",
-      "publishedAt": "2026-09-11T14:03:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695047.shtml",
-      "title": "报告指中国形成区域创新格局",
-      "category": "综合",
-      "summary": "中新社上海9月11日电 (记者 郑莹莹)11日在上海发布的《中国区域科技创新评价报告2026》指出，当前，中国已形成高地引领、梯次联动、优势互补的区域创新格局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695047.shtml",
-      "publishedAt": "2026-09-11T14:03:34.000Z",
       "tags": [
         "国内",
         "社会",
