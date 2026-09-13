@@ -5,6 +5,20 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml",
+      "title": "特朗普重申伊朗战事将在中期选举后结束",
+      "meta": "中国新闻网 · 2026/9/13",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml",
+      "publishedAt": "2026-09-13T16:37:29.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+      "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+      "meta": "中国新闻网 · 2026/9/13",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+      "publishedAt": "2026-09-13T16:24:32.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-13/10695861.shtml",
       "title": "亚运会男篮综合：中国台北队晋级八强 韩国队获三连胜",
       "meta": "中国新闻网 · 2026/9/13",
@@ -199,22 +213,8 @@
       "meta": "中国新闻网 · 2026/9/13",
       "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695835.shtml",
       "publishedAt": "2026-09-13T13:10:06.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695833.shtml",
-      "title": "从地名读懂宁夏：溯源方寸地名解锁“塞上江南”千年变迁",
-      "meta": "中国新闻网 · 2026/9/13",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695833.shtml",
-      "publishedAt": "2026-09-13T13:08:44.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-13/10695754.shtml",
-      "title": "一锦织就世纪工程 平陆运河壮锦长卷首次亮相",
-      "meta": "中国新闻网 · 2026/9/13",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695754.shtml",
-      "publishedAt": "2026-09-13T13:07:46.000Z"
     }
   ],
-  "updatedAt": "2026-09-13T16:17:17.030Z",
+  "updatedAt": "2026-09-13T20:50:14.522Z",
   "provider": "OneBench 公共资讯快照"
 }

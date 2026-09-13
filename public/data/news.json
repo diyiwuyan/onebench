@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T16:17:17.030Z",
-  "expiresAt": "2026-09-13T22:17:17.030Z",
+  "generatedAt": "2026-09-13T20:50:14.522Z",
+  "expiresAt": "2026-09-14T02:50:14.522Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml",
+      "title": "特朗普重申伊朗战事将在中期选举后结束",
+      "category": "综合",
+      "summary": "消息称，美国总统特朗普13日在访问爱尔兰时重申，伊朗战事将在中期选举后结束。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml",
+      "publishedAt": "2026-09-13T16:37:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+      "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+      "category": "综合",
+      "summary": "2026年9月12日至13日，国家主席习近平应邀赴印度出席金砖国家领导人第十八次会晤。行程结束之际，中共中央政治局委员、外交部长王毅向随行记者介绍此访情况。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+      "publishedAt": "2026-09-13T16:24:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-13/10695861.shtml",
       "title": "亚运会男篮综合：中国台北队晋级八强 韩国队获三连胜",
@@ -526,42 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695835.shtml",
       "publishedAt": "2026-09-13T13:10:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695833.shtml",
-      "title": "从地名读懂宁夏：溯源方寸地名解锁“塞上江南”千年变迁",
-      "category": "综合",
-      "summary": "中新网银川9月13日电 (记者 李佩珊)“地处中国西北内陆的宁夏，为何能收获‘塞上江南’的美誉？这并不只是大自然的馈赠，而是历代先民通过引黄灌溉、移民屯垦，历经千百年人工经营造就的人文奇迹。”9月13日，宁夏大学地理科学与规划学院副教授李建华在银川如是说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695833.shtml",
-      "publishedAt": "2026-09-13T13:08:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-13/10695754.shtml",
-      "title": "一锦织就世纪工程 平陆运河壮锦长卷首次亮相",
-      "category": "综合",
-      "summary": "9月13日，主创团队、高校学子、留学生代表手持平陆运河壮锦长卷巡游展示。陈冠言 摄 平陆运河壮锦长卷细节。长卷聚焦运河沿线的自然风貌与人文地标，将各族人民共同守护的家园美景尽数织入锦缎。陈冠言 摄 平陆运河壮锦长卷细节。此篇章聚焦工程建设的壮阔壮举，重点刻画马道、企石、青年三大航运枢纽，将建设者的坚守、各族民众的同心协力与工程的磅礴气势，永久定格在锦缎之上，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695754.shtml",
-      "publishedAt": "2026-09-13T13:07:46.000Z",
       "tags": [
         "国内",
         "社会",
