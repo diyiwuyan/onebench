@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T19:21:39.262Z",
-  "expiresAt": "2026-09-15T01:21:39.262Z",
+  "generatedAt": "2026-09-14T23:07:43.643Z",
+  "expiresAt": "2026-09-15T05:07:43.643Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-15/10696491.shtml",
+      "title": "特朗普连发多帖为对伊朗政策辩护：称伊朗“迫切”希望达成协议",
+      "category": "综合",
+      "summary": "中新网9月15日电 美国总统特朗普当地时间14日在社交媒体发布多条帖文为其对伊朗政策辩护。特朗普称，伊朗“迫切”希望达成协议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696491.shtml",
+      "publishedAt": "2026-09-14T23:01:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-15/10696490.shtml",
+      "title": "9月15日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-15/10696490.shtml",
+      "publishedAt": "2026-09-14T22:54:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-15/10696489.shtml",
+      "title": "武契奇宣布：将于9月27日辞去塞尔维亚总统职务",
+      "category": "综合",
+      "summary": "中新网9月15日电 据路透社报道，当地时间9月14日，塞尔维亚总统武契奇宣布，他将于9月27日辞去总统职务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696489.shtml",
+      "publishedAt": "2026-09-14T22:33:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-15/10696488.shtml",
+      "title": "暴食后催吐就能不长胖？危害远超想象！",
+      "category": "综合",
+      "summary": "这几天，北方多地气温下降，天气一凉，也激发了很多人的食欲，但是暴饮暴食后又陷入满心愧疚。怎么办呢？在社交平台上，就有不少网友推荐了所谓暴食“后悔药”——催吐，并且声称这样既能享受美食，又不会增加体重。暴饮暴食后再催吐，真的靠谱吗？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-15/10696488.shtml",
+      "publishedAt": "2026-09-14T21:54:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-15/10696487.shtml",
+      "title": "别只盯着体重秤！科学评估和管理健康体重这样做",
+      "category": "综合",
+      "summary": "还在单纯以体重数字判断胖瘦？真正的健康体重管理，需要结合 BMI(体质量指数)、腰围、腰臀比等综合评估。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-15/10696487.shtml",
+      "publishedAt": "2026-09-14T21:51:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-15/10696486.shtml",
+      "title": "泽连斯基：若俄方停止袭击乌关键基础设施 乌方将对等停止",
+      "category": "综合",
+      "summary": "当地时间9月14日，乌克兰总统泽连斯基在社交媒体发文称，乌方已提出一项乌俄互不打击关键基础设施的倡议，并将这一军事降级举措定位为推动和平进程的首要步骤。他已呼吁国际合作伙伴推动落实该倡议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696486.shtml",
+      "publishedAt": "2026-09-14T21:47:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-15/10696485.shtml",
+      "title": "武契奇：将于9月27日辞去塞尔维亚总统职务",
+      "category": "综合",
+      "summary": "当地时间9月14日晚，塞尔维亚总统武契奇在接受采访时宣布，他将于9月27日辞去总统职务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696485.shtml",
+      "publishedAt": "2026-09-14T21:45:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-14/10696484.shtml",
       "title": "国际篮球专家：中国篮球应多学习欧洲而非照搬美国",
@@ -446,128 +572,74 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-14/10696438.shtml",
-      "title": "中国女足5:1大胜中国香港女足 迎亚运会“开门红”",
-      "category": "综合",
-      "summary": "中新社日本岐阜9月14日电 当地时间14日，第二十届亚洲运动会女足项目G组小组赛首轮在日本岐阜县打响。中国女足以5:1大胜中国香港女足，收获本届亚运会“开门红”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-14/10696438.shtml",
-      "publishedAt": "2026-09-14T14:09:47.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142786",
+      "title": "铀资源储备充足但需持续投资支持全球核电增长",
+      "category": "国际",
+      "summary": "国际原子能机构和经合组织核能署联合发布的最新报告《2026年铀资源、生产与需求》指出，全球铀行业正在响应世界各地对发展新核电装机容量日益增长的兴趣，近年来铀勘探和矿山开发支出显著增加。这些投资对于满足未来需求至关重要。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142786",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-14/10696442.shtml",
-      "title": "香港政制及内地事务局局长：对接“十五五”规划，推动有效市场和有为政府相结合",
-      "category": "综合",
-      "summary": "中新网香港9月14日电 (戴小橦 张语洽)香港特区政府政制及内地事务局局长谢小华14日表示，《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》(简称“香港第一个五年规划”)将主动对接国家“十五五”规划，推动有效市场和有为政府相结合。香港将发挥好“超级联系人”“超级增值人”的角色作用，在融入和服务国家发展大局中实现高质量发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-14/10696442.shtml",
-      "publishedAt": "2026-09-14T14:08:23.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142785",
+      "title": "原子能机构总干事：伊朗核监督形势恶化，必须重返外交谈判渠道",
+      "category": "国际",
+      "summary": "国际原子能机构总干事格罗西周一在国际原子能机构大会第70届常会上表示，国际原子能机构对伊朗核计划的监督形势在2026年恶化，伊朗核材料和核设施的监督问题引发严重核扩散担忧，亟需以最高优先级解决。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-14/10696437.shtml",
-      "title": "（活力中国）湖北智能育种成果助中国种业核心技术攻关",
-      "category": "综合",
-      "summary": "中新社武汉9月14日电 (记者 武一力 刘大炜 余瑞冬)作为中国传统农业大省之一的湖北省，正大力推进农业科技创新。湖北省官员14日对媒体表示，该省已稳步迈入“精准设计、性状可控”的智能育种新时代。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696437.shtml",
-      "publishedAt": "2026-09-14T14:07:18.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142784",
+      "title": "人权高专呼吁采取紧急行动应对前所未有的人工智能风险",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周一呼吁各国及全球“前沿”人工智能企业采取紧急行动，确保有实质意义的人工智能治理能够跟上其加速发展的步伐，并应对其对人权构成的前所未有的风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142784",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-14/10696434.shtml",
-      "title": "“东方微笑”如何反哺中国雕塑自主知识体系建设",
-      "category": "综合",
-      "summary": "中新网甘肃天水9月14日电 (记者 应妮)中国的现当代雕塑如何向传统石窟寺雕塑汲取精华？在此基础上如何建构中国雕塑自主知识体系？9月11日至13日在甘肃天水举行的“东方微笑跨越千年——麦积山雕塑论坛·2026”，以“中国雕塑自主知识体系构建——历史资源与当代路径”为总主题，40余家文博单位、高校和科研院所的百余位专家学者共聚一堂，从多角度尝试回答这些问题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-14/10696434.shtml",
-      "publishedAt": "2026-09-14T14:06:54.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142782",
+      "title": "【专题报道 | 前方视野】填补“地球缺失的条约”：推动建立全球首个灾害保护国际条约",
+      "category": "国际",
+      "summary": "随着气候变化加剧、自然灾害频发，红十字与红新月国际联合会日前发起“地球缺失的条约”（Earth's Missing Treaty）全球倡议，呼吁各国致力于制定首个专门保护灾害中受影响民众的国际条约，为灾害发生前、发生时和发生后提供更有力的国际合作框架。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142782",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-14/10696430.shtml",
-      "title": "广州规划至2030年海洋生产总值突破7300亿元",
-      "category": "综合",
-      "summary": "中新社广州9月14日电 (记者 王华)广州市政府14日发布的《广州市海洋经济发展“十五五”规划》(以下简称“规划”)提出，到2030年广州海洋生产总值突破7300亿元(人民币，下同)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696430.shtml",
-      "publishedAt": "2026-09-14T14:06:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-14/10696447.shtml",
-      "title": "全球业界人士浙江温州探讨导助航风险 提升航行安全性",
-      "category": "综合",
-      "summary": "中新网温州9月14日电(周健)“我们期待以此次培训为契机，推动风险管理更好地融入各国导助航规划布局和管理服务，为导助航事业安全、高效、可持续发展提供有力支撑。”9月14日，2026年国际海上导助航风险管理培训班在浙江温州开班，东海航海保障中心副主任吴宇晓在开班致辞时说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696447.shtml",
-      "publishedAt": "2026-09-14T14:06:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-14/10696432.shtml",
-      "title": "AI重现烽火记忆 九旬老兵收获专属“数字回忆录”",
-      "category": "综合",
-      "summary": "中新网杭州9月14日电(张煜欢 孙杨洋)依托AI数字技术，抗美援朝老兵杨礼渊拥有了一份独一无二的“数字回忆录”。通过影像复原、数字人建模、场景复刻等方式，这位93岁老兵的峥嵘岁月被生动还原，尘封的军旅记忆得以鲜活留存，让老人深受触动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696432.shtml",
-      "publishedAt": "2026-09-14T14:06:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1635,78 +1707,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142751",
       "publishedAt": "2026-09-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142750",
-      "title": "【专题报道 | 前方视野】海平面上升已成“系统性威胁”：人类该如何应对？",
-      "category": "国际",
-      "summary": "海平面上升已不再是对遥远未来的预测，而是一场正在发生的系统性危机——它不仅直接威胁沿海基础设施与居民生存，更深刻冲击着全球粮食安全、国家主权与国际法体系。面对本世纪内不可避免的海平面上升趋势与巨大的适应资金缺口，人类急需在加速减排的同时，从法理保障与资金落实上寻找突破口。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142750",
-      "publishedAt": "2026-09-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142747",
-      "title": "【世界进行时】2026年9月4日",
-      "category": "国际",
-      "summary": "本期要点：尼泊尔洪灾：联合国发起4960万美元紧急呼吁；古特雷斯对美伊再次交火深表关切；苏丹：外部支持网络助长冲突并加剧平民伤亡；人权高专办：以色列部队强制驱逐三个难民营居民行为违反国际法；叙利亚化学武器销毁工作取得重大进展；联合国大会呼吁使用能更准确反映陆地面积的世界地图；厄尔尼诺现象正在加剧，可能出现数月极端高温；旨在改善猴痘疫苗可及性的全球倡议正式启动",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142747",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142746",
-      "title": "联合国向世界发出呼吁：别再让非洲在地图上显得那么小",
-      "category": "国际",
-      "summary": "联合国大会周五以压倒性多数通过决议，呼吁全球各国政府、学校和科技公司停止使用那些让非洲看起来远小于其实际面积的地图。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142746",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142712",
-      "title": "【专题报道】高峰会在即 联合国礼宾与联络处进入倒计时冲刺状态",
-      "category": "国际",
-      "summary": "每年九月，当全球目光聚焦联合国大会堂的讲台，注视着各国领导人依次发表演说时，很少有人会想到此前在幕后所做的大量协调与准备工作：如何确保高级别代表团能够顺利进入联合国总部？协调路线和会议安排？座次、国旗以及各种正式仪式？核准通行证到外交人员名录？ 《联合国新闻》今天就带您走进一个联合国平时不太被人提及的部门——礼宾与联络处。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142712",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",

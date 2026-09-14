@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142786",
+      "title": "铀资源储备充足但需持续投资支持全球核电增长",
+      "meta": "联合国新闻 · 2026/9/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142786",
+      "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142785",
+      "title": "原子能机构总干事：伊朗核监督形势恶化，必须重返外交谈判渠道",
+      "meta": "联合国新闻 · 2026/9/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
+      "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142784",
+      "title": "人权高专呼吁采取紧急行动应对前所未有的人工智能风险",
+      "meta": "联合国新闻 · 2026/9/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142784",
+      "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142782",
+      "title": "【专题报道 | 前方视野】填补“地球缺失的条约”：推动建立全球首个灾害保护国际条约",
+      "meta": "联合国新闻 · 2026/9/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142782",
+      "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142781",
       "title": "古特雷斯出席金砖国家峰会，呼吁塑造包容性的全球增长",
       "meta": "联合国新闻 · 2026/9/13",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/9/6",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142751",
       "publishedAt": "2026-09-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142750",
-      "title": "【专题报道 | 前方视野】海平面上升已成“系统性威胁”：人类该如何应对？",
-      "meta": "联合国新闻 · 2026/9/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142750",
-      "publishedAt": "2026-09-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142747",
-      "title": "【世界进行时】2026年9月4日",
-      "meta": "联合国新闻 · 2026/9/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142747",
-      "publishedAt": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142746",
-      "title": "联合国向世界发出呼吁：别再让非洲在地图上显得那么小",
-      "meta": "联合国新闻 · 2026/9/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142746",
-      "publishedAt": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142712",
-      "title": "【专题报道】高峰会在即 联合国礼宾与联络处进入倒计时冲刺状态",
-      "meta": "联合国新闻 · 2026/9/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142712",
-      "publishedAt": "2026-09-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-14T19:21:39.262Z",
+  "updatedAt": "2026-09-14T23:07:43.643Z",
   "provider": "OneBench 公共资讯快照"
 }
