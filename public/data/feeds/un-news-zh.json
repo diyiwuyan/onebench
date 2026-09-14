@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142781",
+      "title": "古特雷斯出席金砖国家峰会，呼吁塑造包容性的全球增长",
+      "meta": "联合国新闻 · 2026/9/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142781",
+      "publishedAt": "2026-09-13T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142780",
       "title": "也门战事升级，流离失所危机每小时都在恶化",
       "meta": "联合国新闻 · 2026/9/12",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/4",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142712",
       "publishedAt": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142744",
-      "title": "尼泊尔洪灾：联合国发起4960万美元紧急呼吁",
-      "meta": "联合国新闻 · 2026/9/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142744",
-      "publishedAt": "2026-09-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-13T20:50:14.522Z",
+  "updatedAt": "2026-09-14T00:12:20.883Z",
   "provider": "OneBench 公共资讯快照"
 }
