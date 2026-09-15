@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:2e6ceb47-a242-4528-8fca-4e869e7f6138",
+      "title": "启动全球倡议以改善猴痘疫苗的获取",
+      "meta": "世界卫生组织 · 2026/9/2",
+      "url": "https://www.who.int/zh/news-room/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
+      "publishedAt": "2026-09-02T14:29:04.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:99d65c3f-e83d-4d1d-9574-d3e2522aa5cf",
       "title": "刚果民主共和国境内本迪布焦病毒病疫情",
       "meta": "世界卫生组织 · 2026/8/24",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/6/23",
       "url": "https://www.who.int/zh/news-room/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
       "publishedAt": "2026-06-23T10:01:11.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:b39f6efd-d15a-455e-b207-6b6d4692ffec",
-      "title": "世卫组织发布关于丝状病毒病（包括埃博拉病和马尔堡病）的综合指南",
-      "meta": "世界卫生组织 · 2026/6/17",
-      "url": "https://www.who.int/zh/news-room/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
-      "publishedAt": "2026-06-17T13:30:57.000Z"
     }
   ],
-  "updatedAt": "2026-09-15T11:44:18.349Z",
+  "updatedAt": "2026-09-15T16:59:46.227Z",
   "provider": "OneBench 公共资讯快照"
 }
