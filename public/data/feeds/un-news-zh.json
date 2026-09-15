@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142787",
+      "title": "十年间移民汇款额增长94% 2025年达到7286亿美元",
+      "meta": "联合国新闻 · 2026/9/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142787",
+      "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142786",
       "title": "铀资源储备充足但需持续投资支持全球核电增长",
       "meta": "联合国新闻 · 2026/9/14",
@@ -13,7 +20,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142785",
-      "title": "原子能机构总干事：伊朗核监督形势恶化，必须重返外交谈判渠道",
+      "title": "原子能机构：伊朗核监督形势恶化，必须重返外交谈判渠道",
       "meta": "联合国新闻 · 2026/9/14",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
       "publishedAt": "2026-09-14T12:00:00.000Z"
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/8",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142753",
       "publishedAt": "2026-09-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142751",
-      "title": "古特雷斯呼吁塔利班撤销对阿富汗妇女的禁令",
-      "meta": "联合国新闻 · 2026/9/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142751",
-      "publishedAt": "2026-09-06T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-15T04:55:09.782Z",
+  "updatedAt": "2026-09-15T11:44:18.349Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad#0",
+      "title": "威爾士、蘇格蘭和北愛爾蘭一起要「公投權」英國是否面臨分裂？",
+      "meta": "BBC 中文 · 2026/9/15",
+      "url": "https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T07:37:34.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad#0",
       "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
       "meta": "BBC 中文 · 2026/9/15",
@@ -19,7 +26,7 @@
       "publishedAt": "2026-09-15T02:37:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad#1",
       "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
       "meta": "BBC 中文 · 2026/9/15",
       "url": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/9/11",
       "url": "https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T13:23:08.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ced75zwgd1lo/trad#1",
-      "title": "911事件25年後 美國機場安檢醞釀「鬆綁」",
-      "meta": "BBC 中文 · 2026/9/11",
-      "url": "https://www.bbc.com/zhongwen/articles/ced75zwgd1lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T07:40:27.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-01T09:56:01.000Z"
     }
   ],
-  "updatedAt": "2026-09-15T04:55:09.782Z",
+  "updatedAt": "2026-09-15T11:44:18.349Z",
   "provider": "OneBench 公共资讯快照"
 }
