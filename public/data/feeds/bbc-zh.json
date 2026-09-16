@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad#0",
+      "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
+      "meta": "BBC 中文 · 2026/9/16",
+      "url": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T12:23:54.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwq63vj4q7q2o/trad#2",
+      "title": "中國有越來越多的男性開始「厭女」嗎？",
+      "meta": "BBC 中文 · 2026/9/16",
+      "url": "https://www.bbc.com/zhongwen/articles/cwq63vj4q7q2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T10:35:04.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm750xv56v57o/trad#0",
+      "title": "除了末日警告，人工智能發展還在面臨著另一個威脅",
+      "meta": "BBC 中文 · 2026/9/16",
+      "url": "https://www.bbc.com/zhongwen/articles/cm750xv56v57o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T09:30:51.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#0",
       "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
       "meta": "BBC 中文 · 2026/9/16",
@@ -33,14 +54,14 @@
       "publishedAt": "2026-09-16T00:18:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad#1",
       "title": "《匹茲堡醫魂》拿走了六個艾美獎，它的忠粉都是真醫生",
       "meta": "BBC 中文 · 2026/9/15",
       "url": "https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T15:23:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n9wzxjy92lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n9wzxjy92lo/trad#1",
       "title": "美國首認部署太空武器 中國警告勿搞軍事競賽",
       "meta": "BBC 中文 · 2026/9/15",
       "url": "https://www.bbc.com/zhongwen/articles/c6n9wzxjy92lo/trad?at_medium=RSS&at_campaign=rss",
@@ -54,25 +75,11 @@
       "publishedAt": "2026-09-15T07:37:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad#1",
-      "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
-      "meta": "BBC 中文 · 2026/9/15",
-      "url": "https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T03:34:19.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad#1",
       "title": "美國取消燃煤和燃氣發電廠排放限制",
       "meta": "BBC 中文 · 2026/9/15",
       "url": "https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T02:37:42.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad#1",
-      "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
-      "meta": "BBC 中文 · 2026/9/15",
-      "url": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T00:17:23.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#1",
@@ -180,13 +187,6 @@
       "publishedAt": "2026-09-09T07:57:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#2",
-      "title": "董建華：從「船王」之子到香港首任行政長官",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T18:50:53.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#3",
       "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
       "meta": "BBC 中文 · 2026/9/8",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T07:41:47.237Z",
+  "updatedAt": "2026-09-16T13:30:22.804Z",
   "provider": "OneBench 公共资讯快照"
 }
