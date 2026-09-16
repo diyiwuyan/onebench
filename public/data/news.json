@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T18:11:54.885Z",
-  "expiresAt": "2026-09-17T00:11:54.885Z",
+  "generatedAt": "2026-09-16T21:18:40.151Z",
+  "expiresAt": "2026-09-17T03:18:40.151Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -623,10 +623,64 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142799",
+      "title": "联合国报告警告：参与捍卫人权者面临报复",
+      "category": "国际",
+      "summary": "根据秘书长周三发布的一份新报告，与联合国在人权领域开展合作的活动人士、律师及其他人士继续面临恐吓和报复，该报告呼吁加强保护并追究责任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142799",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142798",
+      "title": "世卫组织：刚果（金）埃博拉疫情传播有所放缓 但仍在夺走生命",
+      "category": "国际",
+      "summary": "世界卫生组织总干事谭德塞周三表示，经过四个月的应对工作，刚果民主共和国（刚果（金））埃博拉疫情已基本控制在该国东北部，疫情传播在部分地区有所放缓，但仍在蔓延并继续夺走生命。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142798",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142797",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续",
+      "category": "国际",
+      "summary": "据报道，周三，加沙城一栋遭轰炸损毁的建筑坍塌，造成至少20人死亡，搜救行动仍在继续。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142797",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142796",
       "title": "联大峰会在即：人工智能、气候变化和冲突成为古特雷斯议程的重点",
       "category": "国际",
-      "summary": "在联合国大会高级别会议周开始前夕，秘书长古特雷斯表示，世界已进入“深度不确定性时代”，并敦促各国政府通过国际合作应对全球威胁。",
+      "summary": "在联合国大会高级别周前夕，秘书长古特雷斯表示，世界已进入“深度不确定性时代”，并敦促各国政府通过国际合作应对全球威胁。",
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142796",
@@ -1635,60 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142765",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142766",
-      "title": "遭受洪灾重创的尼泊尔呼吁气候正义",
-      "category": "国际",
-      "summary": "联合国驻尼泊尔最高官员周三表示，尼泊尔在近期致命洪灾后呼吁获得经济补偿，这凸显了帮助那些对气候变化贡献最小、却日益面临其最致命后果的国家的必要性。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142766",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142764",
-      "title": "阿富汗民众面临“令人窒息的沉默”，人权高专呼吁加大施压力度",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周三谴责阿富汗实施的一系列压迫性限制措施，特别是针对女童和妇女的措施，并呼吁重新加大力度，敦促该国事实上的当局履行国际法义务。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142764",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142763",
-      "title": "保护教育免受袭击是全世界的责任",
-      "category": "国际",
-      "summary": "9月9日是“保护教育免受袭击国际日”。联合国教科文组织值此对全球针对学校的袭击事件持续增加表示严重关切。2025年，全球共记录到1680起针对学校的袭击事件，较上年增长33%。全球约有2.58亿儿童和青少年因各类危机而中断学业，其中9300万人完全无法上学。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142763",
       "publishedAt": "2026-09-09T12:00:00.000Z",
       "tags": [
         "国际",

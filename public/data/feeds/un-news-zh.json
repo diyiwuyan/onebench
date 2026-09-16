@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142799",
+      "title": "联合国报告警告：参与捍卫人权者面临报复",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142799",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142798",
+      "title": "世卫组织：刚果（金）埃博拉疫情传播有所放缓 但仍在夺走生命",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142798",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142797",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142797",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142796",
       "title": "联大峰会在即：人工智能、气候变化和冲突成为古特雷斯议程的重点",
       "meta": "联合国新闻 · 2026/9/16",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/9",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142765",
       "publishedAt": "2026-09-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142766",
-      "title": "遭受洪灾重创的尼泊尔呼吁气候正义",
-      "meta": "联合国新闻 · 2026/9/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142766",
-      "publishedAt": "2026-09-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142764",
-      "title": "阿富汗民众面临“令人窒息的沉默”，人权高专呼吁加大施压力度",
-      "meta": "联合国新闻 · 2026/9/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142764",
-      "publishedAt": "2026-09-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142763",
-      "title": "保护教育免受袭击是全世界的责任",
-      "meta": "联合国新闻 · 2026/9/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142763",
-      "publishedAt": "2026-09-09T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T18:11:54.885Z",
+  "updatedAt": "2026-09-16T21:18:40.151Z",
   "provider": "OneBench 公共资讯快照"
 }
