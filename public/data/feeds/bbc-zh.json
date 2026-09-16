@@ -5,11 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#0",
+      "title": "美國能在外太空部署哪些武器？",
+      "meta": "BBC 中文 · 2026/9/16",
+      "url": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T14:57:03.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad#0",
       "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T12:23:54.000Z"
+      "publishedAt": "2026-09-16T14:28:10.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#0",
+      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
+      "meta": "BBC 中文 · 2026/9/16",
+      "url": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T13:36:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwq63vj4q7q2o/trad#2",
@@ -26,13 +40,6 @@
       "publishedAt": "2026-09-16T09:30:51.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#0",
-      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
-      "meta": "BBC 中文 · 2026/9/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T07:36:53.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad#0",
       "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
       "meta": "BBC 中文 · 2026/9/16",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-09-16T07:07:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#1",
       "title": "「我接受了11年化療，卻發現從未患癌」",
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/9/15",
       "url": "https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T07:37:34.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad#1",
-      "title": "美國取消燃煤和燃氣發電廠排放限制",
-      "meta": "BBC 中文 · 2026/9/15",
-      "url": "https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T02:37:42.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T13:30:22.804Z",
+  "updatedAt": "2026-09-16T18:11:54.885Z",
   "provider": "OneBench 公共资讯快照"
 }
