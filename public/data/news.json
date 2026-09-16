@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T00:20:27.448Z",
-  "expiresAt": "2026-09-16T06:20:27.448Z",
+  "generatedAt": "2026-09-16T07:41:47.237Z",
+  "expiresAt": "2026-09-16T13:41:47.237Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
-      "title": "中央气象台：重庆湖北等地局地有暴雨",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#0",
+      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
+      "category": "国际",
+      "summary": "有評論形容，香港制訂五年規劃是「範式轉移」，意味著「從西方式資本主義市場經濟，改為接上中國特色社會主義市場經濟。」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T07:36:53.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697515.shtml",
+      "title": "谍战剧《交锋》获肯定 国台办：坚决防范“台独”等势力破坏干扰",
       "category": "综合",
-      "summary": "中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
+      "summary": "中新社北京9月16日电 (记者 徐雪莹 陈建新)台海谍战剧《交锋》近日播出，国务院台办发言人朱凤莲16日在北京表示，希望广大台湾同胞同我们一道，坚决防范“台独”分裂势力和外部敌对势力对两岸关系和平发展的破坏和对祖国统一进程的干扰。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
-      "publishedAt": "2026-09-16T00:11:45.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697515.shtml",
+      "publishedAt": "2026-09-16T07:35:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204397.shtml",
-      "title": "舞蹈诗剧《古色·国宝辽宁》在北京上演 千年文物在剧场“苏醒”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697522.shtml",
+      "title": "平陆运河建成通航 西南从“内陆”变“沿海”",
       "category": "综合",
-      "summary": "",
+      "summary": "新华鲜报｜平陆运河建成通航 西南从“内陆”变“沿海”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204397.shtml",
-      "publishedAt": "2026-09-16T00:04:10.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697522.shtml",
+      "publishedAt": "2026-09-16T07:34:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml",
-      "title": "肯尼迪中心董事会决定立即关闭该中心 特朗普发声",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-16/10697514.shtml",
+      "title": "智利多领域官员组团赴渝考察 深化电动交通产业合作",
       "category": "综合",
-      "summary": "中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。",
+      "summary": "中新社重庆9月16日电 (梁钦卿)9月13日至16日，来自智利能源、交通、电信及标准化等领域的20余名官员组成研修班赴重庆考察，深化两国在新能源汽车领域的产业合作与标准化技术交流，推动智利电动交通产业发展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml",
-      "publishedAt": "2026-09-16T00:01:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697514.shtml",
+      "publishedAt": "2026-09-16T07:34:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml",
-      "title": "特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697521.shtml",
+      "title": "中方谈欧委会《网络安全法》修订案：保护主义换不来竞争力",
       "category": "综合",
-      "summary": "特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” | 国际早察",
+      "summary": "中新网北京9月16日电 (记者 李京泽)中国外交部发言人郭嘉昆16日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml",
-      "publishedAt": "2026-09-15T23:58:50.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697521.shtml",
+      "publishedAt": "2026-09-16T07:34:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml",
-      "title": "南非确定首批绿色氢能项目 明年启动建设",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-16/10697512.shtml",
+      "title": "李家超：香港将多举措壮大离岸人民币业务 拓宽人民币使用场景",
       "category": "综合",
-      "summary": "中新社约翰内斯堡9月15日电 (记者 孙翔)南非15日在非洲绿色氢能峰会期间宣布，该国已确定首批6个绿色氢能优先项目。其中，电制可持续航空燃料项目计划于2027年第一季度开工建设。",
+      "summary": "中新社香港9月16日电 (记者 戴小橦)香港特区行政长官李家超16日在特区立法会公布《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》，明确强化香港全球最大离岸人民币业务枢纽核心功能，通过优化流动性、扩容产品体系、拓宽应用场景、深化市场推广，全面壮大离岸人民币业务规模，夯实香港离岸人民币市场领先地位。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml",
-      "publishedAt": "2026-09-15T23:54:34.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-16/10697512.shtml",
+      "publishedAt": "2026-09-16T07:33:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml",
-      "title": "俄外交部：日本应铭记九一八历史 “再军事化”必蹈覆辙",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697520.shtml",
+      "title": "中方：愿同东盟各国一道进一步释放各领域合作潜力",
       "category": "综合",
-      "summary": "中新社莫斯科9月15日电 在九一八事变爆发95周年之际，俄罗斯外交部发言人扎哈罗娃15日表示，这段历史不仅我们要铭记，日本人自己更应该铭记。",
+      "summary": "中新网北京9月16日电 (记者 李京泽 张素)中国外交部发言人郭嘉昆16日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml",
-      "publishedAt": "2026-09-15T23:54:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697520.shtml",
+      "publishedAt": "2026-09-16T07:32:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204391.shtml",
-      "title": "一箭九星 引力一号遥三运载火箭发射成功",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697518.shtml",
+      "title": "外交部谈台当局筹划在菲律宾设立所谓“办事处”：枉费心机、注定失败",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网北京9月16日电 (记者 李京泽)中国外交部发言人郭嘉昆16日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204391.shtml",
-      "publishedAt": "2026-09-15T23:45:10.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697518.shtml",
+      "publishedAt": "2026-09-16T07:29:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697154.shtml",
-      "title": "让“干净口粮”成为AI的标配",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697516.shtml",
+      "title": "外交部：保护主义影响各国企业赴欧投资信心",
       "category": "综合",
-      "summary": "让“干净口粮”成为AI的标配(人民时评)",
+      "summary": "新华社北京9月16日电(记者吴梦桐、万倩仪)据报道，欧洲电信游说组织发布公开信称，欧委会出台的《网络安全法》修订案将迫使欧洲电信企业增加400亿欧元用于设备替代。外交部发言人郭嘉昆16日在例行记者会上答问时表示，中方注意到有关报道。此前也有其他的相关机构评估，该法案在未来5年可能给欧盟带来高达3600多亿欧元的损失。此次欧洲电信企业发布公开信再次证明，欧盟有",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697154.shtml",
-      "publishedAt": "2026-09-15T23:42:49.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697516.shtml",
+      "publishedAt": "2026-09-16T07:28:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml",
-      "title": "预售房“封顶才能卖” 商品房销售制度开启新变革",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-16/10697511.shtml",
+      "title": "工商兴城 实业救国——重庆工商界历史名人⑫丨吴晋航：爱国奉献的银行家",
       "category": "综合",
-      "summary": "预售房“封顶才能卖”；有序推进商品住房现房销售——",
+      "summary": "他用一生书写了一段关于选择、担当与传承的故事。他早年涉足警政，中年创办和成银行、在战时庇护进步力量，晚年又积极投身新中国建设。每一个选择背后，都是个人命运与时代洪流的深刻对话。让我们循着历史的痕迹，走近这位爱国奉献的银行家——吴晋航。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml",
-      "publishedAt": "2026-09-15T23:32:19.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-16/10697511.shtml",
+      "publishedAt": "2026-09-16T07:27:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697152.shtml",
-      "title": "新一代通信网，带来哪些智能时代新体验？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-16/10697504.shtml",
+      "title": "李家超公布香港第一个五年规划 明确五大主要目标",
       "category": "综合",
-      "summary": "“‘六张网’建设刷新‘进度条’”系列报道之四",
+      "summary": "中新社香港9月16日电 (记者 刘玥晴)香港特区行政长官李家超16日在特区立法会会议上公布《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》(简称“香港第一个五年规划”)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697152.shtml",
-      "publishedAt": "2026-09-15T23:28:12.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-16/10697504.shtml",
+      "publishedAt": "2026-09-16T07:26:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-16/10697150.shtml",
-      "title": "中新网直播：通江达海！直击平陆运河通航时刻",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-16/10697509.shtml",
+      "title": "陕港职业教育交流互访工作座谈会在西安召开",
       "category": "综合",
-      "summary": "",
+      "summary": "近日，省中华职业教育社联合省老区建设促进会在西安召开陕港职业教育交流互访工作座谈会。省中华职业教育社副主任、秘书长王彦平通报前期推进情况，香港职业训练局处长熊思晨介绍香港学子来陕研学计划。省老区建设促进会副会长兼秘书长、省政协港澳台侨和外事委员会主任孙亚政出席并讲话，副会长鲁锋主持。省政协港澳委办公室、15所省内职业院校、部分市老区建设促进会及企业代表参加会",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-16/10697150.shtml",
-      "publishedAt": "2026-09-15T23:26:10.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-16/10697509.shtml",
+      "publishedAt": "2026-09-16T07:24:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697149.shtml",
-      "title": "十年锐减超1500万生源 驾校“黄金时代”落幕后的行业变局",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697503.shtml",
+      "title": "东海结束休渔 浙江近1.5万艘渔船全面开捕",
       "category": "综合",
-      "summary": "今年暑假，湖北武汉一家驾校的训练场上，15辆教练车只有4辆还在跑，教练员闲得在树荫底下喝茶聊天；广东广州一家开了十年的老牌驾校，往年暑假轻轻松松招进300多个学员，今年只招到了100来个；上海某驾校科目二场地里，学员练车根本不用排队，几十辆教练车整齐地停在遮阳棚下……",
+      "summary": "中新社杭州9月16日电 (鲍梦妮)9月16日12时，东海结束为期四个半月的伏季休渔期，全面开渔。当日，浙江有超过3600艘拖网、帆张网渔船出海生产。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697149.shtml",
-      "publishedAt": "2026-09-15T23:23:58.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697503.shtml",
+      "publishedAt": "2026-09-16T07:23:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697148.shtml",
-      "title": "病毒库也有“保质期” 国家安全机关发布提示",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697501.shtml",
+      "title": "自然资源部组织开展中国黄岩岛海域多学科综合地质调查",
       "category": "综合",
-      "summary": "注意了，病毒库也有“保质期”！",
+      "summary": "中新社北京9月16日电 据中国自然资源部16日消息，为全面掌握中国管辖海域基础地质要素与生态环境状况，自然资源部中国地质调查局“海洋地质十号”船于8月11日至9月8日在中国黄岩岛海域开展了多学科综合地质调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697148.shtml",
-      "publishedAt": "2026-09-15T23:19:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697501.shtml",
+      "publishedAt": "2026-09-16T07:23:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697147.shtml",
-      "title": "以军称在加沙地带打死一名哈马斯指挥官",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697510.shtml",
+      "title": "今年北京入秋时间为2016年以来最早",
       "category": "综合",
-      "summary": "中新网9月16日电 据外媒报道，以色列国防军当地时间15日称，以军在加沙地带南部的一次空袭中打死了巴勒斯坦伊斯兰抵抗运动(哈马斯)拉法旅指挥官纳埃尔·阿布·奥贝德。",
+      "summary": "中新社北京9月16日电 (记者 陈杭)记者16日从北京市气象局获悉，今年北京气象观测代表站观象台入秋时间为9月8日，比常年(1991-2020年平均)的9月13日提前5天，为2016年以来入秋最早的一年。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697147.shtml",
-      "publishedAt": "2026-09-15T23:17:14.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697510.shtml",
+      "publishedAt": "2026-09-16T07:23:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-16/10697146.shtml",
-      "title": "9月16日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-16/10697513.shtml",
+      "title": "中国科幻，从书页走向广阔产业",
       "category": "综合",
-      "summary": "",
+      "summary": "第三十七届银河奖在四川自贡揭晓",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-16/10697146.shtml",
-      "publishedAt": "2026-09-15T22:54:38.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-16/10697513.shtml",
+      "publishedAt": "2026-09-16T07:22:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
-      "title": "美媒：美国对伊朗战争耗资已超420亿美元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697508.shtml",
+      "title": "中国农业银行资产负债管理部原总经理王青山被开除党籍",
       "category": "综合",
-      "summary": "中新网9月16日电 据美国《国会山报》当地时间15日报道，美国国防部8月曾告诉国会，伊朗战争的成本现在已经攀升至420亿美元以上，这比国防部最近一次公开估计的成本增加了45亿美元。",
+      "summary": "中新网9月16日电 据中央纪委国家监委驻中国农业银行纪检监察组、山东省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国农业银行纪检监察组、山东省滨州市监委对中国农业银行资产负债管理部原总经理王青山严重违纪违法问题进行了立案审查调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
-      "publishedAt": "2026-09-15T22:45:40.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697508.shtml",
+      "publishedAt": "2026-09-16T07:20:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697144.shtml",
-      "title": "一箭九星 引力一号遥三运载火箭发射成功",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697499.shtml",
+      "title": "韩国法院判朝鲜赔446亿韩元",
       "category": "综合",
-      "summary": "中新网北京9月16日电 (马帅莎 李宸)北京时间2026年9月16日6时，我国太原卫星发射中心在上海东部海域使用引力一号遥三运载火箭，将搭载的千帆极轨26组卫星及EUHT技术试验卫星共9颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
+      "summary": "中新网9月16日电 据韩联社报道，韩国首尔中央地方法院16日就韩国政府针对朝鲜提起的损害赔偿诉讼作出宣判，判决朝鲜应就单方面炸毁韩朝联络办公室大楼，向韩国政府赔偿约446亿韩元(1美元约合1371韩元)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697144.shtml",
-      "publishedAt": "2026-09-15T22:38:11.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697499.shtml",
+      "publishedAt": "2026-09-16T07:19:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697143.shtml",
-      "title": "AI当“科研搭子”，你真的放心吗？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697505.shtml",
+      "title": "两岸青年武汉开启微电影微视频交流互鉴之旅",
       "category": "综合",
-      "summary": "借助AI输出科研思路，好点子算谁的？",
+      "summary": "中新社武汉9月16日电 (马芙蓉 朱琨)第十二届“金飞燕”海峡两岸微电影微视频大赛嘉年华16日在武汉启动，两岸影视专家、青年创作者等近400人，共赴光影之约，增进交流互鉴。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697143.shtml",
-      "publishedAt": "2026-09-15T22:03:35.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697505.shtml",
+      "publishedAt": "2026-09-16T07:19:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697142.shtml",
-      "title": "美官员称美政府拟向以色列出售价值28亿美元军火",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697507.shtml",
+      "title": "丁薛祥将出席第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式",
       "category": "综合",
-      "summary": "当地时间15日，据一位知情美国官员透露，美国政府拟向以色列出售价值28亿美元的军火，其中包括数万枚破坏力极强的2000磅(约907公斤)级别的炸弹。",
+      "summary": "外交部发言人宣布：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697142.shtml",
-      "publishedAt": "2026-09-15T21:58:06.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697507.shtml",
+      "publishedAt": "2026-09-16T07:15:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697141.shtml",
-      "title": "美国10年期国债收益率一度升至2007年以来高点",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697502.shtml",
+      "title": "“桃园三结义”发生在台湾桃园市？国台办回应",
       "category": "综合",
-      "summary": "由于通胀形势持续引发市场担忧和美国联邦储备委员会加息预期推动，美国10年期国债收益率在15日凌晨升至5.045%，为2007年7月以来的最高水平。",
+      "summary": "中新社北京9月16日电 (记者 陈建新 徐雪莹)对于有台湾学生把“桃园三结义”理解为在台湾桃园市结盟，国务院台办发言人朱凤莲16日在北京表示，有关情况表明，民进党当局长期进行“去中国化”教育、搞“文化台独”已造成严重后果，可悲可叹。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697141.shtml",
-      "publishedAt": "2026-09-15T21:57:04.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697502.shtml",
+      "publishedAt": "2026-09-16T07:14:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697140.shtml",
-      "title": "美国国会预算办公室：伊朗战争耗资超380亿美元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-16/10697506.shtml",
+      "title": "湖柯同心 筑梦“疆”来|跨越四千公里的重逢",
       "category": "综合",
-      "summary": "中新社华盛顿9月15日电 (记者 沙晗汀)美国国会预算办公室当地时间15日公布报告显示，美国对伊朗战争花费已超过380亿美元。",
+      "summary": "日前，在浙江湖州八里店镇宜船湾村村口，一声亲切的问候打破了乡村的宁静：“沈书记，我们又见面了！”来自柯坪县启浪乡努尔巴格村的党支部书记居曼·买买提，与宜船湾村党总支部书记沈建勇的手紧紧握在一起。这场时隔三年、跨越四千多公里的重逢，成为柯坪县“铸牢中华民族共同体意识”培训中最动人的一幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697140.shtml",
-      "publishedAt": "2026-09-15T21:54:58.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-16/10697506.shtml",
+      "publishedAt": "2026-09-16T07:13:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697139.shtml",
-      "title": "2026上合组织数字经济论坛在乌鲁木齐开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-16/10697497.shtml",
+      "title": "李家超：继续打造香港成为“亚洲盛事之都”",
       "category": "综合",
-      "summary": "中新社乌鲁木齐9月16日电 (记者 苟继鹏)2026上合组织数字经济论坛15日在乌鲁木齐市开幕。中外政府官员、企业负责人、高校和智库专家学者等齐聚一堂，围绕数字互联互通、数字贸易、数智产业、数字治理与能力建设等进行对话交流。",
+      "summary": "中新网香港9月16日电 香港特区行政长官李家超16日在特区立法会会议上公布《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》。他表示，特区政府将继续打造香港成为“亚洲盛事之都”，推动结合体育及文化的国际级盛事旅游。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697139.shtml",
-      "publishedAt": "2026-09-15T21:54:12.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-16/10697497.shtml",
+      "publishedAt": "2026-09-16T07:09:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697138.shtml",
-      "title": "韩正出席第十三届北京香山论坛欢迎晚宴并致辞",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-16/10697496.shtml",
+      "title": "李家超：推动人工智能作为香港未来发展重要产业",
       "category": "综合",
-      "summary": "中新社北京9月15日电 9月15日，中国国家副主席韩正出席第十三届北京香山论坛欢迎晚宴并致辞。",
+      "summary": "中新网香港9月16日电 香港特区行政长官李家超16日在特区立法会会议上公布《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》。李家超表示，香港将推动人工智能作为香港未来发展的重要产业，以人工智能技术赋能千行百业。通过建设沙岭数据园区，为香港发展人工智能产业所需的算力提供有力支持。园区将于2029年或以前进入营运阶段。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697138.shtml",
-      "publishedAt": "2026-09-15T21:52:56.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-16/10697496.shtml",
+      "publishedAt": "2026-09-16T07:08:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697137.shtml",
-      "title": "2026中国—东盟青年主播创造营开营",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697500.shtml",
+      "title": "代办职称还“包过”？深圳警方打掉一“职称代办”诈骗团伙",
       "category": "综合",
-      "summary": "中新社南宁9月16日电 (陈秋霞)2026中国—东盟青年主播创造营15日在广西南宁开营。来自中国及东盟各国的60名青年媒体从业者、留学生代表齐聚一堂，开启跨国研学交流。",
+      "summary": "现在很多城市都在逐步放宽落户政策，比如在深圳，既可以按照社保积分排队入户，也可以按照人才引进，直接核准入户。然而，一些不法分子却盯上了这些好政策，打起了歪主意。前不久，深圳警方打掉一个以代办职称、落户入学为幌子的诈骗团伙，抓获嫌疑人51名，涉案金额超千万元。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697137.shtml",
-      "publishedAt": "2026-09-15T21:52:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697500.shtml",
+      "publishedAt": "2026-09-16T07:08:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697136.shtml",
-      "title": "对俄免签一周年 绥芬河公路口岸跨境客流增长近三成",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad#0",
+      "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
+      "category": "国际",
+      "summary": "希爾曼說：「如今，美國人最不信任的機構可能只有矽谷了，其次才是華盛頓。我在矽谷和華盛頓都工作過，也都生活過我可以向你保證，這種不信任都是它們自己招來的。」",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T07:07:09.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697483.shtml",
+      "title": "一见·从上合到金砖，读懂大国外交的稳与进",
       "category": "综合",
-      "summary": "中新社绥芬河9月16日电 (记者 王妮娜)15日，首班进境客车缓缓驶入绥芬河公路口岸，俄罗斯6岁男孩季马第一次随家人来到中国，在海关人员引导下，几分钟内便完成全部通关手续。很多俄罗斯旅客也搭乘早班车入境，开启旅游、购物、商务合作等行程。",
+      "summary": "风云激荡的世界舞台上，总有着一种力量，承载着世界对和平与发展的期盼。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697136.shtml",
-      "publishedAt": "2026-09-15T21:51:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697483.shtml",
+      "publishedAt": "2026-09-16T07:03:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +516,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-15/10697135.shtml",
-      "title": "尼泊尔泥石流灾害已致1403人遇难",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697498.shtml",
+      "title": "残疾乘客吐槽“什么时候才能买到残疾人专座？” 12306回应",
       "category": "综合",
-      "summary": "根据尼泊尔警方公布的最新数据，截至当地时间15日20时，尼泊尔泥石流灾害造成的遇难人数升至1403人。",
+      "summary": "“什么时候才能买到残疾人专座？”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697135.shtml",
-      "publishedAt": "2026-09-15T15:47:51.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697498.shtml",
+      "publishedAt": "2026-09-16T07:02:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +534,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-15/10697134.shtml",
-      "title": "（活力中国）湖北铜绿山古铜矿遗址焕新生 千年矿冶之都化身文旅新城",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697484.shtml",
+      "title": "推动金砖国家合作增效 赋能全球南方共同发展——国际社会高度评价习近平主席南亚之行",
       "category": "综合",
-      "summary": "中新社湖北大冶9月15日电 题：湖北铜绿山古铜矿遗址焕新生 千年矿冶之都化身文旅新城",
+      "summary": "新华社北京9月14日电 题：推动金砖国家合作增效 赋能全球南方共同发展——国际社会高度评价习近平主席南亚之行",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10697134.shtml",
-      "publishedAt": "2026-09-15T15:46:19.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697484.shtml",
+      "publishedAt": "2026-09-16T07:00:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +552,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697133.shtml",
-      "title": "别只知道和田玉，这里的核桃也很“硬核”！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-16/10697495.shtml",
+      "title": "峨山：“家门口看市级专家” 惠民服务暖侨心",
       "category": "综合",
-      "summary": "从核桃树上，",
+      "summary": "为切实关爱归侨侨眷及社区群众身体健康，普及健康、应急救护知识，宣传侨务法律法规，9月15日，在玉溪市侨联牵头组织下，市委统战部(市侨办)、市红十字会、致公党玉溪市委会、农工党玉溪市委会、峨山县委统战部、县侨联等相关部门及市级医院专家团队走进峨山县文明社区，开展送医送药义诊暨侨法宣传服务活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697133.shtml",
-      "publishedAt": "2026-09-15T15:41:17.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-16/10697495.shtml",
+      "publishedAt": "2026-09-16T06:57:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,20 +570,108 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697132.shtml",
-      "title": "气候官员谈全球领域碳市场建设：中国发挥了关键作用",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-16/10697493.shtml",
+      "title": "李家超：以黄金为切入点构建大宗商品交易生态圈",
       "category": "综合",
-      "summary": "中新社武汉9月15日电 (记者 阮煜琳 梁婷)2026年中国碳市场大会15日在武汉举行。联合国官员在大会上表示，在应对气候变化方面，中国始终以实际行动走在前列，在碳市场领域也是如此，中国发挥了关键作用。",
+      "summary": "中新网香港9月16日电 香港特区行政长官李家超16日在特区立法会公布《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》，明确以黄金为切入点，构建大宗商品交易生态圈，完善基建、拓展人民币计价产品，与中国内地市场错位互补发展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697132.shtml",
-      "publishedAt": "2026-09-15T15:28:34.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-16/10697493.shtml",
+      "publishedAt": "2026-09-16T06:57:51.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-16/10697492.shtml",
+      "title": "9月16日“农产品批发价格200指数”比昨天上升0.13个点",
+      "category": "综合",
+      "summary": "中新网9月16日电 据农业农村部网站消息，据农业农村部监测，9月16日“农产品批发价格200指数”为117.27，比昨天上升0.13个点，“菜篮子”产品批发价格指数为118.07，比昨天上升0.15个点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697492.shtml",
+      "publishedAt": "2026-09-16T06:56:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113295",
+      "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+      "category": "科技",
+      "summary": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113295",
+      "publishedAt": "2026-09-16T02:38:34.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/114638",
+      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+      "category": "科技",
+      "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114638",
+      "publishedAt": "2026-09-16T00:39:40.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#0",
+      "title": "「我接受了11年化療，卻發現從未患癌」",
+      "category": "国际",
+      "summary": "貝姬·瓊斯（Becky Jones）21歲被告知患有末期腦癌，接受了長達11年的化療，近期才發現根本不是癌症。和她有類似經歷的，還有同一間醫院的另外40多名病患。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T00:18:50.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvgyr0kj25eo/trad#1",
+      "title": "「九月重啟」：你如何也能在此時建立新日常習慣？",
+      "category": "国际",
+      "summary": "這個月，許多人將開啟人生的新篇章；以下教你如何強勢起步，並保持良好的習慣。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqvgyr0kj25eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T00:18:44.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -567,24 +689,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml",
-      "title": "美巨头喊AI“降速”，安全之外还在盘算什么",
-      "category": "综合",
-      "summary": "美国AI巨头，忽然不约而同地谈起“降速”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml",
-      "publishedAt": "2026-09-15T15:01:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -642,7 +746,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad#1",
       "title": "威爾士、蘇格蘭和北愛爾蘭一起要「公投權」英國是否面臨分裂？",
       "category": "国际",
       "summary": "威爾斯黨、蘇格蘭民族黨和新芬黨的領導人表示，英國政府應該為憲政改革做好準備。",
@@ -677,7 +781,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad#1",
       "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
       "category": "国际",
       "summary": "美國總統特朗普駁斥放慢人工智能發展速度的呼籲，並表示有關人工智能「接管世界」的說法是「一場騙局（HOAX）」。",
@@ -746,7 +850,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#1",
       "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
       "category": "国际",
       "summary": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
@@ -907,7 +1011,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
       "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
       "category": "国际",
       "summary": "朝鮮（北韓）士兵於2024年底被平壤派遣，與俄羅斯部隊並肩作戰，試圖擊退烏克蘭的一次攻勢。烏克蘭總統澤連斯基表示，俄羅斯沃羅涅日地區正進行準備，以接收新一批朝鮮部隊。",
@@ -977,7 +1081,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0lr7lx49l8o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0lr7lx49l8o/trad#4",
       "title": "協助死亡：世界各地法律有何不同",
       "category": "国际",
       "summary": "全球約有4億人可以獲得某種形式的協助死亡（安樂死）服務，這些國家的政策都是怎樣的？",
@@ -1012,7 +1116,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad#3",
       "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
       "category": "国际",
       "summary": "上星期六，達里奧·阿摩迪（Dario Amodei）呼籲放緩發展步伐,以「降低出現嚴重問題的風險」，奧特曼和馬斯克均表示認同。這名Anthropic行政總裁同時強調，任何放緩都必須有所限度，以免讓中國反超領先。",
@@ -1047,7 +1151,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad#5",
       "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
       "category": "国际",
       "summary": "歐洲擁有一些前景可期的電池技術，但它能否追回被中國電池巨頭拉開的差距？",
@@ -1072,41 +1176,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T00:19:09.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114539",
-      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-      "category": "科技",
-      "summary": "美国 AI 高管呼吁放缓研发，特朗普反对 苹果解释 Apple Watch 不会持续录音 LG 否认智能电视监控用户 暴雪公布《魔兽世界》怀旧服 儿童贴身使用笔记本电脑导致皮肤灼伤 Android 开始支持密码管理器迁移 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/114539",
-      "publishedAt": "2026-09-13T22:55:34.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxpyw20q7o/trad#5",
-      "title": "AI巨頭前僱員：同業「真誠恐懼」人類滅絕，西方必須與中國協調",
-      "category": "国际",
-      "summary": "雅各布·考克森（Jacob Coxon）向BBC表示，如果不遏制人工智能的發展速度，人工智能有很大機會導致人類滅絕。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c0qxpyw20q7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T12:25:11.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1147,24 +1216,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113880",
-      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
-      "category": "科技",
-      "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113880",
-      "publishedAt": "2026-09-13T07:51:55.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
@@ -1700,40 +1751,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad#4",
-      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
-      "category": "国际",
-      "summary": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T13:17:31.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#4",
-      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-      "category": "国际",
-      "summary": "例如，同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:24:43.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:2e6ceb47-a242-4528-8fca-4e869e7f6138",
       "title": "启动全球倡议以改善猴痘疫苗的获取",
       "category": "健康",
@@ -1844,23 +1861,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T00:01:45.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "category": "国际",
-      "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T09:56:01.000Z",
       "tags": [
         "国际",
         "商业",
