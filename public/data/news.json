@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T21:21:23.219Z",
-  "expiresAt": "2026-09-16T03:21:23.219Z",
+  "generatedAt": "2026-09-16T00:20:27.448Z",
+  "expiresAt": "2026-09-16T06:20:27.448Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,456 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
+      "title": "中央气象台：重庆湖北等地局地有暴雨",
+      "category": "综合",
+      "summary": "中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
+      "publishedAt": "2026-09-16T00:11:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204397.shtml",
+      "title": "舞蹈诗剧《古色·国宝辽宁》在北京上演 千年文物在剧场“苏醒”",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204397.shtml",
+      "publishedAt": "2026-09-16T00:04:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml",
+      "title": "肯尼迪中心董事会决定立即关闭该中心 特朗普发声",
+      "category": "综合",
+      "summary": "中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml",
+      "publishedAt": "2026-09-16T00:01:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml",
+      "title": "特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”",
+      "category": "综合",
+      "summary": "特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” | 国际早察",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml",
+      "publishedAt": "2026-09-15T23:58:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml",
+      "title": "南非确定首批绿色氢能项目 明年启动建设",
+      "category": "综合",
+      "summary": "中新社约翰内斯堡9月15日电 (记者 孙翔)南非15日在非洲绿色氢能峰会期间宣布，该国已确定首批6个绿色氢能优先项目。其中，电制可持续航空燃料项目计划于2027年第一季度开工建设。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml",
+      "publishedAt": "2026-09-15T23:54:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml",
+      "title": "俄外交部：日本应铭记九一八历史 “再军事化”必蹈覆辙",
+      "category": "综合",
+      "summary": "中新社莫斯科9月15日电 在九一八事变爆发95周年之际，俄罗斯外交部发言人扎哈罗娃15日表示，这段历史不仅我们要铭记，日本人自己更应该铭记。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml",
+      "publishedAt": "2026-09-15T23:54:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204391.shtml",
+      "title": "一箭九星 引力一号遥三运载火箭发射成功",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204391.shtml",
+      "publishedAt": "2026-09-15T23:45:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697154.shtml",
+      "title": "让“干净口粮”成为AI的标配",
+      "category": "综合",
+      "summary": "让“干净口粮”成为AI的标配(人民时评)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697154.shtml",
+      "publishedAt": "2026-09-15T23:42:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml",
+      "title": "预售房“封顶才能卖” 商品房销售制度开启新变革",
+      "category": "综合",
+      "summary": "预售房“封顶才能卖”；有序推进商品住房现房销售——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml",
+      "publishedAt": "2026-09-15T23:32:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697152.shtml",
+      "title": "新一代通信网，带来哪些智能时代新体验？",
+      "category": "综合",
+      "summary": "“‘六张网’建设刷新‘进度条’”系列报道之四",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697152.shtml",
+      "publishedAt": "2026-09-15T23:28:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-16/10697150.shtml",
+      "title": "中新网直播：通江达海！直击平陆运河通航时刻",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-16/10697150.shtml",
+      "publishedAt": "2026-09-15T23:26:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697149.shtml",
+      "title": "十年锐减超1500万生源 驾校“黄金时代”落幕后的行业变局",
+      "category": "综合",
+      "summary": "今年暑假，湖北武汉一家驾校的训练场上，15辆教练车只有4辆还在跑，教练员闲得在树荫底下喝茶聊天；广东广州一家开了十年的老牌驾校，往年暑假轻轻松松招进300多个学员，今年只招到了100来个；上海某驾校科目二场地里，学员练车根本不用排队，几十辆教练车整齐地停在遮阳棚下……",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697149.shtml",
+      "publishedAt": "2026-09-15T23:23:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697148.shtml",
+      "title": "病毒库也有“保质期” 国家安全机关发布提示",
+      "category": "综合",
+      "summary": "注意了，病毒库也有“保质期”！",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697148.shtml",
+      "publishedAt": "2026-09-15T23:19:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697147.shtml",
+      "title": "以军称在加沙地带打死一名哈马斯指挥官",
+      "category": "综合",
+      "summary": "中新网9月16日电 据外媒报道，以色列国防军当地时间15日称，以军在加沙地带南部的一次空袭中打死了巴勒斯坦伊斯兰抵抗运动(哈马斯)拉法旅指挥官纳埃尔·阿布·奥贝德。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697147.shtml",
+      "publishedAt": "2026-09-15T23:17:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-16/10697146.shtml",
+      "title": "9月16日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-16/10697146.shtml",
+      "publishedAt": "2026-09-15T22:54:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
+      "title": "美媒：美国对伊朗战争耗资已超420亿美元",
+      "category": "综合",
+      "summary": "中新网9月16日电 据美国《国会山报》当地时间15日报道，美国国防部8月曾告诉国会，伊朗战争的成本现在已经攀升至420亿美元以上，这比国防部最近一次公开估计的成本增加了45亿美元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
+      "publishedAt": "2026-09-15T22:45:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697144.shtml",
+      "title": "一箭九星 引力一号遥三运载火箭发射成功",
+      "category": "综合",
+      "summary": "中新网北京9月16日电 (马帅莎 李宸)北京时间2026年9月16日6时，我国太原卫星发射中心在上海东部海域使用引力一号遥三运载火箭，将搭载的千帆极轨26组卫星及EUHT技术试验卫星共9颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697144.shtml",
+      "publishedAt": "2026-09-15T22:38:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697143.shtml",
+      "title": "AI当“科研搭子”，你真的放心吗？",
+      "category": "综合",
+      "summary": "借助AI输出科研思路，好点子算谁的？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697143.shtml",
+      "publishedAt": "2026-09-15T22:03:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697142.shtml",
+      "title": "美官员称美政府拟向以色列出售价值28亿美元军火",
+      "category": "综合",
+      "summary": "当地时间15日，据一位知情美国官员透露，美国政府拟向以色列出售价值28亿美元的军火，其中包括数万枚破坏力极强的2000磅(约907公斤)级别的炸弹。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697142.shtml",
+      "publishedAt": "2026-09-15T21:58:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697141.shtml",
+      "title": "美国10年期国债收益率一度升至2007年以来高点",
+      "category": "综合",
+      "summary": "由于通胀形势持续引发市场担忧和美国联邦储备委员会加息预期推动，美国10年期国债收益率在15日凌晨升至5.045%，为2007年7月以来的最高水平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697141.shtml",
+      "publishedAt": "2026-09-15T21:57:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-16/10697140.shtml",
+      "title": "美国国会预算办公室：伊朗战争耗资超380亿美元",
+      "category": "综合",
+      "summary": "中新社华盛顿9月15日电 (记者 沙晗汀)美国国会预算办公室当地时间15日公布报告显示，美国对伊朗战争花费已超过380亿美元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697140.shtml",
+      "publishedAt": "2026-09-15T21:54:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697139.shtml",
+      "title": "2026上合组织数字经济论坛在乌鲁木齐开幕",
+      "category": "综合",
+      "summary": "中新社乌鲁木齐9月16日电 (记者 苟继鹏)2026上合组织数字经济论坛15日在乌鲁木齐市开幕。中外政府官员、企业负责人、高校和智库专家学者等齐聚一堂，围绕数字互联互通、数字贸易、数智产业、数字治理与能力建设等进行对话交流。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697139.shtml",
+      "publishedAt": "2026-09-15T21:54:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-16/10697138.shtml",
+      "title": "韩正出席第十三届北京香山论坛欢迎晚宴并致辞",
+      "category": "综合",
+      "summary": "中新社北京9月15日电 9月15日，中国国家副主席韩正出席第十三届北京香山论坛欢迎晚宴并致辞。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697138.shtml",
+      "publishedAt": "2026-09-15T21:52:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697137.shtml",
+      "title": "2026中国—东盟青年主播创造营开营",
+      "category": "综合",
+      "summary": "中新社南宁9月16日电 (陈秋霞)2026中国—东盟青年主播创造营15日在广西南宁开营。来自中国及东盟各国的60名青年媒体从业者、留学生代表齐聚一堂，开启跨国研学交流。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697137.shtml",
+      "publishedAt": "2026-09-15T21:52:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-16/10697136.shtml",
+      "title": "对俄免签一周年 绥芬河公路口岸跨境客流增长近三成",
+      "category": "综合",
+      "summary": "中新社绥芬河9月16日电 (记者 王妮娜)15日，首班进境客车缓缓驶入绥芬河公路口岸，俄罗斯6岁男孩季马第一次随家人来到中国，在海关人员引导下，几分钟内便完成全部通关手续。很多俄罗斯旅客也搭乘早班车入境，开启旅游、购物、商务合作等行程。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697136.shtml",
+      "publishedAt": "2026-09-15T21:51:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-15/10697135.shtml",
       "title": "尼泊尔泥石流灾害已致1403人遇难",
@@ -129,456 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml",
       "publishedAt": "2026-09-15T15:01:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697130.shtml",
-      "title": "王毅会见东盟秘书长",
-      "category": "综合",
-      "summary": "中共中央政治局委员、外交部长王毅15日在北京会见东盟秘书长高金洪。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697130.shtml",
-      "publishedAt": "2026-09-15T14:49:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697128.shtml",
-      "title": "2026年国家网络安全宣传周个人信息保护论坛在济南举办",
-      "category": "综合",
-      "summary": "中新网济南9月15日电 9月15日，2026年国家网络安全宣传周个人信息保护论坛在山东济南举办。本次论坛以“守护个人信息安全，构建个人信息保护长效机制”为主题，着力构建政府监管、企业履责、行业自律、公众监督的个人信息保护综合治理格局，不断提升广大人民群众在网络空间的获得感、幸福感、安全感。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697128.shtml",
-      "publishedAt": "2026-09-15T14:41:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697127.shtml",
-      "title": "网络空间部队信息工程大学亮相2026年国家网络安全宣传周",
-      "category": "综合",
-      "summary": "中新网济南9月15日电 9月14日，2026年国家网络安全宣传周活动正式启动。本届网安周设置网络安全技术应用体验区，着力搭建网络安全技术实操交流载体，推动行业技术成果落地转化推广。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697127.shtml",
-      "publishedAt": "2026-09-15T14:39:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697126.shtml",
-      "title": "2026年全球工商法治大会在海口举办 聚焦法治护航制度开放",
-      "category": "综合",
-      "summary": "中新网海口9月15日电 (记者 王子谦)2026年全球工商法治大会15日在海口举行，国内外嘉宾以“数智赋能法商融合 法治护航制度开放”为主题进行交流研讨。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697126.shtml",
-      "publishedAt": "2026-09-15T14:37:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-15/10697125.shtml",
-      "title": "以智博会为窗口 解码浙江智能物联产业突围路径",
-      "category": "综合",
-      "summary": "中新网宁波9月15日电(蓝伊旎 罗德慧)近日，第十六届智慧城市与智能经济博览会(下称“智博会”)在浙江宁波举办。在浙江智能物联产业展区，国产推理GPU、存储颗粒等硬核芯片集中亮相，工业大模型、纺织智能机器人演绎制造业变革，桌面AI工作站、水陆两栖球形特种机器人等前沿智能终端同台展示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697125.shtml",
-      "publishedAt": "2026-09-15T14:33:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697124.shtml",
-      "title": "西藏类乌齐县师生跨越千里，观礼天安门升旗",
-      "category": "综合",
-      "summary": "中新网北京9月15日电 (陶思阅)9月15日清晨，天安门广场。国旗护卫队铿锵步伐由远及近，广场上渐渐安静下来。人群中，一群来自西藏昌都类乌齐县的孩子仰起头，手里攥着小国旗。这是他们第一次在天安门广场看升旗。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697124.shtml",
-      "publishedAt": "2026-09-15T14:32:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-15/10697123.shtml",
-      "title": "专家学者研讨如何构建中国非物质文化遗产自主知识体系",
-      "category": "综合",
-      "summary": "中新网北京9月15日电 (记者 应妮)由中国艺术研究院《中国非物质文化遗产》编辑部与期刊管理处主办的“构建中国非物质文化遗产自主知识体系暨中宣部哲学社科期刊重点专栏建设座谈会”日前在京举行。来自高校和科研机构、学术服务机构的专家学者，围绕哲学社科期刊重点专栏高质量建设、中国非物质文化遗产自主知识体系构建两大主题展开研讨。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10697123.shtml",
-      "publishedAt": "2026-09-15T14:30:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697122.shtml",
-      "title": "首届“院士西藏行”科普活动启动 科学种子播撒高原校园",
-      "category": "综合",
-      "summary": "中新网拉萨9月15日电 (记者 江飞波)9月15日，首届“院士西藏行”科普活动在拉萨那曲第三高级中学正式启动。中国工程院多吉、尼玛扎西、汪双杰等院士专家走进高原校园，开讲前沿科普课程、面对面启迪学子科学思维，为高原青少年送来难得的科普资源。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697122.shtml",
-      "publishedAt": "2026-09-15T14:27:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-15/10697121.shtml",
-      "title": "专家聚焦国货供应链产业未来核心方向：数字化、平台化、订单化",
-      "category": "综合",
-      "summary": "中新网北京9月15日电 (记者 陈康亮)2026“国货新字号·消费新趋势”主题推介会暨国行供应链订单集采选品发布会15日在北京举办。会议期间，行业专家、企业代表围绕“聚力大宗集采 筑牢质量根基 共筑商贸流通新生态”对话交流，为供应链产业升级建言献策；与会专家一致认为数字化、平台化、订单化是国货供应链产业未来核心发展方向。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697121.shtml",
-      "publishedAt": "2026-09-15T14:23:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-15/10697120.shtml",
-      "title": "以界别之长服务发展之需 湖南九三科创论坛赋能地方产业升级",
-      "category": "综合",
-      "summary": "中新网娄底9月15日电 (刘曼)9月15日，第六届湖南九三科创论坛暨娄底统一战线“同心智库”第二届社会服务季九三学社专场在娄底举行。本次活动以“‘制造+服务’深度融合助力释放新材料产业新动能”为主题，旨在充分发挥统一战线人才优势，助力娄底新材料产业转型升级。九三学社中央副主席张旭出席活动并讲话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-15/10697120.shtml",
-      "publishedAt": "2026-09-15T14:20:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697119.shtml",
-      "title": "数智济南·网络安全融合发展赋能城市高质量发展大会举行",
-      "category": "综合",
-      "summary": "中新网济南9月15日电 (吕妍)作为2026年国家网络安全宣传周重要专题活动，数智济南·网络安全融合发展赋能城市高质量发展大会9月15日在山东济南举行。大会汇聚政产学研用多方力量，推动数字产业资源互通联动，为数智济南建设和强省会高质量发展注入强劲动力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697119.shtml",
-      "publishedAt": "2026-09-15T14:19:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697112.shtml",
-      "title": "人工智能向善普惠成共识 中外人士建言缩小全球数字鸿沟",
-      "category": "综合",
-      "summary": "中新社杭州9月15日电 (郭其钰)2026年中国经济社会论坛15日在浙江杭州举行，人工智能治理成为中外嘉宾热议焦点。面对人工智能快速迭代带来的就业冲击、数据安全、算法歧视以及全球数字鸿沟等新矛盾，多位嘉宾呼吁发展向善普惠的人工智能，让技术缩小差距而非扩大鸿沟。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697112.shtml",
-      "publishedAt": "2026-09-15T14:07:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697113.shtml",
-      "title": "2026中新绿色发展论坛：携手作答城市“绿色考卷”",
-      "category": "综合",
-      "summary": "中新社河北雄安9月15日电 (赵丹媚 韩冰)以“中新携手赋能新城新区，共绘绿色智慧发展蓝图”为主题的2026中新绿色发展论坛15日在河北雄安新区举行，来自中国、新加坡两国政府部门、科研院所、高校等有关代表近300人参加，围绕绿色低碳建设、中新合作经验、建筑业转型等议题展开深入交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697113.shtml",
-      "publishedAt": "2026-09-15T14:06:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-15/10697111.shtml",
-      "title": "粤发布服装行业高质量发展行动计划 推动岭南时尚产业跃升",
-      "category": "综合",
-      "summary": "中新社广州9月15日电 (记者 蔡敏婕)“2026广东时装周——秋季”15日在广州番禺开幕。《广东省服装行业高质量发展行动计划(2026—2028年)》亦于当日发布，明确广东纺织服装产业发展路径，推动产业由规模扩张向质量效益转型。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697111.shtml",
-      "publishedAt": "2026-09-15T14:05:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697110.shtml",
-      "title": "专家学者在渝多维度“解码”长江文明传承与发展",
-      "category": "综合",
-      "summary": "中新网重庆9月15日电 (记者 钟旖)“长江流域是中国远古人类的重要起源地之一，是中华远古先民率先走向文明时代的重要区域之一。”15日在重庆举行的2026长江文明论坛上，中国社会科学院学部委员卜宪群一语道破长江文明的独特历史地位。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697110.shtml",
-      "publishedAt": "2026-09-15T14:05:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-15/10697084.shtml",
-      "title": "（粤港澳大湾区）穗港科技和产业融合创新中心（广州）揭牌启用",
-      "category": "综合",
-      "summary": "中新社广州9月15日电 (记者 王坚)穗港科技和产业融合创新中心(广州)15日在广州南沙揭牌启用。现场同步发布穗港BIO CONNECT生命健康共创计划、穗港CO-IDEATION联合孵化计划等专项计划，并集中展示入驻企业及团队的成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-15/10697084.shtml",
-      "publishedAt": "2026-09-15T14:04:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-15/10697114.shtml",
-      "title": "第五届两岸网络文学大赛在杭州颁奖 青年创作者以文会友",
-      "category": "综合",
-      "summary": "中新社杭州9月15日电 (钱晨菲)第五届两岸网络文学大赛颁奖暨第六届启动仪式15日在浙江杭州举行。活动现场揭晓第五届大赛获奖作品、发布网络文学创作成果，并启动第六届大赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697114.shtml",
-      "publishedAt": "2026-09-15T14:04:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-15/10697109.shtml",
-      "title": "四川会理至云南禄劝高速乌东德隧道双幅贯通",
-      "category": "综合",
-      "summary": "中新网成都9月15日电 (记者 刘忠俊)9月15日，四川会理至云南禄劝高速公路(四川境)(以下简称“会禄高速”)全线最长隧道——乌东德隧道实现双幅贯通，标志着这条连接川滇的高速大通道建设取得重大进展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697109.shtml",
-      "publishedAt": "2026-09-15T14:03:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-15/10697115.shtml",
-      "title": "广东省侨联举办中秋侨宴 五洲侨胞共团圆",
-      "category": "综合",
-      "summary": "中新社广州9月15日电 (记者 郭军)广东省侨联2026年中秋侨宴(主会场)15日晚在广州举行，来自五大洲39个国家和地区的海外侨胞、归侨侨眷代表及社会各界代表等260余人欢聚一堂，品美食、话家常、展才艺、庆佳节。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-15/10697115.shtml",
-      "publishedAt": "2026-09-15T14:02:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697108.shtml",
-      "title": "重庆持续推进境外人员来渝服务便利化",
-      "category": "综合",
-      "summary": "中新网重庆9月15日电 (张旭)重庆市政府外办副主任周毅15日表示，将着力推动境外人员来渝服务工作实现“三个转向”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697108.shtml",
-      "publishedAt": "2026-09-15T14:02:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-15/10697107.shtml",
-      "title": "海南提出到2030年建成文艺高地 在国家级重要奖项中取得新突破",
-      "category": "综合",
-      "summary": "中新网海口9月15日电 (记者 符宇群)海南省委宣传部、海南省文联近日联合印发《海南省“十五五”文艺繁荣发展行动方案(2026—2030年)》(简称《行动方案》)，提出到2030年建成与海南自贸港地位相匹配的文艺高地，力争在国家级重要奖项上取得新突破，把海南自贸港打造成为展示中华优秀传统文化的重要窗口和国际文艺交流合作的重要平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697107.shtml",
-      "publishedAt": "2026-09-15T14:01:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-15/10697101.shtml",
-      "title": "中外知名高校校长相聚上海 变局之下探寻育人之道",
-      "category": "综合",
-      "summary": "中新网上海9月15日电(范宇斌)近日，由寰球校友会联盟主办的第二届“校长来了”在上海市留学人员之家举行。本次活动以“变局·机遇·挑战·责任”为主题，来自英国南安普顿大学、香港大学、上海纽约大学、上海科技大学等中外知名高校校长相聚一堂，围绕高等教育的范式变革、对外开放、人才培养等议题展开深度研讨。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-15/10697101.shtml",
-      "publishedAt": "2026-09-15T13:59:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-15/10697100.shtml",
-      "title": "浙江宁波一海上走私冻品案收网 涉案金额逾千万元",
-      "category": "综合",
-      "summary": "中新网宁波9月15日电 (张斌 刘子琳 许桃)据浙江宁波边检站15日发布消息，9月14日20时许，当地多部门在宁波象山渔山海域开展联合执法，出动执法船艇2艘，收网一起走私冻品案，当场抓获犯罪嫌疑人4名，查获牛板筋等冻品150余吨，查扣涉案船舶1艘，涉案金额1000余万元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-15/10697100.shtml",
-      "publishedAt": "2026-09-15T13:59:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-15/10697099.shtml",
-      "title": "第12届海峡两岸暨港澳经贸论坛在港举行 共探新格局下发展合作机遇",
-      "category": "综合",
-      "summary": "中新网香港9月15日电 以“共迎新格局 赋能新发展”为主题的第12届海峡两岸暨港澳经贸论坛15日在香港举行。海峡两岸暨港澳的工商领袖、企业精英、商协会代表等逾200人出席，探讨全球新格局下的区域经济发展与合作机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-15/10697099.shtml",
-      "publishedAt": "2026-09-15T13:57:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-15/10697089.shtml",
-      "title": "中东局势影响亚洲经济 学者吁推动区域一体化",
-      "category": "综合",
-      "summary": "中新社海口9月15日电 (记者 王子谦 张茜翼)今年以来，中东战事延宕影响着亚洲经济。在15日于海口举行的博鳌亚洲论坛亚太区域合作圆桌会上，多位学者受访时呼吁亚洲加快推动区域一体化。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697089.shtml",
-      "publishedAt": "2026-09-15T13:56:36.000Z",
       "tags": [
         "国内",
         "社会",
