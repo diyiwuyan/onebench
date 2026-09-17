@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm1j4kl4d21lo/trad#0",
+      "title": "美國三年來首次加息 對全球和中國意味著什麼？",
+      "meta": "BBC 中文 · 2026/9/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cm1j4kl4d21lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T06:54:49.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj62er0ez92lo/trad#0",
       "title": "你敢請病假嗎？背後反映什麼人格特質和職場文化？",
       "meta": "BBC 中文 · 2026/9/17",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-09-16T14:57:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad#1",
       "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +73,6 @@
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-16T00:18:50.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvgyr0kj25eo/trad#1",
-      "title": "「九月重啟」：你如何也能在此時建立新日常習慣？",
-      "meta": "BBC 中文 · 2026/9/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cqvgyr0kj25eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T00:18:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T00:32:34.130Z",
+  "updatedAt": "2026-09-17T07:39:56.128Z",
   "provider": "OneBench 公共资讯快照"
 }

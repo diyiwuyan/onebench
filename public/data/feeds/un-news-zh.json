@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142803",
+      "title": "【专题报道 | 前方视野】曼德海峡局势升级：也门冲突外溢风险对全球航运构成挑战",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142803",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142801",
       "title": "联合国：阿富汗“稳定”局面下多重风险正在累积",
       "meta": "联合国新闻 · 2026/9/16",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142770",
       "publishedAt": "2026-09-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142769",
-      "title": "联合国气候变化事务负责人：气候危机已成为欧洲经济安全紧急状况",
-      "meta": "联合国新闻 · 2026/9/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142769",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T00:32:34.130Z",
+  "updatedAt": "2026-09-17T07:39:56.128Z",
   "provider": "OneBench 公共资讯快照"
 }
