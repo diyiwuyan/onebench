@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:fecb0912-4a7d-4b35-a9f8-c173d83fc51c",
+      "title": "世卫组织与英联邦秘书处续签伙伴关系协议，共同加强卫生系统并推进全民健康覆盖",
+      "meta": "世界卫生组织 · 2026/9/15",
+      "url": "https://www.who.int/zh/news-room/15-09-2026-who-and-commonwealth-secretariat-renew-partnership-to-strengthen-health-systems-and-advance-universal-health-coverage",
+      "publishedAt": "2026-09-15T09:07:07.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:25eadee2-39bc-4fed-99f6-97f985fc516e",
       "title": "Vanessa Kerry博士被任命为世卫组织总干事卫生韧性特使",
       "meta": "世界卫生组织 · 2026/9/7",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/3",
       "url": "https://www.who.int/zh/news-room/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
       "publishedAt": "2026-07-03T09:03:39.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:b9ae0e8a-85e9-4a73-b9e0-d941ba3da049",
-      "title": "世卫组织将首款埃博拉本迪布焦病毒诊断检测产品纳入紧急使用列表",
-      "meta": "世界卫生组织 · 2026/7/2",
-      "url": "https://www.who.int/zh/news-room/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-      "publishedAt": "2026-07-02T16:21:23.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T18:14:08.459Z",
+  "updatedAt": "2026-09-17T21:24:53.183Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T18:14:08.459Z",
-  "expiresAt": "2026-09-18T00:14:08.459Z",
+  "generatedAt": "2026-09-17T21:24:53.183Z",
+  "expiresAt": "2026-09-18T03:24:53.183Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,114 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142811",
+      "title": "性别平等领域正出现政治倒退 妇女权力受到系统性削弱",
+      "category": "国际",
+      "summary": "联合国妇女署和联合国经济和社会事务部周四发布的《2026年性别状况快照》报告显示，过去两年间，每三个性别平等机构机制中就有一个机构权力遭到侵蚀，约四分之一的机制运营预算遭到削减，近十分之一完全丧失预算控制权。报告警告，性别平等领域正出现跨领域、可量化且日益加剧的政治倒退。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142811",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142814",
+      "title": "2026年上半年国际旅游业保持稳定增长 中东冲突和成本上升抑制增长势头",
+      "category": "国际",
+      "summary": "2026年1月至6月，全球国际游客人数估计为6.9亿人次，比2025年同期增加约300万人次，增长0.4%。世界旅游组织最新发布的《世界旅游晴雨表》显示，尽管第一季度国际游客人数增长2%，但4月下降3%，第二季度又下降1%，中东冲突和旅行成本上升抑制了增长势头。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142814",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142813",
+      "title": "世卫组织呼吁加强传统医学研究以满足日益增长的卫生需求",
+      "category": "国际",
+      "summary": "世界卫生组织周四呼吁加强传统、补充和整合医学研究，以弥合全球卫生领域的证据缺口，更好满足日益增长的卫生需求。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142813",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142812",
+      "title": "伊朗：联合国实况调查团称美国在两次空袭中或犯下战争罪",
+      "category": "国际",
+      "summary": "伊朗问题独立国际实况调查团周四表示，伊朗平民正同时遭受两方面的侵犯人权行为：一方面是伊朗政府实施的严重侵犯人权行为和危害人类罪，另一方面是伊朗与美国、以色列之间致命冲突所造成的侵犯人权行为。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142812",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142809",
+      "title": "联合国：叙利亚政治过渡和人道主义恢复仍面临多重挑战",
+      "category": "国际",
+      "summary": "联合国秘书长叙利亚问题副特使科尔多内和主管人道主义事务副秘书长兼紧急救济协调员弗莱彻周四向安理会通报叙利亚局势时表示，叙利亚在机构建设、政治过渡和经济一体化等方面取得进展，但仍面临严峻的经济形势、安全挑战、持续流离失所、地区局势升级和地雷等问题。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142809",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142808",
+      "title": "联合国：加强宗教间和文化间对话 共同打击仇恨言论",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯、联合国大会主席拉赫曼以及联合国副秘书长兼“文明联盟”高级代表莫拉蒂诺斯周四在“促进宗教间和文化间对话与宽容，打击仇恨言论”全球会议上表示，需要加强宗教间和文化间对话，采取全社会共同参与的方式，应对仇恨言论及其根源和后果。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142808",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1190,6 +1298,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:fecb0912-4a7d-4b35-a9f8-c173d83fc51c",
+      "title": "世卫组织与英联邦秘书处续签伙伴关系协议，共同加强卫生系统并推进全民健康覆盖",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）与英联邦秘书处今日同意将双方谅解备忘录续签四年，重申双方致力于改善英联邦56个成员国人民健康与福祉的共同承诺，并进一步加强合作，共同应对紧迫的全球卫生挑战。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/15-09-2026-who-and-commonwealth-secretariat-renew-partnership-to-strengthen-health-systems-and-advance-universal-health-coverage",
+      "publishedAt": "2026-09-15T09:07:07.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "sspai-https://sspai.com/post/114613",
       "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
       "category": "科技",
@@ -1558,96 +1683,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142779",
-      "title": "【世界进行时】2026年9月11日",
-      "category": "国际",
-      "summary": "本期要点：联大主席敲槌宣布新一届会议开幕，努力重建全球信任；黎巴嫩南部局势升级，联合国秘书长要求以色列撤军；联合国也门特使：也门重陷大规模冲突风险已演变为现实；“9·11”事件25周年：联合国重申反恐与维护人权共同责任；人工智能数据中心对全球电力系统构成日益加剧的威胁；世卫组织警告：吸烟会损害生育能力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142779",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142777",
-      "title": "首支青年难民奥运代表队将参加2026年青奥会",
-      "category": "国际",
-      "summary": "难民署周五发表声明，欢迎首支青年难民奥运代表队参加赛前集训，备战下个月在塞内加尔举行的2026年青年奥运会。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142777",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142776",
-      "title": "安理会：重振反恐斗争，应对不断演变的恐怖主义威胁",
-      "category": "国际",
-      "summary": "安理会周五举行关于恐怖主义行为对国际和平与安全构成威胁的通报会，主题为“‘9·11’事件25周年：重振安理会反恐斗争”。纳塔利娅·盖尔曼和联合国反恐办公室代理主管艾哈布·奥迈什在会上发言，强调国际合作、预防努力、能力建设以及尊重国际法和人权对于应对不断演变的恐怖主义威胁至关重要。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142776",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142775",
-      "title": "地球迎来有记录以来最热的8月",
-      "category": "国际",
-      "summary": "根据欧盟“哥白尼”气候服务局、美国国家海洋和大气管理局以及美国国家航空航天局的月度报告，地球刚刚经历了有记录以来最热的8月。北半球经历了有史以来最热的夏季，而南半球则经历了接近纪录的高温冬季。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142775",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142774",
-      "title": "安理会反恐执行局趋势报告：恐怖主义宣传日益成为行动基础设施",
-      "category": "国际",
-      "summary": "安理会反恐委员会执行局发布题为《超越信息传播：恐怖主义宣传作为行动基础设施》的最新趋势报告。报告分析了恐怖组织如何日益将宣传不仅作为沟通工具，还作为招募、激进化、融资、行动规划及治理活动不可或缺的组成部分。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142774",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad#2",
       "title": "為甚麼我們會記錯911事件？",
       "category": "国际",
@@ -1661,24 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142772",
-      "title": "乌克兰：针对切尔诺贝利的无人机袭击是“在拿数百万人的安全冒险”",
-      "category": "国际",
-      "summary": "联合国开发计划署署长德克罗周四通过视频连线从基辅向联合国纽约总部的记者表示，针对切尔诺贝利核电站防护结构的无人机袭击本可能危及数百万人的安全。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142772",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
       "publishedAt": "2026-07-03T09:03:39.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:b9ae0e8a-85e9-4a73-b9e0-d941ba3da049",
-      "title": "世卫组织将首款埃博拉本迪布焦病毒诊断检测产品纳入紧急使用列表",
-      "category": "健康",
-      "summary": "今天，世界卫生组织（世卫组织）将首款针对本迪布焦病毒的分子诊断检测产品纳入了其紧急使用列表。该检测产品通过识别血液样本中的遗传物质来发现病毒，有助于快速准确地确认感染。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-      "publishedAt": "2026-07-02T16:21:23.000Z",
       "tags": [
         "健康",
         "育儿",
