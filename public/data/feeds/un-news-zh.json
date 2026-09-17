@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142806",
+      "title": "世界气象组织：全球水资源储量持续下降 水循环更加不稳定",
+      "meta": "联合国新闻 · 2026/9/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142806",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142773",
       "title": "【专题报道】重建信任：孟加拉国前外长拉赫曼“执掌”新一届联大",
       "meta": "联合国新闻 · 2026/9/16",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142772",
       "publishedAt": "2026-09-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142771",
-      "title": "联合国也门特使：也门重陷大规模冲突风险已演变为现实",
-      "meta": "联合国新闻 · 2026/9/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142771",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T13:28:04.537Z",
+  "updatedAt": "2026-09-17T18:14:08.459Z",
   "provider": "OneBench 公共资讯快照"
 }
