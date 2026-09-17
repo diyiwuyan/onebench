@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142773",
+      "title": "【专题报道】重建信任：孟加拉国前外长拉赫曼“执掌”新一届联大",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142773",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142803",
       "title": "【专题报道 | 前方视野】曼德海峡局势升级：也门冲突外溢风险对全球航运构成挑战",
       "meta": "联合国新闻 · 2026/9/16",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142771",
       "publishedAt": "2026-09-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142770",
-      "title": "“9·11”事件25周年：联合国重申反恐与维护人权共同责任",
-      "meta": "联合国新闻 · 2026/9/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142770",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T07:39:56.128Z",
+  "updatedAt": "2026-09-17T13:28:04.537Z",
   "provider": "OneBench 公共资讯快照"
 }
