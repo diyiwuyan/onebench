@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj62er0ez92lo/trad#0",
+      "title": "你敢請病假嗎？背後反映什麼人格特質和職場文化？",
+      "meta": "BBC 中文 · 2026/9/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cj62er0ez92lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T00:17:17.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#0",
+      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
+      "meta": "BBC 中文 · 2026/9/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T00:17:16.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#0",
       "title": "美國能在外太空部署哪些武器？",
       "meta": "BBC 中文 · 2026/9/16",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-09-16T14:28:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#1",
       "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-09-16T09:30:51.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad#1",
       "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad?at_medium=RSS&at_campaign=rss",
@@ -75,7 +89,7 @@
       "publishedAt": "2026-09-15T12:18:38.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad#4",
       "title": "威爾士、蘇格蘭和北愛爾蘭一起要「公投權」英國是否面臨分裂？",
       "meta": "BBC 中文 · 2026/9/15",
       "url": "https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +110,7 @@
       "publishedAt": "2026-09-14T11:25:51.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad#4",
       "title": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠為何引發爭議",
       "meta": "BBC 中文 · 2026/9/14",
       "url": "https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad?at_medium=RSS&at_campaign=rss",
@@ -152,20 +166,6 @@
       "publishedAt": "2026-09-11T05:31:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad#4",
-      "title": "間諜、戰略與錯失的機會：911的教訓至今仍在消化",
-      "meta": "BBC 中文 · 2026/9/11",
-      "url": "https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T05:31:09.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#4",
-      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，難屬傷痛難癒",
-      "meta": "BBC 中文 · 2026/9/11",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T00:22:53.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czezw30076zo/trad#2",
       "title": "為甚麼Gen Z的測試成績正在下跌？",
       "meta": "BBC 中文 · 2026/9/10",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T21:18:40.151Z",
+  "updatedAt": "2026-09-17T00:32:34.130Z",
   "provider": "OneBench 公共资讯快照"
 }

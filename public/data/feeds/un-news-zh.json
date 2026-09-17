@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142801",
+      "title": "联合国：阿富汗“稳定”局面下多重风险正在累积",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142801",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142800",
+      "title": "世界齐聚纽约：联合国大会高级别周的焦点何在?",
+      "meta": "联合国新闻 · 2026/9/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142800",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142799",
       "title": "联合国报告警告：参与捍卫人权者面临报复",
       "meta": "联合国新闻 · 2026/9/16",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142769",
       "publishedAt": "2026-09-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142754",
-      "title": "【专题报道】难以忘记——911事件二十五周年 三位联合国工作人员讲述亲身经历",
-      "meta": "联合国新闻 · 2026/9/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142754",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142765",
-      "title": "2025年超过1.71亿名学生因气候灾害中断学业",
-      "meta": "联合国新闻 · 2026/9/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142765",
-      "publishedAt": "2026-09-09T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T21:18:40.151Z",
+  "updatedAt": "2026-09-17T00:32:34.130Z",
   "provider": "OneBench 公共资讯快照"
 }

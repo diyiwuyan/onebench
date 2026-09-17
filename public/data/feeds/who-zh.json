@@ -5,6 +5,27 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:25eadee2-39bc-4fed-99f6-97f985fc516e",
+      "title": "Vanessa Kerry博士被任命为世卫组织总干事卫生韧性特使",
+      "meta": "世界卫生组织 · 2026/9/7",
+      "url": "https://www.who.int/zh/news-room/09-09-2026-dr-vanessa-kerry-appointed-to-new-role-as-who-director-general-s-special-envoy-for-health-resilience",
+      "publishedAt": "2026-09-07T13:49:07.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:60c65c54-0d10-401e-be66-5b3e0b272ea0",
+      "title": "世卫组织验证不丹已消除犬传人狂犬病",
+      "meta": "世界卫生组织 · 2026/9/4",
+      "url": "https://www.who.int/zh/news-room/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
+      "publishedAt": "2026-09-04T09:26:36.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:9a1244f0-c848-4e67-83f5-12a94b5816fb",
+      "title": "世卫组织确认东帝汶消除沙眼这一公共卫生问题",
+      "meta": "世界卫生组织 · 2026/9/3",
+      "url": "https://www.who.int/zh/news-room/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem",
+      "publishedAt": "2026-09-03T08:47:07.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:2e6ceb47-a242-4528-8fca-4e869e7f6138",
       "title": "启动全球倡议以改善猴痘疫苗的获取",
       "meta": "世界卫生组织 · 2026/9/2",
@@ -122,29 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/2",
       "url": "https://www.who.int/zh/news-room/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
       "publishedAt": "2026-07-02T16:21:23.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:a2fec9cf-3198-4dc6-8232-32018fb47386",
-      "title": "为确定本迪布焦病毒病有效疗法启动科学试验并开始招募患者",
-      "meta": "世界卫生组织 · 2026/7/2",
-      "url": "https://www.who.int/zh/news-room/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
-      "publishedAt": "2026-07-02T12:19:20.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:4c0ce00c-7fb4-440b-b0ee-217fab8ffa61",
-      "title": "仍有6.55亿人生活在无电状态，凸显实现全民能源普及目标的紧迫性",
-      "meta": "世界卫生组织 · 2026/6/24",
-      "url": "https://www.who.int/zh/news-room/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
-      "publishedAt": "2026-06-24T11:57:55.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:64448f75-f6e8-44d4-b63d-e1fc5ab269fe",
-      "title": "世卫组织敦促扩大新生儿筛查规模，以改善出生缺陷的早期发现和治疗",
-      "meta": "世界卫生组织 · 2026/6/23",
-      "url": "https://www.who.int/zh/news-room/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
-      "publishedAt": "2026-06-23T10:01:11.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T21:18:40.151Z",
+  "updatedAt": "2026-09-17T00:32:34.130Z",
   "provider": "OneBench 公共资讯快照"
 }
