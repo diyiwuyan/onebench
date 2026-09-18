@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142721",
+      "title": "【专题报道】“湖泊就是我们的生命”——乌干达渔民致力守护艾伯特湖",
+      "meta": "联合国新闻 · 2026/9/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142721",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142811",
       "title": "性别平等领域正出现政治倒退 妇女权力受到系统性削弱",
       "meta": "联合国新闻 · 2026/9/17",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142781",
       "publishedAt": "2026-09-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142780",
-      "title": "也门战事升级，流离失所危机每小时都在恶化",
-      "meta": "联合国新闻 · 2026/9/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142780",
-      "publishedAt": "2026-09-12T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T21:24:53.183Z",
+  "updatedAt": "2026-09-18T00:19:41.278Z",
   "provider": "OneBench 公共资讯快照"
 }
