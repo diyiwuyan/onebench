@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142720",
+      "title": "【专题报道】让使用清洁能源与土地修复同行",
+      "meta": "联合国新闻 · 2026/9/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142720",
+      "publishedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142816",
+      "title": "【子午播报】2026年9月18日",
+      "meta": "联合国新闻 · 2026/9/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142816",
+      "publishedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142815",
+      "title": "安理会因“自动恢复”机制争议未能延长伊朗制裁专家小组任期",
+      "meta": "联合国新闻 · 2026/9/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142815",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142721",
       "title": "【专题报道】“湖泊就是我们的生命”——乌干达渔民致力守护艾伯特湖",
       "meta": "联合国新闻 · 2026/9/17",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/14",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
       "publishedAt": "2026-09-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142784",
-      "title": "人权高专呼吁采取紧急行动应对前所未有的人工智能风险",
-      "meta": "联合国新闻 · 2026/9/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142784",
-      "publishedAt": "2026-09-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142782",
-      "title": "【专题报道 | 前方视野】填补“地球缺失的条约”：推动建立全球首个灾害保护国际条约",
-      "meta": "联合国新闻 · 2026/9/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142782",
-      "publishedAt": "2026-09-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142781",
-      "title": "古特雷斯出席金砖国家峰会，呼吁塑造包容性的全球增长",
-      "meta": "联合国新闻 · 2026/9/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142781",
-      "publishedAt": "2026-09-13T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:58:18.738Z",
+  "updatedAt": "2026-09-18T17:40:47.761Z",
   "provider": "OneBench 公共资讯快照"
 }
