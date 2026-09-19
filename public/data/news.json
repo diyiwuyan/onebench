@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T20:54:27.872Z",
-  "expiresAt": "2026-09-19T02:54:27.872Z",
+  "generatedAt": "2026-09-19T00:21:21.993Z",
+  "expiresAt": "2026-09-19T06:21:21.993Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,168 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-19/10699327.shtml",
+      "title": "9月19日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-19/10699327.shtml",
+      "publishedAt": "2026-09-18T23:23:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699326.shtml",
+      "title": "普京对新版国家武器装备计划提出要求",
+      "category": "综合",
+      "summary": "中新社莫斯科9月18日电 俄罗斯总统普京18日晚主持召开俄军事工业委员会会议，提议讨论新版国家武器装备计划草案和国防工业综合体发展计划。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699326.shtml",
+      "publishedAt": "2026-09-18T23:19:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-19/10699325.shtml",
+      "title": "AI何以成为年轻职场人的“情绪搭子”？",
+      "category": "综合",
+      "summary": "AI何以成为年轻职场人的“情绪搭子”？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699325.shtml",
+      "publishedAt": "2026-09-18T22:43:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml",
+      "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+      "category": "综合",
+      "summary": "当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。(总台记者 张颖哲）",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml",
+      "publishedAt": "2026-09-18T22:40:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml",
+      "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
+      "category": "综合",
+      "summary": "当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml",
+      "publishedAt": "2026-09-18T22:39:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699322.shtml",
+      "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
+      "category": "综合",
+      "summary": "当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699322.shtml",
+      "publishedAt": "2026-09-18T22:38:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml",
+      "title": "俄罗斯对欧盟新一轮制裁采取反制措施",
+      "category": "综合",
+      "summary": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml",
+      "publishedAt": "2026-09-18T22:31:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699320.shtml",
+      "title": "荷兰向加沙地带提供1200万欧元紧急医疗援助",
+      "category": "综合",
+      "summary": "中新社海牙9月18日电 荷兰政府18日宣布，将向加沙地带提供1200万欧元紧急医疗援助，用于救治加沙地带患病儿童并改善当地医疗服务条件。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699320.shtml",
+      "publishedAt": "2026-09-18T22:31:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699321.shtml",
+      "title": "马克龙就地缘政治形势等议题与法国各主要党派代表会谈",
+      "category": "综合",
+      "summary": "中新社巴黎9月18日电 (记者 李洋)法国总统马克龙当地时间18日就地缘政治形势等议题与各主要党派代表举行会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699321.shtml",
+      "publishedAt": "2026-09-18T22:30:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699318.shtml",
       "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
@@ -410,164 +572,146 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
-      "title": "解码生成式人工智能 “科创燃梦”首场公益科普直播课开播",
-      "category": "综合",
-      "summary": "中新网北京9月18日电 (记者 孙自法)“科创燃梦——青少年科技素养实训计划”首场公益科普直播课近日开播，旨在助力广大青少年解码生成式人工智能(AI)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
-      "publishedAt": "2026-09-18T14:13:41.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142824",
+      "title": "古特雷斯：维和行动应以和平协议或停火为基础",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周五在安理会关于联合国维和行动的辩论中表示，维和首先是一种政治工具，其部署旨在支持政治解决方案，而不是取代政治解决方案。只有在达成和平协议或至少达成坚实的停火协议后，才应部署联合国维和行动。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142824",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699254.shtml",
-      "title": "天津：将推动智能助残器具纳入补贴目录",
-      "category": "综合",
-      "summary": "中新网天津9月18日电 (薛淳月)天津市残联理事长李建存17日在发布会上介绍，“十五五”时期，天津将建立科技助残产品评估机制，对成熟可靠、适配民生需求的智能助残器具，按流程纳入天津市残疾人辅助器具补贴目录，通过政策兜底降低残疾人使用成本。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699254.shtml",
-      "publishedAt": "2026-09-18T14:13:33.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142825",
+      "title": "【世界进行时】2026年9月18日",
+      "category": "国际",
+      "summary": "本期要点：伊朗核监督形势恶化，安理会因“自动恢复”机制争议，未能延长伊朗制裁专家小组任期；也门战事升级，流离失所危机和曼德海峡安全风险加剧；联合国人权报告记录俄乌战争期间约1004起性暴力案件；最新调查显示，大规模战争成为受访者最担忧的全球性风险之一；联合国同时警告，全球性别平等正面临倒退。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142825",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699280.shtml",
-      "title": "光韵流转夜上海：古树“说话” 游人“步步生花”",
-      "category": "综合",
-      "summary": "中新网上海9月18日电(记者 陈静)以“光韵上海，影动世界”为主题的第三届上海国际光影节18日举行。夜幕降临，在黄浦主会场延中绿地，可与120岁古树进行“对话”的《棫朴之咏(朴翁)》以及漫步其间“步步生花”的《光影花路》格外引人注目。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699280.shtml",
-      "publishedAt": "2026-09-18T14:09:49.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142823",
+      "title": "暴力只会推迟问题的解决：联合国大会主席谈信任、人工智能及罗兴亚危机的启示",
+      "category": "国际",
+      "summary": "哈利勒·拉赫曼在联合国大会第81届会议上接过主席木槌，此时他所服务的这一组织正面临他所称的“信任危机”——而他本人已在该组织以各种身份服务了35年。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142823",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/09-18/10699300.shtml",
-      "title": "奋楫扬帆，续写狮子山下新传奇",
-      "category": "综合",
-      "summary": "原标题：奋楫扬帆 续写狮子山下新传奇(望海楼)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-18/10699300.shtml",
-      "publishedAt": "2026-09-18T14:09:33.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142822",
+      "title": "世卫组织：欧洲女性卫生工作者月收入比男性低28%",
+      "category": "国际",
+      "summary": "世界卫生组织欧洲区域办事处周五发布的一份涵盖43个国家的新报告显示，在世卫组织欧洲区域的卫生和护理从业人员中，女性占近77%，但每小时收入比男性低19%，月收入低28%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142822",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699299.shtml",
-      "title": "外媒点赞中国制造业高质量发展",
-      "category": "综合",
-      "summary": "全球媒体聚焦 | 外媒点赞中国制造业高质量发展",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699299.shtml",
-      "publishedAt": "2026-09-18T14:07:55.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142821",
+      "title": "妇女署：女性处于埃博拉抗疫前线",
+      "category": "国际",
+      "summary": "联合国妇女署驻刚果民主共和国代表蒙博周五在日内瓦强调，妇女身处埃博拉抗疫前线，在医疗中心、家中和社区照顾病患，清洗并安葬死者，负责取水和觅食，有时甚至为此付出生命。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142821",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699247.shtml",
-      "title": "东博会：“香港认证”赋能内地食品企业出海东盟",
-      "category": "综合",
-      "summary": "中新社南宁9月18日电 (俞靖)“出海东盟新机遇：香港助力内地食品企业拓市场”专题研讨会18日在广西南宁举行，以“香港通道 连接全球”为主题的香港馆同步在第23届中国—东盟博览会上开放。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699247.shtml",
-      "publishedAt": "2026-09-18T14:06:19.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142820",
+      "title": "联合国人权报告：性暴力成为乌克兰战争中的酷刑、恐吓和胁迫手段",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员办事处周五发布的一份报告指出，自2022年2月24日俄罗斯对乌克兰发动全面武装攻击以来，性暴力被作为酷刑、恐吓和胁迫手段，针对乌克兰平民和战俘实施。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142820",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
-      "title": "北京制定专项行动方案发展词元经济",
-      "category": "综合",
-      "summary": "中新社北京9月18日电 (记者 吕少威)根据18日发布的《北京市加快词元经济发展的行动方案(2026—2028年)》(下称方案)，北京将率先培育智能经济新形态，以词元(Token)为抓手，发展词元经济新增量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
-      "publishedAt": "2026-09-18T14:06:09.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142819",
+      "title": "难民署：数千名逃离也门的难民抵达吉布提，亟需援助",
+      "category": "国际",
+      "summary": "难民署周五表示，不到一周时间里，近3000人冒着生命危险穿越曼德海峡抵达吉布提。不断升级的暴力冲突正迫使更多家庭逃离也门。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142819",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml",
-      "title": "福建莆田罗屿迎来第70艘次40万吨级大型船舶",
-      "category": "综合",
-      "summary": "中新网莆田9月18日电 (林孟 陈航翔)18日，在莆田出入境边防检查站监护下，中国香港籍40万吨级铁矿船“矿石宁波”轮正停泊罗屿作业区9号泊位卸货。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml",
-      "publishedAt": "2026-09-18T14:06:01.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142818",
+      "title": "古特雷斯：现在是兑现可持续发展目标承诺的时候了",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周五在纽约举行的“可持续发展目标时刻”活动上表示，可持续发展目标是会员国共同制定并通过的承诺，旨在消除贫困与饥饿、打击不平等与排斥、保护地球，不让任何人掉队。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142818",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699292.shtml",
-      "title": "西安一唐墓发现罕见唐诗实物遗存 刻有“火树银花”“星桥锁开”等字样",
-      "category": "综合",
-      "summary": "中新社西安9月18日电 (记者 李一璠 阿琳娜)记者18日从陕西省考古研究院获悉，在西安市长安区大居安村发掘的李承嘉墓中出土一件陶马踏板，器底刻有12字，专家推测是节选摹写的唐代诗人苏味道的《正月十五夜》，属罕见的唐代诗歌刻字实物遗存。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699292.shtml",
-      "publishedAt": "2026-09-18T14:05:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1403,60 +1547,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142792",
-      "title": "人权高专：民主植根于参与、问责和对人权的尊重",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周二在奥地利议会为纪念国际民主日发表视频致辞。他表示，民主植根于自由、参与、问责以及对人权和人类尊严的尊重，但如今民主的根基正在动摇。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142792",
-      "publishedAt": "2026-09-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142791",
-      "title": "联合国调查：全球对大规模战争的担忧超过其他任何全球性风险",
-      "category": "国际",
-      "summary": "两年前，对于那些致力于评估全球风险的专家而言，大规模战争爆发的可能性还像是一个遥远的假设。而根据最新的《联合国全球风险报告》，如今这一风险已跃居他们最担忧事项的首位。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142791",
-      "publishedAt": "2026-09-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142790",
-      "title": "【子午播报】2026年9月15日",
-      "category": "国际",
-      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，一场直播，一杯咖啡，开启南南合作的新旅程。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142790",
-      "publishedAt": "2026-09-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:fecb0912-4a7d-4b35-a9f8-c173d83fc51c",
       "title": "世卫组织与英联邦秘书处续签伙伴关系协议，共同加强卫生系统并推进全民健康覆盖",
       "category": "健康",
@@ -1508,92 +1598,19 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142752",
-      "title": "【专题报道】沙漠绿盾：红树林如何成为气候变化时代的天然防线",
-      "category": "国际",
-      "summary": "提到阿联酋首都阿布扎比，人们很难把“沙漠”和“森林”联系在一起。这里气候干旱，陆地植被有限，但沿着海岸，一片片红树林却呈现出鲜明的绿色。潮水涨落之间，红树林的根系扎入泥滩，鱼类在这里觅食、繁育，游客则划着皮艇穿行在林间水道。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142752",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "id": "who-zh-urn:uuid:b3c946b3-54e5-479a-a7d7-479374e618c9",
+      "title": "智利成为南美洲首个被验证消除犬传播狂犬病这一公共卫生问题的国家",
+      "category": "健康",
+      "summary": "智利成为南美洲首个经世界卫生组织（世卫组织）验证已消除犬传播狂犬病这一公共卫生问题的国家。这一验证彰显该国50多年来已无人罹患狂犬病，并确认该国有能力防止再度发生传播。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/14-09-2026-chile-becomes-first-country-in-south-america-validated-for-eliminating-dog-transmitted-rabies-as-a-public-health-problem",
+      "publishedAt": "2026-09-14T11:47:04.000Z",
       "tags": [
-        "国际",
-        "公共政策",
-        "教育",
         "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142788",
-      "title": "一杯咖啡的南南之旅",
-      "category": "国际",
-      "summary": "一杯咖啡，可以走多远？从卢旺达的火山高地，到中国消费者的手中；从一场直播，到人与人之间的连接——一颗咖啡豆，也许正讲述着南南合作的另一种可能。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142788",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142787",
-      "title": "十年间移民汇款额增长94% 2025年达到7286亿美元",
-      "category": "国际",
-      "summary": "国际农业发展基金周一发布的最新报告显示，2025年流向中低收入国家的移民汇款总额达到7286亿美元，是当年全球官方发展援助总额的四倍多，也超过了这些国家获得的外国直接投资总额。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142787",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142786",
-      "title": "铀资源储备充足但需持续投资支持全球核电增长",
-      "category": "国际",
-      "summary": "国际原子能机构和经合组织核能署联合发布的最新报告《2026年铀资源、生产与需求》指出，全球铀行业正在响应世界各地对发展新核电装机容量日益增长的兴趣，近年来铀勘探和矿山开发支出显著增加。这些投资对于满足未来需求至关重要。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142786",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142785",
-      "title": "原子能机构：伊朗核监督形势恶化，必须重返外交谈判渠道",
-      "category": "国际",
-      "summary": "国际原子能机构总干事格罗西周一在国际原子能机构大会第70届常会上表示，国际原子能机构对伊朗核计划的监督形势在2026年恶化，伊朗核材料和核设施的监督问题引发严重核扩散担忧，亟需以最高优先级解决。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
       "publishedAt": "2026-07-08T11:51:29.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:34830c3c-06fa-44be-a871-13a6eccba77c",
-      "title": "医疗产品警报2026年第3期",
-      "category": "健康",
-      "summary": "本期世卫组织医疗产品警报涉及两批伪造的兆珂（达雷妥尤单抗）注射液。这些伪造产品在马尔代夫和墨西哥被发现。两国的国家监管机构已于2026年5月和6月向世卫组织报告了相关事件。伪造产品由未经授权的经销商提供，并且至少在一例情况中，医院收到了这些伪造产品。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
-      "publishedAt": "2026-07-03T09:03:39.000Z",
       "tags": [
         "健康",
         "育儿",
