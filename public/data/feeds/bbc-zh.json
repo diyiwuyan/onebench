@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad#0",
+      "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
+      "meta": "BBC 中文 · 2026/9/19",
+      "url": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T10:40:57.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad#2",
       "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
       "meta": "BBC 中文 · 2026/9/18",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-09-18T08:46:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad#1",
       "title": "美籍緬甸裔學者涉間諜罪在華監禁 其妻籲特朗普晤習近平時重提此案",
       "meta": "BBC 中文 · 2026/9/18",
       "url": "https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad?at_medium=RSS&at_campaign=rss",
@@ -55,7 +62,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#0",
-      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+      "title": "當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
       "meta": "BBC 中文 · 2026/9/18",
       "url": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T00:19:45.000Z"
@@ -82,7 +89,7 @@
       "publishedAt": "2026-09-17T00:17:16.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#3",
       "title": "美國能在外太空部署哪些武器？",
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
@@ -206,15 +213,8 @@
       "meta": "BBC 中文 · 2026/8/14",
       "url": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T05:11:59.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
-      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
-      "meta": "BBC 中文 · 2026/8/4",
-      "url": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-19T07:20:19.127Z",
+  "updatedAt": "2026-09-19T12:29:56.795Z",
   "provider": "OneBench 公共资讯快照"
 }
