@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad#0",
+      "title": "香港首任特首董建華葬禮：規格比照霍英東 石泰峰致悼詞",
+      "meta": "BBC 中文 · 2026/9/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T11:21:43.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad#0",
       "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
       "meta": "BBC 中文 · 2026/9/20",
@@ -61,7 +68,7 @@
       "publishedAt": "2026-09-18T01:08:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#4",
       "title": "當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
       "meta": "BBC 中文 · 2026/9/18",
       "url": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
@@ -138,13 +145,6 @@
       "publishedAt": "2026-09-14T11:25:51.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad#4",
-      "title": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠為何引發爭議",
-      "meta": "BBC 中文 · 2026/9/14",
-      "url": "https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T09:03:04.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad#3",
       "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
       "meta": "BBC 中文 · 2026/9/14",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-14T05:11:59.000Z"
     }
   ],
-  "updatedAt": "2026-09-20T04:54:12.965Z",
+  "updatedAt": "2026-09-20T11:24:26.771Z",
   "provider": "OneBench 公共资讯快照"
 }
