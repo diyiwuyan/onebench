@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T20:40:32.334Z",
-  "expiresAt": "2026-09-20T02:40:32.334Z",
+  "generatedAt": "2026-09-20T00:09:13.787Z",
+  "expiresAt": "2026-09-20T06:09:13.787Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,330 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699760.shtml",
+      "title": "4A景区被摘牌或降级，“盘活不良旅游资产”成必选项",
+      "category": "综合",
+      "summary": "6家4A级旅游景区质量等级被一次性取消，还有1家4A级景区被予以降级处理，安徽省文化和旅游厅近日发布的一则公告，揭开了部分4A级景区长期“重牌子、轻服务”“重创建、轻管理”的问题，同时也以一种行政刚性手段倒逼旅游景区强化主体责任，加快转型升级。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699760.shtml",
+      "publishedAt": "2026-09-20T00:01:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml",
+      "title": "“送学游”走红 如何让开学季“过客”变为城市游“常客”？",
+      "category": "综合",
+      "summary": "“送学游”走红背后是越来越多家庭更注重情感仪式",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml",
+      "publishedAt": "2026-09-19T23:59:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-20/10699757.shtml",
+      "title": "入住即入戏 年轻人爱上“沉浸式剧宿”",
+      "category": "综合",
+      "summary": "在横店“入戏里”酒店，陈发迎来了人生中第一次“开机”。“一进大堂，包租婆就迎上来让我交房租，叫我‘演员老师’，还给我发开机红包，一下就让我代入了。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10699757.shtml",
+      "publishedAt": "2026-09-19T23:56:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699758.shtml",
+      "title": "人这一辈子，一定要去一趟绥芬河！",
+      "category": "综合",
+      "summary": "循着俄式列巴与红菜汤的香气，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699758.shtml",
+      "publishedAt": "2026-09-19T23:53:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699756.shtml",
+      "title": "从“标配”到“按需” 飞机餐为何不再“一刀切”",
+      "category": "综合",
+      "summary": "“以前坐飞机，发餐时不管饿不饿，接过来吃两口就放下了。现在手机上点一下‘弃餐’，里程直接累计到我的账户，既环保又实惠。”经常往返京沪两地的95后旅客陈励(化名)，向记者展示了他最近一次航班上的操作记录。在App上，陈励选择了“绿色出行，弃餐有礼”，获得了非定级里程奖励，“反正短途也不饿，积分攒着换张机票‘不香’吗？”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699756.shtml",
+      "publishedAt": "2026-09-19T23:52:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-20/10699755.shtml",
+      "title": "今天，亚运赛场将决出31金！冲金点一览",
+      "category": "综合",
+      "summary": "2026亚运会今天迎来",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699755.shtml",
+      "publishedAt": "2026-09-19T23:45:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699754.shtml",
+      "title": "今天起 装修、交物业费都能用这笔钱了",
+      "category": "综合",
+      "summary": "今天起，新修订的《住房公积金管理条例》(以下简称《条例》)正式施行。这是该条例继2002年、2019年之后的又一次系统性重大调整。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699754.shtml",
+      "publishedAt": "2026-09-19T23:35:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699753.shtml",
+      "title": "故乡的“新移民”",
+      "category": "综合",
+      "summary": "编者按",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699753.shtml",
+      "publishedAt": "2026-09-19T23:24:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-20/10699751.shtml",
+      "title": "刷新多项纪录！我国硬核科技与重大工程捷报频传",
+      "category": "综合",
+      "summary": "本周",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699751.shtml",
+      "publishedAt": "2026-09-19T23:20:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/kong/2026/09-20/10699750.shtml",
+      "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
+      "category": "综合",
+      "summary": "中新网9月20日电 由于中东局势紧张，当地时间19日，美国国务院发布安全提醒，建议身处中东地区的美国公民保持高度警惕，其他地区的美国公民慎重前往中东地区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/kong/2026/09-20/10699750.shtml",
+      "publishedAt": "2026-09-19T23:14:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-20/10699749.shtml",
+      "title": "9月20日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-20/10699749.shtml",
+      "publishedAt": "2026-09-19T22:57:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/kong/2026/09-20/10699748.shtml",
+      "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+      "category": "综合",
+      "summary": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/kong/2026/09-20/10699748.shtml",
+      "publishedAt": "2026-09-19T22:44:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
+      "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+      "category": "综合",
+      "summary": "中新网9月20日电 据卡塔尔半岛电视台报道，当地时间19日，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊接受该媒体采访时，阐述了伊朗的谈判条件，并表示卡塔尔作为调解方已向美国方面转达条件，正等待美国总统特朗普的回应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
+      "publishedAt": "2026-09-19T22:33:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699746.shtml",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联",
+      "category": "综合",
+      "summary": "记者19日晚从四川省攀枝花市盐边县泥石流前方救援指挥部现场获悉，截至9月19日22时，救援人员搜救到2名失联人员，已无生命体征；其余3名失联人员正在全力搜救中。(央视新闻客户端）",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699746.shtml",
+      "publishedAt": "2026-09-19T22:01:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml",
+      "title": "伊朗称已向美政府传达7项谈判条件",
+      "category": "综合",
+      "summary": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的七项条件。伊朗发出的信息明确，即如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml",
+      "publishedAt": "2026-09-19T22:00:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699744.shtml",
+      "title": "东博会公众开放日怎么逛？三个“首次”别错过",
+      "category": "综合",
+      "summary": "9月20日至21日，第23届中国—东盟博览会迎来公众开放日。开放日第一天，怎么逛？记者为你划出三个必看“首次”亮点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699744.shtml",
+      "publishedAt": "2026-09-19T21:59:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-20/10699743.shtml",
+      "title": "（台湾写真）《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
+      "category": "综合",
+      "summary": "中新社台北9月20日电 题：《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699743.shtml",
+      "publishedAt": "2026-09-19T21:56:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699742.shtml",
+      "title": "第58届东盟经济部长会议在菲举行 聚焦提升区域竞争力",
+      "category": "综合",
+      "summary": "中新社马尼拉9月19日电 (记者 周璟)第58届东盟经济部长会议及相关会议19日在菲律宾帕赛市举行。菲律宾贸易和工业部长克里斯蒂娜·罗克主持会议。会议围绕贸易投资、数字化转型、中小微企业发展、创新和可持续增长等议题展开讨论。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699742.shtml",
+      "publishedAt": "2026-09-19T21:56:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-20/10699741.shtml",
       "title": "怎么折都有面？这座北方小城用折叠箱房圈粉全球",
@@ -238,330 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699717.shtml",
       "publishedAt": "2026-09-19T13:59:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-19/10699716.shtml",
-      "title": "“巴蜀鬼才”魏明伦遗作《铁木高娃》在成都首演",
-      "category": "综合",
-      "summary": "中新社成都9月19日电 (单鹏)由成都市川剧研究院排演的新编川剧《铁木高娃》19日晚在成都锦江剧场首演。该剧是著名剧作家、“巴蜀鬼才”魏明伦的遗作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699716.shtml",
-      "publishedAt": "2026-09-19T13:59:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/09-19/10699714.shtml",
-      "title": "第十三届丝绸之路国际电影节西安开幕 埃及为主宾国",
-      "category": "综合",
-      "summary": "中新社西安9月19日电 (记者 李一璠 杨英琦)第十三届丝绸之路国际电影节19日晚在陕西西安开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/09-19/10699714.shtml",
-      "publishedAt": "2026-09-19T13:58:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
-      "title": "突发：沙特首都主要机场附近出现大量黑烟",
-      "category": "综合",
-      "summary": "中新网9月19日电 据路透社等外媒当地时间19日报道，沙特首都利雅得主要机场附近当天出现大量黑烟。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
-      "publishedAt": "2026-09-19T13:54:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-19/10699710.shtml",
-      "title": "2026长江文化艺术季在武汉开幕",
-      "category": "综合",
-      "summary": "中新社武汉9月19日电 (记者 梁婷)2026长江文化艺术季19日在武汉启幕，汇聚长江流域及全国优质文化资源，以多元文化艺术形式全方位展示长江文明、讲述中国故事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699710.shtml",
-      "publishedAt": "2026-09-19T13:50:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-19/10699709.shtml",
-      "title": "中国科研机构发布“太空交管平台”等三大商业航天成果",
-      "category": "综合",
-      "summary": "中新社北京9月19日电 (记者 孙自法)中国科学院空天信息创新研究院(空天院)19日向媒体通报说，其旗下齐鲁空天信息研究院(济南空天信息山东省实验室)当天集中发布三项商业航天领域重要成果，包括先进SAR(合成孔径雷达)卫星载荷、太空交通管理综合服务平台、低轨卫星轨道精密测量服务系统。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699709.shtml",
-      "publishedAt": "2026-09-19T13:50:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-19/10699713.shtml",
-      "title": "港澳青少年升旗队代表在北京参观抗战遗址",
-      "category": "综合",
-      "summary": "9月19日，“向国旗敬礼”港澳青少年升旗队代表访京团走进北京焦庄户地道战遗址纪念馆参访。该纪念馆位于顺义区东北部的龙湾屯镇焦庄户村，是二战时期抗击日本侵略者的一处重要战争遗址。图为访京团成员在纪念馆中驻足观看展品，了解抗战历史。中新社记者 陈建新 摄 9月19日，“向国旗敬礼”港澳青少年升旗队代表访京团走进北京焦庄户地道战遗址纪念馆参访。该纪念馆位于顺义区东",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699713.shtml",
-      "publishedAt": "2026-09-19T13:49:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-19/10699708.shtml",
-      "title": "台湾摩友在渝打卡摩博会 称大陆摩企令人“大开眼界”",
-      "category": "综合",
-      "summary": "中新社重庆9月19日电 (梁钦卿)“期待大陆产摩托车能早日进入台湾市场，让更多岛内摩友感受这场盛会。”在19日于重庆开幕的第二十四届中国国际摩托车博览会(下称“摩博会”)上，来自台湾的陈文仁在试驾多款摩托车后称，如今大陆把不少汽车领域前沿技术应用到摩托车上，让人“大开眼界”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699708.shtml",
-      "publishedAt": "2026-09-19T13:49:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-19/10699706.shtml",
-      "title": "绿水青山、冰天雪地都是金山银山——黑龙江省漠河市深入践行“两山”理念透视",
-      "category": "综合",
-      "summary": "原标题：绿水青山、冰天雪地都是金山银山",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699706.shtml",
-      "publishedAt": "2026-09-19T13:38:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-19/10699468.shtml",
-      "title": "多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）",
-      "category": "综合",
-      "summary": "秋高气爽，运动健身风尚为城乡带来活力；各地“城超”“村超”火热开展，体育消费持续升温；亚运备战紧锣密鼓，我国体育健儿全力冲刺……“十五五”开局之年，新时代体育事业蓬勃发展的鲜活画卷正徐徐铺展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699468.shtml",
-      "publishedAt": "2026-09-19T13:34:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-19/10699594.shtml",
-      "title": "学习卡｜制造业争“先”，习近平指明前进方向",
-      "category": "综合",
-      "summary": "9月16日至17日，全国先进制造业大会在京召开，会上传达了习近平总书记就发展先进制造业作出的重要指示。总书记强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699594.shtml",
-      "publishedAt": "2026-09-19T13:29:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-19/10699667.shtml",
-      "title": "献礼建碑75周年 《普洱民族团结誓词碑光荣传统研究专辑》在昆首发",
-      "category": "综合",
-      "summary": "中新网昆明9月19日电 (时文枝 白玲)2026年是普洱民族团结誓词碑(以下简称誓词碑)建碑75周年。《普洱民族团结誓词碑光荣传统研究专辑》新书首发式19日在昆明举行。该专辑系统总结誓词碑光荣传统的理论研究与传承实践，深入探讨各族民众团结奋进的历史经验与时代价值，为讲好“盟誓之城”故事提供扎实的学理支撑和内容蓝本。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-19/10699667.shtml",
-      "publishedAt": "2026-09-19T13:26:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-19/10699649.shtml",
-      "title": "2026年全国科普月推出欢乐科学游园活动 大科学装置等集中展出",
-      "category": "综合",
-      "summary": "中新网北京9月19日电 (记者 孙自法)中国科技馆9月19日发布信息说，2026年全国科普月欢乐科学游园活动当天在国家速滑馆“冰丝带”推出，集中展出5个大科学装置以及原创科普展品共60余件(套)，把一批前沿科创成果从实验室“搬到”公众身边。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699649.shtml",
-      "publishedAt": "2026-09-19T13:25:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-19/10699641.shtml",
-      "title": "广西海事开展平陆运河通航后首次智慧“双线”联动巡航",
-      "category": "综合",
-      "summary": "中新网钦州9月19日电(黄艳梅 蒋瑞卿)为护航平陆运河江海联运体系安全顺畅运行，筑牢水上安全防线，广西海事部门近日组织开展平陆运河通航后首次智慧“双线”联动一体化巡航，采取线上智慧感知、线下实地核查相结合的方式，对平陆运河入海口段通航安全状况开展检查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699641.shtml",
-      "publishedAt": "2026-09-19T13:25:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-19/10699637.shtml",
-      "title": "天府国际种业展亮出多项农业科技成果 助力好品种走出实验室",
-      "category": "综合",
-      "summary": "中新网成都9月19日电(陈选斌)烫火锅专用白菜品种“中秀1号”、春天开花的枇杷栽培品种、精准柔性采摘的红花椒采摘机器人……19日，2026年天府国际种业展暨第六届“藏粮于技”院士专家大讲堂在成都邛崃天府现代种业园启幕，四川省农业科学院、中国农业科学院都市农业研究所、四川农业大学等科研单位集中发布一批育种、装备及园艺种业创新成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699637.shtml",
-      "publishedAt": "2026-09-19T13:24:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-19/10699636.shtml",
-      "title": "青海省第二十二届农牧民男子篮球赛开赛",
-      "category": "综合",
-      "summary": "中新网西宁9月19日电 (记者 孙睿)9月19日，青海省第二十二届农牧民男子篮球赛在西宁市城西区全民健身中心开赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699636.shtml",
-      "publishedAt": "2026-09-19T13:24:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-19/10699668.shtml",
-      "title": "杨秀伟：安岳石刻文化如何构筑中华民族共有精神家园？",
-      "category": "综合",
-      "summary": "中新网资阳9月19日电 题：杨秀伟：安岳石刻文化如何构筑中华民族共有精神家园？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-19/10699668.shtml",
-      "publishedAt": "2026-09-19T13:22:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699707.shtml",
-      "title": "认知·锐见｜警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？",
-      "category": "综合",
-      "summary": "5月27日，日本参议院全体会议上出现了值得警惕的一幕：时任数字大臣松本尚的国会答辩稿，由政务AI系统“源内”起草，经工作人员核验与本人审定后正式提交。所谓“源内”，是日本政府耗资44亿日元、面向公职人员开放的生成式AI大模型，表面是“提升行政效率的数字化系统”，实质却是日本右翼推进历史修正主义的新型认知战武器。“源内”将历史修正主义从舆论宣传升级为算法系统，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699707.shtml",
-      "publishedAt": "2026-09-19T13:18:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699643.shtml",
-      "title": "2026年中国—东盟人工智能产业创新中心研讨会在广西南宁召开",
-      "category": "综合",
-      "summary": "中新网南宁9月19日电(张广权 肖景凤)2026年中国—东盟人工智能产业创新中心研讨会18日在广西南宁召开。来自马来西亚、新加坡、印度尼西亚、柬埔寨、泰国、缅甸、东帝汶等东盟国家的政府部门、国际组织、科研机构、行业组织和企业的代表齐聚一堂，围绕人工智能合作的战略蓝图、产业赋能路径及治理体系构建进行交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699643.shtml",
-      "publishedAt": "2026-09-19T13:14:36.000Z",
       "tags": [
         "国内",
         "社会",
