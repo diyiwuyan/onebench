@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142828",
+      "title": "联合国秘书长：非洲经济在逆风中释放强劲增长信号",
+      "meta": "联合国新闻 · 2026/9/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142828",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142824",
       "title": "古特雷斯：维和行动应以和平协议或停火为基础",
       "meta": "联合国新闻 · 2026/9/18",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/15",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142794",
       "publishedAt": "2026-09-15T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142793",
-      "title": "人权高专：遭受猛烈轰炸三年后在加沙搜寻遗骸加剧了巴勒斯坦人的创伤",
-      "meta": "联合国新闻 · 2026/9/15",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142793",
-      "publishedAt": "2026-09-15T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-20T16:06:42.680Z",
+  "updatedAt": "2026-09-20T18:47:48.616Z",
   "provider": "OneBench 公共资讯快照"
 }
