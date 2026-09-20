@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad#0",
+      "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
+      "meta": "BBC 中文 · 2026/9/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T03:05:30.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad#0",
       "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
       "meta": "BBC 中文 · 2026/9/19",
@@ -40,13 +47,6 @@
       "publishedAt": "2026-09-18T08:46:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad#1",
-      "title": "美籍緬甸裔學者涉間諜罪在華監禁 其妻籲特朗普晤習近平時重提此案",
-      "meta": "BBC 中文 · 2026/9/18",
-      "url": "https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T05:50:44.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad#0",
       "title": "澳洲收緊移民政策：管制留學生、背包客，打擊「簽證跳轉」",
       "meta": "BBC 中文 · 2026/9/18",
@@ -54,7 +54,7 @@
       "publishedAt": "2026-09-18T05:15:07.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad#1",
       "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
       "meta": "BBC 中文 · 2026/9/18",
       "url": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-14T05:11:59.000Z"
     }
   ],
-  "updatedAt": "2026-09-20T00:09:13.787Z",
+  "updatedAt": "2026-09-20T04:54:12.965Z",
   "provider": "OneBench 公共资讯快照"
 }
