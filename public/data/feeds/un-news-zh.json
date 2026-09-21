@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142829",
+      "title": "联合国独立科学小组：AI失控风险加剧",
+      "meta": "联合国新闻 · 2026/9/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142829",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142810",
+      "title": "【现场直击】联大高级别周特别报道",
+      "meta": "联合国新闻 · 2026/9/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142810",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142828",
       "title": "联合国秘书长：非洲经济在逆风中释放强劲增长信号",
       "meta": "联合国新闻 · 2026/9/20",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/16",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142796",
       "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142795",
-      "title": "联合国：曼德海峡局势升级凸显防止也门冲突威胁国际航道的紧迫性",
-      "meta": "联合国新闻 · 2026/9/15",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142795",
-      "publishedAt": "2026-09-15T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142794",
-      "title": "尼泊尔逾1.7万名受洪水影响的儿童亟需心理健康和心理社会支持",
-      "meta": "联合国新闻 · 2026/9/15",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142794",
-      "publishedAt": "2026-09-15T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-21T12:48:42.698Z",
+  "updatedAt": "2026-09-21T19:27:45.240Z",
   "provider": "OneBench 公共资讯快照"
 }
