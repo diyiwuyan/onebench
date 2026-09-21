@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142833",
+      "title": "联合国谴责胡塞武装对利雅得发动袭击，也门流离失所人数激增至13万余人",
+      "meta": "联合国新闻 · 2026/9/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142833",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142832",
+      "title": "我们并非无能为力：联合国秘书长敦促世界各国领导人为和平投入更多资源",
+      "meta": "联合国新闻 · 2026/9/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142832",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142831",
+      "title": "刚果（金）启动埃博拉疫苗试验",
+      "meta": "联合国新闻 · 2026/9/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142831",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142830",
+      "title": "建设一个更具大流行病防范和应对能力的世界",
+      "meta": "联合国新闻 · 2026/9/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142830",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142829",
       "title": "联合国独立科学小组：AI失控风险加剧",
       "meta": "联合国新闻 · 2026/9/21",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/9/16",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142800",
       "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142799",
-      "title": "联合国报告警告：参与捍卫人权者面临报复",
-      "meta": "联合国新闻 · 2026/9/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142799",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142798",
-      "title": "世卫组织：刚果（金）埃博拉疫情传播有所放缓 但仍在夺走生命",
-      "meta": "联合国新闻 · 2026/9/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142798",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142797",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续",
-      "meta": "联合国新闻 · 2026/9/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142797",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142796",
-      "title": "联大峰会在即：人工智能、气候变化和冲突成为古特雷斯议程的重点",
-      "meta": "联合国新闻 · 2026/9/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142796",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-21T19:27:45.240Z",
+  "updatedAt": "2026-09-21T23:16:25.512Z",
   "provider": "OneBench 公共资讯快照"
 }
