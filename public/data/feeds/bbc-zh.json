@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad#0",
+      "title": "「雙休購」的爆紅與下架:一個網購平臺如何撬動中國勞工權益討論",
+      "meta": "BBC 中文 · 2026/9/22",
+      "url": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:03:59.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/trad#0",
+      "title": "CNN 等三家美國媒體被禁入白宮後 起訴特朗普政府",
+      "meta": "BBC 中文 · 2026/9/22",
+      "url": "https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T06:52:50.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98r687436nvo/trad#0",
       "title": "習近平：從失去一切的「太子」到中國最有權勢的領導人",
       "meta": "BBC 中文 · 2026/9/22",
@@ -13,7 +27,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#0",
-      "title": "香港提出「用人民幣支付政府開支」，為何引發「去美元化」憂慮？",
+      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
       "meta": "BBC 中文 · 2026/9/22",
       "url": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T01:42:30.000Z"
@@ -40,18 +54,11 @@
       "publishedAt": "2026-09-21T10:03:53.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#1",
       "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
       "meta": "BBC 中文 · 2026/9/21",
       "url": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-21T08:49:32.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad#0",
-      "title": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "meta": "BBC 中文 · 2026/9/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T07:31:24.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/trad#1",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/9/18",
       "url": "https://www.bbc.com/zhongwen/articles/ckwyzg2v80elo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T09:24:15.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad#1",
-      "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
-      "meta": "BBC 中文 · 2026/9/18",
-      "url": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:08:10.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-21T13:39:35.000Z"
     }
   ],
-  "updatedAt": "2026-09-22T04:56:49.379Z",
+  "updatedAt": "2026-09-22T11:38:47.073Z",
   "provider": "OneBench 公共资讯快照"
 }
