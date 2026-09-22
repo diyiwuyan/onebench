@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142835",
+      "title": "联大第81届会议主席：联合国不可替代 重建信任乃当务之急",
+      "meta": "联合国新闻 · 2026/9/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142835",
+      "publishedAt": "2026-09-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142834",
+      "title": "古特雷斯：世界正面临和平、不平等、气候和人工智能四大权力考验",
+      "meta": "联合国新闻 · 2026/9/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142834",
+      "publishedAt": "2026-09-22T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142833",
       "title": "联合国谴责胡塞武装对利雅得发动袭击，也门流离失所人数激增至13万余人",
       "meta": "联合国新闻 · 2026/9/21",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/16",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142803",
       "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142801",
-      "title": "联合国：阿富汗“稳定”局面下多重风险正在累积",
-      "meta": "联合国新闻 · 2026/9/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142801",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142800",
-      "title": "世界齐聚纽约：联合国大会高级别周的焦点何在?",
-      "meta": "联合国新闻 · 2026/9/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142800",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-22T11:38:47.073Z",
+  "updatedAt": "2026-09-22T16:57:38.276Z",
   "provider": "OneBench 公共资讯快照"
 }
