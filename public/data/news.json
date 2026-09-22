@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T16:57:38.276Z",
-  "expiresAt": "2026-09-22T22:57:38.276Z",
+  "generatedAt": "2026-09-22T21:19:14.876Z",
+  "expiresAt": "2026-09-23T03:19:14.876Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -607,6 +607,96 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142840",
+      "title": "卡塔尔埃米尔：海湾危机可通过外交解决 呼吁重返谈判",
+      "category": "国际",
+      "summary": "卡塔尔埃米尔塔米姆周二在联合国大会一般性辩论中表示，当前海湾危机是多年通过临时解决方案和不切实际政策推迟处理的累积结果。他指出，危机影响的不仅是地区国家，也影响全球能源贸易和各国民众的生活。塔米姆呼吁通过外交手段解决危机，重新开放霍尔木兹海峡航行，重返谈判，并建立区域集体安全体系，以确保包括伊朗在内的整个地区的安全与稳定。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142840",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142839",
+      "title": "埃尔多安批评以色列在加沙和约旦河西岸的行动 呼吁国际社会施压推动停火",
+      "category": "国际",
+      "summary": "土耳其总统埃尔多安周二在联合国大会一般性辩论中严厉批评以色列在加沙和约旦河西岸的行动，称过去三年加沙已有7.4万人丧生，其中大多数是妇女和儿童，并指责以色列政府拒绝停止占领。他呼吁国际社会向以色列施加更大压力，并支持建立一个以1967年边界为基础、领土完整、以东耶路撒冷为首都的独立巴勒斯坦国。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142839",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142838",
+      "title": "约旦国王阿卜杜拉二世：以色列政府的扩张野心已经成为地区性威胁",
+      "category": "国际",
+      "summary": "约旦国王阿卜杜拉二世周二在联合国大会一般性辩论中表示，以色列政府的扩张野心已经成为地区性威胁。他强调，世界正处于一个独特的历史时刻，国际社会的注意力已成为稀缺资源。黎巴嫩、也门、苏丹等地的持续冲突，以及经济差距、粮食不安全和气候变化等问题，都需要国际社会持续关注并采取行动。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142838",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142837",
+      "title": "特朗普联大演讲：强调“美国崛起”，主张以“美国优先”推动国际事务",
+      "category": "国际",
+      "summary": "美国总统特朗普周二在联合国大会第81届会议一般性辩论中发表讲话，强调美国正处于“崛起”之中，并从经济、军事、能源、边境安全和科技等方面介绍其政府执政以来取得的成果。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142837",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142836",
+      "title": "巴西总统卢拉：联合国正面临最关键时刻，外交是解决冲突的唯一选择",
+      "category": "国际",
+      "summary": "巴西总统卢拉周二在联合国大会一般性辩论上发言时表示，联合国正处于最关键的时刻之一，其公信力和保护最弱势群体的能力都处于低谷。由于安理会未能履行职责，各国都受到影响。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142836",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142835",
       "title": "联大第81届会议主席：联合国不可替代 重建信任乃当务之急",
       "category": "国际",
@@ -626,7 +716,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142834",
-      "title": "古特雷斯：世界正面临和平、不平等、气候和人工智能四大权力考验",
+      "title": "古特雷斯：世界正面临和平、不平等、气候和人工智能四大考验",
       "category": "国际",
       "summary": "联合国秘书长古特雷斯周二在联合国大会一般性辩论开幕之际发表讲话，指出当今世界的裂痕正在加深，战争、地缘政治分歧、不平等、气候危机和人工智能快速发展等多重危机相互交织，而全球治理体系仍在很大程度上反映一个已经改变的时代。",
       "source": "联合国新闻",
@@ -1135,6 +1225,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:ae840f12-bb0f-4ac9-86a1-9bf228426abb",
+      "title": "联合国大会大流行病问题会议召开前夕，会员国推进关于病原体获取和惠益分享的谈判",
+      "category": "健康",
+      "summary": "世卫组织会员国今天结束了世卫组织大流行协定政府间工作组（政府间工作组）第八次会议，推进了关于拟议的病原体获取和惠益分享（PABS）系统的谈判，该系统将为更迅速、更公平地应对未来大流行奠定基础。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics",
+      "publishedAt": "2026-09-18T15:12:41.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142824",
       "title": "古特雷斯：维和行动应以和平协议或停火为基础",
       "category": "国际",
@@ -1491,60 +1598,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142809",
-      "title": "联合国：叙利亚政治过渡和人道主义恢复仍面临多重挑战",
-      "category": "国际",
-      "summary": "联合国秘书长叙利亚问题副特使科尔多内和主管人道主义事务副秘书长兼紧急救济协调员弗莱彻周四向安理会通报叙利亚局势时表示，叙利亚在机构建设、政治过渡和经济一体化等方面取得进展，但仍面临严峻的经济形势、安全挑战、持续流离失所、地区局势升级和地雷等问题。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142809",
-      "publishedAt": "2026-09-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142808",
-      "title": "联合国：加强宗教间和文化间对话 共同打击仇恨言论",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯、联合国大会主席拉赫曼以及联合国副秘书长兼“文明联盟”高级代表莫拉蒂诺斯周四在“促进宗教间和文化间对话与宽容，打击仇恨言论”全球会议上表示，需要加强宗教间和文化间对话，采取全社会共同参与的方式，应对仇恨言论及其根源和后果。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142808",
-      "publishedAt": "2026-09-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142806",
-      "title": "世界气象组织：全球水资源储量持续下降 水循环更加不稳定",
-      "category": "国际",
-      "summary": "世界气象组织周四发布的《全球水资源状况报告》显示，2025年全球河流遭遇了三十多年来最干旱的年份之一。报告表明，地球淡水储量下降和冰川退缩的长期趋势仍在延续，这些趋势对未来人类和经济具有严重影响。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142806",
-      "publishedAt": "2026-09-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#3",
       "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
       "category": "国际",
@@ -1575,42 +1628,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142773",
-      "title": "【专题报道】重建信任：孟加拉国前外长拉赫曼“执掌”新一届联大",
-      "category": "国际",
-      "summary": "纽约当地时间9月8日上午，联合国总部联大会堂响起新一届联大开幕的敲槌声。孟加拉国前外长哈利鲁尔·拉赫曼正式接任联合国大会第81届会议主席，开始为期一年的任期。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142773",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142803",
-      "title": "【专题报道 | 前方视野】曼德海峡局势升级：也门冲突外溢风险对全球航运构成挑战",
-      "category": "国际",
-      "summary": "也门局势近日急剧升级。随着胡塞武装控制红海沿岸重要地区并向曼德海峡推进，这条连接红海与亚丁湾的国际航运要道再次成为国际社会关注焦点。安理会在四天内两次就此召开紧急会议。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142803",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
       "publishedAt": "2026-07-13T09:57:57.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:6db765ee-751c-4fc1-b2ee-a860855a716f",
-      "title": "预计到2050年癌症新发病例数将增加近一倍，世卫组织呼吁采取紧急行动",
-      "category": "健康",
-      "summary": "根据世界卫生组织（世卫组织）今天发布的一份报告，癌症目前使数百万人面临身体、情感和经济上的沉重负担，这种疾病每天夺走超过26000人的生命。据估计，每年有2060万例新发癌症病例，近1000万例死亡。癌症仍然是全球第二大死亡原因，仅次于心血管病。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-      "publishedAt": "2026-07-08T11:51:29.000Z",
       "tags": [
         "健康",
         "育儿",

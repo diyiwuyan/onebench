@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:ae840f12-bb0f-4ac9-86a1-9bf228426abb",
+      "title": "联合国大会大流行病问题会议召开前夕，会员国推进关于病原体获取和惠益分享的谈判",
+      "meta": "世界卫生组织 · 2026/9/18",
+      "url": "https://www.who.int/zh/news-room/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics",
+      "publishedAt": "2026-09-18T15:12:41.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:fecb0912-4a7d-4b35-a9f8-c173d83fc51c",
       "title": "世卫组织与英联邦秘书处续签伙伴关系协议，共同加强卫生系统并推进全民健康覆盖",
       "meta": "世界卫生组织 · 2026/9/15",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/13",
       "url": "https://www.who.int/zh/news-room/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
       "publishedAt": "2026-07-13T09:57:57.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:6db765ee-751c-4fc1-b2ee-a860855a716f",
-      "title": "预计到2050年癌症新发病例数将增加近一倍，世卫组织呼吁采取紧急行动",
-      "meta": "世界卫生组织 · 2026/7/8",
-      "url": "https://www.who.int/zh/news-room/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-      "publishedAt": "2026-07-08T11:51:29.000Z"
     }
   ],
-  "updatedAt": "2026-09-22T16:57:38.276Z",
+  "updatedAt": "2026-09-22T21:19:14.876Z",
   "provider": "OneBench 公共资讯快照"
 }
