@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142851",
+      "title": "伊朗总统佩泽希齐扬：不接受对和平核技术的任何限制",
+      "meta": "联合国新闻 · 2026/9/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142851",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142850",
+      "title": "叙利亚过渡政府总统沙拉：叙利亚正在崛起",
+      "meta": "联合国新闻 · 2026/9/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142850",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142848",
       "title": "联大高级别周特别报道丨2026年9月23日",
       "meta": "联合国新闻 · 2026/9/23",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/18",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142820",
       "publishedAt": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142819",
-      "title": "难民署：数千名逃离也门的难民抵达吉布提，亟需援助",
-      "meta": "联合国新闻 · 2026/9/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142819",
-      "publishedAt": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142818",
-      "title": "古特雷斯：现在是兑现可持续发展目标承诺的时候了",
-      "meta": "联合国新闻 · 2026/9/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142818",
-      "publishedAt": "2026-09-18T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-23T13:38:46.365Z",
+  "updatedAt": "2026-09-23T18:24:01.439Z",
   "provider": "OneBench 公共资讯快照"
 }
