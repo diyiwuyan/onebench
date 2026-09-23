@@ -5,8 +5,15 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad#0",
+      "title": "中國希望伊朗戰爭結束，但不是以特朗普想要的方式",
+      "meta": "BBC 中文 · 2026/9/23",
+      "url": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T22:52:14.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#0",
-      "title": "「你有五年規劃，我有移民計劃」：一份香港未來發展藍圖，為何引發一些年輕人的離港焦慮？",
+      "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
       "meta": "BBC 中文 · 2026/9/23",
       "url": "https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T18:19:34.000Z"
@@ -20,7 +27,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/trad#0",
-      "title": "習特會前瞻：特朗普會再度爭取「釋放黎智英」嗎？",
+      "title": "特朗普會再度爭取習近平「釋放黎智英」嗎？",
       "meta": "BBC 中文 · 2026/9/23",
       "url": "https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T11:43:03.000Z"
@@ -33,7 +40,7 @@
       "publishedAt": "2026-09-23T08:19:25.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#1",
       "title": "特朗普與習近平會面在即，中國的AI雄心正在烏蘭察布高歌猛進",
       "meta": "BBC 中文 · 2026/9/23",
       "url": "https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad?at_medium=RSS&at_campaign=rss",
@@ -48,7 +55,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq39myp9dm9zo/trad#1",
-      "title": "特朗普聯合國演說五個要點：古巴垮台、摧毀伊朗、格陵蘭基地，以及把AI改名SI",
+      "title": "特朗普聯合國演說五個要點：古巴、伊朗、格陵蘭、AI改名",
       "meta": "BBC 中文 · 2026/9/23",
       "url": "https://www.bbc.com/zhongwen/articles/cq39myp9dm9zo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T04:24:56.000Z"
@@ -101,13 +108,6 @@
       "meta": "BBC 中文 · 2026/9/21",
       "url": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-21T10:03:53.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#1",
-      "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
-      "meta": "BBC 中文 · 2026/9/21",
-      "url": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T08:49:32.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-21T13:39:35.000Z"
     }
   ],
-  "updatedAt": "2026-09-23T18:24:01.439Z",
+  "updatedAt": "2026-09-23T22:57:00.211Z",
   "provider": "OneBench 公共资讯快照"
 }

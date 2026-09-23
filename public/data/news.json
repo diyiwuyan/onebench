@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T18:24:01.439Z",
-  "expiresAt": "2026-09-24T00:24:01.439Z",
+  "generatedAt": "2026-09-23T22:57:00.211Z",
+  "expiresAt": "2026-09-24T04:57:00.211Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,8 +32,439 @@
   ],
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad#0",
+      "title": "中國希望伊朗戰爭結束，但不是以特朗普想要的方式",
+      "category": "国际",
+      "summary": "分析人士指，北京可能推動德黑蘭重啟談判，但不太可能停止購買伊朗石油。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T22:52:14.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-24/10702701.shtml",
+      "title": "房地产市场交易总量趋于稳定",
+      "category": "综合",
+      "summary": "国家统计局日前公布8月份商品住宅销售价格变动情况统计数据和1至8月份全国房地产市场基本情况。国家统计局城市司高级统计师杨彩芳介绍，8月份，70个大中城市中，一线城市商品住宅销售价格环比上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅继续收窄。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702701.shtml",
+      "publishedAt": "2026-09-23T22:43:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-24/10702700.shtml",
+      "title": "直播外链：国新办就中秋国庆假期交通运输服务保障有关情况举行新闻发布会",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-24/10702700.shtml",
+      "publishedAt": "2026-09-23T22:43:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-24/10702699.shtml",
+      "title": "9月24日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-24/10702699.shtml",
+      "publishedAt": "2026-09-23T22:42:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-24/10702697.shtml",
+      "title": "直播外链：国新办就“十五五”时期推进文化和旅游高质量发展有关情况举行新闻发布会",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-24/10702697.shtml",
+      "publishedAt": "2026-09-23T22:31:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-24/10702696.shtml",
+      "title": "习近平抵达华盛顿，开始对美国进行国事访问",
+      "category": "综合",
+      "summary": "当地时间9月23日下午，国家主席习近平抵达华盛顿，开始对美国进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702696.shtml",
+      "publishedAt": "2026-09-23T22:30:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-24/10702694.shtml",
+      "title": "数智时代下，全民阅读何以“如阅而至”？",
+      "category": "综合",
+      "summary": "中新网兰州9月24日电 (记者 丁思)“图书讲座+互动体验”“阅读开放麦”“线下图书创意展览”……2026年阅读推广理论研讨会23日在兰州举行，来自全国各地公共图书馆、高校图书馆及图情机构的代表、专家学者齐聚甘肃省图书馆，分享所在地推广全民阅读的新方式、新路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702694.shtml",
+      "publishedAt": "2026-09-23T22:29:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-24/10702692.shtml",
+      "title": "全球数字贸易博览会国际物流供应链活动浙江嘉兴举行",
+      "category": "综合",
+      "summary": "中新网嘉兴9月24日电(胡丰盛 赵倩)23日，第五届全球数字贸易博览会——国际物流供应链主题活动在浙江嘉兴拉开帷幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702692.shtml",
+      "publishedAt": "2026-09-23T22:28:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-24/10702693.shtml",
+      "title": "聚焦三大维度 浙江产教协同共育数字贸易人才",
+      "category": "综合",
+      "summary": "中新网杭州9月24日电(奚金燕)9月23日，数字贸易两业融合与国际校企合作创新对接活动在杭州举办。本次对接活动是第五届全球数字贸易博览会重要配套活动之一，也是商务部、教育部、人社部联合举办的“数贸汇英才”浙江站活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702693.shtml",
+      "publishedAt": "2026-09-23T22:26:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702691.shtml",
+      "title": "青海双寨物流基地铁路改造收官 年装卸能力突破500万吨",
+      "category": "综合",
+      "summary": "中新网西宁9月24日电 (祁增蓓马福贵应永平)9月23日凌晨，青海双寨物流基地扩能改造关键工程顺利完工，17组道岔及轨件更新施工通过信号联锁试验圆满收官，标志着这座青海唯一的铁路二级物流基地完成核心设施提质升级。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702691.shtml",
+      "publishedAt": "2026-09-23T22:22:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702689.shtml",
+      "title": "广州摘得2026世界智慧城市大奖·一带一路“治理大奖”",
+      "category": "综合",
+      "summary": "中新网广州9月24日电 (记者 蔡敏婕)记者23日从广州市政务服务和数据管理局获悉，当天，在全球智慧城市大会举办的世界智慧城市大奖·一带一路颁奖典礼上，广州获得一带一路区域“治理大奖”。这是继2025年获得世界智慧城市大奖·中国“城市大奖”及全球“能源与环境大奖”后，广州在智慧城市领域获得的又一国际殊荣。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702689.shtml",
+      "publishedAt": "2026-09-23T22:21:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702688.shtml",
+      "title": "杭州满觉陇桂花季启幕 近7000株桂树迎客",
+      "category": "综合",
+      "summary": "中新网杭州9月24日电(曹丹)秋风乍起，金粟纷飞，香飘十里，“满陇桂雨”早已成为浙江杭州西湖群山中最动人的秋日印记。23日，2026满觉陇·杭州桂花季在满觉陇村开幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702688.shtml",
+      "publishedAt": "2026-09-23T22:18:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-24/10702683.shtml",
+      "title": "广州：“还看今朝——陈家泠艺术展”举行媒体导览活动",
+      "category": "综合",
+      "summary": "图为陈家泠(左)为媒体介绍以广州市花“木棉花”为主题的作品。中新社记者 陈楚红 摄 图为作品《九华山》吸引参观者。中新社记者 陈楚红 摄 图为画作《南湖胜境》吸引媒体拍摄。中新社记者 陈楚红 摄 图为陈家泠为媒体介绍展览。中新社记者 陈楚红 摄 图为作品《五台山》吸引媒体拍摄。中新社记者 陈楚红 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-24/10702683.shtml",
+      "publishedAt": "2026-09-23T22:14:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-24/10702682.shtml",
+      "title": "广西罗城：各族邻里庆中秋",
+      "category": "综合",
+      "summary": "图为社区居民一起做月饼。韦如代 摄 图为社区居民一起做月饼。韦如代 摄 图为志愿者和社区居民一起做月饼。韦如代 摄 图为小学生通过快板节目进行政策法规宣传。韦如代 摄 图为社区居民在参加趣味游戏。韦如代 摄 图为民族服装秀表演现场。韦如代 摄 图为社区居民在参加趣味游戏。韦如代 摄 图为社区居民在舂糍粑。韦如代 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-24/10702682.shtml",
+      "publishedAt": "2026-09-23T22:13:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-24/10702686.shtml",
+      "title": "宁波网球公开赛发布单打入围阵容 5位世界前十选手参赛",
+      "category": "综合",
+      "summary": "中新网宁波9月24日电(张煜欢)23日，2026宁波银行·宁波网球公开赛新闻发布会在浙江宁波举行。作为WTA年终总决赛前的关键一站，今年赛事吸引了5位世界前十选手参赛，世界第一莱巴金娜领衔阵容，6次大满贯冠军得主斯瓦泰克进入名单。赛事将在10月17日至25日在宁波(鄞州)网球中心举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702686.shtml",
+      "publishedAt": "2026-09-23T22:11:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-24/10702684.shtml",
+      "title": "习近平抵达华盛顿对美国进行国事访问",
+      "category": "综合",
+      "summary": "新华社华盛顿9月23日电#8195;当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702684.shtml",
+      "publishedAt": "2026-09-23T22:09:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702687.shtml",
+      "title": "双节临近 海鲜、水果购销两旺",
+      "category": "综合",
+      "summary": "随着中秋国庆双节叠加，节日消费热潮也双倍激发，各地特色果品、水产批发市场迎来采购高峰。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702687.shtml",
+      "publishedAt": "2026-09-23T22:08:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205578.shtml",
+      "title": "从相遇到理解 美中文化大咖眼中的国之交往",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205578.shtml",
+      "publishedAt": "2026-09-23T22:05:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702681.shtml",
+      "title": "打开专业“盲盒”：87.5%受访大一学生感觉与设想有出入",
+      "category": "综合",
+      "summary": "大一新生正式上课已有一段时间，他们对专业的认知，正从志愿表上的一个名字，逐渐变为课堂和作业里的真实体验。对于一些此前对专业了解不多的大一新生来说，这种感觉像是打开了专业“盲盒”。对此，他们的感受如何？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702681.shtml",
+      "publishedAt": "2026-09-23T21:57:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-24/10702680.shtml",
+      "title": "习近平抵达华盛顿，开始对美国进行国事访问",
+      "category": "综合",
+      "summary": "新华社快讯：当地时间9月23日下午，国家主席习近平抵达华盛顿，开始对美国进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702680.shtml",
+      "publishedAt": "2026-09-23T21:39:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-24/10702679.shtml",
+      "title": "长期护理保险支付新规落地 专家解读",
+      "category": "综合",
+      "summary": "长期护理保险支付新规落地 专家解读",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702679.shtml",
+      "publishedAt": "2026-09-23T21:20:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702678.shtml",
+      "title": "帮老板搬东西受伤，算不算工伤？",
+      "category": "综合",
+      "summary": "【说案】帮老板搬东西受伤，算不算工伤？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702678.shtml",
+      "publishedAt": "2026-09-23T21:03:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702677.shtml",
+      "title": "医院职工食堂月饼走红，为何引发行业跟风仿冒？",
+      "category": "综合",
+      "summary": "医院职工食堂月饼走红，大量商家跟风仿冒",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702677.shtml",
+      "publishedAt": "2026-09-23T21:00:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-24/10702676.shtml",
+      "title": "生态环境法典实施后 涉农环境司法保护如何落地",
+      "category": "综合",
+      "summary": "某村一地块因被人采挖山石销售，形成7个采坑，一审法院对4名被告人以非法采矿罪定罪量刑，驳回了检察机关附带民事公益诉讼诉请，导致生态修复未实际进行。二审法院根据生态环境法典中“损害担责”原则及相关规定，确定本案采取原地覆土并植树、种草的人工修复与自然恢复相结合方案，实现案结事了。这是自8月15日生态环境法典实施以来，河北雄安新区中级人民法院(以下简称“雄安中院",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-24/10702676.shtml",
+      "publishedAt": "2026-09-23T20:53:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#0",
-      "title": "「你有五年規劃，我有移民計劃」：一份香港未來發展藍圖，為何引發一些年輕人的離港焦慮？",
+      "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
       "category": "国际",
       "summary": "9月16日，香港特首李家超發表香港首個五年規劃文件及年度施政報告。但在網絡上，部分年輕人卻開始討論如何離開香港。BBC中文訪問三位香港青年，了解他們的看法。",
       "source": "BBC 中文",
@@ -45,6 +476,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-24/10702675.shtml",
+      "title": "（爱知·名古屋亚运会）中国游泳队又夺6金 张展硕再破亚洲纪录",
+      "category": "综合",
+      "summary": "中新社东京9月23日电 (记者 朱晨曦)爱知·名古屋亚运会游泳比赛23日在东京水上运动中心继续进行。游泳项目当日决出7枚金牌，中国游泳队再夺6金3银。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702675.shtml",
+      "publishedAt": "2026-09-23T17:36:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
       ],
       "hot": false
     },
@@ -157,438 +606,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10702668.shtml",
-      "title": "五万张卡片与三千场球赛：美国教师池欧的洛阳十二载",
-      "category": "综合",
-      "summary": "22年前，51岁的美国教师池欧女士通过中国教育国际交流协会与美中关系全国委员会合作开展的中美教师交换项目来到洛阳市第二外国语学校任教。一年期满后，她主动提出留下来长期任教，把人生中12年的时光留在了中国。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702668.shtml",
-      "publishedAt": "2026-09-23T16:01:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-23/10702667.shtml",
-      "title": "中国科学院院士傅伯杰荣获2026年沃尔沃环境奖",
-      "category": "综合",
-      "summary": "中新社北京9月23日电 (记者 孙自法)沃尔沃环境奖基金会23日宣布，2026年沃尔沃环境奖授予中国科学院院士、中国科学院生态环境研究中心研究员傅伯杰，以表彰其在社会—生态系统与可持续性科学领域的开创性贡献，以及将地方生态恢复与全球可持续发展相联结的卓越能力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702667.shtml",
-      "publishedAt": "2026-09-23T15:45:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702563.shtml",
-      "title": "广西壮族自治区贵港市政协副主席黄星荣接受审查调查",
-      "category": "综合",
-      "summary": "中新网9月23日电 据广西壮族自治区纪委监委消息：广西壮族自治区贵港市政协党组成员、副主席黄星荣涉嫌严重违纪违法，目前正接受广西壮族自治区纪委监委纪律审查和监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702563.shtml",
-      "publishedAt": "2026-09-23T15:41:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702564.shtml",
-      "title": "原重庆新华书店集团一级专务肖陵被开除党籍",
-      "category": "综合",
-      "summary": "中新网9月23日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对原重庆新华书店集团一级专务肖陵严重违纪违法问题进行了立案审查调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702564.shtml",
-      "publishedAt": "2026-09-23T15:40:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702561.shtml",
-      "title": "甘肃省兰州市政协原党组成员、副主席芮文刚被\"双开\"",
-      "category": "综合",
-      "summary": "中新网9月23日电 据甘肃省纪委监委消息：日前，经甘肃省委批准，甘肃省纪委监委对兰州市政协原党组成员、副主席，兰州高新区党工委原书记芮文刚严重违纪违法问题进行了立案审查调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702561.shtml",
-      "publishedAt": "2026-09-23T15:38:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702558.shtml",
-      "title": "海南热带海洋学院原副院长吴清江接受审查调查",
-      "category": "综合",
-      "summary": "中新网9月23日电 据海南省纪委监委消息：海南热带海洋学院原党委委员、副院长吴清江涉嫌严重违纪违法，经海南省纪委监委指定管辖，目前正接受三亚市纪委监委纪律审查和监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702558.shtml",
-      "publishedAt": "2026-09-23T15:37:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-23/10702545.shtml",
-      "title": "南北剧种同台竞艳 十四位“梅花奖”名家齐聚合肥",
-      "category": "综合",
-      "summary": "图为中国戏剧梅花奖“二度梅”获得者李梅（左二）演绎秦腔《再续红梅缘》选段。江婉琪 摄 图为京剧《闹天宫》。江婉琪 摄 图为黄梅戏《牛郎织女》选段。江婉琪 摄 图为第29届中国戏剧梅花奖获得者蔡浙飞（左一）与第31届中国戏剧梅花奖获得者章益清演绎越剧新版《梁祝·十八相送》选段。江婉琪 摄 图为第17届中国戏剧梅花奖获得者金不换（左三）演绎豫剧《七品芝麻官》选段",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-23/10702545.shtml",
-      "publishedAt": "2026-09-23T15:20:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-23/10702544.shtml",
-      "title": "七千柿树结硕果 杭州西溪火柿映秋吸引游人",
-      "category": "综合",
-      "summary": "9月23日，游人在火柿墙前打卡。江南秋日，浙江杭州西溪湿地7000余株柿树挂硕果，游人在杭州西溪火柿主题活动中体验火柿采摘，感受丰收的喜悦。中新社记者 王刚 摄 9月23日，火柿主题花车亮相西溪湿地。江南秋日，浙江杭州西溪湿地7000余株柿树挂硕果，游人在杭州西溪火柿主题活动中体验火柿采摘，感受丰收的喜悦。中新社记者 王刚 摄 9月23日，西溪船只运送收获的",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-23/10702544.shtml",
-      "publishedAt": "2026-09-23T15:19:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-23/10702543.shtml",
-      "title": "贵州黔西：丰收节里丰收忙",
-      "category": "综合",
-      "summary": "图为9月23日，贵州省黔西市洪水镇农民驾驶收割机收割成熟的稻谷。史开心 摄 图为9月23日，贵州省黔西市洪水镇农民驾驶收割机收割成熟的稻谷。史开心 摄 图为9月23日，贵州省黔西市洪水镇农民驾驶收割机收割成熟的稻谷。史开心 摄 图为9月23日，贵州省黔西市洪水镇农民驾驶收割机收割成熟的稻谷。史开心 摄 图为9月23日，贵州省黔西市洪水镇农民利用收割机收割成熟",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-23/10702543.shtml",
-      "publishedAt": "2026-09-23T15:19:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-23/10702542.shtml",
-      "title": "河南安阳：中秋临近酥皮月饼走俏市场",
-      "category": "综合",
-      "summary": "随着中秋节临近，近日，河南省安阳市殷都区水冶镇传统手工酥皮月饼走俏市场。在一处加工作坊内，工作人员沿用传统工艺制作酥皮月饼，精心挑选果仁，手工炒制馅料、揉面起酥、包制月饼，最后入炉烘烤，每道工序都十分讲究。烤好的月饼色泽金黄，饼皮层次分明，掰开酥香落渣，受到市场欢迎。图为工作人员把晾凉的月饼装箱。毕兴世 摄 随着中秋节临近，近日，河南省安阳市殷都区水冶镇传统",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-23/10702542.shtml",
-      "publishedAt": "2026-09-23T15:18:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205572.shtml",
-      "title": "（爱知·名古屋亚运会）中国队获亚运会男女4X100米混合泳接力冠军",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205572.shtml",
-      "publishedAt": "2026-09-23T15:18:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702656.shtml",
-      "title": "我国成功发射卫星互联网低轨26组卫星",
-      "category": "综合",
-      "summary": "中新网北京9月23日电 (记者 马帅莎 骆云飞)北京时间9月23日21时32分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨26组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。(完)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702656.shtml",
-      "publishedAt": "2026-09-23T15:10:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-23/10702647.shtml",
-      "title": "三星堆-金沙多学科研究新成果在北京发布",
-      "category": "综合",
-      "summary": "中新社北京9月23日电 (记者 陈杭)2026北京文化论坛期间，“三星堆-金沙与周边文化交流”专业沙龙23日在北京举办，发布三星堆-金沙多学科研究4项新成果，集中展示以三星堆-金沙为代表的古蜀文明与中原及周边地区文化交流的研究成果，回应古蜀文明研究中的诸多关键疑问，为阐释中华文明多元一体格局提供重要考古支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-23/10702647.shtml",
-      "publishedAt": "2026-09-23T15:07:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205565.shtml",
-      "title": "（爱知·名古屋亚运会）亚运会女子400米个人混合泳：于子迪夺冠、柯雯曦摘银",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205565.shtml",
-      "publishedAt": "2026-09-23T14:48:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702633.shtml",
-      "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式",
-      "category": "综合",
-      "summary": "新华社北京9月23日电 历时一个多月的第七届全国少数民族文艺会演23日晚在北京民族剧院落下帷幕。中共中央政治局常委、全国政协主席王沪宁出席闭幕式文艺晚会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702633.shtml",
-      "publishedAt": "2026-09-23T14:46:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-23/10702634.shtml",
-      "title": "“安宁”，前NBA球员马布里用一个词形容中国",
-      "category": "综合",
-      "summary": "中新社北京9月23日电 (记者 曾玥 刘子衿)“中国是我的第二故乡。”23日在北京接受中新社记者专访时，前美国职业篮球联赛(NBA)球员斯蒂芬·马布里(Stephon Marbury)用“安宁”一词形容中国以及在华感受。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10702634.shtml",
-      "publishedAt": "2026-09-23T14:43:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702613.shtml",
-      "title": "400余名两岸同胞在北京共迎中秋",
-      "category": "综合",
-      "summary": "中新社北京9月23日电 (记者 张晓曦)400余名两岸同胞23日在北京怀柔雁栖湖参加“月满京华 情牵两岸——2026年两岸同胞迎中秋联谊活动”，共迎佳节。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702613.shtml",
-      "publishedAt": "2026-09-23T14:38:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-23/10702611.shtml",
-      "title": "李强会见吉尔吉斯斯坦总理卡瑟马利耶夫",
-      "category": "综合",
-      "summary": "中新社北京9月23日电 9月23日下午，中国国务院总理李强在杭州会见来华出席第五届全球数字贸易博览会的吉尔吉斯斯坦总理卡瑟马利耶夫。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702611.shtml",
-      "publishedAt": "2026-09-23T14:37:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205564.shtml",
-      "title": "李强会见吉尔吉斯斯坦总理卡瑟马利耶夫",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205564.shtml",
-      "publishedAt": "2026-09-23T14:34:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-23/10702623.shtml",
-      "title": "柬埔寨首相洪玛奈：打击电信网络诈骗需要加强国际合作",
-      "category": "综合",
-      "summary": "中新社金边9月23日电 (杨强 张堰林)柬埔寨首相洪玛奈23日在首都金边表示，电信网络诈骗已成为数字时代快速演变的重大跨国犯罪威胁，国际反诈不能停留在表态和口号上，各方应以互信为基础，将合作承诺转化为具体行动，共同应对这一跨国区域性问题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702623.shtml",
-      "publishedAt": "2026-09-23T14:30:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-23/10702627.shtml",
-      "title": "第四届中国—东盟建筑业合作与发展论坛在广州举办",
-      "category": "综合",
-      "summary": "【东盟专线】第四届中国—东盟建筑业合作与发展论坛在广州举办",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10702627.shtml",
-      "publishedAt": "2026-09-23T14:29:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-23/10702619.shtml",
-      "title": "南非8月CPI升至4.4%",
-      "category": "综合",
-      "summary": "中新社约翰内斯堡9月23日电 (记者 孙翔)南非统计局23日公布数据显示，南非8月消费者价格指数(CPI)同比上涨4.4%，较7月的4.3%小幅回升，略低于市场预期。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702619.shtml",
-      "publishedAt": "2026-09-23T14:27:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-23/10702595.shtml",
-      "title": "以实践创新激发新阶层“建设力”四川召开新的社会阶层人士统战工作实践创新经验交流座谈会",
-      "category": "综合",
-      "summary": "中新网泸州9月23日电(尧欣雨)23日，全省新的社会阶层人士统战工作实践创新经验交流座谈会在四川泸州召开，来自21个市(州)党委统战部的有关负责人齐聚一堂，共话新的社会阶层人士统战工作实践创新。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702595.shtml",
-      "publishedAt": "2026-09-23T14:26:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-23/10702614.shtml",
-      "title": "中方回应欧盟年度涉港和涉澳报告：立即停止以任何形式插手港澳事务",
-      "category": "综合",
-      "summary": "中新网布鲁塞尔9月23日电 中国驻欧盟使团23日回应欧盟年度涉港和涉澳报告，敦促欧方尊重基本事实，端正心态，立即停止以任何形式插手港澳事务。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702614.shtml",
-      "publishedAt": "2026-09-23T14:26:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad#2",
       "title": "草原上的數據中心：中國AI雄心背後的算力前線",
       "category": "国际",
@@ -602,6 +619,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142854",
+      "title": "泽连斯基：必须限制俄罗斯的行动空间、资金和战争",
+      "category": "国际",
+      "summary": "乌克兰总统泽连斯基周三在联合国大会第八十一届会议一般性辩论上表示，这场与乌克兰之间的战争必须结束，并呼吁限制俄罗斯的行动空间、资金和战争能力。他说，乌克兰正在发展自身防御能力，同时推动外交努力，目标是在战争进一步升级、人工智能开始影响战场之前实现和平。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142854",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142853",
+      "title": "【高级别周特别报道】安理会高级别会议再度讨论乌克兰局势",
+      "category": "国际",
+      "summary": "在联大一般性辩论进入第二天之际，安理会周三上午就乌克兰局势举行一场高级别会议。安理会本月轮值主席国法国外长巴罗亲自主持会议。这场会议共有28位高级别参会者发言，包括拉脱维亚总统林克维奇斯、芬兰总统斯图布、罗马尼亚总统达恩、斯洛文尼亚总统穆萨尔、荷兰首相耶滕等。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142853",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142852",
+      "title": "阿根廷总统米莱：阿根廷将在人工智能领域站在自由的最前沿",
+      "category": "国际",
+      "summary": "阿根廷总统米莱周三在联合国大会第八十一届会议一般性辩论中发言，主张以自由应对人工智能，并表示阿根廷将在人工智能领域站在自由的最前沿。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142852",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -661,7 +732,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/trad#0",
-      "title": "習特會前瞻：特朗普會再度爭取「釋放黎智英」嗎？",
+      "title": "特朗普會再度爭取習近平「釋放黎智英」嗎？",
       "category": "国际",
       "summary": "中美兩國元首即將會面，有學者分析，特朗普將在會面期間提及黎智英案，中方釋放黎智英是展現中國軟實力的合適時機，但相信機率不大。",
       "source": "BBC 中文",
@@ -730,7 +801,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#1",
       "title": "特朗普與習近平會面在即，中國的AI雄心正在烏蘭察布高歌猛進",
       "category": "国际",
       "summary": "BBC探訪內蒙古，一名工人表示，北京的AI基礎設施正以「中國速度」推進。",
@@ -765,7 +836,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq39myp9dm9zo/trad#1",
-      "title": "特朗普聯合國演說五個要點：古巴垮台、摧毀伊朗、格陵蘭基地，以及把AI改名SI",
+      "title": "特朗普聯合國演說五個要點：古巴、伊朗、格陵蘭、AI改名",
       "category": "国际",
       "summary": "BBC記者團隊在周二現場採訪特朗普於聯合國的演講，並分析了當中的五個關鍵時刻。",
       "source": "BBC 中文",
@@ -941,7 +1012,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142844",
-      "title": "【联大聚焦】黑海粮食运输通道再受瞩目",
+      "title": "【高级别周特别报道】黑海粮食运输通道再受瞩目",
       "category": "国际",
       "summary": "周二，在联合国大会第81届会议一般性辩论的第一天，联合国纽约总部举行了多场高级别边际会议。欧盟外交与安全政策高级代表、欧盟委员会副主席卡娅·卡拉斯（Kaja Kallas）当天下午主持了一场题为“全球粮食安全与黑海——恢复航行自由的必要性”的会议。",
       "source": "联合国新闻",
@@ -995,7 +1066,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142841",
-      "title": "【专题报道】打破碎片化，共护一个海洋",
+      "title": "【高级别周特别报道】打破碎片化，共护一个海洋",
       "category": "国际",
       "summary": "2026年联合国气候峰会“海洋解决方案对话”周二在纽约总部举行。与会高级别代表发出共同呼吁：海洋不能再被视为单纯的环境议题，而应成为全球气候治理、经济安全、粮食安全和国家发展的核心组成部分。当前最大的障碍不是缺少承诺，而是海洋、气候与生物多样性治理长期处于相互割裂的状态。如何打破制度碎片化，推动海洋解决方案进入全球气候行动主要舞台，成为本次对话的主题。",
       "source": "联合国新闻",
@@ -1404,23 +1475,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#1",
-      "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
-      "category": "国际",
-      "summary": "習近平執政後的兩次六中全會，均對其政治地位作出逐層遞進的確認。本屆五中全會同樣是黨建議題，會否出現新的提法，將是全會最值得觀察的看點。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T08:49:32.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142828",
       "title": "联合国秘书长：非洲经济在逆风中释放强劲增长信号",
       "category": "国际",
@@ -1499,60 +1553,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142823",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142822",
-      "title": "世卫组织：欧洲女性卫生工作者月收入比男性低28%",
-      "category": "国际",
-      "summary": "世界卫生组织欧洲区域办事处周五发布的一份涵盖43个国家的新报告显示，在世卫组织欧洲区域的卫生和护理从业人员中，女性占近77%，但每小时收入比男性低19%，月收入低28%。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142822",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142821",
-      "title": "妇女署：女性处于埃博拉抗疫前线",
-      "category": "国际",
-      "summary": "联合国妇女署驻刚果民主共和国代表蒙博周五在日内瓦强调，妇女身处埃博拉抗疫前线，在医疗中心、家中和社区照顾病患，清洗并安葬死者，负责取水和觅食，有时甚至为此付出生命。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142821",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142820",
-      "title": "联合国人权报告：性暴力成为乌克兰战争中的酷刑、恐吓和胁迫手段",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员办事处周五发布的一份报告指出，自2022年2月24日俄罗斯对乌克兰发动全面武装攻击以来，性暴力被作为酷刑、恐吓和胁迫手段，针对乌克兰平民和战俘实施。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142820",
       "publishedAt": "2026-09-18T12:00:00.000Z",
       "tags": [
         "国际",
