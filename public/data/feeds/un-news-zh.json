@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142878",
+      "title": "【联大高级别周特别报道】联大高级别会议聚焦“下一场”可能出现的大流行病威胁",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142878",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142877",
+      "title": "黎巴嫩部长理事会主席萨拉姆：恢复国家决策权 结束战争 确保国家完全主权",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142877",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142876",
+      "title": "伊拉克总理扎伊迪：推动地区从冲突走向融合 从竞争转向合作",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142876",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142875",
       "title": "联大高级别周特别报道丨2026年9月25日",
       "meta": "联合国新闻 · 2026/9/25",
@@ -167,7 +188,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142850",
-      "title": "叙利亚过渡政府总统沙拉：叙利亚正在崛起",
+      "title": "叙利亚总统沙拉：叙利亚正在崛起",
       "meta": "联合国新闻 · 2026/9/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142850",
       "publishedAt": "2026-09-23T12:00:00.000Z"
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/22",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142846",
       "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142845",
-      "title": "越南国家主席苏林：将选择和平、合作与发展",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142845",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142844",
-      "title": "【高级别周特别报道】黑海粮食运输通道再受瞩目",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142844",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142843",
-      "title": "李在明呼吁推动朝鲜半岛和平共处 提出“K倡议”三大愿景",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142843",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-25T13:47:43.678Z",
+  "updatedAt": "2026-09-25T18:36:57.960Z",
   "provider": "OneBench 公共资讯快照"
 }
