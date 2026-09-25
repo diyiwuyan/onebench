@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142875",
+      "title": "联大高级别周特别报道丨2026年9月25日",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142875",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142873",
       "title": "南非：全球治理必须改革 非洲应在安理会拥有常任席位",
       "meta": "联合国新闻 · 2026/9/24",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/22",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142843",
       "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142842",
-      "title": "马克龙：面对“强权即公理”逻辑不能退让 呼吁重振多边主义",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142842",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-25T07:48:52.524Z",
+  "updatedAt": "2026-09-25T13:47:43.678Z",
   "provider": "OneBench 公共资讯快照"
 }
