@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142873",
+      "title": "南非：全球治理必须改革 非洲应在安理会拥有常任席位",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142873",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142872",
+      "title": "澳大利亚总理阿尔巴尼斯：建设安全、和平与繁荣世界是全人类共同任务",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142872",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142870",
       "title": "泰国总理阿努廷：泰国从未寻求与柬埔寨发生冲突",
       "meta": "联合国新闻 · 2026/9/24",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/22",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142842",
       "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142841",
-      "title": "【高级别周特别报道】打破碎片化，共护一个海洋",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142841",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142840",
-      "title": "卡塔尔埃米尔：海湾危机可通过外交解决 呼吁重返谈判",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142840",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-25T00:33:56.140Z",
+  "updatedAt": "2026-09-25T07:48:52.524Z",
   "provider": "OneBench 公共资讯快照"
 }
