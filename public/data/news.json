@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T21:31:13.594Z",
-  "expiresAt": "2026-09-25T03:31:13.594Z",
+  "generatedAt": "2026-09-25T00:33:56.140Z",
+  "expiresAt": "2026-09-25T06:33:56.140Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,220 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-25/10703556.shtml",
+      "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+      "category": "综合",
+      "summary": "新华社华盛顿9月24日电 当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703556.shtml",
+      "publishedAt": "2026-09-25T00:24:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205810.shtml",
+      "title": "（爱知·名古屋亚运会）谢震业晋级男子百米半决赛",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205810.shtml",
+      "publishedAt": "2026-09-25T00:11:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad#0",
+      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
+      "category": "国际",
+      "summary": "倡議人士希望，這些新詞語能減少對身體的羞辱，並推動更正向的性觀念。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T00:03:23.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205801.shtml",
+      "title": "（爱知·名古屋亚运会）亚运会女子百米比赛 陈妤颉晋级半决赛 葛曼棋受伤离场",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205801.shtml",
+      "publishedAt": "2026-09-25T00:03:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205763.shtml",
+      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205763.shtml",
+      "publishedAt": "2026-09-24T23:52:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad#0",
+      "title": "習近平訪美排場十足，但迄今進展甚微",
+      "category": "国际",
+      "summary": "有分析人士表示，峰會至今主要着眼於營造「正面氣氛」，但仍有多項迫切議題有待討論。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T23:51:17.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-25/10703551.shtml",
+      "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+      "category": "综合",
+      "summary": "新华社快讯：当地时间9月24日晚，国家主席习近平在白宫出席美国总统特朗普举行的欢迎宴会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703551.shtml",
+      "publishedAt": "2026-09-24T23:12:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-25/10703549.shtml",
+      "title": "马克龙：法国正在尽一切努力避免燃油短缺",
+      "category": "综合",
+      "summary": "中新社巴黎9月24日电 (记者 李洋)法国总统马克龙当地时间24日晚表示，法国正在尽一切努力避免燃油短缺。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703549.shtml",
+      "publishedAt": "2026-09-24T23:02:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-25/10703550.shtml",
+      "title": "9月25日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-25/10703550.shtml",
+      "publishedAt": "2026-09-24T22:57:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml",
+      "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+      "category": "综合",
+      "summary": "中新社华盛顿9月24日电 当地时间9月24日中午，中国国家主席习近平夫人彭丽媛在华盛顿同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml",
+      "publishedAt": "2026-09-24T22:27:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-25/10703547.shtml",
+      "title": "习近平同美国总统特朗普会谈",
+      "category": "综合",
+      "summary": "中新社华盛顿9月24日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月24日上午，中国国家主席习近平同美国总统特朗普在白宫举行会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703547.shtml",
+      "publishedAt": "2026-09-24T22:25:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-25/10703546.shtml",
+      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+      "category": "综合",
+      "summary": "中新社华盛顿9月24日电 (记者 郭金超 郭超凯 黄钰钦)当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703546.shtml",
+      "publishedAt": "2026-09-24T22:22:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-25/10703545.shtml",
       "title": "（爱知·名古屋亚运会）国乒男团无缘九连冠 女团实现六连冠",
@@ -392,182 +606,164 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-24/10703515.shtml",
-      "title": "2026中国—东盟教育交流周配套活动“山海共此时”国际青年中秋音乐诗会在贵阳启幕",
-      "category": "综合",
-      "summary": "中新网贵阳9月24日电 (曾琪男 毛恩琦)2026中国—东盟教育交流周配套活动“山海共此时”国际青年中秋音乐诗会24日在贵阳举行。中外青年学子在中华传统佳节的文化氛围里开展文明对话，以青春之力书写跨国友谊。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-24/10703515.shtml",
-      "publishedAt": "2026-09-24T15:58:30.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142870",
+      "title": "泰国总理阿努廷：泰国从未寻求与柬埔寨发生冲突",
+      "category": "国际",
+      "summary": "泰国总理阿努廷周四在联合国大会第八十一届会议一般性辩论上发表讲话说，泰国与柬埔寨曾经历一段艰难时期，泰国仍本着诚意通过对话解决争端，并强调泰国从未寻求冲突，只有真诚合作才能构建和平。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142870",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-24/10703519.shtml",
-      "title": "习近平同美国总统特朗普小范围交流",
-      "category": "综合",
-      "summary": "新华社华盛顿9月24日电 当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫椭圆形办公室小范围交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703519.shtml",
-      "publishedAt": "2026-09-24T15:55:50.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142869",
+      "title": "【联大高级别周特别报道】停火与建国：国际社会再议“两国方案”的现实挑战",
+      "category": "国际",
+      "summary": "在加沙战争创伤尚未愈合、定居点扩张持续推进、人道危机依然严峻的背景下，解决巴以问题的两国方案正面临前所未有的挑战。在联合国大会高级别周期间，由沙特阿拉伯与有关国家共同发起的旨在推动落实“两国方案”的高级别国际会议周四在纽约总部举行。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142869",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-24/10703521.shtml",
-      "title": "宁夏银川启动餐饮品质提升共创季 解锁西北风味新吃法",
-      "category": "综合",
-      "summary": "中新网银川9月24日电 (记者 李佩珊)锅气升腾、香气满场，中秋临近的银川街头烟火正浓。9月24日晚，“举杯贺兰山·品鉴宁夏菜”2026银川风味上新共创季在阅彩城商圈热闹启幕。现场美食飘香、人流涌动，热气腾腾的特色菜品、沉浸式餐酒搭配、趣味中秋体验轮番上演，以看得见、尝得到的风味新体验，推动银川餐饮品质持续升级。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10703521.shtml",
-      "publishedAt": "2026-09-24T15:54:58.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142868",
+      "title": "科威特王储：谴责伊朗袭击 呼吁维护地区安全与航行自由",
+      "category": "国际",
+      "summary": "科威特王储萨巴赫周四在联合国大会第八十一届会议一般性辩论上发表讲话，谴责伊朗对科威特、海湾合作委员会各国以及约旦发动的袭击，呼吁停止侵略行为，维护地区安全以及霍尔木兹海峡和曼德海峡的航行自由。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142868",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205745.shtml",
-      "title": "李强会见马来西亚总理安瓦尔",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205745.shtml",
-      "publishedAt": "2026-09-24T15:51:45.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142871",
+      "title": "【联大高级别周特别报道】从能源危机到转型：可再生能源重塑能源安全 ——专访国际可再生能源署总干事拉·卡梅拉",
+      "category": "国际",
+      "summary": "当前中东地区的冲突正扰乱全球能源市场，并推高燃料价格。能源供应受到的冲击不仅影响地区局势，也使全球经济受到拖累。 在国际可再生能源署总干事弗朗西斯科·拉·卡梅拉看来，这场危机也正在改变人们对“能源安全”的理解：过去，能源安全更多与石油和天然气储备联系在一起；如今，各国越来越希望建立一个更加多元、分散、能够在一定程度上由自身掌控的能源体系。在这一变化中，可再生",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142871",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-24/10703516.shtml",
-      "title": "香港展出逾300件美术精品贺国庆",
-      "category": "综合",
-      "summary": "中新网香港9月24日电 “守正创新——香港美术家庆祝中华人民共和国成立77周年作品展”24日在香港中央图书馆开幕，展出逾300位香港美术家创作的300多件精选作品。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-24/10703516.shtml",
-      "publishedAt": "2026-09-24T15:47:39.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142867",
+      "title": "【联大高级别周特别报道】联合国通过《海平面上升宣言》：以全球行动应对“正在淹没未来”的危机",
+      "category": "国际",
+      "summary": "海平面上升是全球变暖最显而易见的后果之一，但对某些国家而言，这是一种迫在眉睫的生存威胁。在联合国大会第八十一届会议举行一般性辩论之际，世界各国领导人周四齐聚一堂，通过了一项《联合国海平面上升宣言》，围绕“适应海平面上升及其法律、经济和社会后果”提出了一揽子国际行动框架。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142867",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205744.shtml",
-      "title": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205744.shtml",
-      "publishedAt": "2026-09-24T15:45:53.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142866",
+      "title": "内塔尼亚胡：以色列“别无选择” 必须阻止伊朗获得核武器并继续捍卫国家",
+      "category": "国际",
+      "summary": "以色列总理内塔尼亚胡周四在联合国大会第八十一届会议一般性辩论上发表讲话说，以色列必须阻止伊朗获得能够威胁以色列及世界的核武器，并表示以色列将在面临安全威胁时继续捍卫自身。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142866",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-24/10703514.shtml",
-      "title": "首届FIFA东盟杯：缅甸队2:0战胜东帝汶队",
-      "category": "综合",
-      "summary": "图为曾执教中国香港队的缅甸队主教练约恩·安德森（J#246;rn Anderson）（绿衣）。中新网记者 陈永诺 摄 图为缅甸队球员简根德乔（红衣11号）与东帝汶队球员拼抢。中新网记者 陈永诺 摄 图为缅甸队球员邓平进球后庆祝。中新网记者 陈永诺 摄 图为缅甸队球员邓平（红衣9号）攻门。中新网记者 陈永诺 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-24/10703514.shtml",
-      "publishedAt": "2026-09-24T15:45:11.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142865",
+      "title": "欧洲理事会主席科斯塔：需要强大、有效且具有代表性的多边主义",
+      "category": "国际",
+      "summary": "欧洲理事会主席科斯塔周四代表欧盟在联合国大会第八十一届会议一般性辩论上发表讲话指出，多边主义并非过时的理想，而是解决当今问题的现实途径。任何国家都无法单独应对疫情、气候变化、安全、供应链、人工智能、金融稳定和可持续发展等问题。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142865",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-24/10703513.shtml",
-      "title": "香港导演许鞍华获平遥影展“东西方交流贡献荣誉”",
-      "category": "综合",
-      "summary": "中新社山西平遥9月24日电 (记者 胡健)第十届平遥国际电影展24日晚在山西晋中平遥古城开幕，组委会将本届影展“卧虎藏龙东西方交流贡献荣誉”授予香港导演许鞍华，以此表彰其从影50余载，深耕华语电影，推动东方故事走向世界的贡献。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703513.shtml",
-      "publishedAt": "2026-09-24T15:28:08.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142864",
+      "title": "匈牙利总统鲍卡：权力只有在服从法律时才能赢得信任",
+      "category": "国际",
+      "summary": "匈牙利总统鲍卡周四在联合国大会第八十一届会议一般性辩论上发表讲话说，权力只有在服从法律时，才能赢得信任。法律必须适用于包括当权者在内的所有人。他表示，将捍卫宪法、国家机构的自由以及每一位匈牙利公民的尊严，并推动重建国内信任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142864",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-24/10703512.shtml",
-      "title": "兰星宇亚运吊环两连冠：金牌来之不易",
-      "category": "综合",
-      "summary": "中新网9月24日电 (记者 金旭)在当地时间24日进行的爱知·名古屋亚运会男子吊环项目决赛中，中国选手兰星宇以14.933 分夺得冠军，实现亚运会两连冠。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703512.shtml",
-      "publishedAt": "2026-09-24T15:23:26.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142863",
+      "title": "阿巴斯：我们绝不离开我们的故土，也绝不允许任何人代替我们决定未来",
+      "category": "国际",
+      "summary": "巴勒斯坦国总统阿巴斯周四在联合国大会第八十一届会议一般性辩论上通过预先录制的视频发表讲话说，巴勒斯坦人民正面临历史上最危险的时刻之一。他呼吁国际社会保护巴勒斯坦人民、结束占领，并在国际合法性的基础上落实“两国方案”。他誓言：“我们绝不离开我们的故土。我们绝不接受流离失所，也绝不允许任何人代替我们决定我们的未来。”",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142863",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-24/10703511.shtml",
-      "title": "中国体操选手邱祺缘：金牌是最好的中秋礼物",
-      "category": "综合",
-      "summary": "中新网9月24日电 (记者 金旭)当地时间24日，在爱知·名古屋亚运会体操女子高低杠决赛中，中国选手邱祺缘以15.100分夺得金牌。她在赛后表示，这枚金牌是最好的中秋礼物。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703511.shtml",
-      "publishedAt": "2026-09-24T15:21:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -713,7 +909,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad#2",
       "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
       "category": "国际",
       "summary": "BBC採訪了遭俄羅斯佔領的烏克蘭城鎮奧列什基居民，他們表示自己正「持續不斷遭受炮擊」。",
@@ -799,7 +995,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad#4",
       "title": "習近平抵美，特朗普罕有接機——中美外交禮賓慣例解讀",
       "category": "国际",
       "summary": "美國總統親赴機場迎接外國元首極為罕見。若不計教宗訪美的特例，這將是超過 60 年來美國總統首次以這種方式迎接他國元首。",
@@ -939,7 +1135,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142857",
-      "title": "【高级别州特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
+      "title": "【高级别周特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
       "category": "国际",
       "summary": "联合国秘书长古特雷斯周三表示，“我们是第一代拥有终结化石燃料时代工具的人——也是最后一代能够避免气候灾难的人”。他呼吁各国制定具有可信度的路线图，并设定明确的时间表，以实现摆脱化石燃料的转型。",
       "source": "联合国新闻",
@@ -1221,23 +1417,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#2",
-      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
-      "category": "国际",
-      "summary": "有經濟學者對BBC中文指出，港府希望建立「示範作用」，未來甚至「可能連收稅都收人民幣」，增加其他國家在香港使用人民幣買賣黃金、投資股票的信心。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T03:20:25.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/114211",
       "title": "Here Wallpaper：把喜欢的地图做成壁纸",
       "category": "科技",
@@ -1435,114 +1614,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142839",
-      "title": "埃尔多安批评以色列在加沙和约旦河西岸的行动 呼吁国际社会施压推动停火",
-      "category": "国际",
-      "summary": "土耳其总统埃尔多安周二在联合国大会一般性辩论中严厉批评以色列在加沙和约旦河西岸的行动，称过去三年加沙已有7.4万人丧生，其中大多数是妇女和儿童，并指责以色列政府拒绝停止占领。他呼吁国际社会向以色列施加更大压力，并支持建立一个以1967年边界为基础、领土完整、以东耶路撒冷为首都的独立巴勒斯坦国。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142839",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142838",
-      "title": "约旦国王阿卜杜拉二世：以色列政府的扩张野心已经成为地区性威胁",
-      "category": "国际",
-      "summary": "约旦国王阿卜杜拉二世周二在联合国大会一般性辩论中表示，以色列政府的扩张野心已经成为地区性威胁。他强调，世界正处于一个独特的历史时刻，国际社会的注意力已成为稀缺资源。黎巴嫩、也门、苏丹等地的持续冲突，以及经济差距、粮食不安全和气候变化等问题，都需要国际社会持续关注并采取行动。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142838",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142837",
-      "title": "特朗普联大演讲：强调“美国崛起”，主张以“美国优先”推动国际事务",
-      "category": "国际",
-      "summary": "美国总统特朗普周二在联合国大会第81届会议一般性辩论中发表讲话，强调美国正处于“崛起”之中，并从经济、军事、能源、边境安全和科技等方面介绍其政府执政以来取得的成果。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142837",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142836",
-      "title": "巴西总统卢拉：联合国正面临最关键时刻，外交是解决冲突的唯一选择",
-      "category": "国际",
-      "summary": "巴西总统卢拉周二在联合国大会一般性辩论上发言时表示，联合国正处于最关键的时刻之一，其公信力和保护最弱势群体的能力都处于低谷。由于安理会未能履行职责，各国都受到影响。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142836",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142835",
-      "title": "联大第81届会议主席：联合国不可替代 重建信任乃当务之急",
-      "category": "国际",
-      "summary": "联合国大会第81届会议主席拉赫曼周二在一般性辩论开幕式上表示，联合国成立80年来始终面临对多边主义和联合国有效性的质疑，但联合国之所以能够延续至今，是因为其不可替代。重建对联合国的信任是本届联大的核心议题。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142835",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142834",
-      "title": "古特雷斯：世界正面临和平、不平等、气候和人工智能四大考验",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周二在联合国大会一般性辩论开幕之际发表讲话，指出当今世界的裂痕正在加深，战争、地缘政治分歧、不平等、气候危机和人工智能快速发展等多重危机相互交织，而全球治理体系仍在很大程度上反映一个已经改变的时代。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142834",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad#2",
       "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
       "category": "国际",
@@ -1574,60 +1645,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142833",
-      "title": "联合国谴责胡塞武装对利雅得发动袭击，也门流离失所人数激增至13万余人",
-      "category": "国际",
-      "summary": "联合国谴责胡塞武装持续对沙特阿拉伯发动跨境袭击，包括针对首都利雅得的袭击未遂事件，而也门境内的战事正导致该国流离失所人数出现近年来最剧烈的激增。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142833",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142832",
-      "title": "我们并非无能为力：联合国秘书长敦促世界各国领导人为和平投入更多资源",
-      "category": "国际",
-      "summary": "在这个冲突、暴力和分裂日益加剧、给数百万民众带来巨大苦难的世界中，联合国秘书长周一呼吁世界各国领导人和公民为和平投入更多资源。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142832",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142831",
-      "title": "刚果（金）启动埃博拉疫苗试验",
-      "category": "国际",
-      "summary": "刚果民主共和国（刚果（金））正在开展一项埃博拉疫苗试验，参与者包括一线医护人员及其他参与疫情应对的工作人员。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142831",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -1708,23 +1725,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T00:17:16.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#4",
-      "title": "美國能在外太空部署哪些武器？",
-      "category": "国际",
-      "summary": "美國的宣佈顯示，地球軌道上的嶄新現代戰爭領域正在發展。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T14:57:03.000Z",
       "tags": [
         "国际",
         "商业",

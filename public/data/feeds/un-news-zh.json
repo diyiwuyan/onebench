@@ -5,6 +5,69 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142870",
+      "title": "泰国总理阿努廷：泰国从未寻求与柬埔寨发生冲突",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142870",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142869",
+      "title": "【联大高级别周特别报道】停火与建国：国际社会再议“两国方案”的现实挑战",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142869",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142868",
+      "title": "科威特王储：谴责伊朗袭击 呼吁维护地区安全与航行自由",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142868",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142871",
+      "title": "【联大高级别周特别报道】从能源危机到转型：可再生能源重塑能源安全 ——专访国际可再生能源署总干事拉·卡梅拉",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142871",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142867",
+      "title": "【联大高级别周特别报道】联合国通过《海平面上升宣言》：以全球行动应对“正在淹没未来”的危机",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142867",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142866",
+      "title": "内塔尼亚胡：以色列“别无选择” 必须阻止伊朗获得核武器并继续捍卫国家",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142866",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142865",
+      "title": "欧洲理事会主席科斯塔：需要强大、有效且具有代表性的多边主义",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142865",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142864",
+      "title": "匈牙利总统鲍卡：权力只有在服从法律时才能赢得信任",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142864",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142863",
+      "title": "阿巴斯：我们绝不离开我们的故土，也绝不允许任何人代替我们决定未来",
+      "meta": "联合国新闻 · 2026/9/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142863",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142861",
       "title": "联大高级别周特别报道丨2026年9月24日",
       "meta": "联合国新闻 · 2026/9/24",
@@ -34,7 +97,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142857",
-      "title": "【高级别州特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
+      "title": "【高级别周特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
       "meta": "联合国新闻 · 2026/9/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142857",
       "publishedAt": "2026-09-23T12:00:00.000Z"
@@ -150,71 +213,8 @@
       "meta": "联合国新闻 · 2026/9/22",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142840",
       "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142839",
-      "title": "埃尔多安批评以色列在加沙和约旦河西岸的行动 呼吁国际社会施压推动停火",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142839",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142838",
-      "title": "约旦国王阿卜杜拉二世：以色列政府的扩张野心已经成为地区性威胁",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142838",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142837",
-      "title": "特朗普联大演讲：强调“美国崛起”，主张以“美国优先”推动国际事务",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142837",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142836",
-      "title": "巴西总统卢拉：联合国正面临最关键时刻，外交是解决冲突的唯一选择",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142836",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142835",
-      "title": "联大第81届会议主席：联合国不可替代 重建信任乃当务之急",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142835",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142834",
-      "title": "古特雷斯：世界正面临和平、不平等、气候和人工智能四大考验",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142834",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142833",
-      "title": "联合国谴责胡塞武装对利雅得发动袭击，也门流离失所人数激增至13万余人",
-      "meta": "联合国新闻 · 2026/9/21",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142833",
-      "publishedAt": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142832",
-      "title": "我们并非无能为力：联合国秘书长敦促世界各国领导人为和平投入更多资源",
-      "meta": "联合国新闻 · 2026/9/21",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142832",
-      "publishedAt": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142831",
-      "title": "刚果（金）启动埃博拉疫苗试验",
-      "meta": "联合国新闻 · 2026/9/21",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142831",
-      "publishedAt": "2026-09-21T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-24T21:31:13.594Z",
+  "updatedAt": "2026-09-25T00:33:56.140Z",
   "provider": "OneBench 公共资讯快照"
 }
