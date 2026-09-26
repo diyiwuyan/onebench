@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:563361c7-4f85-4b80-9639-4c2f0a3a1317",
+      "title": "世卫组织扩大安全避孕选择",
+      "meta": "世界卫生组织 · 2026/9/23",
+      "url": "https://www.who.int/zh/news-room/23-09-2026-who-expands-safe-options-for-contraception",
+      "publishedAt": "2026-09-23T08:50:44.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:ae840f12-bb0f-4ac9-86a1-9bf228426abb",
       "title": "联合国大会大流行病问题会议召开前夕，会员国推进关于病原体获取和惠益分享的谈判",
       "meta": "世界卫生组织 · 2026/9/18",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/15",
       "url": "https://www.who.int/zh/news-room/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
       "publishedAt": "2026-07-15T00:01:54.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:03e91a6b-722b-4eef-97a8-308ad29ccc26",
-      "title": "世卫组织确认萨尔瓦多已消除沙眼这一公共卫生问题",
-      "meta": "世界卫生组织 · 2026/7/13",
-      "url": "https://www.who.int/zh/news-room/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
-      "publishedAt": "2026-07-13T09:57:57.000Z"
     }
   ],
-  "updatedAt": "2026-09-25T23:18:09.776Z",
+  "updatedAt": "2026-09-26T04:58:48.790Z",
   "provider": "OneBench 公共资讯快照"
 }

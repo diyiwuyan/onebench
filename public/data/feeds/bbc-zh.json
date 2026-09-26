@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad#3",
+      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
+      "meta": "BBC 中文 · 2026/9/26",
+      "url": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T02:51:55.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c97700x5exleo/trad#1",
       "title": "習近平訪美最後一天 參觀國家檔案館後返華",
       "meta": "BBC 中文 · 2026/9/25",
@@ -110,13 +117,6 @@
       "publishedAt": "2026-09-24T03:13:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad#3",
-      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
-      "meta": "BBC 中文 · 2026/9/24",
-      "url": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T02:16:44.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9kgv31pg8eeo/trad#4",
       "title": "習近平訪美晤特朗普：中美AI超級強國的雄心成為焦點",
       "meta": "BBC 中文 · 2026/9/23",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-08T06:35:07.000Z"
     }
   ],
-  "updatedAt": "2026-09-25T23:18:09.776Z",
+  "updatedAt": "2026-09-26T04:58:48.790Z",
   "provider": "OneBench 公共资讯快照"
 }

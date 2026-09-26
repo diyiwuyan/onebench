@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142883",
+      "title": "墨西哥外长：国际法必须凌驾于武力之上 所有争端应通过和平方式解决",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142883",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142882",
+      "title": "巴林外交大臣扎耶尼：国际水道航行自由是适用于所有国家的基本原则",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142882",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142881",
+      "title": "埃及总理马德布利：主张以国家主权维护地区安全",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142881",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142880",
+      "title": "【联大高级别周特别报道】难民高专萨利赫向安理会发出呼吁：从“管理流离失所”走向“解决流离失所”",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142880",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142879",
+      "title": "巴基斯坦总理夏巴兹：选择对话合作与和平而非对抗胁迫与战争",
+      "meta": "联合国新闻 · 2026/9/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142879",
+      "publishedAt": "2026-09-25T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142878",
       "title": "【联大高级别周特别报道】联大高级别会议聚焦“下一场”可能出现的大流行病威胁",
       "meta": "联合国新闻 · 2026/9/25",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/9/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142852",
       "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142851",
-      "title": "伊朗总统佩泽希齐扬：不接受对和平核技术的任何限制",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142851",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142850",
-      "title": "叙利亚总统沙拉：叙利亚正在崛起",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142850",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142848",
-      "title": "联大高级别周特别报道丨2026年9月23日",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142848",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142847",
-      "title": "英国首相伯纳姆：将以新的方式应对未来十年的全球挑战",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142847",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142846",
-      "title": "高市早苗：国际秩序面临挑战 日本重申对联合国和多边主义的承诺",
-      "meta": "联合国新闻 · 2026/9/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142846",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-25T23:18:09.776Z",
+  "updatedAt": "2026-09-26T04:58:48.790Z",
   "provider": "OneBench 公共资讯快照"
 }
