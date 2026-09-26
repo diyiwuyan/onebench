@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142886",
+      "title": "中国国家副主席韩正：维护战后国际秩序 促进共同繁荣 以多边主义捍卫公平正义",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142886",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142884",
+      "title": "联大高级别周特别报道丨2026年9月26日",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142884",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142883",
       "title": "墨西哥外长：国际法必须凌驾于武力之上 所有争端应通过和平方式解决",
       "meta": "联合国新闻 · 2026/9/25",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142854",
       "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142853",
-      "title": "【高级别周特别报道】安理会高级别会议再度讨论乌克兰局势",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142853",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142852",
-      "title": "阿根廷总统米莱：阿根廷将在人工智能领域站在自由的最前沿",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142852",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-26T11:25:26.198Z",
+  "updatedAt": "2026-09-26T16:23:46.299Z",
   "provider": "OneBench 公共资讯快照"
 }
