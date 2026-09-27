@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad#0",
+      "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本",
+      "meta": "BBC 中文 · 2026/9/27",
+      "url": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T11:35:41.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad#0",
       "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
       "meta": "BBC 中文 · 2026/9/27",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-09-25T12:15:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad#1",
       "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
       "meta": "BBC 中文 · 2026/9/25",
       "url": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +73,6 @@
       "meta": "BBC 中文 · 2026/9/25",
       "url": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-25T07:22:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad#1",
-      "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
-      "meta": "BBC 中文 · 2026/9/25",
-      "url": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T06:00:47.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-08T06:35:07.000Z"
     }
   ],
-  "updatedAt": "2026-09-27T08:10:44.291Z",
+  "updatedAt": "2026-09-27T13:58:51.273Z",
   "provider": "OneBench 公共资讯快照"
 }
