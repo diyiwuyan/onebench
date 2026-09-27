@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T21:10:30.784Z",
-  "expiresAt": "2026-09-27T03:10:30.784Z",
+  "generatedAt": "2026-09-27T00:36:28.671Z",
+  "expiresAt": "2026-09-27T06:36:28.671Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,222 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml",
+      "title": "全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作",
+      "category": "综合",
+      "summary": "近日，一条“闪身步”的切片视频爆火网络，引发大量网友和明星的模仿和二创。据了解，该视频片段来自一条安徽花鼓灯舞蹈的教学视频，而“闪身步”是其中的一个基本功动作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml",
+      "publishedAt": "2026-09-27T00:28:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-27/10704319.shtml",
+      "title": "“百元一日聚”走红，戳中了什么",
+      "category": "综合",
+      "summary": "“百元一日聚”戳中了什么",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704319.shtml",
+      "publishedAt": "2026-09-27T00:15:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-27/10704318.shtml",
+      "title": "一本“技能护照”如何实现“跨国旅行”",
+      "category": "综合",
+      "summary": "【站在世界技能舞台中央】一本“技能护照”如何实现“跨国旅行”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704318.shtml",
+      "publishedAt": "2026-09-27T00:09:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml",
+      "title": "南部战区位黄岩岛周边海空域组织海空联合演训",
+      "category": "综合",
+      "summary": "中新网9月27日电 据“南部战区”微信公众号消息，9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml",
+      "publishedAt": "2026-09-27T00:08:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704315.shtml",
+      "title": "欧盟承诺向撒哈拉以南非洲及巴勒斯坦等国提供逾7亿欧元援助",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔9月26日电 (记者 德永健)欧盟26日宣布一揽子援助计划，承诺向撒哈拉以南非洲地区及巴勒斯坦、黎巴嫩等国提供逾7亿欧元援助。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704315.shtml",
+      "publishedAt": "2026-09-26T23:23:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-27/10704316.shtml",
+      "title": "大熊猫“平平”“福双”已启程赴美",
+      "category": "综合",
+      "summary": "2026年9月27日2时55分，大熊猫“平平”“福双”从成都双流机场搭乘包机前往亚特兰大动物园，开启为期十年的旅居生活。启程前，成都大熊猫繁育研究基地为两只大熊猫举办了欢送仪式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704316.shtml",
+      "publishedAt": "2026-09-26T23:20:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-27/10704314.shtml",
+      "title": "9月27日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-27/10704314.shtml",
+      "publishedAt": "2026-09-26T23:05:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml",
+      "title": "特朗普称美国和古巴会达成协议",
+      "category": "综合",
+      "summary": "美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml",
+      "publishedAt": "2026-09-26T22:53:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml",
+      "title": "AI时代，为啥还要拼技能？世赛现场即答案",
+      "category": "综合",
+      "summary": "一生只能参与一次，全球青年同台竞技——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml",
+      "publishedAt": "2026-09-26T22:51:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704311.shtml",
+      "title": "儒家的交友课：“边界感”会让友谊变冷吗",
+      "category": "综合",
+      "summary": "如何交友是05后大学生非常关心的问题，汤同学说：“我想要亲密的友谊，但又害怕被过度侵入，边界感会让友谊变冷吗？边界划在哪里才不会伤害关系？我发现身边很多人都卡在这个困惑里。”儒家思想作为传统文化的主流，至今还影响着人们的生活和观念，不妨看看儒家是怎么看待这个问题的。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704311.shtml",
+      "publishedAt": "2026-09-26T22:48:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704310.shtml",
+      "title": "“请3休13”，一些职场人“拼假游”“拼”出新体验",
+      "category": "综合",
+      "summary": "有的自驾游三个城市，有的边玩边学做木工，还有的游玩三个欧洲国家",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704310.shtml",
+      "publishedAt": "2026-09-26T22:45:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
+      "title": "4条高铁将同日开通 多地迈入高铁时代",
+      "category": "综合",
+      "summary": "本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入高铁时代。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
+      "publishedAt": "2026-09-26T22:41:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704308.shtml",
       "title": "柬埔寨设立首个暹罗鳄遗传保护区",
@@ -356,218 +572,182 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-26/10704290.shtml",
-      "title": "月明照万家 同心共此时——全国各地群众欢度中秋",
-      "category": "综合",
-      "summary": "月明照万家 同心共此时——全国各地群众欢度中秋",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704290.shtml",
-      "publishedAt": "2026-09-26T14:53:59.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142896",
+      "title": "【联大高级别周特别报道】高级别会议聚焦海地危机，呼吁加快部署打击黑帮部队",
+      "category": "国际",
+      "summary": "在海地暴力活动持续蔓延、数百万民众深陷人道主义危机之际，这个加勒比岛国再次成为国际社会关注的焦点。9月24日，联合国经济及社会理事会海地问题特设咨询小组举行部长级会议。与会各方围绕安全、民主和发展三大议题展开讨论，并传递出一个共同信息：如果不能尽快遏制武装帮派扩张，海地恢复国家治理、举行选举和推动经济复苏的努力都将面临严峻挑战。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142896",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-26/10704289.shtml",
-      "title": "不到30小时，宁夏牛肉“直奔”长三角餐桌 ｜活力中国调研行",
-      "category": "综合",
-      "summary": "傍晚，长三角一位市民打开在线上生鲜平台采购的货品，里面是一块色泽红润的鲜牛肉。消费者未必知道，不到30个小时前，它还在宁夏六盘山下的车间里。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704289.shtml",
-      "publishedAt": "2026-09-26T14:52:41.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142895",
+      "title": "【专题报道】以合作应变革，以法治护未来——预防犯罪和刑事司法大会通过《阿布扎比宣言》",
+      "category": "国际",
+      "summary": "当人工智能、加密货币、大数据等新兴技术深刻改变人类社会的同时，犯罪形态也正以前所未有的速度演变。从网络诈骗、勒索软件攻击到跨国有组织犯罪与“犯罪服务化”趋势，数字时代正在重塑全球安全格局。在这一背景下，以“在数字时代保护人民与地球（Protecting People and Planet in the Digital Age）”为主题的第十五届联合国预防犯罪",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142895",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-26/10704288.shtml",
-      "title": "焦点访谈丨中秋习俗代代传承 一轮明月照见千年团圆",
-      "category": "综合",
-      "summary": "早在四千多年前，中华先民便已仰观日月流转，探寻天地时序。千百年来，中秋习俗在各地代代传承，人们借一轮明月，传递真挚的问候与美好的期许。正如诗人李白写下的千古名句：“今人不见古时月，今月曾经照古人。”这一轮皓月贯通古今，也成为今人与古人跨越时空对话的精神纽带。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704288.shtml",
-      "publishedAt": "2026-09-26T14:50:51.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142894",
+      "title": "德国外长瓦德富尔：国际法受到侵蚀 一些大国无视《联合国宪章》所载规则",
+      "category": "国际",
+      "summary": "德国外长瓦德富尔周六在联合国大会第八十一届会议一般性辩论上发表讲话说，国际法受到侵蚀，一些大国无视《联合国宪章》所载规则。联合国需要弥合对自身的期望与赋予其的能力之间的差距，并通过改革提升应对冲突和全球性挑战的能力。他同时呼吁建立人工智能安全规则。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142894",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-26/10704278.shtml",
-      "title": "（爱知·名古屋亚运会）名古屋亚运会状况频发 组委会致歉",
-      "category": "综合",
-      "summary": "中新社东京9月26日电 (记者 朱晨曦)据爱知·名古屋亚运会官网26日消息，本届亚运会组委会事务总长村手聪就近期接连出现的赛事组织问题表示道歉。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704278.shtml",
-      "publishedAt": "2026-09-26T13:58:23.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142893",
+      "title": "印度外长苏杰生：和平本身就是道路",
+      "category": "国际",
+      "summary": "印度外交部长苏杰生周六在联合国大会第八十一届会议一般性辩论上发表讲话说，冲突与对抗仍是当前国际社会最主要的关切，印度呼吁各方保持克制、缓和紧张局势，保障平民安全和能源、贸易畅通，并通过对话和外交推动和平。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142893",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-26/10704224.shtml",
-      "title": "南非约翰内斯堡东部接连发现10具女性遗体",
-      "category": "综合",
-      "summary": "中新网约翰内斯堡9月26日电 (记者 孙翔)南非警方26日称，当日上午，在约翰内斯堡东部城市群埃库鲁莱尼再次发现一具女性遗体，地点靠近一处非正规定居点。这是近期在该地区发现的第10具女性遗体，引发社会关注。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10704224.shtml",
-      "publishedAt": "2026-09-26T13:52:49.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142892",
+      "title": "新加坡外长维文：多边主义符合所有国家的共同利益",
+      "category": "国际",
+      "summary": "新加坡外交部长维文周六在联合国大会第八十一届会议一般性辩论上发表讲话说，世界正经历大国博弈、地缘政治竞争、战争、贸易壁垒、供应链中断和气候变化，多边主义日益受到挑战。他说，共同规则能够提高可预测性，约束权力任性行使，维护各国自主权，多边主义符合所有国家的共同利益。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142892",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-26/10704252.shtml",
-      "title": "巴西东北部客车侧翻致7死13伤",
-      "category": "综合",
-      "summary": "中新社圣保罗9月26日电 巴西巴伊亚州公共安全厅26日向媒体证实，当地时间25日晚，巴西东北部巴伊亚州BR-122公路发生一起客车侧翻事故，造成至少7人死亡、13人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10704252.shtml",
-      "publishedAt": "2026-09-26T13:52:31.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142891",
+      "title": "沙特外交大臣费萨尔：必须确保霍尔木兹海峡等国际水道航行自由",
+      "category": "国际",
+      "summary": "沙特外交大臣费萨尔周六在联合国大会第八十一届会议一般性辩论上发表讲话说，沙特阿拉伯王国及本地区各国遭受伊朗袭击，安全资源以及民用和经济设施成为目标。沙特王国重申有权保护自身安全与主权、公民和居民以及国家资源，并强调必须确保所有国际水道，尤其是霍尔木兹海峡、曼德海峡、红海和亚丁湾的航行自由。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142891",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-26/10704261.shtml",
-      "title": "2026斯巴达勇士儿童赛上海站落幕 奥运冠军许昕带儿子参赛",
-      "category": "综合",
-      "summary": "中新网上海9月26日电(缪璐 狄权)9月25日至26日，2026泰兰尼斯—斯巴达勇士儿童赛上海站举行，近5000名小勇士及家庭齐聚临港，在奔跑、翻越与攀爬中尽情释放体能与热情，用实际行动诠释勇气的意义。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704261.shtml",
-      "publishedAt": "2026-09-26T13:52:21.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142890",
+      "title": "俄罗斯外长拉夫罗夫：维护联合国中心地位 建立更加多极化的世界秩序",
+      "category": "国际",
+      "summary": "俄罗斯外长拉夫罗夫周六在联合国大会第八十一届会议一般性辩论上发表讲话说，全球政治格局正在发生剧变，一个更加公平、多极化的世界秩序正在形成，全球南方和东方国家正作为主权发展中心崭露头角。他说，俄罗斯外交政策以这一理念为基础，主张维护《联合国宪章》和国际法，推动建立多极化世界秩序。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142890",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-26/10704276.shtml",
-      "title": "中新人物丨刘欢，讲台之上，舞台之下",
-      "category": "综合",
-      "summary": "“风好大。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704276.shtml",
-      "publishedAt": "2026-09-26T13:42:04.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142889",
+      "title": "古巴外长罗德里格斯：美国对古巴动用军事力量的威胁依然存在",
+      "category": "国际",
+      "summary": "古巴外长罗德里格斯周六在联合国大会第八十一届会议一般性辩论上发表讲话说，美国对古巴动用军事力量的威胁依然存在。他强调，美国政府对古巴的多维度侵略自2026年1月以来不断升级，包括实施能源封锁、阻止其他国家向古巴出口燃料、限制产品和服务出口，并对各国企业和政府施加压力。他说，美国对古巴的政策违反国际法，古巴不是威胁，“封锁，才是真正的威胁”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
-      "title": "各地商圈新场景新业态加快“上新” 特色服务让消费“品味”加速升级",
-      "category": "综合",
-      "summary": "央视网消息：每到节日假期，各地各具特色的步行街、商业街客流明显增多，新场景新业态也加快“上新”。从城市商圈到县域商圈，消费正在实现从“买商品”转变为“重体验”。下面，我们就一起去各地“品味”商圈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
-      "publishedAt": "2026-09-26T13:36:34.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142888",
+      "title": "菲律宾外长拉扎罗：南海争端应通过外交和法律途径解决",
+      "category": "国际",
+      "summary": "菲律宾外交部长拉扎罗周六在联合国大会第八十一届会议一般性辩论上发表讲话说，国际法必须作为解决海洋争端的指引，菲律宾坚定认为，争端必须通过外交和法律途径解决，而非诉诸暴力和武力。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142888",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-26/10704260.shtml",
-      "title": "西安交大举行航空与海洋交叉学科高质量发展会议",
-      "category": "综合",
-      "summary": "中新网西安9月26日电 (阿琳娜 张煜晨)西安交通大学24日在中国西部科技创新港举行航空与海洋交叉学科高质量发展会议，并为航空发动机结构安全基础科学研究中心、航空发动机学院、海洋科学与工程学院揭牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704260.shtml",
-      "publishedAt": "2026-09-26T13:31:46.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142887",
+      "title": "柬埔寨副首相布拉索昆：重建泰柬信任 通过和平与国际法解决争端",
+      "category": "国际",
+      "summary": "柬埔寨副首相布拉索昆周六在联合国大会第八十一届会议一般性辩论上发表讲话说，柬埔寨将继续寻求与泰国建立基于和平、合作和相互尊重的关系，全面、有效落实双方已达成的协议，重建信任，解决边界争端。他说，应尽快恢复联合边界委员会的勘测和划界工作，根据国际法以及两国现有条约和协议确立清晰且相互承认的边界。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142887",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-26/10704259.shtml",
-      "title": "第48届世界技能大赛收官 热门赛项亮点频出",
-      "category": "综合",
-      "summary": "中新社上海9月26日电 题：第48届世界技能大赛收官 热门赛项亮点频出",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704259.shtml",
-      "publishedAt": "2026-09-26T13:30:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-26/10704274.shtml",
-      "title": "中国治沙人殷玉珍的新目标：“一代接着一代干”",
-      "category": "综合",
-      "summary": "中新网鄂尔多斯9月26日电 题：中国治沙人殷玉珍的新目标：“一代接着一代干”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704274.shtml",
-      "publishedAt": "2026-09-26T13:29:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1155,60 +1335,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142864",
-      "title": "匈牙利总统鲍卡：权力只有在服从法律时才能赢得信任",
-      "category": "国际",
-      "summary": "匈牙利总统鲍卡周四在联合国大会第八十一届会议一般性辩论上发表讲话说，权力只有在服从法律时，才能赢得信任。法律必须适用于包括当权者在内的所有人。他表示，将捍卫宪法、国家机构的自由以及每一位匈牙利公民的尊严，并推动重建国内信任。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142864",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142863",
-      "title": "阿巴斯：我们绝不离开我们的故土，也绝不允许任何人代替我们决定未来",
-      "category": "国际",
-      "summary": "巴勒斯坦国总统阿巴斯周四在联合国大会第八十一届会议一般性辩论上通过预先录制的视频发表讲话说，巴勒斯坦人民正面临历史上最危险的时刻之一。他呼吁国际社会保护巴勒斯坦人民、结束占领，并在国际合法性的基础上落实“两国方案”。他誓言：“我们绝不离开我们的故土。我们绝不接受流离失所，也绝不允许任何人代替我们决定我们的未来。”",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142863",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142861",
-      "title": "联大高级别周特别报道丨2026年9月24日",
-      "category": "国际",
-      "summary": "欢迎收看联合国大会第81届会议高级别周特别报道。本期节目您将看到，一般性辩论进入第二天，伊朗、乌克兰等战乱国家领导人登上联大讲坛；全球人工智能巨头安理会齐发声：AI发展不能只追求速度，安全必须跟上。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142861",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad#4",
       "title": "特朗普為何親赴機場，超規格接待習近平？",
       "category": "国际",
@@ -1448,132 +1574,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142860",
-      "title": "西班牙首相桑切斯：呼吁捍卫多边主义 支持拉丁美洲女性出任秘书长",
-      "category": "国际",
-      "summary": "西班牙政府首相佩德罗·桑切斯周三在联合国大会第八十一届会议一般性辩论上发表讲话说，和平、可持续发展和机会平等是人类未来不可或缺的一部分，面对对多边主义和联合国的挑战，必须改革并强化联合国，使其继续发挥核心作用。他同时明确表示支持拉丁美洲女性出任秘书长。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142860",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142859",
-      "title": "委内瑞拉代总统罗德里格斯：已启动旨在实现“重生”的民主转型进程",
-      "category": "国际",
-      "summary": "委内瑞拉代总统德尔西·罗德里格斯周三在联合国大会第八十一届会议一般性辩论上发表讲话说，委内瑞拉已启动一项旨在实现“重生”的民主转型进程，这是一个有序、制度化且可核查的进程，旨在建设一个更加自由、更加繁荣、更加和解的国家。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142859",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142858",
-      "title": "【高级别周特别报道】安理会高级别会议聚焦人工智能与国际安全",
-      "category": "国际",
-      "summary": "当地时间9月23日下午，安理会围绕“人工智能与国际安全”问题举行高级别会议。随着生成式人工智能和自主智能体技术快速发展，人工智能治理正成为国际社会关注的新议题。本次会议聚焦先进人工智能系统可能引发的安全风险、治理挑战以及国际合作路径。多位全球人工智能领域的主要科学家和领军企业的负责人在会上发出警示：在技术能力加速提升的同时，人类社会亟需建立与之相适应的全球治",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142858",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142857",
-      "title": "【高级别周特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周三表示，“我们是第一代拥有终结化石燃料时代工具的人——也是最后一代能够避免气候灾难的人”。他呼吁各国制定具有可信度的路线图，并设定明确的时间表，以实现摆脱化石燃料的转型。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142857",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142856",
-      "title": "塞尔维亚总统武契奇：国际秩序已发生变化 必须恢复对《联合国宪章》的尊重",
-      "category": "国际",
-      "summary": "塞尔维亚总统武契奇周三在联合国大会第八十一届会议一般性辩论上表示，当前国际体系已经发生根本变化，世界正进入一个权力格局更加复杂、冲突风险更高的时期。他说，必须重建对联合国的信任，但首先需要恢复对《联合国宪章》和国际法原则的尊重。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142856",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142855",
-      "title": "波兰总统纳夫罗茨基：必须恢复国际法至高地位 反对以强权取代法律",
-      "category": "国际",
-      "summary": "波兰总统纳夫罗茨基周三在联合国大会第八十一届会议一般性辩论上表示，联合国成立之初的体系存在“原始缺陷”，即未能充分落实对违法行为追究责任的原则。他说，恢复问责原则、维护国际法至高地位，是实现持久和平的重要基础。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142855",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142854",
-      "title": "泽连斯基：必须限制俄罗斯的行动空间、资金和战争",
-      "category": "国际",
-      "summary": "乌克兰总统泽连斯基周三在联合国大会第八十一届会议一般性辩论上表示，这场与乌克兰之间的战争必须结束，并呼吁限制俄罗斯的行动空间、资金和战争能力。他说，乌克兰正在发展自身防御能力，同时推动外交努力，目标是在战争进一步升级、人工智能开始影响战场之前实现和平。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142854",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

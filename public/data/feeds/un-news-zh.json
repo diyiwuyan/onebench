@@ -5,6 +5,76 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142896",
+      "title": "【联大高级别周特别报道】高级别会议聚焦海地危机，呼吁加快部署打击黑帮部队",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142896",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142895",
+      "title": "【专题报道】以合作应变革，以法治护未来——预防犯罪和刑事司法大会通过《阿布扎比宣言》",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142895",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142894",
+      "title": "德国外长瓦德富尔：国际法受到侵蚀 一些大国无视《联合国宪章》所载规则",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142894",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142893",
+      "title": "印度外长苏杰生：和平本身就是道路",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142893",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142892",
+      "title": "新加坡外长维文：多边主义符合所有国家的共同利益",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142892",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142891",
+      "title": "沙特外交大臣费萨尔：必须确保霍尔木兹海峡等国际水道航行自由",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142891",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142890",
+      "title": "俄罗斯外长拉夫罗夫：维护联合国中心地位 建立更加多极化的世界秩序",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142890",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142889",
+      "title": "古巴外长罗德里格斯：美国对古巴动用军事力量的威胁依然存在",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142888",
+      "title": "菲律宾外长拉扎罗：南海争端应通过外交和法律途径解决",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142888",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142887",
+      "title": "柬埔寨副首相布拉索昆：重建泰柬信任 通过和平与国际法解决争端",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142887",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142886",
       "title": "中国国家副主席韩正：维护战后国际秩序 促进共同繁荣 以多边主义捍卫公平正义",
       "meta": "联合国新闻 · 2026/9/26",
@@ -143,78 +213,8 @@
       "meta": "联合国新闻 · 2026/9/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142865",
       "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142864",
-      "title": "匈牙利总统鲍卡：权力只有在服从法律时才能赢得信任",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142864",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142863",
-      "title": "阿巴斯：我们绝不离开我们的故土，也绝不允许任何人代替我们决定未来",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142863",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142861",
-      "title": "联大高级别周特别报道丨2026年9月24日",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142861",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142860",
-      "title": "西班牙首相桑切斯：呼吁捍卫多边主义 支持拉丁美洲女性出任秘书长",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142860",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142859",
-      "title": "委内瑞拉代总统罗德里格斯：已启动旨在实现“重生”的民主转型进程",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142859",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142858",
-      "title": "【高级别周特别报道】安理会高级别会议聚焦人工智能与国际安全",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142858",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142857",
-      "title": "【高级别周特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142857",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142856",
-      "title": "塞尔维亚总统武契奇：国际秩序已发生变化 必须恢复对《联合国宪章》的尊重",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142856",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142855",
-      "title": "波兰总统纳夫罗茨基：必须恢复国际法至高地位 反对以强权取代法律",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142855",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142854",
-      "title": "泽连斯基：必须限制俄罗斯的行动空间、资金和战争",
-      "meta": "联合国新闻 · 2026/9/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142854",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-26T21:10:30.784Z",
+  "updatedAt": "2026-09-27T00:36:28.671Z",
   "provider": "OneBench 公共资讯快照"
 }
