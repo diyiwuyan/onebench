@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T18:24:26.925Z",
-  "expiresAt": "2026-09-28T00:24:26.925Z",
+  "generatedAt": "2026-09-27T23:03:32.187Z",
+  "expiresAt": "2026-09-28T05:03:32.187Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-28/10704642.shtml",
+      "title": "9月28日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-28/10704642.shtml",
+      "publishedAt": "2026-09-27T22:55:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-28/10704640.shtml",
+      "title": "特朗普：预计美伊将在几天内重启谈判",
+      "category": "综合",
+      "summary": "中新网9月28日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普27日在接受该媒体电话采访时表示，他预计美国和伊朗将在接下来一周内重启谈判。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704640.shtml",
+      "publishedAt": "2026-09-27T22:51:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704641.shtml",
+      "title": "面试被指“能力不足”，求职者因“培训”背上近3万元贷款",
+      "category": "综合",
+      "summary": "打着“招聘”旗号却暗藏“培训贷”等陷阱",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704641.shtml",
+      "publishedAt": "2026-09-27T22:49:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704639.shtml",
+      "title": "高铁集中上新！四条新线今日开通",
+      "category": "综合",
+      "summary": "国庆假期即将到来，我国高铁网络将再次扩容。今天(9月28日)，京港高铁雄商段、西渝高铁西安至安康段、宜兴高铁、哈伊高铁等四条高铁线路集中开通运营，新开线路覆盖华北、东北、西北、华中四大区域，多地正式迈入高铁时代。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704639.shtml",
+      "publishedAt": "2026-09-27T22:43:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704638.shtml",
+      "title": "虚假宣传、合同欺诈......警惕加盟店“快招”骗局",
+      "category": "综合",
+      "summary": "有读者反映，加盟连锁店遇到虚假宣传、合同欺诈、乱收费用等问题——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704638.shtml",
+      "publishedAt": "2026-09-27T22:33:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
+      "title": "伊朗称已为与美战事重开做好准备 但未放弃外交途径",
+      "category": "综合",
+      "summary": "据伊朗方面27日消息，伊朗外长阿拉格齐表示，伊朗已做好与美国战事重开的准备，但尚未放弃通过外交途径进行接触。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
+      "publishedAt": "2026-09-27T22:22:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-28/10704636.shtml",
+      "title": "塞尔维亚总统武契奇宣布辞职",
+      "category": "综合",
+      "summary": "当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。武契奇在讲话中感谢塞尔维亚民众两次在总统选举中给予他的信任。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704636.shtml",
+      "publishedAt": "2026-09-27T22:20:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-28/10704635.shtml",
+      "title": "（爱知·名古屋亚运会）黄友政/林诗栋问鼎亚运会乒乓球男双 王曼昱女单夺冠",
+      "category": "综合",
+      "summary": "中新社日本名古屋9月27日电 (记者 国璇) 爱知·名古屋亚运会乒乓球项目27日决出两枚金牌。中国组合黄友政/林诗栋以大比分4:2击败东道主组合张本智和/篠塚大登，收获男双金牌。女单决赛在两位中国选手之间展开，王曼昱战胜卫冕冠军孙颖莎，夺得冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704635.shtml",
+      "publishedAt": "2026-09-27T22:16:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml",
       "title": "以技能之桥联通世界 第48届世界技能大赛闭幕",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704609.shtml",
       "publishedAt": "2026-09-27T13:56:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-27/10704604.shtml",
-      "title": "柏林世界公园中秋庆典举行",
-      "category": "综合",
-      "summary": "中新网柏林9月27日电 一年一度的中秋节庆祝活动26日在柏林世界公园举行。来自不同文化背景的数万名柏林市民相聚一堂，赏灯、观看演出、体验中国文化魅力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-27/10704604.shtml",
-      "publishedAt": "2026-09-27T13:56:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704607.shtml",
-      "title": "山西和顺深耕月饼非遗技艺 传统美食创新拓宽市场",
-      "category": "综合",
-      "summary": "中新网晋中9月27日电 题：山西和顺深耕月饼非遗技艺 传统美食创新拓宽市场",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704607.shtml",
-      "publishedAt": "2026-09-27T13:55:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-27/10704606.shtml",
-      "title": "科创与资本双向奔赴 数贸会成投融资对接“强磁场”",
-      "category": "综合",
-      "summary": "中新网杭州9月27日电(奚金燕)9月23日至27日，第五届全球数字贸易博览会在杭州举办。作为全球数字贸易领域的重要窗口，本届数贸会不仅集中展示前沿技术、创新产品与应用场景，也成为观察资本流向、产业趋势和科创生态的重要平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704606.shtml",
-      "publishedAt": "2026-09-27T13:55:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704603.shtml",
-      "title": "宋韵中秋夜 浙江古镇“新中式”赏月消费观察",
-      "category": "综合",
-      "summary": "中新网丽水9月27日电(胡丰盛)中秋月圆，浙江丽水瓯江畔的古堰画乡热闹非凡。鱼灯踩街、丞相派月、音乐嘉年华轮番登场，白天是流动的国风画卷，夜晚是山水间的音乐现场。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704603.shtml",
-      "publishedAt": "2026-09-27T13:55:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-27/10704602.shtml",
-      "title": "技能赋能文旅 侨乡浙江青田解锁持久“出圈”新路径",
-      "category": "综合",
-      "summary": "中新网丽水9月27日电(周健)流量快速出圈，热度转瞬即逝，如何凭专业技能接住文旅风口、用硬核服务留住游客？放眼浙江，侨乡青田给出了可参考的“答案”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-27/10704602.shtml",
-      "publishedAt": "2026-09-27T13:54:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704612.shtml",
-      "title": "一投致胜！小将严子怡打破女子标枪亚运会纪录夺冠",
-      "category": "综合",
-      "summary": "中新网9月27日电(记者 李志全 徐朋朋)当地时间9月27日晚，在爱知·名古屋亚运会田径项目女子标枪决赛中，18岁的中国小将严子怡凭借第一投的70米46轻松夺冠，这也打破了奥运冠军刘诗颖在2018年雅加达亚运会上创下的66米09的亚运会纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704612.shtml",
-      "publishedAt": "2026-09-27T13:45:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-27/10704599.shtml",
-      "title": "赣超冠军之夜：绿茵场上的“新南昌人”",
-      "category": "综合",
-      "summary": "中新网南昌9月27日电 (付丽玲)9月26日晚，2026年江西省城市足球超级联赛冠亚军决赛(简称“赣超”)在南昌国际体育中心举行，南昌队以2:1战胜九江队，夺得本届赣超冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-27/10704599.shtml",
-      "publishedAt": "2026-09-27T13:40:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704605.shtml",
-      "title": "中国蝉联世界技能大赛金牌榜榜首",
-      "category": "综合",
-      "summary": "记者从9月27日晚于上海举行的第48届世界技能大赛闭幕式上获悉，中国登顶本届大赛金牌榜。至此，中国已连续5届位居世界技能大赛金牌榜榜首。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704605.shtml",
-      "publishedAt": "2026-09-27T13:37:17.000Z",
       "tags": [
         "国内",
         "社会",
