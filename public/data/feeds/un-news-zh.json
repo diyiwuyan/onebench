@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142901",
+      "title": "朝鲜副外相：朝鲜核武器国家地位已永久确立",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142901",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142900",
+      "title": "阿联酋国务部长：反对胁迫 呼吁和平解决与伊朗争议",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142900",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142899",
       "title": "联大高级别周特别报道丨2026年9月27日",
       "meta": "联合国新闻 · 2026/9/27",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142868",
       "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142871",
-      "title": "【联大高级别周特别报道】从能源危机到转型：可再生能源重塑能源安全 ——专访国际可再生能源署总干事拉·卡梅拉",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142871",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142867",
-      "title": "【联大高级别周特别报道】联合国通过《海平面上升宣言》：以全球行动应对“正在淹没未来”的危机",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142867",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:55:21.174Z",
+  "updatedAt": "2026-09-28T20:33:34.166Z",
   "provider": "OneBench 公共资讯快照"
 }
