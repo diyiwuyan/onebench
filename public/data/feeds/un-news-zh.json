@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142899",
+      "title": "联大高级别周特别报道丨2026年9月27日",
+      "meta": "联合国新闻 · 2026/9/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142899",
+      "publishedAt": "2026-09-27T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142897",
       "title": "加拿大外长阿南德：增强战略自主权 实现伙伴关系多元化",
       "meta": "联合国新闻 · 2026/9/26",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142867",
       "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142866",
-      "title": "内塔尼亚胡：以色列“别无选择” 必须阻止伊朗获得核武器并继续捍卫国家",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142866",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-27T23:03:32.187Z",
+  "updatedAt": "2026-09-28T05:24:18.572Z",
   "provider": "OneBench 公共资讯快照"
 }

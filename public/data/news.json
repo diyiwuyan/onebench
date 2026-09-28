@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T23:03:32.187Z",
-  "expiresAt": "2026-09-28T05:03:32.187Z",
+  "generatedAt": "2026-09-28T05:24:18.572Z",
+  "expiresAt": "2026-09-28T11:24:18.572Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,211 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-28/10704642.shtml",
-      "title": "9月28日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704797.shtml",
+      "title": "广州选手在第48届世界技能大赛夺7金",
+      "category": "综合",
+      "summary": "中新网广州9月28日电 (记者 程景伟)据广州市人社局28日消息，第48届世界技能大赛27日晚闭幕，共有9名广州选手代表国家参加本届世赛8个项目的角逐，一举夺得7金1优胜奖，获金牌数占广东全省超二分之一，约占全国金牌总数的六分之一，位列全国各城市首位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704797.shtml",
+      "publishedAt": "2026-09-28T05:15:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-28/10704796.shtml",
+      "title": "沪喀青少年同台放歌 音乐会唱响民族团结情谊",
+      "category": "综合",
+      "summary": "中新网上海9月28日电(蒋小威 张亨伟)第四届绿篱音乐会27日在上海马兰花剧场举行。来自新疆喀什地区巴楚县、莎车县的青少年与上海青少年欢聚一堂，以音乐为媒、以歌声会友，在同台演出和交流互动中增进了解、加深友谊。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704796.shtml",
+      "publishedAt": "2026-09-28T05:14:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704795.shtml",
+      "title": "中国最北高铁通车运营 黑龙江综合立体交通网建设实现跃升",
+      "category": "综合",
+      "summary": "中新网伊春9月28日电 (记者 史轶夫)28日，我国最北高铁——哈尔滨至伊春高速铁路(以下简称哈伊高铁)正式开通运营。哈尔滨至伊春间铁路运行时间由7小时左右缩短至2小时左右。至此，黑龙江省10个市地实现高铁通达，为全省区域协同发展、文旅产业升级注入全新动能，对促进龙江高质量振兴发展具有重要意义。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704795.shtml",
+      "publishedAt": "2026-09-28T05:13:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-28/10704794.shtml",
+      "title": "第32届“蓉城之秋”成都国际音乐季启幕",
+      "category": "综合",
+      "summary": "中新网成都9月28日电 (单鹏)第32届“蓉城之秋”成都国际音乐季27日晚在成都露天音乐公园启幕。开幕音乐会创新采用户外交响乐形式，打破传统音乐厅的空间边界，让高雅交响艺术走出殿堂、拥抱城市烟火。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704794.shtml",
+      "publishedAt": "2026-09-28T05:12:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-28/10704793.shtml",
+      "title": "亚运会羽毛球：中国队三项闯入决赛 陈雨菲、王祉怡止步女单四强",
+      "category": "综合",
+      "summary": "中新网9月28日电(记者 李志全)当地时间9月28日，爱知·名古屋亚运会羽毛球单项赛展开半决赛争夺。中国队在混双、男双、女双三个项目闯入决赛，陈雨菲、王祉怡在女单赛场止步四强。此前，中国队男单参赛选手均已出局。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704793.shtml",
+      "publishedAt": "2026-09-28T05:07:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad#0",
+      "title": "英國美軍在用基地發生反恐案件：我們目前知道什麼？",
+      "category": "国际",
+      "summary": "反恐警方正主導調查該空軍基地附近發生的一起重大事件，目前已有五名男子被捕。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T04:59:06.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-28/10704790.shtml",
+      "title": "陈茂波：欢迎卡塔尔投资者参与香港北都建设，共拓创科商机",
+      "category": "综合",
+      "summary": "中新社香港9月28日电 当地时间9月27日，香港特区政府财政司司长陈茂波在卡塔尔多哈访问时表示，粤港澳大湾区建设及香港北部都会区(简称“北都”)发展带来机遇，特别是北都“南金融、北创科”的发展布局。他欢迎卡塔尔企业及投资者参与北都建设，共拓创科产业商机。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-28/10704790.shtml",
+      "publishedAt": "2026-09-28T04:55:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704788.shtml",
+      "title": "中国最北高铁开通运营",
+      "category": "综合",
+      "summary": "中新社黑龙江伊春9月28日电 (记者 史轶夫)中国最北高铁——哈尔滨至伊春高速铁路(以下简称哈伊高铁)28日正式开通运营，绥化、伊春等地市接入中国高铁网。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704788.shtml",
+      "publishedAt": "2026-09-28T04:43:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704789.shtml",
+      "title": "今年前8个月上海口岸跨境电商出口额同比增长28.7%",
+      "category": "综合",
+      "summary": "中新社上海9月28日电 (记者 姜煜)据上海海关28日发布的统计数据，2026年前8个月，上海口岸跨境电商出口额1069.8亿元(人民币，下同)，同比增长28.7%，连续8个月保持增长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704789.shtml",
+      "publishedAt": "2026-09-28T04:42:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-28/10704787.shtml",
+      "title": "第二十一届联合国教科文组织孔子教育奖在山东曲阜揭晓",
+      "category": "综合",
+      "summary": "中新社山东曲阜9月28日电 (记者 李欣 赵晓)第二十一届联合国教科文组织孔子教育奖28日在孔子故里山东曲阜揭晓，来自黎巴嫩、墨西哥、泰国的三个项目获此殊荣。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704787.shtml",
+      "publishedAt": "2026-09-28T04:29:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704784.shtml",
+      "title": "“梦想”号大洋钻探船钻获深海洋盆玄武岩样品",
+      "category": "综合",
+      "summary": "中新社北京9月28日电 (记者 庞无忌)记者28日从中国自然资源部中国地质调查局获悉，近日，“梦想”号大洋钻探船成功钻获深海洋盆玄武岩样品。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704784.shtml",
+      "publishedAt": "2026-09-28T04:12:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206249.shtml",
+      "title": "（爱知·名古屋亚运会）中国队包揽跳水女子1米板金银牌",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-28/10704642.shtml",
-      "publishedAt": "2026-09-27T22:55:16.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206249.shtml",
+      "publishedAt": "2026-09-28T04:09:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-28/10704640.shtml",
-      "title": "特朗普：预计美伊将在几天内重启谈判",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-28/10704763.shtml",
+      "title": "航拍贵州荔波“艺术村”——洪江村",
       "category": "综合",
-      "summary": "中新网9月28日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普27日在接受该媒体电话采访时表示，他预计美国和伊朗将在接下来一周内重启谈判。",
+      "summary": "9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄 9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄 9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄 9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄 9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄 ",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704640.shtml",
-      "publishedAt": "2026-09-27T22:51:54.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10704763.shtml",
+      "publishedAt": "2026-09-28T04:03:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704641.shtml",
-      "title": "面试被指“能力不足”，求职者因“培训”背上近3万元贷款",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-28/10704783.shtml",
+      "title": "北京汽车集团有限公司原党委书记、董事长徐和谊一审被判死缓",
       "category": "综合",
-      "summary": "打着“招聘”旗号却暗藏“培训贷”等陷阱",
+      "summary": "2026年9月28日，北京市第三中级人民法院依法公开宣判北京汽车集团有限公司原党委书记、董事长徐和谊受贿、洗钱案，对被告人徐和谊以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；以洗钱罪判处有期徒刑二年，并处罚金人民币二十万元；决定执行死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产。对被告人徐和谊受贿犯罪所得及孳息予以没收，",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704641.shtml",
-      "publishedAt": "2026-09-27T22:49:48.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704783.shtml",
+      "publishedAt": "2026-09-28T03:53:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704639.shtml",
-      "title": "高铁集中上新！四条新线今日开通",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-28/10704782.shtml",
+      "title": "北京延庆“超山”挑战赛举行 近百名户外爱好者参与",
       "category": "综合",
-      "summary": "国庆假期即将到来，我国高铁网络将再次扩容。今天(9月28日)，京港高铁雄商段、西渝高铁西安至安康段、宜兴高铁、哈伊高铁等四条高铁线路集中开通运营，新开线路覆盖华北、东北、西北、华中四大区域，多地正式迈入高铁时代。",
+      "summary": "中新网北京9月28日电 9月27日，2026北京延庆“超山”挑战赛在玉渡山风景区举行，近百名户外运动爱好者齐聚延庆，在山林、溪流与自然风光中完成自行车爬坡、公开水域游泳和越野跑等项目。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704639.shtml",
-      "publishedAt": "2026-09-27T22:43:31.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704782.shtml",
+      "publishedAt": "2026-09-28T03:50:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704638.shtml",
-      "title": "虚假宣传、合同欺诈......警惕加盟店“快招”骗局",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704742.shtml",
+      "title": "比预售再降2万 第二代家庭旗舰奕境X9正式上市，限时优惠价27.98万元起",
       "category": "综合",
-      "summary": "有读者反映，加盟连锁店遇到虚假宣传、合同欺诈、乱收费用等问题——",
+      "summary": "9月24日，奕境X9在广州正式上市。作为东风与华为乾崑全栈原生融合的第二代家庭旗舰，奕境X9共推出4款车型，限时权益价27.98万元起，同步推出三项基础权益与八大限时权益，综合权益价值至高10万元。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704638.shtml",
-      "publishedAt": "2026-09-27T22:33:59.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704742.shtml",
+      "publishedAt": "2026-09-28T03:49:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
-      "title": "伊朗称已为与美战事重开做好准备 但未放弃外交途径",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-28/10704751.shtml",
+      "title": "非遗聚匠心 工博促交融——铁西区文化市集开启双节同心盛宴",
       "category": "综合",
-      "summary": "据伊朗方面27日消息，伊朗外长阿拉格齐表示，伊朗已做好与美国战事重开的准备，但尚未放弃通过外交途径进行接触。",
+      "summary": "9月25日，为扎实推进民族团结进步宣传周走深走实，铁西区依托老工业基地，厚植铸牢中华民族共同体意识，创新“工业+民族团结”创建新模式，区民宗局联合中国工业博物馆，在馆内序厅走廊打造工博文化市集民族团结特色主题活动，以工业肌理赋能民俗文化，以匠心传承凝聚民族同心，全方位展现铁西工业底蕴与各民族交融共生的独特风貌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
-      "publishedAt": "2026-09-27T22:22:20.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-28/10704751.shtml",
+      "publishedAt": "2026-09-28T03:47:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-28/10704636.shtml",
-      "title": "塞尔维亚总统武契奇宣布辞职",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-28/10704736.shtml",
+      "title": "“走基层、看统战”媒体记者、网络大V济宁行采风活动举行",
       "category": "综合",
-      "summary": "当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。武契奇在讲话中感谢塞尔维亚民众两次在总统选举中给予他的信任。",
+      "summary": "为深入贯彻落实全国、全省统战系统宣传工作会议精神，进一步讲好统战故事、传播统战声音，9月21日至23日，省委统战部组织中央驻鲁和省内有关媒体记者、网络大V赴济宁开展“走基层、看统战”采风活动。省委统战部副部长张胜利参加活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704636.shtml",
-      "publishedAt": "2026-09-27T22:20:42.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-28/10704736.shtml",
+      "publishedAt": "2026-09-28T03:46:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-28/10704635.shtml",
-      "title": "（爱知·名古屋亚运会）黄友政/林诗栋问鼎亚运会乒乓球男双 王曼昱女单夺冠",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-28/10704735.shtml",
+      "title": "辽宁建筑职业学院赴牛河梁遗址开展主题研学实践活动",
       "category": "综合",
-      "summary": "中新社日本名古屋9月27日电 (记者 国璇) 爱知·名古屋亚运会乒乓球项目27日决出两枚金牌。中国组合黄友政/林诗栋以大比分4:2击败东道主组合张本智和/篠塚大登，收获男双金牌。女单决赛在两位中国选手之间展开，王曼昱战胜卫冕冠军孙颖莎，夺得冠军。",
+      "summary": "9月23日，辽宁建筑职业学院组织师生赴牛河梁红山文化遗址开展“溯源历史文明根脉，厚植中华共同情怀，凝聚同心奋进力量”主题研学实践活动。21个少数民族的40名学生代表身着绚丽的民族盛装，精神昂扬，实地探寻中华文明历史根脉，以独具特色的民族风采喜迎中华人民共和国77周年华诞。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704635.shtml",
-      "publishedAt": "2026-09-27T22:16:40.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-28/10704735.shtml",
+      "publishedAt": "2026-09-28T03:45:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml",
-      "title": "以技能之桥联通世界 第48届世界技能大赛闭幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-28/10704731.shtml",
+      "title": "云岭动态第十期",
       "category": "综合",
-      "summary": "中新社上海9月27日电 (记者 许婧)第48届世界技能大赛27日在上海闭幕。64个赛项最终成绩全部揭晓，中国代表团成功登顶本届大赛金牌榜。本届世界技能大赛，是全球技能青年同台角逐、拼尽全力证明自己的竞技舞台，也是一座跨越国界、联通产教、融通文明的技能之桥。",
+      "summary": "1.为落实国家秋粮稳产丰收工作部署，今年以来，云南财政统筹安排资金111.7亿元，支持提升全省农业综合生产能力，为全省秋粮丰产丰收筑牢坚实财政保障。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml",
-      "publishedAt": "2026-09-27T16:01:58.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-28/10704731.shtml",
+      "publishedAt": "2026-09-28T03:44:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704633.shtml",
-      "title": "2026中俄国际足球邀请赛在沪开赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-28/10704690.shtml",
+      "title": "大连市举办港澳台侨迎中秋联谊活动",
       "category": "综合",
-      "summary": "中新社上海9月27日电 (记者 缪璐)2026中俄国际足球邀请赛27日晚间在上海市金山体育中心打响。来自中国的上海申花队迎战来自俄罗斯的圣彼得堡泽尼特队，双方鏖战90分钟未分胜负，进入点球大战，申花队以3:4不敌泽尼特队。",
+      "summary": "9月24日，大连市委统战部(市侨办)举办“月满滨城·四海同心”侨港澳代表人士及在连台生联谊活动。市委统战部副部长、市侨办主任王明亮参加活动并致辞，侨港澳代表人士及在连台生共50余人参加。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704633.shtml",
-      "publishedAt": "2026-09-27T15:56:05.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-28/10704690.shtml",
+      "publishedAt": "2026-09-28T03:44:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
-      "title": "特朗普称预计本周继续与伊朗谈判",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-28/10704692.shtml",
+      "title": "第十五届中国电影史年会在山西太原召开",
       "category": "综合",
-      "summary": "据美国方面当地时间9月27日消息，美国总统特朗普接受采访时表示，预计本周将与伊朗继续举行谈判。此前一天，特朗普拒绝了伊朗提出的结束战争方案。",
+      "summary": "中新网9月28日电 9月26日至27日，第十五届中国电影史年会在山西太原召开。本届年会由中国电影资料馆(中国电影艺术研究中心)与山西师范大学联合主办，主题为“社会史中的电影史：中国经验·地方立场·田野方法”，近200位专家学者参会交流。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
-      "publishedAt": "2026-09-27T15:39:33.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704692.shtml",
+      "publishedAt": "2026-09-28T03:42:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704631.shtml",
-      "title": "（爱知·名古屋亚运会）综合消息：中国队包揽乒乓球女单冠亚军 严子怡首秀破纪录夺冠",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-28/10704780.shtml",
+      "title": "中国队夺得亚运会女子25米气手枪团体金牌",
       "category": "综合",
-      "summary": "中新社日本名古屋9月27日电 当地时间27日，爱知·名古屋亚运会共决出35枚金牌。乒乓球赛场，王曼昱战胜孙颖莎夺得女单冠军，中国乒乓球女单包揽金银并实现亚运会该项目八连冠。田径赛场，18岁中国小将严子怡首投即投出70米46打破亚运会纪录，力压日本名将北口榛花夺得女子标枪金牌。",
+      "summary": "9月28日，名古屋亚运会女子25米气手枪团体决赛，由姚千寻、尚凯艳、肖嘉芮萱组成的中国队夺得金牌！",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704631.shtml",
-      "publishedAt": "2026-09-27T15:38:06.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704780.shtml",
+      "publishedAt": "2026-09-28T03:40:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/gn/shipin/cns-d/2026/09-27/news1070351.shtml",
-      "title": "戈壁“花木兰” 戎装守边防",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-28/10704750.shtml",
+      "title": "广东省云浮市委原书记卢荣春主动投案 正接受纪律审查和监察调查",
       "category": "综合",
-      "summary": "近日，“铸牢共同体 中华一家亲”主题宣传采访团走进阿拉善右旗边境管理大队，探访内蒙古首支专业女子护边队。这支女子护边队组建于2023年4月，负责45.25公里边境线和2.8万平方公里边境管理区的巡边踏查、隐患排查、政策宣讲、矛盾调解和便民服务。阿拉善右旗边境管理大队女子护边队队长少日高格介绍，该队由汉族、蒙古族、回族等多个民族队员组成，一共14人，“能把我个",
+      "summary": "中新网广州9月28日电 (记者 程景伟)据广东省纪委监委“南粤清风网”28日消息，云浮市委原书记卢荣春涉嫌严重违纪违法，主动投案，目前正接受广东省纪委监委纪律审查和监察调查。(完)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/09-27/news1070351.shtml",
-      "publishedAt": "2026-09-27T15:19:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704750.shtml",
+      "publishedAt": "2026-09-28T03:40:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704620.shtml",
-      "title": "捷克队夺2026比利·简·金杯女网团体冠军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-28/10704714.shtml",
+      "title": "长期高频率“玩梗” 会导致语言贫乏吗？",
       "category": "综合",
-      "summary": "中新社深圳9月27日电 (记者 张璐)2026比利·简·金杯深圳总决赛27日在深圳收官，捷克队以2:0战胜乌克兰队，夺得冠军。",
+      "summary": "中新网北京9月28日电(记者 上官云)“爱你老己”“活人感”“夯爆了”……如今打开社交媒体，网络热梗或热词的使用并不鲜见，它们鲜活生动，言简意赅地传递情绪，流传范围极广。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704620.shtml",
-      "publishedAt": "2026-09-27T15:11:53.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704714.shtml",
+      "publishedAt": "2026-09-28T03:39:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704621.shtml",
-      "title": "中国蝉联世界技能大赛金牌榜榜首 创历史最好成绩",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-28/10704738.shtml",
+      "title": "旅法侨界举办庆祝新中国成立77周年暨中秋招待会",
       "category": "综合",
-      "summary": "中新社上海9月27日电 第48届世界技能大赛9月27日晚在上海闭幕，中国代表团获得41枚金牌、11枚银牌、4枚铜牌，6个优胜奖，第五次位居金牌榜和团体总分世界第一，创造了中国参加世界技能大赛以来的历史最好成绩。",
+      "summary": "中新网巴黎9月28日电 旅法侨界当地时间9月25日晚在巴黎举办庆祝新中国成立77周年暨中秋招待会。中国驻法大使邓励与夫人张华出席招待会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704621.shtml",
-      "publishedAt": "2026-09-27T15:09:59.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-28/10704738.shtml",
+      "publishedAt": "2026-09-28T03:39:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-27/10704619.shtml",
-      "title": "第16届中国金鹰电视艺术节在长沙开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-28/10704703.shtml",
+      "title": "2026年孔子文化节在莫斯科举行",
       "category": "综合",
-      "summary": "中新社长沙9月27日电 (记者 鲁毅)第33届中国电视金鹰奖暨第16届中国金鹰电视艺术节27日晚在长沙开幕。",
+      "summary": "中新网莫斯科9月28日电 (记者 田冰)2026年孔子文化节暨祭孔仪式当地时间26日在莫斯科中国贸易中心举办。中国驻俄罗斯大使张汉晖，俄罗斯联邦委员会(议会上院)国际事务委员会第一副主席、前驻华大使杰尼索夫，俄罗斯国家杜马(议会下院)体育文化与体育委员会主席马蒂钦，中国驻俄罗斯大使馆公使衔参赞封立涛等出席活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704619.shtml",
-      "publishedAt": "2026-09-27T15:07:37.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-28/10704703.shtml",
+      "publishedAt": "2026-09-28T03:39:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704622.shtml",
-      "title": "第四届“长城之约”全球推广活动暨世界文化遗产对话在河北迁安举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-28/10704753.shtml",
+      "title": "较强冷空气携大风雨雪影响中国 局地降温10℃",
       "category": "综合",
-      "summary": "中新网唐山9月27日电 (王夏菲)9月27日，第四届“长城之约”全球推广活动暨世界文化遗产对话在河北唐山迁安市启幕。来自国内外知名专家学者、摄影师围绕长城文化遗产保护与文明交流互鉴等内容进行了主旨演讲和对话交流。",
+      "summary": "中新社北京9月28日电 (记者 陈溯)记者28日从中国气象局获悉，9月末，一股较强冷空气将自北向南影响江南及其以北地区，局地降温10℃。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704622.shtml",
-      "publishedAt": "2026-09-27T15:07:29.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704753.shtml",
+      "publishedAt": "2026-09-28T03:39:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704618.shtml",
-      "title": "（爱知·名古屋亚运会）中国体育代表团秘书长：前半程中国队成绩符合预期",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-28/10704771.shtml",
+      "title": "今年前8个月中国规上工业企业利润同比增长15.7%",
       "category": "综合",
-      "summary": "中新社日本名古屋9月27日电 在27日举行的中国体育代表团工作会议上，中国体育代表团秘书长张新对中国选手在第20届亚运会上已经完成的比赛情况作出总结时表示，前半程比赛中国运动员的参赛成绩符合赛前预期。",
+      "summary": "中新社北京9月28日电 (记者 王恩博)中国国家统计局28日公布，今年1—8月份，全国规模以上工业企业利润同比增长15.7%。随着人工智能等领域需求持续扩大，电子行业对利润增长拉动明显。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704618.shtml",
-      "publishedAt": "2026-09-27T15:05:13.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704771.shtml",
+      "publishedAt": "2026-09-28T03:38:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704617.shtml",
-      "title": "（爱知·名古屋亚运会）中国选手陈圆将男子110米栏夺冠 吴艳妮女子100米栏摘铜",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-28/10704773.shtml",
+      "title": "乒乓球德甲第六轮：樊振东独得两分 杜塞尔多夫豪取六连胜",
       "category": "综合",
-      "summary": "中新社日本名古屋9月27日电 (记者 李志全)爱知·名古屋亚运会田径项目男子110米栏、女子100米栏决赛27日上演，20岁的中国选手陈圆将以13秒15夺得男子110米栏冠军，中国名将吴艳妮以13秒12摘得女子100米栏铜牌。",
+      "summary": "中新网德国杜塞尔多夫9月28日电 当地时间27日进行的2026-2027赛季德国乒乓球甲级联赛第六轮比赛中，巴黎奥运会男单冠军、中国运动员樊振东代表杜塞尔多夫俱乐部主场出战，全场独得两分，以大比分3:1战胜多特蒙德俱乐部。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704617.shtml",
-      "publishedAt": "2026-09-27T15:03:11.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704773.shtml",
+      "publishedAt": "2026-09-28T03:38:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704616.shtml",
-      "title": "“冠军中的冠军”！中国选手何晓嫚获得阿尔伯特·维达大奖",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-28/10704756.shtml",
+      "title": "2026年海峡两岸（泉州）街舞大赛收官",
       "category": "综合",
-      "summary": "记者从第48届世界技能大赛闭幕式上获悉，中国选手何晓嫚在轨道车辆技术项目中以全场最高分荣获阿尔伯特·维达大奖，这也是我国第3次获得该奖项。该奖项在世界技能大赛中被誉为“冠军中的冠军”。",
+      "summary": "中新网泉州9月28日电 (记者 孙虹)历时3个月选拔比拼，近50名台湾青年舞者、网络达人参与竞技、展演，2026年海峡两岸(泉州)街舞大赛在福建泉州圆满收官。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704616.shtml",
-      "publishedAt": "2026-09-27T14:56:28.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704756.shtml",
+      "publishedAt": "2026-09-28T03:38:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,182 +589,90 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704615.shtml",
-      "title": "王曼昱：决赛可能运气更好一些 明天女双比赛继续拼搏",
-      "category": "综合",
-      "summary": "中新网9月27日电(记者 国璇)当地时间27日晚举行的爱知·名古屋亚运会乒乓球女单决赛中，王曼昱以大比分4:2战胜卫冕冠军孙颖莎，收获金牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704615.shtml",
-      "publishedAt": "2026-09-27T14:54:02.000Z",
+      "id": "sspai-https://sspai.com/post/114967",
+      "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
+      "category": "科技",
+      "summary": "节后再说！ 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114967",
+      "publishedAt": "2026-09-28T03:00:30.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704614.shtml",
-      "title": "孙颖莎：本届亚运会给自己打90分",
-      "category": "综合",
-      "summary": "中新网9月27日电(记者 国璇)当地时间27日晚举行的爱知·名古屋亚运会乒乓球女单决赛中，王曼昱以大比分4:2战胜卫冕冠军孙颖莎，收获金牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704614.shtml",
-      "publishedAt": "2026-09-27T14:43:23.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad#0",
+      "title": "裸甲風潮為何跟「白人至上」發生關聯？",
+      "category": "国际",
+      "summary": "裸甲——或者看起來像裸甲的指甲——正成為越來越流行的趨勢。但這真的像看起來那麼無害嗎？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T00:11:47.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704613.shtml",
-      "title": "41金11银4铜 中国创参加世界技能大赛最好成绩",
-      "category": "综合",
-      "summary": "第48届世界技能大赛于9月27日晚在上海闭幕，中国代表团获得41枚金牌、11枚银牌、4枚铜牌，6个优胜奖，第五次位居金牌榜和团体总分世界第一，创造了我国参加世界技能大赛以来的历史最好成绩。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704613.shtml",
-      "publishedAt": "2026-09-27T14:27:46.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad#0",
+      "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
+      "category": "国际",
+      "summary": "「我拒絕他們的協議，」特朗普週六表示，並補充美國已對該海峽擁有「完全控制權」，「大量石油」經此通行，導致全球油價大幅上漲，消費者燃料成本急升。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T00:10:38.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-27/10704546.shtml",
-      "title": "韩正在第81届联大一般性辩论上的讲话（全文）",
-      "category": "综合",
-      "summary": "新华社联合国9月26日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704546.shtml",
-      "publishedAt": "2026-09-27T14:20:12.000Z",
+      "id": "sspai-https://sspai.com/post/115079",
+      "title": "派早报：OpenAI 称与苹果合作效果不佳",
+      "category": "科技",
+      "summary": "OpenAI 称与苹果合作效果不佳 iPhone 4「天线门」媒体问答录像时隔十六年现身 F-Droid 2.0 发布 三星冰箱固件升级后罢工，影响韩国用户过中秋 Excel 单元格将支持数组 微软不再使用 Copilot+ PC 品牌 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/115079",
+      "publishedAt": "2026-09-27T23:03:45.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-27/10704600.shtml",
-      "title": "良法善治·回响｜何以“跟进一步”",
-      "category": "综合",
-      "summary": "“法治同开放相伴而行，对外开放向前推进一步，涉外法治建设就要跟进一步。”2023年11月27日，习近平总书记在二十届中央政治局第十次集体学习时强调。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704600.shtml",
-      "publishedAt": "2026-09-27T14:15:37.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142899",
+      "title": "联大高级别周特别报道丨2026年9月27日",
+      "category": "国际",
+      "summary": "欢迎收看联合国大会第81届会议高级别周特别报道。本期节目您将看到，中国国家副主席韩正登上联大讲坛，强调大国要带头守规矩、行正道；《发展权利宣言》通过40周年，为什么发展鸿沟依然难以弥合；联大这一周，全球记者最关注的又是什么？",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142899",
+      "publishedAt": "2026-09-27T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704611.shtml",
-      "title": "泰国曼谷洪灾持续 总理提前返泰应对",
-      "category": "综合",
-      "summary": "中新社曼谷9月27日电 (梁峻祥 李映民)泰国总理阿努廷27日提前结束海外行程返回泰国，并着手指挥抗击曼谷及周边洪涝灾害。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704611.shtml",
-      "publishedAt": "2026-09-27T13:59:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704610.shtml",
-      "title": "（爱知·名古屋亚运会）中国队摘得跳水女子双人3米板、男子双人10米台金牌",
-      "category": "综合",
-      "summary": "中新社东京9月27日电 (记者 朱晨曦)爱知·名古屋亚运会跳水项目比赛27日在东京水上运动中心继续进行。中国队选手陈艺文/陈佳摘得女子双人3米板金牌，杨昊/练俊杰夺得男子双人10米台金牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704610.shtml",
-      "publishedAt": "2026-09-27T13:58:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-27/10704601.shtml",
-      "title": "上海交大“00后”学生李金泽摘得第48届世界技能大赛智慧安防技术项目金牌",
-      "category": "综合",
-      "summary": "中新网上海9月27日电 (记者 许婧)27日晚间，在上海举办的第48届世界技能大赛(以下简称“世赛”)闭幕式上，中国“00后”选手李金泽摘得本届大赛全新设立的智慧安防技术项目金牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704601.shtml",
-      "publishedAt": "2026-09-27T13:57:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704608.shtml",
-      "title": "（爱知·名古屋亚运会）中国队摘得男、女200米银牌 泰国选手破亚运会纪录",
-      "category": "综合",
-      "summary": "中新社日本名古屋9月27日电 (记者 李志全)在27日举行的爱知·名古屋亚运会田径项目男子、女子200米决赛中，中国选手黄友闻获得男子200米银牌，17岁的中国小将陈妤颉获得女子200米银牌。泰国选手布里蓬·汶颂以19秒88创造新的男子200米亚运会纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704608.shtml",
-      "publishedAt": "2026-09-27T13:57:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-27/10704609.shtml",
-      "title": "共谋低碳转型务实之策 国合会2026年年会开幕",
-      "category": "综合",
-      "summary": "中新社北京9月27日电 (记者 阮煜琳)中国环境与发展国际合作委员会(简称国合会)2026年年会27日在北京开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704609.shtml",
-      "publishedAt": "2026-09-27T13:56:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -607,31 +712,14 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad#0",
-      "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad#2",
+      "title": "TikTok與阿拉巴馬州和解：一億美元、限兒童使用、禁美妝濾鏡",
       "category": "国际",
       "summary": "阿拉巴馬州原計劃就TikTok涉嫌故意讓年輕用戶上癮一事對其提起訴訟。",
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T08:05:39.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad#0",
-      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
-      "category": "国际",
-      "summary": "我們往往以為，過敏是童年時期，甚至出生前就已埋下的「倒霉伏線」。但其實，「任何人在人生任何階段，都可能突然出現新的過敏」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T04:39:59.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1175,7 +1263,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad#2",
       "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
       "category": "国际",
       "summary": "近年愈來愈多中國漁船在越南外海活動，部分更有執法和政府船隻伴隨。研究人員認為，這不只是捕魚，也涉及北京在南海的主權聲索和地緣政治盤算，而越南漁民的生計和作業空間正受到愈來愈大壓力。",
@@ -1324,24 +1412,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142867",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142866",
-      "title": "内塔尼亚胡：以色列“别无选择” 必须阻止伊朗获得核武器并继续捍卫国家",
-      "category": "国际",
-      "summary": "以色列总理内塔尼亚胡周四在联合国大会第八十一届会议一般性辩论上发表讲话说，以色列必须阻止伊朗获得能够威胁以色列及世界的核武器，并表示以色列将在面临安全威胁时继续捍卫自身。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142866",
       "publishedAt": "2026-09-24T12:00:00.000Z",
       "tags": [
         "国际",
@@ -1596,41 +1666,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/trad#2",
-      "title": "習特會前瞻：特朗普會再度爭取「釋放黎智英」嗎？",
-      "category": "国际",
-      "summary": "中美兩國元首即將會面，有學者分析，特朗普將在會面期間提及黎智英案，中方釋放黎智英是展現中國軟實力的合適時機，但相信機率不大。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T11:43:03.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114904",
-      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "category": "科技",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/114904",
-      "publishedAt": "2026-09-23T09:02:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:563361c7-4f85-4b80-9639-4c2f0a3a1317",
       "title": "世卫组织扩大安全避孕选择",
       "category": "健康",
@@ -1648,26 +1683,8 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/114901",
-      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
-      "category": "科技",
-      "summary": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/114901",
-      "publishedAt": "2026-09-23T07:30:57.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#2",
-      "title": "特朗普與習近平會面在即，中國的AI雄心正在烏蘭察布高歌猛進",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#4",
+      "title": "特朗普與習近平會面之際，中國的AI雄心正在烏蘭察布高歌猛進",
       "category": "国际",
       "summary": "BBC探訪內蒙古，一名工人表示，北京的AI基礎設施正以「中國速度」推進。",
       "source": "BBC 中文",
@@ -1844,23 +1861,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T00:19:09.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#4",
-      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
-      "category": "国际",
-      "summary": "專家稱，航母給美國盟友的是心理保證。印太區域沒有航母，「會加強一種整體感覺：美國正被中東局勢分心。」",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T06:35:07.000Z",
       "tags": [
         "国际",
         "商业",
