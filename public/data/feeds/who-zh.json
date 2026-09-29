@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:4fd09a28-4a3a-4271-b4c5-509267adfeb2",
+      "title": "世卫组织公布2027年南半球流感季节的流感疫苗成分建议",
+      "meta": "世界卫生组织 · 2026/9/25",
+      "url": "https://www.who.int/zh/news-room/25-09-2026-recommendations-announced-for-influenza-vaccine-composition-for-the-2027-southern-hemisphere-influenza-season",
+      "publishedAt": "2026-09-25T12:50:57.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:ed76aa28-d43f-4655-a4fd-d07bc2ea28c3",
       "title": "世卫组织宣布扩大医疗器械预认证规划",
       "meta": "世界卫生组织 · 2026/9/25",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/18",
       "url": "https://www.who.int/zh/news-room/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
       "publishedAt": "2026-07-18T07:27:54.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:ba06cf80-253b-4ecf-a5d9-236f77406649",
-      "title": "世卫组织发布新版指南：高达45%的痴呆症风险可预防或延缓",
-      "meta": "世界卫生组织 · 2026/7/15",
-      "url": "https://www.who.int/zh/news-room/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
-      "publishedAt": "2026-07-15T12:15:58.000Z"
     }
   ],
-  "updatedAt": "2026-09-29T16:30:52.468Z",
+  "updatedAt": "2026-09-29T22:15:33.927Z",
   "provider": "OneBench 公共资讯快照"
 }

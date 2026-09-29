@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T16:30:52.468Z",
-  "expiresAt": "2026-09-29T22:30:52.468Z",
+  "generatedAt": "2026-09-29T22:15:33.927Z",
+  "expiresAt": "2026-09-30T04:15:33.927Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -1385,6 +1385,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:4fd09a28-4a3a-4271-b4c5-509267adfeb2",
+      "title": "世卫组织公布2027年南半球流感季节的流感疫苗成分建议",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）今天公布了用于2027年南半球流感季节的流感疫苗病毒成分建议。该建议是在关于流感病毒疫苗成分问题国际磋商会后宣布的。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/25-09-2026-recommendations-announced-for-influenza-vaccine-composition-for-the-2027-southern-hemisphere-influenza-season",
+      "publishedAt": "2026-09-25T12:50:57.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad#1",
       "title": "美中各從「白宮習特會」得到什麼？",
       "category": "国际",
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
       "publishedAt": "2026-07-18T07:27:54.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:ba06cf80-253b-4ecf-a5d9-236f77406649",
-      "title": "世卫组织发布新版指南：高达45%的痴呆症风险可预防或延缓",
-      "category": "健康",
-      "summary": "世界卫生组织（世卫组织）今天发布新版《降低认知能力下降和痴呆症风险指南》，为各国提供基于证据的建议，帮助在生命全程预防或延缓痴呆症发生。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
-      "publishedAt": "2026-07-15T12:15:58.000Z",
       "tags": [
         "健康",
         "育儿",
