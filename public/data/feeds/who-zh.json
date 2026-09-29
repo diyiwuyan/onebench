@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:ed76aa28-d43f-4655-a4fd-d07bc2ea28c3",
+      "title": "世卫组织宣布扩大医疗器械预认证规划",
+      "meta": "世界卫生组织 · 2026/9/25",
+      "url": "https://www.who.int/zh/news-room/25-09-2026-who-announces-expansion-of-prequalification-programme-for-medical-devices",
+      "publishedAt": "2026-09-25T07:06:46.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:563361c7-4f85-4b80-9639-4c2f0a3a1317",
       "title": "世卫组织扩大安全避孕选择",
       "meta": "世界卫生组织 · 2026/9/23",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/15",
       "url": "https://www.who.int/zh/news-room/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
       "publishedAt": "2026-07-15T12:15:58.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:19112ec9-719b-42a9-a43a-ff7390e3ef1e",
-      "title": "联合国儿童基金会和世界卫生组织称全球儿童免疫覆盖率在冲突和犹豫中缓慢回升",
-      "meta": "世界卫生组织 · 2026/7/15",
-      "url": "https://www.who.int/zh/news-room/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
-      "publishedAt": "2026-07-15T00:01:54.000Z"
     }
   ],
-  "updatedAt": "2026-09-29T01:57:34.146Z",
+  "updatedAt": "2026-09-29T08:31:01.070Z",
   "provider": "OneBench 公共资讯快照"
 }
