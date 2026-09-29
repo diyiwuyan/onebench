@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142906",
+      "title": "【联大高级别周特别报道】安理会讨论巴以和平前景：定居点扩张引发严重关切",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142906",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142905",
+      "title": "一般性辩论结束 联大主席强调重建信任必须通过言行一致来赢得",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142905",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142904",
+      "title": "丹麦常驻联合国代表：丹麦、格陵兰和美国签署安全协议 加强格陵兰、北约地区及美洲大陆防务",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142904",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142903",
+      "title": "新西兰常驻联合国代表：多边主义比以往任何时候都更加必要",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142903",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142902",
+      "title": "【联大高级别周特别报道】反种族主义斗争的十字路口：联合国纪念《德班宣言和行动纲领》通过25周年",
+      "meta": "联合国新闻 · 2026/9/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142902",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142901",
       "title": "朝鲜副外相：朝鲜核武器国家地位已永久确立",
       "meta": "联合国新闻 · 2026/9/28",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/9/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142875",
       "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142873",
-      "title": "南非：全球治理必须改革 非洲应在安理会拥有常任席位",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142873",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142872",
-      "title": "澳大利亚总理阿尔巴尼斯：建设安全、和平与繁荣世界是全人类共同任务",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142872",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142870",
-      "title": "泰国总理阿努廷：泰国从未寻求与柬埔寨发生冲突",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142870",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142869",
-      "title": "【联大高级别周特别报道】停火与建国：国际社会再议“两国方案”的现实挑战",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142869",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142868",
-      "title": "科威特王储：谴责伊朗袭击 呼吁维护地区安全与航行自由",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142868",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-29T08:31:01.070Z",
+  "updatedAt": "2026-09-29T16:30:52.468Z",
   "provider": "OneBench 公共资讯快照"
 }
