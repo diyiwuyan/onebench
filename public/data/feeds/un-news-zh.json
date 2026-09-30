@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142912",
+      "title": "人权高专谴责缅甸若开邦市场致命空袭",
+      "meta": "联合国新闻 · 2026/9/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142912",
+      "publishedAt": "2026-09-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142911",
+      "title": "产权组织全球创新指数：瑞士、瑞典、美国等位居前列 人工智能推动创新投资回升",
+      "meta": "联合国新闻 · 2026/9/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142911",
+      "publishedAt": "2026-09-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142910",
+      "title": "难民署：830万人面临失去关键援助风险",
+      "meta": "联合国新闻 · 2026/9/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142910",
+      "publishedAt": "2026-09-29T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142908",
       "title": "刚果（金）东部冲突外交努力仍在进行 局势依然严峻",
       "meta": "联合国新闻 · 2026/9/29",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142881",
       "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142880",
-      "title": "【联大高级别周特别报道】难民高专萨利赫向安理会发出呼吁：从“管理流离失所”走向“解决流离失所”",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142880",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142879",
-      "title": "巴基斯坦总理夏巴兹：选择对话合作与和平而非对抗胁迫与战争",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142879",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142878",
-      "title": "【联大高级别周特别报道】联大高级别会议聚焦“下一场”可能出现的大流行病威胁",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142878",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T08:34:37.518Z",
+  "updatedAt": "2026-09-30T16:24:36.511Z",
   "provider": "OneBench 公共资讯快照"
 }

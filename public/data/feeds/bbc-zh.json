@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad#1",
+      "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
+      "meta": "BBC 中文 · 2026/9/30",
+      "url": "https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T10:20:50.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#0",
       "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
       "meta": "BBC 中文 · 2026/9/30",
@@ -87,13 +94,6 @@
       "meta": "BBC 中文 · 2026/9/29",
       "url": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T00:07:32.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad#1",
-      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
-      "meta": "BBC 中文 · 2026/9/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T00:07:17.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T08:34:37.518Z",
+  "updatedAt": "2026-09-30T16:24:36.511Z",
   "provider": "OneBench 公共资讯快照"
 }
