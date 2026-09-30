@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142915",
+      "title": "世卫组织：烟草税改革有助于降低吸烟率并增加公共收入",
+      "meta": "联合国新闻 · 2026/9/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142915",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142914",
+      "title": "世卫组织发布预防大型集会高温相关疾病新指南",
+      "meta": "联合国新闻 · 2026/9/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142914",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142913",
+      "title": "联合国难民署对马来西亚遣返缅甸难民表示关切",
+      "meta": "联合国新闻 · 2026/9/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142913",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142912",
       "title": "人权高专谴责缅甸若开邦市场致命空袭",
       "meta": "联合国新闻 · 2026/9/29",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142884",
       "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142883",
-      "title": "墨西哥外长：国际法必须凌驾于武力之上 所有争端应通过和平方式解决",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142883",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142882",
-      "title": "巴林外交大臣扎耶尼：国际水道航行自由是适用于所有国家的基本原则",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142882",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142881",
-      "title": "埃及总理马德布利：主张以国家主权维护地区安全",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142881",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T16:24:36.511Z",
+  "updatedAt": "2026-09-30T22:16:13.418Z",
   "provider": "OneBench 公共资讯快照"
 }

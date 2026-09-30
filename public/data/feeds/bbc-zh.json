@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad#0",
+      "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
+      "meta": "BBC 中文 · 2026/9/30",
+      "url": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T16:46:19.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad#1",
       "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
       "meta": "BBC 中文 · 2026/9/30",
@@ -12,7 +19,7 @@
       "publishedAt": "2026-09-30T10:20:50.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#1",
       "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +103,7 @@
       "publishedAt": "2026-09-29T00:07:32.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#4",
       "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
       "meta": "BBC 中文 · 2026/9/27",
       "url": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
@@ -201,13 +208,6 @@
       "publishedAt": "2026-09-15T00:17:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
-      "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
-      "meta": "BBC 中文 · 2026/9/14",
-      "url": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T11:25:51.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad#4",
       "title": "專家評中國修《國防動員法》：吸俄烏教訓實現「平戰快速轉換」",
       "meta": "BBC 中文 · 2026/9/14",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T16:24:36.511Z",
+  "updatedAt": "2026-09-30T22:16:13.418Z",
   "provider": "OneBench 公共资讯快照"
 }

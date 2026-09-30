@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T16:24:36.511Z",
-  "expiresAt": "2026-09-30T22:24:36.511Z",
+  "generatedAt": "2026-09-30T22:16:13.418Z",
+  "expiresAt": "2026-10-01T04:16:13.418Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,23 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad#0",
+      "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
+      "category": "国际",
+      "summary": "當局敦促英國各大學，停止與中國通用技術研究院往來，該研究院與中國國家安全部有聯繫。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T16:46:19.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706578.shtml",
       "title": "（爱知·名古屋亚运会）综合消息：中国跳水队达成“百金”成就 中国男足无缘决赛",
@@ -590,6 +607,60 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142915",
+      "title": "世卫组织：烟草税改革有助于降低吸烟率并增加公共收入",
+      "category": "国际",
+      "summary": "一项针对15个国家的最新独立分析显示，2009年至2025年间，所有受分析国家的卷烟税收政策均有所改进。大幅提高税收、简化税制，并防止香烟随着收入增长而变得更加容易负担的国家，取得了更明显的成效。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142915",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142914",
+      "title": "世卫组织发布预防大型集会高温相关疾病新指南",
+      "category": "国际",
+      "summary": "世界卫生组织周三发布新的证据综述及指导方针指出，大型体育、宗教和文化活动中的大多数高温相关疾病可以通过及时采取风险管理措施预防或现场治疗。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142914",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142913",
+      "title": "联合国难民署对马来西亚遣返缅甸难民表示关切",
+      "category": "国际",
+      "summary": "联合国难民署周三对马来西亚近期在缅甸冲突持续、人权与人道主义局势严峻的情况下，将1476人遣返缅甸一事表示关切。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142913",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad#1",
       "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
       "category": "国际",
@@ -607,7 +678,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#1",
       "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
       "category": "国际",
       "summary": "老闆表示，他選擇這個名字，是因為希望經營「韓國最好的中餐館」。",
@@ -1225,7 +1296,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#4",
       "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
       "category": "国际",
       "summary": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
@@ -1544,60 +1615,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142883",
-      "title": "墨西哥外长：国际法必须凌驾于武力之上 所有争端应通过和平方式解决",
-      "category": "国际",
-      "summary": "墨西哥外交部长贝拉斯科周五在联合国大会第八十一届会议一般性辩论上发表讲话说，墨西哥捍卫各民族自决权和不干涉原则，主张和平解决争端，坚持国际法必须凌驾于武力之上，平民必须得到保护，各国领土完整必须得到尊重，所有争端都必须通过对话、谈判与和平方式解决。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142883",
-      "publishedAt": "2026-09-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142882",
-      "title": "巴林外交大臣扎耶尼：国际水道航行自由是适用于所有国家的基本原则",
-      "category": "国际",
-      "summary": "巴林王国外交大臣扎耶尼在联合国大会第八十一届会议一般性辩论上发表讲话说，信任无法通过声明或重复呼吁重建，而要通过执行法律，将联合国决议转化为对人民生命、权利和生计的切实保护。他强调，霍尔木兹海峡和其他国际水道的航行自由必须得到维护，这是一项适用于所有国际水道的基本原则。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142882",
-      "publishedAt": "2026-09-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142881",
-      "title": "埃及总理马德布利：主张以国家主权维护地区安全",
-      "category": "国际",
-      "summary": "埃及总理马德布利周五在联合国大会第八十一届会议一般性辩论上发表讲话说，埃及致力于建立以国家主权、领土完整、尊重国家机构为基础的区域安全愿景，反对拆解国家或建立平行实体，并优先考虑政治解决和包容性的国家和解。他说，安全是不可分割的，一个国家的安全不能建立在邻国的不安全之上，也不能建立在对航运、贸易和能源通道的威胁之上。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142881",
-      "publishedAt": "2026-09-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwx2zmzd63gxo/trad#2",
       "title": "中美AI競賽：世界變得更危險還是更安全？",
       "category": "国际",
@@ -1866,23 +1883,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
-      "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
-      "category": "国际",
-      "summary": "朝鮮（北韓）士兵於2024年底被平壤派遣，與俄羅斯部隊並肩作戰，試圖擊退烏克蘭的一次攻勢。烏克蘭總統澤連斯基表示，俄羅斯沃羅涅日地區正進行準備，以接收新一批朝鮮部隊。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T11:25:51.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
