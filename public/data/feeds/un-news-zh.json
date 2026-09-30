@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142908",
+      "title": "刚果（金）东部冲突外交努力仍在进行 局势依然严峻",
+      "meta": "联合国新闻 · 2026/9/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142908",
+      "publishedAt": "2026-09-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142907",
+      "title": "核武器风险正在加剧 推动裁军并消除核武器乃当务之急",
+      "meta": "联合国新闻 · 2026/9/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142907",
+      "publishedAt": "2026-09-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142807",
+      "title": "【专题报道】从谈判桌到维和一线：四位女性，如何改变联合国",
+      "meta": "联合国新闻 · 2026/9/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142807",
+      "publishedAt": "2026-09-29T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142906",
       "title": "【联大高级别周特别报道】安理会讨论巴以和平前景：定居点扩张引发严重关切",
       "meta": "联合国新闻 · 2026/9/28",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142878",
       "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142877",
-      "title": "黎巴嫩部长理事会主席萨拉姆：恢复国家决策权 结束战争 确保国家完全主权",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142877",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142876",
-      "title": "伊拉克总理扎伊迪：推动地区从冲突走向融合 从竞争转向合作",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142876",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142875",
-      "title": "联大高级别周特别报道丨2026年9月25日",
-      "meta": "联合国新闻 · 2026/9/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142875",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T01:19:39.577Z",
+  "updatedAt": "2026-09-30T08:34:37.518Z",
   "provider": "OneBench 公共资讯快照"
 }
