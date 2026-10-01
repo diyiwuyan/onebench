@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T22:16:13.418Z",
-  "expiresAt": "2026-10-01T04:16:13.418Z",
+  "generatedAt": "2026-10-01T01:19:25.129Z",
+  "expiresAt": "2026-10-01T07:19:25.129Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,348 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706598.shtml",
+      "title": "长三角铁路国庆节计划开行旅客列车3161列 预计发送旅客440万人次",
+      "category": "综合",
+      "summary": "今天是10月1日国庆节，记者从中国铁路上海局集团有限公司(以下简称“上铁集团”)获悉，长三角铁路迎来中秋国庆假期运输客流最高峰，计划开行旅客列车3161列，预计发送旅客440万人次，有望创国庆黄金周单日客发新高。9月30日，长三角铁路发送旅客372.7万人次，同比增长3%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706598.shtml",
+      "publishedAt": "2026-10-01T01:10:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-01/10706597.shtml",
+      "title": "国庆多连发外链",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706597.shtml",
+      "publishedAt": "2026-10-01T01:01:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml",
+      "title": "特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭",
+      "category": "综合",
+      "summary": "中新网10月1日电 综合报道，美国总统特朗普当地时间9月30日在社交媒体发文称，美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml",
+      "publishedAt": "2026-10-01T00:58:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706591.shtml",
+      "title": "重庆贵州等地局地有暴雨 江南华南有分散雷阵雨",
+      "category": "综合",
+      "summary": "中新网10月1日电 据中央气象台网站消息，昨日，重庆、贵州、湖北、湖南、浙江等地出现较强降雨，内蒙古、华北、东北等地出现大风降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、重庆、湖南等局地有强降雨，关注对交通、旅游安全的不利影响；今日较强冷空气继续影响东部地区，内蒙古、华北、东北及东海等海域风力大，黄淮、江汉、江南等地降温明显；明日起，新",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706591.shtml",
+      "publishedAt": "2026-10-01T00:51:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-01/10706595.shtml",
+      "title": "职业教育拥抱AI",
+      "category": "综合",
+      "summary": "在中国，职业教育正迎来前所未有的春天。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706595.shtml",
+      "publishedAt": "2026-10-01T00:48:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
+      "title": "习言道｜让老百姓过上更好的日子",
+      "category": "综合",
+      "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
+      "publishedAt": "2026-10-01T00:47:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206674.shtml",
+      "title": "【国庆特刊】亚运会这一抹“中国红”，真美！",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206674.shtml",
+      "publishedAt": "2026-10-01T00:46:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml",
+      "title": "庆祝祖国77周年华诞：“77”的回答",
+      "category": "综合",
+      "summary": "“77”的回答",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml",
+      "publishedAt": "2026-10-01T00:37:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml",
+      "title": "俄外交部发言人用中文祝中国人民国庆节快乐",
+      "category": "综合",
+      "summary": "中新社莫斯科9月30日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃9月30日在例行记者会上用中文祝中国人民“国庆节快乐”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml",
+      "publishedAt": "2026-09-30T23:28:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml",
+      "title": "法国纪念印象派绘画大师莫奈逝世100周年",
+      "category": "综合",
+      "summary": "中新社巴黎9月30日电 (记者 李洋)法国近日举办多个展览，纪念印象派绘画大师克劳德·莫奈逝世100周年。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml",
+      "publishedAt": "2026-09-30T23:27:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706587.shtml",
+      "title": "美国第二季度GDP增速上修至2.2% 好于市场预期",
+      "category": "综合",
+      "summary": "中新社华盛顿9月30日电 (记者 沙晗汀)美国商务部当地时间9月30日公布最终修正数据显示，今年第二季度美国实际国内生产总值(GDP)按年率计算环比增长2.2%，好于市场预期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706587.shtml",
+      "publishedAt": "2026-09-30T23:26:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
+      "title": "俄外交部召见丹麦大使 抗议丹麦直升机接近俄军舰",
+      "category": "综合",
+      "summary": "中新社莫斯科9月30日电 俄罗斯外交部9月30日召见丹麦驻俄罗斯大使罗尔夫·霍尔姆博(Rolf Holmboe)，就丹麦空军直升机针对俄波罗的海舰队护卫舰的“不专业且具有挑衅性”的行为提出强烈抗议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
+      "publishedAt": "2026-09-30T23:25:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706584.shtml",
+      "title": "泰国洪灾已致24人遇难",
+      "category": "综合",
+      "summary": "中新社曼谷9月30日电 (梁峻祥 李映民)泰国近期持续强降雨引发洪涝灾害，总理府公共关系部9月30日发布信息称，此次洪涝灾害已造成24人死亡，数百万人受灾，波及泰国首都曼谷及其他31个府。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706584.shtml",
+      "publishedAt": "2026-09-30T23:23:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706586.shtml",
+      "title": "埃及前总理沙拉夫：为更深入理解中国，必须超越数字",
+      "category": "综合",
+      "summary": "中新社开罗9月30日电 (记者 马秀秀)当地时间9月30日，埃及前总理伊萨姆·沙拉夫在于埃及开罗举行的中埃文明圆桌对话会暨精品图书赠书仪式上致辞表示，为了更深入地理解中国，他必须超越数字，去看历史、文化、制度、哲学和积累的经验。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706586.shtml",
+      "publishedAt": "2026-09-30T23:22:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-01/10706583.shtml",
+      "title": "10月1日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706583.shtml",
+      "publishedAt": "2026-09-30T23:05:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-01/10706582.shtml",
+      "title": "直播：天安门广场国庆升旗仪式",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706582.shtml",
+      "publishedAt": "2026-09-30T23:02:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
+      "title": "以防长：迪拜航空客机事件是一起“未遂恐怖袭击”",
+      "category": "综合",
+      "summary": "当地时间9月30日，以色列国防部长卡茨发表声明称，当天发生的迪拜航空客机事件是一起“恐怖袭击未遂事件”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
+      "publishedAt": "2026-09-30T22:50:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
+      "title": "买房“国补”上线！最高节省利息近5万元",
+      "category": "综合",
+      "summary": "今日起，居民使用新发放商业性个人住房贷款买房，符合条件的可以享受贷款贴息。这是国家层面首次为个人房贷贴息。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
+      "publishedAt": "2026-09-30T22:40:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
+      "title": "英国首相伯纳姆：将重返欧盟纳入未来可选路径",
+      "category": "综合",
+      "summary": "中新社伦敦9月30日电 (记者 欧阳开宇)英国首相伯纳姆近期公开释放重磅信号，重新开启“脱欧”后英国与欧盟未来关系的讨论。9月30日接受媒体采访时，伯纳姆明确将重返欧盟纳入未来可选路径，直言“脱欧”对英国造成的负面影响远超收益。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
+      "publishedAt": "2026-09-30T22:33:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad#0",
       "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
@@ -265,344 +607,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-30/10706564.shtml",
-      "title": "纪录片《汤寿潜1911》用AI“复活”百年档案致敬先贤",
-      "category": "综合",
-      "summary": "中新网杭州9月30日电 浙江广电集团首部AIGC(Artificial Intelligence Generated Content，即人工智能生成内容)剧情式纪录片《汤寿潜1911》，于30日晚在浙江卫视播出并将同步上线各平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706564.shtml",
-      "publishedAt": "2026-09-30T14:06:37.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142917",
+      "title": "副人权高专：制度性种族主义影响非洲裔人群",
+      "category": "国际",
+      "summary": "联合国人权事务副高级专员达博周三在日内瓦向人权理事会第六十三届会议表示，制度性种族主义影响全球非洲人和非洲裔人群的执法及刑事司法体系，种族定性、过度使用武力以及拘留设施中比例过高等现象仍然存在。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142917",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-30/10706566.shtml",
-      "title": "西藏：沙冒智化诗集《活在家里的名字》意大利语版全球发行",
-      "category": "综合",
-      "summary": "中新网拉萨9月30日电 (贡嘎来松)近日，西藏自治区藏汉双语诗人沙冒智化诗集《活在家里的名字》意大利语版正式全球发行。这也是该诗人第二部成功译介为意大利文的诗集，标志着雪域高原诗歌文化再度走出国门、走向世界。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706566.shtml",
-      "publishedAt": "2026-09-30T14:06:01.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142916",
+      "title": "有组织犯罪利润率不断攀升，但凶杀案数量下降",
+      "category": "国际",
+      "summary": "周三发布的一份联合国新报告显示，尽管全球大部分地区的凶杀案发生率正在下降，但在许多地区，有组织犯罪却呈上升趋势，因为犯罪网络正向人口贩运、偷运移民以及自然资源开采等领域多元化发展。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142916",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-30/10706567.shtml",
-      "title": "WTT中国大满贯2026升级场馆硬件设施 打造沉浸式观赛体验",
-      "category": "综合",
-      "summary": "中新网北京9月30日电 (记者 陈杭)记者30日从北京市石景山区获悉，WTT中国大满贯2026将于10月1日至11日在北京市石景山区首钢园举办。围绕提升观赛体验，本届赛事重点升级场馆硬件设施，二号馆全新配置超大观赛屏，体育展示环节首次引入3D Mapping投影技术，强化沉浸式观赛效果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706567.shtml",
-      "publishedAt": "2026-09-30T14:05:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706552.shtml",
-      "title": "浙江杭州迎国庆节前铁路客流高峰",
-      "category": "综合",
-      "summary": "9月30日，旅客在杭州东站国庆主题装置前打卡。当日，浙江杭州迎来国庆节前铁路客流高峰。中新社记者 王刚 摄 9月30日，大量旅客在杭州东站出行。当日，浙江杭州迎来国庆节前铁路客流高峰。中新社记者 王刚 摄 9月30日，杭州东站国庆节日氛围浓郁。当日，浙江杭州迎来国庆节前铁路客流高峰。中新社记者 王刚 摄 9月30日，杭州东站候车厅国旗成为一抹亮色。当日，浙江",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706552.shtml",
-      "publishedAt": "2026-09-30T13:59:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706546.shtml",
-      "title": "“窑火中的艺术匠心：V&A博物馆珍藏威基伍德陶瓷”在成都开展",
-      "category": "综合",
-      "summary": "9月30日，“窑火中的艺术匠心：Vamp;A博物馆珍藏威基伍德陶瓷”在成都博物馆开展。此次展览由成都博物馆与英国维多利亚与艾尔伯特博物馆（Vamp;A博物馆）共同主办，展出英国Vamp;A博物馆以及四川博物院、成都博物馆馆藏珍品202件，这也是该展在中国巡展的首站。图为展出的维多利亚与艾尔伯特博物馆威基伍德收藏的夏洛特王后肖像徽章。中新社记者 安源 摄 9月",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706546.shtml",
-      "publishedAt": "2026-09-30T13:58:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-30/10706559.shtml",
-      "title": "驻阿德莱德总领馆举办国庆77周年招待会",
-      "category": "综合",
-      "summary": "中新网悉尼9月30日电 中国驻阿德莱德总领馆29日举办庆祝中华人民共和国成立77周年招待会。南澳大利亚州议会下院议长库克、澳联邦众议员克拉特汉姆，南澳政商学界、大中小学学生、产业界青年、领团，华侨华人、中资机构、留学生代表等约250人出席。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706559.shtml",
-      "publishedAt": "2026-09-30T13:58:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706500.shtml",
-      "title": "广西侗乡青少年展演非遗促美育交流",
-      "category": "综合",
-      "summary": "图为青少年在弹唱侗族琵琶歌。龚普康 摄 图为活动现场。龚普康 摄 图为活动现场。龚普康 摄 图为活动现场。龚普康 摄 图为活动现场。龚普康 摄 图为活动现场。龚普康 摄 图为活动现场。龚普康 摄 图为民众在参观画展。龚普康 摄 图为活动现场。龚普康 摄 图为民众在参观画展。龚普康 摄 图为民众在参观画展。龚普康 摄 图为民众共绘农民画长卷。龚普康 摄 图为农",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706500.shtml",
-      "publishedAt": "2026-09-30T13:55:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-30/10706562.shtml",
-      "title": "应急管理部针对贵州启动国家地质灾害四级应急响应",
-      "category": "综合",
-      "summary": "据气象部门预测，9月30日至10月3日，青藏高原东部、西南地区东部、江汉、江淮、江南、华南等地有小到中雨或雷阵雨，重庆、贵州等地部分地区有大到暴雨，局地大暴雨。经与自然资源部会商研判，重庆北部、贵州东部发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于9月30日针对贵州启动国家地质灾害四级应急响应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706562.shtml",
-      "publishedAt": "2026-09-30T13:52:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706497.shtml",
-      "title": "八大山人诞辰400周年 作品《个山杂画册》领衔香港苏富比秋拍",
-      "category": "综合",
-      "summary": "图为一名女士拍摄八大山人作品《个山杂画册》（局部）。八大山人，名朱耷，是明太祖朱元璋第十六子朱权后裔，今年是八大山人诞辰400周年。据学者考证，《个山杂画册》中首次使用了“八大山人”白文方形印。中新网记者 李志华 摄 图为张大千作品《黄海松云》，估价高达2000万港元。该画作于20世纪30年代后期，是张大千没骨山水技法日臻成熟之作。画中云海叠嶂，通过山峦和松",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706497.shtml",
-      "publishedAt": "2026-09-30T13:52:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706496.shtml",
-      "title": "桂林武警营区里的国庆：守好战位 也要过出“家”的味道",
-      "category": "综合",
-      "summary": "图为武警官兵在草坪上手擎国旗，以创意合影表达铁心向党的坚定信念与家国情怀。（无人机照片）施晨洲 摄 图为武警官兵走进强军书屋品读红色书籍，在阅读中汲取奋进力量。施晨洲 摄 图为炊事班精心烹制可口饭菜，丰盛膳食保障官兵欢度国庆。陈登科 摄 图为课余文化活动丰富多彩，官兵们围坐对弈。施晨洲 摄 图为官兵们通过手机向家人分享喜悦。陈登科 摄 图为夜幕降临，军营篮球",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706496.shtml",
-      "publishedAt": "2026-09-30T13:50:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706494.shtml",
-      "title": "“花的姿态——维也纳美景宫百年花卉名作展”亮相成都",
-      "category": "综合",
-      "summary": "9月30日，由成都市美术馆与奥地利美景宫博物馆联合主办的“花的姿态——维也纳美景宫百年花卉名作展”在成都市美术馆开幕。本次展览以“花卉”为线索，集中呈现美景宫珍藏的60件花卉绘画与雕塑杰作。图为参观者观看木板油画《水果、鲜花与银杯静物》。中新社记者 王磊 摄 9月30日，由成都市美术馆与奥地利美景宫博物馆联合主办的“花的姿态——维也纳美景宫百年花卉名作展”在",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706494.shtml",
-      "publishedAt": "2026-09-30T13:45:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-30/10706491.shtml",
-      "title": "“祁连山号”旅游专列在西宁站首发",
-      "category": "综合",
-      "summary": "9月30日，青海西宁，首趟“祁连山号”旅游专列从西宁站启程，来自全国各地的80余名游客搭乘该专列，开启为期6天的大美青海魅力环线之旅。据了解，该专列串联起盐湖、雅丹、雪山等自然风光，同步展示青海特色美食、文创好物并开展特色文艺展演，让游客沉浸式感受青海独特人文风情。图为乘务员在“祁连山号”旅游专列内巡视摆满青海特色美食的车厢。中新社记者 马铭言 摄 9月30",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706491.shtml",
-      "publishedAt": "2026-09-30T13:44:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-30/10706535.shtml",
-      "title": "习言道｜我们对中国式现代化的光明前景充满信心",
-      "category": "综合",
-      "summary": "庆祝中华人民共和国成立77周年招待会9月30日在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。他强调——",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706535.shtml",
-      "publishedAt": "2026-09-30T13:41:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-30/10706540.shtml",
-      "title": "北京市政协建言发展京郊现代乡村产业",
-      "category": "综合",
-      "summary": "中新网北京9月30日电 题：北京市政协建言发展京郊现代乡村产业",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706540.shtml",
-      "publishedAt": "2026-09-30T13:40:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/mz/2026/09-30/10706542.shtml",
-      "title": "浙江：让民族团结进步实践“各有滋味”",
-      "category": "综合",
-      "summary": "中新网义乌9月30日电(董易鑫)在浙江，各地资源禀赋各不相同，民族团结进步实践也“各有滋味”：义乌连续11年开设公益性国家通用语言文字培训；衢州龙游沐尘畲族乡将南孔文化融入山乡发展，谱写民族团结与乡村共富新篇；长龙航空则将航线资源投向民族地区，架起浙江与更多地方交流的空中纽带……",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-30/10706542.shtml",
-      "publishedAt": "2026-09-30T13:39:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml",
-      "title": "浙江首次国际航行船舶三船三燃料加注作业在宁波舟山港完成",
-      "category": "综合",
-      "summary": "中新网杭州9月30日电(记者 王逸飞 通讯员 张婷婷 连林怡)9月30日，“海洋石油302”LNG加注船、“中燃绿能85”甲醇加注船、“思杰21”B24生物燃料油加注船分别在宁波舟山港穿山港区、梅山港区、大榭港区码头完成约7400立方米LNG、7500吨绿色甲醇和3000吨B24生物燃料油加注作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml",
-      "publishedAt": "2026-09-30T13:39:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-30/10706538.shtml",
-      "title": "雄安新区中苑水上游线精彩亮相",
-      "category": "综合",
-      "summary": "中新网雄安9月30日电 (韩冰 李玉素)9月30日，雄安新区中苑水上游线启航仪式在启动区城苑轩码头举行。随着两艘游船解缆离岸，“水城共融”从规划理念变成了可游可亲的现实体验。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706538.shtml",
-      "publishedAt": "2026-09-30T13:39:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-30/10706534.shtml",
-      "title": "云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应",
-      "category": "综合",
-      "summary": "中新网昆明9月30日电 (罗婕)9月30日18时31分，云南省昆明市发生4.3级地震。云南省应急管理厅消息，截至目前，昆明市盘龙区、五华区、西山区、官渡区、呈贡区暂未接到人员伤亡情况报告，电力、交通、通信均正常。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706534.shtml",
-      "publishedAt": "2026-09-30T13:39:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-30/10706537.shtml",
-      "title": "国庆假期出游“暴走打卡” 当心脚底板、膝盖 “喊痛”",
-      "category": "综合",
-      "summary": "中新网广州9月30日电 (记者 蔡敏婕)国庆假期将至，如果旅途中出现了脚底剧痛或膝盖肿胀，正确的应急处理方法是什么？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-30/10706537.shtml",
-      "publishedAt": "2026-09-30T13:39:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -644,7 +680,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142913",
-      "title": "联合国难民署对马来西亚遣返缅甸难民表示关切",
+      "title": "难民署对马来西亚遣返缅甸难民表示关切",
       "category": "国际",
       "summary": "联合国难民署周三对马来西亚近期在缅甸冲突持续、人权与人道主义局势严峻的情况下，将1476人遣返缅甸一事表示关切。",
       "source": "联合国新闻",
@@ -1511,42 +1547,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142886",
-      "title": "中国国家副主席韩正：维护战后国际秩序 促进共同繁荣 以多边主义捍卫公平正义",
-      "category": "国际",
-      "summary": "中国国家副主席韩正周六在联合国大会第八十一届会议一般性辩论上发表讲话说，当前国际形势变乱交织，地缘冲突延宕不止，发展鸿沟持续扩大，全球性挑战层出不穷。中国坚定不移地倡导维护战后国际秩序，促进共同繁荣，以多边主义捍卫公平正义。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142886",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142884",
-      "title": "联大高级别周特别报道丨2026年9月26日",
-      "category": "国际",
-      "summary": "欢迎收看联合国大会第81届会议高级别周特别报道。本期节目您将看到，一边是不断上涨的海平面，一边是正在消融的高原冰川。面对气候变化这场全球挑战，联合国正在寻找答案，中国青年也在用脚步和行动记录地球的变化。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142884",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad#2",
       "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
       "category": "国际",
@@ -1560,6 +1560,23 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:ff64657f-9387-4009-a0ec-b2235b841a31",
+      "title": "世界各国领导人重申承诺，誓要保护世界免受未来大流行的威胁",
+      "category": "健康",
+      "summary": "在联合国大会聚首的各国领导人重申了其承诺，要使世界更加安全，免受未来大流行的威胁，并强调在大流行预防、准备和应对方面需以持续和更加公平的方式作出投入和采取行动。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/25-09-2026-world-leaders-renew-commitment-to-protect-the-world-from-future-pandemics",
+      "publishedAt": "2026-09-25T16:21:49.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
       "publishedAt": "2026-07-20T07:09:01.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:b8777607-14f1-4466-9bac-0c4954871763",
-      "title": "世卫组织会员国继续就病原体获取和惠益分享附件进行谈判",
-      "category": "健康",
-      "summary": "世卫组织会员国在病原体获取和惠益分享（PABS）附件（《世卫组织大流行协定》的核心组成部分）的谈判上取得进展，并认为需要继续开展讨论，以最终确定有助于更快、更有效和更公平应对未来大流行的一个框架。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
-      "publishedAt": "2026-07-18T07:27:54.000Z",
       "tags": [
         "健康",
         "育儿",

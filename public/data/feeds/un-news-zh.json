@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142917",
+      "title": "副人权高专：制度性种族主义影响非洲裔人群",
+      "meta": "联合国新闻 · 2026/9/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142917",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142916",
+      "title": "有组织犯罪利润率不断攀升，但凶杀案数量下降",
+      "meta": "联合国新闻 · 2026/9/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142916",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142915",
       "title": "世卫组织：烟草税改革有助于降低吸烟率并增加公共收入",
       "meta": "联合国新闻 · 2026/9/30",
@@ -20,7 +34,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142913",
-      "title": "联合国难民署对马来西亚遣返缅甸难民表示关切",
+      "title": "难民署对马来西亚遣返缅甸难民表示关切",
       "meta": "联合国新闻 · 2026/9/30",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142913",
       "publishedAt": "2026-09-30T12:00:00.000Z"
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142887",
       "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142886",
-      "title": "中国国家副主席韩正：维护战后国际秩序 促进共同繁荣 以多边主义捍卫公平正义",
-      "meta": "联合国新闻 · 2026/9/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142886",
-      "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142884",
-      "title": "联大高级别周特别报道丨2026年9月26日",
-      "meta": "联合国新闻 · 2026/9/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142884",
-      "publishedAt": "2026-09-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T22:16:13.418Z",
+  "updatedAt": "2026-10-01T01:19:25.129Z",
   "provider": "OneBench 公共资讯快照"
 }

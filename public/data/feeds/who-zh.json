@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:ff64657f-9387-4009-a0ec-b2235b841a31",
+      "title": "世界各国领导人重申承诺，誓要保护世界免受未来大流行的威胁",
+      "meta": "世界卫生组织 · 2026/9/25",
+      "url": "https://www.who.int/zh/news-room/25-09-2026-world-leaders-renew-commitment-to-protect-the-world-from-future-pandemics",
+      "publishedAt": "2026-09-25T16:21:49.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:4fd09a28-4a3a-4271-b4c5-509267adfeb2",
       "title": "世卫组织公布2027年南半球流感季节的流感疫苗成分建议",
       "meta": "世界卫生组织 · 2026/9/25",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/20",
       "url": "https://www.who.int/zh/news-room/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
       "publishedAt": "2026-07-20T07:09:01.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:b8777607-14f1-4466-9bac-0c4954871763",
-      "title": "世卫组织会员国继续就病原体获取和惠益分享附件进行谈判",
-      "meta": "世界卫生组织 · 2026/7/18",
-      "url": "https://www.who.int/zh/news-room/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
-      "publishedAt": "2026-07-18T07:27:54.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T22:16:13.418Z",
+  "updatedAt": "2026-10-01T01:19:25.129Z",
   "provider": "OneBench 公共资讯快照"
 }
