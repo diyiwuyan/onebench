@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "title": "品类更多、品牌更强！国货出海有新变化",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "publishedAt": "2026-10-01T22:38:42.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
       "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
       "meta": "中国新闻网 · 2026/10/1",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/10/1",
       "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
       "publishedAt": "2026-10-01T12:47:34.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "publishedAt": "2026-10-01T12:47:10.000Z"
     }
   ],
-  "updatedAt": "2026-10-01T17:01:54.972Z",
+  "updatedAt": "2026-10-01T22:41:26.308Z",
   "provider": "OneBench 公共资讯快照"
 }

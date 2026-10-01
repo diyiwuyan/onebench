@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T17:01:54.972Z",
-  "expiresAt": "2026-10-01T23:01:54.972Z",
+  "generatedAt": "2026-10-01T22:41:26.308Z",
+  "expiresAt": "2026-10-02T04:41:26.308Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "title": "品类更多、品牌更强！国货出海有新变化",
+      "category": "综合",
+      "summary": "国庆假期，别人忙着出游，这里忙着“出货”！灯具、服装、鞋子等一批批国货完成查验、装进集装箱，从深圳盐田港出发，奔向美国、墨西哥、荷兰等全球市场。眼下正值出口旺季，盐田港开启“国庆假期不停运”模式，为国货出海按下“加速键”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "publishedAt": "2026-10-01T22:38:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
       "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
@@ -554,20 +572,56 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
-      "category": "综合",
-      "summary": "中新网义乌10月1日电(董易鑫)义乌是浙江人口最多的县级市，铁路义乌站是该省客流量最大的县级火车站。10月1日，铁路义乌站官方公布一则数据，今年国庆假期该站预计日均发送旅客5.13万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "publishedAt": "2026-10-01T12:47:10.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142924",
+      "title": "国际货币基金组织：各国应对能源冲击的政策组合正在变化",
+      "category": "国际",
+      "summary": "国际货币基金组织周四发表博客文章说，随着中东战争引发的能源冲击持续，各国政府采取了不同应对措施。随着冲击持续和公共财政压力加剧，各国正从通过财政措施缓冲冲击，转向更多允许价格上涨向国内传导和管理需求的措施。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142924",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142923",
+      "title": "联合国贸发会议：拉美外资流入增加 但新建生产项目减少",
+      "category": "国际",
+      "summary": "2025年，拉丁美洲和加勒比地区吸引的外国直接投资增加，但用于新建工厂、物流设施等生产性项目的投资却有所减少。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142923",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142922",
+      "title": "国际劳工组织：尼泊尔洪灾影响就业和生计",
+      "category": "国际",
+      "summary": "国际劳工组织周四发布初步评估报告指出，尼泊尔8月发生的洪灾严重扰乱就业和生计，其影响可能超出直接受灾地区。基础设施受损、贸易中断以及非正规就业比例较高，给劳动者和企业带来风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142922",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1533,60 +1587,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142891",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142890",
-      "title": "俄罗斯外长拉夫罗夫：维护联合国中心地位 建立更加多极化的世界秩序",
-      "category": "国际",
-      "summary": "俄罗斯外长拉夫罗夫周六在联合国大会第八十一届会议一般性辩论上发表讲话说，全球政治格局正在发生剧变，一个更加公平、多极化的世界秩序正在形成，全球南方和东方国家正作为主权发展中心崭露头角。他说，俄罗斯外交政策以这一理念为基础，主张维护《联合国宪章》和国际法，推动建立多极化世界秩序。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142890",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142889",
-      "title": "古巴外长罗德里格斯：美国对古巴动用军事力量的威胁依然存在",
-      "category": "国际",
-      "summary": "古巴外长罗德里格斯周六在联合国大会第八十一届会议一般性辩论上发表讲话说，美国对古巴动用军事力量的威胁依然存在。他强调，美国政府对古巴的多维度侵略自2026年1月以来不断升级，包括实施能源封锁、阻止其他国家向古巴出口燃料、限制产品和服务出口，并对各国企业和政府施加压力。他说，美国对古巴的政策违反国际法，古巴不是威胁，“封锁，才是真正的威胁”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142888",
-      "title": "菲律宾外长拉扎罗：南海争端应通过外交和法律途径解决",
-      "category": "国际",
-      "summary": "菲律宾外交部长拉扎罗周六在联合国大会第八十一届会议一般性辩论上发表讲话说，国际法必须作为解决海洋争端的指引，菲律宾坚定认为，争端必须通过外交和法律途径解决，而非诉诸暴力和武力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142888",
       "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
         "国际",
