@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T08:56:43.998Z",
-  "expiresAt": "2026-10-01T14:56:43.998Z",
+  "generatedAt": "2026-10-01T17:01:54.972Z",
+  "expiresAt": "2026-10-01T23:01:54.972Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,20 +32,560 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706777.shtml",
-      "title": "百余车辆巡游江西南昌 国际经典老车与江西造车辆同亮相",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+      "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
       "category": "综合",
-      "summary": "图为车队从滕王阁“南昌故郡”广场出发开始巡游。(无人机照片)中新社记者 刘占昆 摄 图为巡游车队经过八一广场。(无人机照片)中新社记者 刘占昆 摄 图为巡游车队经过南昌八一广场。中新社记者 刘占昆 摄 图为巡游车队中的中国一汽红旗牌老车经过八一广场。中新社记者 刘力鑫 摄 图为巡游车队中的江铃1985年产双排经典轻卡经过八一广场。中新社记者 刘力鑫 摄 图为",
+      "summary": "美国太空探索技术公司的“龙”飞船10月1日搭载4名宇航员升空，开启前往国际空间站的载人飞行任务。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706777.shtml",
-      "publishedAt": "2026-10-01T08:50:13.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+      "publishedAt": "2026-10-01T16:05:17.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
+      "title": "（爱知·名古屋亚运会）综合消息：中国射击队16金收官 网球女单中国队提前包揽金银牌",
+      "category": "综合",
+      "summary": "中新社日本名古屋10月1日电 当地时间1日，爱知·名古屋亚运会共决出29枚金牌。中国体育健儿在网球、攀岩、场地自行车、射击等赛场收获亮眼战绩。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
+      "publishedAt": "2026-10-01T16:00:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706978.shtml",
+      "title": "WTT中国大满贯赛首日：八位中国选手过关",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛1日在北京石景山首钢园区正式打响。在首日进行的男、女单打资格赛第一轮中，共有八位中国选手过关。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706978.shtml",
+      "publishedAt": "2026-10-01T15:47:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706977.shtml",
+      "title": "中网综合：郑钦文、朱琳、孙心然、高馨妤晋级女单次轮",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 (刘梦青)2026中国网球公开赛1日在国家网球中心继续进行。中国选手郑钦文、朱琳、孙心然和高馨妤携手晋级女单次轮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706977.shtml",
+      "publishedAt": "2026-10-01T15:44:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-01/10706963.shtml",
+      "title": "香港“国庆赛马日”人气旺 游客盼香江发展如万马奔腾",
+      "category": "综合",
+      "summary": "中新社香港10月1日电 (记者 刘玥晴)为庆祝中华人民共和国成立77周年，香港赛马会(简称“马会”)10月1日在香港沙田马场举办“国庆赛马日”活动，共吸引近3万人次观众到场，包括游客逾9300人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-01/10706963.shtml",
+      "publishedAt": "2026-10-01T14:36:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+      "title": "我使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度 严惩凶犯",
+      "category": "综合",
+      "summary": "10月1日，东京地方法院对非法持刀侵闯中国驻日本大使馆的原自卫队官员村田晃大进行首次公开庭审。中国驻日本大使馆发言人就此回答记者提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+      "publishedAt": "2026-10-01T14:27:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+      "title": "侗族多耶节启幕 广西侗乡上演民俗文化盛宴",
+      "category": "综合",
+      "summary": "中新社广西柳州10月1日电 (记者 黄艳梅)第二十三届(柳州·三江)侗族多耶节10月1日晚在广西柳州市三江侗族自治县启幕，当地民众及海内外游客欢聚一堂，共同领略多姿多彩的侗族文化盛宴。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+      "publishedAt": "2026-10-01T13:54:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
+      "title": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+      "category": "综合",
+      "summary": "中新社杭州10月1日电 (记者 王逸飞)10月1日是国庆假期首日。受冷空气影响，长三角地区普遍出现降温降水天气。其中，浙江杭州迎六年来最早入秋；上海市区徐家汇站最低气温在下半年以来首次降至20℃以下。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
+      "publishedAt": "2026-10-01T13:52:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706956.shtml",
+      "title": "贵州“村超”第三届国际足球赛启幕",
+      "category": "综合",
+      "summary": "中新社贵州榕江10月1日电 (记者 袁超)第三届“村超”国际足球赛10月1日在贵州榕江启幕，来自南美洲、欧洲、亚洲、非洲等地区国家的551名球员齐聚中国“村超”发源地榕江县，共赴一场草根足球盛会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706956.shtml",
+      "publishedAt": "2026-10-01T13:51:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706955.shtml",
+      "title": "王楚钦/孙颖莎等三对国乒组合退出WTT中国大满贯赛",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 世界乒乓球职业大联盟(WTT)10月1日宣布，中国组合王楚钦/孙颖莎、林诗栋/蒯曼和林诗栋/黄友政退出2026年WTT中国大满贯赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706955.shtml",
+      "publishedAt": "2026-10-01T13:51:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706954.shtml",
+      "title": "伊朗乒乓球“黑马”少年法拉吉：心无旁骛迎接每个对手",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛10月1日在北京打响。男单资格赛第一轮，伊朗16岁小将本雅明·法拉吉以3:2爆冷击败罗马尼亚名将爱德华·约内斯库。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706954.shtml",
+      "publishedAt": "2026-10-01T13:51:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
+      "title": "东西问｜两个古文明如何真正理解彼此？",
+      "category": "综合",
+      "summary": "中新网北京10月1日电 题：两个古文明如何真正理解彼此？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
+      "publishedAt": "2026-10-01T13:10:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
+      "title": "日本突发5.1级地震",
+      "category": "综合",
+      "summary": "中新网10月1日电 综合报道，据日本气象厅消息，日本千叶县东北部10月1日发生5.1级地震。此次地震不会引发海啸。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
+      "publishedAt": "2026-10-01T13:08:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706934.shtml",
+      "title": "纪念京奉铁路正阳门东车站建成120周年展览在北京开展",
+      "category": "综合",
+      "summary": "图为讲解员向游客介绍车站早期历史。中新社记者 贾天勇 摄 图为游客参观不同历史时期发售的车票。中新社记者 贾天勇 摄 图为游客参观车站建成初期办公场景复原展示。中新社记者 贾天勇 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706934.shtml",
+      "publishedAt": "2026-10-01T13:06:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
+      "title": "北京警方护航国庆假期旅游市场安全有序",
+      "category": "综合",
+      "summary": "中新网北京10月1日电 今年中秋、国庆假期相连，群众出游、探亲需求集中释放，北京成为全国热门旅游目的地之一，加之全市各大公园景区推出百余项丰富多彩的文娱活动，热门景点人流车流集中态势明显。为切实做好国庆假期期间旅游安保工作，北京警方提前谋划、系统组织，统筹各警种与属地分局因地制宜制定方案预案，严密落实各项安保举措，全力确保广大在京游客度过欢乐、安全、舒心的假",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
+      "publishedAt": "2026-10-01T13:05:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706931.shtml",
+      "title": "国旗扮靓钱塘 杭州喜迎国庆",
+      "category": "综合",
+      "summary": "10月1日，钱塘江堤上的国旗组成靓丽景观线。中新社记者 王刚 摄 10月1日，市民在钱江新城和国旗合影。中新社记者 王刚 摄 10月1日，市民在钱江新城的国庆装置前拍照。国庆节当天，浙江杭州钱塘江边、城市地标旁五星红旗迎风飘展，一派“中国红”的景象吸引市民驻足打卡留念，呈现出喜庆的节日氛围。中新社记者 王刚 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706931.shtml",
+      "publishedAt": "2026-10-01T13:05:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
+      "title": "这支巴西球队为何三年国庆赴约贵州“村超”？",
+      "category": "综合",
+      "summary": "中新网贵州榕江10月1日电 题：这支巴西球队为何三年国庆赴约贵州“村超”？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
+      "publishedAt": "2026-10-01T13:04:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
+      "title": "2026哈尔滨跆拳道竞技冠军挑战赛开赛",
+      "category": "综合",
+      "summary": "中新网哈尔滨10月1日电(记者 王妮娜)10月1日，哈尔滨冰雪大世界迎来一场创新的跆拳道竞技冠军挑战赛——2026哈尔滨跆拳道竞技冠军挑战赛。赛事共汇集12支代表队、100余名运动员参赛，以特色交流赛制为亮点，成为国庆假期冰城“体育+文旅”的一道独特风景。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
+      "publishedAt": "2026-10-01T13:03:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706937.shtml",
+      "title": "今年前三季度吴哥古迹接待国际游客逾51万人次",
+      "category": "综合",
+      "summary": "中新社金边10月1日电 (记者 杨强)柬埔寨吴哥古迹保护和管理机构10月1日发布的报告显示，今年前三季度，吴哥古迹接待外国游客51.05万人次，与2025年同期相比下降27.61%；门票收入2423.78万美元，同比下降25.9%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706937.shtml",
+      "publishedAt": "2026-10-01T13:03:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
+      "title": "中企承建柬埔寨1551号公路项目竣工通车",
+      "category": "综合",
+      "summary": "【东盟专线】中企承建柬埔寨1551号公路项目竣工通车",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
+      "publishedAt": "2026-10-01T13:02:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
+      "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
+      "category": "综合",
+      "summary": "中新社杭州10月1日电 (郭其钰)10月1日，虽然进入假期时间，但在浙江杭州钛芯智冷科技有限公司实验室里，台青李卓谕依旧带领团队在进行多组芯片散热模组的稳定性测试。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
+      "publishedAt": "2026-10-01T13:01:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
+      "title": "第三届全国青少年棒球联赛总决赛启幕",
+      "category": "综合",
+      "summary": "中新网10月1日电 第三届全国青少年棒球联赛总决赛于10月1日在绍兴棒垒球体育文化中心启幕。经过此前20余站分站赛以及分区赛的层层考验，16支队伍突出重围，参与总决赛角逐。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
+      "publishedAt": "2026-10-01T12:59:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
+      "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
+      "category": "综合",
+      "summary": "中新网南宁10月1日电(黄艳梅 陈沿佑)10月1日，广西南宁市民族广场举行升国旗仪式，大批民众从四面八方赶来，共同见证五星红旗冉冉升起，表达对祖国的诚挚祝福。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
+      "publishedAt": "2026-10-01T12:58:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
+      "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
+      "category": "综合",
+      "summary": "中新网成都10月1日电 (记者 刘忠俊)看一段玉兔起舞，听一回神话故事，再和“苏东坡”聊聊江上清风……10月1日，在四川乐山大佛景区东坡楼，上演了一场跨越时空的文化相遇。九尾狐、玉兔、羽人从汉代画像中“走”了出来，和游客合影互动；演员扮成的“苏东坡”当起向导，带着大家走进古时南安的烟火人间与神话世界。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
+      "publishedAt": "2026-10-01T12:56:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
+      "title": "国庆假期首日 海南自贸港重点项目施工忙",
+      "category": "综合",
+      "summary": "中新网海口10月1日电 (记者 王子谦)1日，2026年国庆假期首日，海南自贸港多个重点项目建设现场机械轰鸣、塔吊运转，建设者坚守一线抢抓施工黄金期，冲刺节点目标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
+      "publishedAt": "2026-10-01T12:55:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
+      "title": "链全球国际农业合作博览会将于12月在印尼举办",
+      "category": "综合",
+      "summary": "中新网雅加达10月1日电 链全球国际农业合作博览会暨中国国际农业合作博览会新闻发布会1日在印度尼西亚首都雅加达举行，宣布博览会将于12月10-12日在印尼唐格朗国际会展中心举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
+      "publishedAt": "2026-10-01T12:55:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
+      "title": "WTT中国大满贯2026在北京开赛",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
+      "publishedAt": "2026-10-01T12:54:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
+      "title": "中国选手储守宏夺得亚运会男子速度攀岩冠军",
+      "category": "综合",
+      "summary": "中国选手储守宏。中新社记者 富田 摄 中新网10月1日电 (记者 金旭)爱知·名古屋亚运会当地时间1日举行攀岩男子速度赛决赛，中国选手储守宏以4.71 秒的成绩夺得金牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
+      "publishedAt": "2026-10-01T12:50:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
+      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
+      "category": "综合",
+      "summary": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
+      "publishedAt": "2026-10-01T12:47:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
+      "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
+      "category": "综合",
+      "summary": "中新网义乌10月1日电(董易鑫)义乌是浙江人口最多的县级市，铁路义乌站是该省客流量最大的县级火车站。10月1日，铁路义乌站官方公布一则数据，今年国庆假期该站预计日均发送旅客5.13万人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
+      "publishedAt": "2026-10-01T12:47:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142919",
+      "title": "【世界交汇点】对话黄京波——人生的两点之间没有直线",
+      "category": "国际",
+      "summary": "人生一定要沿着一条清晰的路线前进吗？学过的专业、走过的弯路，最后会把一个人带向哪里？本期《世界交汇点》，我们邀请了联合国大学驻澳门研究所所长黄京波博士。从音乐相伴的童年，到法语、经济、艺术管理和教育等不同领域的学习；从第一份实习，到在纽约九年全工全读，再到二十五年的联合国职业生涯——她的人生并没有所谓的“标准路径”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142919",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -63,528 +603,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706796.shtml",
-      "title": "平陆运河观光游成广西文旅“新宠”",
-      "category": "综合",
-      "summary": "中新社南宁10月1日电 (黄艳梅 王伟臣)10月1日国庆假期首日，平陆运河绿道万人健步走活动在广西钦州市永福广场拉开帷幕，10000名徒步爱好者用脚步“打卡”世纪工程平陆运河，沉浸式体验运河生态及人文之美。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706796.shtml",
-      "publishedAt": "2026-10-01T08:48:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706776.shtml",
-      "title": "国庆假期首日 上海邮轮口岸迎来双船同靠",
-      "category": "综合",
-      "summary": "中新网上海10月1日电 (记者 陈静)1日，上海邮轮口岸迎来国庆假期(10月1日-10月7日)首轮出入境客流高峰。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706776.shtml",
-      "publishedAt": "2026-10-01T08:48:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706772.shtml",
-      "title": "《文明华夏：豫博日历2027》在河南郑州发布",
-      "category": "综合",
-      "summary": "图为《文明华夏：豫博日历2027》发布会现场。中新社记者 韩章云 摄 图为《文明华夏：豫博日历2027》。中新社记者 韩章云 摄 图为工作人员展示《文明华夏：豫博日历2027》。中新社记者 韩章云 摄 图为游客选购《文明华夏：豫博日历2027》。中新社记者 韩章云 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706772.shtml",
-      "publishedAt": "2026-10-01T08:48:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706775.shtml",
-      "title": "“澄故·凝新——中国当代玻璃艺术展”启幕",
-      "category": "综合",
-      "summary": "中新网北京10月1日电 (记者 高凯)国家艺术基金2026年度传播交流推广资助项目“澄故·凝新——中国当代玻璃艺术展”日前在北京今日美术馆开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706775.shtml",
-      "publishedAt": "2026-10-01T08:47:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706771.shtml",
-      "title": "河南开封：北宋东京城顺天门遗址博物馆开馆试运营",
-      "category": "综合",
-      "summary": "图为游客参观博物馆。石斐 摄 图为游客在博物馆序厅观看介绍。石斐 摄 图为博物馆展出的明代围棋子和骰子。石斐 摄 图为游客在博物馆里拍摄。石斐 摄 图为清代酱釉鳖灯。石斐 摄 图为清代灯盏。石斐 摄 图为北宋东京城顺天门遗址博物馆。石斐 摄 图为宋代虎行纹陶模。石斐 摄 图为宋代时期的人物骑兽造像。石斐 摄 图为宋代武泰军礌石。石斐 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706771.shtml",
-      "publishedAt": "2026-10-01T08:46:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706774.shtml",
-      "title": "武汉双年展启幕 500余件中外作品创历届之最",
-      "category": "综合",
-      "summary": "中新网武汉10月1日电 (卢琪 李霞)2026武汉双年展10月1日启幕。作为武汉具有国际影响力的大型艺术展览，本届双年展汇聚22个国家370余位艺术家的500余件(组)作品，规模创历届之最，打造兼具国际高度、文脉深度与城市温度的艺术盛会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706774.shtml",
-      "publishedAt": "2026-10-01T08:46:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706770.shtml",
-      "title": "百车巡游“英雄城”南昌 演绎流动汽车文明史",
-      "category": "综合",
-      "summary": "中新网南昌10月1日电 (熊锦阳)国庆假期首日，“英雄城”南昌上演了一场特别的汽车盛会。10月1日9时，“豫章聚经典·江铃耀洪城”国际经典汽车暨江铃汽车南昌巡游活动在滕王阁“南昌故郡”广场鸣笛启程。逾百台车辆组成巡游方阵穿行赣江两岸城市地标，把城市街道变为一座“行走的汽车博物馆”，串联起世界汽车百年发展史与南昌汽车工业的时代篇章。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706770.shtml",
-      "publishedAt": "2026-10-01T08:45:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706769.shtml",
-      "title": "云南野生动物园三只小老虎国庆正式亮相",
-      "category": "综合",
-      "summary": "10月1日，云南昆明，经过一段时间的适应，云南野生动物园三只小老虎在国庆期间亮相，正式与游客见面。中新社记者 刘冉阳 摄 10月1日，云南昆明，经过一段时间的适应，云南野生动物园三只小老虎在国庆期间亮相，正式与游客见面。中新社记者 刘冉阳 摄 10月1日，云南昆明，经过一段时间的适应，云南野生动物园三只小老虎在国庆期间亮相，正式与游客见面。中新社记者 刘冉阳",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706769.shtml",
-      "publishedAt": "2026-10-01T08:45:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706768.shtml",
-      "title": "“你好·良渚”主题特展走进俄罗斯校园",
-      "category": "综合",
-      "summary": "中新网莫斯科10月1日电 (记者 田冰)“你好·良渚”主题特展进校园活动日前在俄罗斯莫斯科548学校举行，吸引众多师生和学生家长参与。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706768.shtml",
-      "publishedAt": "2026-10-01T08:44:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706766.shtml",
-      "title": "福州：品茉莉 庆华诞",
-      "category": "综合",
-      "summary": "图为小朋友化身“茉莉仙子”表演歌舞《茉莉花》。中新社记者 吕明 摄 图为小朋友为家长敬上茉莉花茶。中新社记者 吕明 摄 图为茶艺师演示福州茉莉花茶窨制工艺。中新社记者 吕明 摄 10月1日，“福满英雄城·茉香南台岛——品茉莉 庆华诞”百人非遗体验活动在福州仓山区梁厝历史文化街区举办。中新社记者 吕明 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706766.shtml",
-      "publishedAt": "2026-10-01T08:44:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706767.shtml",
-      "title": "运力提质服务升温 浙江轨道暖心守护假日旅途畅通",
-      "category": "综合",
-      "summary": "中新网杭州10月1日电(奚金燕 张保)国庆假期，出行客流攀升，浙江交通集团下属浙江轨道集团各运营线路以精准化运力保障、精细化服务举措、全域化安全管控，多措并举织密出行保障网络，护航广大市民乘客平安出行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706767.shtml",
-      "publishedAt": "2026-10-01T08:43:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706765.shtml",
-      "title": "徽州古建筑文化展亮相内蒙古博物院",
-      "category": "综合",
-      "summary": "10月1日，内蒙古呼和浩特市，民众参观展览。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观展览。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观人物纹砖雕。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观清代鲨鱼脊吻砖雕。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观依据徽州祠堂原貌复原的展陈场景。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706765.shtml",
-      "publishedAt": "2026-10-01T08:42:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706778.shtml",
-      "title": "不让一个孩子困于海 浙江洞头跨海守护海岛求学路",
-      "category": "综合",
-      "summary": "中新网温州10月1日电(胡丰盛 叶青青 沈灿辉)“这个船挺快的，从学校到鹿西码头，一路上都有老师、保安(等)陪同，我们觉得很安全。”9月30日，国庆前夕踏上跨海归家的旅途，坐船回家的学子贺子轩感觉特别安心。当日下午4时30分许，在浙江省温州市洞头区大门沙岙综合交通码头，多部门护航队伍再次集结，开启校船护送任务。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706778.shtml",
-      "publishedAt": "2026-10-01T08:42:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706750.shtml",
-      "title": "珠港澳三地出入境部门联合举行国庆升旗仪式",
-      "category": "综合",
-      "summary": "10月1日，珠海出入境边防检查总站联合香港入境事务处、澳门治安警察局，在位于广东珠海的港珠澳大桥白海豚岛举行“同升国旗 同心同行”主题升旗仪式，庆祝中华人民共和国成立77周年。图为珠港澳三地出入境管理部门人员组成的国门护旗队列阵。中新社记者 陈骥旻 摄 10月1日，珠海出入境边防检查总站联合香港入境事务处、澳门治安警察局，在位于广东珠海的港珠澳大桥白海豚岛举",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706750.shtml",
-      "publishedAt": "2026-10-01T08:41:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706754.shtml",
-      "title": "（乡村行·看振兴）从“单一种植”到“全链发展” 山西襄垣小葡萄做成富民大产业",
-      "category": "综合",
-      "summary": "金秋时节，山西省长治市襄垣县古韩镇北里信村的葡萄迎来丰收。图为市民正在采摘葡萄。孙曼莎 摄 中新网长治10月1日电 (邓蓉 高雨晴)金秋时节，山西省长治市襄垣县古韩镇北里信村的葡萄迎来丰收。一串串饱满的巨峰葡萄从藤蔓垂落，果农采摘、市民体验、电商发货，一派繁忙。从传统单一种植到全链发展，小葡萄正成为带动村民稳定增收、推动乡村产业振兴的大产业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706754.shtml",
-      "publishedAt": "2026-10-01T08:41:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706756.shtml",
-      "title": "云南省抗震救灾指挥部办公室终止对昆明市地震四级应急响应",
-      "category": "综合",
-      "summary": "中新网昆明10月1日电 (记者 刘冉阳)云南省应急管理厅1日对外发布，根据《云南省地震应急预案》有关规定，云南省抗震救灾指挥部办公室决定于10月1日11时，终止对昆明市地震四级应急响应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706756.shtml",
-      "publishedAt": "2026-10-01T08:39:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706747.shtml",
-      "title": "中国国庆假期首日 探访浙江义乌市场",
-      "category": "综合",
-      "summary": "10月1日，采购商(右一)与商户讨论产品价格。中新社记者 董易鑫 摄 10月1日，义乌国际商贸城档口前人流如织。中新社记者 董易鑫 摄 10月1日，小朋友在档口前试戴王冠造型的头饰。中新社记者 董易鑫 摄 10月1日，义乌国际商贸城一区门前的停车场仅剩少量空位。中新社记者 董易鑫 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706747.shtml",
-      "publishedAt": "2026-10-01T08:39:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706753.shtml",
-      "title": "AI入局，奏响浙江文化“三重奏”",
-      "category": "综合",
-      "summary": "中新网杭州10月1日电(项菁)深奥的阳明心学变为年轻人爱追的AI(人工智能)漫剧，AIGC(生成式人工智能)平台一键能生成多种龙泉青瓷器型，智慧观鸟系统让游客戴上耳机就能“听懂”鸟鸣……这些看似不相关的场景，正在浙江大地上接连发生。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706753.shtml",
-      "publishedAt": "2026-10-01T08:39:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706743.shtml",
-      "title": "成都：百人舞百米长龙亮相街头迎接国庆节",
-      "category": "综合",
-      "summary": "10月1日，四川成都天府新区一群小朋友在家长的带领下走上街头，参加百人舞百米长龙活动，在欢庆祖国华诞的同时近距离感受传统民俗魅力。中新社记者 张浪 摄 10月1日，四川成都天府新区一群小朋友在家长的带领下走上街头，参加百人舞百米长龙活动，在欢庆祖国华诞的同时近距离感受传统民俗魅力。中新社记者 张浪 摄 10月1日，四川成都天府新区一群小朋友在家长的带领下走上",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706743.shtml",
-      "publishedAt": "2026-10-01T08:37:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706751.shtml",
-      "title": "成达万高铁全线铺轨工程启动",
-      "category": "综合",
-      "summary": "中新网南充10月1日电 (记者 刘忠俊)10月1日清晨，四川省南充市南充北站施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路(以下简称“成达万高铁”)铺轨施工正式启动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706751.shtml",
-      "publishedAt": "2026-10-01T08:36:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706749.shtml",
-      "title": "一览雪山与草原 云南省博物馆启“双展”迎国庆",
-      "category": "综合",
-      "summary": "中新网昆明10月1日电 (罗婕)国庆假期来临，雪山与草原之胜景在云岭高原“相聚”。10月1日，《金生丽水——丽江雪社书画展》《黄河从草原上流过——鄂尔多斯青铜文化展》在云南省博物馆双展新启，带观众从玉龙雪山下的笔墨丹青，走进黄河“几字弯”里的草原文明。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706749.shtml",
-      "publishedAt": "2026-10-01T08:35:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706746.shtml",
-      "title": "宁波机场国庆假期预计运送旅客37.7万人次",
-      "category": "综合",
-      "summary": "中新网宁波10月1日电(奚金燕 蒋钦卿 孙瑜)金秋送爽，随着国庆假期的到来，宁波机场也迎来出行高峰。据预测，10月1日至10月7日，宁波机场预计客运航班量2395架次，旅客吞吐量约37.7万人次，日均旅客量达5.4万人次，日均较去年国庆中秋连休假期增长4.0%，高峰日客流预计达5.5万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706746.shtml",
-      "publishedAt": "2026-10-01T08:35:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706737.shtml",
-      "title": "世界名校赛艇健儿齐聚蓉城 2026年成都赛艇公开赛在新津破浪开赛",
-      "category": "综合",
-      "summary": "图为比赛现场。成都市新津区委宣传部供图 图为选手亮相。成都市新津区委宣传部供图 图为赛前节目表演。成都市新津区委宣传部供图 图为航拍比赛现场。成都市新津区委宣传部供图 图为航拍比赛现场。成都市新津区委宣传部供图 图为赛前节目表演。成都市新津区委宣传部供图",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706737.shtml",
-      "publishedAt": "2026-10-01T08:35:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706744.shtml",
-      "title": "三十载深耕大庆井场 老注聚工以扳手传匠心",
-      "category": "综合",
-      "summary": "中新网大庆10月1日电 题：三十载深耕大庆井场 老注聚工以扳手传匠心",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706744.shtml",
-      "publishedAt": "2026-10-01T08:34:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706735.shtml",
-      "title": "河南郑州二七广场举行国庆节升国旗仪式",
-      "category": "综合",
-      "summary": "10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪式，上千市民前来观看，共赴一场庄严之约。张然 摄 10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪式，上千市民前来观看，共赴一场庄严之约。张然 摄 10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪式，上千市民前来观看，共赴一场庄严之约。 张然 摄 10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706735.shtml",
-      "publishedAt": "2026-10-01T08:33:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706734.shtml",
-      "title": "成都武侯祠举办“汉风华诞·锦南妙集”国庆主题活动",
-      "category": "综合",
-      "summary": "图为文艺演出现场。中新社记者 安源 摄 图为巡游现场。中新社记者 安源 摄 图为巡游现场。中新社记者 安源 摄 图为游客猜灯谜。中新社记者 安源 摄 图为河南省越调剧团的演员在武侯祠巡游。中新社记者 安源 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706734.shtml",
-      "publishedAt": "2026-10-01T08:31:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706732.shtml",
-      "title": "国庆假期上海两大国际机场预计日均客流42.8万人次",
-      "category": "综合",
-      "summary": "10月1日，飞机在上海浦东国际机场滑行道上滑行。据悉，今年国庆假期期间，上海浦东、虹桥两大国际机场预计共保障航班起降1.7万架次，保障进出港旅客300.2万人次，日均42.8万人次。中新社记者 殷立勤 摄 10月1日，旅客在上海浦东国际机场2号航站楼内办理登机手续。据悉，今年国庆假期期间，上海浦东、虹桥两大国际机场预计共保障航班起降1.7万架次，保障进出港旅",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706732.shtml",
-      "publishedAt": "2026-10-01T08:29:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706783.shtml",
-      "title": "（爱知·名古屋亚运会）林诗栋：19个月后，“小石头”开出“花”",
-      "category": "综合",
-      "summary": "中新网日本名古屋10月1日电 题：林诗栋：19个月后，“小石头”开出“花”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706783.shtml",
-      "publishedAt": "2026-10-01T08:29:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706731.shtml",
-      "title": "亚洲最大长须鲸骨骼标本亮相上海浦东国际机场",
-      "category": "综合",
-      "summary": "图为旅客观看长须鲸骨骼标本。中新社记者 殷立勤 摄 图为工作人员帮助旅客盖纪念章。中新社记者 殷立勤 摄 图为旅客观看长须鲸骨骼标本。中新社记者 殷立勤 摄 图为旅客用手机拍摄长须鲸骨骼标本。中新社记者 殷立勤 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706731.shtml",
-      "publishedAt": "2026-10-01T08:27:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -1569,24 +1587,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142888",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142887",
-      "title": "柬埔寨副首相布拉索昆：重建泰柬信任 通过和平与国际法解决争端",
-      "category": "国际",
-      "summary": "柬埔寨副首相布拉索昆周六在联合国大会第八十一届会议一般性辩论上发表讲话说，柬埔寨将继续寻求与泰国建立基于和平、合作和相互尊重的关系，全面、有效落实双方已达成的协议，重建信任，解决边界争端。他说，应尽快恢复联合边界委员会的勘测和划界工作，根据国际法以及两国现有条约和协议确立清晰且相互承认的边界。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142887",
       "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
         "国际",
