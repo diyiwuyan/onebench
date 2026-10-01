@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T01:19:25.129Z",
-  "expiresAt": "2026-10-01T07:19:25.129Z",
+  "generatedAt": "2026-10-01T08:56:43.998Z",
+  "expiresAt": "2026-10-01T14:56:43.998Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706598.shtml",
-      "title": "长三角铁路国庆节计划开行旅客列车3161列 预计发送旅客440万人次",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706777.shtml",
+      "title": "百余车辆巡游江西南昌 国际经典老车与江西造车辆同亮相",
       "category": "综合",
-      "summary": "今天是10月1日国庆节，记者从中国铁路上海局集团有限公司(以下简称“上铁集团”)获悉，长三角铁路迎来中秋国庆假期运输客流最高峰，计划开行旅客列车3161列，预计发送旅客440万人次，有望创国庆黄金周单日客发新高。9月30日，长三角铁路发送旅客372.7万人次，同比增长3%。",
+      "summary": "图为车队从滕王阁“南昌故郡”广场出发开始巡游。(无人机照片)中新社记者 刘占昆 摄 图为巡游车队经过八一广场。(无人机照片)中新社记者 刘占昆 摄 图为巡游车队经过南昌八一广场。中新社记者 刘占昆 摄 图为巡游车队中的中国一汽红旗牌老车经过八一广场。中新社记者 刘力鑫 摄 图为巡游车队中的江铃1985年产双排经典轻卡经过八一广场。中新社记者 刘力鑫 摄 图为",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706598.shtml",
-      "publishedAt": "2026-10-01T01:10:19.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706777.shtml",
+      "publishedAt": "2026-10-01T08:50:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-01/10706597.shtml",
-      "title": "国庆多连发外链",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad#0",
+      "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
+      "category": "国际",
+      "summary": "香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T08:48:59.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706796.shtml",
+      "title": "平陆运河观光游成广西文旅“新宠”",
       "category": "综合",
-      "summary": "",
+      "summary": "中新社南宁10月1日电 (黄艳梅 王伟臣)10月1日国庆假期首日，平陆运河绿道万人健步走活动在广西钦州市永福广场拉开帷幕，10000名徒步爱好者用脚步“打卡”世纪工程平陆运河，沉浸式体验运河生态及人文之美。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706597.shtml",
-      "publishedAt": "2026-10-01T01:01:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706796.shtml",
+      "publishedAt": "2026-10-01T08:48:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml",
-      "title": "特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706776.shtml",
+      "title": "国庆假期首日 上海邮轮口岸迎来双船同靠",
       "category": "综合",
-      "summary": "中新网10月1日电 综合报道，美国总统特朗普当地时间9月30日在社交媒体发文称，美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭。",
+      "summary": "中新网上海10月1日电 (记者 陈静)1日，上海邮轮口岸迎来国庆假期(10月1日-10月7日)首轮出入境客流高峰。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml",
-      "publishedAt": "2026-10-01T00:58:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706776.shtml",
+      "publishedAt": "2026-10-01T08:48:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706591.shtml",
-      "title": "重庆贵州等地局地有暴雨 江南华南有分散雷阵雨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706772.shtml",
+      "title": "《文明华夏：豫博日历2027》在河南郑州发布",
       "category": "综合",
-      "summary": "中新网10月1日电 据中央气象台网站消息，昨日，重庆、贵州、湖北、湖南、浙江等地出现较强降雨，内蒙古、华北、东北等地出现大风降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、重庆、湖南等局地有强降雨，关注对交通、旅游安全的不利影响；今日较强冷空气继续影响东部地区，内蒙古、华北、东北及东海等海域风力大，黄淮、江汉、江南等地降温明显；明日起，新",
+      "summary": "图为《文明华夏：豫博日历2027》发布会现场。中新社记者 韩章云 摄 图为《文明华夏：豫博日历2027》。中新社记者 韩章云 摄 图为工作人员展示《文明华夏：豫博日历2027》。中新社记者 韩章云 摄 图为游客选购《文明华夏：豫博日历2027》。中新社记者 韩章云 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706591.shtml",
-      "publishedAt": "2026-10-01T00:51:49.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706772.shtml",
+      "publishedAt": "2026-10-01T08:48:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-01/10706595.shtml",
-      "title": "职业教育拥抱AI",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706775.shtml",
+      "title": "“澄故·凝新——中国当代玻璃艺术展”启幕",
       "category": "综合",
-      "summary": "在中国，职业教育正迎来前所未有的春天。",
+      "summary": "中新网北京10月1日电 (记者 高凯)国家艺术基金2026年度传播交流推广资助项目“澄故·凝新——中国当代玻璃艺术展”日前在北京今日美术馆开幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706595.shtml",
-      "publishedAt": "2026-10-01T00:48:15.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706775.shtml",
+      "publishedAt": "2026-10-01T08:47:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
-      "title": "习言道｜让老百姓过上更好的日子",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706771.shtml",
+      "title": "河南开封：北宋东京城顺天门遗址博物馆开馆试运营",
       "category": "综合",
-      "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+      "summary": "图为游客参观博物馆。石斐 摄 图为游客在博物馆序厅观看介绍。石斐 摄 图为博物馆展出的明代围棋子和骰子。石斐 摄 图为游客在博物馆里拍摄。石斐 摄 图为清代酱釉鳖灯。石斐 摄 图为清代灯盏。石斐 摄 图为北宋东京城顺天门遗址博物馆。石斐 摄 图为宋代虎行纹陶模。石斐 摄 图为宋代时期的人物骑兽造像。石斐 摄 图为宋代武泰军礌石。石斐 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
-      "publishedAt": "2026-10-01T00:47:39.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706771.shtml",
+      "publishedAt": "2026-10-01T08:46:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206674.shtml",
-      "title": "【国庆特刊】亚运会这一抹“中国红”，真美！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706774.shtml",
+      "title": "武汉双年展启幕 500余件中外作品创历届之最",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网武汉10月1日电 (卢琪 李霞)2026武汉双年展10月1日启幕。作为武汉具有国际影响力的大型艺术展览，本届双年展汇聚22个国家370余位艺术家的500余件(组)作品，规模创历届之最，打造兼具国际高度、文脉深度与城市温度的艺术盛会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206674.shtml",
-      "publishedAt": "2026-10-01T00:46:55.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706774.shtml",
+      "publishedAt": "2026-10-01T08:46:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml",
-      "title": "庆祝祖国77周年华诞：“77”的回答",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706770.shtml",
+      "title": "百车巡游“英雄城”南昌 演绎流动汽车文明史",
       "category": "综合",
-      "summary": "“77”的回答",
+      "summary": "中新网南昌10月1日电 (熊锦阳)国庆假期首日，“英雄城”南昌上演了一场特别的汽车盛会。10月1日9时，“豫章聚经典·江铃耀洪城”国际经典汽车暨江铃汽车南昌巡游活动在滕王阁“南昌故郡”广场鸣笛启程。逾百台车辆组成巡游方阵穿行赣江两岸城市地标，把城市街道变为一座“行走的汽车博物馆”，串联起世界汽车百年发展史与南昌汽车工业的时代篇章。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml",
-      "publishedAt": "2026-10-01T00:37:40.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706770.shtml",
+      "publishedAt": "2026-10-01T08:45:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml",
-      "title": "俄外交部发言人用中文祝中国人民国庆节快乐",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706769.shtml",
+      "title": "云南野生动物园三只小老虎国庆正式亮相",
       "category": "综合",
-      "summary": "中新社莫斯科9月30日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃9月30日在例行记者会上用中文祝中国人民“国庆节快乐”。",
+      "summary": "10月1日，云南昆明，经过一段时间的适应，云南野生动物园三只小老虎在国庆期间亮相，正式与游客见面。中新社记者 刘冉阳 摄 10月1日，云南昆明，经过一段时间的适应，云南野生动物园三只小老虎在国庆期间亮相，正式与游客见面。中新社记者 刘冉阳 摄 10月1日，云南昆明，经过一段时间的适应，云南野生动物园三只小老虎在国庆期间亮相，正式与游客见面。中新社记者 刘冉阳",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml",
-      "publishedAt": "2026-09-30T23:28:24.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706769.shtml",
+      "publishedAt": "2026-10-01T08:45:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml",
-      "title": "法国纪念印象派绘画大师莫奈逝世100周年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706768.shtml",
+      "title": "“你好·良渚”主题特展走进俄罗斯校园",
       "category": "综合",
-      "summary": "中新社巴黎9月30日电 (记者 李洋)法国近日举办多个展览，纪念印象派绘画大师克劳德·莫奈逝世100周年。",
+      "summary": "中新网莫斯科10月1日电 (记者 田冰)“你好·良渚”主题特展进校园活动日前在俄罗斯莫斯科548学校举行，吸引众多师生和学生家长参与。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml",
-      "publishedAt": "2026-09-30T23:27:28.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706768.shtml",
+      "publishedAt": "2026-10-01T08:44:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706587.shtml",
-      "title": "美国第二季度GDP增速上修至2.2% 好于市场预期",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706766.shtml",
+      "title": "福州：品茉莉 庆华诞",
       "category": "综合",
-      "summary": "中新社华盛顿9月30日电 (记者 沙晗汀)美国商务部当地时间9月30日公布最终修正数据显示，今年第二季度美国实际国内生产总值(GDP)按年率计算环比增长2.2%，好于市场预期。",
+      "summary": "图为小朋友化身“茉莉仙子”表演歌舞《茉莉花》。中新社记者 吕明 摄 图为小朋友为家长敬上茉莉花茶。中新社记者 吕明 摄 图为茶艺师演示福州茉莉花茶窨制工艺。中新社记者 吕明 摄 10月1日，“福满英雄城·茉香南台岛——品茉莉 庆华诞”百人非遗体验活动在福州仓山区梁厝历史文化街区举办。中新社记者 吕明 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706587.shtml",
-      "publishedAt": "2026-09-30T23:26:52.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706766.shtml",
+      "publishedAt": "2026-10-01T08:44:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
-      "title": "俄外交部召见丹麦大使 抗议丹麦直升机接近俄军舰",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706767.shtml",
+      "title": "运力提质服务升温 浙江轨道暖心守护假日旅途畅通",
       "category": "综合",
-      "summary": "中新社莫斯科9月30日电 俄罗斯外交部9月30日召见丹麦驻俄罗斯大使罗尔夫·霍尔姆博(Rolf Holmboe)，就丹麦空军直升机针对俄波罗的海舰队护卫舰的“不专业且具有挑衅性”的行为提出强烈抗议。",
+      "summary": "中新网杭州10月1日电(奚金燕 张保)国庆假期，出行客流攀升，浙江交通集团下属浙江轨道集团各运营线路以精准化运力保障、精细化服务举措、全域化安全管控，多措并举织密出行保障网络，护航广大市民乘客平安出行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
-      "publishedAt": "2026-09-30T23:25:06.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706767.shtml",
+      "publishedAt": "2026-10-01T08:43:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706584.shtml",
-      "title": "泰国洪灾已致24人遇难",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706765.shtml",
+      "title": "徽州古建筑文化展亮相内蒙古博物院",
       "category": "综合",
-      "summary": "中新社曼谷9月30日电 (梁峻祥 李映民)泰国近期持续强降雨引发洪涝灾害，总理府公共关系部9月30日发布信息称，此次洪涝灾害已造成24人死亡，数百万人受灾，波及泰国首都曼谷及其他31个府。",
+      "summary": "10月1日，内蒙古呼和浩特市，民众参观展览。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观展览。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观人物纹砖雕。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观清代鲨鱼脊吻砖雕。中新社记者 刘文华 摄 10月1日，内蒙古呼和浩特市，民众参观依据徽州祠堂原貌复原的展陈场景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706584.shtml",
-      "publishedAt": "2026-09-30T23:23:06.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706765.shtml",
+      "publishedAt": "2026-10-01T08:42:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706586.shtml",
-      "title": "埃及前总理沙拉夫：为更深入理解中国，必须超越数字",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706778.shtml",
+      "title": "不让一个孩子困于海 浙江洞头跨海守护海岛求学路",
       "category": "综合",
-      "summary": "中新社开罗9月30日电 (记者 马秀秀)当地时间9月30日，埃及前总理伊萨姆·沙拉夫在于埃及开罗举行的中埃文明圆桌对话会暨精品图书赠书仪式上致辞表示，为了更深入地理解中国，他必须超越数字，去看历史、文化、制度、哲学和积累的经验。",
+      "summary": "中新网温州10月1日电(胡丰盛 叶青青 沈灿辉)“这个船挺快的，从学校到鹿西码头，一路上都有老师、保安(等)陪同，我们觉得很安全。”9月30日，国庆前夕踏上跨海归家的旅途，坐船回家的学子贺子轩感觉特别安心。当日下午4时30分许，在浙江省温州市洞头区大门沙岙综合交通码头，多部门护航队伍再次集结，开启校船护送任务。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706586.shtml",
-      "publishedAt": "2026-09-30T23:22:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706778.shtml",
+      "publishedAt": "2026-10-01T08:42:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-01/10706583.shtml",
-      "title": "10月1日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706750.shtml",
+      "title": "珠港澳三地出入境部门联合举行国庆升旗仪式",
       "category": "综合",
-      "summary": "",
+      "summary": "10月1日，珠海出入境边防检查总站联合香港入境事务处、澳门治安警察局，在位于广东珠海的港珠澳大桥白海豚岛举行“同升国旗 同心同行”主题升旗仪式，庆祝中华人民共和国成立77周年。图为珠港澳三地出入境管理部门人员组成的国门护旗队列阵。中新社记者 陈骥旻 摄 10月1日，珠海出入境边防检查总站联合香港入境事务处、澳门治安警察局，在位于广东珠海的港珠澳大桥白海豚岛举",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706583.shtml",
-      "publishedAt": "2026-09-30T23:05:41.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706750.shtml",
+      "publishedAt": "2026-10-01T08:41:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-01/10706582.shtml",
-      "title": "直播：天安门广场国庆升旗仪式",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706754.shtml",
+      "title": "（乡村行·看振兴）从“单一种植”到“全链发展” 山西襄垣小葡萄做成富民大产业",
       "category": "综合",
-      "summary": "",
+      "summary": "金秋时节，山西省长治市襄垣县古韩镇北里信村的葡萄迎来丰收。图为市民正在采摘葡萄。孙曼莎 摄 中新网长治10月1日电 (邓蓉 高雨晴)金秋时节，山西省长治市襄垣县古韩镇北里信村的葡萄迎来丰收。一串串饱满的巨峰葡萄从藤蔓垂落，果农采摘、市民体验、电商发货，一派繁忙。从传统单一种植到全链发展，小葡萄正成为带动村民稳定增收、推动乡村产业振兴的大产业。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706582.shtml",
-      "publishedAt": "2026-09-30T23:02:15.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706754.shtml",
+      "publishedAt": "2026-10-01T08:41:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
-      "title": "以防长：迪拜航空客机事件是一起“未遂恐怖袭击”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706756.shtml",
+      "title": "云南省抗震救灾指挥部办公室终止对昆明市地震四级应急响应",
       "category": "综合",
-      "summary": "当地时间9月30日，以色列国防部长卡茨发表声明称，当天发生的迪拜航空客机事件是一起“恐怖袭击未遂事件”。",
+      "summary": "中新网昆明10月1日电 (记者 刘冉阳)云南省应急管理厅1日对外发布，根据《云南省地震应急预案》有关规定，云南省抗震救灾指挥部办公室决定于10月1日11时，终止对昆明市地震四级应急响应。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
-      "publishedAt": "2026-09-30T22:50:58.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706756.shtml",
+      "publishedAt": "2026-10-01T08:39:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
-      "title": "买房“国补”上线！最高节省利息近5万元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706747.shtml",
+      "title": "中国国庆假期首日 探访浙江义乌市场",
       "category": "综合",
-      "summary": "今日起，居民使用新发放商业性个人住房贷款买房，符合条件的可以享受贷款贴息。这是国家层面首次为个人房贷贴息。",
+      "summary": "10月1日，采购商(右一)与商户讨论产品价格。中新社记者 董易鑫 摄 10月1日，义乌国际商贸城档口前人流如织。中新社记者 董易鑫 摄 10月1日，小朋友在档口前试戴王冠造型的头饰。中新社记者 董易鑫 摄 10月1日，义乌国际商贸城一区门前的停车场仅剩少量空位。中新社记者 董易鑫 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
-      "publishedAt": "2026-09-30T22:40:57.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706747.shtml",
+      "publishedAt": "2026-10-01T08:39:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,20 +373,320 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
-      "title": "英国首相伯纳姆：将重返欧盟纳入未来可选路径",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706753.shtml",
+      "title": "AI入局，奏响浙江文化“三重奏”",
       "category": "综合",
-      "summary": "中新社伦敦9月30日电 (记者 欧阳开宇)英国首相伯纳姆近期公开释放重磅信号，重新开启“脱欧”后英国与欧盟未来关系的讨论。9月30日接受媒体采访时，伯纳姆明确将重返欧盟纳入未来可选路径，直言“脱欧”对英国造成的负面影响远超收益。",
+      "summary": "中新网杭州10月1日电(项菁)深奥的阳明心学变为年轻人爱追的AI(人工智能)漫剧，AIGC(生成式人工智能)平台一键能生成多种龙泉青瓷器型，智慧观鸟系统让游客戴上耳机就能“听懂”鸟鸣……这些看似不相关的场景，正在浙江大地上接连发生。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
-      "publishedAt": "2026-09-30T22:33:59.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706753.shtml",
+      "publishedAt": "2026-10-01T08:39:07.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706743.shtml",
+      "title": "成都：百人舞百米长龙亮相街头迎接国庆节",
+      "category": "综合",
+      "summary": "10月1日，四川成都天府新区一群小朋友在家长的带领下走上街头，参加百人舞百米长龙活动，在欢庆祖国华诞的同时近距离感受传统民俗魅力。中新社记者 张浪 摄 10月1日，四川成都天府新区一群小朋友在家长的带领下走上街头，参加百人舞百米长龙活动，在欢庆祖国华诞的同时近距离感受传统民俗魅力。中新社记者 张浪 摄 10月1日，四川成都天府新区一群小朋友在家长的带领下走上",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706743.shtml",
+      "publishedAt": "2026-10-01T08:37:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706751.shtml",
+      "title": "成达万高铁全线铺轨工程启动",
+      "category": "综合",
+      "summary": "中新网南充10月1日电 (记者 刘忠俊)10月1日清晨，四川省南充市南充北站施工现场，随着第一组500米长钢轨稳稳落下，成都至达州至万州高速铁路(以下简称“成达万高铁”)铺轨施工正式启动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706751.shtml",
+      "publishedAt": "2026-10-01T08:36:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706749.shtml",
+      "title": "一览雪山与草原 云南省博物馆启“双展”迎国庆",
+      "category": "综合",
+      "summary": "中新网昆明10月1日电 (罗婕)国庆假期来临，雪山与草原之胜景在云岭高原“相聚”。10月1日，《金生丽水——丽江雪社书画展》《黄河从草原上流过——鄂尔多斯青铜文化展》在云南省博物馆双展新启，带观众从玉龙雪山下的笔墨丹青，走进黄河“几字弯”里的草原文明。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706749.shtml",
+      "publishedAt": "2026-10-01T08:35:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706746.shtml",
+      "title": "宁波机场国庆假期预计运送旅客37.7万人次",
+      "category": "综合",
+      "summary": "中新网宁波10月1日电(奚金燕 蒋钦卿 孙瑜)金秋送爽，随着国庆假期的到来，宁波机场也迎来出行高峰。据预测，10月1日至10月7日，宁波机场预计客运航班量2395架次，旅客吞吐量约37.7万人次，日均旅客量达5.4万人次，日均较去年国庆中秋连休假期增长4.0%，高峰日客流预计达5.5万人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706746.shtml",
+      "publishedAt": "2026-10-01T08:35:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706737.shtml",
+      "title": "世界名校赛艇健儿齐聚蓉城 2026年成都赛艇公开赛在新津破浪开赛",
+      "category": "综合",
+      "summary": "图为比赛现场。成都市新津区委宣传部供图 图为选手亮相。成都市新津区委宣传部供图 图为赛前节目表演。成都市新津区委宣传部供图 图为航拍比赛现场。成都市新津区委宣传部供图 图为航拍比赛现场。成都市新津区委宣传部供图 图为赛前节目表演。成都市新津区委宣传部供图",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706737.shtml",
+      "publishedAt": "2026-10-01T08:35:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706744.shtml",
+      "title": "三十载深耕大庆井场 老注聚工以扳手传匠心",
+      "category": "综合",
+      "summary": "中新网大庆10月1日电 题：三十载深耕大庆井场 老注聚工以扳手传匠心",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706744.shtml",
+      "publishedAt": "2026-10-01T08:34:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706735.shtml",
+      "title": "河南郑州二七广场举行国庆节升国旗仪式",
+      "category": "综合",
+      "summary": "10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪式，上千市民前来观看，共赴一场庄严之约。张然 摄 10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪式，上千市民前来观看，共赴一场庄严之约。张然 摄 10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪式，上千市民前来观看，共赴一场庄严之约。 张然 摄 10月1日，河南郑州二七广场举行隆重的国庆节升国旗仪",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706735.shtml",
+      "publishedAt": "2026-10-01T08:33:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706734.shtml",
+      "title": "成都武侯祠举办“汉风华诞·锦南妙集”国庆主题活动",
+      "category": "综合",
+      "summary": "图为文艺演出现场。中新社记者 安源 摄 图为巡游现场。中新社记者 安源 摄 图为巡游现场。中新社记者 安源 摄 图为游客猜灯谜。中新社记者 安源 摄 图为河南省越调剧团的演员在武侯祠巡游。中新社记者 安源 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706734.shtml",
+      "publishedAt": "2026-10-01T08:31:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706732.shtml",
+      "title": "国庆假期上海两大国际机场预计日均客流42.8万人次",
+      "category": "综合",
+      "summary": "10月1日，飞机在上海浦东国际机场滑行道上滑行。据悉，今年国庆假期期间，上海浦东、虹桥两大国际机场预计共保障航班起降1.7万架次，保障进出港旅客300.2万人次，日均42.8万人次。中新社记者 殷立勤 摄 10月1日，旅客在上海浦东国际机场2号航站楼内办理登机手续。据悉，今年国庆假期期间，上海浦东、虹桥两大国际机场预计共保障航班起降1.7万架次，保障进出港旅",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706732.shtml",
+      "publishedAt": "2026-10-01T08:29:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706783.shtml",
+      "title": "（爱知·名古屋亚运会）林诗栋：19个月后，“小石头”开出“花”",
+      "category": "综合",
+      "summary": "中新网日本名古屋10月1日电 题：林诗栋：19个月后，“小石头”开出“花”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706783.shtml",
+      "publishedAt": "2026-10-01T08:29:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706731.shtml",
+      "title": "亚洲最大长须鲸骨骼标本亮相上海浦东国际机场",
+      "category": "综合",
+      "summary": "图为旅客观看长须鲸骨骼标本。中新社记者 殷立勤 摄 图为工作人员帮助旅客盖纪念章。中新社记者 殷立勤 摄 图为旅客观看长须鲸骨骼标本。中新社记者 殷立勤 摄 图为旅客用手机拍摄长须鲸骨骼标本。中新社记者 殷立勤 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706731.shtml",
+      "publishedAt": "2026-10-01T08:27:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad#0",
+      "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
+      "category": "国际",
+      "summary": "北京正在打擊那些能夠模擬人際關係的AI聊天機器人。專家質疑這是否是正確的做法。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T08:12:13.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad#0",
+      "title": "日本收緊外國人居留條件，申請費用上調二十倍",
+      "category": "国际",
+      "summary": "這次加費是高市政府收緊移民政策的一環，目的是管理快速增長的外國人口。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T07:38:15.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad#2",
+      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
+      "category": "国际",
+      "summary": "一架從阿聯酋杜拜飛往以色列的「杜拜航空」（Flydubai）客機上，發生企圖空中劫機事件。其中一名機師刺傷另一名機副機後，機上乘客在機人員協助下闖進駕駛艙並合力制伏施襲者。以色列即將舉行大選，當局尚未透露涉案副機師的施襲動機。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T06:20:54.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad#1",
+      "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
+      "category": "国际",
+      "summary": "FirstDate推出之際，這個人口老化的國家正面臨歷來最低的生育率。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T04:43:34.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad#1",
+      "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
+      "category": "国际",
+      "summary": "批評、輕蔑、防衛、冷處理——這四種行為顯示你的關係可能正走向分手。但感情還是能挽救的，伴侶治療師提出了一些具體建議。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T02:35:05.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad#0",
+      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+      "category": "国际",
+      "summary": "基於鈉離子技術的電池可以在美國使用本地採購的材料生產。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T01:58:40.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -391,96 +708,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706578.shtml",
-      "title": "（爱知·名古屋亚运会）综合消息：中国跳水队达成“百金”成就 中国男足无缘决赛",
-      "category": "综合",
-      "summary": "中新社日本名古屋9月30日电 爱知·名古屋亚运会9月30日共决出22枚金牌。跳水比赛收官，中国队当日摘下最后两金，实现亚运跳水“百金”成就。男足半决赛中，中国队以1:2遭卫冕冠军韩国队逆转，遗憾无缘决赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706578.shtml",
-      "publishedAt": "2026-09-30T16:15:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-30/10706577.shtml",
-      "title": "沃洛金当选连任俄国家杜马主席 普京出席首次全会并讲话",
-      "category": "综合",
-      "summary": "中新社莫斯科9月30日电 (记者 田冰)俄罗斯总统普京9月30日在第九届国家杜马(议会下院)第一次全体会议上发表讲话时表示，新一届国家杜马议员肩负着优先处理国家重大议题的使命，必须竭尽全力确保胜利。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706577.shtml",
-      "publishedAt": "2026-09-30T15:56:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-30/10706576.shtml",
-      "title": "昆明4.3级地震为正常地震活动",
-      "category": "综合",
-      "summary": "中新网昆明9月30日电 (记者 陈静)9月30日18时31分，云南省昆明市盘龙区发生4.3级地震，震感强烈。记者30日晚从云南省地震局获悉，本次地震为正常地震活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706576.shtml",
-      "publishedAt": "2026-09-30T15:37:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-30/10706575.shtml",
-      "title": "中网综合：袁悦、布云朝克特迎开门红 德约科维奇首战告捷",
-      "category": "综合",
-      "summary": "中新社北京9月30日电 (刘梦青)2026年中国网球公开赛9月30日展开正赛首个比赛日较量。中国选手袁悦2:0横扫奥利尼科娃，成为当日唯一取胜的“金花”选手。男单布云朝克特2:1险胜塞伦多洛，晋级次轮。塞尔维亚网球名将、赛会六冠王德约科维奇时隔11年重返中网，首轮以2:0力克葡萄牙选手博尔热斯，晋级次轮。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706575.shtml",
-      "publishedAt": "2026-09-30T15:11:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-30/10706574.shtml",
-      "title": "（爱知·名古屋亚运会）中国跳水队达成亚运“百金”",
-      "category": "综合",
-      "summary": "中新社东京9月30日电 (记者 朱晨曦)爱知·名古屋亚运会跳水项目9月30日在东京水上运动中心收官。中国选手练俊杰在男子10米台比赛中险胜，为中国队拿到本届赛事第10金。中国跳水队就此达成亚运百金成就，自1974年首次参赛以来，从未让亚运金牌旁落。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706574.shtml",
-      "publishedAt": "2026-09-30T14:56:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/115070",
       "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
       "category": "科技",
@@ -495,114 +722,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-30/1206672.shtml",
-      "title": "柬埔寨洪灾影响10省数万户家庭",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-30/1206672.shtml",
-      "publishedAt": "2026-09-30T14:20:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml",
-      "title": "机制化的确定性正在重塑中美经贸关系",
-      "category": "综合",
-      "summary": "中新网北京9月30日电 近年来，个别经济体把所谓“对等关税”当作单边施压的常规工具，全球贸易政策的不确定性随之上升，产业链供应链的调整也在被动加速。然而经济学的分析早已表明，关税所产生的额外成本大部分并非由出口国承担，而是由征税国的消费者与下游企业消化，保护主义并未让施压者真正受益。经贸摩擦更深层的代价，还在于政策不确定性所引致的风险会冲击企业的订单和投资决",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml",
-      "publishedAt": "2026-09-30T14:10:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml",
-      "title": "《中国发展报告2026》在北京首发",
-      "category": "综合",
-      "summary": "中新网北京9月30日电 9月30日，由国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml",
-      "publishedAt": "2026-09-30T14:07:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-30/10706560.shtml",
-      "title": "“广西龙超”吸引逾190支队伍参赛 留学生体验划桨逐浪",
-      "category": "综合",
-      "summary": "中新网广西柳州9月30日电 (陈梅)9月30日，广西龙超——2026年融安龙舟公开赛、第二十五届长安龙舟大赛暨“秋冬游柳州”系列活动在广西柳州市融安县开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706560.shtml",
-      "publishedAt": "2026-09-30T14:07:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-30/10706561.shtml",
-      "title": "京广高铁车厢里的中国红",
-      "category": "综合",
-      "summary": "中新网广州9月30日电 题：京广高铁车厢里的中国红",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-30/10706561.shtml",
-      "publishedAt": "2026-09-30T14:06:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml",
-      "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
-      "category": "综合",
-      "summary": "中新网宜昌9月30日电 (郭晓莹 董晓斌 秦明硕)随着“最后一爆”顺利启动，作为施工准备试验工程的三峡枢纽新通道先行开挖区30日完成全部爆破开挖作业，为后续高压输电线路迁改、船闸主体工程全面施工创造有利条件。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml",
-      "publishedAt": "2026-09-30T14:06:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -749,7 +868,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#1",
       "title": "貓眼如何啟發機器人的照相機技術發展",
       "category": "国际",
       "summary": "據說曾啟發反光道路標記發明數十年後，貓眼的形狀和「發光」現象如今正被工程師仿效，用於設計高科技相機。",
@@ -766,7 +885,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#3",
       "title": "特朗普排除美中合作開發人工智能",
       "category": "国际",
       "summary": "美國總統繼續拒絕為人工智慧設立監管措施的呼籲，認為這將扼殺人工智慧的發展。",
@@ -801,7 +920,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#1",
       "title": "中國人工智慧工具「教導」研究人員製造生物武器",
       "category": "国际",
       "summary": "有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
@@ -818,24 +937,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad#1",
-      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
-      "category": "国际",
-      "summary": "內容創作學位旨在幫助人們透過社群媒體貼文賺錢。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T00:18:57.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#1",
       "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
       "category": "国际",
       "summary": "美國計劃於9月30日前從伊拉克撤出剩餘部隊，結束自2003年美國領導的推翻薩達姆·侯賽因政權的入侵以來在伊拉克的軍事存在。",
@@ -1031,7 +1133,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#4",
       "title": "亦敵亦友：澳洲如何在超級大國競爭中找平衡？",
       "category": "国际",
       "summary": "澳洲越來越擔心中國的軍事實力——但北京也是其最大的貿易夥伴。",
@@ -1039,23 +1141,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T05:46:42.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad#1",
-      "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
-      "category": "国际",
-      "summary": "此前，一名女子提起民事訴訟，聲稱她在2024年於一所兄弟會會所被下藥並遭到強姦。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T04:30:30.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1114,40 +1199,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad#1",
-      "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
-      "category": "国际",
-      "summary": "員工和招募人員都參與了關於面試禮儀的線上討論。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T00:07:38.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#1",
-      "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
-      "category": "国际",
-      "summary": "許多知名基督徒在 TikTok、播客、出版物等各種平台上開始討論人工智能是否會成為世界毀滅的催化劑。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T00:07:32.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1700,23 +1751,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad#3",
-      "title": "特朗普為何親赴機場，超規格接待習近平？",
-      "category": "国际",
-      "summary": "這是習近平時隔11年再次國事訪問美國。更是相隔64年，再有美國總統親自迎接他國元首到訪。有學者向BBC中文分析特朗普的舉動，既是在與中方「做生意打交道」；也是在向美國民眾展示自己的能力。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T10:20:23.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#5",
       "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
       "category": "国际",
@@ -1819,23 +1853,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad#2",
-      "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
-      "category": "国际",
-      "summary": "戴安娜王妃逝世近30年之際，她的弟弟史賓賽伯爵出版新書，重提姐姐去世後的王室事件。他聲稱，時任王儲查爾斯曾認為戴安娜很快會被世人遺忘，但這項說法遭到王室否認。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T10:03:53.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:ae840f12-bb0f-4ac9-86a1-9bf228426abb",
       "title": "联合国大会大流行病问题会议召开前夕，会员国推进关于病原体获取和惠益分享的谈判",
       "category": "健康",
@@ -1866,23 +1883,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#4",
-      "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
-      "category": "国际",
-      "summary": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T00:17:18.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
