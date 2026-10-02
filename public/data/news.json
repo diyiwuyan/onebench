@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T19:18:27.006Z",
-  "expiresAt": "2026-10-03T01:18:27.006Z",
+  "generatedAt": "2026-10-02T23:46:33.736Z",
+  "expiresAt": "2026-10-03T05:46:33.736Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,186 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-03/10707349.shtml",
+      "title": "10月3日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-03/10707349.shtml",
+      "publishedAt": "2026-10-02T23:04:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+      "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
+      "category": "综合",
+      "summary": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+      "publishedAt": "2026-10-02T22:52:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+      "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+      "category": "综合",
+      "summary": "今天(3日)是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+      "publishedAt": "2026-10-02T22:49:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-03/10707346.shtml",
+      "title": "候补购票、买“加速包”……这些“抢票偏方”真的靠谱吗？",
+      "category": "综合",
+      "summary": "真相来了丨候补购票、买“加速包”……这些“抢票偏方”真的靠谱吗？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707346.shtml",
+      "publishedAt": "2026-10-02T22:48:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707340.shtml",
+      "title": "WTT中国大满贯赛：资格赛第二轮打响 正赛签表出炉",
+      "category": "综合",
+      "summary": "中新社北京10月2日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛资格赛2日在北京石景山首钢园区继续进行，十位国乒选手顺利晋级。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707340.shtml",
+      "publishedAt": "2026-10-02T22:45:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+      "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+      "category": "综合",
+      "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+      "publishedAt": "2026-10-02T22:44:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707341.shtml",
+      "title": "中网综合：德约科维奇逆转晋级 萨巴伦卡、梅德韦杰夫迎“开门红”",
+      "category": "综合",
+      "summary": "中新社北京10月2日电 (刘梦青)2026中国网球公开赛2日在国家网球中心继续进行。六届赛会冠军德约科维奇鏖战三盘，以2:1逆转战胜中国选手布云朝克特，跻身八强。女单2号种子萨巴伦卡、男单3号种子梅德韦杰夫均2:0横扫对手，收获中网“开门红”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707341.shtml",
+      "publishedAt": "2026-10-02T22:44:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+      "title": "美国9月非农就业增加2.9万 失业率4.2%",
+      "category": "综合",
+      "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+      "publishedAt": "2026-10-02T22:42:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml",
+      "title": "美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁",
+      "category": "综合",
+      "summary": "中新社华盛顿10月2日电 (记者 沙晗汀)美国联邦航空管理局(FAA)当地时间2日表示，波音公司737 MAX部分机型出现的软件故障不构成安全威胁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml",
+      "publishedAt": "2026-10-02T22:40:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-03/10707342.shtml",
+      "title": "今年9月欧元区通胀率升至3.8%创近三年新高",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔10月2日电 (记者 德永健)欧盟统计局2日公布的数据显示，由于能源价格持续飙升，今年9月欧元区通胀率升至3.8%，创2023年9月以来新高。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707342.shtml",
+      "publishedAt": "2026-10-02T22:40:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707339.shtml",
       "title": "（爱知·名古屋亚运会）综合消息：中国“金花”包揽网球女单冠亚军 中国女足无缘领奖台",
@@ -382,186 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707318.shtml",
       "publishedAt": "2026-10-02T12:51:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-02/10707300.shtml",
-      "title": "河南禹州：游人神垕老街赏钧瓷古韵",
-      "category": "综合",
-      "summary": "10月2日，河南禹州市，游客徜徉神垕老街，观赏钧瓷作品，感受千年钧瓷文化魅力。图为游客欣赏钧瓷小鹿造型。中新社记者 刘鹏 摄 10月2日，河南禹州市，游客徜徉神垕老街，观赏钧瓷作品，感受千年钧瓷文化魅力。图为游客打卡神垕老街。中新社记者 刘鹏 摄 10月2日，河南禹州市，游客徜徉神垕老街，观赏钧瓷作品，感受千年钧瓷文化魅力。图为游客挑选钧瓷茶杯。中新社记者 ",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707300.shtml",
-      "publishedAt": "2026-10-02T12:50:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10707297.shtml",
-      "title": "吉尔吉斯斯坦首颗卫星成功入轨",
-      "category": "综合",
-      "summary": "中新社阿斯塔纳10月2日电 比什凯克消息：吉尔吉斯斯坦总统府网站2日发布消息称，该国首颗卫星于当地时间1日在美国发射升空并成功入轨，将用于自然资源监测和灾害预警等领域。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707297.shtml",
-      "publishedAt": "2026-10-02T12:50:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-02/10707314.shtml",
-      "title": "香港廉署与联合国毒罪办共同发布全新《监狱贪污风险管理指南》",
-      "category": "综合",
-      "summary": "中新社香港10月2日电 据香港廉政公署(简称“香港廉署”)2日消息，香港廉署与联合国毒品和犯罪问题办公室(简称“联合国毒罪办”)于当地时间1日在阿联酋阿布扎比发布共同编制的全新《监狱贪污风险管理指南》(下称“指南”)，希望提升各地监狱管治水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-02/10707314.shtml",
-      "publishedAt": "2026-10-02T12:50:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10707296.shtml",
-      "title": "金与正谴责韩方企图把朝鲜半岛局势再次拖入危险境地",
-      "category": "综合",
-      "summary": "中新社北京10月2日电 据朝中社2日报道，朝鲜劳动党中央委员会部长金与正当天就日前发生在朝韩非军事区的地雷爆炸事件发表谈话，谴责韩方企图把朝鲜半岛局势再次拖入危险境地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707296.shtml",
-      "publishedAt": "2026-10-02T12:49:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-02/10707319.shtml",
-      "title": "我国首个百兆瓦级 这个巨型“充电宝”成功并网",
-      "category": "综合",
-      "summary": "今天(10月2日)，我国首个百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707319.shtml",
-      "publishedAt": "2026-10-02T12:49:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10707312.shtml",
-      "title": "杭州9月二手房成交创近六年同期新高",
-      "category": "综合",
-      "summary": "中新社杭州10月2日电 (奚金燕)据杭州贝壳研究院10月2日发布数据，9月杭州二手房市场迎来亮眼“金九”行情，成交规模创下2021年以来近六年同期新高。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707312.shtml",
-      "publishedAt": "2026-10-02T12:48:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-02/10707307.shtml",
-      "title": "水上潮玩激发浙江乡村假期新活力",
-      "category": "综合",
-      "summary": "中新网杭州10月2日电(鲍梦妮)“平时我就在玩桨板，听说富阳有这个比赛，而且湖源的山水很美，就跟朋友一起来了，顺便也在龙鳞坝玩几天。”10月2日，上海游客吴先生特意赶到杭州市富阳区湖源乡，参加一场山水之间的趣味桨板赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707307.shtml",
-      "publishedAt": "2026-10-02T12:47:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10707305.shtml",
-      "title": "（走进中国乡村）从地中海到天津蓟州：“洋蔬菜”菊苣扎根中国乡村",
-      "category": "综合",
-      "summary": "中新网天津10月2日电 题：从地中海到天津蓟州：“洋蔬菜”菊苣扎根中国乡村",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707305.shtml",
-      "publishedAt": "2026-10-02T12:43:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-02/10707303.shtml",
-      "title": "2026香港六人板球赛将打响 12支球队展开角逐",
-      "category": "综合",
-      "summary": "中新网香港10月2日电 (记者 赵静怡)记者从2日举行的2026香港六人板球赛(下称“赛事”)新闻发布会上获悉，赛事将于10月30日至11月1日举办，12支球队将参赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707303.shtml",
-      "publishedAt": "2026-10-02T12:41:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-02/10707299.shtml",
-      "title": "第169次中老缅泰湄公河联合巡逻执法行动结束",
-      "category": "综合",
-      "summary": "【东盟专线】第169次中老缅泰湄公河联合巡逻执法行动结束",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707299.shtml",
-      "publishedAt": "2026-10-02T12:39:02.000Z",
       "tags": [
         "国内",
         "社会",
