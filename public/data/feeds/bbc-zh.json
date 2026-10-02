@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad#0",
+      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
+      "meta": "BBC 中文 · 2026/10/2",
+      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T08:24:10.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad#0",
+      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+      "meta": "BBC 中文 · 2026/10/2",
+      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T07:14:39.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#0",
       "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
       "meta": "BBC 中文 · 2026/10/2",
@@ -19,14 +33,14 @@
       "publishedAt": "2026-10-02T02:31:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad#1",
       "title": "「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程",
       "meta": "BBC 中文 · 2026/10/2",
       "url": "https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T01:42:08.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad#1",
       "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
       "meta": "BBC 中文 · 2026/10/1",
       "url": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
@@ -54,13 +68,6 @@
       "publishedAt": "2026-10-01T06:20:54.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad#1",
-      "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
-      "meta": "BBC 中文 · 2026/10/1",
-      "url": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T04:43:34.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad#1",
       "title": "鈉離子電池：「美國製造」能超越中國嗎？",
       "meta": "BBC 中文 · 2026/10/1",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T08:23:06.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#1",
-      "title": "貓眼如何啟發機器人的照相機技術發展",
-      "meta": "BBC 中文 · 2026/9/30",
-      "url": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T04:54:09.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-10-02T05:37:29.403Z",
+  "updatedAt": "2026-10-02T12:35:28.988Z",
   "provider": "OneBench 公共资讯快照"
 }

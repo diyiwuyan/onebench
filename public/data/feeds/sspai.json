@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/115211",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "meta": "少数派 · 2026/10/2",
+      "url": "https://sspai.com/post/115211",
+      "publishedAt": "2026-10-02T09:30:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/115070",
       "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
       "meta": "少数派 · 2026/9/30",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/28",
       "url": "https://sspai.com/post/115094",
       "publishedAt": "2026-09-28T09:45:02.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/prime/story/dev-env-on-android-with-termux",
-      "title": "基于 Termux 的 Android 手机开发服务器实操",
-      "meta": "少数派 · 2026/9/28",
-      "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-      "publishedAt": "2026-09-28T09:33:03.000Z"
     }
   ],
-  "updatedAt": "2026-10-02T05:37:29.403Z",
+  "updatedAt": "2026-10-02T12:35:28.988Z",
   "provider": "OneBench 公共资讯快照"
 }
