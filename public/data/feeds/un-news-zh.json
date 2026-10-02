@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142928",
+      "title": "货币基金组织总裁：海湾国家经济预计2026年萎缩 2027年有望强劲复苏",
+      "meta": "联合国新闻 · 2026/10/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142928",
+      "publishedAt": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142925",
+      "title": "【专题报道 | 前方视野】从“发展受阻”到“发展倒退”：被占巴勒斯坦领土陷入经济生存危机",
+      "meta": "联合国新闻 · 2026/10/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142925",
+      "publishedAt": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142926",
+      "title": "各国就伊朗制裁专家小组任期问题分歧持续 “恢复机制”争议未解",
+      "meta": "联合国新闻 · 2026/10/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142926",
+      "publishedAt": "2026-10-01T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142924",
       "title": "国际货币基金组织：各国应对能源冲击的政策组合正在变化",
       "meta": "联合国新闻 · 2026/10/1",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/9/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142894",
       "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142893",
-      "title": "印度外长苏杰生：和平本身就是道路",
-      "meta": "联合国新闻 · 2026/9/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142893",
-      "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142892",
-      "title": "新加坡外长维文：多边主义符合所有国家的共同利益",
-      "meta": "联合国新闻 · 2026/9/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142892",
-      "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142891",
-      "title": "沙特外交大臣费萨尔：必须确保霍尔木兹海峡等国际水道航行自由",
-      "meta": "联合国新闻 · 2026/9/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142891",
-      "publishedAt": "2026-09-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-01T22:41:26.308Z",
+  "updatedAt": "2026-10-02T05:37:29.403Z",
   "provider": "OneBench 公共资讯快照"
 }
