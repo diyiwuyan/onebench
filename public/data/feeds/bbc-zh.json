@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad#0",
+      "title": "為什麼有些人坐電動車更容易暈車？",
+      "meta": "BBC 中文 · 2026/10/3",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T04:19:55.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw80zedd4gd8o/trad#2",
+      "title": "中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？",
+      "meta": "BBC 中文 · 2026/10/3",
+      "url": "https://www.bbc.com/zhongwen/articles/cw80zedd4gd8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T03:42:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/trad#2",
+      "title": "「工程師治國」：中國為何熱衷於「超級工程」？",
+      "meta": "BBC 中文 · 2026/10/3",
+      "url": "https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T03:16:15.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad#0",
       "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
       "meta": "BBC 中文 · 2026/10/2",
@@ -47,7 +68,7 @@
       "publishedAt": "2026-10-01T08:48:59.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad#1",
       "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
       "meta": "BBC 中文 · 2026/10/1",
       "url": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +101,6 @@
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T16:46:19.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#1",
-      "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
-      "meta": "BBC 中文 · 2026/9/30",
-      "url": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T08:23:06.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#3",
@@ -131,13 +145,6 @@
       "publishedAt": "2026-09-27T01:35:32.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad#2",
-      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
-      "meta": "BBC 中文 · 2026/9/26",
-      "url": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T02:51:55.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad#2",
       "title": "中國、台灣民眾如何看「習特會」？專家如何解讀峰會成果？",
       "meta": "BBC 中文 · 2026/9/25",
@@ -150,13 +157,6 @@
       "meta": "BBC 中文 · 2026/9/25",
       "url": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-25T12:15:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwx2zmzd63gxo/trad#2",
-      "title": "中美AI競賽：世界變得更危險還是更安全？",
-      "meta": "BBC 中文 · 2026/9/25",
-      "url": "https://www.bbc.com/zhongwen/articles/cwx2zmzd63gxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T08:12:02.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-10-02T23:46:33.736Z",
+  "updatedAt": "2026-10-03T05:18:58.848Z",
   "provider": "OneBench 公共资讯快照"
 }
