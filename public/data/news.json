@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T00:37:34.725Z",
-  "expiresAt": "2026-10-04T06:37:34.725Z",
+  "generatedAt": "2026-10-04T08:27:11.717Z",
+  "expiresAt": "2026-10-04T14:27:11.717Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,230 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206912.shtml",
-      "title": "广州歌舞剧院在曼谷演出大型民族舞剧《醒·狮》",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707825.shtml",
+      "title": "贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票",
+      "category": "综合",
+      "summary": "中新网10月4日电 据贵州省晴隆县人民政府网站消息，10月4日，晴隆县人民政府发布一则关于二十四道拐景区服务管理相关情况的通报。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707825.shtml",
+      "publishedAt": "2026-10-04T08:19:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707826.shtml",
+      "title": "来新疆别只看美景，还有这些“必选项”！",
+      "category": "综合",
+      "summary": "每逢假期，新疆的喀纳斯、那拉提、赛里木湖游人如织。但越来越多游客的行程单上，博物馆、故城、非遗工坊等成了“必选项”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707826.shtml",
+      "publishedAt": "2026-10-04T08:18:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707822.shtml",
+      "title": "“从长江到亚马逊”音乐会在巴西圣保罗收官演出",
+      "category": "综合",
+      "summary": "中新社圣保罗10月4日电 (记者 林春茵)当地时间10月3日晚，“从长江到亚马逊”巡回音乐会在巴西圣保罗举行收官演出。巴西女高音歌唱家玛丽利娅·瓦加斯、古典吉他演奏家法比奥·扎农与中国旅巴女高音歌唱家于茜、巴西高山流水乐队联袂登台表演。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707822.shtml",
+      "publishedAt": "2026-10-04T08:03:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707824.shtml",
+      "title": "活力足、人气旺 各地特色活动点燃文旅消费新引擎 假日经济热潮涌动",
+      "category": "综合",
+      "summary": "央视网消息：国庆假期的第三天，假期里很多人选择走出家门，奔赴近郊乡村感受秋日风光。江西南昌依托古村人文、田园生态资源，推出了丰富多彩的文旅活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707824.shtml",
+      "publishedAt": "2026-10-04T07:50:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707823.shtml",
+      "title": "家国同庆 文明同行",
+      "category": "综合",
+      "summary": "家国同庆 文明同行",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707823.shtml",
+      "publishedAt": "2026-10-04T07:46:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-04/10707809.shtml",
+      "title": "习近平总书记关切事｜观天十载探苍穹",
+      "category": "综合",
+      "summary": "浩瀚星空，寄托着人类亘古不变的科学憧憬。2016年9月，500米口径球面射电望远镜“中国天眼”(FAST)在贵州平塘大窝凼落成启用，习近平总书记致信祝贺，对这一重大科学基础设施的运行管理、科研攻关寄予殷切期望。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707809.shtml",
+      "publishedAt": "2026-10-04T07:29:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-04/10707818.shtml",
+      "title": "国庆黄金周：呼和浩特大召景区游人如织",
+      "category": "综合",
+      "summary": "10月4日，内蒙古呼和浩特，身着民族服装的游客拍照打卡。国庆黄金周期间，呼和浩特著名的大召景区迎来客流高峰。阿拉坦汗广场、塞上老街上人头攒动，游客尽情感受假日氛围与塞外历史文化魅力。中新社记者 刘文华 摄 10月4日，内蒙古呼和浩特，游客在塞上老街游览。国庆黄金周期间，呼和浩特著名的大召景区迎来客流高峰。阿拉坦汗广场、塞上老街上人头攒动，游客尽情感受假日氛围",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-04/10707818.shtml",
+      "publishedAt": "2026-10-04T07:29:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707819.shtml",
+      "title": "星巴克来到新疆，成为“星巴扎”",
+      "category": "综合",
+      "summary": "头顶是新疆艾德莱斯绸铺展出的斑斓色彩，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707819.shtml",
+      "publishedAt": "2026-10-04T07:24:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707817.shtml",
+      "title": "1046公里海岸蜿蜒 福建宁德擘画滨海海洋康养产业发展新图景",
+      "category": "综合",
+      "summary": "中新网宁德10月4日电 (吴允杰)滩涂铺金，潮起潮落间光影万千；碧海拥湾，渔排与岛屿相映成趣……国庆假期，沿着位于福建省宁德市霞浦县的中国最美自驾线——“东海1号”风景观光道前行，一路蜿蜒，左面青山连绵，右边碧海无垠，海风拂面，心旷神怡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707817.shtml",
+      "publishedAt": "2026-10-04T07:22:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-04/10707816.shtml",
+      "title": "“新”引力驱动浙江创新药“加速跑”",
+      "category": "综合",
+      "summary": "中新网杭州10月4日电 (潘沁文)中国创新药正迎来“高光时刻”：目前，中国在研新药管线约占全球总量的30%，位列全球第二；今年以来，国内已有59个创新药获批上市，其中13个为新机制、新靶点的首创新药。在这轮国产创新药浪潮中，浙江表现不俗——今年截至目前已获批创新药8个品种12个品规，位列全国第二；“十四五”以来累计获批创新药22个品种25个品规，位列全国第三",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-04/10707816.shtml",
+      "publishedAt": "2026-10-04T07:20:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707813.shtml",
+      "title": "国庆假期前3天中国高速公路新能源汽车充电近300万次",
+      "category": "综合",
+      "summary": "中新社北京10月4日电 (记者 王梦瑶)据中国国家能源局4日消息，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施(枪)进行统计分析，10月1日0时至10月3日24时，全国高速公路新能源汽车充电次数共计296.86万次，日均98.95万次，较去年国庆假期同期增长48.41%；充电量达到7161.93万千瓦时，日均2387.31万千瓦时，较去年",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707813.shtml",
+      "publishedAt": "2026-10-04T07:18:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-04/10707808.shtml",
+      "title": "陈茂波：香港以“金融+”对接实体经济、开拓国际合作",
+      "category": "综合",
+      "summary": "中新社香港10月4日电 香港特区政府财政司司长陈茂波4日发表网志表示，香港和中东地区，以及全球南方其他经济体的合作正在走深走实：从相关地区大型资产管理机构计划在港设立办事处，到开发在两地市场互挂的交易所买卖产品，再到能源储存、数据中心、电商物流、航空等领域，香港以“金融+”对接实体经济、开拓国际合作，发挥“超级联系人”和“超级增值人”作用。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-04/10707808.shtml",
+      "publishedAt": "2026-10-04T07:17:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206963.shtml",
+      "title": "WTT中国大满贯赛：袁励岑/王艺迪组合晋级16强",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206912.shtml",
-      "publishedAt": "2026-10-04T00:32:56.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206963.shtml",
+      "publishedAt": "2026-10-04T07:09:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml",
-      "title": "哈啰顺风车携手百度地图：双边开放重构顺风出行生态",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-04/10707805.shtml",
+      "title": "总书记治国理政故事｜“人民就是江山”",
       "category": "综合",
-      "summary": "近日，哈啰顺风车和百度地图宣布达成合作。双方将围绕“地图+出行”的核心场景，共同探索更便捷、更高效的顺路合乘服务体验。",
+      "summary": "2021年5月，在河南省淅川县九重镇邹庄村，习近平总书记走进移民户邹新曾家。通过种田、务工和电商直播，这家的日子红红火火。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml",
-      "publishedAt": "2026-10-04T00:28:12.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707805.shtml",
+      "publishedAt": "2026-10-04T07:01:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,68 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707677.shtml",
-      "title": "毕焜任爱知·名古屋亚运会闭幕式中国体育代表团旗手",
-      "category": "综合",
-      "summary": "中新网10月4日电(记者 国璇)第20届亚运会中国体育代表团10月4日宣布，在4日晚举行的爱知·名古屋亚运会闭幕式上，中国体育代表团旗手将由男子帆船帆板运动员毕焜担任。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707677.shtml",
-      "publishedAt": "2026-10-04T00:05:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
-      "title": "印尼东努沙登加拉省发生6.1级地震 震源深度10公里",
-      "category": "综合",
-      "summary": "据印尼气象、气候和地球物理局消息，当地时间10月4日5时55分，印尼东努沙登加拉省西南松巴县西南14公里处发生6.1级地震，震源深度为10公里。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
-      "publishedAt": "2026-10-03T23:29:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
-      "title": "金正恩观摩中程战略导弹发射训练",
-      "category": "综合",
-      "summary": "据朝鲜方面4日消息，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
-      "publishedAt": "2026-10-03T23:07:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-04/10707674.shtml",
-      "title": "10月4日新闻早报",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206958.shtml",
+      "title": "北京市民国庆假期观版画展了解“国之重器”",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-04/10707674.shtml",
-      "publishedAt": "2026-10-03T23:00:30.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206958.shtml",
+      "publishedAt": "2026-10-04T07:01:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
-      "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-04/10707806.shtml",
+      "title": "贵州大方天麻 出山入大湾区",
       "category": "综合",
-      "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
+      "summary": "中新网贵州大方10月4日电 (记者 刘美伶)国庆假期期间，位于贵州省毕节市大方县的天麻龙头企业，已完成来自大湾区20%的销售订单。“客户先认这个产地，认这个品牌，再谈订单。”该企业副总经理文竟之说。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
-      "publishedAt": "2026-10-03T22:52:47.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-04/10707806.shtml",
+      "publishedAt": "2026-10-04T06:55:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-04/10707672.shtml",
-      "title": "秋天这颗“长寿果”健脾消食、止咳祛痰，但你千万别直接吃",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707803.shtml",
+      "title": "高市早苗就驻日美军涉嫌杀人案表示“极为遗憾” 小泉进次郎怒斥“不可容忍”",
       "category": "综合",
-      "summary": "秋天这颗“长寿果”，竟是隐藏的“维生素C宝库”！健脾消食、止咳祛痰，但你千万别直接吃",
+      "summary": "中新网10月4日电 据日媒报道，日本首相高市早苗4日就驻日美军涉嫌杀人案在社交平台上发帖称，发生如此残忍、恶劣的案件，令人感到极为遗憾。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/10-04/10707672.shtml",
-      "publishedAt": "2026-10-03T22:50:19.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707803.shtml",
+      "publishedAt": "2026-10-04T06:33:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
-      "title": "（爱知·名古屋亚运会）洪可新女子摔跤57公斤级夺冠 中国代表团169金收官创纪录",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707804.shtml",
+      "title": "星巴克化身星巴扎，扎了谁的心？",
       "category": "综合",
-      "summary": "中新社日本名古屋10月4日电 (记者 国璇)当地时间10月3日晚进行的爱知·名古屋亚运会女子摔跤57公斤级决赛中，中国选手洪可新夺得冠军，这是中国摔跤队本届赛事的首枚金牌，也是本届亚运会中国代表团收获的第169金。",
+      "summary": "星巴克在乌鲁木齐开出新疆首批两家门店。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
-      "publishedAt": "2026-10-03T22:36:43.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707804.shtml",
+      "publishedAt": "2026-10-04T06:33:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
-      "title": "中网综合：莱巴金娜首战爆冷出局 郑钦文、孙心然晋级女单32强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707801.shtml",
+      "title": "山东百年古村落焕新颜 乡村慢生活体验游兴起",
       "category": "综合",
-      "summary": "中新社北京10月3日电 (刘梦青)2026中国网球公开赛3日在国家网球中心继续进行。女单赛场爆出大冷门，头号种子、新科世界第一莱巴金娜遭世界排名第118位的查拉耶娃逆转淘汰。中国选手郑钦文、孙心然携手晋级32强。男单赛场，商竣程不敌头号种子兹维列夫，无缘八强。",
+      "summary": "中新网青岛10月4日电 (王禹)国庆假期，山东省胶州市洋河镇曹家庄里游人往来穿梭。恰逢当地慢生活体验季，这座有着近300年历史的古村落迎来客流高峰，丰收市集的吆喝声、民宿院落的欢笑声交织成一片，晒秋拼豆、非遗手作轮番上演，乡村慢生活体验游悄然兴起。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
-      "publishedAt": "2026-10-03T22:36:37.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707801.shtml",
+      "publishedAt": "2026-10-04T06:16:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707669.shtml",
-      "title": "WTT中国大满贯赛：国乒七名选手获得正赛席位",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-04/10707794.shtml",
+      "title": "香港77人打咏春拳贺国庆",
       "category": "综合",
-      "summary": "中新社北京10月3日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛3日在北京石景山首钢园区迎来资格赛最后一轮的较量。中国乒乓球队共有七名资格赛选手获得正赛席位，男单占据两席，女单占据五席。",
+      "summary": "图为咏春拳表演。中新网记者 陈永诺 摄 图为咏春拳表演。中新网记者 陈永诺 摄 图为咏春拳表演。中新网记者 陈永诺 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707669.shtml",
-      "publishedAt": "2026-10-03T14:46:37.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-04/10707794.shtml",
+      "publishedAt": "2026-10-04T06:07:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml",
-      "title": "工业母机产业链如何高质量发展？院士专家共议新路径",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707793.shtml",
+      "title": "今晚抬头 看土星冲日！“指环王”的风采别错过",
       "category": "综合",
-      "summary": "中新网嘉兴10月3日电 (钟余)工业母机产业如何实现开道超车、跨越发展？中国机械工程学会荣誉理事长、中国工程院院士周济日前指出，以新一代智能制造为主攻方向，用新一代人工智能赋能数控机床，是我国工业母机创新发展要走的技术路线。",
+      "summary": "10月4日20时29分，将迎来2026年度的土星冲日。从地球上看，这是土星最亮、视面最大的时刻。傍晚时分，天文爱好者看向东方，肉眼能找到这颗金黄色的亮星。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml",
-      "publishedAt": "2026-10-03T14:30:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707793.shtml",
+      "publishedAt": "2026-10-04T05:51:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-03/10707666.shtml",
-      "title": "专家：50岁以上慢病人群假期出行前 需做好带状疱疹风险评估",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707785.shtml",
+      "title": "2026年中德青少年交流音乐会在德国埃森举行",
       "category": "综合",
-      "summary": "中新网北京10月3日电(张静)正值国庆假期，中老年慢病群体出行健康风险凸显。长途奔波引发的作息紊乱、饮食不规律、异地就医不便等问题，易打乱高血压、糖尿病等患者的用药与休养节奏，叠加年龄增长带来的免疫力波动，该群体出行健康保障需求持续上升。",
+      "summary": "中新社柏林10月4日电 德国埃森消息：当地时间10月3日，2026年中德青少年交流音乐会暨“唱歌学中文”夏令营汇报演出在德国埃森举行。40名中德学生登台表演，近200名观众到场观看。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-03/10707666.shtml",
-      "publishedAt": "2026-10-03T14:28:58.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707785.shtml",
+      "publishedAt": "2026-10-04T05:46:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml",
-      "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707789.shtml",
+      "title": "国庆假期前3天 高速公路新能源汽车充电近300万次",
       "category": "综合",
-      "summary": "国际能源署日前发布公告显示，该机构今年3月宣布计划释放的4亿桶战略石油储备中，目前已释放约3.25亿桶。",
+      "summary": "中新网10月4日电 据国家能源局微信公众号消息，国庆假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳。10月1日0时至10月3日24时，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施(枪)进行统计分析，今年国庆假期前三天全国高速公路新能源汽车充电次数共计296.86万次，日均98.95万次，较去年国庆假期同期增长48.41%；",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml",
-      "publishedAt": "2026-10-03T14:27:56.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707789.shtml",
+      "publishedAt": "2026-10-04T05:40:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707665.shtml",
-      "title": "改革激活创新源力 产业集聚硬核势能 陕西培育壮大新质生产力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707788.shtml",
+      "title": "中国体育代表团秘书长：本届亚运会圆满完成洛杉矶奥运会练兵任务",
       "category": "综合",
-      "summary": "教育科技人才体制机制一体改革，是激活硬科技、培育新质生产力的关键抓手。立足秦创原创新驱动平台总窗口优势，陕西聚力发展光子、高端科学仪器、新能源装备等硬科技产业。高校厚植学科根基，科研团队聚力攻坚技术难题，大批工程技术人才持续输送至产业一线，创新链、产业链、人才链深度咬合。实验室科研成果加速落地转化，迭代打磨成为硬核产品，源源不断积蓄产业发展动能，生动诠释了这",
+      "summary": "中新网10月4日电 (记者 国璇)爱知·名古屋亚运会将于10月4日晚闭幕，中国体育代表团获得169金89银83铜共341枚奖牌，第12次蝉联亚运会金牌榜榜首，金牌总数创境外参加亚运会新高。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707665.shtml",
-      "publishedAt": "2026-10-03T14:16:53.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707788.shtml",
+      "publishedAt": "2026-10-04T05:22:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707664.shtml",
-      "title": "我国多举措支持服务业扩能提质",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707786.shtml",
+      "title": "中国商务部介绍G20贸易部长会议及相关情况",
       "category": "综合",
-      "summary": "央视新闻客户端消息(新闻联播)：记者从国家发展改革委了解到，我国推出一系列政策举措，支持服务业扩能提质：在生产性服务业方面，推动研发设计、现代物流、软件信息等专业服务深度嵌入产业链供应链；在生活性服务业方面，全面推开养老服务消费补贴项目，持续增加居民服务优质供给。与此同时，加强土地、金融等要素保障：推动低效工业用地再开发、闲置房屋再利用，引导生产性服务业向工",
+      "summary": "中新社北京10月4日电 (记者 尹倩芸)中国商务部新闻发言人4日就二十国集团(G20)贸易部长会议及相关情况答记者问。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707664.shtml",
-      "publishedAt": "2026-10-03T14:13:25.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707786.shtml",
+      "publishedAt": "2026-10-04T05:21:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707662.shtml",
-      "title": "通胀冲击历史性升温，日本民众餐桌承压",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707787.shtml",
+      "title": "中国体育代表团秘书长：“三大球”等项目有亮点",
       "category": "综合",
-      "summary": "最近，日本企业们都在忙一件事，涨价。",
+      "summary": "中新网10月4日电 (记者 国璇)爱知·名古屋亚运会将于10月4日晚闭幕。中国体育代表团秘书长张新当日表示，代表团此次在“三大球”及其他集体球类项目有亮点。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707662.shtml",
-      "publishedAt": "2026-10-03T14:13:23.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707787.shtml",
+      "publishedAt": "2026-10-04T05:21:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707663.shtml",
-      "title": "我国首个深水油田流花油田取得新突破 “国之重器”协同运转",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-04/10707784.shtml",
+      "title": "“鹏乘枫警”女子乘警组——国庆旅途上的温情守护者",
       "category": "综合",
-      "summary": "这个国庆假期，我国深水油田产油量再获新突破。今天，我国首个深水油田——流花油田二次开发项目累计生产原油突破200万吨。截至目前，油田已生产原油超过4000万吨，日产量达到了投产22年来的新高，为保障国家能源安全提供了坚实保障。",
+      "summary": "中新网深圳10月4日电 题：“鹏乘枫警”女子乘警组——国庆旅途上的温情守护者",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707663.shtml",
-      "publishedAt": "2026-10-03T14:10:57.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-04/10707784.shtml",
+      "publishedAt": "2026-10-04T05:20:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-03/10707661.shtml",
-      "title": "美国咖啡品牌新疆开店受欢迎",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-04/10707783.shtml",
+      "title": "前9月广州南沙汽车口岸出口工程车货值约20亿元",
       "category": "综合",
-      "summary": "中新社乌鲁木齐10月3日电 (胡嘉琛)“我来新疆旅游，得知这里开了首店，就来打卡体验。”上海游客杜怡申3日在乌鲁木齐市接受中新社采访时说，她在星巴克点了一杯以新疆赛里木湖蓝色为创意灵感的饮品，选购了一个穿着新疆艾德莱斯绸服饰的玩偶，一切都很圆满。",
+      "summary": "中新网广州10月4日电 (许青青 关悦)据广州海关消息，广州南沙口岸汽车出口保持强劲增长态势，出口品类进一步扩大。今年前9月，广州南沙汽车口岸出口汽车超40万辆，同比增长约36%。其中，出口工程车货值约20亿元，同比增长6倍多。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707661.shtml",
-      "publishedAt": "2026-10-03T14:09:33.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-04/10707783.shtml",
+      "publishedAt": "2026-10-04T05:02:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707656.shtml",
-      "title": "中国选手袁思俊晋级2026世界斯诺克·深圳公开赛决赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-04/10707781.shtml",
+      "title": "美国青年的“中国假期”：好奇为桥 包容作舟",
       "category": "综合",
-      "summary": "中新社深圳10月3日电 (记者 张璐)2026世界斯诺克·深圳公开赛10月3日在深圳展开首场半决赛争夺，中国选手袁思俊以6:5战胜英格兰选手吉米·罗伯逊，晋级决赛。",
+      "summary": "中新网嘉兴10月4日电 题：美国青年的“中国假期”：好奇为桥 包容作舟",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707656.shtml",
-      "publishedAt": "2026-10-03T14:07:57.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707781.shtml",
+      "publishedAt": "2026-10-04T04:56:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-03/10707655.shtml",
-      "title": "中国香港队夺首届FIFA东盟挑战杯冠军 主教练称感觉“非常美妙”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206951.shtml",
+      "title": "探访陕西甘泉大峡谷 尽显飘逸流动之美",
       "category": "综合",
-      "summary": "中新社香港10月3日电 (记者 赵静怡)首届FIFA(国际足联)东盟挑战杯决赛3日在香港启德体育园主场馆举行，中国香港队以2:0击败柬埔寨队夺得赛事冠军。",
+      "summary": "10月4日，中新社记者探访位于陕西省延安市的甘泉大峡谷。甘泉大峡谷历经数千万年风沙切割和流水溶蚀、冲刷而成，享有“黄土高原自然地缝奇观”之美称，在阳光照射下尽显飘逸流动之美。“十一”假期期间，吸引了不少游客前来赏景游玩。图为甘泉大峡谷纹理颇具流动感。中新社记者 李一璠 摄 10月4日，中新社记者探访位于陕西省延安市的甘泉大峡谷。甘泉大峡谷历经数千万年风沙切割",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-03/10707655.shtml",
-      "publishedAt": "2026-10-03T14:07:15.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206951.shtml",
+      "publishedAt": "2026-10-04T04:55:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,164 +572,36 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707660.shtml",
-      "title": "国庆假期 海军编队坚守战位 护卫国际航道安全",
-      "category": "综合",
-      "summary": "这个假期，有人假日不休、生产不停，还有人坚守战位、守护安全。国庆佳节，正在远海执行护航任务的海军第49批护航编队，举行了一场特殊的升旗仪式。五星红旗在深蓝大洋上升起，护航官兵坚守战位，用忠诚与担当，在远海大洋护卫国际航道安全。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707660.shtml",
-      "publishedAt": "2026-10-03T14:07:07.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad#0",
+      "title": "西班牙數萬人上街遊行：抗議住房危機 紮營佔領馬德里市中心",
+      "category": "国际",
+      "summary": "週六，由於政府未能使緊急立法在議會獲得通過，爆發了 50 多起抗議活動。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T04:01:33.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707654.shtml",
-      "title": "（爱知·名古屋亚运会）综合消息：中国男足时隔28年再获亚运会铜牌 中国队创境外参加亚运会最佳战绩",
-      "category": "综合",
-      "summary": "中新社日本名古屋10月3日电 当地时间3日，爱知·名古屋亚运会多项比赛迎来收官，中国男足凭借点球大战击败乌兹别克斯坦队，时隔28年再获亚运会铜牌。中国代表团最终以169金89银83铜收官，创境外参加亚运会最佳战绩。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707654.shtml",
-      "publishedAt": "2026-10-03T14:07:07.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad#0",
+      "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
+      "category": "国际",
+      "summary": "多家媒體報道稱，試圖劫持飛往以色列的飛機的男子名叫哈馬姆·哈馬米。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T02:44:22.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707648.shtml",
-      "title": "（爱知·名古屋亚运会）亚运会霹雳舞比赛收官 中国选手郭朴获女子组冠军",
-      "category": "综合",
-      "summary": "中新社日本名古屋10月3日电 (记者 朱晨曦)爱知·名古屋亚运会霹雳舞比赛3日收官，中国队收获1金2铜。女子组中，中国选手郭朴(B-Girl Royal)夺金，另一名中国选手、上届冠军刘清漪(B-Girl671)获得铜牌；男子组中，卫冕冠军、日本本土名将半井重幸(B-Boy Shigekix)摘金，中国选手王瑞苗(B-Boy MonkeyZ)收获铜牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707648.shtml",
-      "publishedAt": "2026-10-03T14:06:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707647.shtml",
-      "title": "（爱知·名古屋亚运会）28年等待，中国男足带着亚运铜牌“回家”",
-      "category": "综合",
-      "summary": "中新社日本名古屋10月3日电 题：28年等待，中国男足带着亚运铜牌“回家”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707647.shtml",
-      "publishedAt": "2026-10-03T14:05:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-03/10707659.shtml",
-      "title": "假期文旅新动向：数字光影里重温红色历史",
-      "category": "综合",
-      "summary": "数字光影里重温红色历史——假期文旅新动向①",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707659.shtml",
-      "publishedAt": "2026-10-03T14:04:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707653.shtml",
-      "title": "新的长征之路 | 九十载军民情 小小“红军粉”铺就富民振兴路",
-      "category": "综合",
-      "summary": "央视网消息：长征的征途，既有翻越天险的战斗行军，也有军民共处的岁月。1935年，红一方面军和红四方面军先后完成翻雪山、过草地的艰苦行军。同年8月，红二十五军先期北上，进入宁夏南部地区，他们在西吉兴隆镇一带休整，与当地百姓结下了不解之缘。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707653.shtml",
-      "publishedAt": "2026-10-03T14:00:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-03/10707652.shtml",
-      "title": "校馆弦歌丨“竢实扬华、自强不息” 解读西南交大精神密码",
-      "category": "综合",
-      "summary": "巍巍学府，弦歌不辍。《校馆弦歌·此间读中国》系列，今天走进西南交通大学图书馆。一册册穿越战火的馆藏，记录着一所工科院校与国家民族同呼吸共命运的峥嵘岁月。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-03/10707652.shtml",
-      "publishedAt": "2026-10-03T13:56:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707651.shtml",
-      "title": "（爱知·名古屋亚运会）专访中国香港代表团团长：香港和内地运动员赛场内外情谊深厚",
-      "category": "综合",
-      "summary": "中新网日本名古屋10月3日电 题：专访中国香港代表团团长：香港和内地运动员赛场内外情谊深厚",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707651.shtml",
-      "publishedAt": "2026-10-03T13:55:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707650.shtml",
-      "title": "晶采观察丨从“看景”到“入景” 解锁国庆文旅消费新趋势",
-      "category": "综合",
-      "summary": "国庆假期正在火热进行中，如果用一个词来概括今年国庆文旅市场，我认为是“融合”。文化、旅游、商业、科技正在打破边界，不断催生新的消费场景。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707650.shtml",
-      "publishedAt": "2026-10-03T13:54:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -763,40 +797,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad#0",
-      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
-      "category": "国际",
-      "summary": "杜拜航空這班飛往特拉維夫的航班上，斯米特·馬查爾機長（Capt Smit Machchhar）遭另一名機師襲擊。以色列總理內塔尼亞胡讚揚他是「真正的英雄」，「拯救了174人的生命」，並阻止了一場「災難性的空中事故」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T08:24:10.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad#0",
-      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "category": "国际",
-      "summary": "這名被定罪的殺人犯在兩次致命注射後仍然生還，目前正在田納西州的醫院接受治療。這是當地半年內第二宗死刑執行失敗事件，引發許多疑問。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T07:14:39.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },

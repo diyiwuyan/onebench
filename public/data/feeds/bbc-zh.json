@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad#0",
+      "title": "西班牙數萬人上街遊行：抗議住房危機 紮營佔領馬德里市中心",
+      "meta": "BBC 中文 · 2026/10/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T04:01:33.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad#0",
+      "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
+      "meta": "BBC 中文 · 2026/10/4",
+      "url": "https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T02:44:22.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad#0",
       "title": "為什麼有些人坐電動車更容易暈車？",
       "meta": "BBC 中文 · 2026/10/3",
@@ -24,20 +38,6 @@
       "meta": "BBC 中文 · 2026/10/3",
       "url": "https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T03:16:15.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad#0",
-      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
-      "meta": "BBC 中文 · 2026/10/2",
-      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T08:24:10.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad#0",
-      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "meta": "BBC 中文 · 2026/10/2",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T07:14:39.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#0",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-10-04T00:37:34.725Z",
+  "updatedAt": "2026-10-04T08:27:11.717Z",
   "provider": "OneBench 公共资讯快照"
 }
