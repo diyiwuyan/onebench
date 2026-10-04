@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T21:14:38.284Z",
-  "expiresAt": "2026-10-04T03:14:38.284Z",
+  "generatedAt": "2026-10-04T00:37:34.725Z",
+  "expiresAt": "2026-10-04T06:37:34.725Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,186 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206912.shtml",
+      "title": "广州歌舞剧院在曼谷演出大型民族舞剧《醒·狮》",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206912.shtml",
+      "publishedAt": "2026-10-04T00:32:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml",
+      "title": "哈啰顺风车携手百度地图：双边开放重构顺风出行生态",
+      "category": "综合",
+      "summary": "近日，哈啰顺风车和百度地图宣布达成合作。双方将围绕“地图+出行”的核心场景，共同探索更便捷、更高效的顺路合乘服务体验。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml",
+      "publishedAt": "2026-10-04T00:28:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707677.shtml",
+      "title": "毕焜任爱知·名古屋亚运会闭幕式中国体育代表团旗手",
+      "category": "综合",
+      "summary": "中新网10月4日电(记者 国璇)第20届亚运会中国体育代表团10月4日宣布，在4日晚举行的爱知·名古屋亚运会闭幕式上，中国体育代表团旗手将由男子帆船帆板运动员毕焜担任。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707677.shtml",
+      "publishedAt": "2026-10-04T00:05:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
+      "title": "印尼东努沙登加拉省发生6.1级地震 震源深度10公里",
+      "category": "综合",
+      "summary": "据印尼气象、气候和地球物理局消息，当地时间10月4日5时55分，印尼东努沙登加拉省西南松巴县西南14公里处发生6.1级地震，震源深度为10公里。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
+      "publishedAt": "2026-10-03T23:29:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
+      "title": "金正恩观摩中程战略导弹发射训练",
+      "category": "综合",
+      "summary": "据朝鲜方面4日消息，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
+      "publishedAt": "2026-10-03T23:07:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-04/10707674.shtml",
+      "title": "10月4日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-04/10707674.shtml",
+      "publishedAt": "2026-10-03T23:00:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+      "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+      "category": "综合",
+      "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+      "publishedAt": "2026-10-03T22:52:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-04/10707672.shtml",
+      "title": "秋天这颗“长寿果”健脾消食、止咳祛痰，但你千万别直接吃",
+      "category": "综合",
+      "summary": "秋天这颗“长寿果”，竟是隐藏的“维生素C宝库”！健脾消食、止咳祛痰，但你千万别直接吃",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/10-04/10707672.shtml",
+      "publishedAt": "2026-10-03T22:50:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
+      "title": "（爱知·名古屋亚运会）洪可新女子摔跤57公斤级夺冠 中国代表团169金收官创纪录",
+      "category": "综合",
+      "summary": "中新社日本名古屋10月4日电 (记者 国璇)当地时间10月3日晚进行的爱知·名古屋亚运会女子摔跤57公斤级决赛中，中国选手洪可新夺得冠军，这是中国摔跤队本届赛事的首枚金牌，也是本届亚运会中国代表团收获的第169金。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
+      "publishedAt": "2026-10-03T22:36:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
+      "title": "中网综合：莱巴金娜首战爆冷出局 郑钦文、孙心然晋级女单32强",
+      "category": "综合",
+      "summary": "中新社北京10月3日电 (刘梦青)2026中国网球公开赛3日在国家网球中心继续进行。女单赛场爆出大冷门，头号种子、新科世界第一莱巴金娜遭世界排名第118位的查拉耶娃逆转淘汰。中国选手郑钦文、孙心然携手晋级32强。男单赛场，商竣程不敌头号种子兹维列夫，无缘八强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
+      "publishedAt": "2026-10-03T22:36:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707669.shtml",
       "title": "WTT中国大满贯赛：国乒七名选手获得正赛席位",
@@ -382,186 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707650.shtml",
       "publishedAt": "2026-10-03T13:54:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-03/10707649.shtml",
-      "title": "假期返程要记得准备厚外套！假期天气情况提前了解",
-      "category": "综合",
-      "summary": "今天是国庆假期的第三天，各地天气情况如何？哪些地方会有影响出行和旅游的天气？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707649.shtml",
-      "publishedAt": "2026-10-03T13:51:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-03/1206908.shtml",
-      "title": "（爱知·名古屋亚运会）张悦彤摘攀岩女子难度铜牌",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-03/1206908.shtml",
-      "publishedAt": "2026-10-03T13:42:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-03/10707645.shtml",
-      "title": "（爱知·名古屋亚运会）陈芋汐与跳水的重新对话：水面即镜面，从今好琢磨",
-      "category": "综合",
-      "summary": "中新网日本东京10月3日电 题：陈芋汐与跳水的重新对话：水面即镜面，从今好琢磨",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707645.shtml",
-      "publishedAt": "2026-10-03T13:42:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707627.shtml",
-      "title": "学习进行时丨中国式现代化，民生为大",
-      "category": "综合",
-      "summary": "策划：张芮绮、丁翊睿",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707627.shtml",
-      "publishedAt": "2026-10-03T13:35:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-03/1206903.shtml",
-      "title": "中国网球公开赛：郑钦文晋级32强",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-03/1206903.shtml",
-      "publishedAt": "2026-10-03T13:35:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-03/10707643.shtml",
-      "title": "支持民营企业在高质量发展中大显身手",
-      "category": "综合",
-      "summary": "企业有活力，经济发展就有动力。新时代以来，广大民营企业锐意进取，民营经济持续发展壮大，在稳定增长、促进创新、增加就业、改善民生等方面发挥重要作用。今年以来，民营企业继续保持第一大外贸主体地位，国际竞争力不断增强，前8个月，民营企业进出口19.79万亿元，增长17.6%，占我国进出口总额的56.9%。民营企业创新动能持续提升，在国家高新技术企业中的占比由201",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707643.shtml",
-      "publishedAt": "2026-10-03T13:32:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-03/10707642.shtml",
-      "title": "总票房破300亿！合家欢影片成为国庆档观影亮点",
-      "category": "综合",
-      "summary": "根据网络平台数据，截至目前，国庆档票房超4.8亿元，2026年电影总票房(含预售)突破300亿元，观影人次超过7.6亿，放映场次超过1.13亿场，国内电影市场保持稳健活力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707642.shtml",
-      "publishedAt": "2026-10-03T13:27:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707638.shtml",
-      "title": "中方：欢迎普京总统出席APEC领导人非正式会议",
-      "category": "综合",
-      "summary": "中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，中方欢迎普京总统出席今年11月将在深圳举行的亚太经合组织(APEC)领导人非正式会议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707638.shtml",
-      "publishedAt": "2026-10-03T13:24:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707636.shtml",
-      "title": "中方：所谓新疆存在“种族灭绝”是赤裸裸的谎言",
-      "category": "综合",
-      "summary": "中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，所谓新疆存在“种族灭绝”是赤裸裸的谎言。美方有关机构惯于出于政治目的无中生有、攻击抹黑中国，毫无信誉可言。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707636.shtml",
-      "publishedAt": "2026-10-03T13:24:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-03/10707633.shtml",
-      "title": "中国外交部：一贯反对将民用无人机用于军事目的",
-      "category": "综合",
-      "summary": "中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，中方一贯反对将民用无人机用于军事目的。各方应为乌克兰危机的政治解决发挥建设性作用，而非无端炒作和恶意关联。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707633.shtml",
-      "publishedAt": "2026-10-03T13:16:56.000Z",
       "tags": [
         "国内",
         "社会",
