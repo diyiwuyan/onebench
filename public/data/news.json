@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T15:22:54.268Z",
-  "expiresAt": "2026-10-04T21:22:54.268Z",
+  "generatedAt": "2026-10-04T19:37:55.827Z",
+  "expiresAt": "2026-10-05T01:37:55.827Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707996.shtml",
+      "title": "中尼科学家开展跨境巨灾应急联合科考",
+      "category": "综合",
+      "summary": "中新社加德满都10月4日电 (记者 崔楠)由中国地质大学(北京)牵头、尼泊尔科学院协同组建的中尼地质灾害应急跨境科学考察队中方成员10月4日抵达尼泊尔首都加德满都，将与尼方科研人员共同在尼开展为期约20天的跨境冰冻圈与岩石圈巨灾应急联合科考。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707996.shtml",
+      "publishedAt": "2026-10-04T15:40:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707995.shtml",
+      "title": "（爱知·名古屋亚运会）第20届亚运会在日本名古屋闭幕",
+      "category": "综合",
+      "summary": "中新社日本名古屋10月4日电 (记者 国璇)当地时间10月4日晚，第20届亚运会在日本爱知县名古屋市瑞穗公园田径场闭幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707995.shtml",
+      "publishedAt": "2026-10-04T15:38:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-04/10707984.shtml",
       "title": "WTT中国大满贯赛：王曼昱单打首秀“开门红”",
@@ -526,42 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1207006.shtml",
       "publishedAt": "2026-10-04T13:01:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-04/10707950.shtml",
-      "title": "香港赛马会将向中国香港代表团亚运奖牌得主发放奖金3750万港元",
-      "category": "综合",
-      "summary": "中新网香港10月4日电 爱知·名古屋亚运会闭幕式于4日晚举行。中国香港代表团派出约580位运动员出战38个亚运会项目，取得11金19银24铜共54枚奖牌，破历届奖牌及金牌数目纪录。香港赛马会(简称“马会”)当天宣布，将通过“赛马会优秀运动员奖励计划”，向超过110名奖牌得主发放共3750万港元奖金，以作表彰。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-04/10707950.shtml",
-      "publishedAt": "2026-10-04T13:01:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/10-04/10707948.shtml",
-      "title": "55箱“江西造”直通中亚 南昌国际陆港假期“不打烊”",
-      "category": "综合",
-      "summary": "中新网南昌10月4日电 (卢梦梦)4日，一列满载牙膏、日用餐具、空气净化器等产品的中亚班列，从江西南昌国际陆港顺利发车。据了解，该班列搭载55个集装箱，总货值约1536.79万元，将由霍尔果斯口岸出境，直达吉尔吉斯斯坦、乌兹别克斯坦等中亚国家。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-04/10707948.shtml",
-      "publishedAt": "2026-10-04T13:00:45.000Z",
       "tags": [
         "国内",
         "社会",
