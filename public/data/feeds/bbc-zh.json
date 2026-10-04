@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad#0",
+      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
+      "meta": "BBC 中文 · 2026/10/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T11:51:41.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad#0",
       "title": "西班牙數萬人上街遊行：抗議住房危機 紮營佔領馬德里市中心",
       "meta": "BBC 中文 · 2026/10/4",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-10-03T03:16:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#1",
       "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
       "meta": "BBC 中文 · 2026/10/2",
       "url": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
@@ -115,13 +122,6 @@
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T02:20:26.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#1",
-      "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
-      "meta": "BBC 中文 · 2026/9/30",
-      "url": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T00:18:50.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-10-04T08:27:11.717Z",
+  "updatedAt": "2026-10-04T15:22:54.268Z",
   "provider": "OneBench 公共资讯快照"
 }
