@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T19:37:55.827Z",
-  "expiresAt": "2026-10-05T01:37:55.827Z",
+  "generatedAt": "2026-10-04T23:10:39.372Z",
+  "expiresAt": "2026-10-05T05:10:39.372Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-05/10708003.shtml",
+      "title": "10月5日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-05/10708003.shtml",
+      "publishedAt": "2026-10-04T23:06:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml",
+      "title": "泰国洪灾持续 政府启动大范围救助",
+      "category": "综合",
+      "summary": "中新社曼谷10月4日电 (李映民 王茜)泰国防灾减灾厅10月4日公布的数据显示，截至4日6时，泰国首都曼谷及27个府仍持续受到洪灾影响，约117.1万个家庭、326.3万人被波及。泰国政府正加紧开展灾害救助，并部署应对未来数日可能出现的强降雨。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml",
+      "publishedAt": "2026-10-04T22:43:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+      "title": "巴西总统选举开启首轮投票",
+      "category": "综合",
+      "summary": "中新社圣保罗10月4日电 (记者 林春茵)巴西利亚时间4日8时，巴西2026年总统选举开启首轮投票。首轮结果预计在当天投票结束后的数小时内揭晓。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+      "publishedAt": "2026-10-04T22:42:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-05/10707999.shtml",
+      "title": "中网综合：萨巴伦卡爆冷出局 德约科维奇逆转兹维列夫",
+      "category": "综合",
+      "summary": "中新社北京10月4日电 (刘梦青)2026中国网球公开赛4日在国家网球中心继续进行。女单赛场再爆冷门，白俄罗斯名将、2号种子萨巴伦卡0:2不敌26号种子巴尔通科娃，本届中网女单前两号种子均已出局。男单赛场，6号种子德约科维奇逆转战胜头号种子兹维列夫，晋级四强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10707999.shtml",
+      "publishedAt": "2026-10-04T22:42:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+      "category": "综合",
+      "summary": "当地时间10月4日，沙特阿拉伯主导的多国联军司令部发表声明称，联军将继续向也门政府及其武装部队提供全面作战支持，以“恢复国家”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "publishedAt": "2026-10-04T22:41:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-05/10708000.shtml",
+      "title": "中国选手吴宜泽获得2026世界斯诺克·深圳公开赛冠军",
+      "category": "综合",
+      "summary": "中新社深圳10月5日电 (记者 张璐)2026世界斯诺克·深圳公开赛决赛10月4日在深圳举行，中国选手吴宜泽发挥出色，以10:5战胜袁思俊，获得冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708000.shtml",
+      "publishedAt": "2026-10-04T22:40:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "title": "初步调查显示迪拜航空袭击者系单独作案",
+      "category": "综合",
+      "summary": "据以色列方面4日消息，初步调查显示，在迪拜航空公司客机驾驶舱中袭击机长的副驾驶系单独作案。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "publishedAt": "2026-10-04T22:39:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-04/10707996.shtml",
       "title": "中尼科学家开展跨境巨灾应急联合科考",
@@ -436,132 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707972.shtml",
       "publishedAt": "2026-10-04T13:08:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-04/10707970.shtml",
-      "title": "一张借谷证：见证红色政权的铮铮诺言",
-      "category": "综合",
-      "summary": "原标题：永不磨灭的印记 | 一张借谷证：见证红色政权的铮铮诺言",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707970.shtml",
-      "publishedAt": "2026-10-04T13:05:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml",
-      "title": "湖北重点城市和景区旅游接待创新高",
-      "category": "综合",
-      "summary": "中新网武汉10月4日电 (记者 梁婷)记者4日从湖北省文旅厅获悉，该省重点旅游城市和景区迎来国庆假期第二波游客高峰，文旅市场供需两旺、热度攀升。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml",
-      "publishedAt": "2026-10-04T13:04:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707968.shtml",
-      "title": "从“看一眼”到“买一单” 外国游客走进中国日常",
-      "category": "综合",
-      "summary": "中新社北京10月4日电 (记者 应妮)2026年国庆黄金周，中国的城市街头和机场不时可见：外国游客拖着空行李箱落地，离境时塞满了无人机、运动相机、国潮服饰、中医艾灸盒......甚至额外再买几个新箱子装“战利品”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707968.shtml",
-      "publishedAt": "2026-10-04T13:04:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-04/10707955.shtml",
-      "title": "一张票根“链”起全域消费 演唱会经济燃动山东黄金周",
-      "category": "综合",
-      "summary": "中新网济南10月4日电 (记者 赵晓)国庆假期，演艺热潮席卷齐鲁，凤凰传奇“吉祥如意”巡回演唱会在济南连开三场，周杰伦世界巡回演唱会落地青岛嗨唱三天，李荣浩演唱会即将在临沂开启两日狂欢……密集的演艺活动不仅引爆山东假日文旅市场，更催热“为一场演唱会赴一座城”的新风尚。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707955.shtml",
-      "publishedAt": "2026-10-04T13:03:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-04/10707952.shtml",
-      "title": "香港保安局邀请逾1500名市民参观皇岗口岸港方口岸区",
-      "category": "综合",
-      "summary": "中新网香港10月4日电 皇岗口岸开通在即，香港特区政府保安局4日举办社区体验日，邀请来自全港各区的逾1500名市民实地参观皇岗口岸港方口岸区，率先体验往来口岸的公共运输服务和联检大楼内的设施，了解“合作查验、一次放行”的崭新通关模式。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-04/10707952.shtml",
-      "publishedAt": "2026-10-04T13:02:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-04/10707967.shtml",
-      "title": "候车室里搭“文化集市”，将赣西三地风光送到旅客身边！",
-      "category": "综合",
-      "summary": "原标题：我的铁路风景｜候车室里搭“文化集市”，将赣西三地风光送到旅客身边！",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707967.shtml",
-      "publishedAt": "2026-10-04T13:02:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1207006.shtml",
-      "title": "2026北京亦庄GT世界挑战赛收官",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1207006.shtml",
-      "publishedAt": "2026-10-04T13:01:56.000Z",
       "tags": [
         "国内",
         "社会",
