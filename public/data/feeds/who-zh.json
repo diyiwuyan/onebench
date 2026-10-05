@@ -5,6 +5,20 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:fda319d3-c93f-4a92-ac2f-deccfcadbb5c",
+      "title": "世卫组织发布新指导，旨在预防大型集会期间高温相关疾病",
+      "meta": "世界卫生组织 · 2026/9/30",
+      "url": "https://www.who.int/zh/news-room/30-09-2026-who-releases-new-guidance-to-prevent-heat-related-illness-at-mass-gatherings",
+      "publishedAt": "2026-09-30T08:34:20.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:9035fd65-0d1e-46f6-86db-e69253445d80",
+      "title": "世卫组织通报霍乱、脑膜炎和鼠疫最新全球趋势",
+      "meta": "世界卫生组织 · 2026/9/29",
+      "url": "https://www.who.int/zh/news-room/29-09-2026-who-reports-latest-global-trends-in-cholera--meningitis-and-plague",
+      "publishedAt": "2026-09-29T09:06:35.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:ff64657f-9387-4009-a0ec-b2235b841a31",
       "title": "世界各国领导人重申承诺，誓要保护世界免受未来大流行的威胁",
       "meta": "世界卫生组织 · 2026/9/25",
@@ -129,22 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/21",
       "url": "https://www.who.int/zh/news-room/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
       "publishedAt": "2026-07-21T08:26:17.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:ae53d486-8411-4081-88ba-a2929146208b",
-      "title": "世卫组织庆祝Research4Life（促进生命科学研究计划）成立25周年，持续推动120多个国家获取科学知识",
-      "meta": "世界卫生组织 · 2026/7/20",
-      "url": "https://www.who.int/zh/news-room/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries",
-      "publishedAt": "2026-07-20T15:34:49.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:4dbc5e41-68f5-4763-8f68-eb108686557f",
-      "title": "全球道路交通死亡人数下降21%，但仍需采取更有力行动挽救生命",
-      "meta": "世界卫生组织 · 2026/7/20",
-      "url": "https://www.who.int/zh/news-room/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
-      "publishedAt": "2026-07-20T07:09:01.000Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:39:33.438Z",
+  "updatedAt": "2026-10-05T22:37:22.200Z",
   "provider": "OneBench 公共资讯快照"
 }

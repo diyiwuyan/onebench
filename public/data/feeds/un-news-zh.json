@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142941",
+      "title": "极端高温使怀孕成为气候危机中“新的断层线”",
+      "meta": "联合国新闻 · 2026/10/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142941",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142940",
+      "title": "国际刑事法院因塔利班迫害妇女和女童而解封四份逮捕令",
+      "meta": "联合国新闻 · 2026/10/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142940",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142939",
+      "title": "也门近期新增流离失所人数达18.4万，平民伤亡激增",
+      "meta": "联合国新闻 · 2026/10/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142939",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142938",
+      "title": "世界人居日：联合国重申住房是一项人权",
+      "meta": "联合国新闻 · 2026/10/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142938",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142936",
+      "title": "苏丹：南科尔多凡州援助卡车遭空袭，一名司机丧生",
+      "meta": "联合国新闻 · 2026/10/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142936",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142935",
       "title": "【世界进行时】2026年10月2日",
       "meta": "联合国新闻 · 2026/10/2",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/9/28",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142906",
       "publishedAt": "2026-09-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142905",
-      "title": "一般性辩论结束 联大主席强调重建信任必须通过言行一致来赢得",
-      "meta": "联合国新闻 · 2026/9/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142905",
-      "publishedAt": "2026-09-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142904",
-      "title": "丹麦常驻联合国代表：丹麦、格陵兰和美国签署安全协议 加强格陵兰、北约地区及美洲大陆防务",
-      "meta": "联合国新闻 · 2026/9/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142904",
-      "publishedAt": "2026-09-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142903",
-      "title": "新西兰常驻联合国代表：多边主义比以往任何时候都更加必要",
-      "meta": "联合国新闻 · 2026/9/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142903",
-      "publishedAt": "2026-09-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142902",
-      "title": "【联大高级别周特别报道】反种族主义斗争的十字路口：联合国纪念《德班宣言和行动纲领》通过25周年",
-      "meta": "联合国新闻 · 2026/9/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142902",
-      "publishedAt": "2026-09-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142901",
-      "title": "朝鲜副外相：朝鲜核武器国家地位已永久确立",
-      "meta": "联合国新闻 · 2026/9/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142901",
-      "publishedAt": "2026-09-28T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-05T14:39:33.438Z",
+  "updatedAt": "2026-10-05T22:37:22.200Z",
   "provider": "OneBench 公共资讯快照"
 }
