@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142945",
+      "title": "儿基会：近100个国家超过3.47亿儿童面临极端天气威胁",
+      "meta": "联合国新闻 · 2026/10/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142945",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142944",
+      "title": "访问巴基斯坦 古特雷斯赞扬该国在和平和气候行动中发挥关键作用",
+      "meta": "联合国新闻 · 2026/10/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142944",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142937",
       "title": "世卫组织：受访欧洲年轻人中三分之二经历过童年逆境",
       "meta": "联合国新闻 · 2026/10/6",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/29",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142912",
       "publishedAt": "2026-09-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142911",
-      "title": "产权组织全球创新指数：瑞士、瑞典、美国等位居前列 人工智能推动创新投资回升",
-      "meta": "联合国新闻 · 2026/9/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142911",
-      "publishedAt": "2026-09-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142910",
-      "title": "难民署：830万人面临失去关键援助风险",
-      "meta": "联合国新闻 · 2026/9/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142910",
-      "publishedAt": "2026-09-29T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-06T06:21:00.980Z",
+  "updatedAt": "2026-10-06T15:12:36.943Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/115416",
+      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+      "meta": "少数派 · 2026/10/6",
+      "url": "https://sspai.com/post/115416",
+      "publishedAt": "2026-10-06T10:00:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114536",
       "title": "十个案例助你轻松上手 iOS 27 通知自动化",
       "meta": "少数派 · 2026/10/5",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/29",
       "url": "https://sspai.com/post/115153",
       "publishedAt": "2026-09-29T09:03:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/115061",
-      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
-      "meta": "少数派 · 2026/9/29",
-      "url": "https://sspai.com/post/115061",
-      "publishedAt": "2026-09-29T07:44:46.000Z"
     }
   ],
-  "updatedAt": "2026-10-06T06:21:00.980Z",
+  "updatedAt": "2026-10-06T15:12:36.943Z",
   "provider": "OneBench 公共资讯快照"
 }
