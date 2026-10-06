@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142950",
+      "title": "俄罗斯疑似鼠疫死亡病例正在接受检测和监测",
+      "meta": "联合国新闻 · 2026/10/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142950",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142949",
+      "title": "非洲和平与安全挑战要求加强联合国与非盟伙伴关系",
+      "meta": "联合国新闻 · 2026/10/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142949",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142948",
+      "title": "肯尼亚确诊首例输入性本迪布焦型埃博拉病例",
+      "meta": "联合国新闻 · 2026/10/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142948",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142946",
+      "title": "儿基会：埃博拉夺走儿童所依赖的人",
+      "meta": "联合国新闻 · 2026/10/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142946",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142945",
       "title": "儿基会：近100个国家超过3.47亿儿童面临极端天气威胁",
       "meta": "联合国新闻 · 2026/10/6",
@@ -104,7 +132,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142931",
-      "title": "人权高专：乌克兰战争加剧人权灾难 海地帮派暴力持续扩大",
+      "title": "人权高专：乌克兰战争加剧人权灾难 海地黑帮暴力持续扩大",
       "meta": "联合国新闻 · 2026/10/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142931",
       "publishedAt": "2026-10-02T12:00:00.000Z"
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/9/30",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142916",
       "publishedAt": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142915",
-      "title": "世卫组织：烟草税改革有助于降低吸烟率并增加公共收入",
-      "meta": "联合国新闻 · 2026/9/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142915",
-      "publishedAt": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142914",
-      "title": "世卫组织发布预防大型集会高温相关疾病新指南",
-      "meta": "联合国新闻 · 2026/9/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142914",
-      "publishedAt": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142913",
-      "title": "难民署对马来西亚遣返缅甸难民表示关切",
-      "meta": "联合国新闻 · 2026/9/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142913",
-      "publishedAt": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142912",
-      "title": "人权高专谴责缅甸若开邦市场致命空袭",
-      "meta": "联合国新闻 · 2026/9/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142912",
-      "publishedAt": "2026-09-29T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-06T15:12:36.943Z",
+  "updatedAt": "2026-10-06T20:58:53.214Z",
   "provider": "OneBench 公共资讯快照"
 }
