@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad#0",
+      "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T08:24:05.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg90zwkezlo/trad#0",
+      "title": "俄羅斯鼠疫：死者名叫希皮洛娃，已有200接觸者被觀察",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vg90zwkezlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T07:04:23.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad#0",
+      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T05:09:27.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad#0",
       "title": "找工作？面試中那個你不必回答的問題",
       "meta": "BBC 中文 · 2026/10/7",
@@ -12,7 +33,7 @@
       "publishedAt": "2026-10-07T00:26:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad#1",
       "title": "AI模型會成為年輕人身體形象的下一個重大威脅嗎？",
       "meta": "BBC 中文 · 2026/10/7",
       "url": "https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad?at_medium=RSS&at_campaign=rss",
@@ -26,25 +47,11 @@
       "publishedAt": "2026-10-06T08:35:20.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr3wvq8l864do/trad#1",
-      "title": "美軍擬槍決胡德堡基地槍擊案兇手 二戰後首例",
-      "meta": "BBC 中文 · 2026/10/6",
-      "url": "https://www.bbc.com/zhongwen/articles/cr3wvq8l864do/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T07:34:09.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad#1",
       "title": "美國圖書館為何正迅速下架眾多圖書？",
       "meta": "BBC 中文 · 2026/10/6",
       "url": "https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T06:31:55.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx28nw0kn47o/trad#0",
-      "title": "俄羅斯鼠疫實驗室人員死亡 美方稱「密切關注」",
-      "meta": "BBC 中文 · 2026/10/6",
-      "url": "https://www.bbc.com/zhongwen/articles/cqx28nw0kn47o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T04:41:10.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad#1",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-10-05T12:26:26.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/trad#5",
       "title": "「他們叫他爸爸」：震驚韓國的殘障院舍住戶性侵案",
       "meta": "BBC 中文 · 2026/10/5",
       "url": "https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/trad?at_medium=RSS&at_campaign=rss",
@@ -129,13 +136,6 @@
       "meta": "BBC 中文 · 2026/10/3",
       "url": "https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T03:16:15.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#5",
-      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
-      "meta": "BBC 中文 · 2026/10/2",
-      "url": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T05:09:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T01:32:17.043Z",
+  "updatedAt": "2026-10-07T08:39:14.218Z",
   "provider": "OneBench 公共资讯快照"
 }
