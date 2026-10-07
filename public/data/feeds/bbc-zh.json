@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad#0",
+      "title": "找工作？面試中那個你不必回答的問題",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T00:26:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad#0",
+      "title": "AI模型會成為年輕人身體形象的下一個重大威脅嗎？",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T00:21:14.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad#1",
       "title": "中美AI軍事化背景下 BBC獲悉五角大樓正式停用 Anthropic 工具",
       "meta": "BBC 中文 · 2026/10/6",
       "url": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad?at_medium=RSS&at_campaign=rss",
@@ -33,7 +47,7 @@
       "publishedAt": "2026-10-06T04:41:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad#1",
       "title": "駐日美軍涉謀殺女性被捕 重燃沖繩抗議浪潮",
       "meta": "BBC 中文 · 2026/10/6",
       "url": "https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +96,7 @@
       "publishedAt": "2026-10-05T07:19:16.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad#5",
       "title": "印度如何陷入對中國進口商品的危險依賴？",
       "meta": "BBC 中文 · 2026/10/5",
       "url": "https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +110,7 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad#4",
       "title": "加拿大為何要為（概率極小的）美國入侵做準備",
       "meta": "BBC 中文 · 2026/10/4",
       "url": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +136,6 @@
       "meta": "BBC 中文 · 2026/10/2",
       "url": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T05:09:30.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad#5",
-      "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
-      "meta": "BBC 中文 · 2026/10/2",
-      "url": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T02:31:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad#4",
@@ -201,13 +208,6 @@
       "publishedAt": "2026-09-23T13:24:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/trad#4",
-      "title": "日本以街道整潔無瑕而聞名，但為什麼公共垃圾桶卻如此難找？",
-      "meta": "BBC 中文 · 2026/9/23",
-      "url": "https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T06:50:29.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad#3",
       "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
       "meta": "BBC 中文 · 2026/9/22",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-06T20:58:53.214Z",
+  "updatedAt": "2026-10-07T01:32:17.043Z",
   "provider": "OneBench 公共资讯快照"
 }
