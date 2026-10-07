@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T08:39:14.218Z",
-  "expiresAt": "2026-10-07T14:39:14.218Z",
+  "generatedAt": "2026-10-07T17:25:27.728Z",
+  "expiresAt": "2026-10-07T23:25:27.728Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,20 +32,666 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708722.shtml",
-      "title": "南铁迎国庆假期返程客流最高峰 预计发送旅客179万人次",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-08/10708836.shtml",
+      "title": "分子也有“左右之分”，今年诺贝尔化学奖为何研究“偏心”？",
       "category": "综合",
-      "summary": "中新网南昌10月7日电 (刘力鑫 李翔 吴楚月)7日，据中国铁路南昌局集团有限公司(简称“南铁”)发布的消息，国庆假期最后一天，南铁迎来返程客流最高峰，预计发送旅客179万人次。国庆假期七天，南铁预计发送旅客1061万人次，其中，江西、福建分别发送旅客551.6万人次、509.4万人次，均创历史新高。",
+      "summary": "2026 年 10 月 7 日，瑞典皇家科学院将诺贝尔化学奖授予亨利·B·卡甘(Henri B. Kagan)和硖合宪三(Kenso Soai)，以表彰他们发现不对称有机合成中的非线性效应和自催化现象。他们的研究到底是什么意思，又有什么意义呢？让我们从左手和右手讲起。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708722.shtml",
-      "publishedAt": "2026-10-07T08:32:26.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708836.shtml",
+      "publishedAt": "2026-10-07T16:18:48.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-07/10708835.shtml",
+      "title": "尹锡悦接受免费舆论调查服务案二审改判无罪",
+      "category": "综合",
+      "summary": "中新社首尔10月7日电 (记者 金旭)当地时间7日，韩国前总统尹锡悦涉嫌接受免费舆论调查服务案二审改判无罪，一审认定的部分有罪判决被推翻。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708835.shtml",
+      "publishedAt": "2026-10-07T15:45:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708833.shtml",
+      "title": "WTT中国大满贯赛：孙颖莎出局 中国台北小将淘汰梁靖崑",
+      "category": "综合",
+      "summary": "中新社北京10月7日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛7日在北京继续进行单打1/16决赛的较量。中国选手孙颖莎以1:3不敌泰国女单选手帕拉南。国乒名将梁靖崑以1:3不敌中国台北选手郭冠宏，止步32强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708833.shtml",
+      "publishedAt": "2026-10-07T15:21:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-07/10708832.shtml",
+      "title": "国庆假期约140.6万人次内地旅客入境香港",
+      "category": "综合",
+      "summary": "中新社香港10月7日电 (记者 邱兆翔)记者7日从香港特区政府入境事务处获悉，截至当日21时，今年中国内地国庆假期(10月1日至7日)共有约140.6万人次内地旅客入境香港。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-07/10708832.shtml",
+      "publishedAt": "2026-10-07T15:20:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-07/10708831.shtml",
+      "title": "泰国洪灾死亡人数升至60人 多地将迎新一轮强降雨",
+      "category": "综合",
+      "summary": "中新社曼谷10月7日电 (梁峻祥 李映民)泰国防灾减灾厅7日发布最新灾情信息说，自9月16日以来，泰国洪灾已造成60人死亡，首都曼谷及27个府受灾。目前，泰国有关部门正持续开展排水、救援和灾后救助等工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708831.shtml",
+      "publishedAt": "2026-10-07T15:19:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708834.shtml",
+      "title": "量子精密测量实现新突破 我国科研团队研制出“核光钟”",
+      "category": "综合",
+      "summary": "日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准、深空探测和基础物理研究等开辟新的技术路径。国际期刊《自然》今天刊发该项研究成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708834.shtml",
+      "publishedAt": "2026-10-07T15:17:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-07/10708824.shtml",
+      "title": "（经济观察）流动中国释放假日经济新动能",
+      "category": "综合",
+      "summary": "中新社北京10月7日电 (记者 刘文文)中国交通运输部最新发布的数据显示，国庆假期(10月1日至7日)累计全社会跨区域人员流动量预计达21.44亿人次，日均3.06亿人次。长假叠加旺盛需求，假日经济活力释放，折射出中国消费市场的巨大潜力与韧性。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708824.shtml",
+      "publishedAt": "2026-10-07T14:22:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708823.shtml",
+      "title": "国庆假期中国刑事警情同比下降23.7%",
+      "category": "综合",
+      "summary": "中新社北京10月7日电 记者7日从中国公安部获悉，截至7日16时，国庆假期全国社会大局稳定、治安秩序良好，刑事、治安警情同比分别下降23.7%、7%，2700余场大型活动安全顺利，全国道路交通总体平稳有序，旅游景区秩序井然。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708823.shtml",
+      "publishedAt": "2026-10-07T14:15:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml",
+      "title": "国际货币基金组织预计高油价将持续至明年",
+      "category": "综合",
+      "summary": "国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃7日在新加坡表示，即使当前海湾地区的战事很快结束，高能源价格仍可能持续一段时间。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml",
+      "publishedAt": "2026-10-07T14:02:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708820.shtml",
+      "title": "中国乒协：将推动建立赛场禁入名单制度",
+      "category": "综合",
+      "summary": "中新社北京10月7日电 中国乒乓球协会7日发布关于抵制极端球迷越界行为的声明，表示坚决维护教练员、运动员合法权益，下一步将推动建立赛场禁入名单制度，加强现场秩序维护。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708820.shtml",
+      "publishedAt": "2026-10-07T13:58:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-07/10708821.shtml",
+      "title": "食蟹正当时 如何兼顾美味与健康？",
+      "category": "综合",
+      "summary": "秋风起，蟹脚痒，又到了一年食蟹的好时节。这个季节的螃蟹，膏满黄肥、蟹肉鲜嫩，可谓是“螯封嫩玉双双满，壳凸红脂块块香”，让人很难不垂涎欲滴。假日聚餐，不少人都喜欢来上几只。然而，每年这个时候，医院急诊科也总会接诊不少因吃蟹而“中招”的人。从轻微过敏到严重食物中毒，一只小小的螃蟹，如果吃不对，也可能带来不小的健康隐患。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/10-07/10708821.shtml",
+      "publishedAt": "2026-10-07T13:56:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708819.shtml",
+      "title": "（长征胜利90周年）长征胜利90周年主题展览观展侧记：于回望中汲取前行力量",
+      "category": "综合",
+      "summary": "中新社北京10月7日电 题：长征胜利90周年主题展览观展侧记：于回望中汲取前行力量",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708819.shtml",
+      "publishedAt": "2026-10-07T13:34:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708818.shtml",
+      "title": "中网四连胜！郑钦文晋级八强",
+      "category": "综合",
+      "summary": "北京时间10月7日，2026年中国网球公开赛女单第四轮，郑钦文鏖战三盘，总比分2-1战胜“黑马”查拉耶娃，成功晋级八强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708818.shtml",
+      "publishedAt": "2026-10-07T13:26:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-07/10708817.shtml",
+      "title": "福州地铁国庆推便民举措 设临时行李寄存区",
+      "category": "综合",
+      "summary": "10月7日，福州地铁东街口站民众寄存的行李。中新社记者 张斌 摄 10月7日，出行的市民在福州地铁东街口站寄存行李。中新社记者 张斌 摄 10月7日，出行的市民在福州地铁东街口站寄存行李。中新社记者 张斌 摄 10月7日，出行的市民在福州地铁东街口站等候寄存行李。中新社记者 张斌 摄 10月7日，工作人员在福州地铁东街口站整理寄存的行李。中新社记者 张斌 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708817.shtml",
+      "publishedAt": "2026-10-07T13:02:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708813.shtml",
+      "title": "国庆假期福建“好戏连连” 古厝街区成戏台",
+      "category": "综合",
+      "summary": "中新社福州10月7日电(叶秋云)“自从端午后，怀人直到今，移步上楼房，隔树闹蝉声……”7日在福建福州三坊七巷历史文化街区的古厝里，闽剧经典剧目《荔枝换绛桃》选段丝竹声悠悠响起。两位演员水袖轻扬、台步缓移，闽韵乡音绕着天井飞檐，轻轻落到游客耳边。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708813.shtml",
+      "publishedAt": "2026-10-07T13:00:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-07/10708815.shtml",
+      "title": "韩国“世界”号运载火箭第五次发射取得成功",
+      "category": "综合",
+      "summary": "中新社首尔10月7日电 (记者 金旭)据韩国宇宙航空厅当地时间7日消息，韩国自主研制的运载火箭“世界”号第五次发射取得成功。此次发射搭载的5颗对地观测卫星均已与地面完成首次通信。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708815.shtml",
+      "publishedAt": "2026-10-07T12:59:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-07/10708814.shtml",
+      "title": "从“看展”到“入戏” 河北特色博物馆国庆假期人气旺",
+      "category": "综合",
+      "summary": "中新社石家庄10月7日电(王夏菲)“十一”假期，位于河北省沧州市大运河畔的中国大运河非物质文化遗产展示馆内人流如织。展厅内，漕运码头的船舶、会馆戏台的水袖等大运河畔的市井长卷依次展开。游客一脚踏入，便成了这座“运河之城”里的角色。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-07/10708814.shtml",
+      "publishedAt": "2026-10-07T12:57:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-07/10708811.shtml",
+      "title": "票房超11.5亿元 2026年中国电影国庆档收官",
+      "category": "综合",
+      "summary": "中新社北京10月7日电 (记者 高凯)据灯塔专业版数据，截至北京时间10月7日19时30分，2026年中国内地电影国庆档(10月1日至7日)总票房(含预售)达11.51亿元(人民币，下同)，观影人次3163.18万，放映场次329.06万场，平均票价36.4元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-07/10708811.shtml",
+      "publishedAt": "2026-10-07T12:57:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708816.shtml",
+      "title": "三亚整治红树林保护区内涉嫌违法违规商业旅游行为",
+      "category": "综合",
+      "summary": "总台报道有反馈丨三亚整治红树林保护区内涉嫌违法违规商业旅游行为",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708816.shtml",
+      "publishedAt": "2026-10-07T12:56:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708806.shtml",
+      "title": "国庆假期北京全市公园迎客超1381万人次",
+      "category": "综合",
+      "summary": "中新网北京10月7日电 (记者 徐婧) 北京市公园管理中心7日介绍，今年国庆假期全市公园迎客1381.36万人次，其中，天坛公园、颐和园、朝阳公园最受游客青睐，分别接待游客103.54万人次、89.98万人次和67.58万人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708806.shtml",
+      "publishedAt": "2026-10-07T12:54:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708803.shtml",
+      "title": "海南封关后首个国庆假期：出入境客流同比增长13.4%",
+      "category": "综合",
+      "summary": "中新网海口10月7日电 (朱晨鹏 黄少鹏)今年国庆节假期，海南自贸港封关后的首个国庆长假，中外旅客跨境旅游和港澳台同胞返乡团聚、境外侨胞回国探亲等客流增加，海南三大空港口岸迎来出入境客流高峰。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708803.shtml",
+      "publishedAt": "2026-10-07T12:53:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708800.shtml",
+      "title": "国庆假期，黄山风景区累计接待游客超20万人次",
+      "category": "综合",
+      "summary": "中新网合肥10月7日电 (朱玉婷)今年国庆七天假期，黄山风景区接待游客总量突破20万人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708800.shtml",
+      "publishedAt": "2026-10-07T12:51:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-07/10708812.shtml",
+      "title": "俄官方称鼠疫研究机构一名员工确诊“不明原因肺炎”",
+      "category": "综合",
+      "summary": "俄罗斯联邦消费者权益保护和公益监督局6日在其官网发布通告称，供职于该国伊尔库茨克西伯利亚与远东防鼠疫研究所的一名患病工作人员病因诊断为“不明原因肺炎”。事发后当地已第一时间采取综合防疫措施，目前伊尔库茨克州和相关城市防疫形势平稳。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708812.shtml",
+      "publishedAt": "2026-10-07T12:50:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708797.shtml",
+      "title": "2026年度青藏铁路格拉段大机清筛集中修收官",
+      "category": "综合",
+      "summary": "中新网西宁10月7日电(祁增蓓 周悦翔 丁元晨)10月7日，为期一个月的2026年度青藏铁路格拉段线路大机(即：铁路大型养路机械设备)清筛集中修施工正式收官，有效整治线路道床病害，为青藏铁路秋冬季安全运营打下坚实基础。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708797.shtml",
+      "publishedAt": "2026-10-07T12:48:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-07/10708810.shtml",
+      "title": "祁连山国家公园（候选区）青海片区秋韵动人",
+      "category": "综合",
+      "summary": "图为祁连山国家公园（候选区）青海片区秋日风光。（无人机照片）中新社记者 马铭言 摄 图为祁连山国家公园（候选区）青海片区秋日风光。（无人机照片）中新社记者 马铭言 摄 图为祁连山国家公园（候选区）青海片区秋日风光。（无人机照片）中新社记者 马铭言 摄 图为祁连山国家公园（候选区）青海片区秋日风光。（无人机照片）中新社记者 马铭言 摄 图为祁连山国家公园（候选",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708810.shtml",
+      "publishedAt": "2026-10-07T12:48:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-07/10708808.shtml",
+      "title": "国庆假期 福州坊巷吸引游客",
+      "category": "综合",
+      "summary": "10月7日，民众在福州三坊七巷参观游玩。中新社记者 张斌 摄 10月7日，民众在福州三坊七巷参观游玩。中新社记者 张斌 摄 10月7日，民众在福州三坊七巷参观游玩。中新社记者 张斌 摄 10月7日，民众在福州三坊七巷参观游玩。中新社记者 张斌 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708808.shtml",
+      "publishedAt": "2026-10-07T12:46:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-07/10708802.shtml",
+      "title": "澳门国庆假期“人财两旺” 老城新景皆热闹",
+      "category": "综合",
+      "summary": "中新社澳门10月7日电 题：澳门国庆假期“人财两旺” 老城新景皆热闹",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-07/10708802.shtml",
+      "publishedAt": "2026-10-07T12:46:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708793.shtml",
+      "title": "中国南方大豆育种前沿技术落地东北黑土地",
+      "category": "综合",
+      "summary": "中新网哈尔滨10月7日电 (史轶夫 徐小添)10月7日，2026年大豆秋季观摩测产活动在东北农业大学阿城实验实习基地举办。科研专家齐聚田间，多方协同探索黑土地大豆高产可复制模式，多个新品系点测产量突破每亩350公斤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708793.shtml",
+      "publishedAt": "2026-10-07T12:45:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-07/10708809.shtml",
+      "title": "福州：“银锭墙”吸引民众",
+      "category": "综合",
+      "summary": "10月7日，位于福建福州市区的一家银饰专营店内，用银锭模型打造的“银锭墙”吸引民众前来参观拍照。中新社记者 张斌 摄 10月7日，位于福建福州市区的一家银饰专营店内，用银锭模型打造的“银锭墙”吸引民众前来参观拍照。中新社记者 张斌 摄 10月7日，位于福建福州市区的一家银饰专营店内，用银锭模型打造的“银锭墙”吸引民众前来参观拍照。中新社记者 张斌 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708809.shtml",
+      "publishedAt": "2026-10-07T12:45:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-07/10708804.shtml",
+      "title": "潮玩乐园度假期 泡泡玛特城市乐园国庆人气旺",
+      "category": "综合",
+      "summary": "图为游客和LABUBU人偶互动。中新社记者 易海菲 摄 图为市民游客观看LABUBU演出。中新社记者 易海菲 摄 图为市民游客游玩旋转木马。中新社记者 易海菲 摄 图为游客和LABUBU人偶互动。中新社记者 易海菲 摄 图为市民游客游玩海盗船。中新社记者 易海菲 摄 10月7日，国庆假期最后一天，市民游客在北京泡泡玛特城市乐园打卡潮玩场景、体验互动项目，乐享",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708804.shtml",
+      "publishedAt": "2026-10-07T12:42:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142955",
+      "title": "粮农组织评估：南半球渔业每年至少导致3万只海鸟遭误捕",
+      "category": "国际",
+      "summary": "联合国粮农组织周三表示，一项关于海鸟与远洋延绳钓渔业相互作用的大型新合作评估显示，在所评估的远洋延绳钓渔业中，每年至少有3万只海鸟被作为兼捕物捕获。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142955",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142954",
+      "title": "世卫组织：关键资金缺口威胁也门卫生应急响应行动",
+      "category": "国际",
+      "summary": "世界卫生组织周二警告，随着冲突升级、需求上升，需要大幅增加资源以扩大其在也门的应急响应行动。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142954",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142953",
+      "title": "世卫组织总干事：正密切关注俄实验室工作人员死于重症肺炎事件",
+      "category": "国际",
+      "summary": "世界卫生组织总干事谭德塞周三发表声明表示，自首批媒体报道以来，世卫组织一直在积极关注有关俄罗斯伊尔库茨克鼠疫研究所一名实验室工作人员死亡的报道。该人员因重症肺炎住院后，于2026年10月2日死亡。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142953",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142952",
+      "title": "国际移民组织：偷渡者将儿童作为猎物，2025年逾2万儿童独自抵达欧洲",
+      "category": "国际",
+      "summary": "联合国最新数据显示，去年沿混合移民路线抵达欧洲的3万1100名儿童中，超过2万人在没有父母或监护人陪伴的情况下抵达。国际移民组织总干事波普敦促欧洲国家与沿线国家加强合作，以保护独自出行的儿童，并打击那些将儿童作为猎物的偷渡和犯罪网络。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142952",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142947",
+      "title": "世卫组织：全球5至19岁患有肥胖症儿童和青少年超过1.7亿",
+      "category": "国际",
+      "summary": "世界卫生组织周三发布的一份报告指出，2024年，全球有1.7亿5至19岁儿童和青少年患有肥胖症，其中包括7000万名5至9岁儿童和1亿名10至19岁青少年。自1990年以来，该年龄段的肥胖患病率已翻了两番，从2%上升至8%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142947",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad#0",
+      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
+      "category": "国际",
+      "summary": "俄羅斯一名實驗室技術員在西伯利亞一家鼠疫研究中心死亡，引發了人們對實驗室可能發生病毒洩漏的疑慮。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T10:24:31.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad#0",
+      "title": "喝多醉才算醉？康奈爾輪姦案指控揭「同意法」漏洞爭議",
+      "category": "国际",
+      "summary": "BBC 訪問多名專家，探討美國各州現行性侵法律，以及為何有人認為修法將有助保障涉嫌性侵案件的受害者。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T09:17:46.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -67,276 +713,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708720.shtml",
-      "title": "广东河源佗城镇：数字化赋能千年古邑焕新“出圈”",
-      "category": "综合",
-      "summary": "中新网河源10月7日电 题：广东河源佗城镇：数字化赋能千年古邑焕新“出圈”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708720.shtml",
-      "publishedAt": "2026-10-07T08:20:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708718.shtml",
-      "title": "南京大屠杀幸存者郭秀兰去世 在册在世幸存者仅剩20人",
-      "category": "综合",
-      "summary": "中新社南京10月7日电 据侵华日军南京大屠杀遇难同胞纪念馆10月7日消息，南京大屠杀幸存者郭秀兰于当日在家中去世，享年94岁。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708718.shtml",
-      "publishedAt": "2026-10-07T08:18:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708717.shtml",
-      "title": "从墨尔本到悉尼，杨舒予继续“升级”",
-      "category": "综合",
-      "summary": "中新网悉尼10月7日电 题：从墨尔本到悉尼，杨舒予继续“升级”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708717.shtml",
-      "publishedAt": "2026-10-07T08:10:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708716.shtml",
-      "title": "国庆假期最后一天 全国铁路迎来返程客流最高峰",
-      "category": "综合",
-      "summary": "中新网10月7日电 据“中国铁路”微信公众号消息，10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰，预计发送旅客2415万人次，计划加开旅客列车2449列。10月6日，全国铁路发送旅客2160.5万人次，连续三天旅客发送量超2000万人次，运输安全平稳有序。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708716.shtml",
-      "publishedAt": "2026-10-07T07:54:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708714.shtml",
-      "title": "湖北通山：千人踏秋登九宫 沿溪寻瀑观云海",
-      "category": "综合",
-      "summary": "中新网咸宁10月7日电 (胡传林 朱亚平 陈鹏)湖北咸宁市通山县九宫山第三届秋季徒步嘉年华7日启幕，近千名徒步爱好者齐聚鄂南名山，踏秋登高、沿溪寻瀑、俯瞰云海，在清幽山野间邂逅秋日盛景，解锁“轻户外·慢生活”的休闲新风尚，感受自然山水与运动活力交融的独特魅力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708714.shtml",
-      "publishedAt": "2026-10-07T07:51:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708715.shtml",
-      "title": "在泰失联的上海音乐教师已安全回国",
-      "category": "综合",
-      "summary": "中国驻泰国大使馆发言人7日表示，此前在泰国曼谷失联的上海音乐教师已于近日安全返回上海。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708715.shtml",
-      "publishedAt": "2026-10-07T07:48:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708712.shtml",
-      "title": "俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华",
-      "category": "综合",
-      "summary": "中新社北京10月7日电 中国外交部发言人7日宣布：俄罗斯总统助理、海事委员会主席帕特鲁舍夫将于10月8日至13日访问中国，中共中央政治局委员、中央外办主任王毅将与其会谈交流。(完)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708712.shtml",
-      "publishedAt": "2026-10-07T07:47:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708713.shtml",
-      "title": "访中国海军遵义舰：迈向深蓝新长征",
-      "category": "综合",
-      "summary": "中新社海南三亚10月7日电 题：访中国海军遵义舰：迈向深蓝新长征",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708713.shtml",
-      "publishedAt": "2026-10-07T07:45:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-07/10708703.shtml",
-      "title": "中国央行连续23个月增持黄金",
-      "category": "综合",
-      "summary": "中新社北京10月7日电 (陶思阅)中国央行7日披露，9月末黄金储备达7747万盎司，环比增加74万盎司。这是中国央行连续第23个月增持黄金。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708703.shtml",
-      "publishedAt": "2026-10-07T07:35:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708702.shtml",
-      "title": "俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华",
-      "category": "综合",
-      "summary": "外交部发言人宣布：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708702.shtml",
-      "publishedAt": "2026-10-07T07:16:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708696.shtml",
-      "title": "古厝变身戏台 非遗展演点亮福州三坊七巷",
-      "category": "综合",
-      "summary": "中新网福州10月7日电 (叶秋云)7日上午，位于福州三坊七巷南后街的福建省非物质文化遗产博览苑内，闽剧经典《荔枝换绛桃》选段精彩上演，赢得观众阵阵掌声。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708696.shtml",
-      "publishedAt": "2026-10-07T07:12:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708692.shtml",
-      "title": "十余载奔走海峡两岸 六旬台胞以棒垒球传情",
-      "category": "综合",
-      "summary": "中新网绍兴10月7日电 题：十余载奔走海峡两岸 六旬台胞以棒垒球传情",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708692.shtml",
-      "publishedAt": "2026-10-07T07:11:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708691.shtml",
-      "title": "在绿茵场上读懂“整装东北”",
-      "category": "综合",
-      "summary": "中新网沈阳10月7日电 (记者 李晛)首届东北地区城市足球联赛(简称“东北超”)5日晚在大连梭鱼湾足球场落下帷幕，长春队夺得冠军。这场横跨辽、吉、黑、内蒙古三省一区，八城同台的草根足球赛，早已超越竞技胜负本身，生动诠释了“整装东北”的精神力量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708691.shtml",
-      "publishedAt": "2026-10-07T07:10:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708701.shtml",
-      "title": "写在长春2027第33届世界大学生冬季运动会倒计时100天之际",
-      "category": "综合",
-      "summary": "10月7日，当时间的指针指向长春2027第33届世界大学生冬季运动会倒计时100天，长春将全面进入“大冬会时间”。为呈现出一场“简约、安全、精彩”的世界级冰雪盛会，长春以场馆提质筑牢赛事根基，以城市焕新擦亮春城底色，以青春志愿传递温暖力量，以全民热忱共赴冰雪之约，一处处标准场馆静待健儿驰骋，一街一巷精致美颜喜迎八方宾客，万千市民、青年志愿者、大冬会工作人员同",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708701.shtml",
-      "publishedAt": "2026-10-07T07:07:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-07/10708700.shtml",
-      "title": "点“经”之笔丨读懂一座小城总能站在前列的密码",
-      "category": "综合",
-      "summary": "江苏昆山，去年地区生产总值5615亿元，继续站在全国县域经济发展的最前列。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708700.shtml",
-      "publishedAt": "2026-10-07T07:07:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg90zwkezlo/trad#0",
       "title": "俄羅斯鼠疫：死者名叫希皮洛娃，已有200接觸者被觀察",
       "category": "国际",
@@ -350,258 +726,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-07/1207170.shtml",
-      "title": "全国铁路迎来返程客流最高峰",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-07/1207170.shtml",
-      "publishedAt": "2026-10-07T07:03:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708698.shtml",
-      "title": "各地迎来假期返程客流高峰 交管部门“多点发力”疏堵保畅",
-      "category": "综合",
-      "summary": "央视网消息：国庆假期最后一天，不少人已经踏上返程。记者从交通运输部了解到，根据动态研判，7日，全国高速公路有37个路段易发拥堵，主要集中在江苏、河北、安徽、广东、山东等省份。全国高速公路预计有58个服务区充电特别繁忙，主要集中在河北、湖南、安徽等省份，大家可通过“e路畅通”微信小程序查询服务区充电桩运行状态。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708698.shtml",
-      "publishedAt": "2026-10-07T07:00:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-07/10708697.shtml",
-      "title": "旅游公路带火“奔县游”",
-      "category": "综合",
-      "summary": "探访三座山西县城，感受县域文旅活力",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708697.shtml",
-      "publishedAt": "2026-10-07T06:57:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-07/10708695.shtml",
-      "title": "非遗出彩“出圈”、传统戏曲焕新 多元文化体验激活假日文旅消费新动能",
-      "category": "综合",
-      "summary": "央视网消息：国庆假期，各地深挖非遗资源，推出沉浸式演艺、手工体验等多元文化产品。可观可感、可参与的传统文化项目持续走红，非遗体验激活假日文旅消费新动能。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708695.shtml",
-      "publishedAt": "2026-10-07T06:55:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/10-07/10708694.shtml",
-      "title": "【光明时评】细节考验治理质效",
-      "category": "综合",
-      "summary": "这个国庆假期，数亿人次出行，单日峰值再创新高。汹涌的出游热潮，是发展活力的体现，也是社会治理的大考。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/10-07/10708694.shtml",
-      "publishedAt": "2026-10-07T06:54:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/10-07/10708693.shtml",
-      "title": "金观平：历史经典产业要走好市场化新路",
-      "category": "综合",
-      "summary": "历史经典产业具有悠久的历史传承、深厚的文化底蕴，但文化优势不等于产业优势。工业和信息化部等6部门近期印发《关于推动历史经典产业高质量发展的意见》，提出到2028年塑造100个中国消费名品，到2030年培育形成一批世界一流企业和知名品牌，正是针对历史经典产业普遍面临的品牌建设滞后、产品附加值不高等困境的应对之策。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/10-07/10708693.shtml",
-      "publishedAt": "2026-10-07T06:54:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/10-07/10708689.shtml",
-      "title": "被骗至妙瓦底4天被卖3次 演员王星案详细案情披露",
-      "category": "综合",
-      "summary": "由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦历程和显著成就。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/10-07/10708689.shtml",
-      "publishedAt": "2026-10-07T06:42:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708688.shtml",
-      "title": "地笼泛滥 红树林保护区竟成赶海“乐园”！记者调查",
-      "category": "综合",
-      "summary": "十一假期，亲近自然的赶海旅游热度高涨，然而记者在海南三亚、陵水调查发现，不少商业赶海侵入红树林保护区、禁用渔具“绝户网”地笼泛滥、底栖生物遭到频繁采挖，来看记者调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708688.shtml",
-      "publishedAt": "2026-10-07T06:34:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-07/10708684.shtml",
-      "title": "滨海潮玩节成海口国庆假日文旅消费亮点",
-      "category": "综合",
-      "summary": "中新网海口10月7日电 (郑海超)今年10月1日至6日，以“竞燃江东 潮启天地”为主题的2026滨海潮玩节在海口江东天地举行，累计吸引参赛选手及游客超3万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708684.shtml",
-      "publishedAt": "2026-10-07T06:33:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-07/10708687.shtml",
-      "title": "国庆返程提醒：长途久坐时，留意身体这些信号→",
-      "category": "综合",
-      "summary": "国庆假期最后一天",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/10-07/10708687.shtml",
-      "publishedAt": "2026-10-07T06:33:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-07/10708683.shtml",
-      "title": "（台湾写真）“风柜”澎湖来的人，回到“有风的地方”",
-      "category": "综合",
-      "summary": "中新社台湾澎湖10月7日电 题：“风柜”澎湖来的人，回到“有风的地方”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708683.shtml",
-      "publishedAt": "2026-10-07T06:31:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-07/1207175.shtml",
-      "title": "十一假期新疆阿禾公路车流如织 209公里秋色廊道引游客打卡",
-      "category": "综合",
-      "summary": "阿禾公路全长209.45公里，南起阿勒泰市、北至禾木村，是被自驾客称为“车窗内外皆风景”的北疆秋日画廊。史玉江 摄 沿线风光秀美，车流如织。史玉江 摄 游客在阿禾公路沿线游玩打卡。史玉江 摄 阿禾公路沿线部分河段已结薄冰，吸引游客河边打卡。史玉江 摄 当地秋色如画。史玉江 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-07/1207175.shtml",
-      "publishedAt": "2026-10-07T06:28:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-07/10708685.shtml",
-      "title": "国内航线燃油附加费10月10日起上调",
-      "category": "综合",
-      "summary": "记者今天从南航等多家航空公司了解到，自10月10日(含)起销售的国内航线客票，燃油附加费将上调。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708685.shtml",
-      "publishedAt": "2026-10-07T06:26:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-07/10708682.shtml",
-      "title": "新华图讯｜长春大冬会火炬发布",
-      "category": "综合",
-      "summary": "10月7日，长春2027第33届世界大学生冬季运动会迎来倒计时100天，本届大冬会火炬正式发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708682.shtml",
-      "publishedAt": "2026-10-07T06:20:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -637,23 +761,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad#0",
-      "title": "找工作？面試中那個你不必回答的問題",
-      "category": "国际",
-      "summary": "如果在求職面試中被問到目前工作的薪水多少，你該如何應對呢？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T00:26:11.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -905,7 +1012,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#1",
       "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
       "category": "国际",
       "summary": "原先不被看好的沈伯洋，自宣布參選後大力改變形象，近期聲勢高漲，給本享有執政優勢的蔣萬安帶來了挑戰。",
@@ -922,7 +1029,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#4",
       "title": "台北同志酒吧遭搜查 警員歧視言論惹爭議",
       "category": "国际",
       "summary": "有關注同志權益團體號召集結抗議，逾百人出席表達不滿警方不當執法。警方證實有警員言行不當已懲處；台北巿長蔣萬安致歉。",
@@ -1470,78 +1577,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142924",
-      "title": "国际货币基金组织：各国应对能源冲击的政策组合正在变化",
-      "category": "国际",
-      "summary": "国际货币基金组织周四发表博客文章说，随着中东战争引发的能源冲击持续，各国政府采取了不同应对措施。随着冲击持续和公共财政压力加剧，各国正从通过财政措施缓冲冲击，转向更多允许价格上涨向国内传导和管理需求的措施。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142924",
-      "publishedAt": "2026-10-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142923",
-      "title": "联合国贸发会议：拉美外资流入增加 但新建生产项目减少",
-      "category": "国际",
-      "summary": "2025年，拉丁美洲和加勒比地区吸引的外国直接投资增加，但用于新建工厂、物流设施等生产性项目的投资却有所减少。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142923",
-      "publishedAt": "2026-10-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142922",
-      "title": "国际劳工组织：尼泊尔洪灾影响就业和生计",
-      "category": "国际",
-      "summary": "国际劳工组织周四发布初步评估报告指出，尼泊尔8月发生的洪灾严重扰乱就业和生计，其影响可能超出直接受灾地区。基础设施受损、贸易中断以及非正规就业比例较高，给劳动者和企业带来风险。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142922",
-      "publishedAt": "2026-10-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142919",
-      "title": "【世界交汇点】对话黄京波——人生的两点之间没有直线",
-      "category": "国际",
-      "summary": "人生一定要沿着一条清晰的路线前进吗？学过的专业、走过的弯路，最后会把一个人带向哪里？本期《世界交汇点》，我们邀请了联合国大学驻澳门研究所所长黄京波博士。从音乐相伴的童年，到法语、经济、艺术管理和教育等不同领域的学习；从第一份实习，到在纽约九年全工全读，再到二十五年的联合国职业生涯——她的人生并没有所谓的“标准路径”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142919",
-      "publishedAt": "2026-10-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad#4",
       "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
       "category": "国际",
@@ -1607,24 +1642,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142917",
-      "title": "副人权高专：制度性种族主义影响非洲裔人群",
-      "category": "国际",
-      "summary": "联合国人权事务副高级专员达博周三在日内瓦向人权理事会第六十三届会议表示，制度性种族主义影响全球非洲人和非洲裔人群的执法及刑事司法体系，种族定性、过度使用武力以及拘留设施中比例过高等现象仍然存在。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142917",
-      "publishedAt": "2026-09-30T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -1695,23 +1712,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#4",
-      "title": "中國人工智慧工具「教導」研究人員製造生物武器",
-      "category": "国际",
-      "summary": "有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T02:20:26.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },

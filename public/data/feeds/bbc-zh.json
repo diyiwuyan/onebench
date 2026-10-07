@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad#0",
+      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T10:24:31.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad#0",
+      "title": "喝多醉才算醉？康奈爾輪姦案指控揭「同意法」漏洞爭議",
+      "meta": "BBC 中文 · 2026/10/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T09:17:46.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad#0",
       "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
       "meta": "BBC 中文 · 2026/10/7",
@@ -24,13 +38,6 @@
       "meta": "BBC 中文 · 2026/10/7",
       "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-07T05:09:27.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad#0",
-      "title": "找工作？面試中那個你不必回答的問題",
-      "meta": "BBC 中文 · 2026/10/7",
-      "url": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T00:26:11.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad#1",
@@ -68,14 +75,14 @@
       "publishedAt": "2026-10-06T00:11:31.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#1",
       "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
       "meta": "BBC 中文 · 2026/10/6",
       "url": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T00:11:21.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#4",
       "title": "台北同志酒吧遭搜查 警員歧視言論惹爭議",
       "meta": "BBC 中文 · 2026/10/5",
       "url": "https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-09-30T04:39:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#4",
-      "title": "中國人工智慧工具「教導」研究人員製造生物武器",
-      "meta": "BBC 中文 · 2026/9/30",
-      "url": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T02:20:26.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#3",
       "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
       "meta": "BBC 中文 · 2026/9/29",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T08:39:14.218Z",
+  "updatedAt": "2026-10-07T17:25:27.728Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142955",
+      "title": "粮农组织评估：南半球渔业每年至少导致3万只海鸟遭误捕",
+      "meta": "联合国新闻 · 2026/10/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142955",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142954",
+      "title": "世卫组织：关键资金缺口威胁也门卫生应急响应行动",
+      "meta": "联合国新闻 · 2026/10/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142954",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142953",
+      "title": "世卫组织总干事：正密切关注俄实验室工作人员死于重症肺炎事件",
+      "meta": "联合国新闻 · 2026/10/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142953",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142952",
+      "title": "国际移民组织：偷渡者将儿童作为猎物，2025年逾2万儿童独自抵达欧洲",
+      "meta": "联合国新闻 · 2026/10/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142952",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142947",
+      "title": "世卫组织：全球5至19岁患有肥胖症儿童和青少年超过1.7亿",
+      "meta": "联合国新闻 · 2026/10/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142947",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142951",
       "title": "首届全球热浪论坛开幕 呼吁应对极端高温并增加投资",
       "meta": "联合国新闻 · 2026/10/6",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/10/1",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142926",
       "publishedAt": "2026-10-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142924",
-      "title": "国际货币基金组织：各国应对能源冲击的政策组合正在变化",
-      "meta": "联合国新闻 · 2026/10/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142924",
-      "publishedAt": "2026-10-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142923",
-      "title": "联合国贸发会议：拉美外资流入增加 但新建生产项目减少",
-      "meta": "联合国新闻 · 2026/10/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142923",
-      "publishedAt": "2026-10-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142922",
-      "title": "国际劳工组织：尼泊尔洪灾影响就业和生计",
-      "meta": "联合国新闻 · 2026/10/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142922",
-      "publishedAt": "2026-10-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142919",
-      "title": "【世界交汇点】对话黄京波——人生的两点之间没有直线",
-      "meta": "联合国新闻 · 2026/10/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142919",
-      "publishedAt": "2026-10-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142917",
-      "title": "副人权高专：制度性种族主义影响非洲裔人群",
-      "meta": "联合国新闻 · 2026/9/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142917",
-      "publishedAt": "2026-09-30T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T08:39:14.218Z",
+  "updatedAt": "2026-10-07T17:25:27.728Z",
   "provider": "OneBench 公共资讯快照"
 }
