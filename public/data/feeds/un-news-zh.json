@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142961",
+      "title": "世卫组织发布全球行动方案，应对妊娠期高血压疾病",
+      "meta": "联合国新闻 · 2026/10/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142961",
+      "publishedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142960",
+      "title": "开发署报告：缅甸超过三分之二人口陷入多维贫困",
+      "meta": "联合国新闻 · 2026/10/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142960",
+      "publishedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142959",
       "title": "联合国贸发会议：不断攀升的债务成本正在阻碍发展",
       "meta": "联合国新闻 · 2026/10/7",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142932",
       "publishedAt": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142931",
-      "title": "人权高专：乌克兰战争加剧人权灾难 海地黑帮暴力持续扩大",
-      "meta": "联合国新闻 · 2026/10/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142931",
-      "publishedAt": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142930",
-      "title": "受天气和运输受阻影响 粮农组织食品价格指数9月上涨",
-      "meta": "联合国新闻 · 2026/10/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142930",
-      "publishedAt": "2026-10-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-08T13:29:47.009Z",
+  "updatedAt": "2026-10-08T19:57:06.274Z",
   "provider": "OneBench 公共资讯快照"
 }
