@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad#0",
+      "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
+      "meta": "BBC 中文 · 2026/10/8",
+      "url": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:34:52.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad#0",
+      "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
+      "meta": "BBC 中文 · 2026/10/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T07:50:44.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad#0",
       "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
       "meta": "BBC 中文 · 2026/10/8",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-10-08T04:41:43.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad#1",
       "title": "「地球不只有一個北極」——怎麼講？",
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad?at_medium=RSS&at_campaign=rss",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-10-08T01:10:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad#1",
       "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
       "meta": "BBC 中文 · 2026/10/7",
       "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
@@ -75,13 +89,6 @@
       "publishedAt": "2026-10-06T06:31:55.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad#1",
-      "title": "駐日美軍涉謀殺女性被捕 重燃沖繩抗議浪潮",
-      "meta": "BBC 中文 · 2026/10/6",
-      "url": "https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T00:11:41.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#1",
       "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
       "meta": "BBC 中文 · 2026/10/6",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/10/5",
       "url": "https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-05T10:15:06.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5yn53n4y7ko/trad#1",
-      "title": "美國華裔房產經紀涉監視賴清德兒子 被FBI拘捕",
-      "meta": "BBC 中文 · 2026/10/5",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5yn53n4y7ko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T07:19:16.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-08T06:04:24.020Z",
+  "updatedAt": "2026-10-08T13:29:47.009Z",
   "provider": "OneBench 公共资讯快照"
 }
