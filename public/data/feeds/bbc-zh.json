@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad#0",
+      "title": "法國學生示威：憤怒背後隱藏著什麼？",
+      "meta": "BBC 中文 · 2026/10/9",
+      "url": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T09:42:25.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#0",
       "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
       "meta": "BBC 中文 · 2026/10/9",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-10-09T00:18:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad#1",
       "title": "「那揮之不去的恐懼」：「宿醉焦慮」真的存在嗎？",
       "meta": "BBC 中文 · 2026/10/9",
       "url": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T04:41:43.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad#1",
-      "title": "「地球不只有一個北極」——怎麼講？",
-      "meta": "BBC 中文 · 2026/10/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T02:16:46.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-09T09:04:44.688Z",
+  "updatedAt": "2026-10-09T16:59:39.702Z",
   "provider": "OneBench 公共资讯快照"
 }
