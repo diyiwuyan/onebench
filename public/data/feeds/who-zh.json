@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:78f17c10-10c8-4b2a-9244-9ee93b667cb4",
+      "title": "新全球路线图发布，旨在应对妊娠期高血压这一导致孕产妇和新生儿死亡的主要原因",
+      "meta": "世界卫生组织 · 2026/10/8",
+      "url": "https://www.who.int/zh/news-room/08-10-2026-new-global-roadmap-launched-to-tackle-hypertension-in-pregnancy-a-leading-cause-of-maternal-and-newborn-deaths",
+      "publishedAt": "2026-10-08T08:17:57.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:fda319d3-c93f-4a92-ac2f-deccfcadbb5c",
       "title": "世卫组织发布新指导，旨在预防大型集会期间高温相关疾病",
       "meta": "世界卫生组织 · 2026/9/30",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/7/23",
       "url": "https://www.who.int/zh/news-room/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
       "publishedAt": "2026-07-23T08:00:24.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:d44ceb09-4de2-48fe-95b8-d763934d5bf3",
-      "title": "联合国五大机构联合发布《2026年世界粮食安全和营养状况》报告",
-      "meta": "世界卫生组织 · 2026/7/21",
-      "url": "https://www.who.int/zh/news-room/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
-      "publishedAt": "2026-07-21T08:26:17.000Z"
     }
   ],
-  "updatedAt": "2026-10-09T16:59:39.702Z",
+  "updatedAt": "2026-10-09T22:38:27.799Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T16:59:39.702Z",
-  "expiresAt": "2026-10-09T22:59:39.702Z",
+  "generatedAt": "2026-10-09T22:38:27.799Z",
+  "expiresAt": "2026-10-10T04:38:27.799Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,23 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad#0",
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "category": "国际",
+      "summary": "烏克蘭總統表示，容許俄羅斯出售石油產品，只會延長這場本應結束的戰爭。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T20:33:46.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-09/10709962.shtml",
       "title": "这个很多人晚上都在做的事，正在加速牙齿老化！还可能会变丑！",
@@ -661,7 +678,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#1",
       "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
       "category": "国际",
       "summary": "一部新電影將扎克伯格的描繪成一個反派角色。但這家科技公司的收益及產品似乎不受負面形象的影響。",
@@ -975,6 +992,23 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:78f17c10-10c8-4b2a-9244-9ee93b667cb4",
+      "title": "新全球路线图发布，旨在应对妊娠期高血压这一导致孕产妇和新生儿死亡的主要原因",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）及其合作伙伴今日发布了一项新的全球路线图，旨在应对妊娠期高血压疾病，包括子痫前期，这类疾病每年影响数百万女性，仍是导致孕妇及其婴儿死亡和发生重症的主要原因之一，并给其家庭造成悲惨的长期影响。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/08-10-2026-new-global-roadmap-launched-to-tackle-hypertension-in-pregnancy-a-leading-cause-of-maternal-and-newborn-deaths",
+      "publishedAt": "2026-10-08T08:17:57.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
@@ -1494,7 +1528,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#4",
       "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
       "category": "国际",
       "summary": "原先不被看好的沈伯洋，自宣布參選後大力改變形象，近期聲勢高漲，給本享有執政優勢的蔣萬安帶來了挑戰。",
@@ -1502,23 +1536,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T00:11:21.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#4",
-      "title": "台北同志酒吧遭搜查 警員歧視言論惹爭議",
-      "category": "国际",
-      "summary": "有關注同志權益團體號召集結抗議，逾百人出席表達不滿警方不當執法。警方證實有警員言行不當已懲處；台北巿長蔣萬安致歉。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T12:43:06.000Z",
       "tags": [
         "国际",
         "商业",
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
       "publishedAt": "2026-07-23T08:00:24.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:d44ceb09-4de2-48fe-95b8-d763934d5bf3",
-      "title": "联合国五大机构联合发布《2026年世界粮食安全和营养状况》报告",
-      "category": "健康",
-      "summary": "《报告》指出，2025年全球饥饿人口数量连续第三年下降，表明消除饥饿的目标并非遥不可及。但《报告》同时警示，当前改善势头依然脆弱，各区域进展情况极不均衡，要在2030年如期实现可持续发展目标，依然任重而道远。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
-      "publishedAt": "2026-07-21T08:26:17.000Z",
       "tags": [
         "健康",
         "育儿",

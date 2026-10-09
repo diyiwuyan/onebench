@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad#0",
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "meta": "BBC 中文 · 2026/10/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T20:33:46.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad#0",
       "title": "法國學生示威：憤怒背後隱藏著什麼？",
       "meta": "BBC 中文 · 2026/10/9",
@@ -12,7 +19,7 @@
       "publishedAt": "2026-10-09T09:42:25.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#1",
       "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
       "meta": "BBC 中文 · 2026/10/9",
       "url": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad?at_medium=RSS&at_campaign=rss",
@@ -103,18 +110,11 @@
       "publishedAt": "2026-10-06T06:31:55.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#4",
       "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
       "meta": "BBC 中文 · 2026/10/6",
       "url": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T00:11:21.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#4",
-      "title": "台北同志酒吧遭搜查 警員歧視言論惹爭議",
-      "meta": "BBC 中文 · 2026/10/5",
-      "url": "https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T12:43:06.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98rzd82m7r1o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-09T16:59:39.702Z",
+  "updatedAt": "2026-10-09T22:38:27.799Z",
   "provider": "OneBench 公共资讯快照"
 }
