@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#0",
+      "title": "老撾的班根軍用機場 中國能用來做甚麼？",
+      "meta": "BBC 中文 · 2026/10/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T00:18:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad#0",
+      "title": "「那揮之不去的恐懼」：「宿醉焦慮」真的存在嗎？",
+      "meta": "BBC 中文 · 2026/10/9",
+      "url": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T00:18:12.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad#0",
       "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
       "meta": "BBC 中文 · 2026/10/8",
@@ -12,7 +26,7 @@
       "publishedAt": "2026-10-08T12:34:52.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad#1",
       "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad?at_medium=RSS&at_campaign=rss",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-10-08T05:29:23.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr4g1w328qxqo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr4g1w328qxqo/trad#1",
       "title": "加州一對華裔夫婦被控虐待至少14名代孕子女",
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/cr4g1w328qxqo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,20 +80,6 @@
       "meta": "BBC 中文 · 2026/10/7",
       "url": "https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-07T09:17:46.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad#1",
-      "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
-      "meta": "BBC 中文 · 2026/10/7",
-      "url": "https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T08:24:05.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad#1",
-      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "meta": "BBC 中文 · 2026/10/7",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T05:09:27.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-08T19:57:06.274Z",
+  "updatedAt": "2026-10-09T00:23:08.588Z",
   "provider": "OneBench 公共资讯快照"
 }
