@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crkg7xppy4zwo/trad#0",
+      "title": "新冠疫情時期武漢市長周先旺受賄罪判囚14年",
+      "meta": "BBC 中文 · 2026/10/10",
+      "url": "https://www.bbc.com/zhongwen/articles/crkg7xppy4zwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T13:49:24.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad#0",
       "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
       "meta": "BBC 中文 · 2026/10/10",
@@ -75,7 +82,7 @@
       "publishedAt": "2026-10-08T12:34:52.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad#2",
       "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad?at_medium=RSS&at_campaign=rss",
@@ -194,13 +201,6 @@
       "publishedAt": "2026-09-29T03:48:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad#2",
-      "title": "中國、台灣民眾如何看「習特會」？專家如何解讀峰會成果？",
-      "meta": "BBC 中文 · 2026/9/25",
-      "url": "https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T14:18:56.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad#3",
       "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
       "meta": "BBC 中文 · 2026/9/25",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:32:23.992Z",
+  "updatedAt": "2026-10-10T18:36:01.056Z",
   "provider": "OneBench 公共资讯快照"
 }
