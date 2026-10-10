@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad#0",
+      "title": "賴清德雙十講話：台灣強化防衛不是放棄對話",
+      "meta": "BBC 中文 · 2026/10/10",
+      "url": "https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T05:01:42.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad#0",
       "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
       "meta": "BBC 中文 · 2026/10/9",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-10-09T08:04:54.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad#1",
       "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
       "meta": "BBC 中文 · 2026/10/9",
       "url": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad?at_medium=RSS&at_campaign=rss",
@@ -87,13 +94,6 @@
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T04:41:43.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad#1",
-      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
-      "meta": "BBC 中文 · 2026/10/7",
-      "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T10:24:31.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-09T22:38:27.799Z",
+  "updatedAt": "2026-10-10T05:52:47.793Z",
   "provider": "OneBench 公共资讯快照"
 }
