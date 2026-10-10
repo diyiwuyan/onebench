@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad#0",
+      "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
+      "meta": "BBC 中文 · 2026/10/10",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T11:37:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad#0",
+      "title": "這位丈夫15年來潛水760次，就為了「靠近」海嘯失蹤的妻子",
+      "meta": "BBC 中文 · 2026/10/10",
+      "url": "https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T07:48:57.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad#2",
       "title": "賴清德雙十講話：台灣強化防衛不是放棄對話",
       "meta": "BBC 中文 · 2026/10/10",
       "url": "https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad?at_medium=RSS&at_campaign=rss",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-10-09T20:33:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad#1",
       "title": "法國學生示威：憤怒背後隱藏著什麼？",
       "meta": "BBC 中文 · 2026/10/9",
       "url": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +80,6 @@
       "meta": "BBC 中文 · 2026/10/8",
       "url": "https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T09:37:08.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad#1",
-      "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
-      "meta": "BBC 中文 · 2026/10/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T07:50:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad#1",
@@ -201,13 +208,6 @@
       "publishedAt": "2026-09-25T04:56:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad#2",
-      "title": "草原上的數據中心：中國AI雄心背後的算力前線",
-      "meta": "BBC 中文 · 2026/9/23",
-      "url": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T13:24:03.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad#3",
       "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
       "meta": "BBC 中文 · 2026/9/22",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-10T05:52:47.793Z",
+  "updatedAt": "2026-10-10T12:32:23.992Z",
   "provider": "OneBench 公共资讯快照"
 }
