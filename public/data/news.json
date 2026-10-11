@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:50:46.512Z",
-  "expiresAt": "2026-10-11T18:50:46.512Z",
+  "generatedAt": "2026-10-11T18:54:50.518Z",
+  "expiresAt": "2026-10-12T00:54:50.518Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -16,9 +16,8 @@
     },
     {
       "id": "un-news-zh",
-      "ok": false,
-      "itemCount": 0,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "itemCount": 30
     },
     {
       "id": "who-zh",
@@ -33,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711122.shtml",
-      "title": "从草场放牧到高原种菊 西藏特色种养产业让群众致富增收",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
+      "title": "郑钦文创造历史 首夺中网女单冠军",
       "category": "综合",
-      "summary": "近年来，在党中央关心关怀和全国人民支援下，西藏从脱贫攻坚到乡村振兴接续发力，620多个边境村全部建成了小康村，绘就边疆长治久安、人民安居乐业的壮美画卷。",
+      "summary": "中新社北京10月12日电(记者 国璇)2026中国网球公开赛女单决赛11日在北京举行。中国选手郑钦文以7:5、6:4击败今年法网冠军、俄罗斯新星安德烈耶娃，职业生涯首次夺得女子网球选手协会(WTA)1000赛冠军，成为中网历史上首位夺得女单冠军的本土球员。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711122.shtml",
-      "publishedAt": "2026-10-11T12:47:26.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
+      "publishedAt": "2026-10-11T17:03:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -51,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711120.shtml",
-      "title": "一部纪录片引发的追问：日本政府究竟保护谁？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
+      "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
       "category": "综合",
-      "summary": "新华社东京10月11日电#8195;题：一部纪录片引发的追问：日本政府究竟保护谁？",
+      "summary": "国际移民组织11日表示，一艘载有350人的移民船在吉布提沿海倾覆，造成至少139人死亡，另有84人失踪。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711120.shtml",
-      "publishedAt": "2026-10-11T12:46:12.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
+      "publishedAt": "2026-10-11T16:29:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -69,50 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711109.shtml",
-      "title": "埃及总统塞西访印尼 两国重申支持巴勒斯坦建国",
-      "category": "综合",
-      "summary": "中新社雅加达10月11日电 (记者 李志全)印度尼西亚总统普拉博沃11日与到访的埃及总统塞西举行会谈，双方重申支持建立独立的巴勒斯坦国，强调通过“两国方案”实现地区和平，并呼吁缓和中东地区紧张局势。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711109.shtml",
-      "publishedAt": "2026-10-11T12:45:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711119.shtml",
-      "title": "专访｜新西兰前总理：期待深圳APEC为全球走出“艰难时刻”探寻方向",
-      "category": "综合",
-      "summary": "10月11日，在北京参加明德战略对话(2026)的新西兰前总理珍妮·希普利接受总台环球资讯《全球洞察》记者独家专访时表示，新西兰愿积极参与即将在中国深圳举行的亚太经合组织第三十三次领导人非正式会议，期待会议能够就多边合作、自由贸易、应对气候变化等诸多重大议题达成共识，为全球走出“艰难时刻”探寻方向。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711119.shtml",
-      "publishedAt": "2026-10-11T12:45:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711117.shtml",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
       "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
       "category": "综合",
       "summary": "2026年是中国工农红军长征胜利90周年。肯尼亚“首都调频”网站10月10日刊文称，今天的中国拥有现代化的城市和规模庞大的消费市场，但人们很容易忽略，走到这一步的道路有多么漫长和艰难。这正是长征精神的意义所在，这种精神是“值得非洲探讨的国家发展理念”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711117.shtml",
-      "publishedAt": "2026-10-11T12:41:28.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
+      "publishedAt": "2026-10-11T16:13:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -123,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-11/10711107.shtml",
-      "title": "“纪念中国工农红军长征胜利九十周年主题创作展”开幕式在穗举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
+      "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
       "category": "综合",
-      "summary": "10月11日，“征途如虹·薪火相传——纪念中国工农红军长征胜利九十周年主题创作展”开幕式在广州人民艺术中心举行。图为展览吸引参观者。中新社记者 陈楚红 摄 10月11日，“征途如虹·薪火相传——纪念中国工农红军长征胜利九十周年主题创作展”开幕式在广州人民艺术中心举行。图为展览吸引参观者。中新社记者 陈楚红 摄 10月11日，“征途如虹·薪火相传——纪念中国工",
+      "summary": "中新社曼谷10月11日电 (梁峻祥 李映民)2026年国际货币基金组织(IMF)和世界银行集团年会将于10月12日至18日在泰国曼谷举行。随着会议临近，泰国政府进一步加强安保、交通、防洪及城市运行等保障工作，以确保会议顺利举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711107.shtml",
-      "publishedAt": "2026-10-11T12:34:05.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
+      "publishedAt": "2026-10-11T15:56:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -141,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711112.shtml",
-      "title": "2026全国健身瑜伽公益活动走进西藏藏医药大学 持续助力高原全民健身事业发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
+      "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
       "category": "综合",
-      "summary": "中新网拉萨10月11日电 (李林)11日，全国健身瑜伽公益系列活动在西藏藏医药大学举行。活动由国家体育总局社会体育指导中心主办，西藏藏医药大学、西藏自治区健身健美操协会承办，来自西藏藏医药大学的160余名瑜伽爱好者齐聚现场，共赴这场兼具专业性与公益性的健身瑜伽之约。",
+      "summary": "中新社北京10月11日电 (刘梦青)2026赛季中超联赛第27轮比赛11日全部战罢。积分榜榜首成都蓉城此役0:1遭天津津门虎补时绝杀，位列次席的大连英博4:0完胜青岛西海岸。在联赛仅剩3轮的情况下，两队分差保持在9分，联赛争冠悬念继续。青岛海牛本轮0:3不敌北京国安，成为本赛季首支降级球队。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711112.shtml",
-      "publishedAt": "2026-10-11T12:33:49.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
+      "publishedAt": "2026-10-11T15:54:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -159,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-11/10711115.shtml",
-      "title": "2026总票房破310亿！国产电影加速出海 “电影+”持续释放大能量",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
+      "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
       "category": "综合",
-      "summary": "截至10月11日",
+      "summary": "中新社北京10月11日电 (吴昕妮)波黑前部长会议主席兹拉特科·拉古姆季亚(Zlatko Lagumdzija)11日在北京表示，当前，外界普遍关注中国的发展奇迹。但最让他印象深刻的是，在快速变化的世界中，中国所展现出的长期主义思维。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711115.shtml",
-      "publishedAt": "2026-10-11T12:33:03.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
+      "publishedAt": "2026-10-11T15:52:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -177,14 +140,302 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207517.shtml",
-      "title": "2026年中网：张帅/西尼亚科娃获女双亚军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
+      "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
+      "category": "综合",
+      "summary": "中新社长沙10月11日电 (记者 唐小晴)“袁稻思源”杂交水稻智能育种平台11日在长沙正式上线。这意味着湖南杂交水稻育种告别传统经验模式，迈入数据驱动、智能决策的全新发展阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
+      "publishedAt": "2026-10-11T15:46:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
+      "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
+      "category": "综合",
+      "summary": "中新社北京10月11日电 (刘梦青)澳大利亚前总理陆克文11日在北京表示，亚太地区各成员尽管存在差异与竞争，仍要管控分歧、拓展合作，共建平等开放的亚太共同体。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
+      "publishedAt": "2026-10-11T15:41:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
+      "title": "中国·敦煌国际武术公开赛开幕 20余国选手“以武会友”",
+      "category": "综合",
+      "summary": "中新社兰州10月11日电 (记者 冯志军)以“文脉敦煌·武动世界”为主题的首届中国·敦煌国际武术公开赛11日晚在甘肃敦煌市开幕，赛事吸引来自中国、俄罗斯、美国、比利时、荷兰、印度、越南、柬埔寨、印度尼西亚、哈萨克斯坦、马来西亚等20余个国家140余支代表队的2000余名运动员同台竞技。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
+      "publishedAt": "2026-10-11T15:37:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
+      "title": "泰国前外长：乐见中方调停斡旋泰柬边境冲突",
+      "category": "综合",
+      "summary": "中新社深圳10月11日电 (记者 郭超凯)由中国外交学院主办的第三次中柬泰二轨对话会11日在深圳举行。泰国前外长甲西·披龙耶在参会期间接受中新社记者采访时表示，乐见中方调停斡旋泰柬边境冲突，泰柬须尊重中国对两国释放的善意。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
+      "publishedAt": "2026-10-11T15:31:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711144.shtml",
+      "title": "WTT中国大满贯赛：王曼昱女单卫冕 国乒两冠收官",
+      "category": "综合",
+      "summary": "中新社北京10月11日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛11日迎来收官。中国女单名将王曼昱以大比分4:0战胜日本选手佐藤瞳，成功卫冕。日本选手松岛辉空获得男单冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711144.shtml",
+      "publishedAt": "2026-10-11T15:30:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
+      "title": "沙特主导联军称利雅得机场航站楼遭袭",
+      "category": "综合",
+      "summary": "当地时间10月11日，沙特阿拉伯主导的多国联军发言人图尔基·马利基发布消息称，一枚不明投射物袭击了沙特首都利雅得哈立德国王国际机场4号旅客航站楼，袭击引发火灾，目前相关地点正由主管部门处置。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
+      "publishedAt": "2026-10-11T15:17:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
+      "title": "2026上海网球大师赛：周意惜败胡尔卡奇 中国单打选手全部出局",
+      "category": "综合",
+      "summary": "中新社上海10月11日电 (记者 缪璐)2026上海网球大师赛11日在上海旗忠网球中心进行单打32进16的较量。持外卡参赛的中国小将周意以大比分1:2惜败荷兰名将赫伯特·胡尔卡奇，无缘16强。至此，出战本届上海网球大师赛的中国球员在单打赛场全部出局。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
+      "publishedAt": "2026-10-11T15:13:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711142.shtml",
+      "title": "第三次中柬泰二轨对话会举行 推动落实抚仙会晤共识",
+      "category": "综合",
+      "summary": "中新社深圳10月11日电 (记者 郭超凯)由中国外交学院主办的“落实抚仙会晤共识 夯实持久和平根基”第三次中柬泰二轨对话会11日在深圳举行。来自中国、柬埔寨、泰国三国的智库学者、社会组织和人道机构代表以及高校青年学子等近百人参会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711142.shtml",
+      "publishedAt": "2026-10-11T15:12:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711141.shtml",
+      "title": "长春书写生态“立体答卷”：虎豹归林 笑语满河",
+      "category": "综合",
+      "summary": "中新社长春10月11日电 题：长春书写生态“立体答卷”：虎豹归林 笑语满河",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711141.shtml",
+      "publishedAt": "2026-10-11T15:11:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
+      "title": "（文化新纪行）从一座古城读懂千年吴越",
+      "category": "综合",
+      "summary": "中新社杭州10月11日电 题：从一座古城读懂千年吴越",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
+      "publishedAt": "2026-10-11T15:10:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
+      "title": "音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
+      "category": "综合",
+      "summary": "中新网重庆10月11日电 题：音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
+      "publishedAt": "2026-10-11T14:33:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
+      "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
+      "category": "综合",
+      "summary": "中新网北京10月11日电(记者 岳川)在11日结束的2026中国网球公开赛女单决赛中，中国选手郑钦文以2比0击败赛会4号种子米拉·安德列娃，生涯首夺WTA1000级别赛事冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
+      "publishedAt": "2026-10-11T14:29:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
+      "title": "“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
+      "category": "综合",
+      "summary": "中新网南京10月11日电 题：“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
+      "publishedAt": "2026-10-11T13:59:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
+      "title": "东西问丨专访陆克文：我不认为自己是“中国通”",
+      "category": "综合",
+      "summary": "中新社北京10月11日电 题：专访陆克文：我不认为自己是“中国通”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
+      "publishedAt": "2026-10-11T13:50:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
+      "title": "郑钦文成为中网首位本土女单冠军",
+      "category": "综合",
+      "summary": "新华社北京10月11日电 在刚刚结束的2026中国网球公开赛女单决赛中，中国选手郑钦文以2:0击败新科法网冠军、俄罗斯名将安德烈耶娃。她成为中网举办20届以来首位来自中国本土的女单冠军，这也是她职业生涯第一个女子网球选手协会(WTA)1000级别赛事冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
+      "publishedAt": "2026-10-11T13:29:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
+      "title": "广州天气晴好 游客登鸿鹄楼观景",
+      "category": "综合",
+      "summary": "10月11日，广州市天气晴好，游客登上鸿鹄楼观赏广州城景。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，鸿鹄楼吸引游客游玩参观。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，游客登上鸿鹄楼观赏湖光山色和广州城景。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，鸿鹄楼吸引游客游玩参观。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
+      "publishedAt": "2026-10-11T13:24:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
+      "title": "王沪宁会见越南国会主席陈青敏",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207517.shtml",
-      "publishedAt": "2026-10-11T12:31:55.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
+      "publishedAt": "2026-10-11T13:16:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -195,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711110.shtml",
-      "title": "西班牙高空音乐舞剧《站台奇妙夜》“飞临”上海复兴岛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
+      "title": "云南40名选手以“路”为核心 讲述铸牢中华民族共同体意识故事",
       "category": "综合",
-      "summary": "中新社上海10月11日电 (记者 王笈)正全力打造全球创客岛的上海复兴岛，11日晚化作一座没有屋顶的天然剧场，西班牙高空音乐舞剧《站台奇妙夜》在此呈现了一场关于孤独、相遇、梦想与自由的空中诗篇，塔吊轮廓、船台钢架、浦江夜色尽数汇入演出画面。",
+      "summary": "中新网昆明10月11日电 (黄兴鸿 黄欣媛)11日，云南省第三届“融美云南 道物中华”铸牢中华民族共同体意识讲解比赛决赛在昆明举行。40名选手以“路”为核心叙事意象，围绕茶马古道、滇缅公路、西南联大西迁之路、中老铁路等历史古道与时代通途，生动讲述云南各民族全方位嵌入的鲜活故事及团结进步的动人实践。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711110.shtml",
-      "publishedAt": "2026-10-11T12:30:07.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
+      "publishedAt": "2026-10-11T13:08:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -213,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711113.shtml",
-      "title": "美食文旅节目《寻味山海》走进浙江金华赴一场火腿的风味之约",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
+      "title": "新疆新星市举办奇石文化旅游活动",
       "category": "综合",
-      "summary": "中新网北京10月11日电 从鲜活的两头乌到陈香的火腿，美食文旅节目《寻味山海》11日晚在总台综合频道播出，观众随节目走进浙江金华，一品三年等一味的火腿香。",
+      "summary": "中新网新疆新星10月11日电 (史玉江)新疆生产建设兵团第十三师新星市“戈壁奇石·丝路新星”奇石文化旅游活动10日启幕。活动汇聚全国200多家集市展商，玛瑙、泥石、戈壁石、火山岩、沉积岩等上百类奇石亮相，将开展为期10天的交易展示。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711113.shtml",
-      "publishedAt": "2026-10-11T12:29:27.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
+      "publishedAt": "2026-10-11T13:01:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -231,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-11/10711111.shtml",
-      "title": "“红军长征与上海统一战线”学习沙龙在沪举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
+      "title": "2026年河北省赛事资源策划运营对接洽谈会举行",
       "category": "综合",
-      "summary": "中新网上海10月11日电(范宇斌)今年是中国工农红军长征胜利90周年，“激动人心的远征史诗——红军长征与上海统一战线”学习沙龙10日在上海理工大学举行。上海市委统战部副部长、上海市统一战线理论研究会会长房剑森出席会议并讲话。",
+      "summary": "中新网石家庄10月11日电 (宋文浩)10月10日至11日，2026年河北省赛事资源策划运营对接洽谈会在河北省石家庄市河北奥林匹克体育中心举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711111.shtml",
-      "publishedAt": "2026-10-11T12:28:53.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
+      "publishedAt": "2026-10-11T12:58:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -249,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-11/10711108.shtml",
-      "title": "美丽家园侨心共筑 2026上海侨界公益慈善行活动举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
+      "title": "（机遇香港）全球电竞市场升温 香港搭台对接全球买家觅商机",
       "category": "综合",
-      "summary": "中新网上海10月11日电(范宇斌)11日，“美丽家园·侨心共筑”2026上海侨界公益慈善行活动在浦东世纪公园举行，旨在弘扬公益慈善、志愿服务精神和生态文明建设理念。活动由上海市侨联指导，上海市浦东新区侨联、上海市华侨事业发展基金会主办，以沉浸式主题徒步结合公益生态市集的形式，汇聚上海侨界各行各业近500名爱心人士，传承红色精神血脉，传播绿色发展理念，以公益实",
+      "summary": "中新社香港10月11日电 (记者 张语洽 赵静怡)2026年环球资源香港展一期11日在香港亚洲国际博览馆开幕，其中消费电子展及游戏展同期登场，逾4000个展位汇聚超过2100家供应商参展，随着全球电竞市场需求持续增长，海内外厂商纷纷借此机会对接全球买家，发掘商机。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-11/10711108.shtml",
-      "publishedAt": "2026-10-11T12:24:41.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
+      "publishedAt": "2026-10-11T12:58:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -267,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711106.shtml",
-      "title": "长三角数字音乐佳作在上海展演",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
+      "title": "马来西亚中总：新时代华商可以成为区域连接者",
       "category": "综合",
-      "summary": "中新网上海10月11日电 (记者 王笈)“未来有数”2026长三角数字音乐大赛成果展暨颁奖展演11日在上海举行，汇聚长三角文艺力量，呈现了一场数字音乐创新融合的视听盛宴。",
+      "summary": "中新网吉隆坡10月11日电 (记者 刘育英)马来西亚中华总商会(中总)总会长吴逸平在中总105周年名人讲堂上提出，在全球供应链重构、数字经济崛起的大背景下，新时代的华商，可以从传统的企业经营者，进一步成为区域连接者。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711106.shtml",
-      "publishedAt": "2026-10-11T12:21:51.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
+      "publishedAt": "2026-10-11T12:57:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -285,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-11/10711105.shtml",
-      "title": "皇岗口岸开通仪式举行 李家超称将进一步推动湾区深度融合",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
+      "title": "《苍穹之剑——纪念无名英雄蔡威百幅画卷》在福建宁德首展",
       "category": "综合",
-      "summary": "中新社深圳10月11日电 (记者 索有为 邱兆翔)皇岗口岸开通仪式10月11日在皇岗口岸联检大楼举行，香港特别行政区行政长官李家超、广东省人大常委会主任黄楚平出席活动并致辞。",
+      "summary": "中新网宁德10月11日电 (记者 叶茂)2026年是中国工农红军长征胜利90周年。11日，《苍穹之剑——纪念无名英雄蔡威百幅画卷》展览在福建省宁德市举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711105.shtml",
-      "publishedAt": "2026-10-11T12:17:32.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
+      "publishedAt": "2026-10-11T12:57:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -303,266 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711104.shtml",
-      "title": "广东再迎高温天气 全省高挂101个森林火险预警信号",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711125.shtml",
+      "title": "全球数百名航空代表走进广州永庆坊 领略广府文化魅力",
       "category": "综合",
-      "summary": "中新社广州10月11日电 (记者 王坚)记者11日从广东省气象部门获悉，冷空气的影响结束后，广东气温开始回升，部分地区再迎高温天气。当日，广东大部最高气温超过30℃，全省有101个森林火险预警信号处于生效状态。",
+      "summary": "中新网广州10月11日电 (记者 程景伟)全球航空业界约600名嘉宾代表11日下午走进广州永庆坊，在青砖镬耳墙之间交错穿行，感受岭南园林艺术之美；在粤剧艺术博物馆欣赏粤语歌曲及醒狮表演、品尝特色美食，体验广府人文风情。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711104.shtml",
-      "publishedAt": "2026-10-11T12:14:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711103.shtml",
-      "title": "（长征胜利90周年）一座无名墓、一场生死别与一家人九十年的守望",
-      "category": "综合",
-      "summary": "中新网楚雄10月11日电 题：一座无名墓、一场生死别与一家人九十年的守望",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711103.shtml",
-      "publishedAt": "2026-10-11T12:14:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711101.shtml",
-      "title": "2026南京铁人三项公开赛鸣笛开赛 国内外选手逐浪竞驰江心洲",
-      "category": "综合",
-      "summary": "中新网南京10月11日电 (记者 泱波)11日，2026南京铁人三项公开赛鸣笛开赛，来自国内外的700名铁人三项爱好者齐聚南京建邺区江心洲生态科技岛，在游泳、自行车、跑步连续挑战中比拼，感受速度与激情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711101.shtml",
-      "publishedAt": "2026-10-11T12:13:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-11/10711102.shtml",
-      "title": "七年磨一展 浙江温州泵阀产业“链”全球",
-      "category": "综合",
-      "summary": "中新网温州10月11日电(蓝伊旎 高楼)“不出国门就能直面全球采购商，降低了我们出海拓市的成本与风险。”浙江志达管业有限公司董事长王忠华感触颇深。这家出口业务占比约四成的企业，在浙江国际阀门产业链展览会上与不少中亚客商实现了对接。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711102.shtml",
-      "publishedAt": "2026-10-11T12:13:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711099.shtml",
-      "title": "产业新、薪资优、政策暖 湖南携6100余岗位赴沪揽才",
-      "category": "综合",
-      "summary": "中新网上海10月11日电 (记者 许婧)“智汇潇湘才聚湖南”2026年上海站专场招聘推介大会11日在上海交通大学闵行校区举办。湖南携138家用人单位赴沪揽才，现场推出6139个岗位，以优质岗位、优厚薪酬与全周期人才服务，向在沪高校青年递出赴湘就业创业的邀约。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711099.shtml",
-      "publishedAt": "2026-10-11T12:12:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711098.shtml",
-      "title": "沈阳：台商爱心赋能青少年成长",
-      "category": "综合",
-      "summary": "中新网沈阳10月11日电(姜月恒)“阳光育林·同心护航”沈阳市百名青少年成长关爱赋能活动捐赠仪式11日在沈阳市举办。本次活动由台盟沈阳市委会、中共铁西区委统战部、铁西区民政局联合主办，旨在凝聚在沈台商与本土爱心企业力量，帮扶困境青少年、关爱低保困难群众，以实际行动传递社会温情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711098.shtml",
-      "publishedAt": "2026-10-11T12:12:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-11/10711094.shtml",
-      "title": "四川成都至西藏拉萨图定班列在蓉首发",
-      "category": "综合",
-      "summary": "中新网成都10月11日电 (记者 刘忠俊 王鹏)10月11日下午，满载进藏物资的X8704/3次列车驶出成都北编组站，四川成都至西藏拉萨图定班列正式开行，进藏物资运输再添一条物流通道。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711094.shtml",
-      "publishedAt": "2026-10-11T12:12:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711096.shtml",
-      "title": "大湾区青年管弦乐团举行2026巡演 逾百名乐手奏响跨文化经典",
-      "category": "综合",
-      "summary": "中新网广州10月11日电 (记者 蔡敏婕 郭军)11日，“大湾区青年管弦乐团巡回音乐会2026”在广州上演。本届乐团集结103位来自粤港澳大湾区的青年乐手，为项目创办以来规模最大的一届。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711096.shtml",
-      "publishedAt": "2026-10-11T12:11:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711095.shtml",
-      "title": "陕西三人篮球联赛总决赛激战正酣 青少年选手竞逐赛场",
-      "category": "综合",
-      "summary": "中新网西安10月11日电 (记者 党田野 张一辰)陕西省第三届三人篮球联赛总决赛11日在西安展开第二个比赛日较量，当日赛事聚焦青少年组别，赛场成为青少年选手的竞技舞台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711095.shtml",
-      "publishedAt": "2026-10-11T12:11:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207524.shtml",
-      "title": "原创音乐剧《四十天》重庆首演 再现“宜昌大撤退”历史",
-      "category": "综合",
-      "summary": "10月11日，以重庆籍爱国实业家卢作孚主持“宜昌大撤退”为蓝本创作的原创音乐剧《四十天》在重庆大剧院上演，演出为期两天。这是该剧自2025年12月首演以来，首次回到卢作孚的故乡重庆，再现烽火年代实业报国的历史故事。史料记载，卢作孚1893年出生于四川省合川县(今重庆市合川区)，是中国近代著名爱国实业家、教育家、社会改革家。1938年10月，武汉失守，宜昌成为",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207524.shtml",
-      "publishedAt": "2026-10-11T12:09:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711092.shtml",
-      "title": "2026中国网球公开赛观众入园人数和票房创新高",
-      "category": "综合",
-      "summary": "中新网北京10月11日电(记者 国璇) 2026中国网球公开赛将于11日在国家网球中心收官。记者从中网组委会获悉，今年恰逢中网第20届赛事，2026中网入园总人数预计超45万人，同比增长25%；截至目前，中网整体票房达1.32亿元(人民币，下同)，同比增长48%，创历史新高；赛期综合消费流水额预计超5500万元，同比增长55%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711092.shtml",
-      "publishedAt": "2026-10-11T11:57:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711091.shtml",
-      "title": "推动国家公园理念走进百校千社区 国家公园科普宣传推介活动举办",
-      "category": "综合",
-      "summary": "中新网北京10月11日电(记者 陈溯)记者11日获悉，国家公园科普宣传推介活动10日在北京林业大学举办。本次活动正值中国首批国家公园正式设立五周年之际，在2025年“讲好中国国家公园故事”高校主题宣传活动的基础上，创新采用“手提箱流动宣传”模式，设置四大主题板块，集中展示了“国家公园全国青年学校”的社会实践成果，并联合新西兰林肯大学与美国国家地理，通过科普展",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711091.shtml",
-      "publishedAt": "2026-10-11T11:56:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711090.shtml",
-      "title": "福建漳州大型海工设备出口新加坡",
-      "category": "综合",
-      "summary": "中新网漳州10月11日电 (李福钦 陈雪婷)10日，装载65件高端海工设备的丹麦籍“峰盛”轮，从福建漳州招银港区豪氏威马码头缓缓驶离，出境前往新加坡。漳州边检站周密部署、精心组织，顺利完成该轮船体检查、人证对照及出境边防检查任务，高效保障该轮顺利通关。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711090.shtml",
-      "publishedAt": "2026-10-11T11:55:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711089.shtml",
-      "title": "从大画幅到掌心：浙江丽水“遇鉴”全球影像大时代",
-      "category": "综合",
-      "summary": "中新网丽水10月11日电(胡丰盛)10月23日至27日，2026世界摄影人大会将在浙江丽水启幕。本届大会首次将FIAP世界摄影人大会、中国第20届国际摄影艺术展览、第七届国际摄影研讨会三大品牌整合举办，以“遇鉴·丽水”为主题，“两会一展”交相辉映，构建起兼具专业高度与学术深度的全球影像交流平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711089.shtml",
-      "publishedAt": "2026-10-11T11:55:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711087.shtml",
-      "title": "“一带一路”地区极端气候事件及影响国际培训班在西安开班",
-      "category": "综合",
-      "summary": "中新网西安10月11日电 (记者 孙自法)记者10月11日从中国科学院地球环境研究所(地环所)获悉，“一带一路”地区极端气候事件及影响国际培训班当天在陕西西安开班，以“极端气候事件重建、预警与影响评估”为核心主题，对来自10多个国家的20余名优秀学员，开展为期14天的培训。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711087.shtml",
-      "publishedAt": "2026-10-11T11:55:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711125.shtml",
+      "publishedAt": "2026-10-11T12:57:13.000Z",
       "tags": [
         "国内",
         "社会",
