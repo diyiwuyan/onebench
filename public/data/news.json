@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T18:54:50.518Z",
-  "expiresAt": "2026-10-12T00:54:50.518Z",
+  "generatedAt": "2026-10-11T23:39:53.871Z",
+  "expiresAt": "2026-10-12T05:39:53.871Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -16,8 +16,9 @@
     },
     {
       "id": "un-news-zh",
-      "ok": true,
-      "itemCount": 30
+      "ok": false,
+      "itemCount": 0,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "who-zh",
@@ -31,6 +32,204 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+      "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
+      "category": "综合",
+      "summary": "最近，网上出现了一张通体金色的所谓“社保卡金卡”。有发布者声称，办理这种“金卡”，不仅能提高医保报销待遇，还能领取养老补贴、享受免费文旅福利。甚至有人冒充人社部门工作人员，以“办理金卡”“发放补贴”为名，索取个人信息、诱导转账。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+      "publishedAt": "2026-10-11T23:33:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
+      "category": "综合",
+      "summary": "打卡跟练、拍照识热量、大数据定制食谱……AI成职场人“减重搭子”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "publishedAt": "2026-10-11T23:30:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+      "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
+      "category": "综合",
+      "summary": "没有味蕾却大谈“好吃”、没有皮肤却力荐“舒适”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+      "publishedAt": "2026-10-11T23:27:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
+      "title": "10月12日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
+      "publishedAt": "2026-10-11T22:59:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
+      "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
+      "category": "综合",
+      "summary": "中新网10月12日电 据伊朗媒体报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日在接受伊朗新闻电视台采访时表示，美国方面已就伊朗为结束战争并开放霍尔木兹海峡而提出的七项条件做出了回应，但德黑兰方面认为，美方的回应“不够充分”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
+      "publishedAt": "2026-10-11T22:54:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+      "title": "连接深港两地 新皇岗口岸正式开通运行",
+      "category": "综合",
+      "summary": "10月12日6时30分，重建后的皇岗口岸正式开通，实施“一地两检”安排及“合作查验、一次放行”全新通关模式，旅客出入境更加便利。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+      "publishedAt": "2026-10-11T22:48:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+      "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
+      "category": "综合",
+      "summary": "北京时间10月11日，2026中网女单决赛，郑钦文2-0战胜安德列娃，收获了自己首个中网女单冠军，也是首个1000赛冠军头衔。同时，也创下了中网的历史：首个本土球员夺得女单冠军！",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+      "publishedAt": "2026-10-11T22:46:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/115845",
+      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+      "category": "科技",
+      "summary": "工信部等就进一步加强汽车产品创新设计管理征求意见 三季度全球 PC 出货量骤降 法国判决 Cloudflare 无须通过 DNS 屏蔽盗版 Anthropic 宣布切断内部评估环境的互联网访问权限 AI 助力老游戏移植到浏览器 3C 证书大面积暂停，电动自行车销售接近停滞 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/115845",
+      "publishedAt": "2026-10-11T22:34:54.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
+      "title": "伊朗称美国已接受伊方所提部分条件",
+      "category": "综合",
+      "summary": "新华社德黑兰10月11日电(记者沙达提)伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
+      "publishedAt": "2026-10-11T22:28:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+      "title": "苏丹北部矿区遇袭 已致72人死亡",
+      "category": "综合",
+      "summary": "当地时间10月11日，苏丹一个民间组织发表声明称，苏丹北部靠近埃及边境的北瓦迪地区一处金矿矿区10日遭遇大规模空袭，造成72名矿工死亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+      "publishedAt": "2026-10-11T21:57:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
+      "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
+      "category": "综合",
+      "summary": "当地时间10月11日晚，沙特阿拉伯民航总局发布声明称，沙特东部城市达曼的法赫德国王国际机场当天晚间遭到袭击。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
+      "publishedAt": "2026-10-11T21:52:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
       "title": "郑钦文创造历史 首夺中网女单冠军",
@@ -382,186 +581,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
       "publishedAt": "2026-10-11T13:50:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
-      "title": "郑钦文成为中网首位本土女单冠军",
-      "category": "综合",
-      "summary": "新华社北京10月11日电 在刚刚结束的2026中国网球公开赛女单决赛中，中国选手郑钦文以2:0击败新科法网冠军、俄罗斯名将安德烈耶娃。她成为中网举办20届以来首位来自中国本土的女单冠军，这也是她职业生涯第一个女子网球选手协会(WTA)1000级别赛事冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
-      "publishedAt": "2026-10-11T13:29:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
-      "title": "广州天气晴好 游客登鸿鹄楼观景",
-      "category": "综合",
-      "summary": "10月11日，广州市天气晴好，游客登上鸿鹄楼观赏广州城景。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，鸿鹄楼吸引游客游玩参观。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，游客登上鸿鹄楼观赏湖光山色和广州城景。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，鸿鹄楼吸引游客游玩参观。中新社记者 陈楚红 摄 10月11日，广州市天气晴好，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
-      "publishedAt": "2026-10-11T13:24:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
-      "title": "王沪宁会见越南国会主席陈青敏",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
-      "publishedAt": "2026-10-11T13:16:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
-      "title": "云南40名选手以“路”为核心 讲述铸牢中华民族共同体意识故事",
-      "category": "综合",
-      "summary": "中新网昆明10月11日电 (黄兴鸿 黄欣媛)11日，云南省第三届“融美云南 道物中华”铸牢中华民族共同体意识讲解比赛决赛在昆明举行。40名选手以“路”为核心叙事意象，围绕茶马古道、滇缅公路、西南联大西迁之路、中老铁路等历史古道与时代通途，生动讲述云南各民族全方位嵌入的鲜活故事及团结进步的动人实践。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
-      "publishedAt": "2026-10-11T13:08:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
-      "title": "新疆新星市举办奇石文化旅游活动",
-      "category": "综合",
-      "summary": "中新网新疆新星10月11日电 (史玉江)新疆生产建设兵团第十三师新星市“戈壁奇石·丝路新星”奇石文化旅游活动10日启幕。活动汇聚全国200多家集市展商，玛瑙、泥石、戈壁石、火山岩、沉积岩等上百类奇石亮相，将开展为期10天的交易展示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
-      "publishedAt": "2026-10-11T13:01:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
-      "title": "2026年河北省赛事资源策划运营对接洽谈会举行",
-      "category": "综合",
-      "summary": "中新网石家庄10月11日电 (宋文浩)10月10日至11日，2026年河北省赛事资源策划运营对接洽谈会在河北省石家庄市河北奥林匹克体育中心举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
-      "publishedAt": "2026-10-11T12:58:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
-      "title": "（机遇香港）全球电竞市场升温 香港搭台对接全球买家觅商机",
-      "category": "综合",
-      "summary": "中新社香港10月11日电 (记者 张语洽 赵静怡)2026年环球资源香港展一期11日在香港亚洲国际博览馆开幕，其中消费电子展及游戏展同期登场，逾4000个展位汇聚超过2100家供应商参展，随着全球电竞市场需求持续增长，海内外厂商纷纷借此机会对接全球买家，发掘商机。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
-      "publishedAt": "2026-10-11T12:58:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
-      "title": "马来西亚中总：新时代华商可以成为区域连接者",
-      "category": "综合",
-      "summary": "中新网吉隆坡10月11日电 (记者 刘育英)马来西亚中华总商会(中总)总会长吴逸平在中总105周年名人讲堂上提出，在全球供应链重构、数字经济崛起的大背景下，新时代的华商，可以从传统的企业经营者，进一步成为区域连接者。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
-      "publishedAt": "2026-10-11T12:57:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
-      "title": "《苍穹之剑——纪念无名英雄蔡威百幅画卷》在福建宁德首展",
-      "category": "综合",
-      "summary": "中新网宁德10月11日电 (记者 叶茂)2026年是中国工农红军长征胜利90周年。11日，《苍穹之剑——纪念无名英雄蔡威百幅画卷》展览在福建省宁德市举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
-      "publishedAt": "2026-10-11T12:57:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711125.shtml",
-      "title": "全球数百名航空代表走进广州永庆坊 领略广府文化魅力",
-      "category": "综合",
-      "summary": "中新网广州10月11日电 (记者 程景伟)全球航空业界约600名嘉宾代表11日下午走进广州永庆坊，在青砖镬耳墙之间交错穿行，感受岭南园林艺术之美；在粤剧艺术博物馆欣赏粤语歌曲及醒狮表演、品尝特色美食，体验广府人文风情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711125.shtml",
-      "publishedAt": "2026-10-11T12:57:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -1200,24 +1219,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/115462",
-      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
-      "category": "科技",
-      "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/115462",
-      "publishedAt": "2026-10-08T01:47:59.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },

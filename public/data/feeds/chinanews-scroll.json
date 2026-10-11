@@ -5,6 +5,76 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+      "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+      "publishedAt": "2026-10-11T23:33:56.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "publishedAt": "2026-10-11T23:30:28.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+      "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+      "publishedAt": "2026-10-11T23:27:29.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
+      "title": "10月12日新闻早报",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
+      "publishedAt": "2026-10-11T22:59:42.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
+      "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
+      "publishedAt": "2026-10-11T22:54:58.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+      "title": "连接深港两地 新皇岗口岸正式开通运行",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+      "publishedAt": "2026-10-11T22:48:39.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+      "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+      "publishedAt": "2026-10-11T22:46:19.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
+      "title": "伊朗称美国已接受伊方所提部分条件",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
+      "publishedAt": "2026-10-11T22:28:20.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+      "title": "苏丹北部矿区遇袭 已致72人死亡",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+      "publishedAt": "2026-10-11T21:57:22.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
+      "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
+      "meta": "中国新闻网 · 2026/10/11",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
+      "publishedAt": "2026-10-11T21:52:38.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
       "title": "郑钦文创造历史 首夺中网女单冠军",
       "meta": "中国新闻网 · 2026/10/11",
@@ -143,78 +213,8 @@
       "meta": "中国新闻网 · 2026/10/11",
       "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
       "publishedAt": "2026-10-11T13:50:41.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
-      "title": "郑钦文成为中网首位本土女单冠军",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
-      "publishedAt": "2026-10-11T13:29:28.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
-      "title": "广州天气晴好 游客登鸿鹄楼观景",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
-      "publishedAt": "2026-10-11T13:24:00.000Z"
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
-      "title": "王沪宁会见越南国会主席陈青敏",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
-      "publishedAt": "2026-10-11T13:16:26.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
-      "title": "云南40名选手以“路”为核心 讲述铸牢中华民族共同体意识故事",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
-      "publishedAt": "2026-10-11T13:08:25.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
-      "title": "新疆新星市举办奇石文化旅游活动",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
-      "publishedAt": "2026-10-11T13:01:49.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
-      "title": "2026年河北省赛事资源策划运营对接洽谈会举行",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
-      "publishedAt": "2026-10-11T12:58:25.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
-      "title": "（机遇香港）全球电竞市场升温 香港搭台对接全球买家觅商机",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
-      "publishedAt": "2026-10-11T12:58:15.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
-      "title": "马来西亚中总：新时代华商可以成为区域连接者",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
-      "publishedAt": "2026-10-11T12:57:27.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
-      "title": "《苍穹之剑——纪念无名英雄蔡威百幅画卷》在福建宁德首展",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
-      "publishedAt": "2026-10-11T12:57:19.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711125.shtml",
-      "title": "全球数百名航空代表走进广州永庆坊 领略广府文化魅力",
-      "meta": "中国新闻网 · 2026/10/11",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711125.shtml",
-      "publishedAt": "2026-10-11T12:57:13.000Z"
     }
   ],
-  "updatedAt": "2026-10-11T18:54:50.518Z",
+  "updatedAt": "2026-10-11T23:39:53.871Z",
   "provider": "OneBench 公共资讯快照"
 }
