@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad#0",
+      "title": "台北選戰掀美沙冬爭議 香港逾半世紀戒毒經驗有何啟示？",
+      "meta": "BBC 中文 · 2026/10/11",
+      "url": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T01:12:43.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad#0",
+      "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
+      "meta": "BBC 中文 · 2026/10/11",
+      "url": "https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T00:41:33.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crkg7xppy4zwo/trad#0",
       "title": "新冠疫情時期武漢市長周先旺受賄罪判囚14年",
       "meta": "BBC 中文 · 2026/10/10",
@@ -33,13 +47,6 @@
       "publishedAt": "2026-10-10T05:01:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad#0",
-      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
-      "meta": "BBC 中文 · 2026/10/9",
-      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T20:33:46.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad#1",
       "title": "法國學生示威：憤怒背後隱藏著什麼？",
       "meta": "BBC 中文 · 2026/10/9",
@@ -61,18 +68,11 @@
       "publishedAt": "2026-10-09T04:39:43.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#1",
       "title": "老撾的班根軍用機場 中國能用來做甚麼？",
       "meta": "BBC 中文 · 2026/10/9",
       "url": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-09T00:18:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad#1",
-      "title": "「那揮之不去的恐懼」：「宿醉焦慮」真的存在嗎？",
-      "meta": "BBC 中文 · 2026/10/9",
-      "url": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T00:18:12.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-10T23:33:48.455Z",
+  "updatedAt": "2026-10-11T05:46:50.854Z",
   "provider": "OneBench 公共资讯快照"
 }
