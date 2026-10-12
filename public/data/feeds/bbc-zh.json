@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad#0",
+      "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
+      "meta": "BBC 中文 · 2026/10/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T11:06:34.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm70pwyl0qxwo/trad#0",
+      "title": "貝安德：十年前英國脫歐公投俄羅斯「顯然」曾搞局",
+      "meta": "BBC 中文 · 2026/10/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cm70pwyl0qxwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T09:15:16.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1d4p2k2no/trad#0",
       "title": "特朗普計劃從俄羅斯進口柴油 反對聲浪趨漲",
       "meta": "BBC 中文 · 2026/10/12",
@@ -12,8 +26,8 @@
       "publishedAt": "2026-10-12T05:38:13.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad#0",
-      "title": "走進印度新一輪Z世代主導的「蟑螂」抗議——圖輯",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad#1",
+      "title": "走進印度新一輪Z世代主導的「蟑螂」抗議",
       "meta": "BBC 中文 · 2026/10/12",
       "url": "https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-12T04:29:00.000Z"
@@ -33,13 +47,6 @@
       "publishedAt": "2026-10-12T00:08:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad#1",
-      "title": "澤連斯基譴責美俄柴油交易，特朗普稱「烏克蘭該換總統了」",
-      "meta": "BBC 中文 · 2026/10/11",
-      "url": "https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T07:08:18.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/trad#1",
       "title": "種族歧視風波爆發時，與Lisa共處一室是什麼感受？",
       "meta": "BBC 中文 · 2026/10/11",
@@ -54,7 +61,7 @@
       "publishedAt": "2026-10-11T06:21:28.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad#1",
       "title": "台北選戰掀美沙冬爭議 香港逾半世紀戒毒經驗有何啟示？",
       "meta": "BBC 中文 · 2026/10/11",
       "url": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +103,7 @@
       "publishedAt": "2026-10-10T05:01:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#5",
       "title": "老撾的班根軍用機場 中國能用來做甚麼？",
       "meta": "BBC 中文 · 2026/10/9",
       "url": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
@@ -150,13 +157,6 @@
       "meta": "BBC 中文 · 2026/10/5",
       "url": "https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-05T10:15:06.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad#5",
-      "title": "印度如何陷入對中國進口商品的危險依賴？",
-      "meta": "BBC 中文 · 2026/10/5",
-      "url": "https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T06:15:56.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-12T05:58:28.813Z",
+  "updatedAt": "2026-10-12T15:26:04.593Z",
   "provider": "OneBench 公共资讯快照"
 }

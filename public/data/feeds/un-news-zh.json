@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142984",
+      "title": "开发署：全球多维贫困自2010年以来首次上升",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142984",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142983",
+      "title": "世卫组织大流行病中心设定目标：24小时内发现新发疫情",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142983",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142982",
       "title": "吉布提近海发生严重沉船事故：139人遇难",
       "meta": "联合国新闻 · 2026/10/11",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/7",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142954",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142953",
-      "title": "世卫组织总干事：正密切关注俄实验室工作人员死于重症肺炎事件",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142953",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142952",
-      "title": "国际移民组织：偷渡者将儿童作为猎物，2025年逾2万儿童独自抵达欧洲",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142952",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-12T05:58:28.813Z",
+  "updatedAt": "2026-10-12T15:26:04.593Z",
   "provider": "OneBench 公共资讯快照"
 }
