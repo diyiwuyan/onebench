@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T23:39:53.871Z",
-  "expiresAt": "2026-10-12T05:39:53.871Z",
+  "generatedAt": "2026-10-12T05:58:28.813Z",
+  "expiresAt": "2026-10-12T11:58:28.813Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -16,9 +16,8 @@
     },
     {
       "id": "un-news-zh",
-      "ok": false,
-      "itemCount": 0,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "itemCount": 30
     },
     {
       "id": "who-zh",
@@ -33,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
-      "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711966.shtml",
+      "title": "乘联分会：9月新能源乘用车厂商出口55.8万辆，同比增长163.5%",
       "category": "综合",
-      "summary": "最近，网上出现了一张通体金色的所谓“社保卡金卡”。有发布者声称，办理这种“金卡”，不仅能提高医保报销待遇，还能领取养老补贴、享受免费文旅福利。甚至有人冒充人社部门工作人员，以“办理金卡”“发放补贴”为名，索取个人信息、诱导转账。",
+      "summary": "中新网10月12日电 据“乘联分会”微信公众号消息，9月新能源乘用车出口55.8万辆，同比增长163.5%，环比增长7.7%。占乘用车出口60.8%，较去年同期增长21个百分点；其中纯电动占新能源出口的60.5%(去年同期66.2%)，作为核心焦点的A00+A0级纯电动车占纯电动出口的57.9%(去年同期49%)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
-      "publishedAt": "2026-10-11T23:33:56.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711966.shtml",
+      "publishedAt": "2026-10-12T05:51:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -51,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
-      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-12/10711965.shtml",
+      "title": "同心共筑田园梦！济南这片闲置大棚的“数智”蝶变",
       "category": "综合",
-      "summary": "打卡跟练、拍照识热量、大数据定制食谱……AI成职场人“减重搭子”",
+      "summary": "商河县许商街道羊角岭村的芦笋产业园里，大型联栋温室大棚整齐铺展在田野间，棚内一行行芦笋青翠挺拔、长势正旺，行间银色隧道式吊笼里土鸡悠闲踱步；棚外，智能水肥、气肥、堆肥三大系统静默运转，87亩园区的日常运维仅靠4名工作人员即可完成。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
-      "publishedAt": "2026-10-11T23:30:28.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711965.shtml",
+      "publishedAt": "2026-10-12T05:49:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -69,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
-      "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/10-12/10711955.shtml",
+      "title": "东西问丨为什么国际政坛的“中国履历”越来越常见？",
       "category": "综合",
-      "summary": "没有味蕾却大谈“好吃”、没有皮肤却力荐“舒适”",
+      "summary": "中新网北京10月12日电 题：为什么国际政坛的“中国履历”越来越常见？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
-      "publishedAt": "2026-10-11T23:27:29.000Z",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-12/10711955.shtml",
+      "publishedAt": "2026-10-12T05:47:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -87,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
-      "title": "10月12日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711967.shtml",
+      "title": "海口海关技术中心2026年海关仪器设备购置及能力保障专项设备采购项目比选公告",
       "category": "综合",
-      "summary": "",
+      "summary": "一、采购条件",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
-      "publishedAt": "2026-10-11T22:59:42.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711967.shtml",
+      "publishedAt": "2026-10-12T05:46:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -105,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
-      "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711962.shtml",
+      "title": "乘联分会：9月乘用车出口91.7万辆，同比增长73.7%",
       "category": "综合",
-      "summary": "中新网10月12日电 据伊朗媒体报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日在接受伊朗新闻电视台采访时表示，美国方面已就伊朗为结束战争并开放霍尔木兹海峡而提出的七项条件做出了回应，但德黑兰方面认为，美方的回应“不够充分”。",
+      "summary": "中新网10月12日电 10月12日，据“乘联分会”微信公众号消息，根据乘联数据，9月乘用车出口(含整车与CKD)91.7万辆，同比增长73.7%，环比增长3.2%，占乘用车厂商销量36%(上月38%，2025年同期19%)。9月新能源车占出口总量的60.8%，较同期大幅增加21个百分点。9月自主品牌出口达到81.2万辆，同比增长75%；合资与豪华品牌出口10",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
-      "publishedAt": "2026-10-11T22:54:58.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711962.shtml",
+      "publishedAt": "2026-10-12T05:45:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -123,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
-      "title": "连接深港两地 新皇岗口岸正式开通运行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-12/10711953.shtml",
+      "title": "云岭动态第十六期",
       "category": "综合",
-      "summary": "10月12日6时30分，重建后的皇岗口岸正式开通，实施“一地两检”安排及“合作查验、一次放行”全新通关模式，旅客出入境更加便利。",
+      "summary": "1.10月11日，昭通市鲁甸县回族、彝族、苗族、布依族学会换届会议召开，会议旨在进一步夯实民族团结进步创建工作根基，规范民族社会团体建设管理，充分发挥民族学会桥梁纽带作用。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
-      "publishedAt": "2026-10-11T22:48:39.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711953.shtml",
+      "publishedAt": "2026-10-12T05:45:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -141,20 +140,520 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
-      "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711963.shtml",
+      "title": "海口海关2026年网络安全设备采购项目意向",
       "category": "综合",
-      "summary": "北京时间10月11日，2026中网女单决赛，郑钦文2-0战胜安德列娃，收获了自己首个中网女单冠军，也是首个1000赛冠军头衔。同时，也创下了中网的历史：首个本土球员夺得女单冠军！",
+      "summary": "为便于供应商及时了解政府采购信息，根据《财政部关于开展政府采购意向公开工作的通知》(财库〔2020〕10号)等有关规定，现将海口海关2026年网络设备采购项目采购意向公开如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
-      "publishedAt": "2026-10-11T22:46:19.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711963.shtml",
+      "publishedAt": "2026-10-12T05:43:42.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711960.shtml",
+      "title": "新规落地，人工客服为何依旧难寻",
+      "category": "综合",
+      "summary": "新规落地，人工客服为何依旧难寻",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711960.shtml",
+      "publishedAt": "2026-10-12T05:40:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1d4p2k2no/trad#0",
+      "title": "特朗普計劃從俄羅斯進口柴油 反對聲浪趨漲",
+      "category": "国际",
+      "summary": "該協議在美國中期選舉前幾週宣布，共和黨和民主黨議員都提出了批評。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1d4p2k2no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T05:38:13.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711959.shtml",
+      "title": "冈比亚的“疟疾战争”",
+      "category": "综合",
+      "summary": "中国新闻周刊记者：曹然",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711959.shtml",
+      "publishedAt": "2026-10-12T05:37:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711957.shtml",
+      "title": "“辛酸”跨过削球关 王曼昱中国大满贯赛“双冠”加身",
+      "category": "综合",
+      "summary": "中新网北京10月12日电 题：“辛酸”跨过削球关 王曼昱中国大满贯赛“双冠”加身",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711957.shtml",
+      "publishedAt": "2026-10-12T05:34:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711958.shtml",
+      "title": "昆明海关关于2026年10月“关长接待日”的通知",
+      "category": "综合",
+      "summary": "各进出口企业、广大人民群众：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711958.shtml",
+      "publishedAt": "2026-10-12T05:32:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711939.shtml",
+      "title": "沙特首都国际机场再遭袭 已致1死11伤",
+      "category": "综合",
+      "summary": "中新社北京10月12日电 综合消息：沙特阿拉伯民航总局当地时间12日发表声明称，位于沙特首都利雅得的哈立德国王国际机场11日遭遇袭击，造成一名巴基斯坦人死亡，另有11人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711939.shtml",
+      "publishedAt": "2026-10-12T05:26:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711956.shtml",
+      "title": "晚年托付给谁？老人可提前指定监护人 自己说了算",
+      "category": "综合",
+      "summary": "目前，我国60岁以上人口超3.2亿、失能老人约3500万。有些事情“无人托付”成为一些老人面临的现实问题，比如手术由谁签字、日常由谁照料、财产如何处置。《民法典》第三十三条规定，具备完全民事行为能力的成年人，可以事先以书面形式选定自己的监护人，且意定监护优先于法定监护。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711956.shtml",
+      "publishedAt": "2026-10-12T05:24:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711946.shtml",
+      "title": "北京警方：对宜信相关公司立案侦查，对实控人等采取刑事强制措施",
+      "category": "综合",
+      "summary": "中新网10月12日电 据“平安北京朝阳”微信公众号消息，近期，北京市公安局朝阳分局依法对宜信相关公司涉嫌违法犯罪立案侦查。目前，实际控制人唐某(男，53岁)、赵某(女，51岁)等多名犯罪嫌疑人已被依法采取刑事强制措施。为全面查清案情、全力追赃挽损，请投资人通过以下方式进行报案登记：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711946.shtml",
+      "publishedAt": "2026-10-12T05:21:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711954.shtml",
+      "title": "商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问",
+      "category": "综合",
+      "summary": "中新网10月12日电 据商务部网站消息，商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711954.shtml",
+      "publishedAt": "2026-10-12T05:19:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711952.shtml",
+      "title": "重庆海关2026年进口牙刷及口腔器具、进口液体加热器风险监测服务项目中标公告",
+      "category": "综合",
+      "summary": "1、项目名称：重庆海关2026年进口牙刷及口腔器具、进口液体加热器风险监测服务项目",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711952.shtml",
+      "publishedAt": "2026-10-12T05:18:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-12/10711951.shtml",
+      "title": "海洋经济持续提速，270多家企业，集体招人！这类人才急缺→",
+      "category": "综合",
+      "summary": "270多家企业，集体招人！这类人才，急缺→",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711951.shtml",
+      "publishedAt": "2026-10-12T05:17:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-12/10711945.shtml",
+      "title": "不是所有蔬菜都控糖！研究：有的蔬菜吃多了，糖尿病风险反升11%",
+      "category": "综合",
+      "summary": "不是所有蔬菜都控糖！研究：这类蔬菜吃多了，糖尿病风险反升11%",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-12/10711945.shtml",
+      "publishedAt": "2026-10-12T05:11:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711944.shtml",
+      "title": "重庆加快建设国际航空枢纽——前八个月进出口增速居全国主要航空口岸首位",
+      "category": "综合",
+      "summary": "今年以来，重庆国际航空枢纽建设进程加快。前8个月，重庆海关所属重庆江北机场海关保障重庆航空口岸近21万吨进出口货物通关，同比增长1.2倍，增速居全国主要航空口岸首位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711944.shtml",
+      "publishedAt": "2026-10-12T05:11:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-12/10711941.shtml",
+      "title": "小学生布置多少作业最好？广东这份作业“体检”报告出炉",
+      "category": "综合",
+      "summary": "广东5万小学生作业“体检”报告出炉：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711941.shtml",
+      "publishedAt": "2026-10-12T05:03:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10711940.shtml",
+      "title": "四川大熊猫种群稳步恢复 伞护效应逐步显现",
+      "category": "综合",
+      "summary": "中新社成都10月12日电 (单鹏)四川省林业和草原局副局长、大熊猫国家公园四川管理局局长周古鹏12日在成都表示，五年来四川持续开展大熊猫、雪豹、川金丝猴等珍稀野生动物及其栖息地专项调查，从调查结果看，大熊猫国家公园生态保护成效显著，栖息地质量持续改善，生物多样性稳步提升。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711940.shtml",
+      "publishedAt": "2026-10-12T04:54:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711938.shtml",
+      "title": "广州新沙港铁海联运汽车出口前三季同比增近两倍",
+      "category": "综合",
+      "summary": "中新社广州10月12日电 (记者 方伟彬)记者12日从广州边检总站获悉，今年前三季度，广州港新沙港区经铁路集港出口国产商品车达7.2万余辆，同比增长190%，占该港汽车出口总量近五成；同期出口总量突破16万辆。铁海联运已成为国产汽车经新沙港出海的核心通道。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711938.shtml",
+      "publishedAt": "2026-10-12T04:53:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711937.shtml",
+      "title": "郑钦文谈“低谷期”：这不一定是坏事，总有回来的时候",
+      "category": "综合",
+      "summary": "郑钦文：我以为低谷期是一两个月，但没想到持续了差不多半年；这不一定是坏事，总有回来的时候",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711937.shtml",
+      "publishedAt": "2026-10-12T04:30:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad#0",
+      "title": "走進印度新一輪Z世代主導的「蟑螂」抗議——圖輯",
+      "category": "国际",
+      "summary": "印度「蟑螂人民黨」再次發起抗議，要求該國最高選舉官員辭職，數千名抗議者被拘留。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T04:29:00.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10711910.shtml",
+      "title": "李强将出席第140届广交会开幕式及相关活动",
+      "category": "综合",
+      "summary": "中新社北京10月12日电 中国商务部新闻发言人何亚东12日宣布：第140届广交会将于2026年10月15日至11月4日在广州举办。国务院总理李强将出席开幕式及相关活动并作主旨演讲。(完)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711910.shtml",
+      "publishedAt": "2026-10-12T04:26:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
+      "title": "中方对巴拉圭通信和技术部长比利亚特采取反制措施",
+      "category": "综合",
+      "summary": "中新社北京10月12日电 中国外交部12日公布关于对巴拉圭通信和技术部长比利亚特采取反制措施的决定。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
+      "publishedAt": "2026-10-12T04:25:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10711936.shtml",
+      "title": "中央政法委有关负责同志解读《关于依法从严查处危害食品安全违法犯罪的意见》",
+      "category": "综合",
+      "summary": "中新网10月12日电 据中央政法委网站消息，近日，中央政法委印发《关于依法从严查处危害食品安全违法犯罪的意见》。为何出台意见？如何抓好意见贯彻落实？中央政法委有关负责同志12日进行了解读。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711936.shtml",
+      "publishedAt": "2026-10-12T04:21:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10711909.shtml",
+      "title": "（经济观察）第二十六届工博会：机器人技多不压身，“智”造业东风吹更劲",
+      "category": "综合",
+      "summary": "中新社上海10月12日电 (记者 郑莹莹)以“智能经济 智造无界”为主题的第二十六届中国国际工业博览会(简称“工博会”)于10月12日至16日在上海举办，来自24个国家和地区的3200多家参展商参展，展览面积达31万平方米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711909.shtml",
+      "publishedAt": "2026-10-12T04:21:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711926.shtml",
+      "title": "万名跑者参与角逐海淀马拉松 9人刷新赛事纪录",
+      "category": "综合",
+      "summary": "中新网北京10月12日电 10月11日清晨，晨光洒满北京中关村壹号，“海马蓝”参赛服汇成一片跃动的海洋。7时30分，发令枪响，万名跑者从科技创新高地出发，踏上海淀马拉松这条串联科技、文化与生态的42.195公里特色赛道。主办方表示，赛事以“奔跑海淀，向新出发”为主题，旨在推动文商旅体展深度融合。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711926.shtml",
+      "publishedAt": "2026-10-12T04:11:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10711927.shtml",
+      "title": "事关肉制品、校园食品，中央政法委发文！这些行为将被从严查处",
+      "category": "综合",
+      "summary": "当前我国食品安全形势持续稳中向好，同时也出现了一些新情况、新问题，特别是近期发生的“甲醛白菜”“敌敌畏消杀”“药水杨梅”等严重冲击食品安全底线事件，引发社会广泛关注。为确保广大人民群众“舌尖上的安全”，近日，中央政法委印发《关于依法从严查处危害食品安全违法犯罪的意见》，对政法机关依法从严查处危害食品安全违法犯罪提出要求。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711927.shtml",
+      "publishedAt": "2026-10-12T04:02:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10711907.shtml",
+      "title": "中方决定对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施",
+      "category": "综合",
+      "summary": "中新社北京10月12日电 中国外交部12日公布关于对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施的决定。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711907.shtml",
+      "publishedAt": "2026-10-12T03:58:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/114821",
+      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+      "category": "科技",
+      "summary": "来看看一种消失已久的笔记本。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114821",
+      "publishedAt": "2026-10-12T03:20:18.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad#0",
+      "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
+      "category": "国际",
+      "summary": "五角大廈表示，胡德堡槍擊案槍手納達爾·馬里克·哈桑（Nidal Malik Hasan）的處決將進行直播，但專家認為，官員可能誤判了美國民意。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T00:08:36.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad#0",
+      "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
+      "category": "国际",
+      "summary": "陷入困境的軍政府正與各民族武裝組織及平民抵抗力量展開一場消耗戰。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T00:08:15.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -177,421 +676,25 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
-      "title": "伊朗称美国已接受伊方所提部分条件",
-      "category": "综合",
-      "summary": "新华社德黑兰10月11日电(记者沙达提)伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
-      "publishedAt": "2026-10-11T22:28:20.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142982",
+      "title": "吉布提近海发生严重沉船事故：139人遇难",
+      "category": "国际",
+      "summary": "国际移民组织周日表示，一艘载有305人的船在吉布提近海翻沉，造成至少139名移民遇难，另有84余人仍下落不明。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142982",
+      "publishedAt": "2026-10-11T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
-      "title": "苏丹北部矿区遇袭 已致72人死亡",
-      "category": "综合",
-      "summary": "当地时间10月11日，苏丹一个民间组织发表声明称，苏丹北部靠近埃及边境的北瓦迪地区一处金矿矿区10日遭遇大规模空袭，造成72名矿工死亡。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
-      "publishedAt": "2026-10-11T21:57:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
-      "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
-      "category": "综合",
-      "summary": "当地时间10月11日晚，沙特阿拉伯民航总局发布声明称，沙特东部城市达曼的法赫德国王国际机场当天晚间遭到袭击。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
-      "publishedAt": "2026-10-11T21:52:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
-      "title": "郑钦文创造历史 首夺中网女单冠军",
-      "category": "综合",
-      "summary": "中新社北京10月12日电(记者 国璇)2026中国网球公开赛女单决赛11日在北京举行。中国选手郑钦文以7:5、6:4击败今年法网冠军、俄罗斯新星安德烈耶娃，职业生涯首次夺得女子网球选手协会(WTA)1000赛冠军，成为中网历史上首位夺得女单冠军的本土球员。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
-      "publishedAt": "2026-10-11T17:03:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
-      "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
-      "category": "综合",
-      "summary": "国际移民组织11日表示，一艘载有350人的移民船在吉布提沿海倾覆，造成至少139人死亡，另有84人失踪。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
-      "publishedAt": "2026-10-11T16:29:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
-      "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
-      "category": "综合",
-      "summary": "2026年是中国工农红军长征胜利90周年。肯尼亚“首都调频”网站10月10日刊文称，今天的中国拥有现代化的城市和规模庞大的消费市场，但人们很容易忽略，走到这一步的道路有多么漫长和艰难。这正是长征精神的意义所在，这种精神是“值得非洲探讨的国家发展理念”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
-      "publishedAt": "2026-10-11T16:13:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
-      "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
-      "category": "综合",
-      "summary": "中新社曼谷10月11日电 (梁峻祥 李映民)2026年国际货币基金组织(IMF)和世界银行集团年会将于10月12日至18日在泰国曼谷举行。随着会议临近，泰国政府进一步加强安保、交通、防洪及城市运行等保障工作，以确保会议顺利举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
-      "publishedAt": "2026-10-11T15:56:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
-      "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
-      "category": "综合",
-      "summary": "中新社北京10月11日电 (刘梦青)2026赛季中超联赛第27轮比赛11日全部战罢。积分榜榜首成都蓉城此役0:1遭天津津门虎补时绝杀，位列次席的大连英博4:0完胜青岛西海岸。在联赛仅剩3轮的情况下，两队分差保持在9分，联赛争冠悬念继续。青岛海牛本轮0:3不敌北京国安，成为本赛季首支降级球队。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
-      "publishedAt": "2026-10-11T15:54:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
-      "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
-      "category": "综合",
-      "summary": "中新社北京10月11日电 (吴昕妮)波黑前部长会议主席兹拉特科·拉古姆季亚(Zlatko Lagumdzija)11日在北京表示，当前，外界普遍关注中国的发展奇迹。但最让他印象深刻的是，在快速变化的世界中，中国所展现出的长期主义思维。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
-      "publishedAt": "2026-10-11T15:52:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
-      "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
-      "category": "综合",
-      "summary": "中新社长沙10月11日电 (记者 唐小晴)“袁稻思源”杂交水稻智能育种平台11日在长沙正式上线。这意味着湖南杂交水稻育种告别传统经验模式，迈入数据驱动、智能决策的全新发展阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
-      "publishedAt": "2026-10-11T15:46:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
-      "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
-      "category": "综合",
-      "summary": "中新社北京10月11日电 (刘梦青)澳大利亚前总理陆克文11日在北京表示，亚太地区各成员尽管存在差异与竞争，仍要管控分歧、拓展合作，共建平等开放的亚太共同体。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
-      "publishedAt": "2026-10-11T15:41:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
-      "title": "中国·敦煌国际武术公开赛开幕 20余国选手“以武会友”",
-      "category": "综合",
-      "summary": "中新社兰州10月11日电 (记者 冯志军)以“文脉敦煌·武动世界”为主题的首届中国·敦煌国际武术公开赛11日晚在甘肃敦煌市开幕，赛事吸引来自中国、俄罗斯、美国、比利时、荷兰、印度、越南、柬埔寨、印度尼西亚、哈萨克斯坦、马来西亚等20余个国家140余支代表队的2000余名运动员同台竞技。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
-      "publishedAt": "2026-10-11T15:37:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
-      "title": "泰国前外长：乐见中方调停斡旋泰柬边境冲突",
-      "category": "综合",
-      "summary": "中新社深圳10月11日电 (记者 郭超凯)由中国外交学院主办的第三次中柬泰二轨对话会11日在深圳举行。泰国前外长甲西·披龙耶在参会期间接受中新社记者采访时表示，乐见中方调停斡旋泰柬边境冲突，泰柬须尊重中国对两国释放的善意。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
-      "publishedAt": "2026-10-11T15:31:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711144.shtml",
-      "title": "WTT中国大满贯赛：王曼昱女单卫冕 国乒两冠收官",
-      "category": "综合",
-      "summary": "中新社北京10月11日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛11日迎来收官。中国女单名将王曼昱以大比分4:0战胜日本选手佐藤瞳，成功卫冕。日本选手松岛辉空获得男单冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711144.shtml",
-      "publishedAt": "2026-10-11T15:30:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
-      "title": "沙特主导联军称利雅得机场航站楼遭袭",
-      "category": "综合",
-      "summary": "当地时间10月11日，沙特阿拉伯主导的多国联军发言人图尔基·马利基发布消息称，一枚不明投射物袭击了沙特首都利雅得哈立德国王国际机场4号旅客航站楼，袭击引发火灾，目前相关地点正由主管部门处置。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
-      "publishedAt": "2026-10-11T15:17:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
-      "title": "2026上海网球大师赛：周意惜败胡尔卡奇 中国单打选手全部出局",
-      "category": "综合",
-      "summary": "中新社上海10月11日电 (记者 缪璐)2026上海网球大师赛11日在上海旗忠网球中心进行单打32进16的较量。持外卡参赛的中国小将周意以大比分1:2惜败荷兰名将赫伯特·胡尔卡奇，无缘16强。至此，出战本届上海网球大师赛的中国球员在单打赛场全部出局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
-      "publishedAt": "2026-10-11T15:13:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-11/10711142.shtml",
-      "title": "第三次中柬泰二轨对话会举行 推动落实抚仙会晤共识",
-      "category": "综合",
-      "summary": "中新社深圳10月11日电 (记者 郭超凯)由中国外交学院主办的“落实抚仙会晤共识 夯实持久和平根基”第三次中柬泰二轨对话会11日在深圳举行。来自中国、柬埔寨、泰国三国的智库学者、社会组织和人道机构代表以及高校青年学子等近百人参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711142.shtml",
-      "publishedAt": "2026-10-11T15:12:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711141.shtml",
-      "title": "长春书写生态“立体答卷”：虎豹归林 笑语满河",
-      "category": "综合",
-      "summary": "中新社长春10月11日电 题：长春书写生态“立体答卷”：虎豹归林 笑语满河",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711141.shtml",
-      "publishedAt": "2026-10-11T15:11:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
-      "title": "（文化新纪行）从一座古城读懂千年吴越",
-      "category": "综合",
-      "summary": "中新社杭州10月11日电 题：从一座古城读懂千年吴越",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
-      "publishedAt": "2026-10-11T15:10:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
-      "title": "音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
-      "category": "综合",
-      "summary": "中新网重庆10月11日电 题：音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
-      "publishedAt": "2026-10-11T14:33:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
-      "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
-      "category": "综合",
-      "summary": "中新网北京10月11日电(记者 岳川)在11日结束的2026中国网球公开赛女单决赛中，中国选手郑钦文以2比0击败赛会4号种子米拉·安德列娃，生涯首夺WTA1000级别赛事冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
-      "publishedAt": "2026-10-11T14:29:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
-      "title": "“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
-      "category": "综合",
-      "summary": "中新网南京10月11日电 题：“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
-      "publishedAt": "2026-10-11T13:59:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
-      "title": "东西问丨专访陆克文：我不认为自己是“中国通”",
-      "category": "综合",
-      "summary": "中新社北京10月11日电 题：专访陆克文：我不认为自己是“中国通”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
-      "publishedAt": "2026-10-11T13:50:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad#1",
       "title": "澤連斯基譴責美俄柴油交易，特朗普稱「烏克蘭該換總統了」",
       "category": "国际",
       "summary": "烏克蘭領導人曾表示，與俄羅斯達成向美國輸送柴油的協議將有助於莫斯科為戰爭籌集資金。",
@@ -626,8 +729,8 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/trad#0",
-      "title": "種族歧視風波爆發時，與Blackpink成員Lisa共處一室是什麼感受？",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/trad#1",
+      "title": "種族歧視風波爆發時，與Lisa共處一室是什麼感受？",
       "category": "国际",
       "summary": "紀錄片導演蘇·金談到，她如何以前所未有的近距離接觸K-pop偶像Lisa，見證其最坦率真實的一面。",
       "source": "BBC 中文",
@@ -643,7 +746,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm0rlz8jvje5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm0rlz8jvje5o/trad#1",
       "title": "BBC報道印尼校長涉嫌性侵學生後 該校長被警方拘捕",
       "category": "国际",
       "summary": "前學生自行展開調查，多年來持續蒐集證據，以及其他表示曾遭校長侵害者的證詞。",
@@ -677,7 +780,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad#1",
       "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
       "category": "国际",
       "summary": "如果你表面上看起來很快樂，內心卻飽受煎熬，你可能患有非典型抑鬱症。然而，隱藏真實感受可能對心理健康造成傷害。",
@@ -711,6 +814,60 @@
       "hot": false
     },
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142981",
+      "title": "秘书长强烈谴责胡塞武装袭击利雅得机场致12人死亡数百人受伤",
+      "category": "国际",
+      "summary": "秘书长古特雷斯周六晚就沙特阿拉伯首都利雅得遭袭事件发表声明。他对这次针对平民和民用基础设施的致命袭击表示“深感震惊”，并予以“强烈谴责”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142981",
+      "publishedAt": "2026-10-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142980",
+      "title": "联合国人权高专办关注印度德里抗议期间发生大规模拘留事件",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员办事处周六对印度首都新德里大规模抗议活动前后发生的拘留行动表示关切，呼吁印度当局充分保障和平集会权利，立即释放所有遭任意拘留人员。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142980",
+      "publishedAt": "2026-10-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142979",
+      "title": "【子午播报】2026年10月10日",
+      "category": "国际",
+      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，前联合国人权高专皮莱获诺贝尔和平奖；世卫组织敦促俄罗斯就疑似肺鼠疫事件提供更多信息；子午聚焦：从赛场到联合国，郑钦文的联合国妇女署总部之行。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142979",
+      "publishedAt": "2026-10-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad#1",
       "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
       "category": "国际",
@@ -728,7 +885,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad#4",
       "title": "這位丈夫15年來潛水760次，就為了「靠近」海嘯失蹤的妻子",
       "category": "国际",
       "summary": "2011年日本海嘯期間，高松康雄的妻子祐子被巨浪捲走，遺體至今仍未尋獲。兩年後，他開始學習潛水，此後一直堅持每月兩次潛入大海，以這種方式懷念妻子，延續對她的愛，並感受與她之間的聯繫。",
@@ -776,6 +933,132 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142977",
+      "title": "【世界进行时】2026年10月9日",
+      "category": "国际",
+      "summary": "本期要点：前联合国人权高专皮莱荣获诺贝尔和平奖；美国制裁国际刑事法院 联合国呼吁维护司法独立；也门战事升级，乌克兰平民伤亡增加；联合国关注加沙妇女和女孩伤亡、儿童移民风险以及公共卫生威胁；全球经济增长放缓，债务成本持续挤压发展空间。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142977",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142976",
+      "title": "联合国警告乌克兰袭击升级 平民伤亡增加",
+      "category": "国际",
+      "summary": "联合国负责政治事务的助理秘书长希阿里周五在向安理会通报乌克兰局势时表示，自9月23日上次通报以来，俄罗斯对乌克兰的袭击达到新的高度。本周，乌克兰各地已有100多名平民死亡，至少429人受伤。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142976",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142975",
+      "title": "古特雷斯谴责美国对国际刑事法院实施制裁 呼吁维护国际司法独立",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周五通过发言人发表声明，谴责美国宣布对国际刑事法院这一机构实施制裁，指出这一决定对国际刑事正义构成严重打击，并对国际刑事法院继续履行重要职责的能力可能受到的影响深感震惊。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142975",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142974",
+      "title": "人权高专办：以色列持续在叙利亚南部开展军事行动 使平民受到伤害",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周五通过发言人表示，以色列军事行动持续影响叙利亚南部平民，对此表示关切。仅在9月，通过公开来源监测就记录了约280起以色列武装力量进入叙利亚的事件，为今年以来单月最高纪录。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142974",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142973",
+      "title": "难民署呼吁增加资金 应对萨赫勒中部地区流离失所危机",
+      "category": "国际",
+      "summary": "联合国难民署周五表示，布基纳法索、马里和尼日尔目前有近400万人流离失所，其中包括超过81.8万名难民和寻求庇护者。与2020年10月相比，难民和寻求庇护者人数已增加一倍。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142973",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142971",
+      "title": "联合国警告也门冲突升级 人道主义危机加剧",
+      "category": "国际",
+      "summary": "联合国秘书长也门问题特使格伦德贝里和主管人道主义事务助理秘书长兼紧急救济副协调员亚希亚周五向安理会通报也门局势时警告，也门战事再次蔓延至多条战线，人道主义危机急剧恶化，呼吁各方保护平民、确保人道主义援助畅通无阻，并推动通过政治进程解决冲突。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142971",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142972",
+      "title": "贸发会议：2026年全球经济增长预计放缓至2.6%",
+      "category": "国际",
+      "summary": "联合国贸易和发展会议周五在日内瓦发布的《2026年贸易和发展报告：发展的地缘经济学》预计，2026年全球经济增长率为2.6%，低于去年的2.9%，尽管按不变价格计算，货物和服务贸易预计将增长约4%。发展中经济体今年预计增长4%，低于2025年的4.7%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142972",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -866,23 +1149,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad#1",
-      "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
-      "category": "国际",
-      "summary": "美國國防部長赫格塞斯表示，這場處決將公開進行，但一名法律專家指出，這項「前所未有」的決定處於「法律基礎不明確的領域」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T04:39:43.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1171,25 +1437,7 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/115209",
-      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
-      "category": "科技",
-      "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/115209",
-      "publishedAt": "2026-10-08T06:42:14.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad#4",
       "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
       "category": "国际",
       "summary": "楊双子在慕尼克的座談會遇上翻譯連番失誤，且傳出中國領館曾要求取消活動之說，但德國主辦方對BBC中文予以否認。",
@@ -1206,7 +1454,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad#4",
       "title": "美國中期選舉是甚麼？這是一份簡易指南",
       "category": "国际",
       "summary": "美國選民將於11月3日前往投票，這場選舉的結果可能對唐納德·特朗普（川普）的總統任期產生重大影響。",
@@ -1367,185 +1615,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142947",
-      "title": "世卫组织：全球5至19岁患有肥胖症儿童和青少年超过1.7亿",
-      "category": "国际",
-      "summary": "世界卫生组织周三发布的一份报告指出，2024年，全球有1.7亿5至19岁儿童和青少年患有肥胖症，其中包括7000万名5至9岁儿童和1亿名10至19岁青少年。自1990年以来，该年龄段的肥胖患病率已翻了两番，从2%上升至8%。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142947",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad#4",
-      "title": "喝多醉才算醉？康奈爾輪姦案指控揭「同意法」漏洞爭議",
-      "category": "国际",
-      "summary": "BBC 訪問多名專家，探討美國各州現行性侵法律，以及為何有人認為修法將有助保障涉嫌性侵案件的受害者。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T09:17:46.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142951",
-      "title": "首届全球热浪论坛开幕 呼吁应对极端高温并增加投资",
-      "category": "国际",
-      "summary": "首届全球热浪论坛周二在泰国曼谷开幕，旨在推动为应对极端高温增加资金投入并加快解决方案实施。近600名科学家、商界领袖、慈善家和卫生专家参加论坛。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142951",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142950",
-      "title": "俄罗斯疑似鼠疫死亡病例正在接受检测和监测",
-      "category": "国际",
-      "summary": "世界卫生组织周二表示，俄罗斯西伯利亚地区一名实验室工作人员的死亡引发了人们对可能出现鼠疫病例的担忧，并补充说该组织正在密切关注事态发展。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142950",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142949",
-      "title": "非洲和平与安全挑战要求加强联合国与非盟伙伴关系",
-      "category": "国际",
-      "summary": "联合国秘书长驻非洲联盟特别代表兼联合国驻非洲联盟办事处主任奥南加-安扬加周二在安理会会议上表示，当前非洲和平与安全挑战的规模和复杂性要求建立更强大的伙伴关系，将共同承诺转化为迅速、可预测且负责任的行动。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142949",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142948",
-      "title": "肯尼亚确诊首例输入性本迪布焦型埃博拉病例",
-      "category": "国际",
-      "summary": "肯尼亚卫生当局10月6日确认该国首例输入性本迪布焦病毒病埃博拉病例。世界卫生组织正与肯尼亚政府合作，加强病例调查、接触者监测和入境筛查等防控措施，防止病毒进一步传播。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142948",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142946",
-      "title": "儿基会：埃博拉夺走儿童所依赖的人",
-      "category": "国际",
-      "summary": "联合国儿童基金会周二表示，刚果民主共和国东部的埃博拉疫情正在夺走儿童所依赖的人，一些儿童自身也死于这种致命疾病。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142946",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142945",
-      "title": "儿基会：近100个国家超过3.47亿儿童面临极端天气威胁",
-      "category": "国际",
-      "summary": "联合国儿童基金会周二表示，2026至2027年厄尔尼诺现象预计将成为有记录以来最强的厄尔尼诺事件之一。异常湿润和干旱状况预计将增加极端天气事件的发生概率，包括严重洪水和严重干旱，威胁近100个国家和地区儿童的生命、健康和教育。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142945",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142944",
-      "title": "访问巴基斯坦 古特雷斯赞扬该国在和平和气候行动中发挥关键作用",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周二访问巴基斯坦，重申联合国与巴基斯坦人民的团结，并赞扬该国在地区和平、维和行动及应对气候危机中发挥的关键作用。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142944",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142937",
-      "title": "世卫组织：受访欧洲年轻人中三分之二经历过童年逆境",
-      "category": "国际",
-      "summary": "世界卫生组织欧洲区域办事处的一项新研究发现，童年逆境经历越多，成年早期的心理健康、生活质量和社会经济状况就越差。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142937",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad#4",
       "title": "美國圖書館為何正迅速下架眾多圖書？",
       "category": "国际",
@@ -1576,59 +1645,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98rzd82m7r1o/trad#4",
-      "title": "蔡康永現身造勢活動遭砲轟 盤點大陸商界「割席台獨」案例",
-      "category": "国际",
-      "summary": "蔡康永現身民進黨沈伯洋造勢活動，事情登上微博熱搜；曾與其合作的大陸汽車企業發表聲明「割蓆」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c98rzd82m7r1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T12:26:26.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142768",
-      "title": "【专题报道】学会求知、做事、做人、共处 ——专访联合国儿童基金会教育专家尧浩根",
-      "category": "国际",
-      "summary": "越来越多的儿童走进学校，但一个更重要的问题正在浮现：孩子上学之后，究竟学会了什么？联合国儿童基金会教育专家尧浩根表示，入学就读并不等同于获得有效学习。 长期参与全球教育工作的尧浩根曾在20多个国家开展教育相关工作。目前，他主要负责教育数据、规划和财政方面的相关工作，并为不同国家开展教育改革、完善教育应对措施提供技术支持。在他看来，全球教育正在经历一个重要变化",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142768",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142943",
-      "title": "人权高专警告：对人工智能实施监管的“时间正在流逝”",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周一警告称，全球可用于为人工智能设立安全护栏的时间已经所剩无几。在企业和国家之间展开的“毫不留情的人工智能竞赛”中，人们越来越担忧人类的安全，甚至人类自身的生存问题。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142943",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -1675,23 +1691,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-05T00:14:01.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad#4",
-      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
-      "category": "国际",
-      "summary": "加拿大總理馬克‧卡尼表示，軍方正在製定應對方案，以防美國入侵加拿大這種不太可能發生的情況。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T11:51:41.000Z",
       "tags": [
         "国际",
         "商业",
