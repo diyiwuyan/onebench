@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142987",
+      "title": "安理会讨论哥伦比亚和平协议执行情况，特别代表呼吁加强国家治理与安全保障",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142987",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142986",
+      "title": "尼泊尔再遭山洪，联合国紧急驰援",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142986",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142985",
+      "title": "“效率是有极限的”：难民高专警告，资金削减正压垮难民保护体系",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142985",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142984",
       "title": "开发署：全球多维贫困自2010年以来首次上升",
       "meta": "联合国新闻 · 2026/10/12",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/10/7",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142957",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142956",
-      "title": "联合国常务副秘书长：必须加快减排并扩大气候融资",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142956",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142955",
-      "title": "粮农组织评估：南半球渔业每年至少导致3万只海鸟遭误捕",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142955",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142954",
-      "title": "世卫组织：关键资金缺口威胁也门卫生应急响应行动",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142954",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-12T15:26:04.593Z",
+  "updatedAt": "2026-10-12T22:59:44.879Z",
   "provider": "OneBench 公共资讯快照"
 }

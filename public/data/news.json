@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:26:04.593Z",
-  "expiresAt": "2026-10-12T21:26:04.593Z",
+  "generatedAt": "2026-10-12T22:59:44.879Z",
+  "expiresAt": "2026-10-13T04:59:44.879Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,294 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-13/10712351.shtml",
+      "title": "10月13日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10712351.shtml",
+      "publishedAt": "2026-10-12T22:48:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712350.shtml",
+      "title": "也门政府军称打死近千名胡塞武装人员",
+      "category": "综合",
+      "summary": "也门政府军发言人马吉德·努扎伊利12日发表声明说，政府军在过去24小时内的军事行动中打死约950名胡塞武装人员。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712350.shtml",
+      "publishedAt": "2026-10-12T22:15:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712349.shtml",
+      "title": "也门胡塞武装称沙特24小时内发动119次袭击",
+      "category": "综合",
+      "summary": "新华社科威特城10月12日电(记者尹炣)萨那消息：也门胡塞武装发言人叶海亚·萨雷亚12日发表声明说，过去24小时内，沙特阿拉伯对也门首都萨那以及焦夫、塔伊兹、萨达、马里卜等省发动119次空袭及导弹打击。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712349.shtml",
+      "publishedAt": "2026-10-12T22:14:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712348.shtml",
+      "title": "西班牙一列高铁起火致线路中断 逾1万名旅客受影响",
+      "category": "综合",
+      "summary": "当地时间10月12日，西班牙一列高铁列车在萨拉戈萨省里克拉与普拉森西亚德哈隆之间行驶时发生火灾，导致马德里至巴塞罗那高铁线路双向中断，超过1.1万名旅客出行受到影响。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712348.shtml",
+      "publishedAt": "2026-10-12T22:12:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml",
+      "title": "尼日利亚军方称打死40余名“疑似恐怖分子”",
+      "category": "综合",
+      "summary": "新华社阿布贾10月12日电(记者洪泽华)尼日利亚军方12日发表声明说，军方10日在该国东北部博尔诺州实施空袭，打死40余名“疑似恐怖分子”和一名极端组织“伊斯兰国西非省”的高级指挥官。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml",
+      "publishedAt": "2026-10-12T16:41:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
+      "title": "伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮",
+      "category": "综合",
+      "summary": "伊朗伊斯兰革命卫队海军12日发表声明说，当天早些时候在霍尔木兹海峡打击了一艘违规的大型油轮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
+      "publishedAt": "2026-10-12T16:13:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712345.shtml",
+      "title": "胡塞武装称沙特空袭也门北部已致9死7伤",
+      "category": "综合",
+      "summary": "据也门胡塞武装12日消息，沙特阿拉伯战机当天空袭了也门北部焦夫省，造成至少9人死亡、7人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712345.shtml",
+      "publishedAt": "2026-10-12T16:12:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712344.shtml",
+      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤",
+      "category": "综合",
+      "summary": "新华社耶路撒冷10月12日电(记者庞昕熠 王卓伦)以色列急救组织“红色大卫盾”12日说，以北部靠近黎巴嫩边界的拉米姆山脊地区当天发生爆炸事件，已造成1人死亡、19人受伤，其中多人伤势严重。据以色列媒体报道，死者是一名学生。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712344.shtml",
+      "publishedAt": "2026-10-12T16:10:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
+      "title": "尼日利亚西北部袭击事件致22人死亡",
+      "category": "综合",
+      "summary": "据尼日利亚方面12日消息，该国西北部扎姆法拉州11日发生袭击事件，造成22人死亡。袭击者当天洗劫了3个村庄并纵火焚烧了12辆汽车。袭击发生时，有安全人员在现场执勤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
+      "publishedAt": "2026-10-12T16:06:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-13/10712342.shtml",
+      "title": "欧盟将俄罗斯近1600名个人和实体列为制裁对象",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔10月12日电 (记者 德永健)欧盟12日宣布对俄罗斯追加制裁措施，将俄罗斯1569名个人和实体列为制裁对象。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712342.shtml",
+      "publishedAt": "2026-10-12T16:00:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712339.shtml",
+      "title": "世界最大室外冰雪主题乐园今冬规划园区面积规模创新高",
+      "category": "综合",
+      "summary": "中新社广州10月12日电 哈尔滨冰雪大世界12日公布2026年—2027年冰雪季新规划，园区面积扩至125万平方米，创下历届规模新高。全园将打造超千座冰雪建筑，并应广大游客需求，新增一组超长冰滑梯。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712339.shtml",
+      "publishedAt": "2026-10-12T15:31:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-12/10712338.shtml",
+      "title": "纪念中国侨联成立70周年专题音乐会在北京举行",
+      "category": "综合",
+      "summary": "中新社北京10月12日电 (记者 韩辉)纪念中国侨联成立70周年专题音乐会12日晚在北京音乐厅举行，海外侨胞和归侨侨眷代表等800余人出席。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712338.shtml",
+      "publishedAt": "2026-10-12T15:27:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712337.shtml",
+      "title": "广交会首次推出境外采购商会员服务",
+      "category": "综合",
+      "summary": "中新社广州10月12日电 (记者 张璐)第140届中国进出口商品交易会将于10月15日开幕。记者12日探营获悉，本届广交会“向新、向智、向绿”的主线更加鲜明，并将首次成立广交会采购商联盟，首次推出境外采购商会员服务，创新推出“展览+海外直播”新模式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712337.shtml",
+      "publishedAt": "2026-10-12T15:26:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-12/10712336.shtml",
+      "title": "武网首轮上演中国“金花”德比 王曦雨晋级次轮",
+      "category": "综合",
+      "summary": "中新社武汉10月12日电 (记者 张芹)2026东风·岚图汽车武汉网球公开赛(武网)正赛12日在光谷国际网球中心开拍。当晚，中央球场迎来一场备受关注的“中国德比”：持外卡出战的王曦雨直落两盘战胜王欣瑜，晋级女单次轮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712336.shtml",
+      "publishedAt": "2026-10-12T15:25:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-12/10712335.shtml",
+      "title": "马来西亚教育部扩大烟霾停课范围",
+      "category": "综合",
+      "summary": "中新社吉隆坡10月12日电 (记者 刘育英)马来西亚教育部长法丽娜12日公布最新烟霾停课安排，新增马六甲、森美兰及布城联邦直辖区全面停课，雪兰莪和彭亨部分地区扩大停课范围，柔佛则继续停课至16日，改为居家教学。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712335.shtml",
+      "publishedAt": "2026-10-12T15:24:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-12/10712334.shtml",
+      "title": "琼瑶童年四川往事将拍成短剧",
+      "category": "综合",
+      "summary": "中新社成都10月12日电 (记者 王鹏)“成渝戏剧双城记”对话活动12日在成都举行。琼瑶家人、台湾琼瑶文化有限公司董事长何琇琼在现场表示，琼瑶童年时期在四川的生活经历将拍成短剧。这也是四川短剧领域涉及两岸合作的一次探索。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712334.shtml",
+      "publishedAt": "2026-10-12T15:23:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10712340.shtml",
       "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤",
@@ -284,290 +572,56 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712320.shtml",
-      "title": "中国调整新能源汽车等部分产品出口退税政策",
-      "category": "综合",
-      "summary": "中新社北京10月12日电 (记者 赵建华)中国财政部、国家税务总局12日宣布，将调整部分产品出口退税政策，涉及新能源汽车、电子烟设备装置等产品增值税。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712320.shtml",
-      "publishedAt": "2026-10-12T13:54:54.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142987",
+      "title": "安理会讨论哥伦比亚和平协议执行情况，特别代表呼吁加强国家治理与安全保障",
+      "category": "国际",
+      "summary": "安理会周一上午就哥伦比亚问题举行公开会议，听取秘书长哥伦比亚问题特别代表兼联合国哥伦比亚核查团团长让恰（Miroslav&nbsp;让恰）有关当地局势和2016年和平协议执行情况的通报。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142987",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-12/10712318.shtml",
-      "title": "李家超：香港多举措推进中外文化艺术交流中心建设",
-      "category": "综合",
-      "summary": "中新网香港10月12日电 香港特区行政长官李家超12日表示，特区政府会与文艺界携手，从人才培育、产业化到硬件配套，全力推动香港中外文化艺术交流中心建设。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712318.shtml",
-      "publishedAt": "2026-10-12T13:53:42.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142986",
+      "title": "尼泊尔再遭山洪，联合国紧急驰援",
+      "category": "国际",
+      "summary": "尼泊尔中部廓尔喀地区周日突发山洪，冲毁房屋和桥梁。联合国已紧急驰援，而此时距该国北部此前发生灾难性洪水仅数周。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142986",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-12/10712316.shtml",
-      "title": "李强同新西兰总理拉克森通电话",
-      "category": "综合",
-      "summary": "中新社北京10月12日电 中国国务院总理李强10月12日下午应约同新西兰总理拉克森通电话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712316.shtml",
-      "publishedAt": "2026-10-12T13:48:14.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142985",
+      "title": "“效率是有极限的”：难民高专警告，资金削减正压垮难民保护体系",
+      "category": "国际",
+      "summary": "全球目前有1.17亿男子、妇女和儿童被迫逃离家园，为他们提供救助的联合国难民署今年需要85亿美元，但仅有30亿美元到位。资金告急的速度，已快于需求增长的速度。为此，难民事务高级专员萨利赫周一警告，全球寻求庇护者支持体系正面临崩溃风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142985",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10712317.shtml",
-      "title": "广西持续强化食品安全全链条监管 广泛动员民众参与监督",
-      "category": "综合",
-      "summary": "中新网南宁10月12日电 (韦佳秀 胥雅婷)10月12日，广西壮族自治区副主席曹志强在百色市宣布2026年全国食品安全宣传周广西主场活动正式启动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712317.shtml",
-      "publishedAt": "2026-10-12T13:44:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712311.shtml",
-      "title": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
-      "category": "综合",
-      "summary": "中新社曼谷10月12日电 (王茜 李映民)国际货币基金组织(IMF)和世界银行集团2026年年会12日在曼谷开幕。来自191个国家和地区的1.5万余名代表将围绕全球经济政策协调、国际发展合作、金融稳定以及人工智能等议题展开交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712311.shtml",
-      "publishedAt": "2026-10-12T13:44:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712315.shtml",
-      "title": "四川新设3家省级标准化技术委员会 两项标准化成果同日发布",
-      "category": "综合",
-      "summary": "中新网成都10月12日电 (记者 刘忠俊)10月12日，四川省2026年“世界标准日”主题活动在成都举行。在川的全国和省级专业标准化技术委员会、国家标准化试点项目单位、重点企业、科研院所，以及成都市区两级市场监管部门的代表等150余人参加。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712315.shtml",
-      "publishedAt": "2026-10-12T13:43:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712314.shtml",
-      "title": "广东省首个人工智能骨科中心在穗揭牌 AI赋能骨科诊疗全流程",
-      "category": "综合",
-      "summary": "中新网广州10月12日电 (记者 蔡敏婕)广东省首个人工智能骨科中心12日在广州市红十字会医院揭牌，该中心以术前AI影像精准诊断、术中机器人精准操作与三维建模、术后AI智能康复管理、全程临床数据库支撑为主线，构建覆盖骨科诊疗全流程的智能化体系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712314.shtml",
-      "publishedAt": "2026-10-12T13:42:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml",
-      "title": "余电不再“远走” 浙江温岭绿电就近消纳助力企业出口",
-      "category": "综合",
-      "summary": "中新网台州10月12日电(周健 赵碧莹)一度绿电，如何从园区光伏企业的屋顶，直达园区用能企业的车间？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml",
-      "publishedAt": "2026-10-12T13:42:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712312.shtml",
-      "title": "南航广州-长沙-亚的斯亚贝巴航线首航",
-      "category": "综合",
-      "summary": "中新社广州10月12日电 (郭军 程景伟 付敬懿)中国南方航空(以下简称“南航”)广州-长沙-亚的斯亚贝巴航线12日正式首航，搭载251名首航旅客的CZ8095航班从广州白云国际机场起飞。该航线是中国航司目前唯一通航的埃塞俄比亚航线。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712312.shtml",
-      "publishedAt": "2026-10-12T13:42:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712310.shtml",
-      "title": "山西：确保到2030年粮食产能达到305亿斤",
-      "category": "综合",
-      "summary": "中新网太原10月12日电 (记者 杨静 李庭耀)“确保到2030年，全省粮食产能达到305亿斤。”山西省委农办主任，省农业农村厅党组书记、厅长孙京民12日在中共山西省委宣传部、山西省人民政府新闻办公室举办的开局起步“十五五”系列主题新闻发布会上表示，通过良田、良种、良机、良法“四良”融合，“十五五”时期，努力把粮食产量稳定在300亿斤以上。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712310.shtml",
-      "publishedAt": "2026-10-12T13:42:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10712309.shtml",
-      "title": "浙江鄞州“商聚四海”：海内外鄞商的家乡情",
-      "category": "综合",
-      "summary": "中新网宁波10月12日电 题：浙江鄞州“商聚四海”：海内外鄞商的家乡情",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712309.shtml",
-      "publishedAt": "2026-10-12T13:42:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10712308.shtml",
-      "title": "湖南湘江新区非遗出海观察：湘绣出海，不只挂在墙上",
-      "category": "综合",
-      "summary": "中新网长沙10月12日电 (胡语桐)2026年3月，纽约联合国总部相关展厅，湘绣国家级非遗代表性传承人江再红把绣绷支了起来。丝线细如发丝，在她指间上下穿梭，围观的国际友人蹲下身，从绷架底下往上探，想看清那双翻飞的手在变什么戏法。她带去30余件作品。《千里江山图》长卷前有人驻足，但更令她欣慰的是，手帕、围巾、绣花扇、绣花鞋等日用品展台前，人流始终不断。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712308.shtml",
-      "publishedAt": "2026-10-12T13:42:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712303.shtml",
-      "title": "广东茂名港30万吨级原油码头工程通过交工验收",
-      "category": "综合",
-      "summary": "中新网茂名10月12日电 (记者 梁盛)广东茂名港博贺新港区30万吨级原油码头工程12日通过交工验收，为码头后续投产运营筑牢硬件根基。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712303.shtml",
-      "publishedAt": "2026-10-12T13:41:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712302.shtml",
-      "title": "贺兰山下论美酒 共绘全球葡萄酒产业新未来",
-      "category": "综合",
-      "summary": "中新网银川10月12日电 (记者 李佩珊)“葡萄酒是人类文明交融互鉴的结晶，其酿造历史可追溯至数千年前。千百年来，从高加索山脉到地中海沿岸，从丝路古道到黄河之滨，中国与世界各国同仁不断在风土中求索、在传承中创新、在坚守中突破。”宁夏回族自治区副主席王立12日在银川如是说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712302.shtml",
-      "publishedAt": "2026-10-12T13:41:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-12/10712300.shtml",
-      "title": "北京规划2030年交通基础设施数字化率达95%",
-      "category": "综合",
-      "summary": "中新社北京10月12日电 (记者 吕少威)根据12日发布的《北京市“十五五”时期现代综合交通运输体系发展规划》，北京力争到2030年交通基础设施数字化率达95%，中心城区绿色出行比例达78%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712300.shtml",
-      "publishedAt": "2026-10-12T13:40:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-12/10712296.shtml",
-      "title": "利斯特谈如何获得诺奖：追寻热爱、尝试不同、目标远大",
-      "category": "综合",
-      "summary": "中新网上海10月12日电 (记者 陈静)“尽管我无法提供一个获得诺贝尔奖的完整‘配方’，但我会告诉大家，想要赢取诺贝尔奖，需要做到什么。”2021年诺贝尔化学奖得主、德国马克斯·普朗克煤炭研究所主任本亚明·利斯特(Benjamin List)12日在上海演讲时给出答案：追寻热爱、尝试不同、目标远大。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712296.shtml",
-      "publishedAt": "2026-10-12T13:38:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1567,60 +1621,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142957",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142956",
-      "title": "联合国常务副秘书长：必须加快减排并扩大气候融资",
-      "category": "国际",
-      "summary": "联合国常务副秘书长阿明娜·默罕默德周三在《联合国气候变化框架公约》第31次缔约方大会预备会议开幕式及主旨演讲中表示，确凿证据表明，世界将突破1.5摄氏度的升温阈值，至少在一段时间内如此。她呼吁恪守《巴黎协定》承诺，加倍努力，并尽可能将超标幅度控制在最小范围、最短时间内。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142956",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142955",
-      "title": "粮农组织评估：南半球渔业每年至少导致3万只海鸟遭误捕",
-      "category": "国际",
-      "summary": "联合国粮农组织周三表示，一项关于海鸟与远洋延绳钓渔业相互作用的大型新合作评估显示，在所评估的远洋延绳钓渔业中，每年至少有3万只海鸟被作为兼捕物捕获。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142955",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142954",
-      "title": "世卫组织：关键资金缺口威胁也门卫生应急响应行动",
-      "category": "国际",
-      "summary": "世界卫生组织周二警告，随着冲突升级、需求上升，需要大幅增加资源以扩大其在也门的应急响应行动。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142954",
       "publishedAt": "2026-10-07T12:00:00.000Z",
       "tags": [
         "国际",
