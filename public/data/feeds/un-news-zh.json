@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142992",
+      "title": "开发计划署推出全球投资和就业倡议，以促进发展中国家经济增长",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142992",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142991",
+      "title": "也门冲突导致20万多人新近流离失所，霍乱病例激增",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142991",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142990",
+      "title": "安理会审议非洲大湖区局势，特使夏煌呼吁把和平承诺转化为可核查行动",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142990",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142989",
+      "title": "联大投票通过大流行病宣言，美国等三国反对",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142989",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142988",
+      "title": "安理会审议叙利亚局势：经济恢复、人道援助和教育危机成为焦点",
+      "meta": "联合国新闻 · 2026/10/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142988",
+      "publishedAt": "2026-10-12T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142987",
       "title": "安理会讨论哥伦比亚和平协议执行情况，特别代表呼吁加强国家治理与安全保障",
       "meta": "联合国新闻 · 2026/10/12",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/10/8",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142962",
       "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142961",
-      "title": "世卫组织发布全球行动方案，应对妊娠期高血压疾病",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142961",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142960",
-      "title": "开发署报告：缅甸超过三分之二人口陷入多维贫困",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142960",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142959",
-      "title": "联合国贸发会议：不断攀升的债务成本正在阻碍发展",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142959",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142958",
-      "title": "古特雷斯：多边主义面临四大挑战",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142958",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142957",
-      "title": "世卫组织：肯尼亚加紧追踪埃博拉病例所有密切接触者",
-      "meta": "联合国新闻 · 2026/10/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142957",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-13T15:59:02.221Z",
+  "updatedAt": "2026-10-13T21:14:40.101Z",
   "provider": "OneBench 公共资讯快照"
 }

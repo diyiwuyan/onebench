@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T15:59:02.221Z",
-  "expiresAt": "2026-10-13T21:59:02.221Z",
+  "generatedAt": "2026-10-13T21:14:40.101Z",
+  "expiresAt": "2026-10-14T03:14:40.101Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-14/10714099.shtml",
+      "title": "马达加斯加报告4例鼠疫确诊病例和5例疑似病例",
+      "category": "综合",
+      "summary": "新华社塔那那利佛10月13日电(记者陈绍华)据马达加斯加公共卫生部13日发布的公报，该国报告4例鼠疫确诊病例和5例疑似病例。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714099.shtml",
+      "publishedAt": "2026-10-13T16:46:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-14/10714098.shtml",
+      "title": "刚果（金）本轮埃博拉疫情确诊病例超9000例",
+      "category": "综合",
+      "summary": "刚果(金)卫生部13日发布的最新报告称，该国本轮埃博拉疫情累计确诊病例已升至9066例，其中死亡4381例。与此同时，针对本轮疫情所涉病毒疫苗的一项临床试验正进入最后筹备阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714098.shtml",
+      "publishedAt": "2026-10-13T16:22:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-14/10714097.shtml",
+      "title": "日本叶菜价格大幅上涨 白菜成“高价菜”",
+      "category": "综合",
+      "summary": "新华社北京10月13日电 据日本媒体13日报道，日本近期叶类蔬菜价格持续走高，白菜、生菜、圆白菜等价格较往年大幅上涨，一棵白菜零售价普遍超过1000日元(约合42.3元人民币)，不少消费者直呼“太贵”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714097.shtml",
+      "publishedAt": "2026-10-13T16:19:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-14/10714096.shtml",
+      "title": "也门首都萨那传出爆炸声",
+      "category": "综合",
+      "summary": "当地时间10月13日，也门首都萨那传出爆炸声。据也门胡塞武装方面消息，位于萨那的石油公司设施当天遭袭。目前暂无人员伤亡报告，设施受损情况尚不清楚。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714096.shtml",
+      "publishedAt": "2026-10-13T16:17:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-14/10714094.shtml",
+      "title": "国考报名今开始：拟招3.57万人，打击“公考围岗”",
+      "category": "综合",
+      "summary": "中新网北京10月14日电(记者 李京统)今日8时起，中央机关及其直属机构2027年度考试录用公务员报名正式开启，共计划招录3.57万人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714094.shtml",
+      "publishedAt": "2026-10-13T16:00:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
       "title": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
@@ -482,96 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-13/10714064.shtml",
-      "title": "成渝中线高铁动走线跨沙河特大桥顺利合龙",
-      "category": "综合",
-      "summary": "中新网成都10月13日电 (记者 刘忠俊)10月13日下午，随着最后一方混凝土浇筑完成，成渝中线高铁动走线跨沙河特大桥顺利合龙。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714064.shtml",
-      "publishedAt": "2026-10-13T14:12:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-13/10714061.shtml",
-      "title": "习近平会见多哥部长会议主席福雷",
-      "category": "综合",
-      "summary": "中新社北京10月13日电 10月13日下午，中国国家主席习近平在北京人民大会堂会见来华进行正式访问的多哥部长会议主席福雷。两国领导人宣布将双边关系定位提升为新时代中多命运共同体。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714061.shtml",
-      "publishedAt": "2026-10-13T14:12:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-13/10714072.shtml",
-      "title": "秋千、蚂𧊅抓害虫、高脚竞速 广西少数民族传统体育运动会精彩纷呈",
-      "category": "综合",
-      "summary": "10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为高脚竞速比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为秋千比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动会在柳州市举行。图为秋千比赛现场。林馨 摄 10月13日，广西壮族自治区第十六届少数民族传统体育运动",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714072.shtml",
-      "publishedAt": "2026-10-13T14:09:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207744.shtml",
-      "title": "习近平会见多哥部长会议主席福雷",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207744.shtml",
-      "publishedAt": "2026-10-13T14:07:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-13/10714063.shtml",
-      "title": "两岸音乐人共聚云南蒙自 丝竹声中叙同胞深情",
-      "category": "综合",
-      "summary": "中新网昆明10月13日电 (记者 陈静)12日晚，云南蒙自红河大剧院音乐厅内，随着台湾青年指挥家黄俊毓抬手起拍，一曲《客家歌谣联奏》悠然响起，“两岸一家亲·共奏中华情”云台音乐会由此开场。两岸音乐人轮番登台，以乐为媒，在丝竹声中共叙同胞情深。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714063.shtml",
-      "publishedAt": "2026-10-13T14:07:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad#0",
       "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
       "category": "国际",
@@ -585,6 +585,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142992",
+      "title": "开发计划署推出全球投资和就业倡议，以促进发展中国家经济增长",
+      "category": "国际",
+      "summary": "联合国开发计划署周二推出两项全球倡议，旨在帮助发展中经济体吸引投资、改善营商环境并创造更多更好的就业岗位。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142992",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142991",
+      "title": "也门冲突导致20万多人新近流离失所，霍乱病例激增",
+      "category": "国际",
+      "summary": "世界卫生组织周二表示，也门冲突不断升级和大规模流离失所正加剧传染病暴发的风险，因为人口过度拥挤、安全饮用水供应不足以及医疗服务中断，导致越来越多的人面临霍乱、麻疹和其他可预防疾病的威胁。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142991",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142990",
+      "title": "安理会审议非洲大湖区局势，特使夏煌呼吁把和平承诺转化为可核查行动",
+      "category": "国际",
+      "summary": "安理会周二上午举行公开会议，审议非洲大湖区局势。联合国秘书长大湖区问题特使夏煌表示，围绕刚果（金）东部冲突的多轨外交努力近几个月取得积极进展，但停火尚未真正落实，安全和人道局势依然严峻。他敦促有关各方抓住当前难得的政治机遇，将已经达成的承诺转化为具体、可核查的行动。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142990",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -777,6 +831,42 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142989",
+      "title": "联大投票通过大流行病宣言，美国等三国反对",
+      "category": "国际",
+      "summary": "联合国大会周一以153票赞成、3票反对（阿根廷、以色列和美国）和2票弃权（新西兰和巴拉圭）通过了关于大流行病预防、防范和应对的政治宣言。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142989",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142988",
+      "title": "安理会审议叙利亚局势：经济恢复、人道援助和教育危机成为焦点",
+      "category": "国际",
+      "summary": "安理会周一下午就叙利亚问题举行公开会议。叙利亚正在进入恢复与重建的新阶段，但经济困境、社会分裂、未爆炸弹药威胁以及教育挑战等问题仍严重制约这一进程。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142988",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1508,42 +1598,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142961",
-      "title": "世卫组织发布全球行动方案，应对妊娠期高血压疾病",
-      "category": "国际",
-      "summary": "世界卫生组织及其合作伙伴周四发布了一份新的全球路线图，以应对妊娠期高血压疾病（包括先兆子痫）。这类疾病每年影响数百万女性，仍是导致孕妇及其婴儿死亡和重病的主要原因之一，给其家庭带来悲剧性的长期影响。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142961",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142960",
-      "title": "开发署报告：缅甸超过三分之二人口陷入多维贫困",
-      "category": "国际",
-      "summary": "联合国开发计划署周四发布的一份新报告显示，多年的冲突、经济动荡、流离失所和反复冲击，正在侵蚀缅甸各地民众赖以生存、应对和恢复的基础。如今，超过三分之二的人要么生活在多维贫困之中，要么随时可能陷入多维贫困，使数百万人几乎无力承受进一步的危机。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142960",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad#2",
       "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
       "category": "国际",
@@ -1608,60 +1662,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142959",
-      "title": "联合国贸发会议：不断攀升的债务成本正在阻碍发展",
-      "category": "国际",
-      "summary": "联合国贸易和发展会议周三发布《债务世界》报告指出，不断攀升的借贷成本正给发展中国家的公共财政带来压力，限制用于卫生、教育及其他发展优先领域的资源。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142959",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142958",
-      "title": "古特雷斯：多边主义面临四大挑战",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周三在巴基斯坦伊斯兰堡表示，世界正不可逆转地走向多极化，但多极化本身并不能确保稳定。多边主义当前面临和平与安全、不平等、气候变化和人工智能四大挑战。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142958",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142957",
-      "title": "世卫组织：肯尼亚加紧追踪埃博拉病例所有密切接触者",
-      "category": "国际",
-      "summary": "世界卫生组织总干事谭德塞周三在日内瓦举行的记者会上表示，肯尼亚近日报告一例埃博拉病例，患者在刚果民主共和国发病，曾在当地多家医疗机构接受治疗，随后经乌干达首都坎帕拉前往肯尼亚首都内罗毕。患者抵达内罗毕后立即被送往医院并接受隔离，确诊感染埃博拉病毒后于本周一死亡。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142957",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
