@@ -5,8 +5,29 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143000",
+      "title": "粮食署：也门战事阻断80万人援助，或将引发人道主义灾难",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143000",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142998",
+      "title": "饮酒可导致乳腺癌 欧洲受访者知晓率仅15%",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142998",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142999",
+      "title": "人权高专警告：冲突达二战后最高水平，人工智能风险“刻不容缓”",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142999",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142997",
-      "title": "利比亚特别称政治进程取得突破但挑战依然严峻",
+      "title": "秘书长特别代表：利比亚政治进程取得突破但挑战依然严峻",
       "meta": "联合国新闻 · 2026/10/14",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142997",
       "publishedAt": "2026-10-14T12:00:00.000Z"
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/10/9",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142970",
       "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142969",
-      "title": "世界邮政日：邮政网络连接世界，开启无限可能",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142969",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142968",
-      "title": "前联合国人权高专皮莱获诺贝尔和平奖",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142968",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142967",
-      "title": "廉价老花镜仍是提升生活质量的关键途径",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142967",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-14T18:37:51.624Z",
+  "updatedAt": "2026-10-14T23:14:20.747Z",
   "provider": "OneBench 公共资讯快照"
 }

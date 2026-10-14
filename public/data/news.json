@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T18:37:51.624Z",
-  "expiresAt": "2026-10-15T00:37:51.624Z",
+  "generatedAt": "2026-10-14T23:14:20.747Z",
+  "expiresAt": "2026-10-15T05:14:20.747Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
+      "title": "朝中社：朝鲜试射两种潜射战略巡航导弹（图）",
+      "category": "综合",
+      "summary": "中新网10月15日电 据朝中社报道，当地时间14日，朝鲜导弹总局在朝鲜东部海域进行两种潜射战略巡航导弹试射。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
+      "publishedAt": "2026-10-14T22:44:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-15/10714751.shtml",
+      "title": "10月15日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714751.shtml",
+      "publishedAt": "2026-10-14T22:43:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10714750.shtml",
+      "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
+      "category": "综合",
+      "summary": "中新网10月15日电 当地时间14日，美军中央司令部在社交媒体发布消息说，美军6日在阿曼湾摧毁了一艘与伊朗有关联的帆船。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714750.shtml",
+      "publishedAt": "2026-10-14T22:36:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-15/10714749.shtml",
+      "title": "网传明星演唱会门票被炒至25万一张 天价黄牛票为何屡禁不止？",
+      "category": "综合",
+      "summary": "近年来，演唱会经济持续火热。以近日某明星在社交平台官宣的即将在南京举办的演唱会为例，公开信息显示，该举办场地可容纳约2万名观众，但在售票平台标记想看的人数已超过300万。平台公布的最高票价为内场票1960元，而网传有“黄牛”将内场票的第一排炒至25万一张，并标注“已售”。当“开票即秒空”成为热门演唱会的常态，代拍、“录入票”等生意随之出现在“隐秘的角落”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10714749.shtml",
+      "publishedAt": "2026-10-14T22:36:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
+      "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
+      "category": "综合",
+      "summary": "当地时间10月14日，美国中央司令部发布消息称，10月6日，美军在阿曼湾摧毁了一艘与伊朗有关联的独桅帆船，该船当时正在对美国海军舰艇进行监视并锁定目标。在摧毁该船之前，船上人员已被安全转移。目前，遣返工作正在进行中。(央视记者 刘骁骞)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
+      "publishedAt": "2026-10-14T21:31:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwly388njx3go/trad#1",
       "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
@@ -516,98 +606,62 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-14/10714688.shtml",
-      "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
-      "category": "综合",
-      "summary": "中新社北京10月14日电 全国人大常委会委员长赵乐际14日在北京集体会见出席2026年国际议员友好交流论坛的各国代表。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714688.shtml",
-      "publishedAt": "2026-10-14T13:58:12.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143000",
+      "title": "粮食署：也门战事阻断80万人援助，或将引发人道主义灾难",
+      "category": "国际",
+      "summary": "联合国世界粮食计划署周三表示，也门战事升级导致的战线变化、道路受阻和安全局势恶化，严重限制了援助人员进入塔伊兹市及其他冲突地区。目前，全国约80万人无法获得旨在拯救生命的援助。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143000",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-14/10714728.shtml",
-      "title": "从广州到南美：侨青搭建经贸双向通道",
-      "category": "综合",
-      "summary": "中新网广州10月14日电 (记者 蔡敏婕)广州(白云)侨青与智利企业家专场经贸交流对接暨南美再出海启航活动14日在广州举行。“侨青扬帆·穗链五洲”南美再出海启航仪式在会上举行，为侨青出海团队授旗，激励侨界青年发挥桥梁纽带作用，联通海内外资源。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714728.shtml",
-      "publishedAt": "2026-10-14T13:58:06.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142998",
+      "title": "饮酒可导致乳腺癌 欧洲受访者知晓率仅15%",
+      "category": "国际",
+      "summary": "世界卫生组织欧洲区域办事处周三表示，在欧洲14个国家开展的调查中，仅有15%的受访者知道饮酒可能导致乳腺癌。10月是乳腺癌宣传月。为了扩大相关医疗知识宣传，办事处推出配备人工智能助手的数字平台，帮助医护人员开展酒精风险筛查，并鼓励将健康饮酒的讨论纳入日常诊疗。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142998",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-14/10714724.shtml",
-      "title": "广西加大生育支持力度 灵活就业人员纳入生育保险试点",
-      "category": "综合",
-      "summary": "中新网南宁10月14日电(记者 黄艳梅)记者14日从广西壮族自治区医疗保障局获悉，广西持续加大生育支持力度，制度保障功能持续提升。目前，广西梧州、北海、防城港、贵港、崇左的灵活就业人员已可以参加生育保险，最高可以享受16000元(人民币，下同)的生育津贴。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714724.shtml",
-      "publishedAt": "2026-10-14T13:57:10.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142999",
+      "title": "人权高专警告：冲突达二战后最高水平，人工智能风险“刻不容缓”",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周三在联合国大会负责人权和社会发展事务的第三委员会发言时表示，当前世界正受到战争、两极分化、气候危机和技术变革的共同冲击，而对《联合国宪章》、国际人权法和国际人道法的尊重正在不断削弱。在这一背景下，人权不仅是价值原则，更应成为预防冲突、维护法治和应对全球挑战的现实工具。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142999",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-14/10714722.shtml",
-      "title": "中国社会科学院第二届青年学术大会在北京召开",
-      "category": "综合",
-      "summary": "中新网北京10月14日电(记者 李京泽)中国社会科学院第二届青年学术大会13日在北京召开。中国社会科学院院长、党组书记高翔出席会议并作学术报告。中央纪委国家监委驻院纪检监察组组长、院党组成员杭元祥，副院长、党组成员李雪松，院党组成员、当代中国研究所所长金民卿，秘书长、党组成员薛松岩出席会议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714722.shtml",
-      "publishedAt": "2026-10-14T13:54:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-14/10714721.shtml",
-      "title": "（长征胜利90周年）“天险”腊子口的“红绿交辉”",
-      "category": "综合",
-      "summary": "中新网甘肃甘南10月14日电 (记者 冯志军)在甘肃甘南藏族自治州迭部县腊子口镇的腊子口战役遗址，至今仍保留着91年前红军长征北上时原始的峡谷峭壁、战役旧址地貌，“一夫当关，万夫莫开”的峡谷地形，直观还原了当年战斗的险峻环境。时至今日，“读万卷书，不如走一遍天险”也成为众多实地探访者的共鸣。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714721.shtml",
-      "publishedAt": "2026-10-14T13:54:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142997",
-      "title": "利比亚特别称政治进程取得突破但挑战依然严峻",
+      "title": "秘书长特别代表：利比亚政治进程取得突破但挑战依然严峻",
       "category": "国际",
       "summary": "在联合国安理会周三日上午就利比亚局势举行的公开会议上，秘书长利比亚问题特别代表兼联合国利比亚支助团团长汉娜·塞尔瓦·泰特（ Hanna S. Tetteh）&nbsp;表示。过去数月以来，联合国推动的旨在打破长期政治和制度僵局的政治进程取得一些积极进展，但利比亚在政治、经济、安全和社会层面仍面临诸多挑战，各方需要展现更大政治意愿，推动国家统一和全国选举进程。",
       "source": "联合国新闻",
@@ -1595,56 +1649,19 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142969",
-      "title": "世界邮政日：邮政网络连接世界，开启无限可能",
-      "category": "国际",
-      "summary": "10月9日是世界邮政日，也是万国邮政联盟于1874年在瑞士首都伯尔尼成立的日子。联合国秘书长古特雷斯为此发表致辞，向邮政系统致敬。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142969",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "id": "who-zh-urn:uuid:c6440e38-411f-47f5-b7bf-51e26e0401dd",
+      "title": "世卫组织敦促从机构化精神卫生保健向社区精神卫生保健过渡",
+      "category": "健康",
+      "summary": "在世界精神卫生日前夕，世界卫生组织（世卫组织）发布了一份新指南文件，支持各国从以精神病院长期住院为重点的机构化精神卫生保健模式，转向尊重人们权利和选择的、以人为本的社区照护模式。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/09-10-2026-who-urges-shift-from-institutional-to-community-based-mental-health-care",
+      "publishedAt": "2026-10-09T08:14:24.000Z",
       "tags": [
-        "国际",
-        "公共政策",
-        "教育",
         "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142968",
-      "title": "前联合国人权高专皮莱获诺贝尔和平奖",
-      "category": "国际",
-      "summary": "前联合国人权事务高级专员纳维·皮莱于周五被宣布授予2026年诺贝尔和平奖。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142968",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142967",
-      "title": "廉价老花镜仍是提升生活质量的关键途径",
-      "category": "国际",
-      "summary": "据估计，全球约有22亿人视力不佳，其中近三分之一生活在东南亚地区。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142967",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
@@ -1696,6 +1713,23 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:da51541e-209a-424a-99fc-7b4968d1f78c",
+      "title": "世卫组织发布首份全球儿童和青少年肥胖症指南",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）今日发布了首份针对儿童和青少年肥胖症急剧上升问题的指南，阐明了卫生系统和卫生工作者应如何提供及时、循证且以人为本的护理。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/07-10-2026-who-issues-first-global-guidelines-on-child-and-adolescent-obesity",
+      "publishedAt": "2026-10-07T07:17:17.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
@@ -2099,40 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/31-07-2026-countries-urged-to-strengthen-breastfeeding-support-and-health-systems-to-give-every-child-a-healthy-start-in-life",
       "publishedAt": "2026-07-31T09:11:46.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:3a2fbd46-aab7-4f65-a970-2bd25cf68c83",
-      "title": "世卫组织报告指出：整合、创新和社区领导力是终结艾滋病毒、病毒性肝炎和性传播感染的关键",
-      "category": "健康",
-      "summary": "世界卫生组织（世卫组织）今日发布一份新报告，评估《艾滋病毒、病毒性肝炎和性传播感染2022-2030年全球卫生部门战略》的实施进展情况。该报告在第26届国际艾滋病大会期间发布，并恰逢2026年7月28日世界肝炎日到来前夕。报告重点介绍了全球应对这些流行病所取得的重要成就和持续存在的挑战。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis",
-      "publishedAt": "2026-07-27T15:45:12.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:7d2ad12b-a64a-4911-b6f0-5d73c2c4398f",
-      "title": "世卫组织推出七项预防溺水策略",
-      "category": "健康",
-      "summary": "在7月25日世界预防溺水日到来之际，世界卫生组织（世卫组织）发布了一套新的技术方案，帮助各国政府和社区实施七项行之有效的措施来减少溺亡。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
-      "publishedAt": "2026-07-23T08:00:24.000Z",
       "tags": [
         "健康",
         "育儿",
