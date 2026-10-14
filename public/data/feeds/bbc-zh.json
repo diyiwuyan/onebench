@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad#0",
+      "title": "「黑珍珠」瑪麗亞：表演中國川劇的塞拉利昂女子",
+      "meta": "BBC 中文 · 2026/10/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T00:17:23.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwly388njx3go/trad#0",
+      "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
+      "meta": "BBC 中文 · 2026/10/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cwly388njx3go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T00:17:20.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad#0",
       "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
       "meta": "BBC 中文 · 2026/10/13",
@@ -12,7 +26,7 @@
       "publishedAt": "2026-10-13T13:34:13.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxzd63n7e631o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxzd63n7e631o/trad#1",
       "title": "中期選舉前夕油價降不下，特朗普難題加劇",
       "meta": "BBC 中文 · 2026/10/13",
       "url": "https://www.bbc.com/zhongwen/articles/cxzd63n7e631o/trad?at_medium=RSS&at_campaign=rss",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-10-13T04:42:59.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad#1",
       "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
       "meta": "BBC 中文 · 2026/10/13",
       "url": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad?at_medium=RSS&at_campaign=rss",
@@ -61,14 +75,7 @@
       "publishedAt": "2026-10-12T11:06:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm70pwyl0qxwo/trad#1",
-      "title": "貝安德：十年前英國脫歐公投俄羅斯「顯然」曾搞局",
-      "meta": "BBC 中文 · 2026/10/12",
-      "url": "https://www.bbc.com/zhongwen/articles/cm70pwyl0qxwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T09:15:16.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad#4",
       "title": "走進印度新一輪Z世代主導的「蟑螂」抗議",
       "meta": "BBC 中文 · 2026/10/12",
       "url": "https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad?at_medium=RSS&at_campaign=rss",
@@ -94,13 +101,6 @@
       "meta": "BBC 中文 · 2026/10/11",
       "url": "https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T06:44:19.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm0rlz8jvje5o/trad#4",
-      "title": "BBC報道印尼校長涉嫌性侵學生後 該校長被警方拘捕",
-      "meta": "BBC 中文 · 2026/10/11",
-      "url": "https://www.bbc.com/zhongwen/articles/cm0rlz8jvje5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T06:21:28.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-13T21:14:40.101Z",
+  "updatedAt": "2026-10-14T01:13:20.917Z",
   "provider": "OneBench 公共资讯快照"
 }
