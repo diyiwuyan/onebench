@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142997",
+      "title": "利比亚特别称政治进程取得突破但挑战依然严峻",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142997",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142996",
+      "title": "基金组织上调2026年全球经济增速预期",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142996",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142994",
+      "title": "西非经海路抵达欧洲人数下降近六成 非正规移民路线风险持续上升",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142994",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142995",
+      "title": "秘书长提出联合国2027年33亿美元的精简预算案",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142995",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142993",
+      "title": "灾害每年造成的住房损失高达2280亿美元",
+      "meta": "联合国新闻 · 2026/10/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142993",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142992",
       "title": "开发计划署推出全球投资和就业倡议，以促进发展中国家经济增长",
       "meta": "联合国新闻 · 2026/10/13",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/10/8",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142967",
       "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142966",
-      "title": "人权高专：实现赔偿正义必须消除制度性种族主义",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142966",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142965",
-      "title": "人权高专谴责俄罗斯最新袭击乌克兰平民事件",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142965",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142964",
-      "title": "达尔富尔：安理会延长对苏丹制裁，医疗需求远超资源供给",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142964",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142963",
-      "title": "妇女署：以色列空袭和地面军事行动导致3.8万名妇女和女孩死亡",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142963",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142962",
-      "title": "联阿援助团对塔利班针对妇女和女孩的逮捕与拘留行为表达严重关切",
-      "meta": "联合国新闻 · 2026/10/8",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142962",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-14T13:43:53.660Z",
+  "updatedAt": "2026-10-14T18:37:51.624Z",
   "provider": "OneBench 公共资讯快照"
 }
