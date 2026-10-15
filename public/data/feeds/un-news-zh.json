@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143003",
+      "title": "【专题报道 | 前方视野】从竹屋到石场废料砖：五个改变生活的住房项目荣获联合国嘉奖",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143003",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143002",
       "title": "海地制裁措施续期：切断帮派的弹药供应",
       "meta": "联合国新闻 · 2026/10/14",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/9",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142973",
       "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142971",
-      "title": "联合国警告也门冲突升级 人道主义危机加剧",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142971",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:29:29.947Z",
+  "updatedAt": "2026-10-15T17:00:52.216Z",
   "provider": "OneBench 公共资讯快照"
 }

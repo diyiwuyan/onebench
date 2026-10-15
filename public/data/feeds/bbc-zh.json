@@ -5,11 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad#0",
+      "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
+      "meta": "BBC 中文 · 2026/10/15",
+      "url": "https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T16:15:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad#2",
+      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
+      "meta": "BBC 中文 · 2026/10/15",
+      "url": "https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T12:46:44.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad#0",
       "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
       "meta": "BBC 中文 · 2026/10/15",
       "url": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T11:09:11.000Z"
+      "publishedAt": "2026-10-15T11:39:24.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckp8gd38100ro/trad#0",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-10-15T00:20:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#1",
       "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
       "meta": "BBC 中文 · 2026/10/15",
       "url": "https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad?at_medium=RSS&at_campaign=rss",
@@ -59,13 +73,6 @@
       "meta": "BBC 中文 · 2026/10/14",
       "url": "https://www.bbc.com/zhongwen/watch/c83vq5lwy6wlo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T14:46:38.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad#1",
-      "title": "俄羅斯以間諜罪嫌抓捕日本駐庫頁島記者",
-      "meta": "BBC 中文 · 2026/10/14",
-      "url": "https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T10:34:28.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad#1",
@@ -180,13 +187,6 @@
       "publishedAt": "2026-10-03T03:16:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad#2",
-      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-      "meta": "BBC 中文 · 2026/10/1",
-      "url": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T06:20:54.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#3",
       "title": "特朗普排除美中合作開發人工智能",
       "meta": "BBC 中文 · 2026/9/30",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:29:29.947Z",
+  "updatedAt": "2026-10-15T17:00:52.216Z",
   "provider": "OneBench 公共资讯快照"
 }

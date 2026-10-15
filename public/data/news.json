@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:29:29.947Z",
-  "expiresAt": "2026-10-15T17:29:29.947Z",
+  "generatedAt": "2026-10-15T17:00:52.216Z",
+  "expiresAt": "2026-10-15T23:00:52.216Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715205.shtml",
-      "title": "2026“北京超高清视听·行！视听奇境”公共服务主题活动启动“收官站”",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad#0",
+      "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
+      "category": "国际",
+      "summary": "特朗普表示，有些人「寧願不觀看」對尼達爾·哈桑的處決。這將是60多年來首次執行軍事死刑槍決。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T16:15:18.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715370.shtml",
+      "title": "日本启动调查在东京附近设立核废料填埋场",
       "category": "综合",
-      "summary": "中新网北京10月15日电 (记者 高凯)15日，由北京市广电局主办的2026“北京超高清视听·行！视听奇境”公共服务主题活动，在湾里·王府井welltown正式启幕“收官站”。",
+      "summary": "新华社北京10月15日电 据日本媒体15日报道，就在首都东京附近茨城县常陆大宫市设立核废料填埋场一事，日本相关机构当天启动初步调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715205.shtml",
-      "publishedAt": "2026-10-15T11:23:54.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715370.shtml",
+      "publishedAt": "2026-10-15T15:47:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-15/10715208.shtml",
-      "title": "邯郸市丛台区紫山风景区粉黛烟霞染秋色",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
+      "title": "沙特称胡塞武装对利雅得机场袭击致17死333伤",
       "category": "综合",
-      "summary": "图为游客在花田中拍照。王倩倩 摄 图为小火车在花田中穿行。王倩倩 摄 图为盛放期的粉黛乱子草。王倩倩 摄 图为游客在花田中自拍。王倩倩 摄 图为骑行爱好者在花田驻足拍照。王倩倩 摄",
+      "summary": "新华社利雅得10月15日电(记者罗晨 王海洲)沙特阿拉伯主导的多国联军发言人图尔基·马利基15日在沙特首都利雅得举行的新闻发布会上说，也门胡塞武装10月以来对利雅得哈立德国王国际机场的袭击共造成17人死亡，333人受伤。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715208.shtml",
-      "publishedAt": "2026-10-15T11:22:40.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
+      "publishedAt": "2026-10-15T15:43:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715203.shtml",
-      "title": "从身边故事到世界视野 中国青年作家国际推介会举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715368.shtml",
+      "title": "哥伦比亚一国际客运大巴翻车 致4死56伤",
       "category": "综合",
-      "summary": "中新网北京10月15日电 (记者 高凯)由中国作家协会外联部、国家图书馆联合主办的“从身边故事到世界视野：中国青年作家国际推介会”暨文津阅新特别活动日前在京举行，集中向海外推介26位中国当代青年作家。",
+      "summary": "当地时间10月15日凌晨，一辆国际客运大巴在哥伦比亚西南部考卡省泛美公路罗萨斯至廷比奥路段发生交通事故，造成至少4人死亡、56人受伤。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715203.shtml",
-      "publishedAt": "2026-10-15T11:21:04.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715368.shtml",
+      "publishedAt": "2026-10-15T15:41:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-15/10715204.shtml",
-      "title": "呼和浩特：总投资10亿元人民币金刚石材料项目加速建设",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-15/10715366.shtml",
+      "title": "国产剧出海“四剑客”齐发力：从“零星出海”走向“规模化登陆”",
       "category": "综合",
-      "summary": "10月15日，内蒙古呼和浩特市，工作人员操作激光切割机切割金刚石。中新社记者 刘文华 摄 10月15日，内蒙古呼和浩特市，工作人员操作MPCVD金刚石长晶炉。中新社记者 刘文华 摄 10月15日，内蒙古呼和浩特市，6英寸多晶金刚石展示。中新社记者 刘文华 摄 10月15日，内蒙古呼和浩特市，MPCVD微波化学气相沉积设备运行中。中新社记者 刘文华 摄 10月",
+      "summary": "中新网北京10月15日电(记者 王诗尧)一部国产剧国内还没大爆，海外先火起来了；中国演员演绎的职场故事，远在巴西的观众追得停不下来；更有多部国产剧的评论区里，充斥着用各国语言忙着安利剧情、讨论角色的外国网友……",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715204.shtml",
-      "publishedAt": "2026-10-15T11:20:18.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715366.shtml",
+      "publishedAt": "2026-10-15T15:18:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207944.shtml",
-      "title": "“启新程——遇见彼此，共赴未来”中美青年交流活动在北京大学举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
+      "title": "一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网北京10月15日电 (张晓曦 覃纤睿)“以《红楼梦》为蓝本的青春越剧《我的大观园》，从大陆一路演到宝岛台湾，其中有不少推动中华优秀传统文化创造性转化、创新性发展的巧思。”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207944.shtml",
-      "publishedAt": "2026-10-15T11:19:18.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
+      "publishedAt": "2026-10-15T15:13:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,20 +139,469 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-15/10715202.shtml",
-      "title": "中比高校举办交流活动展示中国书画魅力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715363.shtml",
+      "title": "共探海洋产业升级路径 福建东山举办“做好‘海’的文章”水产品购销暨海洋经济招商大会",
       "category": "综合",
-      "summary": "中新网布鲁塞尔10月15日电 (记者 德永健)中国和比利时高校14日在比利时首都布鲁塞尔举办书画交流活动，通过展览展示、作品解读、互动体验等形式，带领比利时民众近距离感受中国书画魅力和文化内涵。",
+      "summary": "中新网福建东山10月15日电 (欧东茵 汤志超 林宏志)10月15日，以“向海图强·渔获满舱”为主题的东山县“做好‘海’的文章”水产品购销暨海洋经济招商大会在福建省漳州市东山县马銮湾畔开幕。200余名嘉宾齐聚东山，以渔为媒、以会搭台，共探海洋产业升级路径。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715202.shtml",
-      "publishedAt": "2026-10-15T11:19:10.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715363.shtml",
+      "publishedAt": "2026-10-15T15:11:39.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715362.shtml",
+      "title": "海口海关完成海南首家AEO高级认证企业简易复核",
+      "category": "综合",
+      "summary": "中新网海口10月15日电 (熊承云 胡雪芬)海口海关15日披露，高级认证企业(AEO)海南泛宇外轮代理有限公司近日成功适用简易复核程序，成为海南首家完成AEO高级认证复核的企业。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715362.shtml",
+      "publishedAt": "2026-10-15T15:07:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715360.shtml",
+      "title": "探寻乡村发展变迁 海峡两岸媒体来湘联合采访启动",
+      "category": "综合",
+      "summary": "中新网长沙10月15日电 (付敬懿)“美丽乡村三湘行——第21届海峡两岸媒体记者来湘联合采访活动”15日晚在湖南长沙市启动，海峡两岸40余位媒体人开启为期7天的交流参访之旅，发现和记录湖南乡村热土上的时代发展与变迁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715360.shtml",
+      "publishedAt": "2026-10-15T15:06:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715361.shtml",
+      "title": "王毅会见巴勒斯坦外长：坚定支持巴人民争取恢复民族合法权利的正义事业",
+      "category": "综合",
+      "summary": "中新社北京10月15日电 当地时间10月15日，中共中央政治局委员、外交部长王毅在巴库出席亚信峰会期间会见巴勒斯坦外长法尔辛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715361.shtml",
+      "publishedAt": "2026-10-15T14:46:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715359.shtml",
+      "title": "深圳市退役军人无偿献血品牌活动启动",
+      "category": "综合",
+      "summary": "中新网深圳10月15日电 (索有为 孙静 胡俊瑶)“热血军魂耀鹏城”深圳市退役军人无偿献血品牌活动启动仪式15日在深圳市血液中心举行，该活动是覆盖全年、辐射全市的常态化品牌活动，覆盖全市30万退役军人，标志着深圳退役军人无偿献血工作从阶段性活动走向品牌化、常态化、体系化运作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715359.shtml",
+      "publishedAt": "2026-10-15T14:45:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715358.shtml",
+      "title": "（活力中国）数智加持 “柳州造” 借平陆运河出海东盟",
+      "category": "综合",
+      "summary": "【东盟专线】(活力中国)数智加持 “柳州造” 借平陆运河出海东盟",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715358.shtml",
+      "publishedAt": "2026-10-15T14:16:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715201.shtml",
+      "title": "四川省达州市政协原党组书记陈文胜被“双开”",
+      "category": "综合",
+      "summary": "中新网10月15日电 据四川省纪委监委消息：日前，经四川省委批准，四川省纪委监委对达州市政协原党组书记陈文胜严重违纪违法问题进行了立案审查调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715201.shtml",
+      "publishedAt": "2026-10-15T14:07:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715353.shtml",
+      "title": "西藏大学驻村工作队为高原群众免费筛查高原适应性调节功能",
+      "category": "综合",
+      "summary": "中新网拉萨10月15日电 (拉珍 次旦曲珍 扎西伦珠)近日，西藏那曲市班戈县佳琼镇那高查村西藏大学第十五批驻村工作队联合该校高原脑科学科研团队，在佳琼镇辖区内为当地干部群众开展高原适应性调节功能免费筛查。在为期两天的时间里，筛查队先后走进辖区多个村居，重点面向60岁以上老人和有高原不适症状的群众进行筛查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715353.shtml",
+      "publishedAt": "2026-10-15T14:06:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715352.shtml",
+      "title": "（投资中国）阿科玛集团董事长：中国市场对洞察应用趋势和客户需求尤为关键",
+      "category": "综合",
+      "summary": "中新社上海10月15日电 (记者 姜煜)“中国市场对我们洞察应用趋势和客户需求尤为关键。”阿科玛集团董事长兼首席执行官雷埃纳夫(Thierry Le Hénaff)15日在上海表示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715352.shtml",
+      "publishedAt": "2026-10-15T14:06:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715351.shtml",
+      "title": "8月台湾制造业加班工时创46年同月新高",
+      "category": "综合",
+      "summary": "中新社台北10月15日电 (记者 路梅)台当局“主计总处”15日公布的最新统计显示，8月台湾制造业平均每人加班17.7小时，创46年来同月新高，其中受惠于人工智能(AI)商机的电子零组件制造业平均每人加班28小时，电脑电子产品及光学制品制造业平均每人加班16.6小时。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715351.shtml",
+      "publishedAt": "2026-10-15T14:05:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715334.shtml",
+      "title": "武部新接任日本农林水产大臣",
+      "category": "综合",
+      "summary": "中新社东京10月15日电 (记者 朱晨曦)据日本广播协会15日报道，日本自民党众议员武部新当日正式出任农林水产大臣，接替因自身失言等丑闻辞职的梁和生。这是武部新首次入阁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715334.shtml",
+      "publishedAt": "2026-10-15T14:04:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715332.shtml",
+      "title": "韩国股市遭遇“黑色星期四” 两大指数收跌超7%",
+      "category": "综合",
+      "summary": "中新社首尔10月15日电 (记者 金旭)当地时间15日，韩国股市遭遇“黑色星期四”。韩国综合股价指数(KOSPI)和高斯达克指数(KOSDAQ)大幅下跌，一度触发市场熔断机制，收盘跌幅均超7%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715332.shtml",
+      "publishedAt": "2026-10-15T14:04:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715354.shtml",
+      "title": "前三季度四川货物贸易进出口总值增长6.3%",
+      "category": "综合",
+      "summary": "中新网成都10月15日电 (记者 张浪)15日，据成都海关消息，今年前三季度，四川货物贸易进出口总值8254.6亿元，规模创历史同期新高，列全国第九、西部第一，同比(下同)增长6.3%。其中，出口4494.9亿元，下降2.5%；进口3759.7亿元，增长19.1%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715354.shtml",
+      "publishedAt": "2026-10-15T14:02:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715357.shtml",
+      "title": "两岸青年“随手拍”活动武汉开营 朱凤莲寄语台青投身两岸融合发展",
+      "category": "综合",
+      "summary": "中新网10月15日电(燕新台)10月15日，第十届“台湾青年看武汉 魅力江城随手拍”活动在武汉开营。据悉，本次活动为期10天，海峡两岸80余名青年将走进武汉历史街巷、美丽乡村、产业园区等，用镜头记录城市发展风貌、讲述彼此情谊。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715357.shtml",
+      "publishedAt": "2026-10-15T14:02:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715335.shtml",
+      "title": "王毅同阿塞拜疆外长巴伊拉莫夫会谈",
+      "category": "综合",
+      "summary": "2026年10月15日，中共中央政治局委员、外交部长王毅在巴库同阿塞拜疆外长巴伊拉莫夫举行会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715335.shtml",
+      "publishedAt": "2026-10-15T14:01:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715355.shtml",
+      "title": "比亚迪敲定马来西亚组装伙伴 转用现有厂房推进本地生产",
+      "category": "综合",
+      "summary": "中新社吉隆坡10月15日电 (记者 刘育英)中国新能源汽车制造商比亚迪马来西亚公司15日宣布，正式委任森那美汽车公司旗下的Inokom公司为其马来西亚全散件组装(CKD)合作伙伴。此举意味着比亚迪在马来西亚的生产布局，由原先计划自建专属工厂转向利用合作伙伴的现有组装设施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715355.shtml",
+      "publishedAt": "2026-10-15T14:01:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715356.shtml",
+      "title": "海南自贸港封关以来珍珠加工增值内销货值破亿",
+      "category": "综合",
+      "summary": "中新网海口10月15日电 (张昊宇 李博雅)海南自贸港封关后，在加工增值政策赋能下，海南黄金珠宝产业加速发展。海口海关15日披露，自2025年12月18日海南全岛封关运作以来截至今年9月底，海口海关已累计监管珍珠加工增值内销成品货值1.2亿元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715356.shtml",
+      "publishedAt": "2026-10-15T14:00:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715350.shtml",
+      "title": "通信感知网开通运行 中国渤海海域5G网络覆盖率超80%",
+      "category": "综合",
+      "summary": "中新社北京10月15日电 (记者 刘亮)由中国交通运输部北海航海保障中心联合中国海油、中国移动共同建设的渤海海域通信感知网15日正式开通运行。这标志着渤海全面进入高速互联、全域感知的新阶段，为涉海活动提供高速、稳定、可靠的宽带通信和实时感知服务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715350.shtml",
+      "publishedAt": "2026-10-15T13:59:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-15/10715349.shtml",
+      "title": "甘肃讨赖河绿洲灌溉系统见证两千年水利开发史",
+      "category": "综合",
+      "summary": "中新网兰州10月15日电 (记者 冯志军)古代河川引水工程中密集运用长大隧洞的罕见实例；都江堰的修造工艺和北方埽工技术在西北干旱区的完美融合；流域传统分水制度堪称干旱区水资源分配体系的活化石……新晋世界灌溉工程遗产名录的甘肃讨赖河绿洲灌溉系统，各类核心物项至今尚在运行，具有突出的工程技术史价值与丰富的历史文化内涵。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715349.shtml",
+      "publishedAt": "2026-10-15T13:59:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715348.shtml",
+      "title": "运力追着客流跑 国铁广州局五年到发旅客逾52亿人次",
+      "category": "综合",
+      "summary": "中新网广州10月15日电 (郭军 方杰 董剑锋)中国铁路广州局集团有限公司(以下简称“国铁广州局”)15日发布的统计数据显示，2021年9月至2026年9月，该局累计到发旅客超52.1亿人次。2025年发送旅客6.23亿人次，较2021年增长58.5%，创下历史新高。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715348.shtml",
+      "publishedAt": "2026-10-15T13:59:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-15/10715347.shtml",
+      "title": "第13届乌镇戏剧节在浙江嘉兴开幕",
+      "category": "综合",
+      "summary": "中新社浙江嘉兴10月15日电 (林波 曹丹)第13届乌镇戏剧节15日晚在浙江嘉兴开幕。本届戏剧节以“澹远”为主题，将持续至10月25日。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715347.shtml",
+      "publishedAt": "2026-10-15T13:59:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-15/10715342.shtml",
+      "title": "2026场地自行车世锦赛第二比赛日突发摔车意外",
+      "category": "综合",
+      "summary": "图为瑞士队选手(左)与捷克队选手发生碰撞摔车。中新社记者 张亨伟 摄 图为捷克队受伤选手被抬上担架。中新社记者 张亨伟 摄 图为日本队选手摔车退赛。中新社记者 张亨伟 摄 图为车阵后方，瑞士队选手与捷克队选手发生碰撞摔车。中新社记者 张亨伟 摄 图为女子团体追逐赛决赛，选手们在密集车阵中激烈竞争。中新社记者 张亨伟 摄 图为女子团体追逐赛，赛事采用每两圈末尾",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715342.shtml",
+      "publishedAt": "2026-10-15T13:59:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715345.shtml",
+      "title": "探访2026机器人勇士挑战赛秋季赛实训场：机器人“闯关” 刚需场景",
+      "category": "综合",
+      "summary": "中新网北京10月15日电 (杜燕 孙艳平)人形机器人拉门、关阀，四足轮式机器人翻断桥、拨开关……10月15日，在北京南海子公园亲水广场东侧的训练场上，参加2026机器人勇士挑战赛秋季赛的多支赛队正进行实地训练。作为北京经济技术开发区(简称“北京经开区”，也称“北京亦庄”)打造的独立赛事IP，本届赛事吸引了来自全国企业、学校的29支赛队，助推机器人从“跑跳展示",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715345.shtml",
+      "publishedAt": "2026-10-15T13:59:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715337.shtml",
+      "title": "第二十三届中国住博会在北京开幕",
+      "category": "综合",
+      "summary": "中新网北京10月15日电 (陈昊星)15日，第二十三届中国国际住宅产业暨建筑工业化产品与设备博览会(以下简称“中国住博会”)在北京首钢国际会展中心开幕。本届展会由住房和城乡建设部科技与产业化发展中心、中国房地产业协会、中国建筑文化中心主办，以“科技创新好房子 绿色低碳好生活”为主题，探讨科技创新助力城乡建设高质量发展新路径，共绘绿色低碳宜居生活新蓝图。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715337.shtml",
+      "publishedAt": "2026-10-15T13:57:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-15/10715339.shtml",
+      "title": "青海西宁：学生了解长江流域彩陶文化",
+      "category": "综合",
+      "summary": "10月15日，青海西宁，学生参观马家窑文化双人抬物纹彩陶盆。中新社记者 马铭言 摄 10月15日，青海西宁，学生了解宗日文化陶器。中新社记者 马铭言 摄 10月15日，青海西宁，学生参观马家窑文化舞蹈纹彩陶盆。中新社记者 马铭言 摄 10月15日，青海西宁，湖北省博物馆工作人员向学生讲解屈家岭文化。中新社记者 马铭言 摄 10月15日，青海西宁，学生了解马家",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715339.shtml",
+      "publishedAt": "2026-10-15T13:57:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad#2",
+      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
+      "category": "国际",
+      "summary": "連接中國與朝鮮的鴨綠江大橋，在閒置12年之後終於正式開通。近年朝鮮與俄羅斯關係愈走愈近，專家分析中方需要透過開通大橋鞏固對朝關係，也被視為關係回暖的象徵。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T12:46:44.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -147,444 +613,12 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T11:09:11.000Z",
+      "publishedAt": "2026-10-15T11:39:24.000Z",
       "tags": [
         "国际",
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715198.shtml",
-      "title": "打造零碳科技城市 福建宁德发布《零碳宁德行动方案》",
-      "category": "综合",
-      "summary": "中新网宁德10月15日电 (记者 吕巧琴 叶茂)2026世界储能大会15日在福建省宁德市开幕。其间，宁德市委常委、市政府常务副市长刘笃凡发布《零碳宁德行动方案》，打造多元场景落地应用的实践样板。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715198.shtml",
-      "publishedAt": "2026-10-15T11:05:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715196.shtml",
-      "title": "新一代超大型油轮“弗朗特 德文”轮在辽宁命名交付",
-      "category": "综合",
-      "summary": "中新网大连10月15日电 (记者 杨毅)由中国船舶集团旗下大连造船为挪威SEATANKERS建造的30.7万吨原油船“弗朗特 德文”轮15日在辽宁大连命名交付，较合同期提前77天。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715196.shtml",
-      "publishedAt": "2026-10-15T11:04:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715195.shtml",
-      "title": "湖南江永早香芋抢“鲜”上市 特色产业助民稳增收",
-      "category": "综合",
-      "summary": "中新网永州10月15日电 (田海忠 欧阳文)眼下，湖南江永县早熟香芋进入集中采收季。在该县千家峒瑶族乡凤岩山村种植基地，农户抢抓晴好天气采挖、分拣、装车外销，新鲜早香芋批量抢鲜上市。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715195.shtml",
-      "publishedAt": "2026-10-15T11:04:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-15/10715193.shtml",
-      "title": "武汉香港携手搭建科创协同平台",
-      "category": "综合",
-      "summary": "中新社武汉10月15日电 (武一力 杨凡)“智汇荆楚·港通全球”武汉科创企业借港出海发展交流会15日在武汉举行，本次活动搭建起汉港科创协同平台，以香港之所长对接武汉之所需，助力武汉科创企业拓展全球市场。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715193.shtml",
-      "publishedAt": "2026-10-15T11:03:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715199.shtml",
-      "title": "重庆举办专场招聘会 830余家单位释放6万余个岗位",
-      "category": "综合",
-      "summary": "中新网重庆10月15日电 (记者 钟旖)15日，教育部2027届高校毕业生“金秋启航”校园招聘月西南地区专场招聘会暨重庆大学2027届毕业生秋季大型双选活动举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715199.shtml",
-      "publishedAt": "2026-10-15T11:02:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715200.shtml",
-      "title": "卢浮宫馆长警告说可能被迫关闭卢浮宫",
-      "category": "综合",
-      "summary": "法国卢浮宫博物馆馆长克里斯托夫·勒里博日前表示，如果卢浮宫得不到修缮、调整和改造，其地位将迅速下降，最终可能不得不对公众关闭。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715200.shtml",
-      "publishedAt": "2026-10-15T10:59:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715194.shtml",
-      "title": "首趟“京铁燕赵班列·援疆号”多式联运班列石家庄首发",
-      "category": "综合",
-      "summary": "中新网石家庄10月15日电 (赵丹媚 邢璐 张雍)10月15日，首趟“京铁燕赵班列·援疆号”多式联运班列满载汽车配件、轮胎、橡胶制品等货物从石家庄鸣笛启程，驶向新疆库尔勒东站。这是继石家庄至乌鲁木齐、喀什快速多式联运班列之后，石家庄至新疆方向开行的又一条快速多式联运班列，将为石家庄市对口支援库尔勒市、深化冀疆经贸合作提供新的物流支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715194.shtml",
-      "publishedAt": "2026-10-15T10:57:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715192.shtml",
-      "title": "（投资中国）在华扎根40载 中外运敦豪持续看好中国市场",
-      "category": "综合",
-      "summary": "中新社北京10月15日电 (记者 刘亮)今年，中外运敦豪国际航空快件有限公司(中外运敦豪)在华迎来成立40周年。15日在北京举行的庆典活动上，中外运敦豪释放持续看好中国市场的信号。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715192.shtml",
-      "publishedAt": "2026-10-15T10:57:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715191.shtml",
-      "title": "第140届广交会迎客 “硬核”科技产品吸睛",
-      "category": "综合",
-      "summary": "中新社广州10月15日电 (记者 程景伟)第140届广交会15日在广州开门迎客。今年恰逢广交会创办70周年，本届广交会展览规模达155万平方米，3.2万家参展企业中，专精特新、单项冠军等优质企业超过1.1万家。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715191.shtml",
-      "publishedAt": "2026-10-15T10:55:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-15/10715197.shtml",
-      "title": "俄安全局逮捕一企图对俄实施恐袭的瑞典公民",
-      "category": "综合",
-      "summary": "俄罗斯联邦安全局15日发布通报说，该局在俄西北部普斯科夫州逮捕一名非法越境进入俄罗斯的瑞典公民，此人企图对俄军事设施实施恐怖袭击。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715197.shtml",
-      "publishedAt": "2026-10-15T10:41:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715188.shtml",
-      "title": "中国工商银行深圳分行原副行长姚玉平被开除党籍",
-      "category": "综合",
-      "summary": "中新网10月15日电 据中央纪委国家监委驻中国工商银行纪检监察组、广东省纪委监委消息：日前，中央纪委国家监委驻中国工商银行纪检监察组、广东省江门市监委对中国工商银行深圳分行原党委委员、副行长姚玉平严重违纪违法问题进行了立案审查调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715188.shtml",
-      "publishedAt": "2026-10-15T10:13:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-15/10715181.shtml",
-      "title": "额济纳胡杨林美成“金色海洋” 蓝天碧水同框出片",
-      "category": "综合",
-      "summary": "图为观光小火车穿行于额济纳金色胡杨林间。田佳龙 摄 图为胡杨绵延不绝，满目鎏金。牛嘉颖 摄 图为额济纳金色胡杨林。田佳龙 摄 图为金色的胡杨叶片在阳光下更加绚烂迷人。赵勇强 摄 图为在蓝天的映衬下，额济纳金色胡杨林铺展成一幅天然的画卷。赵勇强 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715181.shtml",
-      "publishedAt": "2026-10-15T10:09:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715183.shtml",
-      "title": "“中国第一展”磁力凸显 白云机场口岸单日入境外籍人员破2万人次",
-      "category": "综合",
-      "summary": "中新社广州10月15日电 (方伟彬 周笑臣)第140届中国进出口商品交易会(广交会)15日在广州开幕，白云机场口岸自10月10日起迎来客流高峰。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715183.shtml",
-      "publishedAt": "2026-10-15T10:03:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715184.shtml",
-      "title": "（乡村行·看振兴）烟火伴丹青：吉林松花湖畔小镇绘就文旅新图景",
-      "category": "综合",
-      "summary": "中新网吉林10月15日电 题：烟火伴丹青：吉林松花湖畔小镇绘就文旅新图景",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715184.shtml",
-      "publishedAt": "2026-10-15T10:03:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715185.shtml",
-      "title": "（校馆弦歌）一座未完成的“大屋顶”，如何长成一所大学的报国路？",
-      "category": "综合",
-      "summary": "中新网广州10月15日电 题：一座未完成的“大屋顶”，如何长成一所大学的报国路？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715185.shtml",
-      "publishedAt": "2026-10-15T10:03:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715182.shtml",
-      "title": "中国首个全链条绿色低碳乙烯工程全面投入商业运营",
-      "category": "综合",
-      "summary": "中新社北京10月15日电 (记者 庞无忌)中国首个全链条绿色低碳乙烯工程——中国石油独山子石化塔里木120万吨/年二期乙烯及配套绿色低碳示范工程15日全面投入商业运营。这也标志着中国石油在新疆形成300万吨级乙烯产业长周期稳定运营能力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715182.shtml",
-      "publishedAt": "2026-10-15T09:58:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715180.shtml",
-      "title": "贝宁眼科博士抵宁研修 援贝宁“光明行”从“输血”走向“造血”",
-      "category": "综合",
-      "summary": "中新网银川10月15日电 (记者 杨迪)记者15日从宁夏卫生健康委获悉，近日，来自贝宁共和国的两名眼科博士抵达银川，将在宁夏回族自治区人民医院宁夏眼科医院开展为期三个月的专项研修学习。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715180.shtml",
-      "publishedAt": "2026-10-15T09:58:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/10-15/10715179.shtml",
-      "title": "陕西高院发布涉外商事调解典型案例 护航高水平对外开放",
-      "category": "综合",
-      "summary": "中新网西安10月15日电 (记者 梅镱泷 张一辰)陕西省高级人民法院15日举办涉外商事调解典型案例新闻发布会，现场通报了陕西法院涉外商事纠纷化解工作情况，同时发布了陕西涉外商事调解典型案例。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/10-15/10715179.shtml",
-      "publishedAt": "2026-10-15T09:57:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715178.shtml",
-      "title": "“启新程——遇见彼此，共赴未来”中美青年交流活动在北京大学举行",
-      "category": "综合",
-      "summary": "中新网北京10月15日电 (记者 周昕)由中国教育国际交流协会和北京大学共同主办的“启新程——遇见彼此，共赴未来”中美青年交流活动14日在北京大学英杰交流中心阳光大厅举行。中美高校、企业代表以及中美青年学生等300余人共同参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715178.shtml",
-      "publishedAt": "2026-10-15T09:57:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-15/10715177.shtml",
-      "title": "61幅作品呈展传统笔韵 曾景祥写意花鸟画展启幕",
-      "category": "综合",
-      "summary": "中新网湖南湘潭10月15日电 由湘潭市文联指导，湘潭市美术家协会、齐白石画院、湖南科技大学主办的“不尽清香淡淡来——曾景祥写意花鸟画展”日前在湘潭齐白石画院开幕。展览展出曾景祥写意花鸟作品61幅。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715177.shtml",
-      "publishedAt": "2026-10-15T09:57:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-15/10715176.shtml",
-      "title": "（八闽千姿）长泰龙津古陂：古水长流 向新而生",
-      "category": "综合",
-      "summary": "中新社福建长泰10月15日电 题：长泰龙津古陂：古水长流 向新而生",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715176.shtml",
-      "publishedAt": "2026-10-15T09:56:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-15/10715175.shtml",
-      "title": "广西多个地市选举产生新一届政协主席",
-      "category": "综合",
-      "summary": "中新网南宁10月15日电(张广权)连日来，广西梧州、玉林、贺州、来宾、河池等多个地市相继召开新一届政协会议，选举产生新一届政协主席。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715175.shtml",
-      "publishedAt": "2026-10-15T09:56:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-15/10715173.shtml",
-      "title": "2026上海衍生品市场论坛举行",
-      "category": "综合",
-      "summary": "中新网上海10月15日电 (高志苗)以“提质增效 向新而行 加快推动‘十五五’时期衍生品市场高质量发展”为主题的2026上海衍生品市场论坛15日在上海期货大厦举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715173.shtml",
-      "publishedAt": "2026-10-15T09:55:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-15/10715172.shtml",
-      "title": "2026年宁夏青少年足球超级联赛开赛",
-      "category": "综合",
-      "summary": "中新网银川10月15日电 (记者 杨迪)10月15日，2026年宁夏青少年足球超级联赛在银川正式启幕。宁夏30支青少年代表队、708名青少年球员齐聚绿茵场，点燃赛场激情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-15/10715172.shtml",
-      "publishedAt": "2026-10-15T09:55:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -747,7 +781,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#1",
       "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
       "category": "国际",
       "summary": "對被指控在印尼焚燒土地的企業，以及未能阻止這些行為的當局，人們的憤怒情緒正不斷升高。",
@@ -794,6 +828,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143003",
+      "title": "【专题报道 | 前方视野】从竹屋到石场废料砖：五个改变生活的住房项目荣获联合国嘉奖",
+      "category": "国际",
+      "summary": "全球目前有34亿人缺乏安全、可负担和适足的住房。来自巴基斯坦、缅甸、巴西、突尼斯和英国的五项创新实践，向世界展示了解决住房危机的不同路径。在2026年世界人居日全球纪念活动于10月5日至8日在阿曼首都马斯喀特举行期间，联合国人居署向这五个项目颁发2026年“荣誉奖”，表彰他们在推进适足住房和可持续城市发展方面作出的突出贡献。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143003",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -902,23 +954,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad#1",
-      "title": "俄羅斯以間諜罪嫌抓捕日本駐庫頁島記者",
-      "category": "国际",
-      "summary": "莫斯科國安部門指控該名《北海道新聞》記者為東京當局搜集俄國防衛能力情報。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T10:34:28.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1631,24 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142971",
-      "title": "联合国警告也门冲突升级 人道主义危机加剧",
-      "category": "国际",
-      "summary": "联合国秘书长也门问题特使格伦德贝里和主管人道主义事务助理秘书长兼紧急救济副协调员亚希亚周五向安理会通报也门局势时警告，也门战事再次蔓延至多条战线，人道主义危机急剧恶化，呼吁各方保护平民、确保人道主义援助畅通无阻，并推动通过政治进程解决冲突。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142971",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:c6440e38-411f-47f5-b7bf-51e26e0401dd",
       "title": "世卫组织敦促从机构化精神卫生保健向社区精神卫生保健过渡",
       "category": "健康",
@@ -1759,23 +1776,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T03:16:15.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad#2",
-      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-      "category": "国际",
-      "summary": "一架從阿聯酋杜拜飛往以色列的「杜拜航空」（Flydubai）客機上，發生企圖空中劫機事件。其中一名機師刺傷另一名機副機後，機上乘客在機人員協助下闖進駕駛艙並合力制伏施襲者。以色列即將舉行大選，當局尚未透露涉案副機師的施襲動機。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T06:20:54.000Z",
       "tags": [
         "国际",
         "商业",
