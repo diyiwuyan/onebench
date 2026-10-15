@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143002",
+      "title": "海地制裁措施续期：切断帮派的弹药供应",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143002",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143001",
+      "title": "刚果民主共和国霍乱病例增加，埃博拉疫情加重医疗系统负担",
+      "meta": "联合国新闻 · 2026/10/14",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143001",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143000",
       "title": "粮食署：也门战事阻断80万人援助，或将引发人道主义灾难",
       "meta": "联合国新闻 · 2026/10/14",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/9",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142971",
       "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142972",
-      "title": "贸发会议：2026年全球经济增长预计放缓至2.6%",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142972",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142970",
-      "title": "世卫组织呼吁从机构化照护转向社区精神卫生照护",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142970",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-14T23:14:20.747Z",
+  "updatedAt": "2026-10-15T04:39:13.950Z",
   "provider": "OneBench 公共资讯快照"
 }
