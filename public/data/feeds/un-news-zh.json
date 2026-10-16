@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143012",
+      "title": "【子午播报】2026年10月16日",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143012",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143011",
       "title": "全球每年逾350万人死于铅暴露",
       "meta": "联合国新闻 · 2026/10/15",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/11",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142982",
       "publishedAt": "2026-10-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142981",
-      "title": "秘书长强烈谴责胡塞武装袭击利雅得机场致12人死亡数百人受伤",
-      "meta": "联合国新闻 · 2026/10/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142981",
-      "publishedAt": "2026-10-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-16T13:15:23.531Z",
+  "updatedAt": "2026-10-16T18:03:32.295Z",
   "provider": "OneBench 公共资讯快照"
 }
