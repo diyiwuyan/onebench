@@ -5,6 +5,55 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143011",
+      "title": "全球每年逾350万人死于铅暴露",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143011",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143010",
+      "title": "肯尼亚确诊第二例埃博拉病例，世卫组织呼吁加强防控",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143010",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143009",
+      "title": "你的脑部数据会被用来对付你吗？联合国呼吁对神经技术加以限制",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143009",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143008",
+      "title": "联合国官员警告加沙重陷战争风险上升，呼吁重启真正和平进程",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143008",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143007",
+      "title": "保护生物多样性目标进展滞后，世界正开打一场“对自然的战争”",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143007",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143006",
+      "title": "联合国警告：人工智能、绿色能源和经济转型可能导致弱势群体被抛在后面",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143006",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143005",
+      "title": "阿富汗近四成人口将面临严重粮食短缺，营养不良问题加剧",
+      "meta": "联合国新闻 · 2026/10/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143005",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143003",
       "title": "【专题报道 | 前方视野】从竹屋到石场废料砖：五个改变生活的住房项目荣获联合国嘉奖",
       "meta": "联合国新闻 · 2026/10/14",
@@ -164,57 +213,8 @@
       "meta": "联合国新闻 · 2026/10/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142981",
       "publishedAt": "2026-10-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142980",
-      "title": "联合国人权高专办关注印度德里抗议期间发生大规模拘留事件",
-      "meta": "联合国新闻 · 2026/10/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142980",
-      "publishedAt": "2026-10-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142979",
-      "title": "【子午播报】2026年10月10日",
-      "meta": "联合国新闻 · 2026/10/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142979",
-      "publishedAt": "2026-10-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142977",
-      "title": "【世界进行时】2026年10月9日",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142977",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142976",
-      "title": "联合国警告乌克兰袭击升级 平民伤亡增加",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142976",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142975",
-      "title": "古特雷斯谴责美国对国际刑事法院实施制裁 呼吁维护国际司法独立",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142975",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142974",
-      "title": "人权高专办：以色列持续在叙利亚南部开展军事行动 使平民受到伤害",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142974",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142973",
-      "title": "难民署呼吁增加资金 应对萨赫勒中部地区流离失所危机",
-      "meta": "联合国新闻 · 2026/10/9",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142973",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-15T21:23:07.425Z",
+  "updatedAt": "2026-10-16T00:24:29.984Z",
   "provider": "OneBench 公共资讯快照"
 }
