@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T18:03:32.295Z",
-  "expiresAt": "2026-10-17T00:03:32.295Z",
+  "generatedAt": "2026-10-16T21:08:31.915Z",
+  "expiresAt": "2026-10-17T03:08:31.915Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,78 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143018",
+      "title": "世卫组织: 沙特确诊8例中东呼吸综合征冠状病毒病",
+      "category": "国际",
+      "summary": "世界卫生组织周五表示，沙特阿拉伯向该组织报告了8例经实验室确诊的中东呼吸综合征冠状病毒感染病例，其中包括1例死亡病例。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143018",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143017",
+      "title": "古特雷斯呼吁各方加快行动并增加投入，以遏制生物多样性丧失",
+      "category": "国际",
+      "summary": "联合国生物多样性大会第十七次缔约方大会将于下周在亚美尼亚首都埃里温开幕。联合国秘书长古特雷斯周五在当地举行的领导人峰会上表示，全球超过100万种物种面临灭绝风险，但保护行动却进展缓慢，资金投入严重不足，他敦促各国政府、企业和社会各界加快行动，遏制生物多样性丧失。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143017",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143016",
+      "title": "人权专家：多种形式的剥夺正导致全球土地和水资源所有权集中度达到历史最高水平",
+      "category": "国际",
+      "summary": "联合国人权专家周五警告称，战争与占领、企业土地交易、碳交易和保护计划，以及无视习惯性土地权属的法律，正在剥夺农民、渔民、牧民和土著人民的领地，并使土地集中度达到历史最高水平。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143016",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143013",
+      "title": "安理会聚焦苏丹危机：联合国警告战争正逼近地区失控边缘",
+      "category": "国际",
+      "summary": "联合国负责政治事务的副秘书长迪卡洛（Rosemary DiCarlo）和秘书长苏丹问题个人特使哈维斯托（Pekka Haavisto）周五在安理会公开会议上发出警告称，苏丹冲突不仅没有出现缓和迹象，反而在武器持续流入、无人机袭击增多以及周边局势恶化的背景下，面临进一步升级和外溢风险。他们呼吁冲突双方采取实际措施保护平民，并推动停火与政治进程。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143013",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1522,40 +1594,6 @@
       "hot": false
     },
     {
-      "id": "who-zh-urn:uuid:efbc0ffa-163c-47a9-89fb-dc1530426285",
-      "title": "世卫组织欢迎联合国通过《大流行病预防、防范和应对政治宣言》",
-      "category": "健康",
-      "summary": "世界卫生组织（世卫组织）欢迎联合国大会（联大）今天通过《大流行病预防、防范和应对政治宣言》。该宣言大力重申，为保护子孙后代免受大流行病毁灭性影响，必须展现出全球团结精神和坚定承诺。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/12-10-2026-who-welcomes-adoption-of-united-nations-political-declaration-on-pandemic-prevention-preparedness-and-response",
-      "publishedAt": "2026-10-12T20:19:24.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:8d02afd7-fd06-4b09-9634-8515e6db5043",
-      "title": "粮食安全阶段综合分类伙伴关系就苏丹粮食不安全和营养不良问题发出警报",
-      "category": "健康",
-      "summary": "世界卫生组织（世卫组织）是粮食安全阶段综合分类伙伴关系的成员。该伙伴关系今天发出了关于苏丹粮食不安全和营养不良状况的警报。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
-      "publishedAt": "2026-10-12T16:01:00.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142989",
       "title": "联大投票通过大流行病宣言，美国等三国反对",
       "category": "国际",
@@ -1628,60 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142985",
-      "title": "“效率是有极限的”：难民高专警告，资金削减正压垮难民保护体系",
-      "category": "国际",
-      "summary": "全球目前有1.17亿男子、妇女和儿童被迫逃离家园，为他们提供救助的联合国难民署今年需要85亿美元，但仅有30亿美元到位。资金告急的速度，已快于需求增长的速度。为此，难民事务高级专员萨利赫周一警告，全球寻求庇护者支持体系正面临崩溃风险。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142985",
-      "publishedAt": "2026-10-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142984",
-      "title": "开发署：全球多维贫困自2010年以来首次上升",
-      "category": "国际",
-      "summary": "根据联合国开发计划署与牛津大学牛津贫困与人类发展倡议联合发布的《2026年全球多维贫困指数更新报告》，全球生活在多维贫困中的人口数量自2010年该指数设立以来首次上升，达12亿，较上一次更新增加5150万人。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142984",
-      "publishedAt": "2026-10-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142983",
-      "title": "世卫组织大流行病中心设定目标：24小时内发现新发疫情",
-      "category": "国际",
-      "summary": "世界卫生组织周一表示，已为其大流行病和流行病情报中心启动新的五年战略：到2030年，每个国家都能在新发卫生威胁出现后24小时内将其发现并加以研判。世卫组织表示，加强快速检测是全球卫生安全的基石，有助于各国在疫情升级为更大规模流行病或向国际扩散之前将其遏制。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142983",
-      "publishedAt": "2026-10-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:06c1c1c3-7c92-42f0-b07d-f908bf1c5727",
       "title": "世卫组织大流行病和流行病情报中心确定宏伟目标：在24小时内发现新发疫情",
       "category": "健康",
@@ -1695,24 +1679,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142982",
-      "title": "吉布提近海发生严重沉船事故：139人遇难",
-      "category": "国际",
-      "summary": "国际移民组织周日表示，一艘载有305人的船在吉布提近海翻沉，造成至少139名移民遇难，另有84余人仍下落不明。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142982",
-      "publishedAt": "2026-10-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -2133,6 +2099,40 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations",
       "publishedAt": "2026-08-24T16:39:32.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:a0ffe9af-2cfc-49b6-8d84-6c5828860870",
+      "title": "世卫组织和非洲疾控中心欢迎向刚果民主共和国分配埃博拉疫苗",
+      "category": "健康",
+      "summary": "上周，刚果民主共和国政府向国际疫苗供应协调小组申请从全球埃博拉病毒病疫苗储备中调拨埃尔维博（Ervebo）疫苗。提出这一请求的目的是在当前的本迪布焦病毒病疫情中进行使用。埃尔维博疫苗已获得许可并被推荐用于埃博拉病毒病（以前称为扎伊尔型埃博拉病毒）疫情。本周一，国际疫苗供应协调小组通知刚果政府，将立即发放首批7万剂疫苗。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/20-08-2026-who-and-africa-cdc-welcome-the-allocation-of-ebola-vaccines-to-the-democratic-republic-of-the-congo",
+      "publishedAt": "2026-08-20T09:31:59.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
+      "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
+      "category": "健康",
+      "summary": "非洲疾病预防控制中心（非洲疾控中心）和世界卫生组织（世卫组织）呼吁在刚果民主共和国紧急扩大社区主导的埃博拉应对行动，加强早期发现、接触者随访及护理可及性，支持一线卫生工作者并加快向受影响社区输送资源。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc",
+      "publishedAt": "2026-08-06T16:50:24.000Z",
       "tags": [
         "健康",
         "育儿",

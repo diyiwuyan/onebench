@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143018",
+      "title": "世卫组织: 沙特确诊8例中东呼吸综合征冠状病毒病",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143018",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143017",
+      "title": "古特雷斯呼吁各方加快行动并增加投入，以遏制生物多样性丧失",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143017",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143016",
+      "title": "人权专家：多种形式的剥夺正导致全球土地和水资源所有权集中度达到历史最高水平",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143016",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143013",
+      "title": "安理会聚焦苏丹危机：联合国警告战争正逼近地区失控边缘",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143013",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143012",
       "title": "【子午播报】2026年10月16日",
       "meta": "联合国新闻 · 2026/10/16",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/10/12",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142986",
       "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142985",
-      "title": "“效率是有极限的”：难民高专警告，资金削减正压垮难民保护体系",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142985",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142984",
-      "title": "开发署：全球多维贫困自2010年以来首次上升",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142984",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142983",
-      "title": "世卫组织大流行病中心设定目标：24小时内发现新发疫情",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142983",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142982",
-      "title": "吉布提近海发生严重沉船事故：139人遇难",
-      "meta": "联合国新闻 · 2026/10/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142982",
-      "publishedAt": "2026-10-11T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-16T18:03:32.295Z",
+  "updatedAt": "2026-10-16T21:08:31.915Z",
   "provider": "OneBench 公共资讯快照"
 }
