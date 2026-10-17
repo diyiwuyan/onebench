@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T15:35:06.643Z",
-  "expiresAt": "2026-10-17T21:35:06.643Z",
+  "generatedAt": "2026-10-17T18:30:25.219Z",
+  "expiresAt": "2026-10-18T00:30:25.219Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
+      "title": "孟加拉国度假村火灾已致10人死亡",
+      "category": "综合",
+      "summary": "据孟加拉国消防和民防部门最新通报，当地时间17日早晨，该国东南部科克斯巴扎尔地区一度假村餐厅当天发生火灾，已造成10人死亡，多人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
+      "publishedAt": "2026-10-17T15:45:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-17/10716478.shtml",
       "title": "世界超级摩托车锦标赛西班牙站：“张雪机车”首回合获第10名",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
       "publishedAt": "2026-10-17T13:07:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716395.shtml",
-      "title": "中国养老业从“照料”转向“智慧” 年轻人成新生力量",
-      "category": "综合",
-      "summary": "中新网广西柳州10月17日电 (林馨)重阳节前夕，位于广西柳州市的柳州城市职业学院(简称“柳城职”)旅游与康养学院实训课上，“00后”学生正在学习人工智能(AI)舌诊、脉诊等辅助诊断手段。中国养老服务正从“传统照料”向“智慧守护”升级，越来越多年轻人开始进入这一领域。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716395.shtml",
-      "publishedAt": "2026-10-17T13:07:25.000Z",
       "tags": [
         "国内",
         "社会",
