@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#0",
+      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
+      "meta": "BBC 中文 · 2026/10/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T12:54:47.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad#0",
       "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
       "meta": "BBC 中文 · 2026/10/17",
@@ -45,13 +52,6 @@
       "meta": "BBC 中文 · 2026/10/16",
       "url": "https://www.bbc.com/zhongwen/articles/crz65gxl2jxlo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-16T06:21:31.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad#0",
-      "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
-      "meta": "BBC 中文 · 2026/10/16",
-      "url": "https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T00:27:29.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad#0",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:11:24.807Z",
+  "updatedAt": "2026-10-17T15:35:06.643Z",
   "provider": "OneBench 公共资讯快照"
 }
