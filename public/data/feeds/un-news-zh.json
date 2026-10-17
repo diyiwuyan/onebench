@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143021",
+      "title": "【世界进行时】2026年10月16日",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143021",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143020",
+      "title": "乌克兰平民伤亡处于近年高位 能源设施遇袭加剧",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143020",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143019",
+      "title": "儿基会：加沙停火一周年 超过340名儿童遇害",
+      "meta": "联合国新闻 · 2026/10/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143019",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143018",
       "title": "世卫组织: 沙特确诊8例中东呼吸综合征冠状病毒病",
       "meta": "联合国新闻 · 2026/10/16",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/10/12",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142989",
       "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142988",
-      "title": "安理会审议叙利亚局势：经济恢复、人道援助和教育危机成为焦点",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142988",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142987",
-      "title": "安理会讨论哥伦比亚和平协议执行情况，特别代表呼吁加强国家治理与安全保障",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142987",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142986",
-      "title": "尼泊尔再遭山洪，联合国紧急驰援",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142986",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:29:16.981Z",
+  "updatedAt": "2026-10-17T06:57:30.814Z",
   "provider": "OneBench 公共资讯快照"
 }

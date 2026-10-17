@@ -5,6 +5,20 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:efbc0ffa-163c-47a9-89fb-dc1530426285",
+      "title": "世卫组织欢迎联合国通过《大流行病预防、防范和应对政治宣言》",
+      "meta": "世界卫生组织 · 2026/10/12",
+      "url": "https://www.who.int/zh/news-room/12-10-2026-who-welcomes-adoption-of-united-nations-political-declaration-on-pandemic-prevention-preparedness-and-response",
+      "publishedAt": "2026-10-12T20:19:24.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:8d02afd7-fd06-4b09-9634-8515e6db5043",
+      "title": "粮食安全阶段综合分类伙伴关系就苏丹粮食不安全和营养不良问题发出警报",
+      "meta": "世界卫生组织 · 2026/10/12",
+      "url": "https://www.who.int/zh/news-room/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
+      "publishedAt": "2026-10-12T16:01:00.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:06c1c1c3-7c92-42f0-b07d-f908bf1c5727",
       "title": "世卫组织大流行病和流行病情报中心确定宏伟目标：在24小时内发现新发疫情",
       "meta": "世界卫生组织 · 2026/10/12",
@@ -129,22 +143,8 @@
       "meta": "世界卫生组织 · 2026/8/24",
       "url": "https://www.who.int/zh/news-room/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations",
       "publishedAt": "2026-08-24T16:39:32.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:a0ffe9af-2cfc-49b6-8d84-6c5828860870",
-      "title": "世卫组织和非洲疾控中心欢迎向刚果民主共和国分配埃博拉疫苗",
-      "meta": "世界卫生组织 · 2026/8/20",
-      "url": "https://www.who.int/zh/news-room/20-08-2026-who-and-africa-cdc-welcome-the-allocation-of-ebola-vaccines-to-the-democratic-republic-of-the-congo",
-      "publishedAt": "2026-08-20T09:31:59.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
-      "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
-      "meta": "世界卫生组织 · 2026/8/6",
-      "url": "https://www.who.int/zh/news-room/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc",
-      "publishedAt": "2026-08-06T16:50:24.000Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:29:16.981Z",
+  "updatedAt": "2026-10-17T06:57:30.814Z",
   "provider": "OneBench 公共资讯快照"
 }

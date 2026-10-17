@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad#0",
+      "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
+      "meta": "BBC 中文 · 2026/10/17",
+      "url": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T05:43:01.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad#0",
       "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
       "meta": "BBC 中文 · 2026/10/16",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-10-16T08:57:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5yn7plnlllo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5yn7plnlllo/trad#1",
       "title": "哈里與梅根返英後首次亮相，為何如此像一場正式王室活動？",
       "meta": "BBC 中文 · 2026/10/16",
       "url": "https://www.bbc.com/zhongwen/articles/ck5yn7plnlllo/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/10/15",
       "url": "https://www.bbc.com/zhongwen/articles/c674pq1e0dxqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-15T05:50:29.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwdd82zm6ml1o/trad#1",
-      "title": "康奈爾大學因性侵案禁止兄弟會派對",
-      "meta": "BBC 中文 · 2026/10/15",
-      "url": "https://www.bbc.com/zhongwen/articles/cwdd82zm6ml1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T04:03:00.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:29:16.981Z",
+  "updatedAt": "2026-10-17T06:57:30.814Z",
   "provider": "OneBench 公共资讯快照"
 }
