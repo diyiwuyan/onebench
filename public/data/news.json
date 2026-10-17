@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T21:08:31.915Z",
-  "expiresAt": "2026-10-17T03:08:31.915Z",
+  "generatedAt": "2026-10-17T00:29:16.981Z",
+  "expiresAt": "2026-10-17T06:29:16.981Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
+      "title": "日媒：高市早苗向靖国神社献祭品",
+      "category": "综合",
+      "summary": "中新网10月17日电 据日本共同社报道，日本首相高市早苗17日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
+      "publishedAt": "2026-10-17T00:19:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
+      "title": "10月17日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
+      "publishedAt": "2026-10-16T23:22:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+      "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
+      "category": "综合",
+      "summary": "新华社哈拉雷10月16日电(记者叶挺)卢萨卡消息：赞比亚政府16日在首都卢萨卡紧急启动口服霍乱疫苗接种工作，以应对近期该国多地暴发的霍乱疫情。据赞比亚卫生部最新通报，本轮疫情已造成25人死亡，确诊病例达966例。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+      "publishedAt": "2026-10-16T22:07:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+      "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
+      "category": "综合",
+      "summary": "当地时间10月16日，苏丹快速支援部队发表声明称，苏丹西部南达尔富尔州首府尼亚拉市当天遭遇无人机袭击，造成至少30名平民死亡，另有数十人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+      "publishedAt": "2026-10-16T22:04:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
       "title": "沙特主导联军称拦截3枚导弹和4架无人机",
@@ -490,78 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716043.shtml",
       "publishedAt": "2026-10-16T16:29:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716042.shtml",
-      "title": "七旬大爷大明湖畔演奏萨克斯火爆全网，网友从全国各地赶来捧场，称其“法拉利老了，依旧是法拉利”",
-      "category": "综合",
-      "summary": "“爷爷，再来一遍！”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716042.shtml",
-      "publishedAt": "2026-10-16T16:27:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-17/10716012.shtml",
-      "title": "五年15条新线建成投产 国铁广州局加快推进路网建设",
-      "category": "综合",
-      "summary": "中新网广州10月16日电 (郭军 方杰 罗肆安)金秋时节，国铁广州局铁路建设工地捷报频传，9月25日广南联络线2标首段无砟道床板开始浇筑，9月30日深江铁路洪奇沥水道公铁大桥合龙，10月1日合湛铁路广东段卖皂河特大桥完成首个连续梁浇筑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716012.shtml",
-      "publishedAt": "2026-10-16T16:08:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-16/10716030.shtml",
-      "title": "从过路客到留量客 社科专家为西双版纳勐海茶文旅康融合“开方”",
-      "category": "综合",
-      "summary": "中新网云南西双版纳10月16日电 (肖弼钰)“茶好喝，才吸引游客，我们从不愁客源。”南糯山村丫口新寨，哈尼族民宿老板散三的院子里，采茶制茶、茶山徒步、非遗体验等项目一应俱全。说起生意，这位从茶山起步的汉子语气笃定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716030.shtml",
-      "publishedAt": "2026-10-16T14:56:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
-      "title": "价格改革推动普惠养老服务提质扩面",
-      "category": "综合",
-      "summary": "养老迎来新变化，关系大家钱包。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
-      "publishedAt": "2026-10-16T14:31:57.000Z",
       "tags": [
         "国内",
         "社会",
