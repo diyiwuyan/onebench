@@ -5,18 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad#0",
+      "title": "法國多地抗議變暴力衝突 巴黎街頭滿是焚毀汽車和碎玻璃",
+      "meta": "BBC 中文 · 2026/10/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T11:28:08.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr15jlq50vq5o/trad#0",
       "title": "在這極速超越高鐵的賽車運動裏，女性車手盡展鋒芒",
       "meta": "BBC 中文 · 2026/10/18",
       "url": "https://www.bbc.com/zhongwen/articles/cr15jlq50vq5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-18T09:09:19.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad#0",
-      "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
-      "meta": "BBC 中文 · 2026/10/18",
-      "url": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T05:12:41.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-18T11:05:17.234Z",
+  "updatedAt": "2026-10-18T15:52:05.492Z",
   "provider": "OneBench 公共资讯快照"
 }
