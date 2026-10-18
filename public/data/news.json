@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T22:19:05.713Z",
-  "expiresAt": "2026-10-18T04:19:05.713Z",
+  "generatedAt": "2026-10-18T04:34:07.003Z",
+  "expiresAt": "2026-10-18T10:34:07.003Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
-      "title": "孟加拉国度假村火灾已致10人死亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-18/10716591.shtml",
+      "title": "白云机场重回榜首 航空枢纽格局生变",
       "category": "综合",
-      "summary": "据孟加拉国消防和民防部门最新通报，当地时间17日早晨，该国东南部科克斯巴扎尔地区一度假村餐厅当天发生火灾，已造成10人死亡，多人受伤。",
+      "summary": "2026年前三季度，国内机场吞吐量榜首再度换位。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
-      "publishedAt": "2026-10-17T15:45:20.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716591.shtml",
+      "publishedAt": "2026-10-18T04:17:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-17/10716478.shtml",
-      "title": "世界超级摩托车锦标赛西班牙站：“张雪机车”首回合获第10名",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad#0",
+      "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
+      "category": "国际",
+      "summary": "法國全國多座城市爆發騷亂，超過50萬人參加了反對生活成本上漲的抗議活動。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T04:15:02.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-18/10716593.shtml",
+      "title": "中新健康|更年期不是病，为什么还需要看医生？",
       "category": "综合",
-      "summary": "中新社西班牙赫雷兹10月17日电 当地时间17日，2026世界超级摩托车锦标赛(WSBK)西班牙赫雷兹站WorldSSP组别首回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯获第10名，他的队友、意大利车手费德里科·卡里卡苏洛位列第14名。雅马哈车手阿雷纳斯夺得冠军。",
+      "summary": "中新网北京10月18日电(张静 许晗)潮热多汗、睡眠不佳、情绪波动、月经紊乱……不少女性进入更年期后，会经历不同程度的身体和心理变化。这些症状是否需要就医？应做哪些检查？每年的10月18日是世界更年期关怀日，中新健康记者采访北京大学第三医院妇产科主治医师梁菊艳，解读女性更年期相关知识。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716478.shtml",
-      "publishedAt": "2026-10-17T15:20:56.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716593.shtml",
+      "publishedAt": "2026-10-18T04:09:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
-      "title": "暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-18/10716595.shtml",
+      "title": "合规风暴下，“万亿帝国”向何处去",
       "category": "综合",
-      "summary": "【东盟专线】暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
+      "summary": "中国新闻周刊记者：程维妙",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
-      "publishedAt": "2026-10-17T15:01:23.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716595.shtml",
+      "publishedAt": "2026-10-18T04:08:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-17/10716472.shtml",
-      "title": "两岸学者福建南平共探朱子文化遗产与融合发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716594.shtml",
+      "title": "万米高空惊魂：一次失败的“自杀式袭击”",
       "category": "综合",
-      "summary": "中新社福建南平10月17日电 (吴冠标 张丽君 陈悦)国际儒学联合会副理事长、台湾元亨书院院长林安梧17日在朱熹故里福建南平表示，朱子不只在宋代，也不只在福建；他在闽台共祭的香火里，在青年重行家礼的仪式里，在书院重启学规的朗读里。",
+      "summary": "中国新闻周刊记者：曹然",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716472.shtml",
-      "publishedAt": "2026-10-17T14:58:03.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716594.shtml",
+      "publishedAt": "2026-10-18T04:04:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
-      "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716590.shtml",
+      "title": "巴媒：巴基斯坦打击阿富汗武装边境军营，打死数名阿武装人员",
       "category": "综合",
-      "summary": "中新网10月17日电 据河北省纪委监委消息，冀中能源集团有限责任公司董事会原董事，峰峰集团有限公司原党委书记、董事长陈亚杰涉嫌严重违纪违法，目前正接受河北省纪委监委纪律审查和监察调查。",
+      "summary": "中新网10月18日电 综合巴基斯坦媒体报道，巴基斯坦安全部门消息人士17日表示，阿富汗武装人员当天在巴基斯坦西北部开伯尔－普什图省巴阿边境地带无端开火，巴安全部队已对此作出有效回应。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
-      "publishedAt": "2026-10-17T14:32:30.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716590.shtml",
+      "publishedAt": "2026-10-18T03:59:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716464.shtml",
-      "title": "辽宁省本溪市政协原党组副书记、副主席邵涛被“双开”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716589.shtml",
+      "title": "5A的金字招牌，过气了吗？",
       "category": "综合",
-      "summary": "中新网10月17日电 据辽宁省纪委监委消息，日前，经辽宁省委批准，辽宁省纪委监委对本溪市政协原党组副书记、副主席邵涛严重违纪违法问题进行了立案审查调查。",
+      "summary": "中国新闻周刊记者：李明子",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716464.shtml",
-      "publishedAt": "2026-10-17T14:31:36.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716589.shtml",
+      "publishedAt": "2026-10-18T03:57:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716465.shtml",
-      "title": "辽宁省沈阳市委原常委、政法委原书记郭忠孝被“双开”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716588.shtml",
+      "title": "AI手机一句话办事 为何被各大应用说“不”？",
       "category": "综合",
-      "summary": "中新网10月17日电 据辽宁省纪委监委消息，日前，经辽宁省委批准，辽宁省纪委监委对沈阳市委原常委、政法委原书记，沈阳市铁西区委原书记郭忠孝严重违纪违法问题进行了立案审查调查。",
+      "summary": "近期，我国首个完成大模型备案到终端入网完整合规流程的AI智能体手机开售。但刚刚上市，智能体操作就遭到了多家App厂家的拒绝。这是怎么回事儿呢？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716465.shtml",
-      "publishedAt": "2026-10-17T14:30:42.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716588.shtml",
+      "publishedAt": "2026-10-18T03:49:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716325.shtml",
-      "title": "做世界减贫事业的有力推动者",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716568.shtml",
+      "title": "中国援外麻醉医生在莱索托开展困难气道培训",
       "category": "综合",
-      "summary": "10月17日是国际消除贫困日。",
+      "summary": "中新网约翰内斯堡10月18日电 非洲高山王国莱索托全国麻醉医师协会近日在中国援建医院马塞卢地区医院学术报告厅举办了一场麻醉学术会议，吸引莱索托麻醉医生、麻醉护士、手术室护士及部分重症医学科、急诊科的专家学者与会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716325.shtml",
-      "publishedAt": "2026-10-17T14:29:35.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716568.shtml",
+      "publishedAt": "2026-10-18T03:47:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716338.shtml",
-      "title": "学习手记｜答好“长征三问” 坚定必胜信念",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716566.shtml",
+      "title": "也门媒体报道沙特空袭荷台达 胡塞武装称击落沙特直升机",
       "category": "综合",
-      "summary": "“长征中能活下来的有多少人？红军战士靠的是什么？图的是什么呢？”",
+      "summary": "中新社北京10月18日电 据也门胡塞武装控制的萨巴通讯社当地时间18日凌晨报道，沙特主导的多国联军对也门荷台达省发动两次空袭。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716338.shtml",
-      "publishedAt": "2026-10-17T14:27:55.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716566.shtml",
+      "publishedAt": "2026-10-18T03:46:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716334.shtml",
-      "title": "习近平总书记关切事·长征｜守护好红色传家宝",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-18/10716577.shtml",
+      "title": "首次落地中国西南 国际汽联TCR世界巡回赛成都站开赛",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网成都10月18日电 (记者 吕杨)国际汽联TCR世界巡回赛成都站比赛10月17日在四川成都天府国际赛道开赛，多国车手齐聚蓉城，一场世界级房车竞速盛宴拉开帷幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716334.shtml",
-      "publishedAt": "2026-10-17T14:25:19.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716577.shtml",
+      "publishedAt": "2026-10-18T03:45:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716318.shtml",
-      "title": "第一观察｜总书记考察绿色算力产业 指引因地制宜发展新质生产力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
+      "title": "健康中国迈入“十五五” 这场大会释放多重新信号",
       "category": "综合",
-      "summary": "10月16日，习近平总书记在内蒙古自治区乌兰察布市考察，前往察哈尔高新技术开发区，了解内蒙古自治区推进“东数西算”工程枢纽节点建设和绿色算力产业发展等情况。",
+      "summary": "晶采观察丨健康中国迈入“十五五” 这场大会释放多重新信号",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716318.shtml",
-      "publishedAt": "2026-10-17T14:24:15.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
+      "publishedAt": "2026-10-18T03:44:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-17/10716467.shtml",
-      "title": "2026国际武当太极文化节开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-18/10716574.shtml",
+      "title": "马拉松“破2”第一人萨维在北京与中国跑者共话耕耘之道",
       "category": "综合",
-      "summary": "中新社湖北武当山10月17日电 (记者 马芙蓉)2026国际武当太极文化节17日晚在湖北武当山开幕，海内外武术爱好者、太极拳习练者、文旅企业代表等共赴盛会。",
+      "summary": "中新网北京10月18日电(记者 国璇) 2026北京马拉松在18日早上正式鸣枪起跑，31岁的肯尼亚运动员、马拉松“破2”第一人塞巴斯蒂安·萨维亲临北马赛道，为选手助威。近期，萨维开启首次中国行，他在北马前夕的交流活动中与中国跑者分享世界纪录背后的耕者精神，让长期坚持与创新突破的体育精神在中外文化交流中产生共鸣。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716467.shtml",
-      "publishedAt": "2026-10-17T14:23:09.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716574.shtml",
+      "publishedAt": "2026-10-18T03:43:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-17/10716468.shtml",
-      "title": "世界著名歌剧院“掌门人”相聚上海 共话歌剧与剧院未来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-18/10716572.shtml",
+      "title": "2026年“一带一路”记者组织论坛聚焦“交汇融通·向新向前·世界变局中的媒体变革”",
       "category": "综合",
-      "summary": "中新社上海10月17日电 (记者 王笈)第二十五届中国上海国际艺术节暨上海大歌剧院开幕高峰对话17日在全新启幕的上海大歌剧院举办，汇聚全球歌剧顶尖力量，共话歌剧与剧院未来。",
+      "summary": "中新网南京10月18日电 (记者 徐珊珊 孙晨慧)2026年“一带一路”记者组织论坛17日在江苏南京举行。围绕“交汇融通·向新向前·世界变局中的媒体变革”主题，来自50余个国家和地区的近百位记者组织负责人和媒体代表进行深入研讨交流。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716468.shtml",
-      "publishedAt": "2026-10-17T14:22:25.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716572.shtml",
+      "publishedAt": "2026-10-18T03:42:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716469.shtml",
-      "title": "澳门卫生局局长：发挥澳门独特优势 助力中医药创新出海",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-18/10716586.shtml",
+      "title": "回望长征 读懂跨越九十余载的信仰力量",
       "category": "综合",
-      "summary": "中新社北京10月17日电 (记者 李纯 周昕 马帅莎)2026世界传统医药大会17日在北京启幕。澳门特区政府卫生局局长罗奕龙当日在接受媒体采访时表示，依托制度优势，澳门持续深化中医药守正创新，搭建传统医药国际交流桥梁，服务健康中国与粤港澳大湾区建设。",
+      "summary": "“伟大的远征——纪念中国工农红军长征胜利90周年”主题展览对外开展以来，社会各界观展热情高涨。跟随记者走进中国人民革命军事博物馆，重温这场震撼世界的伟大远征。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716469.shtml",
-      "publishedAt": "2026-10-17T14:21:39.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716586.shtml",
+      "publishedAt": "2026-10-18T03:41:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml",
-      "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-18/10716567.shtml",
+      "title": "九载“西马”：一条赛道，半部唐诗",
       "category": "综合",
-      "summary": "中新社福州10月17日电 (记者 闫旭)“马普托是南部非洲重要滨海港口城市，与福建在海洋产业、临港经济合作潜力巨大。”莫桑比克马普托市市长拉萨克·马尼克17日在福州表示，希望深化与福建友好城市交往，拓展海洋经济务实合作。",
+      "summary": "中新网西安10月18日电 (记者 张一辰)西安马拉松(以下简称：“西马”)18日清晨如期开跑，3.6万名跑者从永宁门南广场出发一路向北。赛道之上，不只有速度与耐力的角逐，更是一场串联古今、浸润诗韵的城市漫游。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml",
-      "publishedAt": "2026-10-17T14:12:45.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716567.shtml",
+      "publishedAt": "2026-10-18T03:37:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716470.shtml",
-      "title": "克罗地亚总理普连科维奇会见王毅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-18/10716585.shtml",
+      "title": "“新”中有你｜“红色的山口”擦亮绿色发展的底色",
       "category": "综合",
-      "summary": "中新社北京10月17日电 当地时间10月17日，克罗地亚总理普连科维奇在萨格勒布会见中共中央政治局委员、外交部长王毅。",
+      "summary": "今年五一假期，有网友发视频称，她到内蒙古乌兰察布乌兰哈达火山景区游玩时，发现不少游客身穿“宇航服”在火山前打卡拍照，由于人数太多，登上火山口的道路甚至排起了长队。近年来，不只是旅游业“火出圈”，乌兰察布的绿色经济也在蓬勃发展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716470.shtml",
-      "publishedAt": "2026-10-17T13:52:58.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716585.shtml",
+      "publishedAt": "2026-10-18T03:37:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-17/10716453.shtml",
-      "title": "上海市侨联“为侨服务 康养资讯”平台上线",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/gn/shipin/2026/10-18/news1072149.shtml",
+      "title": "习言道丨一个社会幸福不幸福 很重要的是看老年人幸福不幸福",
       "category": "综合",
-      "summary": "中新网上海10月17日电(范宇斌 钱人源)上海市侨联16日举办“侨暖重阳 桑榆相守”——为侨康养服务交流对接活动。活动安排了老年健康讲座、上海优质康养资源介绍，并上线“为侨服务 康养资讯”平台。",
+      "summary": "“一个社会幸福不幸福，很重要的是看老年人幸福不幸福。”今天是重阳节，一起重温习近平尊老敬老的暖心话。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-17/10716453.shtml",
-      "publishedAt": "2026-10-17T13:43:59.000Z",
+      "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-18/news1072149.shtml",
+      "publishedAt": "2026-10-18T03:36:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-17/10716435.shtml",
-      "title": "广东中华职业教育社养老护理员初级公益培训班落地阳春",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716583.shtml",
+      "title": "多艘“违规”油轮起火 伊朗海军就穿越霍尔木兹海峡发警告",
       "category": "综合",
-      "summary": "中新网阳江10月17日电 (记者 郭军)广东中华职业教育社举办的养老护理员初级职业技能公益培训班17日在广东阳江市阳春市举行开班仪式。培训班由广东省委统战部指导、广东机电职业技术学院承办。42名来自当地的农村转移劳动力、城乡就业困难人员以及有意从事养老护理行业的学员迎来这场惠民“技能及时雨”。",
+      "summary": "中新网10月18日电 据外媒报道，伊朗海军17日发布声明宣布，当天早些时候，持续监视与管控霍尔木兹海峡东部入口的海军监测小组发现，一艘“违规”油轮在阿曼湾、靠近海峡东部入口处起火并停航。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716435.shtml",
-      "publishedAt": "2026-10-17T13:38:27.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716583.shtml",
+      "publishedAt": "2026-10-18T03:34:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
-      "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716581.shtml",
+      "title": "47台大科学装置相继投用 戈壁小镇如何成为世界级天文观测基地？",
       "category": "综合",
-      "summary": "中新网湘西10月17日电 题：“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+      "summary": "九十年前，红军将士跨越雪山草地，迎着朝阳前行，走出一条通往新中国的道路。九十年后，柴达木盆地的茫茫戈壁里，另一群“新长征者”接续出发，为中国天文事业开辟通往星辰大海的新征程。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
-      "publishedAt": "2026-10-17T13:34:02.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716581.shtml",
+      "publishedAt": "2026-10-18T03:33:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml",
-      "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716563.shtml",
+      "title": "改革、谋策、存典协同推进 上海演艺全新启航",
       "category": "综合",
-      "summary": "很多老板最近都在焦虑：AI越来越聪明，消费者以后买东西是不是直接让AI比价、比参数了？既然AI能自动筛选出“性价比最高”的产品，那品牌是不是就不重要了？",
+      "summary": "中新网上海10月18日电 (记者 王笈)《上海戏剧振兴三年行动计划(2026—2028年)》发布暨上海演艺集团成立仪式17日在上海大歌剧院举办，活动同步推出《上海市级国有文艺院团经典保留作品集萃》，标志着上海演艺事业改革发展翻开崭新一页。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml",
-      "publishedAt": "2026-10-17T13:31:04.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716563.shtml",
+      "publishedAt": "2026-10-18T03:32:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
-      "title": "宁波网球公开赛：网球名将探访甬城 感知城市魅力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-18/10716565.shtml",
+      "title": "（长征胜利90周年）香港七旬老人郑镇炎重走长征路后：薪火相传，步履不停",
       "category": "综合",
-      "summary": "中新网宁波10月17日电(张煜欢)2026宁波银行·宁波网球公开赛正赛开赛在即，近日参赛球员走出赛场，探访城市展馆与山野艺文空间，沉浸式感受宁波历史底蕴与非遗手作魅力，在赛前开启别样的城市文化之旅。",
+      "summary": "中新社香港10月18日电 题：香港七旬老人郑镇炎重走长征路后：薪火相传，步履不停",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
-      "publishedAt": "2026-10-17T13:26:30.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716565.shtml",
+      "publishedAt": "2026-10-18T03:31:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/mz/2026/10-17/10716442.shtml",
-      "title": "云南民族传统体育逾300项 美美与共促团结",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716534.shtml",
+      "title": "鲁比奥：美政府无人下令降低乌克兰接入“星链”速度",
       "category": "综合",
-      "summary": "中新网昆明10月17日电 题：云南民族传统体育逾300项 美美与共促团结",
+      "summary": "中新网10月18日电 综合美媒当地时间17日报道，乌克兰总统泽连斯基表示，尽管本周早些时候有迹象显示“星链”服务已全面恢复，但乌克兰对“星链”的使用仍受到部分限制。对此，美国国务卿鲁比奥当地时间17日表示，美国政府没有任何人下令让“星链”减速。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/mz/2026/10-17/10716442.shtml",
-      "publishedAt": "2026-10-17T13:23:30.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716534.shtml",
+      "publishedAt": "2026-10-18T03:29:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716402.shtml",
-      "title": "全国堆肥专家齐聚呼和浩特 探索绿色农牧循环新路径",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-18/10716570.shtml",
+      "title": "四川男篮97比85击败天津男篮 取得赛季开门红",
       "category": "综合",
-      "summary": "中新网呼和浩特10月17日电 (记者 刘文华)第二十届全国堆肥技术与工程研讨会17日在呼和浩特开幕。会议以“有机废弃物资源与绿色农牧循环”为主题，聚焦高寒旱区有机废弃物资源化利用的关键瓶颈。来自全国高校、科研院所和企业的专家学者参会交流。",
+      "summary": "中新网成都10月18日电 (记者 吕杨)2026-2027赛季CBA常规赛首轮10月17日晚上演精彩比拼，四川男篮坐镇主场迎来了天津男篮的挑战。上赛季难求一胜的四川男篮本赛季重振旗鼓，补强了外援，增加了“板凳”深度，提高了球队的整体实力。本赛季CBA重启升降级制度，在首轮比赛中，四川男篮与天津男篮都渴望用一场胜利开启新赛季的征程。经过四节鏖战，最终四川男篮以",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716402.shtml",
-      "publishedAt": "2026-10-17T13:21:38.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716570.shtml",
+      "publishedAt": "2026-10-18T03:29:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
-      "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-18/10716554.shtml",
+      "title": "昆曲源乡曲韵流芳 2026昆山巴城·重阳曲会启幕",
       "category": "综合",
-      "summary": "中新网广州10月17日电 (记者 程景伟)在广交会创办70周年之际，2026珠江国际贸易论坛16日在广州广交会堂举办。",
+      "summary": "图为昆山市石牌中心小学校小梅花昆曲艺术团的小演员登台表演节目。中新社记者 泱波 摄 图为昆曲演员表演《浣纱记·寄子》选段。中新社记者 泱波 摄 图为上海昆剧团演员表演《宝剑记·夜奔》选段。中新社记者 泱波 摄 图为昆山当代昆剧院演员表演《白水滩》选段。中新社记者 泱波 摄 图为昆山当代昆剧院演员表演《白水滩》选段。中新社记者 泱波 摄 图为昆山市石牌中心小学",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
-      "publishedAt": "2026-10-17T13:21:20.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716554.shtml",
+      "publishedAt": "2026-10-18T03:29:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716400.shtml",
-      "title": "美国青年贵州行：在社区看见真实中国 在抗战公路读懂合作共赢",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716578.shtml",
+      "title": "各地优化服务 保障群众温暖过冬",
       "category": "综合",
-      "summary": "中新社贵阳10月17日电 (记者 周燕玲)17日，贵州省贵阳市观山湖区金元社区广场上，一名老人正缓缓打着太极，十多名美国青年在后面有模有样地学了起来；社区活动室内，老年合唱团排练《铃儿响叮当》，一名美国青年取出随身带的尤克里里加入伴奏，有人跟着节奏跳起舞，笑声和掌声混在一起。",
+      "summary": "央视网消息(新闻联播)：天气渐冷，北方多地陆续进入今冬供暖季，各地主动问需、优化服务，多举措保障群众温暖过冬。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716400.shtml",
-      "publishedAt": "2026-10-17T13:15:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716578.shtml",
+      "publishedAt": "2026-10-18T03:29:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
-      "title": "韩国学者：朱子家礼海外本土化为多元文明互鉴提供古老智慧",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-18/10716564.shtml",
+      "title": "广交会观察：中国机器人凭借实力出海 境外客商现场下单",
       "category": "综合",
-      "summary": "中新网南平10月17日电 (张丽君 陈悦 吴冠标)在朱子学与多元文明对话大会暨第五届考亭论坛举办期间，韩国中央大学名誉教授卢仁淑围绕《朱子家礼》的海外传播与本土化实践发表了研究观点。她以朝鲜著名学者星湖李瀷的《家礼疾书》为研究样本指出，朱子礼制在朝鲜的落地并非简单的照搬移植，而是结合时代、民生与社会条件的创造性调适，其“因时变通、普惠庶民”的礼学实践，为古今",
+      "summary": "中新社广州10月18日电 (记者 孙秋霞)第140届广交会正在广州举行，连日来，中国机器人人气火爆，不少境外客商举起手机拍摄，有的当场下单，有的约好到工厂实地考察。从清洗高空幕墙、自动割草到搬运货物、助力行走，中国机器人正凭借实力出海，加速从本土走向全球。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
-      "publishedAt": "2026-10-17T13:14:33.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716564.shtml",
+      "publishedAt": "2026-10-18T03:28:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-17/10716443.shtml",
-      "title": "第二十五届中国上海国际艺术节与上海大歌剧院同步开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-18/10716562.shtml",
+      "title": "著名小提琴家约书亚·贝尔登台上海音乐厅",
       "category": "综合",
-      "summary": "中新社上海10月17日电 (记者 王笈)作为第二十五届中国上海国际艺术节开幕式演出，音乐会《上海大歌剧院和她的朋友们》17日晚上演于黄浦江畔同步启幕的上海大歌剧院。",
+      "summary": "中新网上海10月18日电 (记者 王笈)时隔8年，著名小提琴家、指挥家约书亚·贝尔(Joshua Bell)携圣马丁室内乐团于17日晚重返上海音乐厅，不仅以独奏的身份演绎德沃夏克《A小调小提琴协奏曲》，还边拉琴边指挥了莫扎特《C大调第41交响曲“朱庇特”》。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716443.shtml",
-      "publishedAt": "2026-10-17T13:12:33.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716562.shtml",
+      "publishedAt": "2026-10-18T03:27:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-17/10716461.shtml",
-      "title": "克罗地亚总理普连科维奇会见王毅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716576.shtml",
+      "title": "黄渤海水域迎来大风 多地海事部门发布海上重大风险信息提醒",
       "category": "综合",
-      "summary": "新华社萨格勒布10月17日电(记者郭潇宇)克罗地亚总理普连科维奇17日在萨格勒布会见中共中央政治局委员、外交部长王毅。",
+      "summary": "记者从交通运输部海事局了解到，今天黄渤海水域迎来大风，部分航线停航，多地海事部门联合发布海上重大风险信息提醒，及时启动应急响应，全力保障水上交通安全。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716461.shtml",
-      "publishedAt": "2026-10-17T13:11:13.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716576.shtml",
+      "publishedAt": "2026-10-18T03:27:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-17/10716444.shtml",
-      "title": "美国医学专家：西方医学可借鉴传统医药“以人为本”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716559.shtml",
+      "title": "20余名泰国华裔走进云南玉溪：于村寨间看见中国乡村新样貌",
       "category": "综合",
-      "summary": "中新社北京10月17日电 (记者 李纯 马帅莎 周昕)“传统医学更关注患者个人的体验。”2026世界传统医药大会期间，来华参会的美国国家医学院院士、美国达特茅斯学院卫生政策与管理教授阿尔伯特·穆利(Albert Mulley)在北京如是表示。",
+      "summary": "中新网云南玉溪10月18日电 (时文枝)“在我们生活的泰国北部也有一个马房村，同样因建营屯马而得名。”站在云南省玉溪市抚仙湖畔的马房村，泰国华裔杨焕果的一句感叹，道出她与祖籍国的一段特殊缘分。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716444.shtml",
-      "publishedAt": "2026-10-17T13:08:15.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716559.shtml",
+      "publishedAt": "2026-10-18T03:26:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,71 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
-      "title": "“救援先锋”王晓成：洪水中驾动力舟桥转移广西贵港被困师生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-18/10716575.shtml",
+      "title": "蛋白粉涨价就喝蟑螂粉？别乱吃！难替代还有卫生隐患",
       "category": "综合",
-      "summary": "中新网北京10月17日电 题：“救援先锋”王晓成：洪水中驾动力舟桥转移广西贵港被困师生",
+      "summary": "蛋白粉是健身人士常用的增肌补剂，不过最近两年，蛋白粉价格持续走高，许多健身人士直呼喝不起。所谓的蛋白粉“平替”——蟑螂粉成为搜索热门。虽然听着有点心理障碍，但商家说“蟑螂粉”的蛋白质含量能达到百分之七八十，价格只有乳清蛋白粉的十分之一，它能代替蛋白粉成为健身补剂吗？蛋白粉价格一路走高的背后，是什么原因？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
-      "publishedAt": "2026-10-17T13:07:35.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716575.shtml",
+      "publishedAt": "2026-10-18T03:25:56.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad#0",
+      "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
+      "category": "国际",
+      "summary": "研究發現越來越多畢業生利用人工智慧在求職申請中編造個人資訊。但有人認為他們別無選擇。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T00:32:02.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#0",
+      "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
+      "category": "国际",
+      "summary": "美國懷俄明大學一名越南籍研究生的家屬向BBC表示，受害人在辦公室的咖啡機內發現神經毒劑後，至今仍出現疲倦、食慾不振及睡眠欠佳等健康問題。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T00:31:53.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad#0",
+      "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
+      "category": "国际",
+      "summary": "BBC追蹤了一艘長達80米、配有水上滑梯的船隻，旨在進一步了解金正恩如何度過假期——這對大多數朝鮮人而言，是遙不可及的體驗。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T00:31:34.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -607,7 +675,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad#1",
       "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
       "category": "国际",
       "summary": "BBC駐北美記者分析，距離關鍵的國會中期選舉只剩幾個星期，白宮正面臨愈來愈多的挑戰。",
@@ -768,7 +836,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad#1",
       "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
       "category": "国际",
       "summary": "BBC事實查核（BBC Verify）對英國海事機構數據的分析顯示，過去一星期內有12艘船隻遭到襲擊。",
@@ -799,23 +867,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad#0",
-      "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
-      "category": "国际",
-      "summary": "BBC詢問專家，兒童和青少年服用蛋白質補充劑是否安全。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T09:28:44.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -925,7 +976,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad#1",
       "title": "中國製造的玩具如何從工廠到美國？",
       "category": "国际",
       "summary": "聖誕節臨近，我們追蹤兒童玩具從中國工廠到美國貨架的整個過程。",
@@ -956,23 +1007,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad#1",
-      "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
-      "category": "国际",
-      "summary": "特朗普表示，有些人「寧願不觀看」對尼達爾·哈桑的處決。這將是60多年來首次執行軍事死刑槍決。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T16:15:18.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1191,7 +1225,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674pq1e0dxqo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674pq1e0dxqo/trad#4",
       "title": "中國和印度不算老友，尼泊爾想團結他們應對氣候威脅",
       "category": "国际",
       "summary": "尼泊爾能否促成這兩個區域大國攜手應對喜馬拉雅山脈共同面臨的氣候威脅？",
@@ -1437,7 +1471,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad#5",
       "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
       "category": "国际",
       "summary": "「北藍南綠」是描述台灣政治版圖的常見概念，但近年選舉結果顯示，這樣的區域分野並非一成不變，中間選民的流向在這次地方選舉可能左右大局。",
@@ -1610,40 +1644,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c862yzkgzwero/trad#5",
-      "title": "華為尊界V800事件：一場煞車測試如何演變成中國輿論風暴",
-      "category": "国际",
-      "summary": "近期，中國知名車媒懂車帝發布對尊界V800的實測影片，顯示多輛測試車在緊急制動過程中出現制動踏板支架斷裂，事件迅速引發輿論關注。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c862yzkgzwero/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T09:04:11.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad#4",
-      "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
-      "category": "国际",
-      "summary": "開發商廣州深藍互動表示，威爾斯神話與該遊戲的主題產生了強烈共鳴。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T00:12:26.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
