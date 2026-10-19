@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143027",
+      "title": "亚美尼亚会议聚焦保护地球脆弱的生物多样性",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143027",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143026",
+      "title": "加沙粮食援助因资金短缺大幅缩减，约50万人失去援助",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143026",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143025",
+      "title": "人权高专：不公正导致粮食权难以真正落实",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143025",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143024",
+      "title": "从人工智能诈骗到3D打印枪支，联合国呼吁完善多边合作机制打击跨国有组织犯罪",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143024",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143023",
+      "title": "海地选举筹备取得进展 帮派暴力与安全危机仍难缓解",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143023",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143021",
       "title": "【世界进行时】2026年10月16日",
       "meta": "联合国新闻 · 2026/10/16",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/10/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142995",
       "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142993",
-      "title": "灾害每年造成的住房损失高达2280亿美元",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142993",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142992",
-      "title": "开发计划署推出全球投资和就业倡议，以促进发展中国家经济增长",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142992",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142991",
-      "title": "也门冲突导致20万多人新近流离失所，霍乱病例激增",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142991",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142990",
-      "title": "安理会审议非洲大湖区局势，特使夏煌呼吁把和平承诺转化为可核查行动",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142990",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142989",
-      "title": "联大投票通过大流行病宣言，美国等三国反对",
-      "meta": "联合国新闻 · 2026/10/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142989",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:16:00.409Z",
+  "updatedAt": "2026-10-19T19:56:30.034Z",
   "provider": "OneBench 公共资讯快照"
 }
