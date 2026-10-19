@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T04:40:54.842Z",
-  "expiresAt": "2026-10-19T10:40:54.842Z",
+  "generatedAt": "2026-10-19T13:16:00.409Z",
+  "expiresAt": "2026-10-19T19:16:00.409Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,20 +32,647 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717089.shtml",
-      "title": "9月中国原油生产增速加快",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717430.shtml",
+      "title": "外交部提醒赴法国中国公民加强安全防范",
       "category": "综合",
-      "summary": "中新社北京10月19日电 (记者 王梦瑶)中国国家统计局19日公布的数据显示，9月份，中国规模以上工业(以下简称规上工业)原煤生产降幅收窄，原油生产增速加快，天然气生产基本稳定。",
+      "summary": "近日，法国巴黎、马赛、里昂等数十个大中城市爆发大规模游行示威，发生暴力事件和警民冲突。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717089.shtml",
-      "publishedAt": "2026-10-19T04:33:35.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717430.shtml",
+      "publishedAt": "2026-10-19T13:05:53.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-19/10717427.shtml",
+      "title": "第四届马中大学生汉语辩论赛落幕",
+      "category": "综合",
+      "summary": "中新网吉隆坡10月19日电 (记者 刘育英)第四届马中大学生汉语辩论赛闭幕式10月18日在马来西亚世纪大学举行。本次赛事由世纪大学孔子学院主办，为中马两国高校学子搭建起语言交流、思想碰撞的线下平台。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717427.shtml",
+      "publishedAt": "2026-10-19T13:05:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717424.shtml",
+      "title": "何以中国·当惊世界殊｜长江之畔，这位老院士以毕生求索，作答“何以中国”",
+      "category": "综合",
+      "summary": "原标题：何以中国·当惊世界殊｜有人说“中国人建不了这么大的工程”，他偏不信",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717424.shtml",
+      "publishedAt": "2026-10-19T13:00:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717416.shtml",
+      "title": "互鉴融通共生 中外学者共话AI时代国际传播新叙事",
+      "category": "综合",
+      "summary": "中新网10月19日电 10月17日，“互鉴 融通 共生：AI时代国际传播新叙事”学术会议暨2026中国广播电视社会组织联合会“一带一路”文化传播研究基地年会在中国人民大学举行。此次会议是基地成立以来举办的首场重大国际性学术会议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717416.shtml",
+      "publishedAt": "2026-10-19T12:58:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717420.shtml",
+      "title": "何以中国·当惊世界殊｜泪目！28年前洪水中的“抱树女孩”身着警服，和恩人并肩敬礼",
+      "category": "综合",
+      "summary": "9个小时，洪水咆哮而过，7岁的小江珊始终牢牢抱紧那棵树。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717420.shtml",
+      "publishedAt": "2026-10-19T12:55:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717413.shtml",
+      "title": "从经验到数据 AI如何续写“药不过樟树不灵”？",
+      "category": "综合",
+      "summary": "中新网江西樟树10月19日电 (熊锦阳 聂妍婧)一株中药材放进检测设备，工业视觉扫外观，X光看内部，高光谱析成分，几十秒后，一份数字化“体检报告”就可生成。在10月16日至18日举行的樟树第57届全国药材药品交易会上，由中国工程院院士张伯礼团队与扬子江药业集团协同研发的AI药材检测大模型正式发布，搭载相关技术的智能化检测设备同步亮相展会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717413.shtml",
+      "publishedAt": "2026-10-19T12:48:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717417.shtml",
+      "title": "上交所首批主动ETF获批 助力中长期资金入市",
+      "category": "综合",
+      "summary": "中新网上海10月19日电 (高志苗)上海证券交易所首批主动ETF(交易型开放式指数基金)19日获中国证监会批复。主动ETF融合了主动管理的专业投研能力与ETF的标准化运作优势，具备持仓透明、交易便捷等特点，是深化投资端改革、更好满足投资者多元化资产配置需求、吸引中长期资金入市的又一重要举措。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717417.shtml",
+      "publishedAt": "2026-10-19T12:47:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717414.shtml",
+      "title": "四川省地震局启动北川4.1级地震应急处置工作",
+      "category": "综合",
+      "summary": "据中国地震台网正式测定，北京时间2026年10月19日18时57分在四川绵阳市北川县发生4.1级地震，震源深度11公里，震中位于北纬31.90度，东经104.46度。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717414.shtml",
+      "publishedAt": "2026-10-19T12:46:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-19/10717415.shtml",
+      "title": "10月19日新闻夜读",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10717415.shtml",
+      "publishedAt": "2026-10-19T12:44:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-19/10717391.shtml",
+      "title": "第140届广交会第一期 采购商开启“扫货”模式",
+      "category": "综合",
+      "summary": "10月19日，第140届中国进出口商品交易会（广交会）第一期在广东广州迎来展期最后一天，吸引不少采购商前来“扫货”。图为一展位的便携电风扇吸引境外采购商选购。中新社记者 陈楚红 摄 10月19日，第140届中国进出口商品交易会（广交会）第一期在广东广州迎来展期最后一天，吸引不少采购商前来“扫货”。图为一名境外采购商坐在电动行李箱上，抱着采购的产品穿梭在展馆中",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717391.shtml",
+      "publishedAt": "2026-10-19T12:44:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-19/10717390.shtml",
+      "title": "中外青年走进浙江文成 感受人文山水与科创魅力",
+      "category": "综合",
+      "summary": "图为10月18日，尼泊尔青年礼然在让川民族村亲身体验畲族“婚礼”。 毛佳仪 摄 图为10月18日，中外青年在让川民族村沉浸式感受畲族风情。毛佳仪 摄 图为10月18日，中外青年在让川民族村参加畲家长桌宴。 毛佳仪 摄 图为10月18日，尼泊尔青年礼然在让川民族村参加畲家长桌宴，感受畲族“酒”文化。毛佳仪 摄 图为10月18日，俄罗斯青年卡佳在问道刘基馆参观了",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717390.shtml",
+      "publishedAt": "2026-10-19T12:42:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717412.shtml",
+      "title": "“一带一路”建筑类大学国际联盟成员扩至114个单位",
+      "category": "综合",
+      "summary": "中新网济南10月19日电 (记者 郭超凯)“一带一路”建筑类大学国际联盟2026年会议暨论坛近日在山东建筑大学召开。会议期间，“一带一路”建筑类大学国际联盟朋友圈再扩大，至此联盟成员覆盖34个国家及地区、114个单位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717412.shtml",
+      "publishedAt": "2026-10-19T12:42:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717411.shtml",
+      "title": "2026金融街论坛年会北京开幕 凝聚全球金融发展共识",
+      "category": "综合",
+      "summary": "中新社北京10月19日电 (记者 吕少威 徐婧)2026金融街论坛年会19日在北京开幕，以“开放·合作·包容——共筑全球金融发展新生态”为主题，深化国际金融务实合作，凝聚全球金融发展共识。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717411.shtml",
+      "publishedAt": "2026-10-19T12:40:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717409.shtml",
+      "title": "服务全球公共治理 《全球可持续发展数据产品（2025）》在北京发布",
+      "category": "综合",
+      "summary": "中新网北京10月19日电 (记者 孙自法)依托中国科学院建设的可持续发展大数据国际研究中心10月19日在北京正式发布了《全球可持续发展数据产品(2025)》，以开放共享的观测数据助力联合国会员国开展可持续发展目标评估，弥合全球数据能力分布不均的差距。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717409.shtml",
+      "publishedAt": "2026-10-19T12:39:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717410.shtml",
+      "title": "吴清：全力维护资本市场安全稳定",
+      "category": "综合",
+      "summary": "中新社北京10月19日电 (记者 陈康亮)中国证监会主席吴清19日在2026金融街论坛年会上表示，坚持稳字当头，全力维护资本市场安全稳定。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717410.shtml",
+      "publishedAt": "2026-10-19T12:39:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-19/10717379.shtml",
+      "title": "河南开封：“水下浮菊”景观吸引游客打卡",
+      "category": "综合",
+      "summary": "10月19日，河南开封中国翰园碑林景区的“水下浮菊”景观吸引游客打卡。该景观将菊花与造景相结合，利用水下光影的灵动感，让菊花真正“活”起来，为游客带来别样赏菊体验。图为“水下浮菊”景观吸引游客驻足观看。夏青华 摄 10月19日，河南开封中国翰园碑林景区的“水下浮菊”景观吸引游客打卡。该景观将菊花与造景相结合，利用水下光影的灵动感，让菊花真正“活”起来，为游客",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717379.shtml",
+      "publishedAt": "2026-10-19T12:38:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717406.shtml",
+      "title": "新疆具身智能机器人应用场景加快落地",
+      "category": "综合",
+      "summary": "中新网乌鲁木齐10月19日电 (记者 苟继鹏)跳新疆舞的人形机器人、博物馆里会讲解丝路历史的智能导览员，政务服务大厅里的机器人引导员……具身智能机器人正快速走进新疆民众的日常生产与生活场景。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717406.shtml",
+      "publishedAt": "2026-10-19T12:38:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717407.shtml",
+      "title": "一炉薪火续千年 瓷都窑火赓续手工瓷业文脉",
+      "category": "综合",
+      "summary": "中新网景德镇10月19日电 (付丽玲)“点火咯！”19日11时08分，随着烧窑把桩师傅冯和平一声长喝，传递到窑口的火把被投入火膛，江西景德镇古窑民俗博览区复建的元代馒头窑瞬间腾起熊熊火焰，窑顶两股火舌冲天而起，围观游客发出阵阵欢呼，快门声此起彼伏。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717407.shtml",
+      "publishedAt": "2026-10-19T12:38:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717408.shtml",
+      "title": "王家强：中国新质生产力发展成色亮眼",
+      "category": "综合",
+      "summary": "中新网北京10月19日电 (陶思阅)国家统计局19日发布前三季度经济数据，中新社国是直通车当天举行“2026年三季度经济形势分析会”。中国银行研究院资深研究员王家强在会上表示，结合前三季度经济数据可观察到，我国新质生产力发展成色亮眼。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717408.shtml",
+      "publishedAt": "2026-10-19T12:38:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-19/10717366.shtml",
+      "title": "湖南省第十一届少数民族传统体育运动会：毽球选手足下竞技",
+      "category": "综合",
+      "summary": "10月19日，湖南省第十一届少数民族传统体育运动会毽球项目比赛在湖南张家界开赛，各族选手脚步灵动在网前进行竞技。图为湘西州队男选手进攻。中新社记者 杨华峰 摄 10月19日，湖南省第十一届少数民族传统体育运动会毽球项目比赛在湖南张家界开赛，各族选手脚步灵动在网前进行竞技。图为双方选手网前进行攻防战。中新社记者 杨华峰 摄 10月19日，湖南省第十一届少数民族",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717366.shtml",
+      "publishedAt": "2026-10-19T12:37:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-19/10717344.shtml",
+      "title": "重庆一桥下空间变身民众休闲打卡地",
+      "category": "综合",
+      "summary": "10月19日，游客在重庆南岸一桥下空间游玩打卡。重庆素有“桥都”之称，特殊的地形与立体交通造就了体量庞大的桥下空间。近年来，不少桥下空间被开发利用成为城市公共空间，吸引不少市民、游客前往打卡。中新社记者 周毅 摄 10月19日，游客在重庆南岸一桥下空间游玩打卡。重庆素有“桥都”之称，特殊的地形与立体交通造就了体量庞大的桥下空间。近年来，不少桥下空间被开发利用",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717344.shtml",
+      "publishedAt": "2026-10-19T12:34:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-19/10717403.shtml",
+      "title": "江西宜春以侨为“桥”推动企业产品出海",
+      "category": "综合",
+      "summary": "中新网江西上高10月19日电 (记者 吴鹏泉)2026年“侨聚宜春 助力出海”专场对接会19日在江西省宜春市上高县举行，活动旨在依托侨界资源，推动宜春企业和产品加速出海。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717403.shtml",
+      "publishedAt": "2026-10-19T12:30:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717399.shtml",
+      "title": "稳步增长！前三季度我国邮政行业寄递业务量同比增长3.7%",
+      "category": "综合",
+      "summary": "记者19日从国家邮政局获悉，今年前三季度，我国邮政行业寄递业务量保持持续稳步增长态势。快递行业聚焦时令生鲜、特色农海产品市场需求，持续升级寄递服务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717399.shtml",
+      "publishedAt": "2026-10-19T12:24:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717398.shtml",
+      "title": "风清集合V1.0投入运行 未来将在极端天气预警等发挥更大作用",
+      "category": "综合",
+      "summary": "中新网北京10月19日电 (记者 张素)基于2025年1月至今年8月独立样本的检验结果显示，“风清集合V1.0”全球集合平均预报500百帕位势高度有效预报时效达到11.0天，成员预报连续分级概率评分(CRPS)、离散度—误差比等关键指标表现良好……",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717398.shtml",
+      "publishedAt": "2026-10-19T12:24:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-19/10717397.shtml",
+      "title": "音乐剧《芝加哥》30周年纪念版11月登台北京天桥艺术中心",
+      "category": "综合",
+      "summary": "中新网北京10月19日电 (记者 应妮)风靡全球半个世纪的百老汇传奇音乐剧《芝加哥》将于今年11月登上北京天桥艺术中心，以纯正百老汇原版制作规格，为京城观众带来一场充满爵士风情与黑色幽默的视听盛宴。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717397.shtml",
+      "publishedAt": "2026-10-19T12:20:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-19/10717364.shtml",
+      "title": "第四个“柬中友好图书馆”在柬埔寨菩萨省正式启用",
+      "category": "综合",
+      "summary": "中新社金边10月19日电 (杨强 张堰林)第四个“柬中友好图书馆”19日在柬埔寨菩萨省菩萨市基里波旺小学正式启用。该项目由中国驻柬使馆通过柬埔寨民间社会组织联盟论坛提供支持援建，旨在改善当地学校教学环境，并在儿童群体中推广阅读文化。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717364.shtml",
+      "publishedAt": "2026-10-19T12:19:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717396.shtml",
+      "title": "河南玉米新品种连续三年亩产超2000斤",
+      "category": "综合",
+      "summary": "中新网郑州10月19日电 (李超庆 孙慧敏)河南农业大学19日消息称，经专家实打验收，由该校汤继华团队选育的玉米新品种YD268，在河北省石家庄市藁城区陈家庄120亩玉米示范田里，亩产2083.6斤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717396.shtml",
+      "publishedAt": "2026-10-19T12:19:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717394.shtml",
+      "title": "台湾工业及服务业受雇员工平均年龄逾40岁 达近十年新高",
+      "category": "综合",
+      "summary": "中新社台北10月19日电 台当局“主计总处”最新统计显示，2025年底台湾工业及服务业受雇员工平均年龄达40.6岁，其中45岁以上员工占比升至34.4%，创下近十年新高。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717394.shtml",
+      "publishedAt": "2026-10-19T12:17:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-19/10717395.shtml",
+      "title": "抗日保台志士丘逢甲珍贵诗钞入藏中国人民抗日战争纪念馆",
+      "category": "综合",
+      "summary": "中新社北京10月19日电 (记者 杜燕)抗日保台志士丘逢甲的侄曾孙丘嵩19日向中国人民抗日战争纪念馆捐赠珍贵文物史料《岭云海日楼诗钞》(全四册)。这套诗钞1936年定稿、1937年由国立中山大学铅印刊行，收录丘逢甲1895年至1911年间所作1700余首诗，为古籍收藏珍贵版本。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717395.shtml",
+      "publishedAt": "2026-10-19T12:17:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717392.shtml",
+      "title": "山西启动新一轮高等教育百亿工程 3年安排105亿元实施“十大计划”",
+      "category": "综合",
+      "summary": "中新网太原10月19日电 (记者 杨静)记者19日从山西省教育厅获悉，2026年至2028年，山西省将安排105亿财政资金实施新一轮高等教育百亿工程，围绕“十大计划”推动高等教育提质扩容。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717392.shtml",
+      "publishedAt": "2026-10-19T12:17:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/116705",
+      "title": "派评 | 近期值得关注的 App",
+      "category": "科技",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/116705",
+      "publishedAt": "2026-10-19T09:39:45.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad#2",
+      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
+      "category": "国际",
+      "summary": "開播至今14年，《孤獨的美食家》從日本深夜劇成長為風靡亞洲的電視作品。觀眾跟隨主角井之頭五郎穿梭街巷尋找美食和故事。主演松重豐希望讓更多海外觀眾透過美食認識日本文化。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T09:37:41.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad#0",
+      "title": "中國三季度增長4.5%但冷熱不均：出口暴增，樓市新開工面積暴跌",
+      "category": "国际",
+      "summary": "分析人士向BBC指出，中國依賴單一外需引擎的風險正在累積，北京的刺激空間有限，未必願意、也未必有能力在這個時點大舉加碼。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T09:19:13.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/116585",
+      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+      "category": "科技",
+      "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/116585",
+      "publishedAt": "2026-10-19T08:35:40.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/116699",
+      "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
+      "category": "科技",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/116699",
+      "publishedAt": "2026-10-19T08:00:19.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq0mel7ep01xo/trad#1",
+      "title": "BBC暫停公務員借調計劃",
+      "category": "国际",
+      "summary": "BBC表示，所有新聞及編輯決定均由BBC記者及編輯作出。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cq0mel7ep01xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T06:54:50.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -67,96 +694,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717088.shtml",
-      "title": "一图读懂中国经济三季报",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717088.shtml",
-      "publishedAt": "2026-10-19T04:32:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717087.shtml",
-      "title": "前三季度中国GDP同比增长4.6%",
-      "category": "综合",
-      "summary": "中新社北京10月19日电 (记者 陈溯)中国国家统计局19日公布的数据显示，今年前三季度，中国国内生产总值(GDP)1071071亿元(人民币，下同)，按不变价格计算，同比增长4.6%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717087.shtml",
-      "publishedAt": "2026-10-19T04:19:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-19/10717073.shtml",
-      "title": "泰国普吉九皇斋节：传统华人文化融入当地旅游体验",
-      "category": "综合",
-      "summary": "中新网普吉10月19日电(记者 李映民)正在普吉举行的九皇斋节，让来自不同国家和地区的游客得以近距离感受延续百余年的当地华人文化传统。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717073.shtml",
-      "publishedAt": "2026-10-19T04:17:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717072.shtml",
-      "title": "（长征胜利90周年）长征是如何走向世界的？",
-      "category": "综合",
-      "summary": "中新网北京10月19日电 题：长征是如何走向世界的？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717072.shtml",
-      "publishedAt": "2026-10-19T04:17:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10717086.shtml",
-      "title": "从窑洞微光到万家灯火，陕北第一座火电厂用光明守护革命圣地丨企步新长征",
-      "category": "综合",
-      "summary": "漫漫长征路上，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717086.shtml",
-      "publishedAt": "2026-10-19T04:10:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwvgd0z8l1p9o/trad#0",
       "title": "法國各地騷亂：19世紀歷史建築被焚燬 政客表態折射分歧",
       "category": "国际",
@@ -170,186 +707,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-19/10717082.shtml",
-      "title": "举重选手崔哲夺得名古屋亚残运会中国代表团首金",
-      "category": "综合",
-      "summary": "新华社日本名古屋10月19日电(记者郑直、张卉)19日，在爱知·名古屋亚残运会举重项目女子41公斤级比赛中，中国选手崔哲夺得冠军，这是中国体育代表团在本届亚残运会中的首枚金牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717082.shtml",
-      "publishedAt": "2026-10-19T03:55:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717079.shtml",
-      "title": "A股午评：超3800只个股飘绿，沪指收涨，深指、创业板指收跌",
-      "category": "综合",
-      "summary": "A股午评：超3800只个股飘绿，沪指收涨，深指、创业板指收跌；石化、银行、航天军工上涨，房地产、农业、半导体下跌",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717079.shtml",
-      "publishedAt": "2026-10-19T03:44:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-19/10717068.shtml",
-      "title": "河南开封：菊风宋韵满汴梁",
-      "category": "综合",
-      "summary": "图为开封菊花。卢键 摄 图为游客观赏菊花。卢键 摄 图为开封景区内的菊花布展。卢键 摄 图为开封菊花。卢键 摄 图为开封菊花。卢键 摄 图为开封菊花。卢键 摄 图为开封景区内的菊花布展。卢键 摄 图为开封景区内的菊花造景。卢键 摄 图为盛开的菊花。卢键 摄 图为开封景区内的菊花造景。卢键 摄 图为菊花造景。卢键 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717068.shtml",
-      "publishedAt": "2026-10-19T03:41:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208239.shtml",
-      "title": "CBA常规赛：北京首钢84比82客场胜吉林",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208239.shtml",
-      "publishedAt": "2026-10-19T03:39:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/mz/2026/10-19/10717067.shtml",
-      "title": "加勒比国家自媒体代表团参访新疆",
-      "category": "综合",
-      "summary": "中新网乌鲁木齐10月19日电 (胡嘉琛)加勒比国家自媒体代表团10月13日至17日在新疆乌鲁木齐市、喀什地区参访。多名代表团成员接受中新网采访时表示，通过实地走访，与当地民众交流，对新疆经济社会发展、民生改善、文化保护传承等方面有了直观又深刻的认识。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/mz/2026/10-19/10717067.shtml",
-      "publishedAt": "2026-10-19T03:34:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-19/10717071.shtml",
-      "title": "直播：长征路上学党史｜云聚陕甘宁 看星火映山河",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10717071.shtml",
-      "publishedAt": "2026-10-19T03:29:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717069.shtml",
-      "title": "哈尔滨机场2026年旅客吞吐量突破2000万人次",
-      "category": "综合",
-      "summary": "中新网哈尔滨10月19日电 (温天禹 赵雁星)哈尔滨机场于19日对外发布消息，截至10月18日，哈尔滨机场2026年累计运送旅客2005.6万人次，同比增长0.5%，创历史最好成绩，预计全年旅客吞吐量近2500万人次。目前，哈尔滨机场客运吞吐量位列东北地区第一名。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717069.shtml",
-      "publishedAt": "2026-10-19T03:29:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-19/10717070.shtml",
-      "title": "直播：长征路上学党史｜驻足将台堡 庆长征伟大胜利",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10717070.shtml",
-      "publishedAt": "2026-10-19T03:28:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-19/10717066.shtml",
-      "title": "CBA常规赛：广州队战胜浙江队 取得“开门红”",
-      "category": "综合",
-      "summary": "中新网广州10月19日电 (记者 张璐)2026-2027赛季CBA常规赛首轮18日晚在广州举行，广州智都集团队(简称“广州队”)主场以90:79战胜浙江稠州金租队(简称“浙江队”)，取得“开门红”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717066.shtml",
-      "publishedAt": "2026-10-19T03:28:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-19/10717047.shtml",
-      "title": "浦江同舟话团结 | 建筑学家傅克诚的学术求索之路",
-      "category": "综合",
-      "summary": "编者按：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717047.shtml",
-      "publishedAt": "2026-10-19T03:25:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -371,258 +728,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-19/10717063.shtml",
-      "title": "广东：到2030年经济林年产值超1200亿元",
-      "category": "综合",
-      "summary": "中新网广州10月19日电 (程景伟 林荫)据广东省林业局19日消息，《广东省林业局关于加快推进我省特色经济林产业发展的实施意见》(下称《实施意见》)近日正式印发，提出到2030年全省经济林总面积稳定在3000万亩以上、年产值超1200亿元的目标。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717063.shtml",
-      "publishedAt": "2026-10-19T03:22:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717065.shtml",
-      "title": "2027年北京高考报名25日开始",
-      "category": "综合",
-      "summary": "今天，北京教育考试院发布《关于做好北京市2027年普通高等学校招生报名工作的通知》，明确北京市2027年普通高等学校招生报名工作将于2026年10月25日开始。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717065.shtml",
-      "publishedAt": "2026-10-19T03:21:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-19/10717062.shtml",
-      "title": "全国16支代表队齐聚广州参加轮椅趣味运动邀请赛",
-      "category": "综合",
-      "summary": "中新网广州10月19日电 (记者 张璐)“南粤扶残·艺海友爱”残健共融乐享运动2026第二届轮椅趣味运动邀请赛(简称“赛事”)18日在广州举行。活动现场，来自香港、湖南、福建以及广东省内各地市共16支代表队同场竞技、共叙友谊。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717062.shtml",
-      "publishedAt": "2026-10-19T03:20:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717060.shtml",
-      "title": "建设银行发布“健养安”养老金融新产品 探索金融与养老服务深度融合",
-      "category": "综合",
-      "summary": "重阳节前夕，中国建设银行在南京举办“岁岁重阳”第三届“健养安”养老金融产品服务发布会，集中发布养老金融创新产品与服务，展示金融支持养老事业和养老产业发展的新进展。建设银行副行长纪志宏出席活动并致辞。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717060.shtml",
-      "publishedAt": "2026-10-19T03:18:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717055.shtml",
-      "title": "把问题摆在台面上 市民“小建议”助力城市“大发展”",
-      "category": "综合",
-      "summary": "日常生活中，例如居民区的一些建设细节，科技创新的体制机制，可能大家都会有一些想法和建议，也希望得到有关部门的重视。在上海，人民建议征集机制，让市民只要有想法、有点子都能向有关部门提。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717055.shtml",
-      "publishedAt": "2026-10-19T03:14:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-19/10717054.shtml",
-      "title": "日美军演引争议：近6万人集结、多国首参演，日本民众忧虑难消",
-      "category": "综合",
-      "summary": "中新网10月19日电 综合日媒报道，日本和美国19日在日本多地开展“利剑27”大规模联合军演，演习持续至29日，此次军演引发日本国内广泛担忧与反对。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717054.shtml",
-      "publishedAt": "2026-10-19T03:14:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-19/10716975.shtml",
-      "title": "法国官方称近2400人在17日大规模抗议活动中被捕",
-      "category": "综合",
-      "summary": "中新社巴黎10月19日电 (记者 李洋)法国官方当地时间18日称，近2400人在17日全法大规模游行示威和抗议活动中被捕，近1000名警察和宪兵受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716975.shtml",
-      "publishedAt": "2026-10-19T03:04:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-19/10717053.shtml",
-      "title": "泰国华裔走进玉溪聂耳故居 探寻“人民音乐家”音符中的家国情怀",
-      "category": "综合",
-      "summary": "中新网云南玉溪10月19日电 (时文枝)“聂耳的根在玉溪，就在北门街3号。”近日，泰国华校中华文化玉溪研学营一行走进位于云南省玉溪市红塔区北门街3号的聂耳故居。20余名泰国华裔跟随讲解员的介绍，感受“人民音乐家”聂耳的成长足迹，以及他融于音符间的家国情怀。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717053.shtml",
-      "publishedAt": "2026-10-19T03:03:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/10-19/10717050.shtml",
-      "title": "前三季度武汉中欧（亚）班列发运货值逾155亿元",
-      "category": "综合",
-      "summary": "中新网武汉10月19日电 (梁婷 徐晨)记者19日从湖北港口集团汉欧国际公司获悉，今年前三季度，武汉中欧(亚)班列累计发运货品货值超155亿元，同比增长11.35%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-19/10717050.shtml",
-      "publishedAt": "2026-10-19T03:02:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-19/10717048.shtml",
-      "title": "研究报告：读研向基础学科、前沿领域集中",
-      "category": "综合",
-      "summary": "中新网北京10月19日电 10月15日，2027年全国硕士研究生招生考试网上报名正式开始。报告显示，虽然硕士研究生培养规模持续扩大，但考研热度已出现降温，大学生选择更趋理性。其中，理工农医毕业生读研比例较高，读研向基础学科、前沿领域集中。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717048.shtml",
-      "publishedAt": "2026-10-19T03:00:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-19/10717052.shtml",
-      "title": "人不见虎豹 诸山皆虎豹",
-      "category": "综合",
-      "summary": "探访东北虎豹国家公园",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717052.shtml",
-      "publishedAt": "2026-10-19T02:58:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10716942.shtml",
-      "title": "李强同塔吉克斯坦总理拉苏尔佐达会谈",
-      "category": "综合",
-      "summary": "中新社杜尚别10月18日电 (记者 单璐)10月18日下午，国务院总理李强在杜尚别同塔吉克斯坦总理拉苏尔佐达举行会谈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716942.shtml",
-      "publishedAt": "2026-10-19T02:58:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208226.shtml",
-      "title": "何以中国·当惊世界殊｜湖北宜昌：沿着江岸，去趟“长江星河”",
-      "category": "综合",
-      "summary": "长江夜游是宜昌市推出的夜间旅游项目，游客乘坐观光游轮欣赏城市夜景和两岸灯光秀，途经夷陵长江大桥、磨基山、镇江阁等标志性景观，在江风习习中感受“一半山水一半城”的夜晚魅力。独特的体验让这条航线成为长江的“网红玩法”，整体游客接待量已超过百万人次。2026年春节假期，宜昌长江夜游同比增长超140%。从“工业锈带”到“生活秀带”，从“化工围江”到“江豚逐浪”，宜昌",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208226.shtml",
-      "publishedAt": "2026-10-19T02:58:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-19/10717046.shtml",
-      "title": "2026年三季度全国规模以上工业产能利用率为73.1%",
-      "category": "综合",
-      "summary": "中新网10月19日电 据国家统计局网站消息，2026年三季度，全国规模以上工业产能利用率为73.1%，比二季度上升0.1个百分点，比上年同期下降1.5个百分点。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717046.shtml",
-      "publishedAt": "2026-10-19T02:56:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/115125",
       "title": "开源掌机的文化线索",
       "category": "科技",
@@ -637,6 +742,23 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad#0",
+      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
+      "category": "国际",
+      "summary": "垃圾場和工業設施散發的氣味正受到更嚴格的監測，但這有幫助嗎？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T00:08:13.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -711,7 +833,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#1",
       "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
       "category": "国际",
       "summary": "美國懷俄明大學一名越南籍研究生的家屬向BBC表示，受害人在辦公室的咖啡機內發現神經毒劑後，至今仍出現疲倦、食慾不振及睡眠欠佳等健康問題。",
@@ -745,7 +867,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#1",
       "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
       "category": "国际",
       "summary": "為何已在韓國定居的脫北者，如今對前往中國感到憂慮？BBC深入了解韓國警方發出旅遊警告的背景，以及脫北者實際遭中國當局拒絕入境的個案。",
@@ -941,7 +1063,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad#5",
       "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
       "category": "国际",
       "summary": "BBC事實查核（BBC Verify）對英國海事機構數據的分析顯示，過去一星期內有12艘船隻遭到襲擊。",
@@ -1046,25 +1168,7 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/115688",
-      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
-      "category": "科技",
-      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/115688",
-      "publishedAt": "2026-10-16T02:18:38.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad#5",
       "title": "中國製造的玩具如何從工廠到美國？",
       "category": "国际",
       "summary": "聖誕節臨近，我們追蹤兒童玩具從中國工廠到美國貨架的整個過程。",
@@ -1077,24 +1181,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/116355",
-      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-      "category": "科技",
-      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/116355",
-      "publishedAt": "2026-10-16T00:23:12.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
@@ -1242,41 +1328,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad#5",
-      "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
-      "category": "国际",
-      "summary": "連接中國丹東與朝鮮新義州的新鴨綠江大橋建成12年後正式通車。大橋此前遭長期閒置，被觀察人士視為中朝關係起伏的一個象徵。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T11:39:24.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/116246",
-      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-      "category": "科技",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/116246",
-      "publishedAt": "2026-10-15T09:10:14.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674pq1e0dxqo/trad#4",
       "title": "中國和印度不算老友，尼泊爾想團結他們應對氣候威脅",
       "category": "国际",
@@ -1311,7 +1362,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#4",
       "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
       "category": "国际",
       "summary": "對被指控在印尼焚燒土地的企業，以及未能阻止這些行為的當局，人們的憤怒情緒正不斷升高。",
@@ -1479,40 +1530,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T09:09:43.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad#5",
-      "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
-      "category": "国际",
-      "summary": "「北藍南綠」是描述台灣政治版圖的常見概念，但近年選舉結果顯示，這樣的區域分野並非一成不變，中間選民的流向在這次地方選舉可能左右大局。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T03:36:37.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad#4",
-      "title": "「黑珍珠」瑪麗亞：表演中國川劇的塞拉利昂女子",
-      "category": "国际",
-      "summary": "瑪麗亞夢想成為一名歌手和表演者。多年後，她前往中國參加一場選美比賽，並在火車上獲一名陌生人意外伸出援手後，最終在那裏建立了自己的生活。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T00:17:23.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1730,23 +1747,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad#2",
-      "title": "賴清德雙十講話：台灣強化防衛不是放棄對話",
-      "category": "国际",
-      "summary": "台灣舉行2026年雙十國慶大會，總統賴清德講話引用基督教《聖經》提出要建設「山巔之城」，讓台灣成為「維護印太和平與穩定的關鍵力量」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T05:01:42.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
