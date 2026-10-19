@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143029",
+      "title": "联合国谴责苏丹多地无人机袭击事件",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143029",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143028",
+      "title": "安理会通过决议：警惕数字技术助长冲突中的儿童侵害行为",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143028",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143027",
       "title": "亚美尼亚会议聚焦保护地球脆弱的生物多样性",
       "meta": "联合国新闻 · 2026/10/19",
@@ -20,7 +34,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143025",
-      "title": "人权高专：不公正导致粮食权难以真正落实",
+      "title": "人权高专：不公正导致食物权难以真正落实",
       "meta": "联合国新闻 · 2026/10/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143025",
       "publishedAt": "2026-10-19T12:00:00.000Z"
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142996",
       "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142994",
-      "title": "西非经海路抵达欧洲人数下降近六成 非正规移民路线风险持续上升",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142994",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142995",
-      "title": "秘书长提出联合国2027年33亿美元的精简预算案",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142995",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-19T19:56:30.034Z",
+  "updatedAt": "2026-10-19T23:42:27.631Z",
   "provider": "OneBench 公共资讯快照"
 }
