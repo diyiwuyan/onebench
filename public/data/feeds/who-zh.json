@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:49a296f5-6447-4836-838c-bb3362b0d0bb",
+      "title": "国际刑警组织与世卫组织签署协议，加强全球卫生与安全保护",
+      "meta": "世界卫生组织 · 2026/10/16",
+      "url": "https://www.who.int/zh/news-room/16-10-2026-interpol-and-who-sign-agreement-to-strengthen-global-health-and-security-protection",
+      "publishedAt": "2026-10-16T07:58:44.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:efbc0ffa-163c-47a9-89fb-dc1530426285",
       "title": "世卫组织欢迎联合国通过《大流行病预防、防范和应对政治宣言》",
       "meta": "世界卫生组织 · 2026/10/12",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/2",
       "url": "https://www.who.int/zh/news-room/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
       "publishedAt": "2026-09-02T14:29:04.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:99d65c3f-e83d-4d1d-9574-d3e2522aa5cf",
-      "title": "刚果民主共和国境内本迪布焦病毒病疫情",
-      "meta": "世界卫生组织 · 2026/8/24",
-      "url": "https://www.who.int/zh/news-room/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations",
-      "publishedAt": "2026-08-24T16:39:32.000Z"
     }
   ],
-  "updatedAt": "2026-10-20T17:04:58.462Z",
+  "updatedAt": "2026-10-20T21:37:16.446Z",
   "provider": "OneBench 公共资讯快照"
 }

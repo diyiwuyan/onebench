@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T17:04:58.462Z",
-  "expiresAt": "2026-10-20T23:04:58.462Z",
+  "generatedAt": "2026-10-20T21:37:16.446Z",
+  "expiresAt": "2026-10-21T03:37:16.446Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-21/10718218.shtml",
+      "title": "CBA常规赛次轮：北京队主场轻取广东队 斩获两连胜",
+      "category": "综合",
+      "summary": "中新社北京10月20日电 (刘梦青 国璇)在2026-2027赛季中国男子篮球职业联赛(CBA)常规赛次轮较量中，北京队20日晚在北京以96:78战胜广东队，斩获两连胜，广东队则遭遇两连败。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718218.shtml",
+      "publishedAt": "2026-10-20T18:16:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-21/10718217.shtml",
+      "title": "泰方称将加强泰中协调保障游客安全",
+      "category": "综合",
+      "summary": "中新社曼谷10月20日电 (王茜 李映民)泰国旅游与体育部长素拉萨20日表示，泰方高度重视包括中国游客在内的各国游客安全，将加强相关部门协调，并与中方进一步沟通，以提升游客安全保障水平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718217.shtml",
+      "publishedAt": "2026-10-20T18:16:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-21/10718216.shtml",
       "title": "商务部回应美发布针对中企的联邦采购排除和移除命令通知",
@@ -553,38 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-20/10718185.shtml",
-      "title": "风雪守北疆 哈铁人护航极寒铁路通道安全畅通",
-      "category": "综合",
-      "summary": "中新网哈尔滨10月20日电 题：风雪守北疆 哈铁人护航极寒铁路通道安全畅通",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718185.shtml",
-      "publishedAt": "2026-10-20T14:38:18.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143034",
+      "title": "秘书长特别代表：中非共和国和平进程取得进展，东北部安全形势仍面临挑战",
+      "category": "国际",
+      "summary": "安理会周二上午举行中非共和国局势公开会议。秘书长特别代表表示，中非共和国当前正处于从和平维持向和平巩固过渡的重要阶段。过去一年以来，地方选举顺利推进、解除武装工作取得进展、国家机构影响力有所扩大，这些都反映出积极变化；但东北部边境地区动荡加剧、跨境威胁持续存在以及部分地区武装活动活跃，因此，和平成果远未稳固。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143034",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-20/10718184.shtml",
-      "title": "遗址发现90周年 良渚给世界留下怎样的“礼物”？",
-      "category": "综合",
-      "summary": "中新网杭州10月20日电 题：遗址发现90周年 良渚给世界留下怎样的“礼物”？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718184.shtml",
-      "publishedAt": "2026-10-20T14:37:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1347,6 +1365,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:49a296f5-6447-4836-838c-bb3362b0d0bb",
+      "title": "国际刑警组织与世卫组织签署协议，加强全球卫生与安全保护",
+      "category": "健康",
+      "summary": "国际刑警组织与世界卫生组织（世卫组织）签署了一项合作协议，旨在应对公共卫生与安保交汇领域一些最紧迫的威胁。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/16-10-2026-interpol-and-who-sign-agreement-to-strengthen-global-health-and-security-protection",
+      "publishedAt": "2026-10-16T07:58:44.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad#5",
       "title": "中國製造的玩具如何從工廠到美國？",
       "category": "国际",
@@ -1637,24 +1672,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142998",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142999",
-      "title": "人权高专警告：冲突达二战后最高水平，人工智能风险“刻不容缓”",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周三在联合国大会负责人权和社会发展事务的第三委员会发言时表示，当前世界正受到战争、两极分化、气候危机和技术变革的共同冲击，而对《联合国宪章》、国际人权法和国际人道法的尊重正在不断削弱。在这一背景下，人权不仅是价值原则，更应成为预防冲突、维护法治和应对全球挑战的现实工具。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142999",
       "publishedAt": "2026-10-14T12:00:00.000Z",
       "tags": [
         "国际",
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
       "publishedAt": "2026-09-02T14:29:04.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:99d65c3f-e83d-4d1d-9574-d3e2522aa5cf",
-      "title": "刚果民主共和国境内本迪布焦病毒病疫情",
-      "category": "健康",
-      "summary": "这些临时建议是由世卫组织总干事根据各组缔约国面临的本迪布焦病毒病疫情相关公共卫生风险发布的。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations",
-      "publishedAt": "2026-08-24T16:39:32.000Z",
       "tags": [
         "健康",
         "育儿",
