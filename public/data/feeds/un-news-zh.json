@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143031",
+      "title": "世卫组织报告探讨非传染性疾病及其风险因素方面存在的不平等现象",
+      "meta": "联合国新闻 · 2026/10/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143031",
+      "publishedAt": "2026-10-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143030",
+      "title": "古特雷斯向献出生命的印尼籍维和人员致敬",
+      "meta": "联合国新闻 · 2026/10/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143030",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143029",
       "title": "联合国谴责苏丹多地无人机袭击事件",
       "meta": "联合国新闻 · 2026/10/19",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/14",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142999",
       "publishedAt": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142997",
-      "title": "秘书长特别代表：利比亚政治进程取得突破但挑战依然严峻",
-      "meta": "联合国新闻 · 2026/10/14",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142997",
-      "publishedAt": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142996",
-      "title": "基金组织上调2026年全球经济增速预期",
-      "meta": "联合国新闻 · 2026/10/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142996",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-20T11:36:49.332Z",
+  "updatedAt": "2026-10-20T17:04:58.462Z",
   "provider": "OneBench 公共资讯快照"
 }

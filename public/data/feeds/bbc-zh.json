@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#0",
+      "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+      "meta": "BBC 中文 · 2026/10/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T14:58:04.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad#1",
       "title": "緬甸軍政府：英王查爾斯贈書昂山素季",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/10/19",
       "url": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T00:08:13.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad#1",
-      "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
-      "meta": "BBC 中文 · 2026/10/18",
-      "url": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T00:32:02.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-20T11:36:49.332Z",
+  "updatedAt": "2026-10-20T17:04:58.462Z",
   "provider": "OneBench 公共资讯快照"
 }
