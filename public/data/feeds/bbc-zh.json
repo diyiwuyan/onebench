@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#0",
+      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
+      "meta": "BBC 中文 · 2026/10/21",
+      "url": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T13:14:41.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad#0",
+      "title": "法國暴動：各界對誰該負責與該汲取的教訓陷入分歧",
+      "meta": "BBC 中文 · 2026/10/21",
+      "url": "https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T09:24:36.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad#0",
       "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
       "meta": "BBC 中文 · 2026/10/21",
@@ -47,25 +61,18 @@
       "publishedAt": "2026-10-20T08:40:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#1",
       "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T07:42:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad#1",
       "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T04:37:42.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5yngleml15o/trad#1",
-      "title": "澳洲國會議員遭汽車「蓄意」撞擊重傷： 我們目前所知情況",
-      "meta": "BBC 中文 · 2026/10/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5yngleml15o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T03:13:27.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwp9g811d5ydo/trad#1",
@@ -96,7 +103,7 @@
       "publishedAt": "2026-10-19T09:19:13.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad#4",
       "title": "尊界V800「煞車門」：從產品安全之爭到「恨國」論戰",
       "meta": "BBC 中文 · 2026/10/19",
       "url": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad?at_medium=RSS&at_campaign=rss",
@@ -150,13 +157,6 @@
       "meta": "BBC 中文 · 2026/10/15",
       "url": "https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-15T00:20:29.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad#4",
-      "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
-      "meta": "BBC 中文 · 2026/10/15",
-      "url": "https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T00:20:23.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c83vq5lwy6wlo/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-21T07:39:58.774Z",
+  "updatedAt": "2026-10-21T13:48:26.688Z",
   "provider": "OneBench 公共资讯快照"
 }
