@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T18:39:10.237Z",
-  "expiresAt": "2026-10-22T00:39:10.237Z",
+  "generatedAt": "2026-10-21T23:19:25.609Z",
+  "expiresAt": "2026-10-22T05:19:25.609Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,204 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
+      "title": "美国宣布制裁与伊朗相关的多家外国实体",
+      "category": "综合",
+      "summary": "中新社华盛顿10月21日电 美国财政部当地时间21日发表声明说，对与伊朗相关的多家外国实体进行制裁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
+      "publishedAt": "2026-10-21T23:00:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
+      "title": "乌克兰首都基辅遭弹道导弹袭击",
+      "category": "综合",
+      "summary": "中新网10月22日电 综合多家乌克兰媒体报道，当地时间21日晚，俄罗斯使用弹道导弹袭击乌克兰首都基辅，基辅传出爆炸声。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
+      "publishedAt": "2026-10-21T22:58:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
+      "title": "10月22日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
+      "publishedAt": "2026-10-21T22:48:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718822.shtml",
+      "title": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+      "category": "综合",
+      "summary": "当地时间10月21日，俄乌和平进程迎来新动向。俄罗斯方面表示，俄方准备于11月重启俄美乌三方会谈。乌克兰总统泽连斯基对此回应称，乌方支持尽快启动新一轮三方会谈。美国总统特朗普则表示，俄乌冲突的结束从未如此“接近”。此前，美国总统特使威特科夫穿梭多国外交，先后与乌克兰、欧洲多国以及俄罗斯方面举行会谈。有分析称，美特使在乌欧俄之间的此轮斡旋多为试探，离正式和谈还",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718822.shtml",
+      "publishedAt": "2026-10-21T22:46:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
+      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+      "category": "综合",
+      "summary": "北京时间10月22日凌晨，在荷兰鹿特丹举行的第54届世界体操锦标赛结束女子团体决赛争夺，中国体操女队以总成绩165.764分夺得金牌，时隔20年再次站上世锦赛最高领奖台。美国队和日本队分列二、三位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
+      "publishedAt": "2026-10-21T22:18:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
+      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
+      "category": "综合",
+      "summary": "沙特阿拉伯能源部当地时间21日晚发表声明说，当天上午，沙特防空部队拦截了一架试图袭击沙特阿美公司位于东部省谢拜油田一处设施的无人机。拦截碎片坠落造成2人死亡、2人受伤，油田运营未受影响。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
+      "publishedAt": "2026-10-21T21:59:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
+      "title": "美国对伊朗实施新一轮制裁",
+      "category": "综合",
+      "summary": "当地时间10月21日，美国财政部网站显示，美国对伊朗实施新一轮制裁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
+      "publishedAt": "2026-10-21T21:58:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
+      "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
+      "category": "综合",
+      "summary": "当地时间10月21日，俄罗斯国防部通报，俄军当天白天继续使用无人机打击乌克兰物流中心、港口基础设施及运送军用货物的海上船只。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
+      "publishedAt": "2026-10-21T21:57:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
+      "title": "泽连斯基：乌方支持尽快启动新一轮三方会谈",
+      "category": "综合",
+      "summary": "乌克兰总统泽连斯基21日表示，俄罗斯已同意举行新一轮美乌俄三方谈判。美方提议尽快启动会谈，乌克兰予以支持，各方争取在11月初或更早时间召开会议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
+      "publishedAt": "2026-10-21T21:55:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-22/10718816.shtml",
+      "title": "牙膏分类新规来了 如何挑选适合自己的产品？",
+      "category": "综合",
+      "summary": "牙膏，人人用，天天用，除了清洁牙齿，当下市面上还有不少牙膏，给自己贴上了具备“消炎固齿、修复牙釉质、治疗牙痛、清除幽门螺杆菌”等功效的标签。而很多消费者正是看了这些标签，才购买了相应的牙膏产品。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-22/10718816.shtml",
+      "publishedAt": "2026-10-21T21:53:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-22/10718815.shtml",
+      "title": "法国总统马克龙：将采取一切必要措施防范骚乱再次发生",
+      "category": "综合",
+      "summary": "中新社巴黎10月21日电 (记者 李洋)法国总统马克龙21日表示，法国官方将会采取一切必要措施防范骚乱再次发生。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718815.shtml",
+      "publishedAt": "2026-10-21T21:45:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-22/10718814.shtml",
       "title": "香港《2026年法治指数》排名保持前列",
@@ -374,204 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml",
-      "title": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
-      "category": "综合",
-      "summary": "中新网广西三江10月21日电(龚普康 莫飒)中华文学基金会“文润三江 情满侗乡”——“育才图书室”捐赠仪式，近日在广西三江侗族自治县民族实验学校教育集团初中部举行。中华文学基金会携手番茄小说，向三江5个“育才图书室”捐赠图书近1.8万册，价值逾78万元人民币。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml",
-      "publishedAt": "2026-10-21T14:47:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-21/10718792.shtml",
-      "title": "香港邮政将发行“二十四节气——冬”特别邮票",
-      "category": "综合",
-      "summary": "中新网香港10月21日电 香港邮政21日宣布，将于11月5日发行“二十四节气——冬”特别邮票及相关邮品，为“二十四节气”特别邮票系列画上句号。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718792.shtml",
-      "publishedAt": "2026-10-21T14:46:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-21/10718791.shtml",
-      "title": "中华农耕文明与时代新生主题版画巡展（哈尔滨站）开展",
-      "category": "综合",
-      "summary": "中新网哈尔滨10月21日电 (刘锡菊 傅宇)21日，“镌木为史·印刻河山：中华农耕文明与时代新生主题版画巡展”(哈尔滨站)在黑龙江(国际)版画博物馆拉开帷幕，集中呈现一百余件(套)珍贵文献与版画作品，系统构建中华农耕文明的版画视觉史诗。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718791.shtml",
-      "publishedAt": "2026-10-21T14:45:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-21/10718790.shtml",
-      "title": "“绿茵逐梦 青春同行”2026苏澳青少年融媒体行动在澳门启动",
-      "category": "综合",
-      "summary": "中新网澳门10月21日电 “绿茵逐梦 青春同行”2026苏澳青少年融媒体行动21日在澳门濠江中学附属英才学校启动，来自江苏和澳门两地的嘉宾及师生代表400余人参加活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718790.shtml",
-      "publishedAt": "2026-10-21T14:45:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-21/10718789.shtml",
-      "title": "中央安全生产考核巡查二、三季度明查暗访发现重大事故隐患950项",
-      "category": "综合",
-      "summary": "中新网北京10月21日电 (记者 郭超凯)应急管理部副部长宋元明21日在北京表示，中央安全生产考核巡查二、三季度明查暗访共发现重大事故隐患950项，从严查处了一批煤矿隐蔽工作面开采、货车“百吨王”运输、瞒报事故、检验检测机构弄虚作假等违法行为。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718789.shtml",
-      "publishedAt": "2026-10-21T14:44:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-21/10718786.shtml",
-      "title": "法国一架“幻影-2000”战斗机坠毁 致1人丧生1人失踪",
-      "category": "综合",
-      "summary": "中新网巴黎10月21日电 据法国媒体21日报道，法国一架“幻影-2000”战机当地时间20日深夜在法国东北部坠毁，造成1人死亡，1人失踪。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718786.shtml",
-      "publishedAt": "2026-10-21T14:43:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-21/10718788.shtml",
-      "title": "261个港澳台项目参加广州科技创新创业大赛",
-      "category": "综合",
-      "summary": "中新网广州10月21日电 (记者 王坚)2026年广州科技创新创业大赛全球赛暨香港科技大学百万奖金创业大赛广州赛(下称“大赛”)决赛21日在广州南沙举行。本届赛事有261个参赛项目来自港澳台赛道。经多轮角逐，最终“高性能仿人五指灵巧手”项目夺得一等奖。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718788.shtml",
-      "publishedAt": "2026-10-21T14:43:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-21/10718787.shtml",
-      "title": "良渚，不止于“良渚”",
-      "category": "综合",
-      "summary": "中新网杭州10月21日电(鲍梦妮)第四届“良渚论坛”日前在浙江省杭州市余杭区落幕。走过四年，该论坛的权威性、影响力不断提升，也让全球目光进一步聚焦至这片中华五千多年文明史的实证之地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718787.shtml",
-      "publishedAt": "2026-10-21T14:42:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-21/10718785.shtml",
-      "title": "首届湖南安全应急装备产业博览会开幕 全链条装备亮相",
-      "category": "综合",
-      "summary": "中新网长沙10月21日电(刘国永)21日，首届湖南安全应急装备产业博览会(简称“湖南安博会”)在湘潭开幕，奏响湖南应急装备产业高质量发展乐章。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718785.shtml",
-      "publishedAt": "2026-10-21T14:24:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-21/10718784.shtml",
-      "title": "话剧《仰望者》上演 再现哈工大“八百壮士”报国路",
-      "category": "综合",
-      "summary": "中新网哈尔滨10月21日电 (王佳甜 阚思邈)20日晚，大型全景式话剧《仰望者》在哈尔滨大剧院上演，舞台之上，哈尔滨工业大学“八百壮士”扎根北疆、以身许国的故事，让现场观众动容。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718784.shtml",
-      "publishedAt": "2026-10-21T14:23:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-21/10718783.shtml",
-      "title": "四川成都：18名粒子天体物理学家进校园解读宇宙奥秘",
-      "category": "综合",
-      "summary": "中新网成都10月21日电 (记者 刘忠俊)10月21日，“科学与中国——千名院士·千场科普”四川行暨第五届“18名粒子天体物理学家校园行”系列科普活动在成都市科技中学(成都市第二中学)启动。中国科学院院士、高海拔宇宙线观测站“拉索”首席科学家曹臻带来首场讲座《在世界屋脊上捕捉宇宙信使》，拉开为期一周的系列科普活动帷幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718783.shtml",
-      "publishedAt": "2026-10-21T14:21:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#0",
       "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
       "category": "国际",
@@ -589,19 +589,92 @@
       "hot": false
     },
     {
-      "id": "who-zh-urn:uuid:0280cffd-2ae0-4a26-9e5d-dbd21906c3db",
-      "title": "启动新的全球框架，监测极端高温对孕妇、新生儿和儿童日益加剧的健康风险",
-      "category": "健康",
-      "summary": "随着全球极端高温日益加剧，世界卫生组织（世卫组织）、世界气象组织、联合国儿童基金会和联合国人口基金今天推出了首套重点指标，以帮助各国监测高温对孕妇、新生儿和儿童健康的影响。新框架旨在加强防范、改进监测并加快应对。这些行动将有助于保护一些最易受到气候相关健康风险影响的人群。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
-      "publishedAt": "2026-10-21T09:54:40.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143043",
+      "title": "撒马尔罕峰会：促进儿童福祉与健康",
+      "category": "国际",
+      "summary": "来自国际社会各方的代表齐聚乌兹别克斯坦撒马尔罕，致力于确保在一个饱受战争、气候混乱及其他重大挑战困扰的世界中，全球各地的儿童都能健康成长。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143043",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
       "tags": [
+        "国际",
+        "公共政策",
+        "教育",
         "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143042",
+      "title": "世卫组织协助尼日利亚应对首例埃博拉输入病例",
+      "category": "国际",
+      "summary": "世界卫生组织周三表示，尼日利亚已确认该国首例布恩迪布焦型埃博拉病毒病例。患者为一名近期从乌干达入境的女性，目前正接受隔离治疗。当地卫生部门已识别44名接触者并开展健康监测，世卫组织正协助加强疫情调查和感染防控。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143042",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143041",
+      "title": "苏丹和平磋商在日内瓦继续，推动结束“无人机战争”",
+      "category": "国际",
+      "summary": "二十多个国家代表周三在日内瓦继续磋商，讨论推动苏丹停火、缓解人道主义危机，以及向和平治理过渡的路径。目前，苏丹冲突已进入第四年，无人机袭击持续威胁平民和公共基础设施，全国近3400万人需要人道主义援助。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143041",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143040",
+      "title": "厄尔尼诺现象强度史无前例，联合国机构呼吁保护最脆弱群体免受影响",
+      "category": "国际",
+      "summary": "联合国两大机构周三发出强烈呼吁，要求国际社会立即提供援助，帮助那些已经受到有记录以来最强厄尔尼诺气候现象影响的社区。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143040",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143039",
+      "title": "秘书长强烈谴责阿卜耶伊无人机袭击事件",
+      "category": "国际",
+      "summary": "秘书长古特雷斯周二晚就10月19日发生在阿卜耶伊地区的无人机袭击发表声明，对这一造成重大平民伤亡的事件予以强烈谴责。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143039",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -759,6 +832,114 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143038",
+      "title": "全球变暖将突破1.5°C——但通过深度、快速的减排仍可扭转局面",
+      "category": "国际",
+      "summary": "鉴于全球气温升幅预计将超过工业革命前水平1.5°C，各国“必须不遗余力”，紧急削减排放，以便将超标幅度降至最低，并在本世纪末前回归国际公认的阈值。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143038",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143037",
+      "title": "特别代表警告科索沃紧张局势加剧，呼吁重启对话增进互信",
+      "category": "国际",
+      "summary": "秘书长科索沃问题特别代表周二在安理会审议科索沃问题时表示，过去半年科索沃及整个西巴尔干地区紧张局势有所上升，各方应通过对话、法治和问责机制重建互信，推动关系正常化。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143037",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143036",
+      "title": "儿基会呼吁孟加拉国采取措施结束童婚",
+      "category": "国际",
+      "summary": "联合国儿童基金会执行主任拉塞尔周二在结束对孟加拉国为期三天的访问之际发表讲话，呼吁该国终止童婚、保障女童继续接受教育，落实增加教育和卫生投入的承诺，并保障罗兴亚难民及接收社区儿童获得优质教育。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143036",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143035",
+      "title": "阿富汗饥饿危机：“距离饥荒仅一步之遥”",
+      "category": "国际",
+      "summary": "联合国已经对阿富汗发布了极端饥饿预警。该国各地正面临着一个残酷的现实：虽然有粮食，但数百万民众却无法获得食物。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143035",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143033",
+      "title": "也门战火迫使25万人逃离家园，饥饿与疾病加重困境",
+      "category": "国际",
+      "summary": "联合国周二表示，也门新一轮战事已迫使超过25万人逃离家园，其中约一半在西南部塔伊兹市及所在省份避难。当地援助通行基本受阻，食品、燃料和医疗物资供应趋紧，平民面临的健康与安全风险持续上升。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143033",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143032",
+      "title": "欧洲多国抗议引发关切，人权高专呼吁各方开展和平对话",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周二表示，阿尔巴尼亚、比利时、法国、意大利和葡萄牙的大规模抗议活动引发人权关切。他谴责一切暴力行为，呼吁所有相关方缓和紧张局势、防止暴力进一步发生，并通过包容、安全的对话寻求解决办法。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143032",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1485,114 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143010",
-      "title": "肯尼亚确诊第二例埃博拉病例，世卫组织呼吁加强防控",
-      "category": "国际",
-      "summary": "世界卫生组织周四表示，在肯尼亚确认第二例布恩迪布焦型埃博拉病例后，该机构正继续支持肯尼亚政府开展疫情防控，重点加强接触者追踪、感染预防与控制等工作，以防止病毒进一步传播。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143010",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143009",
-      "title": "你的脑部数据会被用来对付你吗？联合国呼吁对神经技术加以限制",
-      "category": "国际",
-      "summary": "根据一份新的联合国报告，通过游戏头戴设备或健康追踪设备记录的脑部信号，未来某一天可能会在法庭上被用作针对你的证据。该报告警告称，神经技术的发展速度正超过旨在保护人权的法律发展的速度。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143009",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143008",
-      "title": "联合国官员警告加沙重陷战争风险上升，呼吁重启真正和平进程",
-      "category": "国际",
-      "summary": "安理会周四就中东局势举行公开辩论。联合国中东和平进程代理特别协调员阿拉克巴罗夫（Ramiz Alakbarov）表示，加沙停火一年来局势依然极其脆弱，巴勒斯坦被占领土的人道主义和安全形势持续恶化，重返战争的风险“从未如此之高”。他敦促国际社会采取切实行动，推动恢复真正的和平进程。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143008",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143007",
-      "title": "保护生物多样性目标进展滞后，世界正开打一场“对自然的战争”",
-      "category": "国际",
-      "summary": "在各国即将齐聚亚美尼亚埃里温参加于10月19日开幕的《生物多样性公约》第17届缔约国大会前夕，联合国周四在一份新报告中警告称，为保护全球动植物和生态系统而设定的国家目标中，但仅有不到一半正按计划推进。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143007",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143006",
-      "title": "联合国警告：人工智能、绿色能源和经济转型可能导致弱势群体被抛在后面",
-      "category": "国际",
-      "summary": "联合国周四发布的《2026年世界社会报告》称，从人工智能和数字技术到可再生能源及人口结构变化等快速转型，正在重塑全球经济格局，这些变化虽创造了新机遇，但也可能加剧社会经济不平等。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143006",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143005",
-      "title": "阿富汗近四成人口将面临严重粮食短缺，营养不良问题加剧",
-      "category": "国际",
-      "summary": "联合国粮食及农业组织和世界粮食计划署周四警告称，受生活成本高企、就业机会不足和人道主义援助资金短缺等因素影响，阿富汗今年冬天预计将有约1920万人面临严重的粮食短缺问题，2027年急性营养不良病例预计将增至400万例。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143005",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad#4",
       "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
       "category": "国际",
@@ -1623,96 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143003",
-      "title": "【专题报道 | 前方视野】从竹屋到石场废料砖：五个改变生活的住房项目荣获联合国嘉奖",
-      "category": "国际",
-      "summary": "全球目前有34亿人缺乏安全、可负担和适足的住房。来自巴基斯坦、缅甸、巴西、突尼斯和英国的五项创新实践，向世界展示了解决住房危机的不同路径。在2026年世界人居日全球纪念活动于10月5日至8日在阿曼首都马斯喀特举行期间，联合国人居署向这五个项目颁发2026年“荣誉奖”，表彰他们在推进适足住房和可持续城市发展方面作出的突出贡献。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143003",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143002",
-      "title": "海地制裁措施续期：切断帮派的弹药供应",
-      "category": "国际",
-      "summary": "海地正经历着全球最严峻的安全危机之一。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143002",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143001",
-      "title": "刚果民主共和国霍乱病例增加，埃博拉疫情加重医疗系统负担",
-      "category": "国际",
-      "summary": "世界卫生组织周三表示，刚果民主共和国霍乱疫情持续蔓延。2025年1月至2026年9月底，该国累计报告超过12.5万例疑似病例和3600多例疑似死亡病例。与此同时，埃博拉疫情正对该国医疗系统造成严重压力，并引发邻国关注。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143001",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143000",
-      "title": "粮食署：也门战事阻断80万人援助，或将引发人道主义灾难",
-      "category": "国际",
-      "summary": "联合国世界粮食计划署周三表示，也门战事升级导致的战线变化、道路受阻和安全局势恶化，严重限制了援助人员进入塔伊兹市及其他冲突地区。目前，全国约80万人无法获得旨在拯救生命的援助。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143000",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142998",
-      "title": "饮酒可导致乳腺癌 欧洲受访者知晓率仅15%",
-      "category": "国际",
-      "summary": "世界卫生组织欧洲区域办事处周三表示，在欧洲14个国家开展的调查中，仅有15%的受访者知道饮酒可能导致乳腺癌。10月是乳腺癌宣传月。为了扩大相关医疗知识宣传，办事处推出配备人工智能助手的数字平台，帮助医护人员开展酒精风险筛查，并鼓励将健康饮酒的讨论纳入日常诊疗。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142998",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -2133,6 +2116,23 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem",
       "publishedAt": "2026-09-03T08:47:07.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:2e6ceb47-a242-4528-8fca-4e869e7f6138",
+      "title": "启动全球倡议以改善猴痘疫苗的获取",
+      "category": "健康",
+      "summary": "一项旨在建立猴痘疫苗储备的全球倡议于8月27日启动，目的是创建长期机制，确保各国在应对猴痘疫情时能够获得疫苗。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
+      "publishedAt": "2026-09-02T14:29:04.000Z",
       "tags": [
         "健康",
         "育儿",

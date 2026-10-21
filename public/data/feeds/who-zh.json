@@ -5,13 +5,6 @@
   "title": "世界卫生组织",
   "items": [
     {
-      "id": "who-zh-urn:uuid:0280cffd-2ae0-4a26-9e5d-dbd21906c3db",
-      "title": "启动新的全球框架，监测极端高温对孕妇、新生儿和儿童日益加剧的健康风险",
-      "meta": "世界卫生组织 · 2026/10/21",
-      "url": "https://www.who.int/zh/news-room/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
-      "publishedAt": "2026-10-21T09:54:40.000Z"
-    },
-    {
       "id": "who-zh-urn:uuid:49a296f5-6447-4836-838c-bb3362b0d0bb",
       "title": "国际刑警组织与世卫组织签署协议，加强全球卫生与安全保护",
       "meta": "世界卫生组织 · 2026/10/16",
@@ -143,8 +136,15 @@
       "meta": "世界卫生组织 · 2026/9/3",
       "url": "https://www.who.int/zh/news-room/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem",
       "publishedAt": "2026-09-03T08:47:07.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:2e6ceb47-a242-4528-8fca-4e869e7f6138",
+      "title": "启动全球倡议以改善猴痘疫苗的获取",
+      "meta": "世界卫生组织 · 2026/9/2",
+      "url": "https://www.who.int/zh/news-room/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
+      "publishedAt": "2026-09-02T14:29:04.000Z"
     }
   ],
-  "updatedAt": "2026-10-21T18:39:10.237Z",
+  "updatedAt": "2026-10-21T23:19:25.609Z",
   "provider": "OneBench 公共资讯快照"
 }
