@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad#0",
+      "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
+      "meta": "BBC 中文 · 2026/10/21",
+      "url": "https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T05:07:18.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmp3gepg90x6o/trad#0",
       "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
       "meta": "BBC 中文 · 2026/10/21",
@@ -12,7 +19,7 @@
       "publishedAt": "2026-10-21T00:17:33.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad#1",
       "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
       "meta": "BBC 中文 · 2026/10/21",
       "url": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad?at_medium=RSS&at_campaign=rss",
@@ -33,14 +40,14 @@
       "publishedAt": "2026-10-20T09:20:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad#1",
       "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T08:40:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#0",
       "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
@@ -117,18 +124,11 @@
       "publishedAt": "2026-10-18T00:31:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#5",
       "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
       "meta": "BBC 中文 · 2026/10/17",
       "url": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-17T12:54:47.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad#5",
-      "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
-      "meta": "BBC 中文 · 2026/10/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T11:44:49.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cmwyq699de35o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-21T00:37:10.628Z",
+  "updatedAt": "2026-10-21T07:39:58.774Z",
   "provider": "OneBench 公共资讯快照"
 }
