@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143045",
+      "title": "2025年赴欧海路非正规移民费用高达5亿美元",
+      "meta": "联合国新闻 · 2026/10/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143045",
+      "publishedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143044",
+      "title": "西岸橄榄收获在定居者袭击中“开季不祥”",
+      "meta": "联合国新闻 · 2026/10/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143044",
+      "publishedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143043",
       "title": "撒马尔罕峰会：促进儿童福祉与健康",
       "meta": "联合国新闻 · 2026/10/21",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/16",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143013",
       "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143012",
-      "title": "【子午播报】2026年10月16日",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143012",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143011",
-      "title": "全球每年逾350万人死于铅暴露",
-      "meta": "联合国新闻 · 2026/10/15",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143011",
-      "publishedAt": "2026-10-15T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-21T23:19:25.609Z",
+  "updatedAt": "2026-10-22T04:45:52.993Z",
   "provider": "OneBench 公共资讯快照"
 }

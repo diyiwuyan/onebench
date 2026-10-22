@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad#0",
+      "title": "吃什麼能保持年輕肌膚？",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T00:21:30.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad#0",
+      "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T00:21:24.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad#0",
+      "title": "特朗普治下，美國經濟的真實表現如何？",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T00:21:18.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#0",
       "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
       "meta": "BBC 中文 · 2026/10/21",
@@ -19,18 +40,11 @@
       "publishedAt": "2026-10-21T09:24:36.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad#1",
       "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
       "meta": "BBC 中文 · 2026/10/21",
       "url": "https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T05:07:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmp3gepg90x6o/trad#0",
-      "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
-      "meta": "BBC 中文 · 2026/10/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cmp3gepg90x6o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T00:17:33.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad#1",
@@ -40,18 +54,11 @@
       "publishedAt": "2026-10-21T00:17:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#1",
       "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T14:58:04.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad#1",
-      "title": "緬甸軍政府：英王查爾斯贈書昂山素季",
-      "meta": "BBC 中文 · 2026/10/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T09:20:03.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad#1",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T04:37:42.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwp9g811d5ydo/trad#1",
-      "title": "法國騷亂：巴黎局部宵禁 被劫商品現身二手平台",
-      "meta": "BBC 中文 · 2026/10/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cwp9g811d5ydo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T02:47:44.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-21T23:19:25.609Z",
+  "updatedAt": "2026-10-22T04:45:52.993Z",
   "provider": "OneBench 公共资讯快照"
 }
