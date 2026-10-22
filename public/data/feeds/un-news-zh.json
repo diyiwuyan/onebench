@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143049",
+      "title": "国际刑事法院荣获2026年萨哈罗夫思想自由奖",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143049",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143048",
+      "title": "刚果（金）：埃博拉疫情蔓延，防疫人员面临压力",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143048",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143047",
+      "title": "父亲带薪育儿假仅为母亲的八分之一， 整个社会承担“育儿鸿沟”代价",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143047",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143046",
+      "title": "秘书长警告“战争的厄尔尼诺”效应，呼吁遏制冲突蔓延并解决全球不平等",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143046",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143045",
       "title": "2025年赴欧海路非正规移民费用高达5亿美元",
       "meta": "联合国新闻 · 2026/10/21",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/10/16",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143019",
       "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143018",
-      "title": "世卫组织: 沙特确诊8例中东呼吸综合征冠状病毒病",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143018",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143017",
-      "title": "古特雷斯呼吁各方加快行动并增加投入，以遏制生物多样性丧失",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143017",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143016",
-      "title": "人权专家：多种形式的剥夺正导致全球土地和水资源所有权集中度达到历史最高水平",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143016",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143013",
-      "title": "安理会聚焦苏丹危机：联合国警告战争正逼近地区失控边缘",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143013",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-22T17:10:38.679Z",
+  "updatedAt": "2026-10-22T21:35:43.930Z",
   "provider": "OneBench 公共资讯快照"
 }

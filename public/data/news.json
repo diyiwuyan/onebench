@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T17:10:38.679Z",
-  "expiresAt": "2026-10-22T23:10:38.679Z",
+  "generatedAt": "2026-10-22T21:35:43.930Z",
+  "expiresAt": "2026-10-23T03:35:43.930Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,78 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143049",
+      "title": "国际刑事法院荣获2026年萨哈罗夫思想自由奖",
+      "category": "国际",
+      "summary": "国际刑事法院周四发表声明，对欧洲议会将2026年萨哈罗夫思想自由奖授予该法院及其工作人员表示感谢。当前国际刑事及其工作人员正面临前所未有挑战——包括旨在干扰该法院司法职能的制裁措施，这一奖项具有特殊意义。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143049",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143048",
+      "title": "刚果（金）：埃博拉疫情蔓延，防疫人员面临压力",
+      "category": "国际",
+      "summary": "随着致命的埃博拉疫情蔓延至刚果民主共和国（刚果（金））的第八个省，调查人员周四正全面追查相关线索，以评估该疾病在西非国家尼日利亚传播的风险。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143048",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143047",
+      "title": "父亲带薪育儿假仅为母亲的八分之一， 整个社会承担“育儿鸿沟”代价",
+      "category": "国际",
+      "summary": "联合国妇女署与世界银行集团周四联合发布的一份政策简报指出，全球多数国家和地区仍为母亲提供远多于父亲的带薪育儿假，这种政策差距加剧了男女在照护责任上的不平等，削弱了家庭、儿童及经济发展的整体福祉。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143047",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143046",
+      "title": "秘书长警告“战争的厄尔尼诺”效应，呼吁遏制冲突蔓延并解决全球不平等",
+      "category": "国际",
+      "summary": "秘书长古特雷斯周四上午在纽约联合国总部向新闻界发表谈话时表示，全球各地的民众正在通过不同方式表达不满情绪，生活成本持续上涨正给许多人带来越来越沉重的压力。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143046",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1600,78 +1672,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143019",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143018",
-      "title": "世卫组织: 沙特确诊8例中东呼吸综合征冠状病毒病",
-      "category": "国际",
-      "summary": "世界卫生组织周五表示，沙特阿拉伯向该组织报告了8例经实验室确诊的中东呼吸综合征冠状病毒感染病例，其中包括1例死亡病例。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143018",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143017",
-      "title": "古特雷斯呼吁各方加快行动并增加投入，以遏制生物多样性丧失",
-      "category": "国际",
-      "summary": "联合国生物多样性大会第十七次缔约方大会将于下周在亚美尼亚首都埃里温开幕。联合国秘书长古特雷斯周五在当地举行的领导人峰会上表示，全球超过100万种物种面临灭绝风险，但保护行动却进展缓慢，资金投入严重不足，他敦促各国政府、企业和社会各界加快行动，遏制生物多样性丧失。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143017",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143016",
-      "title": "人权专家：多种形式的剥夺正导致全球土地和水资源所有权集中度达到历史最高水平",
-      "category": "国际",
-      "summary": "联合国人权专家周五警告称，战争与占领、企业土地交易、碳交易和保护计划，以及无视习惯性土地权属的法律，正在剥夺农民、渔民、牧民和土著人民的领地，并使土地集中度达到历史最高水平。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143016",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143013",
-      "title": "安理会聚焦苏丹危机：联合国警告战争正逼近地区失控边缘",
-      "category": "国际",
-      "summary": "联合国负责政治事务的副秘书长迪卡洛（Rosemary DiCarlo）和秘书长苏丹问题个人特使哈维斯托（Pekka Haavisto）周五在安理会公开会议上发出警告称，苏丹冲突不仅没有出现缓和迹象，反而在武器持续流入、无人机袭击增多以及周边局势恶化的背景下，面临进一步升级和外溢风险。他们呼吁冲突双方采取实际措施保护平民，并推动停火与政治进程。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143013",
       "publishedAt": "2026-10-16T12:00:00.000Z",
       "tags": [
         "国际",
