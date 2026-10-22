@@ -5,6 +5,41 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad#0",
+      "title": "不點單，沒座位：星巴克中國推出新門店政策",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T09:50:32.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6eq32qzr0x8o/trad#2",
+      "title": "暗影人物：與烏克蘭合作的俄羅斯人",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/watch/c6eq32qzr0x8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T09:31:01.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad#0",
+      "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T09:21:26.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad#0",
+      "title": "《決勝時刻》新遊戲設想朝鮮入侵韓國，真的會發生嗎？",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T08:44:40.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad#1",
+      "title": "Google軍事人工智能合約引發辭職潮",
+      "meta": "BBC 中文 · 2026/10/22",
+      "url": "https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T08:44:02.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad#0",
       "title": "吃什麼能保持年輕肌膚？",
       "meta": "BBC 中文 · 2026/10/22",
@@ -12,7 +47,7 @@
       "publishedAt": "2026-10-22T00:21:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad#1",
       "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
       "meta": "BBC 中文 · 2026/10/22",
       "url": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
@@ -26,14 +61,14 @@
       "publishedAt": "2026-10-22T00:21:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#1",
       "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
       "meta": "BBC 中文 · 2026/10/21",
       "url": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T13:14:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad#1",
       "title": "法國暴動：各界對誰該負責與該汲取的教訓陷入分歧",
       "meta": "BBC 中文 · 2026/10/21",
       "url": "https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad?at_medium=RSS&at_campaign=rss",
@@ -45,13 +80,6 @@
       "meta": "BBC 中文 · 2026/10/21",
       "url": "https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T05:07:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad#1",
-      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
-      "meta": "BBC 中文 · 2026/10/21",
-      "url": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T00:17:29.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#1",
@@ -68,8 +96,8 @@
       "publishedAt": "2026-10-20T08:40:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#1",
-      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#3",
+      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T07:42:45.000Z"
@@ -82,7 +110,7 @@
       "publishedAt": "2026-10-20T04:37:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad#4",
       "title": "俄羅斯境內反普京破壞行動的隱秘世界",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +124,7 @@
       "publishedAt": "2026-10-19T09:37:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad#4",
       "title": "中國三季度增長4.5% 但出口暴增，樓市新開工面積暴跌",
       "meta": "BBC 中文 · 2026/10/19",
       "url": "https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad?at_medium=RSS&at_campaign=rss",
@@ -108,13 +136,6 @@
       "meta": "BBC 中文 · 2026/10/19",
       "url": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T03:22:46.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad#4",
-      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
-      "meta": "BBC 中文 · 2026/10/19",
-      "url": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T00:08:13.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#4",
@@ -159,20 +180,6 @@
       "publishedAt": "2026-10-15T00:20:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c83vq5lwy6wlo/trad#2",
-      "title": "薄熙來前搭檔受查：重慶政壇「不倒翁」黃奇帆是誰？",
-      "meta": "BBC 中文 · 2026/10/14",
-      "url": "https://www.bbc.com/zhongwen/watch/c83vq5lwy6wlo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T14:46:38.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad#4",
-      "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
-      "meta": "BBC 中文 · 2026/10/14",
-      "url": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T09:09:43.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad#2",
       "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
       "meta": "BBC 中文 · 2026/10/8",
@@ -185,13 +192,6 @@
       "meta": "BBC 中文 · 2026/10/5",
       "url": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-05T00:14:01.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#3",
-      "title": "特朗普排除美中合作開發人工智能",
-      "meta": "BBC 中文 · 2026/9/30",
-      "url": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T04:39:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-22T04:45:52.993Z",
+  "updatedAt": "2026-10-22T11:52:48.707Z",
   "provider": "OneBench 公共资讯快照"
 }
