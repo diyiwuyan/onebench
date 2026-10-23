@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#0",
+      "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
+      "meta": "BBC 中文 · 2026/10/23",
+      "url": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:33:20.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad#0",
+      "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
+      "meta": "BBC 中文 · 2026/10/23",
+      "url": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T08:59:14.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad#1",
+      "title": "PHP是什麼？為何它引發全球網絡安全危機？",
+      "meta": "BBC 中文 · 2026/10/23",
+      "url": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T08:09:29.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad#0",
       "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
       "meta": "BBC 中文 · 2026/10/23",
@@ -12,14 +33,7 @@
       "publishedAt": "2026-10-23T05:23:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad#0",
-      "title": "PHP是什麼？為何它引發全球網絡安全危機？",
-      "meta": "BBC 中文 · 2026/10/23",
-      "url": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:01:50.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad#1",
       "title": "特朗普訴BBC誹謗案：法官下令總統須宣誓並答問作證",
       "meta": "BBC 中文 · 2026/10/23",
       "url": "https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad?at_medium=RSS&at_campaign=rss",
@@ -89,13 +103,6 @@
       "publishedAt": "2026-10-21T13:14:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad#1",
-      "title": "法國暴動：各界對誰該負責與該汲取的教訓陷入分歧",
-      "meta": "BBC 中文 · 2026/10/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T09:24:36.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#4",
       "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
       "meta": "BBC 中文 · 2026/10/20",
@@ -117,7 +124,7 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad#5",
       "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
@@ -157,13 +164,6 @@
       "meta": "BBC 中文 · 2026/10/18",
       "url": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-18T00:31:34.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#5",
-      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
-      "meta": "BBC 中文 · 2026/10/17",
-      "url": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T12:54:47.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cmwyq699de35o/trad#2",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-23T07:32:33.693Z",
+  "updatedAt": "2026-10-23T13:26:59.992Z",
   "provider": "OneBench 公共资讯快照"
 }
