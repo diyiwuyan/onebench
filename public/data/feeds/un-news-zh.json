@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143054",
+      "title": "苏丹无人机袭击激增加剧人道危机 妇女和女童持续承",
+      "meta": "联合国新闻 · 2026/10/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143054",
+      "publishedAt": "2026-10-23T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143053",
       "title": "法国报告首例沙蒙达病毒人类感染病例，患者已死亡",
       "meta": "联合国新闻 · 2026/10/22",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143024",
       "publishedAt": "2026-10-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143023",
-      "title": "海地选举筹备取得进展 帮派暴力与安全危机仍难缓解",
-      "meta": "联合国新闻 · 2026/10/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143023",
-      "publishedAt": "2026-10-19T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-23T13:26:59.992Z",
+  "updatedAt": "2026-10-23T18:21:47.665Z",
   "provider": "OneBench 公共资讯快照"
 }
