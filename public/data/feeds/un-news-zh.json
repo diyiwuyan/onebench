@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143053",
+      "title": "法国报告首例沙蒙达病毒人类感染病例，患者已死亡",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143053",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143052",
+      "title": "尼泊尔致命冰川洪灾敲响全球气候危机警钟",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143052",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143051",
+      "title": "联合国专家敦促各国采取行动，应对全球老年人非法死亡问题",
+      "meta": "联合国新闻 · 2026/10/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143051",
+      "publishedAt": "2026-10-22T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143049",
       "title": "国际刑事法院荣获2026年萨哈罗夫思想自由奖",
       "meta": "联合国新闻 · 2026/10/22",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/10/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143023",
       "publishedAt": "2026-10-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143021",
-      "title": "【世界进行时】2026年10月16日",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143021",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143020",
-      "title": "乌克兰平民伤亡处于近年高位 能源设施遇袭加剧",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143020",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143019",
-      "title": "儿基会：加沙停火一周年 超过340名儿童遇害",
-      "meta": "联合国新闻 · 2026/10/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143019",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-22T21:35:43.930Z",
+  "updatedAt": "2026-10-23T00:40:23.613Z",
   "provider": "OneBench 公共资讯快照"
 }

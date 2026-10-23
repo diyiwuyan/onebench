@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad#0",
+      "title": "西藏發生7級強烈地震，據報至少16死、數十人受傷",
+      "meta": "BBC 中文 · 2026/10/23",
+      "url": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T00:15:16.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad#0",
       "title": "不點單，沒座位：星巴克中國推出新門店政策",
       "meta": "BBC 中文 · 2026/10/22",
@@ -40,7 +47,7 @@
       "publishedAt": "2026-10-22T08:44:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad#1",
       "title": "吃什麼能保持年輕肌膚？",
       "meta": "BBC 中文 · 2026/10/22",
       "url": "https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-10-21T05:07:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#4",
       "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
       "meta": "BBC 中文 · 2026/10/20",
       "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-10-15T12:46:44.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad#4",
-      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
-      "meta": "BBC 中文 · 2026/10/15",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T00:20:29.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad#2",
       "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
       "meta": "BBC 中文 · 2026/10/8",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-22T21:35:43.930Z",
+  "updatedAt": "2026-10-23T00:40:23.613Z",
   "provider": "OneBench 公共资讯快照"
 }
