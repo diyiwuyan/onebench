@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143064",
+      "title": "【子午播报】2026年10月24日",
+      "meta": "联合国新闻 · 2026/10/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064",
+      "publishedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143062",
+      "title": "【世界进行时】2026年10月23日",
+      "meta": "联合国新闻 · 2026/10/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143062",
+      "publishedAt": "2026-10-23T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143061",
       "title": "秘书长谴责约旦卡拉克省教堂恐袭，呼吁将肇事者绳之以法",
       "meta": "联合国新闻 · 2026/10/23",
@@ -55,7 +69,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143054",
-      "title": "苏丹无人机袭击激增加剧人道危机 妇女和女童持续承",
+      "title": "苏丹无人机袭击激增加剧人道危机，妇女和女童持续承受磨难",
       "meta": "联合国新闻 · 2026/10/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143054",
       "publishedAt": "2026-10-23T12:00:00.000Z"
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143032",
       "publishedAt": "2026-10-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143034",
-      "title": "秘书长特别代表：中非共和国和平进程取得进展，东北部安全形势仍面临挑战",
-      "meta": "联合国新闻 · 2026/10/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143034",
-      "publishedAt": "2026-10-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143031",
-      "title": "世卫组织报告探讨非传染性疾病及其风险因素方面存在的不平等现象",
-      "meta": "联合国新闻 · 2026/10/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143031",
-      "publishedAt": "2026-10-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-23T23:08:43.544Z",
+  "updatedAt": "2026-10-24T04:36:49.200Z",
   "provider": "OneBench 公共资讯快照"
 }

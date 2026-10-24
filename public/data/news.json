@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T23:08:43.544Z",
-  "expiresAt": "2026-10-24T05:08:43.544Z",
+  "generatedAt": "2026-10-24T04:36:49.200Z",
+  "expiresAt": "2026-10-24T10:36:49.200Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,32 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-24/10720170.shtml",
-      "title": "年轻人开始流行“喝大水” 极简养生的背后怎么喝才更健康？",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143064",
+      "title": "【子午播报】2026年10月24日",
+      "category": "国际",
+      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，古特雷斯表示，从欧洲街头到全球危机，美好未来正变得遥不可及；环境署警告，本世纪末升温或将达2.8℃；81年前的今天：联合国正式成立。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-24/10720263.shtml",
+      "title": "三十多年后，依旧回味无穷",
       "category": "综合",
-      "summary": "最近，一种叫“大水理论”的生活方式在网络上引发热议。",
+      "summary": "中新网北京10月24日电(记者 上官云)“我从未见过有如此厚颜无耻之人！”互联网时代，这句话是很多网友常用的热梗，或调侃，或打趣，精准表达心情，乐此不疲。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720170.shtml",
-      "publishedAt": "2026-10-23T22:39:59.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720263.shtml",
+      "publishedAt": "2026-10-24T04:25:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
-      "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-24/10720260.shtml",
+      "title": "50余名缅甸青年临沧“开拍” 用镜头向世界发出“云南之约”",
       "category": "综合",
-      "summary": "当地时间23日，伊朗伊斯兰革命卫队海军宣布，当天早些时候，两艘试图非法穿越霍尔木兹海峡南部的超级油轮触雷。爆炸和大火导致其机舱瘫痪，并停泊在原地。这两艘油轮共载有超过450万桶原油，触雷后被遗弃在霍尔木兹海峡南部，船员弃船逃生。(总台记者 李健南）",
+      "summary": "中新网云南临沧10月24日电 (陈静 黄兴鸿)23日晚，2026年“云南之约”国际传播活动(临沧站)在位于云南省临沧市的滇西科技师范学院开营。50余名缅甸留学生及网络达人将在未来4天走进临沧的村寨、茶园与古窑，用短视频“遇见临沧”，向世界发出来自临沧的“云南之约”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
-      "publishedAt": "2026-10-23T22:36:43.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720260.shtml",
+      "publishedAt": "2026-10-24T04:22:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
-      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-24/10720258.shtml",
+      "title": "以瓷会友 2026海峡两岸（景德镇）陶瓷文化交流活动闭幕",
       "category": "综合",
-      "summary": "当地时间10月23日，美国总统特朗普表示，美国或许会再来一次小规模的“史诗怒火”行动，又或者伊朗会选择妥协。特朗普称，如果伊朗足够聪明，就会直接说：“咱们来谈正事吧。”",
+      "summary": "中新网景德镇10月24日电 (朱莹 邓俊萍)为期6天的2026海峡两岸(景德镇)陶瓷文化交流活动23日在江西景德镇闭幕。活动期间，两岸陶艺家互学互鉴、共续瓷缘。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
-      "publishedAt": "2026-10-23T22:35:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720258.shtml",
+      "publishedAt": "2026-10-24T04:21:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
-      "title": "“共振：中德当代艺术展”在柏林开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-24/10720259.shtml",
+      "title": "“七一勋章”获得者林丹：小巷里的“养老答卷”",
       "category": "综合",
-      "summary": "中新社柏林10月23日电 (记者 马秀秀)当地时间23日，“共振：中德当代艺术展”在柏林中国文化中心开幕。",
+      "summary": "中新网福州10月24日电 题：“七一勋章”获得者林丹：小巷里的“养老答卷”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
-      "publishedAt": "2026-10-23T22:33:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720259.shtml",
+      "publishedAt": "2026-10-24T04:18:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
-      "title": "俄军宣布27日在赫尔松方向实施停火",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-24/10720247.shtml",
+      "title": "习言道｜全面从严治党，总书记这些比喻深入人心",
       "category": "综合",
-      "summary": "中新社莫斯科10月23日电 俄罗斯武装力量总参谋长格拉西莫夫23日表示，鉴于在赫尔松州奥列什基(又称阿廖什基)居民点开展人道主义行动，俄军决定在赫尔松方向实施停火，自莫斯科时间10月27日4时起进入“静默状态”。",
+      "summary": "治国必先治党，党兴才能国强。党的十八大以来，习近平总书记对于全面从严治党作出一系列重要论述，其中有许多深入人心的比喻。“把权力关进制度的笼子里”“扣好廉洁从政的‘第一粒扣子’”“‘病树’该拔就拔、该伐就伐”……重温这些比喻，一起学习领悟其中的深远意涵。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
-      "publishedAt": "2026-10-23T22:33:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720247.shtml",
+      "publishedAt": "2026-10-24T04:06:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720165.shtml",
-      "title": "法国巴黎大区发生枪击事件致一死多伤 官方定性为恐袭",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-24/10720257.shtml",
+      "title": "冷冷冷！新一波冷空气来袭 供暖季开启前做好这几件事→",
       "category": "综合",
-      "summary": "中新社巴黎10月23日电 (记者 李洋)法国巴黎大区当地时间23日发生一起枪击事件，目前造成一人死亡，多人受伤。法国官方已经将事件定性为恐怖袭击。",
+      "summary": "最近天气一下子就冷了",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720165.shtml",
-      "publishedAt": "2026-10-23T22:32:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720257.shtml",
+      "publishedAt": "2026-10-24T04:05:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-24/10720164.shtml",
-      "title": "全国短池游泳锦标赛开赛 张展硕、于子迪摘金",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-24/10720255.shtml",
+      "title": "“电影+”又有新玩法：一张票根，正在重新定义电影消费",
       "category": "综合",
-      "summary": "中新社北京10月24日电 (记者 国璇)2026年全国游泳锦标赛(25米)23日在北京国家游泳中心“水立方”开赛。首日决出六金，其中张展硕夺得男子1500米自由泳冠军，“小孩姐”于子迪收获女子200米混合泳金牌。",
+      "summary": "截至10月23日，2026年全国电影总票房(含预售)已突破313.8亿元，观影人次超8亿，放映总场次1.2亿场，电影全产业链产值已超4800亿元。银幕之外，“电影+”正在以更具体的形态重塑影院空间、拓宽电影票根所能抵达的边界。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720164.shtml",
-      "publishedAt": "2026-10-23T22:32:14.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720255.shtml",
+      "publishedAt": "2026-10-24T03:52:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720163.shtml",
-      "title": "美国能源部将氦气认定为关键材料",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-24/10720214.shtml",
+      "title": "2026宁波网球公开赛：莱巴金娜晋级四强",
       "category": "综合",
-      "summary": "中新社华盛顿10月23日电 (记者 沙晗汀)美国能源部当地时间23日宣布，将氦气认定为关键材料，以加强美国制造业和供应链安全。",
+      "summary": "图为莱巴金娜在比赛中接球。中新社记者 肖健 摄 图为莱巴金娜在比赛中。中新社记者 肖健 摄 图为卡瓦在比赛中。中新社记者 肖健 摄 图为卡瓦在比赛中救球。中新社记者 肖健 摄 图为卡瓦在比赛中。中新社记者 肖健 摄 图为比赛现场。中新社记者 肖健 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720163.shtml",
-      "publishedAt": "2026-10-23T18:20:15.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720214.shtml",
+      "publishedAt": "2026-10-24T03:42:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-24/10720162.shtml",
-      "title": "CBA常规赛：北控队主场战胜江苏队",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-24/10720203.shtml",
+      "title": "海外华媒探访国内最大陆上人工鲟鱼养殖基地",
       "category": "综合",
-      "summary": "中新社北京10月24日电 (记者 国璇)23日晚在北京举行的2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第三轮比拼中，北京控股队(简称“北控队”)主场以93:82战胜江苏肯帝亚队(简称“江苏队”)。",
+      "summary": "图为鱼子酱生产加工车间。董晓斌 摄 图为媒体团代表们体验给鲟鱼喂食。董晓斌 摄 图为媒体代表们游览鲟鱼生态保护展示中心。董晓斌 摄 图为海外华媒代表品尝鱼子酱。田耀平 摄 图为清江鲟鱼谷的养殖池(无人机照片)。闫志 摄 图为航拍国内最大的陆上人工鲟鱼养殖基地(无人机照片)。闫志 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720162.shtml",
-      "publishedAt": "2026-10-23T18:20:05.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720203.shtml",
+      "publishedAt": "2026-10-24T03:38:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-24/10720161.shtml",
-      "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-24/10720200.shtml",
+      "title": "四川眉山：2026年全国青少年U系列攀岩联赛开赛",
       "category": "综合",
-      "summary": "2026年10月23日，中共中央政治局委员、外交部长王毅在2026全球治理论坛(雄安)开幕式上表示，全球治理追求的是各国人民的共同福祉，依靠的是国际社会的共同努力。今年是新中国恢复联合国合法席位55周年。作为联合国创始会员国和安理会常任理事国，中国愿同世界各国一道，起而行之，携手共进，为构建更加公正合理的全球治理体系作出不懈努力。中方将采取以下务实行动：",
+      "summary": "图为U15攀岩难度赛女子前三名颁奖现场，广州大学附属中学选手邱紫恒(中间)获金牌。中新社记者 刘忠俊 摄 图为U15攀岩难度赛男子前三名颁奖现场，广州大学附属中学选手潘宸皓(红衣)获金牌。中新社记者 刘忠俊 摄 图为U15攀岩难度赛女子组决赛现场，选手杨雅涵正在比赛。中新社记者 刘忠俊 摄 图为U15攀岩难度赛女子组决赛现场，选手陈采薪正在比赛。中新社记者 ",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720161.shtml",
-      "publishedAt": "2026-10-23T17:58:28.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720200.shtml",
+      "publishedAt": "2026-10-24T03:35:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720160.shtml",
-      "title": "两名日本登山者在尼泊尔失联多日后遗体被发现",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-24/10720251.shtml",
+      "title": "四价流感疫苗消失了？真相来了→",
       "category": "综合",
-      "summary": "中新社加德满都10月23日电 (记者 崔楠)尼泊尔救援人员23日在该国西北部山区发现两名此前失联的日本登山者遗体。",
+      "summary": "天气转凉",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720160.shtml",
-      "publishedAt": "2026-10-23T17:01:20.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720251.shtml",
+      "publishedAt": "2026-10-24T03:32:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720159.shtml",
-      "title": "以军总参谋长：已在所有战线进入最高戒备状态",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-24/10720199.shtml",
+      "title": "2026广西国际农业博览会在南宁开幕",
       "category": "综合",
-      "summary": "当地时间23日，以军总参谋长扎米尔在约旦河西岸城市希伯伦附近的枪击事件现场表示，以军目前已在所有战线都进入最高戒备状态。他强调，鉴于即将进入以色列议会选举的敏感时期，以军将继续在各区域采取主动军事行动，以确保当地的安全与稳定。",
+      "summary": "图为开幕式现场举行广西秋冬季农产品产销合作签约仪式。陈冠言 摄 图为展会现场。陈冠言 摄 图为展会现场。陈冠言 摄 图为现场展出的广西水果吸引参观者。陈冠言 摄 图为新茶饮及特色咖啡馆内，参观者品尝产自广西百色西林县的咖啡。陈冠言 摄 图为农业机械化馆展示的甘蔗全程机械化装备吸引参观者。陈冠言 摄 图为农业机械化馆展示的甘蔗全程机械化装备吸引参观者。陈冠言 ",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720159.shtml",
-      "publishedAt": "2026-10-23T16:20:14.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720199.shtml",
+      "publishedAt": "2026-10-24T03:29:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720158.shtml",
-      "title": "泽连斯基确认乌美俄三方会谈将于11月上半月举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-24/10720198.shtml",
+      "title": "海外华媒探访湖北宜都 感受“电化长江”造船新动能",
       "category": "综合",
-      "summary": "乌克兰总统泽连斯基23日表示，他已与美国总统特使威特科夫和女婿库什纳通话，与俄罗斯和美国方面举行会晤的计划安排在11月上半月。泽连斯基同时表示，乌方愿意在任何一天举行会晤。",
+      "summary": "图为海外华文媒体代表参访宜昌产投(宜都)绿色智能船舶产业园。(无人机照片)闫志 摄 图为宜昌产投(宜都)绿色智能船舶产业园。(无人机照片)闫志 摄 图为宜昌产投(宜都)绿色智能船舶产业园。(无人机照片)闫志 摄 图为宜昌产投(宜都)绿色智能船舶产业园。(资料图)董晓斌 摄 图为宜昌产投(宜都)绿色智能船舶产业园。(资料图)董晓斌 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720158.shtml",
-      "publishedAt": "2026-10-23T16:19:02.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720198.shtml",
+      "publishedAt": "2026-10-24T03:27:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-23/10720156.shtml",
-      "title": "赛事流量如何变产业增量？亦庄构筑电竞生态底座",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-24/10720250.shtml",
+      "title": "国家疾控局：西藏巴青地震灾区灾后卫生防疫力量已实现全覆盖",
       "category": "综合",
-      "summary": "中新网北京10月23日电 2026北京亦庄·未来游戏电竞科技大会日前在北京智慧电竞赛事中心举办。大会以“问未来·第一场”为主题，汇聚行业协会、企业、科研院校等多方代表，围绕游戏电竞前沿科技创新、产业生态建设、跨界融合发展开展深度交流。",
+      "summary": "10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。地震发生后，国家疾控局联系西藏自治区疾控局了解灾情和灾民安置情况，迅速派出国家突发急性传染病防控队(西藏)先遣队赶赴灾区一线，组派国家疾控局工作组紧急赶赴灾区指导开展卫生防疫工作，组织中国疾控中心开展地震灾区灾后公共卫生风险评估，要求青海省疾控中心承建的国家突发急性传染病防控队做",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720156.shtml",
-      "publishedAt": "2026-10-23T15:45:34.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720250.shtml",
+      "publishedAt": "2026-10-24T03:26:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-23/10720157.shtml",
-      "title": "CBA常规赛：辽宁队迎来新赛季三连胜",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-24/10720248.shtml",
+      "title": "直播：2026网络杯决赛 中新网“老男孩”冲击乙组冠军",
       "category": "综合",
-      "summary": "中新社沈阳10月23日电 (韩宏 李伶俐)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第3轮，辽宁队23日晚主场迎战四川队，最终以104比93战胜对手迎来新赛季三连胜。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720157.shtml",
-      "publishedAt": "2026-10-23T15:45:14.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720248.shtml",
+      "publishedAt": "2026-10-24T03:24:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-23/10720155.shtml",
-      "title": "黄仁勋在哈萨克斯坦谈AI发展：能源与人才成关键词",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720246.shtml",
+      "title": "日本岩手县附近海域发生5.0级地震 多地有震感",
       "category": "综合",
-      "summary": "中新网阿斯塔纳10月23日电 (记者 单璐)哈萨克斯坦拥有丰富的能源储备，如何利用这一优势发展人工智能？英伟达创始人兼首席执行官黄仁勋23日在哈萨克斯坦首都阿斯塔纳表示，能源是发展人工智能的重要基础，但要将这一优势转化为产业发展动力，还需要在算力基础设施建设、人才培养、技术应用等方面持续发力。",
+      "summary": "中新网10月24日电 据日本气象厅消息，当地时间24日1时07分左右，日本岩手县附近海域发生5.0级地震，震源深度20千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720155.shtml",
-      "publishedAt": "2026-10-23T15:44:12.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720246.shtml",
+      "publishedAt": "2026-10-24T03:19:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
-      "title": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208711.shtml",
+      "title": "一箭六星！长征四号乙运载火箭发射成功",
       "category": "综合",
-      "summary": "中新网上海10月23日电 (蒋小威)2026年上海市女农人庆丰收主题活动23日在金山区廊下镇友好村举行。活动现场设有女性社会组织市集、“金山游礼”巾帼好物后备箱市集、稻田T台秀、游园体验、萌宠互动等环节。女农人、女企业家、驻村书记等带来特色产品，摊位前人头攒动。稻田边，女农人、女企业家、女大学生等身着旗袍、羊绒服饰登台走秀，在田间展示风采。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
-      "publishedAt": "2026-10-23T15:43:50.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208711.shtml",
+      "publishedAt": "2026-10-24T03:19:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
-      "title": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-24/10720240.shtml",
+      "title": "累计服务超1亿用户！京东11.11发布家电家居“送装一体”服务升级三大举措",
       "category": "综合",
-      "summary": "中新网上海10月23日电 (记者 李姝徵)第九届上海市对口地区特色商品展销会23日开幕，603家企业带着家乡好物来到上海，让市民在家门口选购远方风物，也为产地寻找更多生意机会。",
+      "summary": "随着近年来消费品以旧换新政策的落地，大件家电家居的送装服务正成为影响消费者换新体验的关键环节。配送与安装能否高效衔接并一体化执行，正越来越受到消费者的关注。今年7月，商务部等九部门印发《关于加快零售业创新发展的意见》，鼓励推广送装同步等便利服务，并整治售后安装、维修乱收费问题，为行业服务升级指明了方向。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
-      "publishedAt": "2026-10-23T15:43:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720240.shtml",
+      "publishedAt": "2026-10-24T03:17:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-23/10720152.shtml",
-      "title": "武汉经开区强化“内功” “车谷造”加速出海",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-24/10720242.shtml",
+      "title": "长征路上，看见时代巨变",
       "category": "综合",
-      "summary": "中新网武汉10月23日电(余哲)“底盘减震出色，新能源动力模式精准契合海外市场需求。”在武汉经开区岚图汽车黄金工厂试驾完岚图新能源车后，新西兰《华新时报》社长蒋佳柽这样评价。22日，约20家海外华文媒体代表走进岚图汽车智慧工厂，近距离观察“中国车谷”如何以自研技术、出海通道强化“内功”，让新能源汽车加速驶向全球。",
+      "summary": "长征，是一场震撼世界、彪炳史册的伟大远征，历经艰难险阻、付出巨大牺牲，实现了中国共产党和中国革命事业从挫折走向胜利的伟大转折，成为中国革命史上一座不朽的丰碑。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720152.shtml",
-      "publishedAt": "2026-10-23T15:41:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720242.shtml",
+      "publishedAt": "2026-10-24T03:17:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml",
-      "title": "撂荒土地溢菊香 青海民和山村撑起“金”产业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-24/10720239.shtml",
+      "title": "全球超八成新船订单涌向中国 背后藏着哪些中国制造密码？",
       "category": "综合",
-      "summary": "中新网青海民和10月23日电 题：撂荒土地溢菊香 青海民和山村撑起“金”产业",
+      "summary": "你知道吗，有一个行业，全球超八成新订单都是由中国来承接的，这个行业就是——造船。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml",
-      "publishedAt": "2026-10-23T15:39:51.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720239.shtml",
+      "publishedAt": "2026-10-24T03:10:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-23/10720150.shtml",
-      "title": "秦汉考古研究新成果暨汉阳陵与汉文化学术研讨会举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720227.shtml",
+      "title": "约旦一教堂发生枪击致7死 政府称系恐袭",
       "category": "综合",
-      "summary": "中新网西安10月23日电 (记者 阿琳娜)“秦汉考古研究新成果暨汉阳陵与汉文化学术研讨会(第四届)”开幕式23日在汉景帝阳陵博物院举办。本届研讨会围绕秦汉考古新发现、秦汉陵寝制度研究新成果、秦汉文化研究、秦汉文物保护与利用研究四大主题展开，百余位专家学者齐聚一堂，共襄秦汉学术盛会。",
+      "summary": "中新社北京10月24日电 安曼消息：约旦南部卡拉克省一座教堂当地时间23日发生枪击事件，已造成7人死亡。约旦政府称此事件为极端分子实施的恐怖袭击。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-23/10720150.shtml",
-      "publishedAt": "2026-10-23T15:36:59.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720227.shtml",
+      "publishedAt": "2026-10-24T03:07:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10720149.shtml",
-      "title": "中国电建成都院驰援西藏巴青抗震救灾 调运40套板房100套取暖器",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720237.shtml",
+      "title": "瓦努阿图群岛发生6.8级地震 震源深度10千米",
       "category": "综合",
-      "summary": "中新网拉萨10月23日电(白玛玉珍)10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，震源深度10千米，造成重大人员伤亡。震区平均海拔接近4800米，夜间气温低，民众安置和防寒保暖成为震后最紧迫的民生任务之一。",
+      "summary": "中新网10月24日电 据中国地震台网正式测定：10月24日10时31分在瓦努阿图群岛(南纬14.05度，东经165.55度)发生6.8级地震，震源深度10千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720149.shtml",
-      "publishedAt": "2026-10-23T15:35:59.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720237.shtml",
+      "publishedAt": "2026-10-24T03:06:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-23/10720148.shtml",
-      "title": "中国人民大学区域国别学院正式成立",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-24/10720236.shtml",
+      "title": "700余件（套）文物串联两千余年历史，中国长城博物馆开馆",
       "category": "综合",
-      "summary": "中新网北京10月23日电 (记者 李京泽)10月23日，“中国人民大学区域国别学院成立暨中国区域国别研究自主知识体系研究联盟启动与研讨会”在北京举办。会上，中国人民大学区域国别学院正式成立，中国区域国别学自主知识体系联盟同步启动。",
+      "summary": "10月24日，中国长城博物馆在北京八达岭长城景区试运行开放。经三年多改造提升，总建筑面积约16000平方米，基本陈列上展文物700余件(套)……这座长城脚下的博物馆，怎样以文物串联起长城沿线15个省(自治区、直辖市)的文明故事，展示两千年间厚重多彩的长城文化？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720148.shtml",
-      "publishedAt": "2026-10-23T15:33:19.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720236.shtml",
+      "publishedAt": "2026-10-24T03:05:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml",
-      "title": "2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/10-24/10720232.shtml",
+      "title": "中欧班列“东通道”跑出“加速度” 年内通行量突破6000列",
       "category": "综合",
-      "summary": "中新网绍兴10月23日电(项菁)以“两岸同‘芯’·心向未来”为主题的2026两岸青年创新创业大赛决赛23日在浙江绍兴举行。此次大赛设置了“创新组”与“创业组”两大组别，两岸青年围绕绿色经济、数字未来、先进制造等5条赛道展开角逐。",
+      "summary": "中新社哈尔滨10月24日电 (记者 史轶夫)中国铁路哈尔滨局集团有限公司10月24日发布消息，截至10月23日，今年以来，中欧班列“东通道”通行班列达6024列，同比增长40.3%，年内通行量首次突破6000列。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml",
-      "publishedAt": "2026-10-23T15:32:09.000Z",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720232.shtml",
+      "publishedAt": "2026-10-24T02:59:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-23/10720146.shtml",
-      "title": "泰国教育代表团访问广西 冀深化基础教育交流合作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-24/10720231.shtml",
+      "title": "郭大顺：红山文化研究将迈向多学科交叉融合阶段",
       "category": "综合",
-      "summary": "中新网南宁10月23日电(黄艳梅 黄冰雯 徐子强)“此次在广西学校参访，学生们朝气蓬勃的精神风貌，以及学校在促进学生全面发展方面取得的丰硕教育成果，令我印象深刻。”泰国呵叻磨艾公立育侨学校校长郭振雄近日在广西南宁表示。",
+      "summary": "中新社沈阳10月24日电 题：郭大顺：红山文化研究将迈向多学科交叉融合阶段",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-23/10720146.shtml",
-      "publishedAt": "2026-10-23T15:30:53.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720231.shtml",
+      "publishedAt": "2026-10-24T02:57:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10720145.shtml",
-      "title": "湖北宜昌：“电化长江” 从蓝图照进现实",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-24/10720235.shtml",
+      "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
       "category": "综合",
-      "summary": "中新网湖北宜都10月23日电 题：湖北宜昌：“电化长江”从蓝图照进现实",
+      "summary": "中新网10月24日电 据美国地质调查局地震信息网消息，瓦努阿图附近海域24日发生7.2级地震，震源深度10公里。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720145.shtml",
-      "publishedAt": "2026-10-23T15:30:03.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720235.shtml",
+      "publishedAt": "2026-10-24T02:57:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
-      "title": "上海推动人工智能赋能工业服务业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-24/10720230.shtml",
+      "title": "亚残运会之声：团结一心 其利断金",
       "category": "综合",
-      "summary": "中新网上海10月23日电 (记者 郑莹莹)据上海市经济和信息化委员会23日发布的消息，《上海市加快推动人工智能赋能工业服务业高质量发展行动方案(2027-2028年)》(简称“行动方案”)于近日印发。",
+      "summary": "中新社日本名古屋10月24日电 题：亚残运会之声：团结一心 其利断金",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
-      "publishedAt": "2026-10-23T15:24:43.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720230.shtml",
+      "publishedAt": "2026-10-24T02:57:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10720110.shtml",
-      "title": "COP17中国角主题边会举行，呼吁携手应对生物多样性丧失挑战",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-24/10720229.shtml",
+      "title": "西藏巴青7.0级地震后次夜 孩童安睡不再害怕",
       "category": "综合",
-      "summary": "中新网10月23日电 当地时间10月21日，《生物多样性公约》第十七次缔约方大会(COP17)中国角系列活动之一“保护生物多样性 尊重多元文化 践行多边主义”主题边会在亚美尼亚埃里温举行。",
+      "summary": "中新社西藏巴青10月24日电 题：西藏巴青7.0级地震后次夜 孩童安睡不再害怕",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720110.shtml",
-      "publishedAt": "2026-10-23T15:21:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720229.shtml",
+      "publishedAt": "2026-10-24T02:55:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-23/10720143.shtml",
-      "title": "中英业内人士伦敦研讨医疗AI规模化应用",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208708.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：徐嘉余晋级男子100米仰泳决赛",
       "category": "综合",
-      "summary": "中新网伦敦10月23日电 (记者 欧阳开宇)第三届中英私立医疗会议日前在伦敦大英图书馆举行。活动汇聚中英政商、医疗及科技界代表，聚焦AI的规模化应用、监管与临床实践，探讨如何以技术创新改善医疗服务、惠及患者。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720143.shtml",
-      "publishedAt": "2026-10-23T15:18:16.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208708.shtml",
+      "publishedAt": "2026-10-24T02:55:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +572,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10720142.shtml",
-      "title": "全国“十佳环卫人”高茹：32年环卫路，一叶见初心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-24/10720228.shtml",
+      "title": "一箭六星 长四乙火箭成功发射",
       "category": "综合",
-      "summary": "中新网长春10月23日电 题：全国“十佳环卫人”高茹：32年环卫路，一叶见初心",
+      "summary": "中新社北京10月24日电 (记者 马帅莎)据中国航天科技集团消息，北京时间10月24日3时25分，中国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19-21星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720142.shtml",
-      "publishedAt": "2026-10-23T15:17:16.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720228.shtml",
+      "publishedAt": "2026-10-24T02:53:30.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143062",
+      "title": "【世界进行时】2026年10月23日",
+      "category": "国际",
+      "summary": "本期要点：全球生活成本飙升，古特雷斯警示：战争与不平等正在让“美好未来”变得遥不可及；无人机袭击激增，苏丹与也门战火延烧，数十万平民深陷绝境；海地选举筹备取得进展，但帮派暴力依然肆虐；环境署警告：本世纪末全球升温或将达2.8度；刚果民主共和国埃博拉与霍乱疫情双重交织；儿基会呼吁孟加拉国采取有力措施，终止童婚陋习；此外，我们将迎来联合国成立81周年华诞。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143062",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -699,7 +735,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143054",
-      "title": "苏丹无人机袭击激增加剧人道危机 妇女和女童持续承",
+      "title": "苏丹无人机袭击激增加剧人道危机，妇女和女童持续承受磨难",
       "category": "国际",
       "summary": "联合国人权事务高级专员蒂尔克（Volker Türk）周五发表声明，强烈谴责本月苏丹各地无人机袭击升级，以及由此给科尔多凡地区、达尔富尔地区、青尼罗州、喀土穆州等地平民造成的严重后果。",
       "source": "联合国新闻",
@@ -1517,42 +1553,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143032",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143034",
-      "title": "秘书长特别代表：中非共和国和平进程取得进展，东北部安全形势仍面临挑战",
-      "category": "国际",
-      "summary": "安理会周二上午举行中非共和国局势公开会议。秘书长特别代表表示，中非共和国当前正处于从和平维持向和平巩固过渡的重要阶段。过去一年以来，地方选举顺利推进、解除武装工作取得进展、国家机构影响力有所扩大，这些都反映出积极变化；但东北部边境地区动荡加剧、跨境威胁持续存在以及部分地区武装活动活跃，因此，和平成果远未稳固。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143034",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143031",
-      "title": "世卫组织报告探讨非传染性疾病及其风险因素方面存在的不平等现象",
-      "category": "国际",
-      "summary": "世界卫生组织周二发布的一份报告显示，非传染性疾病影响着世界各地的人们，但并非所有人都面临相同的风险，也并非所有人都能平等地获得预防、诊断和治疗服务。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143031",
       "publishedAt": "2026-10-20T12:00:00.000Z",
       "tags": [
         "国际",
