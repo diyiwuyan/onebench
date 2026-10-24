@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T15:57:08.923Z",
-  "expiresAt": "2026-10-24T21:57:08.923Z",
+  "generatedAt": "2026-10-24T18:47:26.239Z",
+  "expiresAt": "2026-10-25T00:47:26.239Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-25/10720538.shtml",
+      "title": "第五届亚洲残疾人运动会在日本名古屋闭幕",
+      "category": "综合",
+      "summary": "中新社日本名古屋10月25日电 (记者 朱晨曦)第五届亚洲残疾人运动会24日在日本名古屋瑞穗公园田径场闭幕。中国体育代表团获得207枚金牌、117枚银牌和111枚铜牌，共435枚奖牌，连续第五届位居金牌榜、奖牌榜首位，创造境外参加亚残运会最好成绩。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720538.shtml",
+      "publishedAt": "2026-10-24T16:02:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
+      "title": "2027国考报名截止，多职位数千人竞争一岗",
+      "category": "综合",
+      "summary": "中新网北京10月25日电(记者 李京统)10月24日是2027年国考报名最后一天，报名热度持续攀升，热门岗位竞争超6000：1。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
+      "publishedAt": "2026-10-24T16:01:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-24/10720535.shtml",
       "title": "全国短池游泳锦标赛：徐嘉余一晚两破仰泳纪录",
@@ -526,42 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208772.shtml",
       "publishedAt": "2026-10-24T12:57:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208769.shtml",
-      "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子100米仰泳亚洲纪录",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208769.shtml",
-      "publishedAt": "2026-10-24T12:57:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-24/10720490.shtml",
-      "title": "樊再轩：预计明年年中完成南唐二陵壁画修复保护工作",
-      "category": "综合",
-      "summary": "中新网南京10月24日电 (张传明 唐娟)24日，牛首山·敦煌”文化周“大国工匠进牛首”特别活动在南京举行。敦煌研究院研究馆员樊再轩在活动上分享南唐二陵壁画保护进展：预计到2027年年中，完成南唐二陵壁画修复保护工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720490.shtml",
-      "publishedAt": "2026-10-24T12:56:07.000Z",
       "tags": [
         "国内",
         "社会",
