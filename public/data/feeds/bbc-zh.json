@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ynx99yxzwo/trad#0",
+      "title": "觀鳥如何重塑大腦，延緩認知衰退？",
+      "meta": "BBC 中文 · 2026/10/25",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5ynx99yxzwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T06:30:57.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad#0",
       "title": "法國再爆大規模示威近千人被捕 當局力阻重演上週暴亂",
       "meta": "BBC 中文 · 2026/10/25",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-10-23T10:33:20.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad#1",
       "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
       "meta": "BBC 中文 · 2026/10/23",
       "url": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/10/22",
       "url": "https://www.bbc.com/zhongwen/watch/c6eq32qzr0x8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T09:31:01.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad#1",
-      "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
-      "meta": "BBC 中文 · 2026/10/22",
-      "url": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T09:21:26.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-25T04:41:16.042Z",
+  "updatedAt": "2026-10-25T11:29:24.984Z",
   "provider": "OneBench 公共资讯快照"
 }
