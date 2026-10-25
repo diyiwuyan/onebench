@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad#0",
+      "title": "法國再爆大規模示威近千人被捕 當局力阻重演上週暴亂",
+      "meta": "BBC 中文 · 2026/10/25",
+      "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T03:23:53.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad#1",
+      "title": "日本以舉辦世界級活動聞名，但名古屋亞運卻是一片混亂",
+      "meta": "BBC 中文 · 2026/10/25",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T01:12:53.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#0",
+      "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
+      "meta": "BBC 中文 · 2026/10/25",
+      "url": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T00:38:54.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#0",
       "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
       "meta": "BBC 中文 · 2026/10/23",
@@ -26,18 +47,11 @@
       "publishedAt": "2026-10-23T08:09:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad#1",
       "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
       "meta": "BBC 中文 · 2026/10/23",
       "url": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T05:23:41.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad#1",
-      "title": "特朗普訴BBC誹謗案：法官下令總統須宣誓並答問作證",
-      "meta": "BBC 中文 · 2026/10/23",
-      "url": "https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T01:42:51.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad#0",
@@ -73,13 +87,6 @@
       "meta": "BBC 中文 · 2026/10/22",
       "url": "https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T08:44:40.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad#1",
-      "title": "Google軍事人工智能合約引發辭職潮",
-      "meta": "BBC 中文 · 2026/10/22",
-      "url": "https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T08:44:02.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad#4",
@@ -208,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-24T22:28:42.122Z",
+  "updatedAt": "2026-10-25T04:41:16.042Z",
   "provider": "OneBench 公共资讯快照"
 }
