@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T15:11:34.725Z",
-  "expiresAt": "2026-10-26T21:11:34.725Z",
+  "generatedAt": "2026-10-26T21:00:48.376Z",
+  "expiresAt": "2026-10-27T03:00:48.376Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
+      "title": "德国总统施泰因迈尔抵达安徽开始访华",
+      "category": "综合",
+      "summary": "新华社合肥10月27日电(记者郭晨)德国总统施泰因迈尔10月27日抵达安徽合肥，开始对中国进行为期5天的国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
+      "publishedAt": "2026-10-26T16:34:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
+      "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
+      "category": "综合",
+      "summary": "中新网北京10月27日电 (记者 孙自法)如今地球上，并没有完全生活在海洋中的两栖动物。而几亿年前的远古地质时期是何情况，此前因缺乏化石证据而一直不得而知。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
+      "publishedAt": "2026-10-26T16:03:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
+      "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+      "category": "综合",
+      "summary": "中新社北京10月26日电 (记者 国璇)2026年全国游泳锦标赛(25米)26日在北京国家游泳中心“水立方”继续举行。李冰洁刷新短池女子1500米自由泳亚洲纪录，张雨霏夺得女子100米个人混合泳金牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
+      "publishedAt": "2026-10-26T15:57:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
+      "title": "“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协",
+      "category": "综合",
+      "summary": "中新网上海10月26日电(记者 王诗尧)10月26日，由人民政协报社指导，人民政协网承办，中国互联网发展基金会中国正能量网络传播专项基金资助支持的“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协，开启为期两天的深入采访。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
+      "publishedAt": "2026-10-26T15:24:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad#0",
       "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
@@ -129,6 +201,24 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
       "publishedAt": "2026-10-26T14:29:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/10-26/news1073043.shtml",
+      "title": "小新Talkshow：西藏震后安置点飘出糌粑牛肉粥香：板房通了电 冰柜进了户",
+      "category": "综合",
+      "summary": "2026年10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震。记者26日在玛如乡二村安置点看到，这里60套板房已搭建完成，仅用时8小时实现全部通电。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-26/news1073043.shtml",
+      "publishedAt": "2026-10-26T14:29:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -499,92 +589,56 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10721403.shtml",
-      "title": "中国援赤几医疗队开展抗疟专项培训",
-      "category": "综合",
-      "summary": "中新网约翰内斯堡10月26日电 第34批援赤道几内亚中国医疗队近日在马拉博地区医院开展了一场疟疾防控技术专项培训，该院管理人员、一线医护人员及医疗队队员共同参训。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721403.shtml",
-      "publishedAt": "2026-10-26T14:01:02.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143070",
+      "title": "联合国官员谴责刚果民主共和国护士遇袭事件",
+      "category": "国际",
+      "summary": "联合国埃博拉疫情应对高级协调员和世界卫生组织总干事周一分别发表声明，对刚果民主共和国一名参与埃博拉疫情防控工作的护士遇袭身亡事件予以谴责。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143070",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-26/10721402.shtml",
-      "title": "共赴丝路艺术之约 美术馆之夜活动举办",
-      "category": "综合",
-      "summary": "中新网西安10月26日电 (记者 阿琳娜)作为第十二届丝绸之路国际艺术节“今日丝绸之路国际艺术邀请展”的特色配套活动，陕西省美术博物馆17日和24日举办了两场“美术馆之夜”活动，邀请观众共赴丝路艺术之约。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721402.shtml",
-      "publishedAt": "2026-10-26T14:00:58.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143069",
+      "title": "古特雷斯在埃及警告美伊冲突升级风险",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周一在埃及首都开罗向记者发表讲话，呼吁美国和伊朗通过对话与外交途径结束战争。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143069",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-26/10721400.shtml",
-      "title": "第七届中国—中东欧国家（沧州）中小企业合作论坛开幕",
-      "category": "综合",
-      "summary": "中新网沧州10月26日电 (王夏菲 李玉素)第七届中国—中东欧国家(沧州)中小企业合作论坛26日在河北省沧州市开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721400.shtml",
-      "publishedAt": "2026-10-26T13:59:48.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143066",
+      "title": "独立调查委员会：俄袭击乌能源设施构成国际罪行，并贩运外国人员参战",
+      "category": "国际",
+      "summary": "由联合国人权理事会设立的乌克兰问题独立国际调查委员会周一发布的一份新报告指出，俄罗斯当局持续袭击乌克兰能源基础设施，构成蓄意攻击平民和民用物体的战争罪，以及实施其他不人道行为的危害人类罪。委员会还发现，俄罗斯当局通过欺骗和胁迫手段，从多个国家贩运人员加入俄军，违反了国际人权法。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143066",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-26/10721399.shtml",
-      "title": "内蒙古11盟市启动睡眠门诊：守护民众\"夜间的安宁\"",
-      "category": "综合",
-      "summary": "中新网呼和浩特10月26日电 题：内蒙古11盟市启动睡眠门诊：守护民众夜间的安宁",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721399.shtml",
-      "publishedAt": "2026-10-26T13:59:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-26/10721398.shtml",
-      "title": "空中操作机器人多场景应用成果亮相浙江杭州",
-      "category": "综合",
-      "summary": "10月26日，工作人员操作科普用的百元级空中操作机器人。近日，位于杭州市钱塘区的空中操作机器人线下体验中心“承·风形”投入使用，中心集中呈现了飞行平台与高自由度机械臂融合技术在多场景下的落地应用成果。中新社记者 吴君毅 摄 10月26日，陆空两栖机器人模拟港口集装箱障碍清理工作。近日，位于杭州市钱塘区的空中操作机器人线下体验中心“承·风形”投入使用，中心集中",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721398.shtml",
-      "publishedAt": "2026-10-26T13:59:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1533,60 +1587,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143036",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143035",
-      "title": "阿富汗饥饿危机：“距离饥荒仅一步之遥”",
-      "category": "国际",
-      "summary": "联合国已经对阿富汗发布了极端饥饿预警。该国各地正面临着一个残酷的现实：虽然有粮食，但数百万民众却无法获得食物。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143035",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143033",
-      "title": "也门战火迫使25万人逃离家园，饥饿与疾病加重困境",
-      "category": "国际",
-      "summary": "联合国周二表示，也门新一轮战事已迫使超过25万人逃离家园，其中约一半在西南部塔伊兹市及所在省份避难。当地援助通行基本受阻，食品、燃料和医疗物资供应趋紧，平民面临的健康与安全风险持续上升。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143033",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143032",
-      "title": "欧洲多国抗议引发关切，人权高专呼吁各方开展和平对话",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周二表示，阿尔巴尼亚、比利时、法国、意大利和葡萄牙的大规模抗议活动引发人权关切。他谴责一切暴力行为，呼吁所有相关方缓和紧张局势、防止暴力进一步发生，并通过包容、安全的对话寻求解决办法。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143032",
       "publishedAt": "2026-10-20T12:00:00.000Z",
       "tags": [
         "国际",
