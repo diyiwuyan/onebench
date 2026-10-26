@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad#0",
+      "title": "中國市場放緩，英國傳統精英私立學校紛紛進軍印度",
+      "meta": "BBC 中文 · 2026/10/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T00:18:25.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad#0",
       "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
       "meta": "BBC 中文 · 2026/10/25",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-10-25T00:38:54.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#1",
       "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
       "meta": "BBC 中文 · 2026/10/23",
       "url": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad?at_medium=RSS&at_campaign=rss",
@@ -62,7 +69,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad#0",
-      "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+      "title": "中共五中全會：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
       "meta": "BBC 中文 · 2026/10/23",
       "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T00:41:11.000Z"
@@ -101,13 +108,6 @@
       "meta": "BBC 中文 · 2026/10/22",
       "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T00:21:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#1",
-      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
-      "meta": "BBC 中文 · 2026/10/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T13:14:41.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-25T20:50:58.313Z",
+  "updatedAt": "2026-10-26T00:23:23.095Z",
   "provider": "OneBench 公共资讯快照"
 }

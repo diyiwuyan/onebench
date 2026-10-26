@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T20:50:58.313Z",
-  "expiresAt": "2026-10-26T02:50:58.313Z",
+  "generatedAt": "2026-10-26T00:23:23.095Z",
+  "expiresAt": "2026-10-26T06:23:23.095Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-25/10720865.shtml",
-      "title": "CBA：山西主场101:79战胜江苏 迎新赛季三连胜",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
+      "title": "国家数据集团成立 如何加快释放数据要素价值",
       "category": "综合",
-      "summary": "中新社太原10月25日电 (记者 李庭耀 杨静)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第4轮，山西汾酒男篮25日在太原主场101:79战胜江苏肯帝亚男篮，迎来新赛季三连胜。",
+      "summary": "国家数据集团成立，聚焦数据资源开发利用",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720865.shtml",
-      "publishedAt": "2026-10-25T15:56:42.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
+      "publishedAt": "2026-10-26T00:18:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-25/10720866.shtml",
-      "title": "乒乓球亚锦赛：中国队4金4银收官",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad#0",
+      "title": "中國市場放緩，英國傳統精英私立學校紛紛進軍印度",
+      "category": "国际",
+      "summary": "多所英國傳統精英私校近年相繼在印度開設分校，瞄準當地日益壯大的富裕階層。隨着中國教育監管收緊，加上英國私校面臨稅務壓力，印度成為新的擴張目標。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T00:18:25.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml",
+      "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
       "category": "综合",
-      "summary": "中新社北京10月25日电 当地时间25日，2026年亚洲乒乓球锦标赛在乌兹别克斯坦塔什干落幕，中国队以4金4银收官。",
+      "summary": "西湖申遗成功十五年，交出保护发展的独特答卷——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720866.shtml",
-      "publishedAt": "2026-10-25T15:56:36.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml",
+      "publishedAt": "2026-10-26T00:16:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml",
-      "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml",
+      "title": "直击巴西大选：选情胶着 投票有序",
       "category": "综合",
-      "summary": "当地时间25日，津巴布韦总统姆南加古瓦呼吁西方国家无条件解除对津巴布韦实施的制裁，表示这些制裁严重制约了津巴布韦国家经济发展。",
+      "summary": "中新社圣保罗10月25日电 题：直击巴西大选：选情胶着 投票有序",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml",
-      "publishedAt": "2026-10-25T15:43:29.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml",
+      "publishedAt": "2026-10-26T00:13:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-25/10720863.shtml",
-      "title": "全国短池游泳锦标赛：潘展乐赢百米“飞鱼大战”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208868.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：唐钱婷获得女子100米蛙泳冠军",
       "category": "综合",
-      "summary": "中新社北京10月25日电(记者 国璇)在北京举行的2026年全国游泳锦标赛(25米)中，代表浙江寿仙谷队参赛的潘展乐25日夺得男子100米自由泳冠军，收获开赛以来个人首金。张展硕、于子迪和李冰洁等名将再次夺金。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720863.shtml",
-      "publishedAt": "2026-10-25T15:41:59.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208868.shtml",
+      "publishedAt": "2026-10-26T00:13:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-25/10720861.shtml",
-      "title": "银杏果落地发臭还能捡吗？这些食用误区一定要避开",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720896.shtml",
+      "title": "巴西总统卢拉赢得连任",
       "category": "综合",
-      "summary": "金秋十月，很多地方的人行道旁，银杏树逐渐泛黄，地上还散落着不少熟透的银杏果。不少人加入“捡秋”一族，将其捡回家食用，但这背后却隐藏着风险。路边银杏果能随意捡起来吃吗？",
+      "summary": "新华社快讯：据巴西高等选举法院25日晚公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/10-25/10720861.shtml",
-      "publishedAt": "2026-10-25T14:31:39.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720896.shtml",
+      "publishedAt": "2026-10-26T00:12:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-25/news1072949.shtml",
-      "title": "今晚不再睡帐篷！西藏巴青7.0级震后 安置板房迎来新主人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720895.shtml",
+      "title": "日本民众集会抗议：“不要导弹”“反对战争”",
       "category": "综合",
-      "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。据官方通报，截至10月24日17时，地震已造成16人遇难、76人受伤，其中11人重伤、65人轻伤。已转移民众12489人。10月25日，中新社记者探访此次地震受灾最严重的玛如乡2村安置点，该安置点海拔超过4400米，已搭建60套安置板房，25日傍晚，陆续有受灾民众入住保温性能更好的安置板房。(记者 ",
+      "summary": "中新网10月26日电 据日本《朝日新闻》报道，当地时间10月24日，日本市民团体在静冈县举行抗议集会，反对美军27日将在日本陆上自卫队东富士演习场开展火箭炮射击训练。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-25/news1072949.shtml",
-      "publishedAt": "2026-10-25T14:22:30.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720895.shtml",
+      "publishedAt": "2026-10-26T00:08:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-25/10720856.shtml",
-      "title": "西藏那曲巴青7.0级地震震区玛如乡二村受灾群众安置点活动板房顺利通电",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-26/10720894.shtml",
+      "title": "废旧设备里，藏着“活数据”",
       "category": "综合",
-      "summary": "10月25日20时，经过连续8小时奋战，西藏那曲巴青县玛如乡二村受灾群众安置点活动板房顺利通电。",
+      "summary": "企业实施技术改造淘汰老旧机床，单位开展设备升级置换一批工控主机，测绘企业处置闲置测量仪器……有的单位在处理废旧设备时，仅对存储介质进行简单格式化便当作废品变卖，或是通过二手平台折价转让，存在“硬件报废，数据即随之消失”的认识误区。然而，废旧工控设备与专业仪器的无序流转，不仅可能使商业秘密泄露，还可能导致关键行业运行数据、敏感区域地理信息外泄，暗藏着不可忽视的",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720856.shtml",
-      "publishedAt": "2026-10-25T14:16:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720894.shtml",
+      "publishedAt": "2026-10-26T00:08:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720854.shtml",
-      "title": "27支队伍角逐2026年中国—东盟国际龙舟公开赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
+      "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
       "category": "综合",
-      "summary": "【东盟专线】27支队伍角逐2026年中国—东盟国际龙舟公开赛",
+      "summary": "中新网10月26日电 据中央气象台网站消息，昨日，内蒙古、河北等地部分地区出现雨雪天气。预计今明两天，北方地区将有大风降温天气，黑龙江、内蒙古等地有雨雪天气，关注对交通、城市运行及农牧业等的影响。渤海、黄海、东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720854.shtml",
-      "publishedAt": "2026-10-25T14:10:28.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
+      "publishedAt": "2026-10-26T00:08:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
-      "title": "两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208865.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：汪顺晋级男子100米个人混合泳决赛",
       "category": "综合",
-      "summary": "中新社安徽六安10月25日电 题：两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
-      "publishedAt": "2026-10-25T14:09:08.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208865.shtml",
+      "publishedAt": "2026-10-26T00:07:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
-      "title": "守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208861.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：潘展乐获得男子100米自由泳冠军",
       "category": "综合",
-      "summary": "中新网云南西双版纳10月25日电 题：守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
-      "publishedAt": "2026-10-25T13:14:01.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208861.shtml",
+      "publishedAt": "2026-10-26T00:00:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720843.shtml",
-      "title": "在榕台青于非遗与新媒体碰撞中感悟闽都文脉",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208858.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米蝶泳冠军",
       "category": "综合",
-      "summary": "中新网福州10月25日电 (郑江洛)25日，“新媒传情·华裳漆韵”新媒体技能培训与非遗交流体验活动在福州举行，30名在榕高校台青代表相聚于此，在技艺学习与沉浸式体验中，共品闽都文化魅力，缔结两岸青年情谊。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720843.shtml",
-      "publishedAt": "2026-10-25T13:13:27.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208858.shtml",
+      "publishedAt": "2026-10-25T23:52:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
-      "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720887.shtml",
+      "title": "响应式运营、接驳提质、适老化升级 多地探索公交新模式",
       "category": "综合",
-      "summary": "中新网中卫10月25日电 题：草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
+      "summary": "央视网消息：城市公交是一座城市流动的名片，但近年来，轨道交通成网、私家车普及带来的客流分流，还有刚性成本上涨、财政补贴收紧的双重挤压，都让城市公交发展感受到了不小的压力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
-      "publishedAt": "2026-10-25T13:01:52.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720887.shtml",
+      "publishedAt": "2026-10-25T23:48:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
-      "title": "2026年闽台青少年街舞展演在福州举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml",
+      "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
       "category": "综合",
-      "summary": "中新网福州10月25日电 (叶秋云)由福建省文化和旅游厅主办，福建省闽台文化交流中心承办的“周末戏相逢”2026年闽台青少年街舞展演25日晚在福建博物院则徐广场周末戏相逢大舞台举办。",
+      "summary": "央视网消息：数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，电动汽车、锂电池、风力发电机组及其零件等绿色产品出口分别增长72.3%、36.4%和22.4%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
-      "publishedAt": "2026-10-25T13:01:34.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml",
+      "publishedAt": "2026-10-25T23:44:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
-      "title": "粤港澳大湾区青少年选手齐聚深圳“以球会友”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml",
+      "title": "占比超50% 年轻人正成为红色旅游主力军",
       "category": "综合",
-      "summary": "中新网深圳10月25日电 (记者 张璐)为期两天的“中国体育彩票”2026年粤港澳大湾区青少年乒乓球比赛(简称“赛事”)25日在深圳收官。当日，来自粤港澳三地53支代表队、244名选手在两个赛区同步收拍，甲、乙、丙三个年龄组男女团体、男女单打共12个项目的成绩全部出炉。",
+      "summary": "今年7月，《旅游强国建设“十五五”规划》发布，对红色旅游提质升级行动作出部署。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
-      "publishedAt": "2026-10-25T12:59:20.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml",
+      "publishedAt": "2026-10-25T23:42:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-25/10720830.shtml",
-      "title": "广交会观察：中国陶瓷企业靠原创设计拿下海外订单",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
+      "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
       "category": "综合",
-      "summary": "中新社广州10月25日电 (记者 孙秋霞)第140届广交会二期正在广州举行，本期聚焦“品质家居”主题，出口展参展企业约1.1万家。在日用陶瓷展区，潮州、德化、淄博等产区企业携最新设计产品亮相，吸引境外采购商驻足洽谈。",
+      "summary": "2026年被业界称为人形机器人“量产元年”，但很多企业发现，从实验室里的“手搓样机”，到工厂里的批量下线，中间还有一定难度。供应链如何扩容？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720830.shtml",
-      "publishedAt": "2026-10-25T12:57:20.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
+      "publishedAt": "2026-10-25T23:39:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
-      "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
+      "title": "护航对外投资高质量发展，新办法12月1日起施行",
       "category": "综合",
-      "summary": "中新网宜昌10月25日电 题：湖北宜昌：长江之畔“长”出绿色算力科创高地",
+      "summary": "国家发展改革委日前公布《对外投资管理办法》(以下简称“新办法”)，自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》(以下称《办法(2017)》同步废止。新办法保持了政策的稳定性和连续性，又通过一系列修订为对外投资高质量发展提供了更加清晰的制度指引。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
-      "publishedAt": "2026-10-25T12:56:08.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
+      "publishedAt": "2026-10-25T23:32:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/10-25/10720829.shtml",
-      "title": "探访广交会进口展：从印度锅到越南篮 外国企业组团觅商机",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
+      "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
       "category": "综合",
-      "summary": "中新社广州10月25日电 题：探访广交会进口展：从印度锅到越南篮 外国企业组团觅商机",
+      "summary": "近日，2026长三角国际青年电影周在浙江宁波举办。活动设置“电影+科技”板块并通过举办“当电影遇上AI”等主题活动，搭建“电影+科技”的核心发布平台、科技成果转化对接平台和行业合作交流平台，推动电影产业与新技术深度融合，在下一代影像形态中开拓中国电影的新空间。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720829.shtml",
-      "publishedAt": "2026-10-25T12:54:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
+      "publishedAt": "2026-10-25T23:27:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-25/10720818.shtml",
-      "title": "2026重庆开州汉丰湖马拉松开跑 近8000名选手驰骋环湖PB赛道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
+      "title": "从“有人带”到“托得好” 优质托育服务正在走进更多家庭",
       "category": "综合",
-      "summary": "中新网重庆10月25日电(记者 肖江川)25日，2026重庆开州汉丰湖马拉松鸣枪起跑。近8000名选手环汉丰湖畅快奔跑，用脚步丈量开州的历史文脉。",
+      "summary": "从“有人带”到“托得好” 有效降低家庭生育养育教育成本",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720818.shtml",
-      "publishedAt": "2026-10-25T12:53:32.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
+      "publishedAt": "2026-10-25T23:24:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-25/10720835.shtml",
-      "title": "2026二沙岛户外音乐季开幕 香港中乐团将首度亮相",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720880.shtml",
+      "title": "私有产权文物建筑，坏了谁来修",
       "category": "综合",
-      "summary": "中新网广州10月25日电 (记者 蔡敏婕)2026二沙岛户外音乐季25日在广州开幕，在未来1个多月里，包括声乐、室内乐、现代舞、中乐、爵士音乐与亲子戏剧在内的6场惠民演出将轮番登场，香港中乐团将首度亮相。",
+      "summary": "年过七旬的邵继录站在下邵151号民居门前，抬头看了一眼门楼，新修的，但老砖上保留了青苔的痕迹，就像他小时候抬头望见的那样；前段时间几次台风影响，下大雨，“屋里一点没漏”。他告诉中青报·中青网记者，他现在就住在这栋父辈传下来的老房子里，“从小住到大，保留了很多回忆，我的根在这里，很有感情”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720835.shtml",
-      "publishedAt": "2026-10-25T12:52:16.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720880.shtml",
+      "publishedAt": "2026-10-25T23:20:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720822.shtml",
-      "title": "台湾专家：从“养老”到“享老”为两岸康养融合提供新机遇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
+      "title": "10分钟就冒出“99+”群消息，职场人如何不为“群”所困？",
       "category": "综合",
-      "summary": "中新网福州10月25日电 题：台湾专家：从“养老”到“享老”为两岸康养融合提供新机遇",
+      "summary": "“凡事都进群”，每天对接100多个群，下班也要回消息……泛滥的工作群让人身心俱疲",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720822.shtml",
-      "publishedAt": "2026-10-25T12:51:38.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
+      "publishedAt": "2026-10-25T23:16:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-25/10720831.shtml",
-      "title": "云南耿马傣族造纸焕新畅销",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
+      "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
       "category": "综合",
-      "summary": "10月25日，艾叶(右二)与邻居一起洗涤造纸原料。中新社记者 黄兴鸿 摄 10月25日，艾叶煮造纸原料。中新社记者 黄兴鸿 摄 10月25日，艾叶捣浆为造纸做准备。中新社记者 黄兴鸿 摄 10月25日，艾叶进行浇纸。中新社记者 黄兴鸿 摄 10月25日，艾叶在纸浆中加入鲜花。中新社记者 黄兴鸿 摄 10月25日，艾叶检查在户外晾晒的纸张。中新社记者 黄兴鸿 ",
+      "summary": "中新网10月26日电 据日本TBS电视台报道，当地时间26日7时15分左右，日本小笠原群岛附近海域发生5.6级地震，震源深度500千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720831.shtml",
-      "publishedAt": "2026-10-25T12:49:37.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
+      "publishedAt": "2026-10-25T23:11:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720838.shtml",
-      "title": "全国总工会拨付200万元支援西藏灾区救灾救助工作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-26/10720877.shtml",
+      "title": "能治“三高”能“抗癌”？对净水器“坑老”骗局说不",
       "category": "综合",
-      "summary": "中新网北京10月25日电 (记者 余湛奕)记者25日从中华全国总工会获悉，10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。日前，全国总工会向西藏自治区总工会拨付200万元，用于对受灾职工群众的帮扶救助和参与救灾工作一线职工的慰问，助力抢险救灾及灾后帮扶工作。(完)",
+      "summary": "声称能治“三高”、能“抗癌”，实为“三无”产品",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720838.shtml",
-      "publishedAt": "2026-10-25T12:49:13.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720877.shtml",
+      "publishedAt": "2026-10-25T23:04:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
-      "title": "AI赋能、丝弦入药：上海推动音乐疗愈纳入临床多学科治疗",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-26/10720876.shtml",
+      "title": "10月26日新闻早报",
       "category": "综合",
-      "summary": "中新网上海10月25日电 (记者 陈静)长期以来，音乐与艺术在医疗场景中的角色多被视为“锦上添花”的心理慰藉。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
-      "publishedAt": "2026-10-25T12:48:41.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-26/10720876.shtml",
+      "publishedAt": "2026-10-25T22:57:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720828.shtml",
-      "title": "宁夏知识产权保护和运用“十五五”规划获批 锚定2030年知识产权强区建设目标",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720875.shtml",
+      "title": "“仅靠道歉无法了事” 蒙古国考虑就草原火灾向日企索赔",
       "category": "综合",
-      "summary": "中新网银川10月25日电 (记者 于晶)25日，记者从宁夏回族自治区市场监督管理厅(知识产权局)获悉，宁夏政府常务会议审议通过《宁夏回族自治区知识产权保护和运用“十五五”规划》，为未来五年宁夏知识产权治理体系完善、保护运用效能提升划定路线图。",
+      "summary": "中新网10月26日电 据《日本经济新闻》报道，日本电信运营商凯迪迪爱公司子公司高管在蒙古国自然保护区活动引发大规模草原火灾后，蒙古国政府近日表示，将通过调查明确相关责任方，并考虑提出赔偿要求。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720828.shtml",
-      "publishedAt": "2026-10-25T12:48:05.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720875.shtml",
+      "publishedAt": "2026-10-25T22:51:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720823.shtml",
-      "title": "2026年武台定光文化交流活动在福建武平举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
+      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
       "category": "综合",
-      "summary": "中新网福建武平10月25日电 (李源杰 王展雄 邱靖)10月23日至25日，2026年武台定光文化交流活动在福建省龙岩市武平县举办。活动以“武台同源，两岸共福”为主题，助推海峡两岸文化交流样板建设，增进两岸同胞心灵契合。",
+      "summary": "当地时间10月25日，美国总统特朗普表示，有关乌克兰问题的美俄乌三方会谈“很快”就会举行，但未透露具体时间安排。特朗普称，他认为俄乌双方都有意达成协议。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720823.shtml",
-      "publishedAt": "2026-10-25T12:45:55.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
+      "publishedAt": "2026-10-25T22:40:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
-      "title": "河北省第十四届人民代表大会常务委员会公告",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720873.shtml",
+      "title": "巴西总统选举第二轮投票结束",
       "category": "综合",
-      "summary": "河北省第十四届人民代表大会常务委员会公告",
+      "summary": "25日举行的巴西总统选举第二轮投票于当天巴西利亚时间19时(北京时间26日6时)结束。之前因交通及天气原因，巴西联邦最高法院法官作出裁定，将当天第二轮投票结束时间延后两小时。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
-      "publishedAt": "2026-10-25T12:42:09.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720873.shtml",
+      "publishedAt": "2026-10-25T22:39:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-25/10720827.shtml",
-      "title": "解锁八桂鱼鲜密码 《在广西吃鱼》新书南宁首发",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720872.shtml",
+      "title": "塞尔维亚举行议会选举 武契奇承认败选",
       "category": "综合",
-      "summary": "中新网南宁10月25日电(记者 林艳华)10月25日，由广西壮族自治区水产技术推广站组织编写，吴伟峰、李坚明编著，广西民族出版社出版的《在广西吃鱼》新书首发仪式在南宁举行。该书甄选88种鱼类、收录33项特色鱼食俗，全景解码广西鱼文化，以美食为媒赋能文旅融合发展。",
+      "summary": "中新网10月26日电 据法新社等外媒报道，当地时间10月25日，塞尔维亚前总统武契奇承认，由塞尔维亚前进党主导的“亚历山大·武契奇-团结的塞尔维亚”选举联盟在当天举行的议会选举中败选。另一方面，由塞尔维亚学生团体推动的“学生名单-学生获胜”宣布，在议会选举中获胜。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720827.shtml",
-      "publishedAt": "2026-10-25T12:41:37.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720872.shtml",
+      "publishedAt": "2026-10-25T22:32:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-25/10720816.shtml",
-      "title": "2026天津马拉松开跑 3万跑者金秋“读懂”津城",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-26/10720871.shtml",
+      "title": "塞尔维亚“学生名单-学生获胜”宣布议会选举获胜",
       "category": "综合",
-      "summary": "中新网天津10月25日电 (记者 周亚强)25日7时30分，2026天津银行·天津马拉松在天津大礼堂前友谊路鸣枪起跑。3万名跑者踏上42.195公里赛道，在串联城市地标的奔跑中感受天津人文底蕴。",
+      "summary": "由塞尔维亚学生团体推动的“学生名单-学生获胜”25日宣布，在当天举行的议会选举中获胜。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720816.shtml",
-      "publishedAt": "2026-10-25T12:40:57.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720871.shtml",
+      "publishedAt": "2026-10-25T22:29:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-25/10720815.shtml",
-      "title": "学者：中美作为二战盟友的历史框住了“台独”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-26/10720870.shtml",
+      "title": "中朝举行中国人民志愿军烈士陵园修缮工程竣工仪式",
       "category": "综合",
-      "summary": "中新社江苏苏州10月25日电 (记者 张杨彬)大陆涉台学者25日接受中新社采访时表示，中美作为二战盟友的历史连接，将推动两国共同维护战后国际秩序，这段历史像“笼子”一样框住了“台独”。",
+      "summary": "本报平壤10月25日电 (记者刘融)在中国人民志愿军抗美援朝出国作战76周年纪念日来临之际，中朝双方24日在朝鲜黄海北道新坪郡举行中国人民志愿军烈士陵园修缮工程竣工仪式。中国驻朝鲜大使馆临时代办亓菡、中国退役军人事务部副部长洪宗明、朝鲜城市管理省副相姜哲浩等出席竣工仪式并致辞。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720815.shtml",
-      "publishedAt": "2026-10-25T12:40:21.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720870.shtml",
+      "publishedAt": "2026-10-25T22:25:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-25/10720826.shtml",
-      "title": "粤桂共治九洲江 跨界守护一江清水",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-26/10720869.shtml",
+      "title": "废旧设备可能藏着关键数据 国家安全机关提示",
       "category": "综合",
-      "summary": "中新网广西玉林10月25日电 题：粤桂共治九洲江 跨界守护一江清水",
+      "summary": "废旧设备里，藏着“活数据”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720826.shtml",
-      "publishedAt": "2026-10-25T12:37:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720869.shtml",
+      "publishedAt": "2026-10-25T22:22:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -856,7 +873,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#1",
       "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
       "category": "国际",
       "summary": "薔琵颱風來襲之際，台灣各縣市是否宣布停班停課，成為九合一地方選舉前的輿論焦點。有研究指出，選舉年颱風「停班停課」可能性增加。",
@@ -979,7 +996,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad#0",
-      "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+      "title": "中共五中全會：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
       "category": "国际",
       "summary": "中國政壇至今沒有明確的接班人。受訪專家認為，這反映習近平面臨兩難：不指定接班人有助維持權威，指定接班人則可能提前形成新的權力中心。",
       "source": "BBC 中文",
@@ -1287,23 +1304,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T00:21:18.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad#1",
-      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
-      "category": "国际",
-      "summary": "有記錄以來最強的厄爾尼諾現象持續增強之際，全球各地已經感受到哪些天氣模式方面的影響？BBC首席氣象預報員莎拉·基斯—盧卡斯（Sarah Keith-Lucas）檢視相關證據。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T13:14:41.000Z",
       "tags": [
         "国际",
         "商业",
