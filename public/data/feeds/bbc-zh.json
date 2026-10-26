@@ -5,21 +5,42 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad#0",
+      "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
+      "meta": "BBC 中文 · 2026/10/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T15:03:14.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwj34v4lvvlgo/trad#0",
+      "title": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選",
+      "meta": "BBC 中文 · 2026/10/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cwj34v4lvvlgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T10:13:36.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad#0",
+      "title": "蔡康永稱「沒支持過台獨」後出席蔣萬安造勢 兩岸輿論未息",
+      "meta": "BBC 中文 · 2026/10/26",
+      "url": "https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T09:17:41.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad#0",
-      "title": "中共五中全會今日開幕：十三年反腐後，如何繼續「從嚴治黨」？",
+      "title": "中共五中全會開幕：十三年反腐後，如何繼續「從嚴治黨」？",
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T05:07:40.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad#1",
       "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T05:02:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#1",
       "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
@@ -40,25 +61,11 @@
       "publishedAt": "2026-10-25T11:46:40.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ynx99yxzwo/trad#0",
-      "title": "觀鳥如何重塑大腦，延緩認知衰退？",
-      "meta": "BBC 中文 · 2026/10/25",
-      "url": "https://www.bbc.com/zhongwen/articles/cm5ynx99yxzwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T06:30:57.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad#1",
       "title": "日本以舉辦世界級活動聞名，但名古屋亞運卻是一片混亂",
       "meta": "BBC 中文 · 2026/10/25",
       "url": "https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T01:12:53.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad#1",
-      "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
-      "meta": "BBC 中文 · 2026/10/23",
-      "url": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T10:33:20.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad#1",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/10/23",
       "url": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T05:23:41.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad#1",
-      "title": "不點單，沒座位：星巴克中國推出新門店政策",
-      "meta": "BBC 中文 · 2026/10/22",
-      "url": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T09:50:32.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6eq32qzr0x8o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-26T07:48:03.553Z",
+  "updatedAt": "2026-10-26T15:11:34.725Z",
   "provider": "OneBench 公共资讯快照"
 }
