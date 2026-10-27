@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad#0",
+      "title": "「盧拉軍團」的WhatsApp聊天群如何扭轉巴西選情",
+      "meta": "BBC 中文 · 2026/10/27",
+      "url": "https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T07:29:00.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjqlnge23gkgo/trad#0",
+      "title": "英國人會改變對梅根的看法嗎？",
+      "meta": "BBC 中文 · 2026/10/27",
+      "url": "https://www.bbc.com/zhongwen/articles/cjqlnge23gkgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T06:44:45.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad#1",
       "title": "「鐵蛋白臉」真的存在嗎？從外表能否判斷缺鐵？",
       "meta": "BBC 中文 · 2026/10/27",
       "url": "https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad?at_medium=RSS&at_campaign=rss",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-10-27T00:17:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad#1",
       "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
@@ -61,7 +75,7 @@
       "publishedAt": "2026-10-26T05:02:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#4",
       "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +87,6 @@
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T00:18:25.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad#1",
-      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
-      "meta": "BBC 中文 · 2026/10/25",
-      "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T11:46:40.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad#1",
@@ -166,13 +173,6 @@
       "publishedAt": "2026-10-19T09:37:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad#4",
-      "title": "尊界V800「煞車門」：從產品安全之爭到「恨國」論戰",
-      "meta": "BBC 中文 · 2026/10/19",
-      "url": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T03:22:46.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cmwyq699de35o/trad#2",
       "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
       "meta": "BBC 中文 · 2026/10/16",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-27T01:28:44.024Z",
+  "updatedAt": "2026-10-27T07:52:05.683Z",
   "provider": "OneBench 公共资讯快照"
 }
