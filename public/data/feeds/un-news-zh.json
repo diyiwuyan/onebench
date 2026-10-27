@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143077",
+      "title": "原子能机构向安理会通报伊朗核问题：恢复核查是外交解决的关键",
+      "meta": "联合国新闻 · 2026/10/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143077",
+      "publishedAt": "2026-10-27T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143076",
+      "title": "世界气象租住：创纪录的二氧化碳浓度将对人类产生的影响将长达数世纪",
+      "meta": "联合国新闻 · 2026/10/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143076",
+      "publishedAt": "2026-10-27T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143071",
       "title": "专访｜联合国官员谈朝鲜人权现状：朝鲜正在变化，但孤立加剧令人担忧",
       "meta": "联合国新闻 · 2026/10/26",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/21",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143042",
       "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143041",
-      "title": "苏丹和平磋商在日内瓦继续，推动结束“无人机战争”",
-      "meta": "联合国新闻 · 2026/10/21",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143041",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143040",
-      "title": "厄尔尼诺现象强度史无前例，联合国机构呼吁保护最脆弱群体免受影响",
-      "meta": "联合国新闻 · 2026/10/21",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143040",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:31:35.993Z",
+  "updatedAt": "2026-10-27T20:41:57.311Z",
   "provider": "OneBench 公共资讯快照"
 }
