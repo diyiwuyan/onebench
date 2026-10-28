@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T16:37:44.745Z",
-  "expiresAt": "2026-10-28T22:37:44.745Z",
+  "generatedAt": "2026-10-28T22:35:04.477Z",
+  "expiresAt": "2026-10-29T04:35:04.477Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-29/10722492.shtml",
+      "title": "俄美乌三方谈判日期将公布 俄方称不邀欧洲参加",
+      "category": "综合",
+      "summary": "当地时间10月28日，俄罗斯总统助理乌沙科夫表示，俄方不打算邀请欧洲方面参加乌克兰问题谈判。乌沙科夫说，俄美乌三方谈判的日期将很快公布，但他未确认谈判定于11月10日举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722492.shtml",
+      "publishedAt": "2026-10-28T22:31:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
+      "title": "我的声音被AI“偷”走了，咋维权？",
+      "category": "综合",
+      "summary": "“在视频里听到了‘自己’的声音，可我从来没为其配过音，该如何维权？”近日，配音演员王女士起诉某公司人工智能生成声音侵权的案件，由上海市第一中级人民法院依法审结。这是上海市首例人工智能合成语音引发的自然人声音权益保护纠纷案件，法院判决平台运营方构成声音侵权，须赔偿权利人经济损失5万元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
+      "publishedAt": "2026-10-28T22:25:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-29/10722490.shtml",
+      "title": "西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”",
+      "category": "综合",
+      "summary": "当地时间28日，西班牙托莱多省高铁特大追尾事故的关键调度通话录音曝光。据悉，这三段核心通话录音包括控制中心与停在轨道上的伊尔约公司列车司机的两次通话，以及与后方追尾的西班牙国家铁路公司列车司机的一次通话，这些录音证实了事故发生前的关键操作失误。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722490.shtml",
+      "publishedAt": "2026-10-28T22:17:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
+      "title": "美联储宣布维持利率不变",
+      "category": "综合",
+      "summary": "美国联邦储备委员会28日结束为期两天的货币政策会议，宣布将联邦基金利率目标区间维持在3.75%至4%不变。这一决定符合市场此前广泛预期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
+      "publishedAt": "2026-10-28T22:15:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
+      "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
+      "category": "综合",
+      "summary": "中新社北京10月29日电 (记者 国璇)2026年全国游泳锦标赛(25米)28日在北京国家游泳中心“水立方”收官。作为爱知·名古屋亚运会后的首场全国性游泳大赛，本届赛事对于许多选手而言是一次找回比赛节奏的综合演练。老将和新星创造多项纪录，为12月的北京短池世锦赛预热。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
+      "publishedAt": "2026-10-28T22:14:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad#0",
       "title": "西班牙列車相撞至少68死：我們目前已知甚麼？",
@@ -516,92 +606,92 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722436.shtml",
-      "title": "江西余干：鄱阳湖畔网箱养鳝管护忙",
-      "category": "综合",
-      "summary": "10月28日，位于鄱阳湖畔的江西省上饶市余干县瑞洪镇一处鳝鱼养殖基地，农户划着小船穿梭在整齐连片的网箱之间，管护鳝鱼。近年来，当地依托鄱阳湖优质水资源优势发展特色水产养殖，带动农户增收致富，助力乡村振兴。中新社记者 刘占昆 摄 10月28日，位于鄱阳湖畔的江西省上饶市余干县瑞洪镇一处鳝鱼养殖基地，农户划着小船穿梭在整齐连片的网箱之间，管护鳝鱼。近年来，当地依",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722436.shtml",
-      "publishedAt": "2026-10-28T13:29:08.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143088",
+      "title": "粮食署新任执行主任：结束冲突是缓解全球饥饿问题的关键",
+      "category": "国际",
+      "summary": "世界粮食计划署新任执行主任林德伯格（Luke Lindberg）周三表示，减少冲突是缓解全球饥饿问题最有效的途径。目前，全球约2.66亿人面临急性粮食不安全，其中三分之二的粮食安全问题由冲突造成。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143088",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
-      "title": "专家学者广州共议零碳能源如何驱动下一轮全球增长",
-      "category": "综合",
-      "summary": "中新网广州10月28日电 题：专家学者广州共议零碳能源如何驱动下一轮全球增长",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
-      "publishedAt": "2026-10-28T13:29:04.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143087",
+      "title": "刚果（金）埃博拉确诊病例破万，世卫组织呼吁持续开展防控工作",
+      "category": "国际",
+      "summary": "刚果民主共和国（刚果（金））埃博拉确诊病例数已超过10000例，世界卫生组织强调必须持续采取措施，遏制病毒传播。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143087",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722430.shtml",
-      "title": "兰州百合迎采挖季",
-      "category": "综合",
-      "summary": "10月28日，在位于甘肃省兰州市七里河区西果园镇上岭村，农户采挖百合。近期，兰州迎来百合采挖季。该村地处海拔2000米的山地梯田，昼夜温差大，环境利于百合积累糖分与营养，是七里河区百合核心种植村之一。据悉，兰州百合为国家地理标志保护产品，也是中国四大食用百合中唯一可生食的甜百合。中新社记者 李亚龙 摄 10月28日，在位于甘肃省兰州市七里河区西果园镇上岭村，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722430.shtml",
-      "publishedAt": "2026-10-28T13:26:26.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143085",
+      "title": "2023年全球高温相关死亡人数达71万，创历史新高",
+      "category": "国际",
+      "summary": "世界卫生组织参与发布的一份最新报告周三警告，各国在应对气候变化方面采取的措施仍远远不够，气候变化正持续威胁全球民众的健康与生命。2023年，全球高温相关死亡人数估计达71万，其中超过七成的死亡可归因于人为造成的气候变化。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143085",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209151.shtml",
-      "title": "西班牙列车相撞事故造成至少50人死亡 一列列车两节车厢脱轨坠落",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209151.shtml",
-      "publishedAt": "2026-10-28T13:25:10.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143084",
+      "title": "联合国警告：随着气候变化加剧，海洋吸收碳的能力正在减弱",
+      "category": "国际",
+      "summary": "在第31届联合国气候变化大会即将开幕之际，联合国周三发布最新报告指出，海洋吸收了约30%由人类活动引发的二氧化碳排放以及90%由温室气体捕获的多余热量。然而，气候变化已使海洋吸收碳的能力下降约6%。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143084",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
-      "title": "聚焦民间文学之生命力 《民间文学》杂志创刊70周年交流活动举办",
-      "category": "综合",
-      "summary": "中新网杭州10月28日电 聚焦民间文学之生命力，《民间文学》杂志创刊70周年座谈交流活动日前在浙江淳安举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
-      "publishedAt": "2026-10-28T13:24:18.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143083",
+      "title": "130:17！联大连续第34年要求终结美国对古巴的封锁",
+      "category": "国际",
+      "summary": "联合国大会周三以130票赞成、17票反对、25票弃权的表决结果通过决议，再次敦促美国终止对古巴的经济、商业和金融封锁。这是联大连续第34年通过类似决议。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143083",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1497,96 +1587,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143053",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143052",
-      "title": "尼泊尔致命冰川洪灾敲响全球气候危机警钟",
-      "category": "国际",
-      "summary": "联合国项目事务署负责人周四表示，今年8月尼泊尔发生的致命山洪灾害，对该国和整个国际社会而言都具有重要的警示意义。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143052",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143051",
-      "title": "联合国专家敦促各国采取行动，应对全球老年人非法死亡问题",
-      "category": "国际",
-      "summary": "一位联合国人权专家周三表示，全球范围内老年人非法死亡事件的报告、调查和研究工作严重不足，呼吁各国采取紧急措施，加强相关调查机制和预防体系。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143051",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143049",
-      "title": "国际刑事法院荣获2026年萨哈罗夫思想自由奖",
-      "category": "国际",
-      "summary": "国际刑事法院周四发表声明，对欧洲议会将2026年萨哈罗夫思想自由奖授予该法院及其工作人员表示感谢。当前国际刑事及其工作人员正面临前所未有挑战——包括旨在干扰该法院司法职能的制裁措施，这一奖项具有特殊意义。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143049",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143048",
-      "title": "刚果（金）：埃博拉疫情蔓延，防疫人员面临压力",
-      "category": "国际",
-      "summary": "随着致命的埃博拉疫情蔓延至刚果民主共和国（刚果（金））的第八个省，调查人员周四正全面追查相关线索，以评估该疾病在西非国家尼日利亚传播的风险。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143048",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143047",
-      "title": "父亲带薪育儿假仅为母亲的八分之一， 整个社会承担“育儿鸿沟”代价",
-      "category": "国际",
-      "summary": "联合国妇女署与世界银行集团周四联合发布的一份政策简报指出，全球多数国家和地区仍为母亲提供远多于父亲的带薪育儿假，这种政策差距加剧了男女在照护责任上的不平等，削弱了家庭、儿童及经济发展的整体福祉。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143047",
       "publishedAt": "2026-10-22T12:00:00.000Z",
       "tags": [
         "国际",

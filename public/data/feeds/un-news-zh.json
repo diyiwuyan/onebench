@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143088",
+      "title": "粮食署新任执行主任：结束冲突是缓解全球饥饿问题的关键",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143088",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143087",
+      "title": "刚果（金）埃博拉确诊病例破万，世卫组织呼吁持续开展防控工作",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143087",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143085",
+      "title": "2023年全球高温相关死亡人数达71万，创历史新高",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143085",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143084",
+      "title": "联合国警告：随着气候变化加剧，海洋吸收碳的能力正在减弱",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143084",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143083",
+      "title": "130:17！联大连续第34年要求终结美国对古巴的封锁",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143083",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143082",
       "title": "加沙民众将在临时帐篷中迎来第四个冬天，人道主义援助持续受阻",
       "meta": "联合国新闻 · 2026/10/27",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/10/22",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143053",
       "publishedAt": "2026-10-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143052",
-      "title": "尼泊尔致命冰川洪灾敲响全球气候危机警钟",
-      "meta": "联合国新闻 · 2026/10/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143052",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143051",
-      "title": "联合国专家敦促各国采取行动，应对全球老年人非法死亡问题",
-      "meta": "联合国新闻 · 2026/10/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143051",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143049",
-      "title": "国际刑事法院荣获2026年萨哈罗夫思想自由奖",
-      "meta": "联合国新闻 · 2026/10/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143049",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143048",
-      "title": "刚果（金）：埃博拉疫情蔓延，防疫人员面临压力",
-      "meta": "联合国新闻 · 2026/10/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143048",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143047",
-      "title": "父亲带薪育儿假仅为母亲的八分之一， 整个社会承担“育儿鸿沟”代价",
-      "meta": "联合国新闻 · 2026/10/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143047",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-28T16:37:44.745Z",
+  "updatedAt": "2026-10-28T22:35:04.477Z",
   "provider": "OneBench 公共资讯快照"
 }
