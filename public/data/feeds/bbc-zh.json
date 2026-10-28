@@ -5,14 +5,28 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad#0",
+      "title": "西班牙列車相撞至少68死：我們目前已知甚麼？",
+      "meta": "BBC 中文 · 2026/10/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T16:16:36.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#0",
+      "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
+      "meta": "BBC 中文 · 2026/10/28",
+      "url": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:51:19.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad#1",
       "title": "什麼時候「豪華經濟艙」值得多花錢？來比較2026年全球五強",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T08:27:55.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#1",
       "title": "官方統計：中國「養老」人數首次超過「養小」",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,13 +89,6 @@
       "publishedAt": "2026-10-27T06:44:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad#1",
-      "title": "澳洲囚犯爭取吃Vegemite醬敗訴，為何獄中禁止「國民食物」？",
-      "meta": "BBC 中文 · 2026/10/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T00:18:40.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad#4",
       "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
       "meta": "BBC 中文 · 2026/10/27",
@@ -94,13 +101,6 @@
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T15:03:14.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad#1",
-      "title": "蔡康永稱「沒支持過台獨」後出席蔣萬安造勢 兩岸輿論未息",
-      "meta": "BBC 中文 · 2026/10/26",
-      "url": "https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T09:17:41.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-28T08:32:25.881Z",
+  "updatedAt": "2026-10-28T16:37:44.745Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:32:25.881Z",
-  "expiresAt": "2026-10-28T14:32:25.881Z",
+  "generatedAt": "2026-10-28T16:37:44.745Z",
+  "expiresAt": "2026-10-28T22:37:44.745Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,7 +32,599 @@
   ],
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad#0",
+      "title": "西班牙列車相撞至少68死：我們目前已知甚麼？",
+      "category": "国际",
+      "summary": "西班牙兩列載有逾500名乘客的高速列車相撞。該國交通部長表示，電腦系統故障導致列車一度停駛，但控制中心其後在「令人費解的情況下」，沒有實施速度限制而允許列車恢復行駛，最終釀成事故。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T16:16:36.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-28/10722487.shtml",
+      "title": "西班牙首相宣布为列车相撞事故遇难者全国哀悼三天",
+      "category": "综合",
+      "summary": "当地时间10月28日，西班牙首相桑切斯宣布，自29日起全国哀悼三天，悼念列车相撞事故遇难者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722487.shtml",
+      "publishedAt": "2026-10-28T15:26:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-28/10722486.shtml",
+      "title": "西班牙列车相撞事故死亡人数上升至68人",
+      "category": "综合",
+      "summary": "据西班牙卡斯蒂利亚-拉曼查自治区方面28日消息，当天上午在其首府托莱多发生的高速铁路列车相撞事故死亡人数上升至68人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722486.shtml",
+      "publishedAt": "2026-10-28T14:59:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#0",
+      "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
+      "category": "国际",
+      "summary": "劉延東的逝世提醒外界一個現象：從吳儀、劉延東到孫春蘭，中共中央政治局曾連續20年保持至少一名女性委員，直到2022年「二十大」中斷，權力核心再無女性。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:51:19.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
+      "title": "又有8位已迎回在韩志愿军烈士确认身份！为烈士寻亲，如何寻？难在哪？怎么解？",
+      "category": "综合",
+      "summary": "退役军人事务部28日在北京举行褒扬纪念工作专题新闻发布会。据该部褒扬纪念司(国际合作司)副司长史艺介绍，今年又有8位已迎回在韩中国人民志愿军烈士确认身份。在目前已迎回的十三批在韩志愿军烈士中，已有44名烈士确认身份、找到亲人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
+      "publishedAt": "2026-10-28T14:43:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
+      "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
+      "category": "综合",
+      "summary": "中新网兰州10月28日电 (王源 马丽)进入秋冬季，炉火熄灭、铁锤停歇，家庭小作坊大多进入“空闲期”，这曾是保安腰刀传承八百余年的常态，如今在甘肃省临夏州积石山县刘集乡团结村，几名工人操作着现代化设备，不多时，一把兼具保安腰刀形制神韵的菜刀便已成型。这座拔地而起的标准化厂房，让保安腰刀告别了“看天吃饭”的旧模式，开启了“工厂模式”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
+      "publishedAt": "2026-10-28T14:37:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722477.shtml",
+      "title": "云南立法保护铁路安全 纳入跨境协作内容",
+      "category": "综合",
+      "summary": "中新网昆明10月28日电 (罗婕)28日，《云南省铁路安全管理条例》(下称《条例》)新闻发布会在昆明市举行。记者从会上获悉，《条例》结合云南区位特点，明确开展跨境铁路安全交流合作，与毗邻国家共同维护跨境铁路安全环境和秩序等内容。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722477.shtml",
+      "publishedAt": "2026-10-28T14:18:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-28/10722476.shtml",
+      "title": "澜湄流域各国艺术家齐聚西双版纳 演绎多元文明交融共生",
+      "category": "综合",
+      "summary": "中新网云南西双版纳10月28日电 (韩帅南 易力)10月28日晚，云南省西双版纳傣族自治州曼听御花园剧场内乐声流淌，第十四届澜沧江·湄公河流域国家文化艺术节开幕式文艺晚会在此启幕。澜湄流域各国艺术家以艺术为纽带，带领现场观众沉浸式感受澜湄流域多元文明交融共生的魅力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722476.shtml",
+      "publishedAt": "2026-10-28T14:18:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
+      "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
+      "category": "综合",
+      "summary": "中新网张家界10月28日电 (记者 邓霞)第四届天门山“云纵天梯”跑酷大赛将于11月4日至5日在张家界天门山景区开赛。届时，来自全球18个国家的66名顶尖跑酷运动员将在被称为“世界最难跑酷赛道”的999级天梯上，展开男子竞速、男子自由式、女子自由式三大项目的巅峰对决。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
+      "publishedAt": "2026-10-28T14:18:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722474.shtml",
+      "title": "大病留本地 外转降下来：跨省医疗帮扶让云南澄江大病不出市",
+      "category": "综合",
+      "summary": "中新网广州10月28日电 (记者 蔡敏婕)“此前澄江市肿瘤患者外转率位居首位，经过一年多建设，肿瘤患者外转率现已降至第三位。”云南省玉溪市中山医院党委副书记、院长谭进富28日在线上采访中介绍，今年1月至8月，澄江实现患者外转率负增长，这正是医院优质医疗资源下沉基层取得的实效。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722474.shtml",
+      "publishedAt": "2026-10-28T14:18:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722473.shtml",
+      "title": "广西多点发力 加快完善生育支持政策体系",
+      "category": "综合",
+      "summary": "中新网南宁10月28日电(记者 黄艳梅)广西壮族自治区卫生健康委员会28日举行新闻发布会，介绍广西加快完善生育支持政策体系、推动建设生育友好型社会的工作进展与成效。从育儿补贴落地、托育服务扩容，到母婴安全保障、人口服务管理夯实，广西正以系列措施回应民众生育关切。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722473.shtml",
+      "publishedAt": "2026-10-28T14:17:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722469.shtml",
+      "title": "前三季度中国海洋生产总值同比增4.9%",
+      "category": "综合",
+      "summary": "中新社北京10月28日电 (记者 阮煜琳)据中国自然资源部28日消息，前三季度，中国海洋经济实现平稳增长，结构不断优化，向新向优发展势头不断巩固。初步核算，前三季度海洋生产总值达8.5万亿元(人民币，下同)，同比增长4.9%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722469.shtml",
+      "publishedAt": "2026-10-28T14:16:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722468.shtml",
+      "title": "川渝人工智能赛道吸引境内外投融资机构关注",
+      "category": "综合",
+      "summary": "中新社成都10月28日电 (王利文)第六届数字经济投融资机构川渝行10月27日至28日在成都举行，川渝两地专家学者、境内外投融资机构、银行券商及网信企业代表等400余人参会。活动聚焦人工智能赛道，16家川渝企业现场路演并发布融资需求，合计释放融资需求超10亿元(人民币，下同)。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722468.shtml",
+      "publishedAt": "2026-10-28T14:16:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209173.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：唐钱婷获得女子50米蛙泳冠军",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209173.shtml",
+      "publishedAt": "2026-10-28T14:15:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722455.shtml",
+      "title": "“AI+自动驾驶”技术 探访浙江桐乡无人车智造中心",
+      "category": "综合",
+      "summary": "10月28日，多辆无人车在模拟测试场上进行道路测试。（无人机照片）中新社记者 孙杨洋 摄 10月28日，模拟测试场上，工程师对无人车进行道路测试。中新社记者 孙杨洋 摄 10月28日，无人车在模拟测试场上进行道路测试。中新社记者 孙杨洋 摄 10月28日，多辆无人车在模拟测试场上进行道路测试。（无人机照片）中新社记者 孙杨洋 摄 10月28日，无人车在模拟测",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722455.shtml",
+      "publishedAt": "2026-10-28T14:03:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722462.shtml",
+      "title": "世界海拔最高风电场升压站建成 华电措美哲古一期风电项目全容量投产",
+      "category": "综合",
+      "summary": "中新网拉萨10月28日电 (李林)28日，中国电建集团成都勘测设计研究院有限公司(以下简称“成都院”)介绍，由该院牵头设计施工总承包、水电九局联合承建的华电措美哲古一期80兆瓦风电项目全部机组建成投产，项目同步建成的世界海拔最高风电配套220千伏升压站建成投运，标志着超高海拔风电工程建设取得新突破。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722462.shtml",
+      "publishedAt": "2026-10-28T14:02:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722458.shtml",
+      "title": "西藏巴青震区安置一线：一群基层干部，守护牧区每一户",
+      "category": "综合",
+      "summary": "中新网巴青10月28日电 题：西藏巴青震区安置一线：一群基层干部，守护牧区每一户",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722458.shtml",
+      "publishedAt": "2026-10-28T14:00:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209170.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：彭旭玮获得女子200米仰泳冠军",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209170.shtml",
+      "publishedAt": "2026-10-28T14:00:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722461.shtml",
+      "title": "中国—东盟地方官员共探数智时代城市治理",
+      "category": "综合",
+      "summary": "中新网海口10月28日电 (记者 王子谦)“人工智能正在改变城市治理方式，要加快运用技术服务民生。”菲律宾伊莎贝拉省埃查格市市长福斯蒂诺·戴(Faustino Dy)28日在海口表示，在人工智能突飞猛进的浪潮下，城市治理者要尤其关注公平，“不能有任何一个社区被落下。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722461.shtml",
+      "publishedAt": "2026-10-28T13:56:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722460.shtml",
+      "title": "广交会二期交通部门疏运客商51.65万人次",
+      "category": "综合",
+      "summary": "中新网广州10月28日电 (记者 蔡敏婕)第140届广交会第二期(10月23日至10月27日)举行期间，广州交通部门疏运客商51.65万人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722460.shtml",
+      "publishedAt": "2026-10-28T13:55:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722457.shtml",
+      "title": "广西推动建立中国—东盟防震减灾常态化交流合作机制",
+      "category": "综合",
+      "summary": "中新网南宁10月28日电 (林浩 王以照)10月28日，广西壮族自治区地震局副局长何晓灵介绍，2026年中国(广西)—东盟应急管理(防震减灾)合作与发展大会将提出《中国—东盟防震减灾协作南宁倡议》，推动建立中国—东盟防震减灾常态化沟通对话交流合作机制，凝聚区域防震减灾共治共识，促进地震安全协同发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722457.shtml",
+      "publishedAt": "2026-10-28T13:54:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209167.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子200米自由泳冠军",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209167.shtml",
+      "publishedAt": "2026-10-28T13:54:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-28/10722456.shtml",
+      "title": "香港科技园发布首份《BES策略分析报告》 瞄准全球储能市场机遇",
+      "category": "综合",
+      "summary": "中新网香港10月28日电 (记者 张语洽)香港科技园公司(简称“科技园”)28日发布首份《电池及储能(BES)策略分析报告》，提出全球BES产业正迎来发展机遇，香港具备竞争优势。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722456.shtml",
+      "publishedAt": "2026-10-28T13:53:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209164.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米自由泳冠军",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209164.shtml",
+      "publishedAt": "2026-10-28T13:45:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722453.shtml",
+      "title": "广东高州迎来油茶果丰收",
+      "category": "综合",
+      "summary": "10月28日，广东省高州市大坡镇迎来油茶果丰收。每年霜降前后，油茶果陆续成熟，当地农户穿梭在油茶林中采摘，随后经过晾晒、加工，让山里的“黄金果”变成增收的茶油。图为农户运输新鲜采摘的油茶果。中新社记者 陈楚红 摄 10月28日，广东省高州市大坡镇迎来油茶果丰收。每年霜降前后，油茶果陆续成熟，当地农户穿梭在油茶林中采摘，随后经过晾晒、加工，让山里的“黄金果”变",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722453.shtml",
+      "publishedAt": "2026-10-28T13:39:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722452.shtml",
+      "title": "释放“两院一湾”建设牵引效应 重庆南岸做强人工智能创新集群",
+      "category": "综合",
+      "summary": "中新网重庆10月28日电 (马佳欣)28日，在“开局起步十五五·建设现代化新重庆”系列主题新闻发布会南岸专场上，南岸区委书记周和华介绍，“十五五”期间，南岸将释放“两院一湾”建设牵引效应，做强以“两院一湾”为引领的人工智能创新集群。该区将从服务“两院”发展、湾区整体规划、产业发展行动、夯实智算底座、创新体系建设、场景融合应用、创新生态营造七个方面系统推进建设",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722452.shtml",
+      "publishedAt": "2026-10-28T13:29:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722449.shtml",
+      "title": "全国民航公安系统首个自主卡通IP“小飞警”全新亮相",
+      "category": "综合",
+      "summary": "中新网杭州10月28日电 (钱晨菲 张力 倪纵宾)智能警务装备集中展出、可爱警犬互动打卡、安全普法趣味答疑……10月28日，杭州萧山国际机场T4航站楼热闹十足。浙江省公安厅机场公安局在此举办“浙里有你 飞警守护”警营开放日活动，同步发布全新升级的“小飞警”卡通形象，吸引众多过往旅客驻足参与。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722449.shtml",
+      "publishedAt": "2026-10-28T13:29:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722436.shtml",
+      "title": "江西余干：鄱阳湖畔网箱养鳝管护忙",
+      "category": "综合",
+      "summary": "10月28日，位于鄱阳湖畔的江西省上饶市余干县瑞洪镇一处鳝鱼养殖基地，农户划着小船穿梭在整齐连片的网箱之间，管护鳝鱼。近年来，当地依托鄱阳湖优质水资源优势发展特色水产养殖，带动农户增收致富，助力乡村振兴。中新社记者 刘占昆 摄 10月28日，位于鄱阳湖畔的江西省上饶市余干县瑞洪镇一处鳝鱼养殖基地，农户划着小船穿梭在整齐连片的网箱之间，管护鳝鱼。近年来，当地依",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722436.shtml",
+      "publishedAt": "2026-10-28T13:29:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
+      "title": "专家学者广州共议零碳能源如何驱动下一轮全球增长",
+      "category": "综合",
+      "summary": "中新网广州10月28日电 题：专家学者广州共议零碳能源如何驱动下一轮全球增长",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
+      "publishedAt": "2026-10-28T13:29:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722430.shtml",
+      "title": "兰州百合迎采挖季",
+      "category": "综合",
+      "summary": "10月28日，在位于甘肃省兰州市七里河区西果园镇上岭村，农户采挖百合。近期，兰州迎来百合采挖季。该村地处海拔2000米的山地梯田，昼夜温差大，环境利于百合积累糖分与营养，是七里河区百合核心种植村之一。据悉，兰州百合为国家地理标志保护产品，也是中国四大食用百合中唯一可生食的甜百合。中新社记者 李亚龙 摄 10月28日，在位于甘肃省兰州市七里河区西果园镇上岭村，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722430.shtml",
+      "publishedAt": "2026-10-28T13:26:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209151.shtml",
+      "title": "西班牙列车相撞事故造成至少50人死亡 一列列车两节车厢脱轨坠落",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209151.shtml",
+      "publishedAt": "2026-10-28T13:25:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
+      "title": "聚焦民间文学之生命力 《民间文学》杂志创刊70周年交流活动举办",
+      "category": "综合",
+      "summary": "中新网杭州10月28日电 聚焦民间文学之生命力，《民间文学》杂志创刊70周年座谈交流活动日前在浙江淳安举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
+      "publishedAt": "2026-10-28T13:24:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/117725",
+      "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+      "category": "科技",
+      "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/117725",
+      "publishedAt": "2026-10-28T09:37:22.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad#1",
       "title": "什麼時候「豪華經濟艙」值得多花錢？來比較2026年全球五強",
       "category": "国际",
       "summary": "全球豪經艙排名出來，台灣長榮及阿聯酋航空分佔冠亞軍。",
@@ -49,7 +641,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#1",
       "title": "官方統計：中國「養老」人數首次超過「養小」",
       "category": "国际",
       "summary": "分析人士指出，最新數字標誌著中國應對人口老化的重要里程碑。",
@@ -62,546 +654,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722248.shtml",
-      "title": "（长征胜利90周年）从支援红军筹粮到高原果蔬出山：四川藏地小镇焕发新貌",
-      "category": "综合",
-      "summary": "中新社四川甘孜10月28日电 题：从支援红军筹粮到高原果蔬出山：四川藏地小镇焕发新貌",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722248.shtml",
-      "publishedAt": "2026-10-28T08:25:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722243.shtml",
-      "title": "小螺蛳撬动大产业 广西柳江做强螺蛳粉配套产业",
-      "category": "综合",
-      "summary": "中新网广西柳州10月28日电(梁旎旎 兰德波 周梦玉)小小螺蛳撬动大产业。广西柳州市柳江区主动融入柳州螺蛳粉千亿元(人民币，下同)产业发展大局，立足本土资源禀赋，聚力培育本土龙头企业，做强螺蛳粉产业链上下游环节，让乡土特产转化为民众增收致富的“硬支撑”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722243.shtml",
-      "publishedAt": "2026-10-28T08:24:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722246.shtml",
-      "title": "从“陌生邻居”到“价值伙伴”：浙江丽水产业社区的三重跃迁",
-      "category": "综合",
-      "summary": "中新网丽水10月28日电(邵燕飞 傅飞扬)近日，在位于浙江丽水的丽芯半导体产业社区共享实验室，一组外延片的质量验证刚刚完成，另一家企业的研发人员便带着新工艺参数进场复测比对。数据在社区里流动，技术在场景中碰撞，经验在交流中沉淀，最终带动整条产业链成功申报119项专利技术。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722246.shtml",
-      "publishedAt": "2026-10-28T08:23:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722235.shtml",
-      "title": "四川攀枝花通报“摊贩疑似将杀虫剂喷到水果上”",
-      "category": "综合",
-      "summary": "中新网10月28日电 据“这里仁和”微信公众号消息，10月28日，四川攀枝花市仁和区市场监督管理局发布情况通报称，近日，有网友发视频反映，攀枝花市一水果摊贩疑似将杀虫剂喷洒到水果上，引发关注。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722235.shtml",
-      "publishedAt": "2026-10-28T08:23:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-28/10722249.shtml",
-      "title": "湖北展出一批珍贵古籍 再现楚人“饮食菜单”",
-      "category": "综合",
-      "summary": "中新社武汉10月28日电 (梁婷 宋泽宇)“鼎食长江——典籍中的荆楚味道”古籍文献特展28日在湖北省图书馆·湖北典籍博物馆开幕，展出珍贵古籍50余部，再现楚人饮食“菜单”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722249.shtml",
-      "publishedAt": "2026-10-28T08:21:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722250.shtml",
-      "title": "国内外专家湖北五峰共商食用菌产业创新发展",
-      "category": "综合",
-      "summary": "中新网宜昌10月28日电 (董晓斌 李智 伍佳梦)中国农民丰收节·食用菌产业秋季博览会28日在湖北省宜昌市五峰土家族自治县开幕。国内外300余位食用菌行业相关专家学者与企业代表参会，共商食用菌产业与森林食品科技创新发展新路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722250.shtml",
-      "publishedAt": "2026-10-28T08:21:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722239.shtml",
-      "title": "港科大医学院筹建工作顺利 将于2028/2029学年录取50人",
-      "category": "综合",
-      "summary": "中新网香港10月28日电 (记者 邱兆翔)香港科技大学(简称“港科大”)28日表示，该校筹办的香港第三所医学院筹建工作进展顺利，医学教研综合大楼已完成封顶工程，课程框架已完成设计，有信心能够按计划于2028/2029学年录取首批50名学生。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722239.shtml",
-      "publishedAt": "2026-10-28T08:20:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/10-28/10722238.shtml",
-      "title": "从“寻根”到“扎根” 天津让侨心更有归处",
-      "category": "综合",
-      "summary": "中新网天津10月28日电 题：从“寻根”到“扎根” 天津让侨心更有归处",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722238.shtml",
-      "publishedAt": "2026-10-28T08:20:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-28/10722237.shtml",
-      "title": "《清明上河图密码》亮相桂林艺术节 探秘北宋迷局",
-      "category": "综合",
-      "summary": "中新网桂林10月28日电(邓竣缤 马健骐)10月27日晚，作为2026年桂林艺术节展演剧目之一，由上海话剧艺术中心打造的国风悬疑舞台剧《清明上河图密码》在广西桂林大剧院上演。该剧改编自冶文彪的同名长篇历史小说，选取原著中“梅船案”与“八子案”双线并行，在舞台上再现北宋汴京的悬疑迷局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722237.shtml",
-      "publishedAt": "2026-10-28T08:18:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722236.shtml",
-      "title": "贵州建成490个乡镇（街道）区域养老服务中心",
-      "category": "综合",
-      "summary": "中新网贵阳10月28日电 (记者 周燕玲)记者28日从贵州省政府新闻办举行的新闻发布会上获悉，贵州88个县级行政区中已有86个依托县级养老机构建设了综合服务管理平台，建成490个乡镇(街道)区域养老服务中心，共有2360个城乡社区养老服务站投入运营，健全分级分类、普惠可及、覆盖城乡、持续发展的养老服务体系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722236.shtml",
-      "publishedAt": "2026-10-28T08:17:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722244.shtml",
-      "title": "智驾“小蓝灯”谁能装？车灯趣味图案还能用吗？最新明确→",
-      "category": "综合",
-      "summary": "日前，工业和信息化部公开征求意见，正式启动对《汽车及挂车外部照明和光信号装置的安装要求》标准修订工作，将给车灯安全使用“划红线”。新标准计划于2028年1月1日起实施。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722244.shtml",
-      "publishedAt": "2026-10-28T08:16:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722233.shtml",
-      "title": "2026南康家具秋季订货会举行 中外客商觅合作机遇",
-      "category": "综合",
-      "summary": "中新网江西南康10月28日电 (熊锦阳)2026南康家具秋季订货会28日在江西省赣州市南康区举行，来自中国、意大利、越南等国家的经销商、采购商齐聚“中国实木家居之都”寻觅商机。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722233.shtml",
-      "publishedAt": "2026-10-28T08:12:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-28/10722234.shtml",
-      "title": "雅江畔，绿色和紫色的传奇——产业援藏助力山南市桑日葡萄产业发展壮大",
-      "category": "综合",
-      "summary": "深秋的金色阳光，洒在雅鲁藏布江中游东段一眼望不到边的葡萄园里。谁承想，16年前，这里还是风沙肆虐、荆棘遍布的荒滩，如今竟翻卷出连片的绿色和紫色的海洋。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722234.shtml",
-      "publishedAt": "2026-10-28T08:11:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-28/10722232.shtml",
-      "title": "之江潮涌塔河畔",
-      "category": "综合",
-      "summary": "10月15日，阿克苏市依干其镇尤喀克巴里当村一处农家小院，村民库尔班·吐尔迪一边忙着照料圈舍里的湖羊，一边叮嘱去上学的子女：“孩子们，你们要好好学习，不要让王伯伯失望。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722232.shtml",
-      "publishedAt": "2026-10-28T08:08:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-28/10722230.shtml",
-      "title": "2026年全国艺术体操冠军赛铜川落幕 王子露独揽五金",
-      "category": "综合",
-      "summary": "中新网陕西铜川10月28日电 (记者 张一辰)2026年全国艺术体操冠军赛27日在铜川体育馆落下帷幕，陕西队斩获7金6银3铜，登顶金牌榜，其中王子露一人拿下5枚金牌。作为本年度国内艺术体操收官大赛，赛事共吸引15支代表队的100余名运动员同台竞技。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722230.shtml",
-      "publishedAt": "2026-10-28T08:07:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722231.shtml",
-      "title": "让“太阳”为人类发电？可控核聚变究竟走到哪一步了？",
-      "category": "综合",
-      "summary": "让“太阳”为人类发电？可控核聚变究竟走到哪一步了？丨科技前瞻",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722231.shtml",
-      "publishedAt": "2026-10-28T08:06:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722229.shtml",
-      "title": "五年累计近30万亿元 黄河流域外贸规模稳步攀升",
-      "category": "综合",
-      "summary": "2021年10月，中共中央、国务院印发了《黄河流域生态保护和高质量发展规划纲要》。据济南海关统计，自2021年至2025年，五年来黄河流域进出口29.95万亿元，今年前三季度，黄河流域进出口突破5万亿元，达5.58万亿元，同比增长17.5%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722229.shtml",
-      "publishedAt": "2026-10-28T08:05:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-28/10722228.shtml",
-      "title": "事关孩子健康 4项新规11月起将正式实施",
-      "category": "综合",
-      "summary": "11月1日起，四项与孩子健康息息相关的新规将正式实施——教室照明更讲究，护眼标准从“看得清”升级为“看得健康”；体育培训有规矩，师资、场地、人数、安全都要守底线；儿童用品有了首个全品类强制性国标，通用安全底线堵漏洞；玩具安全4项强标升级，水晶泥、捏捏乐等化学管控更精准。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722228.shtml",
-      "publishedAt": "2026-10-28T08:03:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209124.shtml",
-      "title": "青岛：红海滩湿地展现绚丽生态画卷",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209124.shtml",
-      "publishedAt": "2026-10-28T08:01:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722223.shtml",
-      "title": "中方：欢迎瑞士联邦主席帕姆兰来华访问",
-      "category": "综合",
-      "summary": "中新网北京10月28日电(记者 曾玥)中国外交部发言人28日宣布：瑞士联邦主席帕姆兰将于10月30日至11月1日来华进行工作访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722223.shtml",
-      "publishedAt": "2026-10-28T07:58:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
-      "title": "6公里外云端下指令 毫秒级响应 5G-A撑起百台无人矿卡",
-      "category": "综合",
-      "summary": "如今，我国已建成全球规模最大、技术最领先的信息通信网络，实现县县通千兆、乡乡通5G，新基建布局持续加速，赋能千行百业。太空里，卫星互联网正在抓紧织就；大地上，5G-A应用也越来越普及。一起去内蒙古，感受一下那里的百台无人电动矿卡 ，是如何感知路况、高效运转的。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
-      "publishedAt": "2026-10-28T07:42:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
-      "title": "常吃这两种水果，高血压死亡风险竟然能降低40%！",
-      "category": "综合",
-      "summary": "常吃这两种水果，高血压死亡风险竟然能降低40%！",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
-      "publishedAt": "2026-10-28T07:41:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722222.shtml",
-      "title": "中方：对中东地区局势持续紧张深表关切 反对攻击民用目标",
-      "category": "综合",
-      "summary": "中新网北京10月28日电(记者 曾玥)中国外交部发言人郭嘉昆28日主持例行记者会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722222.shtml",
-      "publishedAt": "2026-10-28T07:40:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-28/10722221.shtml",
-      "title": "从“失联三天”到“随时通话” 我国渤海海域迈入全域互联",
-      "category": "综合",
-      "summary": "新一代通信网、算力网、新型电网，这三网协同发力，为生产生活提供了强大的智慧支撑和绿色动能。当下，新一代通信网建设正在向海洋迈进。前不久，我国渤海海域迈入全域互联，一起来看总台记者在渤海的石油生产平台上的新发现。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722221.shtml",
-      "publishedAt": "2026-10-28T07:39:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209119.shtml",
-      "title": "深秋时节 北京街景如画",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209119.shtml",
-      "publishedAt": "2026-10-28T07:39:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722219.shtml",
-      "title": "山西晋中明确“十五五”主攻方向 12项任务绘就发展蓝图",
-      "category": "综合",
-      "summary": "中新网晋中10月28日电 (高雨晴)山西省晋中市委宣传部、晋中市政府新闻办27日召开“启航晋中新征程——晋中市‘十五五’系列主题新闻发布会”首场发布会。晋中市发展和改革委员会党组书记、主任韩亮介绍，《晋中市国民经济和社会发展第十五个五年规划纲要》明确五个方面“奋勇争先”主攻方向，部署12项重点任务。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722219.shtml",
-      "publishedAt": "2026-10-28T07:37:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-28/10722218.shtml",
-      "title": "商务部：消费品以旧换新带动销售额超2万亿元 惠及超2.5亿人次",
-      "category": "综合",
-      "summary": "中新网10月28日电 据“商务微新闻”微信公众号消息，10月28日，商务部召开全国消费品以旧换新工作推进电视电话会议，总结政策实施进展成效，部署下一步重点任务。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722218.shtml",
-      "publishedAt": "2026-10-28T07:32:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-28/10722217.shtml",
-      "title": "外交部：中方对中东地区局势持续紧张深表关切",
-      "category": "综合",
-      "summary": "10月28日，外交部发言人郭嘉昆主持例行记者会。有记者问就也门胡塞武装称袭击沙特国防部和机场等目标一事提问。对此，郭嘉昆表示，中方对地区局势持续紧张深表关切，反对攻击民航机场等民用目标，呼吁有关方面通过对话谈判化解争端，推动尽早恢复中东地区和平安宁。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722217.shtml",
-      "publishedAt": "2026-10-28T07:30:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-28/10722216.shtml",
-      "title": "云南省第十三届少数民族传统体育运动会：花炮赛场上演精彩对决",
-      "category": "综合",
-      "summary": "图为昆明队(蓝衣)对阵西双版纳队(橙衣)。中新社记者 刘冉阳 摄 图为昆明队(蓝衣)对阵西双版纳队(橙衣)。中新社记者 刘冉阳 摄 图为昆明队(蓝衣)对阵西双版纳队(橙衣)。中新社记者 刘冉阳 摄 图为昆明队(蓝衣)对阵西双版纳队(橙衣)。中新社记者 刘冉阳 摄 图为昆明队(蓝衣)对阵西双版纳队(橙衣)。中新社记者 刘冉阳 摄 图为昆明队(蓝衣)对阵西双版纳",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722216.shtml",
-      "publishedAt": "2026-10-28T07:30:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-28/10722195.shtml",
-      "title": "澳大利亚向中方返还2件流失文物",
-      "category": "综合",
-      "summary": "中新社堪培拉10月28日电 (记者 薄雯雯)中国国家文物局28日在堪培拉接收澳大利亚国家美术馆返还的2件中国流失文物。中国国家文物局副局长唐炜、中国驻澳大利亚大使刘劲松、澳大利亚国家美术馆馆长尼克·米采维奇等出席返还接收仪式并致辞。来自澳大利亚外交贸易部、联邦艺术部等相关机构的代表参加仪式。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722195.shtml",
-      "publishedAt": "2026-10-28T07:27:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -994,23 +1046,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad#1",
-      "title": "澳洲囚犯爭取吃Vegemite醬敗訴，為何獄中禁止「國民食物」？",
-      "category": "国际",
-      "summary": "因謀殺一名地產發展商而入獄的安德烈·麥克肯尼（Andre McKechnie）認為，享受澳洲文化是他的權利。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T00:18:40.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad#4",
       "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
       "category": "国际",
@@ -1189,23 +1224,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad#1",
-      "title": "蔡康永稱「沒支持過台獨」後出席蔣萬安造勢 兩岸輿論未息",
-      "category": "国际",
-      "summary": "分析人士稱，「這根本不是一封求饒的『道歉信』，而是一封向特定市場與群眾溫柔清算的『道別信』」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T09:17:41.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/117414",
       "title": "秋冬换季护肤买什么，双 11 选购推荐",
       "category": "科技",
@@ -1237,24 +1255,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/115074",
-      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-      "category": "科技",
-      "summary": "一起来看看 3D XPoint 这夸张的性能表现吧。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/115074",
-      "publishedAt": "2026-10-26T03:26:35.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
