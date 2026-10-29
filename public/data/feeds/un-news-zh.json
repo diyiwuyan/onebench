@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143091",
+      "title": "粮食署警告正成为现实：海地粮食不安全状况或达历史新高",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143091",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143090",
+      "title": "安理会聚焦新兴技术与海上安全，专家警告海运业已成为网络攻击高风险目标",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143090",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143086",
+      "title": "联合国毒罪办：阿富汗鸦片生产反弹，产量增至上年五倍",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143086",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143089",
       "title": "苏丹平民面临无人机袭击与任意逮捕双重威胁",
       "meta": "联合国新闻 · 2026/10/28",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/10/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143057",
       "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143056",
-      "title": "联合国日：在动荡时代重申团结与合作的价值",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143056",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143055",
-      "title": "国际原子能机构：坚持外交与合作，推动核能服务和平与发展",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143055",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143054",
-      "title": "苏丹无人机袭击激增加剧人道危机，妇女和女童持续承受磨难",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143054",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:01:05.923Z",
+  "updatedAt": "2026-10-29T19:38:09.938Z",
   "provider": "OneBench 公共资讯快照"
 }

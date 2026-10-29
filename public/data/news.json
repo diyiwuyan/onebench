@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:01:05.923Z",
-  "expiresAt": "2026-10-29T19:01:05.923Z",
+  "generatedAt": "2026-10-29T19:38:09.938Z",
+  "expiresAt": "2026-10-30T01:38:09.939Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10722976.shtml",
-      "title": "第三十三届杨凌农高会和2026上合组织农博会落幕",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad#0",
+      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
+      "category": "国际",
+      "summary": "這位參議員離開巴西後，被拍到在美國走下飛機。他在巴西因涉嫌洗錢而接受調查。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T16:19:30.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
+      "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
       "category": "综合",
-      "summary": "中新网陕西杨凌10月29日电 (记者 李一璠 杨英琦)10月29日，第三十三届中国杨凌农业高新科技成果博览会和2026上合组织农业博览会在陕西杨凌落下帷幕。",
+      "summary": "中新网昆明10月29日电 (记者 陈静)2026年中国贵金属论坛29日在昆明开幕。在这场行业盛会上，AI与人工智能成为高频词汇，一方面，人工智能大模型的应用加速贵金属新材料研发，另一方面，AI产业崛起对贵金属产生新需求，二者双向赋能、双向奔赴。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722976.shtml",
-      "publishedAt": "2026-10-29T12:53:37.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
+      "publishedAt": "2026-10-29T15:51:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10722968.shtml",
-      "title": "上海提出九大行动推动中小企业高质量发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+      "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
       "category": "综合",
-      "summary": "中新网上海10月29日电(杨硕)上海市政府新闻办29日举行发布会，上海市政府副秘书长、市发展改革委主任刘健介绍《上海市推动中小企业高质量发展行动方案》(以下简称《方案》)有关情况。刘健表示，《方案》针对中小企业发展面临的裉节问题提出九大行动共21项任务，推动中小企业高质量发展。",
+      "summary": "中新网桂林10月29日电 题：桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722968.shtml",
-      "publishedAt": "2026-10-29T12:53:33.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+      "publishedAt": "2026-10-29T15:51:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-29/10722967.shtml",
-      "title": "广州：“海上瞭望哨”3年发出超30万次安全提醒",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
+      "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
       "category": "综合",
-      "summary": "中新网广州10月29日电 (郭军 陈远锐 刘雨晴)记者29日从广州海事局了解到，今年是“商渔共治”三年攻坚行动(2024—2026年)收官之年。作为珠江口水域交通安全监管的“中枢神经”，广州海事局船舶交通管理中心(以下简称“广州VTS中心”)把商渔船防碰撞摆在监管工作最突出位置，全天候盯守辖区水域、全链条化解碰撞风险。三年来，该中心通过VTS系统累计发布商渔",
+      "summary": "中新网南昌10月29日电 (记者 李韵涵)29日，江西省高级人民法院召开新闻发布会通报江西法院司法救助工作情况。记者从会上了解到，2023年以来，江西法院共办理司法救助案件11319件。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722967.shtml",
-      "publishedAt": "2026-10-29T12:53:29.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
+      "publishedAt": "2026-10-29T15:51:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
-      "title": "中国科学家揭示日冕纳耀斑磁重联加热机制",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
+      "title": "广西加快打造国内国际双循环市场经营便利地",
       "category": "综合",
-      "summary": "中新网北京10月29日电 (记者 陈溯)太阳的最外层大气——日冕，长久以来藏着一道困扰科学界的难题：日冕的温度远高于太阳表面，它究竟是如何被加热到百万摄氏度的？近日，中国原子能科学研究院联合北京师范大学等高校及科研院所，首次完整演示了纳耀斑通过磁重联加热日冕的物理过程，为“日冕加热”这一长期未解的重大科学问题提供了首个实验室定量基准，对理解恒星大气中的能量释",
+      "summary": "中新网南宁10月29日电(黄艳梅 杨彩虹)广西壮族自治区发展和改革委员会副主任李文纲29日介绍，广西积极推进市场化法治化国际化营商环境建设，不断擦亮“营商广西·桂在便利”服务品牌，持续提升投资、贸易、消费、资金流动、人员往来、物流畅通等便利化水平，加快打造国内国际双循环市场经营便利地。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
-      "publishedAt": "2026-10-29T12:48:16.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
+      "publishedAt": "2026-10-29T15:48:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
-      "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
+      "title": "共探“人工智能+” “十五五·同心聚力自贸港”六期沙龙举行",
       "category": "综合",
-      "summary": "图为民众参观东盟特色美食展示区。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作品展示。中新社记者 黄艳梅 摄 图为参赛作",
+      "summary": "中新网海口10月29日电 (记者 符宇群)2026“十五五·同心聚力自贸港”六期沙龙29日在海口举行，紧扣“‘人工智能+’赋能产业发展、营商环境建设，助力海南自贸港建设”主题展开对话交流。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
-      "publishedAt": "2026-10-29T12:47:12.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
+      "publishedAt": "2026-10-29T15:48:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722969.shtml",
-      "title": "西安市重点科技项目加速落地 新质生产力蓄势赋能",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
+      "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
       "category": "综合",
-      "summary": "中新网西安10月29日电(张远 刘星)“从芯片设计到晶圆制造、模块封测，龙腾半导体正加快完善功率半导体产业链布局。”龙腾半导体股份有限公司副总裁张欣28日接受采访时表示。",
+      "summary": "中新网上海10月29日电 (记者 陈静)“在欧洲，人们对中医药有着浓厚兴趣，对中国文化也是如此。”意大利威尼斯大学校长李集雅28日接受记者采访时直言，“但人们对中国文化和医学的了解比较浅，我们需要有更多的课程。”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722969.shtml",
-      "publishedAt": "2026-10-29T12:44:40.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
+      "publishedAt": "2026-10-29T15:48:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722970.shtml",
-      "title": "法学专家谈新就业形态劳动者权益保障新规：建言增强可操作性",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-29/10723074.shtml",
+      "title": "粤港澳大湾区青年在穗交流助残助老志愿服务经验",
       "category": "综合",
-      "summary": "中新网北京10月29日电 (张素 马广志)《新就业形态劳动者权益保障办法(征求意见稿)》正在向社会公开征求意见。法学专家、社会组织代表等在肯定其突破意义的同时，建议进一步增强条款可操作性，明确责任后果和程序规则。",
+      "summary": "中新网广州10月29日电 (记者 张璐)据共青团广东省委员会(简称“团省委”)29日消息，粤港澳大湾区青年志愿服务交流活动(助残助老专场)(简称“活动”)10月26日至28日在广州市团校(广州志愿者学院)举办。来自广东21个地市以及香港、澳门特别行政区的社会组织(团体)负责人、优秀志愿服务项目代表、青年志愿者骨干齐聚一堂，围绕青年志愿者专业服务能力提升等开展",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722970.shtml",
-      "publishedAt": "2026-10-29T12:43:54.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723074.shtml",
+      "publishedAt": "2026-10-29T15:45:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722972.shtml",
-      "title": "世界城地组织亚太区2026年理事会会议在海口开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml",
+      "title": "“行走的川菜非遗”美食推介在伦敦举行",
       "category": "综合",
-      "summary": "中新网海口10月29日电 (记者 王子谦)世界城市和地方政府联合组织亚太区(简称世界城地组织亚太区)2026年理事会会议29日在海口开幕，来自亚太12个国家和地区的城市代表、国际组织负责人、专家学者代表约400人参会。",
+      "summary": "中新网伦敦10月29日电 (欧阳开宇 卢映菏)在中国驻伦敦旅游办支持下，由四川旅游学院与英国重庆商会联合主办的“行走的川菜非遗”(伦敦站)活动日前在伦敦举行。活动以川菜非物质文化遗产为核心纽带，搭建交流平台，积极推动川菜非遗海外传承发展，深化中英两国在教育、文化、餐饮及旅游领域的务实合作与友好往来。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722972.shtml",
-      "publishedAt": "2026-10-29T12:42:18.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml",
+      "publishedAt": "2026-10-29T15:45:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722956.shtml",
-      "title": "探访任丘油气装备企业 深耕海洋井控装备研发",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723076.shtml",
+      "title": "“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”",
       "category": "综合",
-      "summary": "10月29日，河北省任丘市华北石油荣盛机械制造有限公司井控厂装配车间内，工作人员正在工作。中新社记者 韩冰 摄 10月29日，河北省任丘市华北石油荣盛机械制造有限公司井控厂装配车间内，工作人员正在进行防喷器质检工序。中新社记者 韩冰 摄 10月29日，河北省任丘市华北石油荣盛机械制造有限公司井控厂加工车间内，工作人员正在工作。中新社记者 韩冰 摄 10月29",
+      "summary": "中新社北京10月29日电 (记者 阮煜琳)中国自然资源部29日消息，当日，在亚美尼亚埃里温举办的《生物多样性公约》第十七次缔约方大会(COP17)“恢复日”活动上，联合国环境规划署正式宣布，因中国在海洋生态保护修复方面取得的突出成效，“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722956.shtml",
-      "publishedAt": "2026-10-29T12:39:56.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723076.shtml",
+      "publishedAt": "2026-10-29T15:43:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-29/10722971.shtml",
-      "title": "手术出院不是终点，失管才是风险！AI如何接住康复“最后一公里”？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
+      "title": "CBA常规赛：北控队主场大胜四川队",
       "category": "综合",
-      "summary": "“手术很成功，可以出院回家了。”刚刚听到这句话时，绝大多数患者和家属都会松一口气，以为这场大病闯关就此结束。可只有亲身经历过的人才明白：出院，才是新一轮焦虑的开端。",
+      "summary": "中新社北京10月29日电 (记者 国璇)29日晚在北京国家奥林匹克体育中心体育馆举行的2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第六轮比拼中，北京控股队(简称“北控队”)主场以115:64大胜四川锦城队(简称“四川队”)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722971.shtml",
-      "publishedAt": "2026-10-29T12:37:40.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
+      "publishedAt": "2026-10-29T15:42:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722955.shtml",
-      "title": "广东茂名探索“油茶+N”模式 拓宽林下收益",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
+      "title": "“北京太古坊”正式启用，为太古地产在中国内地单体投资额最高项目",
       "category": "综合",
-      "summary": "10月29日，广东省茂名市国有荷塘林场的负责人介绍油茶林中种植的沉香。中新社记者 陈楚红 摄 10月29日，广东省茂名市国有荷塘林场的一片种植基地采用“油茶+沉香”复合种植模式。中新社记者 陈楚红 摄 10月29日，广东省茂名市国有荷塘林场的工作人员采摘成熟的香花油茶果。中新社记者 陈楚红 摄 10月29日，广东省茂名市国有荷塘林场的工作人员在“油茶+斑斓”",
+      "summary": "中新网北京10月29日电 (记者 庞无忌)太古地产29日宣布，位于北京市朝阳区的地标性综合发展项目“颐堤港”(INDIGO)正式更名为“北京太古坊”(Taikoo Place Beijing)。此次更名将现有颐堤港项目与即将落成的二期扩建部分统一纳入太古地产“太古坊”品牌体系。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722955.shtml",
-      "publishedAt": "2026-10-29T12:34:14.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
+      "publishedAt": "2026-10-29T15:37:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-29/10722964.shtml",
-      "title": "成年后鞋码还在长？别只当“发福” 专家：当心肢端肥大症",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723070.shtml",
+      "title": "前三季度海南货物贸易跨境人民币收付同比增长超五成",
       "category": "综合",
-      "summary": "中新网上海10月29日电 (记者 陈静)虽然成年了，可是鞋码还在莫名年年变大、眉骨越来越突出、嘴唇慢慢变厚、睡觉呼噜声越来越响……这些症状多会被民众认为是“发福”“变老”，但上海的内分泌科专家李益明教授29日接受采访时指出，这可能是罹患肢端肥大症的信号。",
+      "summary": "中新网海口10月29日电 (记者 王晓斌)记者从中国人民银行海南省分行29日召开的新闻发布会获悉，今年1至9月，海南全省跨境人民币收付额达4362亿元，同比增长16.9%。其中，货物贸易跨境人民币收付额为1074亿元，同比增长51.0%，占同期本外币跨境收付比重提升至30.5%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722964.shtml",
-      "publishedAt": "2026-10-29T12:33:17.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723070.shtml",
+      "publishedAt": "2026-10-29T15:34:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722943.shtml",
-      "title": "山东省—全北特别自治道庆祝结好20周年体育交流展演举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723069.shtml",
+      "title": "天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事",
       "category": "综合",
-      "summary": "10月29日，山东武术套路队成员进行展演。当日，山东省—全北特别自治道庆祝结好20周年体育交流展演在济南举办。中新社记者 孙婷婷 摄 10月29日，山东武术套路队成员进行展演。当日，山东省—全北特别自治道庆祝结好20周年体育交流展演在济南举办。中新社记者 孙婷婷 摄 10月29日，山东武术套路队成员进行展演。当日，山东省—全北特别自治道庆祝结好20周年体育交",
+      "summary": "中新网天津10月29日电 (记者 江莹)28日，由天津市委市级机关工委、市妇联联合主办的2026年天津市巾帼宣讲员风采展示暨示范宣讲活动举行，活动以“巾帼津声理润津沽 凝心筑梦奋进新程”为主题，充分展现新时代天津女性担当风采。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722943.shtml",
-      "publishedAt": "2026-10-29T12:32:37.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723069.shtml",
+      "publishedAt": "2026-10-29T15:34:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722966.shtml",
-      "title": "第三届四川省集体协商竞赛（决赛）在遂宁落幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
+      "title": "古韵新声引客来 傣族章哈成西双版纳文旅名片",
       "category": "综合",
-      "summary": "中新网成都10月29日电 (记者 岳依桐)“聚力同心协商共赢·携手筑梦锦绣天府”第三届四川省集体协商竞赛(决赛)29日在遂宁落幕。本次竞赛由四川省总工会、省人力资源和社会保障厅、省企业联合会/企业家协会、省工商业联合会主办。",
+      "summary": "中新网云南西双版纳10月29日电 (记者 韩帅南)10月29日，云南省西双版纳傣族自治州曼听御花园剧场座无虚席，傣族章哈剧《乌莎巴罗》在此拉开帷幕。台下，来自各地的游客被精彩演出深深吸引。如今，在西双版纳，“听一场原汁原味的章哈”正成为游客不容错过的文化体验。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722966.shtml",
-      "publishedAt": "2026-10-29T12:30:27.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
+      "publishedAt": "2026-10-29T15:34:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722939.shtml",
-      "title": "福州：高架桥底遇见“三角梅银河”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723073.shtml",
+      "title": "中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议",
       "category": "综合",
-      "summary": "10月29日，福建福州，市民打卡高架桥下的“三角梅银河”。福州一处高架桥两旁的三角梅盛放，桥底下看去，花穗垂落如“三角梅银河”，吸引不少市民前来打卡拍照。中新社记者 吕明 摄 10月29日，福建福州，市民打卡高架桥下的“三角梅银河”。福州一处高架桥两旁的三角梅盛放，桥底下看去，花穗垂落如“三角梅银河”，吸引不少市民前来打卡拍照。中新社记者 吕明 摄 10月2",
+      "summary": "新华社北京10月29日电 中宣部29日晚在京召开学习宣传贯彻党的二十届五中全会精神电视电话会议。中共中央政治局委员、中宣部部长李书磊出席会议并讲话。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722939.shtml",
-      "publishedAt": "2026-10-29T12:29:53.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723073.shtml",
+      "publishedAt": "2026-10-29T15:34:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722932.shtml",
-      "title": "山西柳林：红高粱开镰 颗粒尽归仓",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723067.shtml",
+      "title": "王毅同冰岛外长贡纳尔斯多蒂尔会谈",
       "category": "综合",
-      "summary": "金秋时节，山西省柳林县山头村连片高粱进入成熟期，田地连片铺展，穗株挺立田间。王凤云 摄 金秋时节，山西省柳林县山头村连片高粱进入成熟期，田地连片铺展，穗株挺立田间。王凤云 摄 金秋时节，山西省柳林县山头村连片高粱进入成熟期，田地连片铺展，穗株挺立田间。王凤云 摄 金秋时节，山西省柳林县山头村连片高粱进入成熟期，田地连片铺展，穗株挺立田间。王凤云 摄 金秋时节",
+      "summary": "中新社北京10月29日电 10月29日，中共中央政治局委员、外交部长王毅在北京同冰岛外长贡纳尔斯多蒂尔举行会谈。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722932.shtml",
-      "publishedAt": "2026-10-29T12:18:29.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723067.shtml",
+      "publishedAt": "2026-10-29T15:33:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722931.shtml",
-      "title": "河北涉县：太行深山长出“金连翘”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723066.shtml",
+      "title": "重庆已有1164支社区阳光基金 基层慈善网络加快形成",
       "category": "综合",
-      "summary": "图为10月29日，涉县一无柄连翘加工车间内，工人正将去完柄后的连翘装袋，准备色选。 杨彦忠 摄 图为10月29日，涉县一无柄连翘加工车间内，工人正在工作。 杨彦忠 摄 图为10月29日，涉县一无柄连翘加工车间内，工人正准备将连翘送入去柄机去柄。 杨彦忠 摄 图为10月29日，涉县辽城乡一家庭农场内，农户展示刚采摘的连翘鲜果。 杨彦忠 摄 图为10月29日，涉",
+      "summary": "中新网重庆10月29日电 (记者 钟旖)重庆“益企向善·社区慈善联合行动”推进会暨2026年社区阳光基金推进会29日在当地召开。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722931.shtml",
-      "publishedAt": "2026-10-29T12:17:25.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723066.shtml",
+      "publishedAt": "2026-10-29T15:23:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml",
-      "title": "国际最新研究：非洲水资源并未得到充分利用",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723065.shtml",
+      "title": "青海：“一口铜锅、一片青砖”讲述九十载长征精神的高原传承",
       "category": "综合",
-      "summary": "中新网北京10月29日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇环境科学论文指出，一项研究结果表明，非洲部分地区的用水紧张可能源于基础设施不到位，而不是缺少水源。这也说明，非洲的水资源并未得到充分利用。",
+      "summary": "中新网西宁10月29日电 (记者 潘雨洁)从纪念馆里的“一口铜锅”到校园内的“一片青砖”，29日，青海省果洛州班玛县亚尔堂乡王柔村党支部书记门卓、海东市循化县西路红军小学校长史可英讲述了红军精神在高原落地生根、代代传承的故事。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml",
-      "publishedAt": "2026-10-29T12:16:53.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723065.shtml",
+      "publishedAt": "2026-10-29T15:23:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722920.shtml",
-      "title": "中国红基会“天使之旅”—先心病患儿筛查行动走进广西大石山区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-29/10723064.shtml",
+      "title": "湖南新化一照相馆三代人守护红军合影 接力讲述长征故事",
       "category": "综合",
-      "summary": "图为活动启动仪式现场，广西中医药大学第二附属医院胸心血管外科主任范悦(右)代表医疗队接受中国红十字基金会副秘书长郭阳授旗。陈冠言 摄 图为专家为儿童听诊。陈冠言 摄 图为义诊活动现场。陈冠言 摄 图为义诊活动现场。陈冠言 摄 图为家长带孩子进行登记。陈冠言 摄 图为家长带孩子进行登记。陈冠言 摄 图为家长带孩子进行登记。陈冠言 摄 图为专家为儿童听诊。陈冠言",
+      "summary": "中新网娄底10月29日电 (周澜 罗忠 曾振科)清晨，湖南娄底新化县城青石街。一阵卷帘门的响动，撕开了巷子里的晨光。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722920.shtml",
-      "publishedAt": "2026-10-29T12:16:07.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723064.shtml",
+      "publishedAt": "2026-10-29T15:23:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-29/10722936.shtml",
-      "title": "加媒称加拿大和欧盟联合声明将删去“联席成员”表述",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723063.shtml",
+      "title": "“中国芯”鲜切花月季“文秀”“娇龙”正式上市",
       "category": "综合",
-      "summary": "中新网北京10月29日电 综合消息：欧盟-加拿大峰会定于当地时间29日至30日在加拿大蒙特利尔举行。加拿大媒体称，双方预计30日发表的联合声明将删除给予加拿大欧盟“联席成员”身份的表述，改为呼吁建立“更紧密的联系”。",
+      "summary": "中新网昆明10月29日电 (贝文)29日，国产鲜切花月季“文秀”“娇龙”正式上市，由云南自主培育、承载时代精神的两款“中国芯”鲜切花正式面向全国消费者销售。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722936.shtml",
-      "publishedAt": "2026-10-29T12:15:19.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723063.shtml",
+      "publishedAt": "2026-10-29T15:23:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-29/10722963.shtml",
-      "title": "伊朗伊斯兰革命卫队称捕获一架美军间谍无人机",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml",
+      "title": "天津：2030年数字经济综合发展水平位居全国第一梯队",
       "category": "综合",
-      "summary": "中新网10月29日电 据伊朗媒体报道，伊朗伊斯兰革命卫队当地时间29日发布声明称，在霍尔木兹海峡以西地区开展了一次进攻性电子战行动，成功控制一架美军间谍无人机，并使其安全降落。",
+      "summary": "中新网天津10月29日电(孙翼飞)记者在29日天津市政府新闻办举行的发布会上获悉，“十五五”时期，天津将高标准打造国家数字经济创新发展试验区，到2030年，数字经济综合发展水平位居全国第一梯队。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722963.shtml",
-      "publishedAt": "2026-10-29T12:13:18.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml",
+      "publishedAt": "2026-10-29T15:22:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/10-29/10722962.shtml",
-      "title": "爱康发布《2026版中国女性健康粉红报告》，粉红丝带点亮重庆大剧院守护“她健康”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/10-29/10723061.shtml",
+      "title": "广西“桂商兴桂”工程推动签约开工项目额超130亿元",
       "category": "综合",
-      "summary": "《2026版中国女性健康粉红报告》 10月29日，由重庆市妇女联合会指导，爱康集团、重庆市妇女儿童基金会联合主办的“粉力传递渝她同行”2026年度粉红丝带公益活动在重庆市举办。当晚，粉红丝带点亮重庆大剧院，璀璨的粉光临江绽放，在浩荡的长江之畔，汇聚起盛大而温柔的粉红力量，把对女性的关怀，也留在了这片夜色里。",
+      "summary": "中新网南宁10月29日电 (林浩)10月29日，广西壮族自治区党委统战部副部长、自治区工商联党组书记邓国忠介绍，广西“桂商兴桂”工程开展以来，广西聚焦粤港澳大湾区、长三角、京津冀、成渝等重点区域，依托异地广西商会以商招商，推动产业回乡、资本回流、项目回迁、人才回家，已推动签约开工建设项目45个，投资总额超130亿元人民币。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722962.shtml",
-      "publishedAt": "2026-10-29T12:12:16.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723061.shtml",
+      "publishedAt": "2026-10-29T15:16:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10722961.shtml",
-      "title": "第三十三届中国杨凌农高会闭幕 签约项目投资总额329.3亿元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723060.shtml",
+      "title": "重温长征“云南篇章” 云南各界共话走好新长征路",
       "category": "综合",
-      "summary": "今天(29日)，第三十三届中国杨凌农业高新科技成果博览会和2026上合组织农业博览会顺利闭幕。会期，共有来自50多个国家和地区的2200余家农业科研院所、农业企业参展参会，展览面积达到14万平方米，高水平展示国内外在核心种源、节水农业、农机装备、数智农业等方面的1.1万项最新科技成果和先进适用技术。",
+      "summary": "中新网昆明10月29日电 (陆希成)云南省纪念中国工农红军长征胜利90周年座谈会29日在昆明举行。来自云南党史研究、社科研究、干部教育、高校等领域的代表追忆红军转战云岭的峥嵘岁月，共话伟大长征精神的时代价值。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722961.shtml",
-      "publishedAt": "2026-10-29T12:06:20.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723060.shtml",
+      "publishedAt": "2026-10-29T15:16:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-29/10722840.shtml",
-      "title": "云南省第十三届少数民族传统体育运动会：凝神屏息 箭指靶心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723058.shtml",
+      "title": "公路织网串起广西横州茉莉花百亿产业",
       "category": "综合",
-      "summary": "图为女子民族传统弩立姿资格赛现场。中新社记者 刘冉阳 摄 图为女子民族传统弩立姿资格赛现场。中新社记者 刘冉阳 摄 图为女子民族传统弩立姿资格赛现场。中新社记者 刘冉阳 摄 图为女子民族传统弩立姿决赛现场，选手检查弩箭。中新社记者 刘冉阳 摄 图为女子民族传统弩立姿决赛现场。中新社记者 刘冉阳 摄",
+      "summary": "中新网南宁10月29日电 题：公路织网串起广西横州茉莉花百亿产业",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722840.shtml",
-      "publishedAt": "2026-10-29T12:05:32.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723058.shtml",
+      "publishedAt": "2026-10-29T15:16:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-29/10722945.shtml",
-      "title": "纪录片《百年巨匠—柳青》开机 以影像致敬人民作家柳青",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-29/10723057.shtml",
+      "title": "“GoGBA大湾区发展日”在港举行 助力企业把握大湾区新机遇",
       "category": "综合",
-      "summary": "中新网西安10月29日电 纪录片《百年巨匠—柳青》开机仪式28日在西安市长安区的柳青故居举行。该片以影像形式致敬人民作家柳青扎根大地、书写时代的文学人生。",
+      "summary": "中新网香港10月29日电 由香港特区政府政制及内地事务局粤港澳大湾区发展办公室和香港贸易发展局(简称“贸发局”)共同主办的“GoGBA大湾区发展日”29日在香港举行。活动以“‘十五五’大湾区新机遇”为主题，旨在协助参与企业了解国家“十五五”规划及香港第一个五年规划下的政策方向与商机，探讨如何善用粤港澳三地优势，以创新驱动发展，拓展国际市场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722945.shtml",
-      "publishedAt": "2026-10-29T12:03:12.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723057.shtml",
+      "publishedAt": "2026-10-29T15:15:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
-      "title": "山壁下、临江边，重庆彭水谋划为风险防控添三道“锁”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723056.shtml",
+      "title": "重庆开州发布城市投资机会清单 总投资超500亿元",
       "category": "综合",
-      "summary": "中新网重庆10月29日电 (罗永皓)重庆市彭水苗族土家族自治县地处武陵山区腹地，属于典型的喀斯特地貌。当地城市空间狭窄、用地条件复杂，百姓住房大多依山而建、临江而居。",
+      "summary": "中新网重庆10月29日电 (杨梦逸)29日，重庆市开州区在开州乡情大会暨第四届“开商大会”上发布开州区城市投资机会清单。清单覆盖产业新城、生态新城、枢纽新城、文艺新城、幸福新城五大板块，总投资超500亿元。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
-      "publishedAt": "2026-10-29T12:02:38.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723056.shtml",
+      "publishedAt": "2026-10-29T15:15:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722952.shtml",
-      "title": "2026年山西省食品安全宣传周启动 全链条监管守护“舌尖上的安全”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10723055.shtml",
+      "title": "新疆兵团优化妇女儿童发展环境 全面提升维权服务质效",
       "category": "综合",
-      "summary": "中新网忻州10月29日电 (记者 杨杰英)2026年山西省食品安全宣传周活动29日在忻州市启动，山西省副省长、省食药安委副主任景普秋出席并宣布活动启动。",
+      "summary": "中新网乌鲁木齐10月29日电 (史玉江)新疆生产建设兵团新闻办29日召开“十四五”期间新疆兵团妇女儿童事业发展成就新闻发布会。新疆兵团妇联党组书记、主席姜淑霞表示，五年来，新疆兵团推动构建覆盖妇女儿童生存、发展、保护全过程的政策保障网络，形成党委领导、政府主责、妇儿工委协调、多部门合作、全社会共同参与的妇女儿童工作机制，妇女儿童的获得感、幸福感、安全感显著增",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722952.shtml",
-      "publishedAt": "2026-10-29T12:01:40.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723055.shtml",
+      "publishedAt": "2026-10-29T15:15:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722951.shtml",
-      "title": "探访首批“全国守法普法示范县”：河北阜城让法治“触手可及”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-29/10723054.shtml",
+      "title": "伊朗称捕获一架美国间谍无人机",
       "category": "综合",
-      "summary": "中新网衡水10月29日电 (王夏菲)“审判长”宣布开庭，一场模拟法庭在校园中进行；同心会堂里，“法律明白人”培训正在开讲；京东大鼓的鼓板声里，正唱着法治故事……这样的普法场景，在河北省衡水市阜城县并不鲜见。",
+      "summary": "中新网北京10月29日电 据伊朗伊斯兰共和国通讯社报道，伊朗伊斯兰革命卫队29日称，他们在霍尔木兹海峡以西捕获了一架美国间谍无人机。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722951.shtml",
-      "publishedAt": "2026-10-29T12:01:36.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10723054.shtml",
+      "publishedAt": "2026-10-29T15:14:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-29/10722925.shtml",
-      "title": "张志军：两岸应携手推动中华文化更好走向世界",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723053.shtml",
+      "title": "海南金融资源加速向重点产业与特色领域倾斜",
       "category": "综合",
-      "summary": "中新社北京10月29日电 (记者 陈建新 李百加)29日在北京举行的第十二届中华文化论坛上，海峡两岸关系协会会长张志军致辞时表示，两岸同胞应发挥各自优势，破解传播壁垒，推动中华文化更好走向世界。",
+      "summary": "中新网海口10月29日电 (记者 王晓斌)今年截至9月末，海南全省本外币各项贷款余额达15073亿元。这超1.5万亿的金融“活水”流向了哪里？10月29日，中国人民银行海南省分行在三季度金融运行新闻发布会上披露的数据给出了答案：在总量平稳增长的同时，金融资源正加速向高新技术、绿色低碳、跨境贸易及热带特色农业等自贸港重点领域和薄弱环节倾斜。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722925.shtml",
-      "publishedAt": "2026-10-29T11:50:13.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723053.shtml",
+      "publishedAt": "2026-10-29T15:14:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,90 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722927.shtml",
-      "title": "香港与老挝签署全面性避免双重课税协定",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-29/10723052.shtml",
+      "title": "《全球责任无问西东：2026企业社会责任大趋势》发布",
       "category": "综合",
-      "summary": "中新社香港10月29日电 香港特区政府财政司司长陈茂波29日在香港与老挝副总理兼财政部部长山迪帕举行会议，共同见证香港特区政府署理财经事务及库务局局长陈浩濂与老挝财政部副部长苏里瓦·苏万纳宗坎（音译，Soulivath Souvannachoumkham）分别代表香港特区政府和老挝政府签署全面性避免双重课税协定。",
+      "summary": "中新网北京10月29日电(记者 陈溯)29日，中国新闻周刊在北京发布《全球责任无问西东：2026企业社会责任大趋势》(以下简称“报告”)，基于百余家企业的全球绿色实践，报告指出，全球责任正在进入兑现期。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722927.shtml",
-      "publishedAt": "2026-10-29T11:49:29.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723052.shtml",
+      "publishedAt": "2026-10-29T15:14:38.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad#0",
+      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
+      "category": "国际",
+      "summary": "這場造成168人死亡的大火發生將近一年後，香港特首李家超首次率領官員鞠躬道歉。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T14:47:36.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad#0",
+      "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
+      "category": "国际",
+      "summary": "專家稱，更好的激勵與監督可能減少浪費、提高政策可預期性，但更嚴厲的紀律約束也可能加深幹部不敢作為的局面，拖延支出和投資。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:01:39.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143091",
+      "title": "粮食署警告正成为现实：海地粮食不安全状况或达历史新高",
+      "category": "国际",
+      "summary": "世界粮食计划署周四表示，海地粮食安全形势持续恶化，预计2027年3月至6月将有635万人面临急性粮食不安全，人数或创历史新高。持续的暴力冲突、经济动荡、农业生产不振和大规模流离失所，加之厄尔尼诺现象的影响不断加剧，正使该国本已脆弱的粮食安全状况进一步恶化。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143091",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143090",
+      "title": "安理会聚焦新兴技术与海上安全，专家警告海运业已成为网络攻击高风险目标",
+      "category": "国际",
+      "summary": "人工智能、自动化系统、卫星遥感和网络技术正在深刻改变海上安全格局，在带来机遇的同时也产生新的风险和治理挑战。为此，安理会周四就&nbsp;“新兴技术与海上安全”议题举行了高级别公开辩论。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143090",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -604,23 +691,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad#0",
-      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
-      "category": "国际",
-      "summary": "這場造成168人死亡的大火發生將近一年後，香港特首李家超首次率領官員鞠躬道歉。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T09:01:28.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -747,7 +817,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#1",
       "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
       "category": "国际",
       "summary": "劉延東的逝世提醒外界一個現象：從吳儀、劉延東到孫春蘭，中共中央政治局曾連續20年保持至少一名女性委員，直到2022年「二十大」中斷，權力核心再無女性。",
@@ -760,6 +830,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143086",
+      "title": "联合国毒罪办：阿富汗鸦片生产反弹，产量增至上年五倍",
+      "category": "国际",
+      "summary": "联合国毒品和犯罪问题办公室周四发布的最新调查报告显示，2026年，阿富汗罂粟种植面积同比增长330%，鸦片产量同比增长400%，达到上一年的五倍。这是该国2022年实施毒品禁令以来，罂粟种植和鸦片生产首次出现显著回升。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143086",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -907,7 +995,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#4",
       "title": "官方統計：中國「養老」人數首次超過「養小」",
       "category": "国际",
       "summary": "分析人士指出，最新數字標誌著中國應對人口老化的重要里程碑。",
@@ -942,7 +1030,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#1",
       "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
       "category": "国际",
       "summary": "因在節目中以「獨裁者」形容已故中國領導人毛澤東，法國足球明星基利安·姆巴佩（麥巴比）近日在中國引發爭議，多家中國大型品牌先後宣佈終止與其合作。姆巴佩發表道歉聲明也不被中國網民接納。",
@@ -990,23 +1078,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad#1",
-      "title": "「鞠躬不僅僅是一種問候」：日本肢體語言中不言而喻的規則",
-      "category": "国际",
-      "summary": "從招手示意某人過來，到示意結帳，學習常見的日本手勢能幫助你在日本的社交場合中不發一語也能應對自如。我們的專家將教你如何做到。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:47:51.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1232,23 +1303,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T08:05:52.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad#4",
-      "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
-      "category": "国际",
-      "summary": "特朗普承諾封鎖邊境及大規模遣返移民後重返白宮。這兩項標誌性政策如今取得了甚麼成效，又帶來哪些影響？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T00:17:41.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1550,60 +1604,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143057",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143056",
-      "title": "联合国日：在动荡时代重申团结与合作的价值",
-      "category": "国际",
-      "summary": "当今世界正经历地缘政治紧张局势加剧、气候变化影响扩大以及新兴技术快速发展的深刻变革。在充满不确定性的国际环境中，秘书长古特雷斯在联合国日（10月24日）发表致辞强调，现在比以往任何时候都更加需要联合国，也更加需要对话、合作与团结。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143056",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143055",
-      "title": "国际原子能机构：坚持外交与合作，推动核能服务和平与发展",
-      "category": "国际",
-      "summary": "国际原子能机构总干事格罗西（Rafael Mariano Grossi）周四向联合国大会第81届会议上提交了国际原子能机构的2025年度工作报告。他表示，在国际局势日益碎片化、冲突频发和国家间分歧扩大的背景下，国际合作的重要性更加凸显，而联合国及其专门机构仍在持续为和平与发展作出不可替代的贡献。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143055",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143054",
-      "title": "苏丹无人机袭击激增加剧人道危机，妇女和女童持续承受磨难",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克（Volker Türk）周五发表声明，强烈谴责本月苏丹各地无人机袭击升级，以及由此给科尔多凡地区、达尔富尔地区、青尼罗州、喀土穆州等地平民造成的严重后果。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143054",
       "publishedAt": "2026-10-23T12:00:00.000Z",
       "tags": [
         "国际",

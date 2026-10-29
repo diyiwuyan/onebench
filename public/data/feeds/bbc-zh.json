@@ -5,11 +5,25 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad#0",
+      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
+      "meta": "BBC 中文 · 2026/10/29",
+      "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T16:19:30.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad#0",
       "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
       "meta": "BBC 中文 · 2026/10/29",
       "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T09:01:28.000Z"
+      "publishedAt": "2026-10-29T14:47:36.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad#0",
+      "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
+      "meta": "BBC 中文 · 2026/10/29",
+      "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:01:39.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad#0",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-10-28T16:16:36.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#1",
       "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
@@ -54,14 +68,14 @@
       "publishedAt": "2026-10-28T08:27:55.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad#4",
       "title": "官方統計：中國「養老」人數首次超過「養小」",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/cmzxl4xq52dxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T08:26:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#1",
       "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
@@ -73,13 +87,6 @@
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-28T02:45:08.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad#1",
-      "title": "「鞠躬不僅僅是一種問候」：日本肢體語言中不言而喻的規則",
-      "meta": "BBC 中文 · 2026/10/28",
-      "url": "https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:47:51.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c623dz784403o/trad#1",
@@ -108,13 +115,6 @@
       "meta": "BBC 中文 · 2026/10/27",
       "url": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T08:05:52.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad#4",
-      "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
-      "meta": "BBC 中文 · 2026/10/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T00:17:41.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:01:05.923Z",
+  "updatedAt": "2026-10-29T19:38:09.938Z",
   "provider": "OneBench 公共资讯快照"
 }
