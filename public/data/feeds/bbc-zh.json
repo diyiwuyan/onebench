@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmkgq9vzgkjlo/trad#0",
+      "title": "燃油危機之下，中國電動機車風行南亞",
+      "meta": "BBC 中文 · 2026/10/29",
+      "url": "https://www.bbc.com/zhongwen/articles/cmkgq9vzgkjlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T00:24:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad#0",
+      "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
+      "meta": "BBC 中文 · 2026/10/29",
+      "url": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T00:23:07.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad#0",
       "title": "西班牙列車相撞至少68死：我們目前已知甚麼？",
       "meta": "BBC 中文 · 2026/10/28",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-10-28T05:27:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad#1",
       "title": "台灣地方選舉五大看點：「洋流」能否撼動台北？誰在卡位2028？",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
@@ -54,7 +68,7 @@
       "publishedAt": "2026-10-28T00:47:51.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c623dz784403o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c623dz784403o/trad#1",
       "title": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad?at_medium=RSS&at_campaign=rss",
@@ -68,7 +82,7 @@
       "publishedAt": "2026-10-28T00:47:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad#4",
       "title": "「盧拉軍團」的WhatsApp聊天群如何扭轉巴西選情",
       "meta": "BBC 中文 · 2026/10/27",
       "url": "https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad?at_medium=RSS&at_campaign=rss",
@@ -103,13 +117,6 @@
       "publishedAt": "2026-10-26T15:03:14.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad#1",
-      "title": "中共五中全會開幕：十三年反腐後，如何繼續「從嚴治黨」？",
-      "meta": "BBC 中文 · 2026/10/26",
-      "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T05:07:40.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#4",
       "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
       "meta": "BBC 中文 · 2026/10/26",
@@ -136,13 +143,6 @@
       "meta": "BBC 中文 · 2026/10/22",
       "url": "https://www.bbc.com/zhongwen/watch/c6eq32qzr0x8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T09:31:01.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad#4",
-      "title": "《決勝時刻》新遊戲設想朝鮮入侵韓國，真的會發生嗎？",
-      "meta": "BBC 中文 · 2026/10/22",
-      "url": "https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T08:44:40.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-28T22:35:04.477Z",
+  "updatedAt": "2026-10-29T05:48:05.074Z",
   "provider": "OneBench 公共资讯快照"
 }

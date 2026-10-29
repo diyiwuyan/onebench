@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143089",
+      "title": "苏丹平民面临无人机袭击与任意逮捕双重威胁",
+      "meta": "联合国新闻 · 2026/10/28",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143089",
+      "publishedAt": "2026-10-28T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143088",
       "title": "粮食署新任执行主任：结束冲突是缓解全球饥饿问题的关键",
       "meta": "联合国新闻 · 2026/10/28",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143054",
       "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143053",
-      "title": "法国报告首例沙蒙达病毒人类感染病例，患者已死亡",
-      "meta": "联合国新闻 · 2026/10/22",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143053",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-28T22:35:04.477Z",
+  "updatedAt": "2026-10-29T05:48:05.074Z",
   "provider": "OneBench 公共资讯快照"
 }
