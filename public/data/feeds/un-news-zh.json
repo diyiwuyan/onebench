@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143092",
+      "title": "全球生态系统恢复取得进展，实现2030年目标仍需加快行动",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143092",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143091",
       "title": "粮食署警告正成为现实：海地粮食不安全状况或达历史新高",
       "meta": "联合国新闻 · 2026/10/29",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/23",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143058",
       "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143057",
-      "title": "也门塔伊兹市遭围困，人道主义援助受阻引发担忧",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143057",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T19:38:09.938Z",
+  "updatedAt": "2026-10-29T23:56:37.652Z",
   "provider": "OneBench 公共资讯快照"
 }
