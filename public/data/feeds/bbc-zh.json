@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad#0",
+      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+      "meta": "BBC 中文 · 2026/10/30",
+      "url": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T13:23:25.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad#0",
       "title": "台灣新北市長選戰：「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下藍綠關鍵一城？",
       "meta": "BBC 中文 · 2026/10/30",
@@ -61,7 +68,7 @@
       "publishedAt": "2026-10-29T14:47:36.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad#1",
       "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
       "meta": "BBC 中文 · 2026/10/29",
       "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +89,7 @@
       "publishedAt": "2026-10-29T00:23:07.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#4",
       "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
@@ -136,13 +143,6 @@
       "meta": "BBC 中文 · 2026/10/26",
       "url": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T03:26:26.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad#4",
-      "title": "中國市場放緩，英國傳統精英私立學校紛紛進軍印度",
-      "meta": "BBC 中文 · 2026/10/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T00:18:25.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-30T12:56:00.965Z",
+  "updatedAt": "2026-10-30T19:22:09.683Z",
   "provider": "OneBench 公共资讯快照"
 }
