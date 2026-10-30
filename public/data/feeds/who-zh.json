@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:4b6a5619-f805-46cc-b666-2a466330fd88",
+      "title": "公布世卫组织总干事候选人",
+      "meta": "世界卫生组织 · 2026/10/29",
+      "url": "https://www.who.int/zh/news-room/29-10-2026-announcement-of-candidates-for-the-position-of-who-director-general",
+      "publishedAt": "2026-10-29T10:18:03.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:0280cffd-2ae0-4a26-9e5d-dbd21906c3db",
       "title": "启动新的全球框架，监测极端高温对孕妇、新生儿和儿童日益加剧的健康风险",
       "meta": "世界卫生组织 · 2026/10/21",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/4",
       "url": "https://www.who.int/zh/news-room/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
       "publishedAt": "2026-09-04T09:26:36.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:9a1244f0-c848-4e67-83f5-12a94b5816fb",
-      "title": "世卫组织确认东帝汶消除沙眼这一公共卫生问题",
-      "meta": "世界卫生组织 · 2026/9/3",
-      "url": "https://www.who.int/zh/news-room/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem",
-      "publishedAt": "2026-09-03T08:47:07.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T23:56:37.652Z",
+  "updatedAt": "2026-10-30T05:49:35.264Z",
   "provider": "OneBench 公共资讯快照"
 }
