@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143104",
+      "title": "冲突、埃博拉疫情和气候冲击加剧刚果（金）饥饿危机",
+      "meta": "联合国新闻 · 2026/10/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143104",
+      "publishedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143103",
+      "title": "厄尔尼诺加剧东非裂谷热疫情风险",
+      "meta": "联合国新闻 · 2026/10/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143103",
+      "publishedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143101",
       "title": "人权高专办：加沙民众正深陷反复流离失所的“梦魇”",
       "meta": "联合国新闻 · 2026/10/30",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143071",
       "publishedAt": "2026-10-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143074",
-      "title": "约旦河西岸：希伯伦镇压行动致数千人流离失所，人权高专警告存在种族清洗风险",
-      "meta": "联合国新闻 · 2026/10/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143074",
-      "publishedAt": "2026-10-26T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143073",
-      "title": "联合国警告：去年逾2.4万名儿童在冲突中遭严重侵害，创历史新高",
-      "meta": "联合国新闻 · 2026/10/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143073",
-      "publishedAt": "2026-10-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-30T19:22:09.683Z",
+  "updatedAt": "2026-10-30T23:46:46.403Z",
   "provider": "OneBench 公共资讯快照"
 }

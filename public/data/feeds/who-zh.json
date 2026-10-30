@@ -12,13 +12,6 @@
       "publishedAt": "2026-10-29T10:18:03.000Z"
     },
     {
-      "id": "who-zh-urn:uuid:e8c9cbfe-d565-47c3-b86d-6b121fd08373",
-      "title": "世卫组织与ENHYPEN组合携手激励全球年轻献血者",
-      "meta": "世界卫生组织 · 2026/10/23",
-      "url": "https://www.who.int/zh/news-room/23-10-2026-who-and-enhypen-join-efforts-to-inspire-young-blood-donors-globally",
-      "publishedAt": "2026-10-23T08:40:00.000Z"
-    },
-    {
       "id": "who-zh-urn:uuid:0280cffd-2ae0-4a26-9e5d-dbd21906c3db",
       "title": "启动新的全球框架，监测极端高温对孕妇、新生儿和儿童日益加剧的健康风险",
       "meta": "世界卫生组织 · 2026/10/21",
@@ -143,8 +136,15 @@
       "meta": "世界卫生组织 · 2026/9/7",
       "url": "https://www.who.int/zh/news-room/09-09-2026-dr-vanessa-kerry-appointed-to-new-role-as-who-director-general-s-special-envoy-for-health-resilience",
       "publishedAt": "2026-09-07T13:49:07.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:60c65c54-0d10-401e-be66-5b3e0b272ea0",
+      "title": "世卫组织验证不丹已消除犬传人狂犬病",
+      "meta": "世界卫生组织 · 2026/9/4",
+      "url": "https://www.who.int/zh/news-room/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
+      "publishedAt": "2026-09-04T09:26:36.000Z"
     }
   ],
-  "updatedAt": "2026-10-30T19:22:09.683Z",
+  "updatedAt": "2026-10-30T23:46:46.403Z",
   "provider": "OneBench 公共资讯快照"
 }
