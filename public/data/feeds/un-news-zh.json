@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143097",
+      "title": "【子午播报】2026年10月30日",
+      "meta": "联合国新闻 · 2026/10/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143097",
+      "publishedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143096",
+      "title": "难民署：四个受战争影响国家至少900万人急需过冬援助",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143096",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143094",
+      "title": "人权专家：国际碳信用机制不应让损害气候的经济主体获益",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143094",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143095",
+      "title": "俄罗斯无人机袭击乌克兰火车站，造成至少13名平民死亡",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143095",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143093",
+      "title": "人权专家警告：有毒污染仍是当今最严峻的人权挑战之一",
+      "meta": "联合国新闻 · 2026/10/29",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143093",
+      "publishedAt": "2026-10-29T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143092",
       "title": "全球生态系统恢复取得进展，实现2030年目标仍需加快行动",
       "meta": "联合国新闻 · 2026/10/29",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/10/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064",
       "publishedAt": "2026-10-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143062",
-      "title": "【世界进行时】2026年10月23日",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143062",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143061",
-      "title": "秘书长谴责约旦卡拉克省教堂恐袭，呼吁将肇事者绳之以法",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143061",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143060",
-      "title": "约旦河西岸：希伯伦致命袭击后以色列实施封锁，古特雷斯深表担忧",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143060",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143059",
-      "title": "刚果（金）埃博拉疫情持续蔓延，肯尼亚加强防控措施",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143059",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143058",
-      "title": "联合国敦促各国消除性别刻板印象，防范人工智能助长性别暴力",
-      "meta": "联合国新闻 · 2026/10/23",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143058",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-30T05:49:35.264Z",
+  "updatedAt": "2026-10-30T12:56:00.965Z",
   "provider": "OneBench 公共资讯快照"
 }
