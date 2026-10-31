@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:e712e838-4689-4e57-b54c-200eb19a2578",
+      "title": "世卫组织总干事谭德塞博士就西班牙列车事故发表的声明",
+      "meta": "世界卫生组织 · 2026/10/29",
+      "url": "https://www.who.int/zh/news-room/28-10-2026-statement-by-who-director-general-dr-tedros-adhanom-ghebreyesus-concerning-the-train-accident-in-spain",
+      "publishedAt": "2026-10-29T16:04:20.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:4b6a5619-f805-46cc-b666-2a466330fd88",
       "title": "公布世卫组织总干事候选人",
       "meta": "世界卫生组织 · 2026/10/29",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/14",
       "url": "https://www.who.int/zh/news-room/14-09-2026-chile-becomes-first-country-in-south-america-validated-for-eliminating-dog-transmitted-rabies-as-a-public-health-problem",
       "publishedAt": "2026-09-14T11:47:04.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:25eadee2-39bc-4fed-99f6-97f985fc516e",
-      "title": "Vanessa Kerry博士被任命为世卫组织总干事卫生韧性特使",
-      "meta": "世界卫生组织 · 2026/9/7",
-      "url": "https://www.who.int/zh/news-room/09-09-2026-dr-vanessa-kerry-appointed-to-new-role-as-who-director-general-s-special-envoy-for-health-resilience",
-      "publishedAt": "2026-09-07T13:49:07.000Z"
     }
   ],
-  "updatedAt": "2026-10-31T05:41:01.724Z",
+  "updatedAt": "2026-10-31T12:29:48.140Z",
   "provider": "OneBench 公共资讯快照"
 }

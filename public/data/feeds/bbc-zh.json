@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad#0",
+      "title": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
+      "meta": "BBC 中文 · 2026/10/31",
+      "url": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T07:55:00.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad#0",
+      "title": "朝鮮「精英」黑客組織是誰？為何成為幣安63億美元盜竊案的頭號嫌疑者？",
+      "meta": "BBC 中文 · 2026/10/31",
+      "url": "https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T07:02:07.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad#0",
       "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
       "meta": "BBC 中文 · 2026/10/30",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-10-30T11:31:47.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad#1",
       "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
       "meta": "BBC 中文 · 2026/10/30",
       "url": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
@@ -40,7 +54,7 @@
       "publishedAt": "2026-10-30T05:40:19.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad#1",
       "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
       "meta": "BBC 中文 · 2026/10/30",
       "url": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,13 +89,6 @@
       "publishedAt": "2026-10-29T13:01:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad#1",
-      "title": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？",
-      "meta": "BBC 中文 · 2026/10/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T07:36:21.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad#1",
       "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
       "meta": "BBC 中文 · 2026/10/29",
@@ -103,7 +110,7 @@
       "publishedAt": "2026-10-28T08:26:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#4",
       "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
       "meta": "BBC 中文 · 2026/10/28",
       "url": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
@@ -129,13 +136,6 @@
       "meta": "BBC 中文 · 2026/10/27",
       "url": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T08:05:52.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad#4",
-      "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
-      "meta": "BBC 中文 · 2026/10/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T15:03:14.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-31T05:41:01.724Z",
+  "updatedAt": "2026-10-31T12:29:48.140Z",
   "provider": "OneBench 公共资讯快照"
 }
