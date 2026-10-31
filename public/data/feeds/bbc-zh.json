@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad#2",
+      "title": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
+      "meta": "BBC 中文 · 2026/10/31",
+      "url": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T13:20:00.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad#0",
       "title": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
       "meta": "BBC 中文 · 2026/10/31",
@@ -187,13 +194,6 @@
       "publishedAt": "2026-10-16T08:57:18.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad#2",
-      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
-      "meta": "BBC 中文 · 2026/10/15",
-      "url": "https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T12:46:44.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad#3",
       "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
       "meta": "BBC 中文 · 2026/10/5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-10-31T12:29:48.140Z",
+  "updatedAt": "2026-10-31T18:33:28.605Z",
   "provider": "OneBench 公共资讯快照"
 }
