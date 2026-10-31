@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143108",
+      "title": "【世界进行时】2026年10月30日",
+      "meta": "联合国新闻 · 2026/10/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143108",
+      "publishedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143107",
+      "title": "逾130万阿富汗人返乡，困难家庭面临过冬考验",
+      "meta": "联合国新闻 · 2026/10/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143107",
+      "publishedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143106",
+      "title": "乌克兰：奥列什基停火为平民带来希望，但救援车辆仍遭袭击",
+      "meta": "联合国新闻 · 2026/10/30",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143106",
+      "publishedAt": "2026-10-30T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143104",
       "title": "冲突、埃博拉疫情和气候冲击加剧刚果（金）饥饿危机",
       "meta": "联合国新闻 · 2026/10/30",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/10/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143078",
       "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143077",
-      "title": "原子能机构向安理会通报伊朗核问题：恢复核查是外交解决的关键",
-      "meta": "联合国新闻 · 2026/10/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143077",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143076",
-      "title": "世界气象组织：创纪录的二氧化碳浓度将对人类产生的影响将长达数世纪",
-      "meta": "联合国新闻 · 2026/10/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143076",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143071",
-      "title": "专访｜联合国官员谈朝鲜人权现状：朝鲜正在变化，但孤立加剧令人担忧",
-      "meta": "联合国新闻 · 2026/10/26",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143071",
-      "publishedAt": "2026-10-26T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-30T23:46:46.403Z",
+  "updatedAt": "2026-10-31T05:41:01.724Z",
   "provider": "OneBench 公共资讯快照"
 }
