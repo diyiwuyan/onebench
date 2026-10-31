@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T18:33:28.605Z",
-  "expiresAt": "2026-11-01T00:33:28.605Z",
+  "generatedAt": "2026-10-31T23:23:54.237Z",
+  "expiresAt": "2026-11-01T05:23:54.237Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-01/10724127.shtml",
+      "title": "11月1日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-01/10724127.shtml",
+      "publishedAt": "2026-10-31T23:05:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
+      "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
+      "category": "综合",
+      "summary": "11月1日，强制性国家标准《中小学校教室采光和照明卫生标准》正式实施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
+      "publishedAt": "2026-10-31T22:39:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+      "category": "综合",
+      "summary": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+      "publishedAt": "2026-10-31T22:29:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724124.shtml",
+      "title": "北控队主场力克新疆队 取得CBA常规赛两连胜",
+      "category": "综合",
+      "summary": "中新社北京11月1日电 (记者 国璇)10月31日晚在北京国家奥林匹克体育中心体育馆举行的2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第七轮较量中，主场作战的北京控股队(简称“北控队”)以106:84力克新疆广汇能源队(简称“新疆队”)，取得常规赛两连胜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724124.shtml",
+      "publishedAt": "2026-10-31T22:29:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
       "title": "泰国着手制定第四个国家旅游发展计划",
@@ -500,78 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-31/10724089.shtml",
-      "title": "130名持马来西亚护照人员涉嫌网络诈骗在巴基斯坦被捕",
-      "category": "综合",
-      "summary": "中新网吉隆坡10月31日电 据马来西亚媒体消息，马来西亚警方证实，130名持马来西亚护照人员因涉嫌参与网络诈骗犯罪，在巴基斯坦拉瓦尔品第被当地执法部门抓获。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724089.shtml",
-      "publishedAt": "2026-10-31T13:48:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-31/10724088.shtml",
-      "title": "“同唱友谊歌”——2026中越金曲音乐盛典在河内举行",
-      "category": "综合",
-      "summary": "中新网南宁10月31日电 (韦佳秀)第八届中国—东盟视听周系列活动之“同唱友谊歌”——2026中越金曲音乐盛典30日在越南河内举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10724088.shtml",
-      "publishedAt": "2026-10-31T13:48:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-31/10724086.shtml",
-      "title": "2026年亚太地区人口老龄化会议在浙江杭州举办",
-      "category": "综合",
-      "summary": "中新网杭州10月31日电(张煜欢)10月26日至30日，以“包容、创新、可持续：人口老龄化的共同议程”为主题的2026年亚太地区人口老龄化会议在浙江省杭州市举办。会议立足亚太区域老龄化发展实际，融通中外老龄治理智慧，探索积极应对人口老龄化的合作路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724086.shtml",
-      "publishedAt": "2026-10-31T13:47:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
-      "title": "湖南株洲以“市+集+秀”激活时尚消费新生态",
-      "category": "综合",
-      "summary": "中新网株洲10月31日电 (罗金鹏)10月31日，湖南株洲“芦淞服饰·疯狂星期六”活动正式启动。这场覆盖每周六的主题消费活动，通过“市场延时营业+敢时髦集市+文体活动”三大板块深度联动，打造集购物、打卡、看秀、休闲于一体的城市时尚消费新场景。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
-      "publishedAt": "2026-10-31T13:46:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad#2",
       "title": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
       "category": "国际",
@@ -585,6 +585,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143105",
+      "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
+      "category": "国际",
+      "summary": "应索马里联邦政府请求，联合国索马里过渡时期援助团于10月31日完成为期两年的过渡安排，正式结束任务。自1995年以来，联合国先后通过多个政治特派团，支持索马里恢复国家治理、重建机构、推进和平与和解。此次结束任务后，相关工作将由索马里有关部门和联合国驻地机构继续承担。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143105",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1620,24 +1638,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143079",
-      "publishedAt": "2026-10-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143078",
-      "title": "全球超八成家政工人未能获得有效保障",
-      "category": "国际",
-      "summary": "国际劳工组织最新估计显示，全球15岁及以上从事家政工作的人员约有8000万人，比2019年增加440万人。尽管许多国家在推动家政工作正规化方面取得进展，全球仍有超过八成家政工人处于非正规就业状态，往往得不到有效的劳动和社会保障。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143078",
       "publishedAt": "2026-10-27T12:00:00.000Z",
       "tags": [
         "国际",

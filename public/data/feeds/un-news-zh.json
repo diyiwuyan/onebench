@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143105",
+      "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
+      "meta": "联合国新闻 · 2026/10/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143105",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143108",
       "title": "【世界进行时】2026年10月30日",
       "meta": "联合国新闻 · 2026/10/30",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143079",
       "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143078",
-      "title": "全球超八成家政工人未能获得有效保障",
-      "meta": "联合国新闻 · 2026/10/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143078",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-31T18:33:28.605Z",
+  "updatedAt": "2026-10-31T23:23:54.237Z",
   "provider": "OneBench 公共资讯快照"
 }
