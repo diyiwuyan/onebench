@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T18:56:25.459Z",
-  "expiresAt": "2026-11-02T00:56:25.459Z",
+  "generatedAt": "2026-11-01T23:35:41.356Z",
+  "expiresAt": "2026-11-02T05:35:41.356Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -11,8 +11,9 @@
     },
     {
       "id": "sspai",
-      "ok": true,
-      "itemCount": 10
+      "ok": false,
+      "itemCount": 0,
+      "error": "fetch failed"
     },
     {
       "id": "un-news-zh",
@@ -31,6 +32,186 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-02/10724510.shtml",
+      "title": "习言道｜全面从严治党关键在严",
+      "category": "综合",
+      "summary": "中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。全会听取和讨论了习近平受中央政治局委托所作的工作报告，审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。习近平就《决定（讨论稿）》向全会作了说明。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724510.shtml",
+      "publishedAt": "2026-11-01T23:30:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+      "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
+      "category": "综合",
+      "summary": "本报记者 赵丽",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+      "publishedAt": "2026-11-01T23:28:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10724532.shtml",
+      "title": "行测、性格测试、智力测评、AI面试……找工作怎么成了无尽的“刷题闯关”？",
+      "category": "综合",
+      "summary": "行测、性格测试、智力测评、AI面试……",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724532.shtml",
+      "publishedAt": "2026-11-01T23:27:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-02/10724531.shtml",
+      "title": "伊朗革命卫队情报机构宣布逮捕一名间谍",
+      "category": "综合",
+      "summary": "中新网11月2日电 据伊朗媒体报道，当地时间11月1日，伊朗革命卫队情报机构宣布逮捕一名间谍。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724531.shtml",
+      "publishedAt": "2026-11-01T23:22:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
+      "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
+      "category": "综合",
+      "summary": "中新网11月2日电 据美国Axios新闻网报道，以色列和美国消息人士透露，美国总统特朗普与以色列总理内塔尼亚胡就美国与伊朗的谈判进行了通话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
+      "publishedAt": "2026-11-01T23:04:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-02/10724529.shtml",
+      "title": "11月2日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724529.shtml",
+      "publishedAt": "2026-11-01T22:59:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
+      "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
+      "category": "综合",
+      "summary": "中新社莫斯科11月1日电 俄罗斯联邦安全局11月1日通报表示，在对美国提供的关于莫斯科察里津诺庄园可能发生恐怖袭击的情报进行调查过程中，拘捕了一名俄罗斯未成年人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
+      "publishedAt": "2026-11-01T22:55:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-02/10724525.shtml",
+      "title": "中外顶尖剑客聚首西安 格鲁吉亚与美国选手分获佩剑、花剑冠军",
+      "category": "综合",
+      "summary": "中新社西安11月2日电 (记者 张一辰)2026长安剑客国际击剑精英赛11月1日晚间在西安拉开帷幕，海内外击剑高手齐聚古城，于剑道之上交锋。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724525.shtml",
+      "publishedAt": "2026-11-01T22:54:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
+      "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
+      "category": "综合",
+      "summary": "如果把地球冷冻一下，温室效应会得到缓解吗？汽油在水面上为什么是彩色的？微波炉能用“微波”加热食物，那“微波”能不能用来制冷……我们每天都有对这个世界的好奇，中国科学院物理研究所和总台中国之声节目《新闻超链接》为您寻找可能的答案，与您一起探索世界。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
+      "publishedAt": "2026-11-01T22:42:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-02/10724528.shtml",
+      "title": "美国佛州一飞机坠毁并爆炸 机上9人全部遇难",
+      "category": "综合",
+      "summary": "中新网11月2日电 据美媒报道，当地时间1日，一架载有9人的公务机在美国佛罗里达州棕榈滩县一处居民区坠毁，机上人员全部遇难。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724528.shtml",
+      "publishedAt": "2026-11-01T22:42:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
       "title": "“欧佩克+”主要产油国决定12月维持产量不变",
@@ -382,186 +563,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
       "publishedAt": "2026-11-01T13:16:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
-      "title": "新华社受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和习近平总书记所作的《关于〈中共中央关于持之以恒推进全面从严治党若干重大问题的决定〉的说明》",
-      "category": "综合",
-      "summary": "新华社北京11月1日电 新华社11月1日受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和中共中央总书记习近平所作的《关于〈中共中央关于持之以恒推进全面从严治党若干重大问题的决定〉的说明》。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
-      "publishedAt": "2026-11-01T13:10:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724489.shtml",
-      "title": "澜湄六国50余名青年云南“香遇普洱”",
-      "category": "综合",
-      "summary": "11月1日，参加活动的青年代表学习普洱茶文化。中新社记者 黄兴鸿 摄 11月1日，参加活动的青年代表学习彝族烤茶。中新社记者 黄兴鸿 摄 11月1日，茶艺师让参加活动的青年代表感受彝族烤茶的香气。中新社记者 黄兴鸿 摄 11月1日，茶艺师指导一名青年代表进行彝族烤茶。中新社记者 黄兴鸿 摄 11月1日，参加活动的青年代表学习茶文化。中新社记者 黄兴鸿 摄 1",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724489.shtml",
-      "publishedAt": "2026-11-01T13:05:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724488.shtml",
-      "title": "三亚湾：椰风海韵醉游人",
-      "category": "综合",
-      "summary": "11月1日，海南省三亚市三亚湾椰影摇曳、碧海澄澈。不少市民游客漫步椰梦长廊，踏浪观海，邂逅橘子海落日，伴着徐徐海风，沉醉于热带滨海独有的浪漫风光。图为椰影婆娑，市民游客驻足海边静赏黄昏海景。中新社记者 骆云飞 摄 11月1日，海南省三亚市三亚湾椰影摇曳、碧海澄澈。不少市民游客漫步椰梦长廊，踏浪观海，邂逅橘子海落日，伴着徐徐海风，沉醉于热带滨海独有的浪漫风光。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724488.shtml",
-      "publishedAt": "2026-11-01T13:02:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-01/10724490.shtml",
-      "title": "金荣花、杨扬被聘为“妈祖文化全球推广大使”",
-      "category": "综合",
-      "summary": "中新网莆田11月1日电 (叶秋云)11月1日，第十一届世界妈祖文化论坛开幕式在莆田湄洲岛举行。开幕式上同期举行妈祖文化全球推广大使聘任仪式，中国气象局国家气象中心党委书记、主任金荣花和中国首位冬奥会金牌获得者、联合国难民署亲善大使杨扬被聘为“妈祖文化全球推广大使”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724490.shtml",
-      "publishedAt": "2026-11-01T12:54:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
-      "title": "第十三届中韩住宅与城市合作会议在福州举行",
-      "category": "综合",
-      "summary": "中新网福州11月1日电 (叶艺琳)第十三届中韩住宅与城市合作会议1日下午在福州海峡国际会展中心举行。中韩两国相关部门人士、行业专家及企业代表齐聚一堂，共话住房保障发展、共商城市合作可持续发展路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
-      "publishedAt": "2026-11-01T12:53:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
-      "title": "孙颖莎战胜王艺迪晋级决赛 将与蒯曼争夺冠军",
-      "category": "综合",
-      "summary": "北京时间11月1日，2026年WTT蒙彼利埃冠军赛继续进行。在女单半决赛中，国乒选手孙颖莎战胜队友王艺迪 ，晋级决赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
-      "publishedAt": "2026-11-01T12:53:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
-      "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
-      "category": "综合",
-      "summary": "记者今天了解到，市场监管总局发布《智能制造 废钢智能工厂设计要求》《智能制造 钢铁智能工厂数字孪生系统技术要求》《智能制造 钢铁工业多基地制造资源协同管控系统技术要求》三项国家标准，分别锚定废钢工厂、数字孪生、多基地协同等关键环节，支撑构建钢铁先进制造技术要求体系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
-      "publishedAt": "2026-11-01T12:51:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724414.shtml",
-      "title": "多国市长福州共话高质量推进城市更新",
-      "category": "综合",
-      "summary": "中新社福州11月1日电 (记者 闫旭)新时代城市高质量发展市长论坛11月1日在福州举行。作为2026年世界城市日全球主场活动的主论坛，该论坛吸引了海内外百余名城市市长、国际组织代表、专家学者参加。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724414.shtml",
-      "publishedAt": "2026-11-01T12:44:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724487.shtml",
-      "title": "阿曼苏丹海赛姆抵达北京开始访华",
-      "category": "综合",
-      "summary": "新华社北京11月1日电(记者赵瀚泽)应国家主席习近平邀请，阿曼苏丹海赛姆11月1日抵达北京，开始对中国进行为期两天的国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724487.shtml",
-      "publishedAt": "2026-11-01T12:42:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724484.shtml",
-      "title": "报告预计，2026年中国大宗商品价格指数均值为132.1点",
-      "category": "综合",
-      "summary": "中新网北京11月1日电 (记者 阮煜琳)中国物流与采购联合会1日在2026大宗商品国际化发展论坛上发布《中国大宗商品价格指数报告(2026)》。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724484.shtml",
-      "publishedAt": "2026-11-01T12:38:32.000Z",
       "tags": [
         "国内",
         "社会",
