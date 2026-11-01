@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:25:01.141Z",
-  "expiresAt": "2026-11-01T19:25:01.141Z",
+  "generatedAt": "2026-11-01T18:56:25.459Z",
+  "expiresAt": "2026-11-02T00:56:25.459Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,366 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+      "title": "“欧佩克+”主要产油国决定12月维持产量不变",
+      "category": "综合",
+      "summary": "石油输出国组织(欧佩克)11月1日发表声明说，7个“欧佩克+”主要产油国决定12月继续维持当前原油产量不变。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+      "publishedAt": "2026-11-01T16:29:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724523.shtml",
+      "title": "CBA一周综述：北京一骑绝尘 宁波一胜难求",
+      "category": "综合",
+      "summary": "中新社北京11月1日电 (记者 国璇)2026-2027赛季中国男子篮球职业联赛(CBA)在本周结束了第5轮至第7轮的比赛。北京队豪取七连胜，成为20支球队中唯一保持不败的队伍。换帅后的宁波队难改连败困境，七战皆墨继续排名垫底。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724523.shtml",
+      "publishedAt": "2026-11-01T15:40:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724515.shtml",
+      "title": "CBA第7轮：山西主场95:89胜四川取得两连胜",
+      "category": "综合",
+      "summary": "中新社太原11月1日电 (记者 胡健)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第7轮，山西汾酒队11月1日在主场以95:89战胜四川锦城队，取得两连胜的同时送给对手五连败。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724515.shtml",
+      "publishedAt": "2026-11-01T15:23:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724517.shtml",
+      "title": "厦门首条邮轮无目的地海上游航线启航",
+      "category": "综合",
+      "summary": "中新社厦门11月1日电 (吴冠标)厦门首条邮轮无目的地海上游航线11月1日晚启航，标志着邮轮无目的地海上游试点在厦门正式落地。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724517.shtml",
+      "publishedAt": "2026-11-01T15:22:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724516.shtml",
+      "title": "英国选手达特夺得广网女单冠军",
+      "category": "综合",
+      "summary": "中新社广州11月1日电 (记者 王坚)2026年广州国际女子网球公开赛(下称“广网”)11月1日收官。在单打决赛中，英国选手达特逆转击败奥地利18岁小将塔格尔，夺得生涯首个女子网球选手协会(WTA)巡回赛单打冠军；乌兹别克斯坦组合波琳娜·库德梅托娃/蒂莫菲娃夺得双打冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724516.shtml",
+      "publishedAt": "2026-11-01T15:21:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724514.shtml",
+      "title": "CBA第7轮：赵继伟“供能” 辽宁主场20分大胜深圳",
+      "category": "综合",
+      "summary": "中新社沈阳11月1日电 (记者 韩宏)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第7轮，辽宁队11月1日晚主场迎战深圳队，最终以91比71大胜对手。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724514.shtml",
+      "publishedAt": "2026-11-01T15:20:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724519.shtml",
+      "title": "国际移民组织：也门流离失所者已超30万人",
+      "category": "综合",
+      "summary": "当地时间11月1日，国际移民组织发布的最新数据显示，也门冲突导致超过30万人流离失所，这些人几乎都是过去两个月内流离失所的。战乱导致基本生活用品价格飙升，许多家庭难以找到住所，也难以负担基本生活必需品，而准入限制导致援助机构更难接触到需要帮助的人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724519.shtml",
+      "publishedAt": "2026-11-01T15:19:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724518.shtml",
+      "title": "伊朗外长：磋商是否能取得成果取决于美国的答复",
+      "category": "综合",
+      "summary": "当地时间1日，在谈及伊朗代表团访问卡塔尔事宜时，伊朗外长阿拉格齐表示，此次访问由副外长率领，目的是继续与卡塔尔调解方进行磋商。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724518.shtml",
+      "publishedAt": "2026-11-01T15:18:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-01/10724513.shtml",
+      "title": "代办“超级签”落地后发现竟是旅游签 中介该如何赔偿？",
+      "category": "综合",
+      "summary": "出国探亲，有人把签证交给中介代办。可钱花了、办下来的却不是约定的签证类型，中介该不该担责？消费者能否索赔全部损失？近日，北京市西城区人民法院就审结了这样一起案件。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724513.shtml",
+      "publishedAt": "2026-11-01T14:20:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-01/10724512.shtml",
+      "title": "中国驻美大使馆举办纪念孙中山先生诞辰160周年活动",
+      "category": "综合",
+      "summary": "中新社华盛顿11月1日电 中国驻美国大使馆10月31日举办纪念孙中山先生诞辰160周年活动，两岸侨胞代表约150人出席。中国驻美大使谢锋在活动上发表题为“传承中山先生风范 汇聚民族复兴力量”的讲话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724512.shtml",
+      "publishedAt": "2026-11-01T14:13:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724511.shtml",
+      "title": "中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
+      "category": "综合",
+      "summary": "【欧洲专线】中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724511.shtml",
+      "publishedAt": "2026-11-01T14:12:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-01/10724505.shtml",
+      "title": "（粤港澳大湾区）深圳莲塘口岸出入境客流突破一亿人次",
+      "category": "综合",
+      "summary": "中新社深圳11月1日电 (索有为 胡俊瑶)据深圳出入境边防检查总站11月1日发布的统计数据，截至当日19时42分，该总站辖下莲塘边检站累计查验出入境人员超1亿人次、车辆超600万辆次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724505.shtml",
+      "publishedAt": "2026-11-01T13:49:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
+      "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
+      "category": "综合",
+      "summary": "当地时间11月1日，乌克兰首都基辅市国家行政管理局通报，俄罗斯对基辅能源基础设施实施袭击，造成当地一处供水设施断电，引发城区供水异常。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
+      "publishedAt": "2026-11-01T13:47:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724503.shtml",
+      "title": "考古学家：史前治水是长江文明鲜明特征 彰显先民生存智慧",
+      "category": "综合",
+      "summary": "中新社湖北荆门11月1日电 (记者 孙自法)中国社会科学院考古研究所所长施劲松研究员11月1日表示，考古发现和研究表明，史前治水是长江文明的鲜明特征，对于水资源的利用和管理，集中彰显史前先民顺应自然、改造自然的生存智慧，也深刻影响早期聚落形态的演变、社会组织的发展乃至区域文明化的进程。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724503.shtml",
+      "publishedAt": "2026-11-01T13:44:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724501.shtml",
+      "title": "海内外专家聚首“妈祖故里”谈妈祖文化减灾智慧",
+      "category": "综合",
+      "summary": "中新网福建莆田11月1日电 (叶秋云)“妈祖文化倡导的‘立德、行善、大爱’精神，与中华民族优秀传统美德一脉相承，将其与海洋防灾减灾、海洋生态文明、海洋科技创新有机融合，有助于大力提升海洋防灾减灾能力。”中国海洋大学教授王海涛1日在福建莆田湄洲岛参加第十一届世界妈祖文化论坛时如是表示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724501.shtml",
+      "publishedAt": "2026-11-01T13:43:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724507.shtml",
+      "title": "法国新一轮示威活动中已有779人被捕",
+      "category": "综合",
+      "summary": "当地时间10月31日，法国爆发近三周以来第三轮全国性大规模抗议示威活动。据法国内政部统计，截至11月1日，法国全国已有779人在31日的示威游行中被拘留。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724507.shtml",
+      "publishedAt": "2026-11-01T13:42:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
+      "title": "“理财产品要变相保本了”是误读政策",
+      "category": "综合",
+      "summary": "真相来了丨“理财产品要变相保本了”是误读政策",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
+      "publishedAt": "2026-11-01T13:41:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
+      "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
+      "category": "综合",
+      "summary": "中新社广州11月1日电 (记者 蔡敏婕)在第140届广交会展台上，花生大小的智能胶囊胃镜吸引境外采购商注意。受检者只需咽下这颗胶囊，借助配套记录仪与手机App，屏幕上实时传回胃内清晰影像，直观展现胃部筛查过程。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
+      "publishedAt": "2026-11-01T13:28:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-01/10724502.shtml",
+      "title": "2026杭马赛道上的“硬核”浪漫与“无感”守护",
+      "category": "综合",
+      "summary": "中新网杭州11月1日电 (钱晨菲)11月1日7时，随着发令枪响，3.6万名跑者踏上2026杭州马拉松赛道，从黄龙体育中心奔赴杭州奥体中心。杭州公安以科技赋能、温情值守，在赛道沿线织密安保防线，为赛事提供“无感”守护。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724502.shtml",
+      "publishedAt": "2026-11-01T13:26:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
+      "title": "以一座城的名义致敬企业家 海内外宁商齐聚福建宁德叙乡谊话发展",
+      "category": "综合",
+      "summary": "中新网宁德11月1日电 (记者 叶茂)2026“宁德企业家日”活动暨宁商投资发展大会1日在福建省宁德市举行，海内外乡贤、宁商宁企代表欢聚一堂，共叙情谊、共话发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
+      "publishedAt": "2026-11-01T13:16:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
       "title": "新华社受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和习近平总书记所作的《关于〈中共中央关于持之以恒推进全面从严治党若干重大问题的决定〉的说明》",
@@ -212,24 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-01/10724486.shtml",
-      "title": "中国陪诊服务步入标准化时代",
-      "category": "综合",
-      "summary": "中新社哈尔滨11月1日电 (记者 赵宇航)“过去干活全凭经验，没有明确的服务边界，常有患者希望我帮忙解读报告、判断病情。我很难把握分寸。现在国标落地，能干什么、不能碰什么清清楚楚。我们的定位是‘陪’，不是‘医’。”“00后”陪诊员刘建平11月1日在黑龙江哈尔滨接受采访时说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724486.shtml",
-      "publishedAt": "2026-11-01T12:36:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad#0",
       "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
       "category": "国际",
@@ -247,344 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724485.shtml",
-      "title": "施劲松：史前治水是长江文明鲜明特征 彰显史前先民生存智慧",
-      "category": "综合",
-      "summary": "中新网湖北荆门11月1日电 (记者 孙自法)中国社会科学院考古研究所所长施劲松研究员11月1日表示，开展中华文明探源研究，离不开长江文明的溯源研究。考古发现和研究表明，史前治水是长江文明的鲜明特征，对于水资源的利用和管理，集中彰显史前先民顺应自然、改造自然的生存智慧，也深刻影响早期聚落形态的演变、社会组织的发展乃至区域文明化的进程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724485.shtml",
-      "publishedAt": "2026-11-01T12:34:40.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143112",
+      "title": "联合国西撒哈拉全民投票特派团任务结束，联合国表示“随时准备”继续支持和平努力",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周日表示，随着联合国在西撒哈拉的维和任务开始收尾，联合国仍致力于支持在西撒哈拉达成一项公正、持久且双方都能接受的政治解决方案，以保障该地区人民的自决权。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143112",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724483.shtml",
-      "title": "宁台携手共探渔业融合发展新路",
-      "category": "综合",
-      "summary": "中新社福建宁德11月1日电 (吴允杰)宁台渔业融合发展特色活动暨海洋经济专场对接会11月1日在福建省宁德市举行，3个项目集中签约，总投资逾1000万元(人民币，下同)，涵盖水产养殖、加工、生产等领域。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724483.shtml",
-      "publishedAt": "2026-11-01T12:32:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
-      "title": "城市更新遇上千年文脉：专家学者福州共探历史遗产“活态传承”新路径",
-      "category": "综合",
-      "summary": "中新网福州11月1日电 (叶艺琳)当前，全球城市迈入存量更新转型阶段，如何破解老城风貌衰减、开发建设与遗产保护的矛盾，让千年文脉在现代都市中“活”下去、“火”起来？1日，“文脉永续·共生宜居——城市更新背景下历史文化遗产系统保护与活态传承”2026年世界城市日全球主场活动分论坛在福州举行，来自住建领域、高校院所的专家学者齐聚一堂，共探历史建成环境的保护与再生",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
-      "publishedAt": "2026-11-01T12:24:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724480.shtml",
-      "title": "中国·十八洞山地越野挑战赛开赛 奔跑见证山乡蝶变",
-      "category": "综合",
-      "summary": "中新网湘西11月1日电 (记者 邓霞)11月1日，2026第三届中国·十八洞山地越野挑战赛在湖南湘西花垣县十八洞村鸣枪开赛，来自全国各地的山地越野爱好者齐聚，穿行苗寨吊脚楼、层叠梯田、瀑布峡谷与武陵山野古道，在秋日山野间竞速奔跑，见证十八洞村的山乡蝶变。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724480.shtml",
-      "publishedAt": "2026-11-01T12:23:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724479.shtml",
-      "title": "周秉德返乡追忆伯父周恩来：“上天”之志代代相传",
-      "category": "综合",
-      "summary": "中新社浙江绍兴11月1日电 (项菁)11月1日，在浙江绍兴举行的2026阳明心学大会“阳明心学与低空经济融合发展”主题活动上，周恩来总理侄女、中国新闻社原副社长周秉德深情追忆有航空航天梦的周总理，勉励后人向着星辰大海继续前行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724479.shtml",
-      "publishedAt": "2026-11-01T12:22:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-01/10724481.shtml",
-      "title": "宁夏银川120场惠民演出浸润城乡 群众“点单”乐享家门口大戏",
-      "category": "综合",
-      "summary": "中新网银川11月1日电 (记者 李佩珊)暮色降临，灯光亮起。乡村广场的简易舞台上锣鼓铿锵、乐曲悠扬，周边居民搬着小板凳围坐台前，喝彩声、欢笑声此起彼伏……今年，宁夏银川市把舞台搬到群众身边，乡村广场、社区空地、校园操场、军营小院化作一个个热闹的文艺现场，精彩纷呈的惠民演出，为基层百姓送上触手可及的文化盛宴。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724481.shtml",
-      "publishedAt": "2026-11-01T12:22:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724465.shtml",
-      "title": "第九届进博会开幕在即 国家会展中心(上海)开启“夜景模式”",
-      "category": "综合",
-      "summary": "11月1日晚，国家会展中心（上海）南广场惊艳“换装”，开启“夜景模式”。中新社记者 殷立勤 摄 11月1日晚，国家会展中心（上海）南广场惊艳“换装”，开启“夜景模式”。中新社记者 殷立勤 摄 11月1日晚，国家会展中心（上海）南广场惊艳“换装”，开启“夜景模式”。中新社记者 殷立勤 摄 11月1日晚，国家会展中心（上海）南广场惊艳“换装”，开启“夜景模式”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724465.shtml",
-      "publishedAt": "2026-11-01T12:20:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-01/10724478.shtml",
-      "title": "桃醉平谷第十一届京津冀公路自行车大众挑战赛开赛",
-      "category": "综合",
-      "summary": "中新网北京11月1日电 桃醉平谷第十一届京津冀公路自行车大众挑战赛11月1日在北京市平谷区京东石林峡风景区开赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724478.shtml",
-      "publishedAt": "2026-11-01T12:19:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724470.shtml",
-      "title": "潮汐与降雨叠加 曼谷及周边七府面临洪水风险",
-      "category": "综合",
-      "summary": "中新社曼谷11月1日电(梁峻祥 李映民)泰国国家水资源办公室(ONWR)11月1日发布全国水情报告说，受来自中国的高压系统影响，泰国上部及海域风力增强，海面及河口水位上升，曼谷及周边七府面临潮汐性洪水风险。与此同时，泰国未来数日天气仍不稳定，雷阵雨、阵风及局地强降雨可能进一步增加部分地区水情压力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724470.shtml",
-      "publishedAt": "2026-11-01T12:18:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724476.shtml",
-      "title": "第四届广西技能大赛在南宁开赛",
-      "category": "综合",
-      "summary": "图为无人机驾驶（植保）项目比赛现场，参赛者组装调试无人机。陈冠言 摄 图为工业机器人系统运维项目比赛现场。陈冠言 摄 图为养老护理项目比赛现场。陈冠言 摄 图为医疗护理员项目比赛现场，参赛者紧急处置被食物卡住喉咙的“老人”。陈冠言 摄 图为广西技能人才成果交流展区，广西工商技师学院展台上演的机器人足球赛吸引参观者。陈冠言 摄 图为广西技能人才成果交流展区，参",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724476.shtml",
-      "publishedAt": "2026-11-01T12:17:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724475.shtml",
-      "title": "广西龙胜：龙脊水稻收割 吸引中外游客体验",
-      "category": "综合",
-      "summary": "图为11月1日，在广西桂林市龙胜各族自治县龙脊镇平安村，村民在收割水稻。潘志祥 摄 图为11月1日，在广西桂林市龙胜各族自治县龙脊镇平安村，外国游客在体验水稻收割。潘志祥 摄 图为11月1日，在广西桂林市龙胜各族自治县龙脊镇平安村，外国游客在体验水稻收割。潘志祥 摄 图为11月1日，在广西桂林市龙胜各族自治县龙脊镇平安村，外国游客在体验水稻收割。潘志祥 摄 ",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724475.shtml",
-      "publishedAt": "2026-11-01T12:16:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-01/10724477.shtml",
-      "title": "中国海拔最高气田31年累计生产天然气超1091亿立方米",
-      "category": "综合",
-      "summary": "中新网青海格尔木11月1日电(祁增蓓 马铭言 杨璐新)中国石油天然气集团公司青海油田分公司采气一厂涩北气田(以下简称“涩北气田”)1日消息，该气田1995年投入试采开发至2026年10月31日，已累计生产天然气1091.48亿立方米，连续31年为保障青海、西藏、甘肃、宁夏四省区天然气供应提供支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724477.shtml",
-      "publishedAt": "2026-11-01T12:15:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724472.shtml",
-      "title": "“璀璨中华·大美无疆”2026周锡玮（成都）艺术展启幕",
-      "category": "综合",
-      "summary": "图为周锡玮向观众介绍画作《莲塘花影》。中新社记者 张浪 摄 图为作品《千朵莲花万条柳》吸引观众。中新社记者 张浪 摄 图为周锡玮（右）向观众介绍作品。中新社记者 张浪 摄 图为周锡玮（左）向观众介绍作品。中新社记者 张浪 摄 图为周锡玮作品吸引观众。中新社记者 张浪 摄 图为周锡玮向观众介绍作品《大块文章之一》。中新社记者 张浪 摄 图为周锡玮作品吸引观众。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724472.shtml",
-      "publishedAt": "2026-11-01T12:13:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-01/10724462.shtml",
-      "title": "2026年内蒙古草垛拳王争霸赛开赛 百余名青少年擂台切磋",
-      "category": "综合",
-      "summary": "11月1日，内蒙古自治区呼和浩特市，选手获胜后举起右拳。当日，2026年内蒙古草垛拳王争霸赛在内蒙古自治区呼和浩特市开赛。赛事以青少年拳手为主体，吸引内蒙古全区12支代表队、160名运动员参加，分为U6至成人共80个组别。中新社记者 刘文华 摄 11月1日，内蒙古自治区呼和浩特市，选手在拳击比赛中一决胜负。当日，2026年内蒙古草垛拳王争霸赛在内蒙古自治区呼",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724462.shtml",
-      "publishedAt": "2026-11-01T12:11:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-01/10724474.shtml",
-      "title": "俄总统助理：普京从未拒绝与泽连斯基对话，泽连斯基可以来莫斯科",
-      "category": "综合",
-      "summary": "中新网11月1日电 综合塔斯社、俄罗斯卫星通讯社11月1日报道，俄罗斯总统助理乌沙科夫在接受采访时表示，俄罗斯总统普京从未拒绝与乌克兰总统泽连斯基对话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724474.shtml",
-      "publishedAt": "2026-11-01T12:09:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
-      "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
-      "category": "综合",
-      "summary": "中新网上海11月1日电 (记者 陈静)今年是复旦大学哲学学院(系)成立七十周年。国际哲学学会联合会(FISP)前任主席卢卡·斯卡兰蒂诺1日在此间指出，复旦大学哲学学院始终走在拓展哲学文化视野的前沿，是推动不同哲学传统交流互鉴的中坚力量，也是世界领先的哲学重镇之一。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
-      "publishedAt": "2026-11-01T12:06:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209407.shtml",
-      "title": "中国海拔最高气田31年累计生产天然气超1091亿立方米",
-      "category": "综合",
-      "summary": "11月1日，在位于青海省海西蒙古族藏族自治州的青海油田采气一厂涩北气田总站，工作人员进行设备巡检， 确保冬季天然气供应稳定。当日中国石油天然气集团公司青海油田分公司采气一厂涩北气田最新消息，截至10月31日，涩北气田累计生产天然气1091.48亿立方米，连续31年为保障青海、西藏、甘肃、宁夏四省区天然气供应提供支撑。涩北气田地处柴达木盆地东部涩聂湖畔，是中国",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209407.shtml",
-      "publishedAt": "2026-11-01T12:05:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209417.shtml",
-      "title": "第九届进博会开幕在即 首次参展“新面孔”企业超2000家",
-      "category": "综合",
-      "summary": "11月1日，工作人员在展台上对设备进行调试。第九届中国国际进口博览会将于11月5日至10日在国家会展中心（上海）举办。展商中，世界500强和行业龙头企业首次超过300家，连续九届进博会“全勤”的企业和机构近200家；首次参展的“新面孔”企业超2000家。中新社记者 殷立勤 摄 11月1日，工作人员在展台上对车辆进行清洁工作。第九届中国国际进口博览会将于11月",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209417.shtml",
-      "publishedAt": "2026-11-01T12:03:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-01/10724463.shtml",
-      "title": "20余款新品全球首发！这场科技盛会明日开幕，亮点抢鲜看",
-      "category": "综合",
-      "summary": "11月2日到5日，2026年世界互联网大会乌镇峰会将在浙江乌镇举行。今年是峰会落地乌镇的第13个年头，有不少新板块、新成果、新看点。正在乌镇的总台记者带大家提前解锁这场水乡里的科技盛会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724463.shtml",
-      "publishedAt": "2026-11-01T12:01:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1620,24 +1638,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143082",
-      "publishedAt": "2026-10-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143081",
-      "title": "肯尼亚20名埃博拉病例接触者解除隔离，刚果（金）疫苗试验带来新希望",
-      "category": "国际",
-      "summary": "世界卫生组织表示，肯尼亚首例本迪布焦型埃博拉病毒病例的20名接触者，在完成21天隔离监测后，于周一解除隔离并与家人团聚。另有98名接触者仍在隔离中。与此同时，刚果民主共和国上周五启动一项临床试验，评估疫苗能否预防本迪布焦型埃博拉病毒病。目前，针对这一疾病尚无获批疫苗或特效疗法。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143081",
       "publishedAt": "2026-10-27T12:00:00.000Z",
       "tags": [
         "国际",

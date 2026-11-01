@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143112",
+      "title": "联合国西撒哈拉全民投票特派团任务结束，联合国表示“随时准备”继续支持和平努力",
+      "meta": "联合国新闻 · 2026/11/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143112",
+      "publishedAt": "2026-11-01T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143111",
       "title": "世界城市日：城市焕新：人人享有适当住房",
       "meta": "联合国新闻 · 2026/10/31",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143082",
       "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143081",
-      "title": "肯尼亚20名埃博拉病例接触者解除隔离，刚果（金）疫苗试验带来新希望",
-      "meta": "联合国新闻 · 2026/10/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143081",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:25:01.141Z",
+  "updatedAt": "2026-11-01T18:56:25.459Z",
   "provider": "OneBench 公共资讯快照"
 }
