@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143111",
+      "title": "世界城市日：城市焕新：人人享有适当住房",
+      "meta": "联合国新闻 · 2026/10/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143111",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143110",
+      "title": "人权高专办工作人员在胡塞武装羁押期间死亡，联合国强烈谴责并要求展开调查",
+      "meta": "联合国新闻 · 2026/10/31",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143110",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143105",
       "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
       "meta": "联合国新闻 · 2026/10/31",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/27",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143081",
       "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143080",
-      "title": "古特雷斯在安理会呼吁确保妇女参与和平进程并增加资金支持",
-      "meta": "联合国新闻 · 2026/10/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143080",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143079",
-      "title": "缅甸危机：联合国官员警告冲突恶化，呼吁追究暴行责任并扩大人道援助",
-      "meta": "联合国新闻 · 2026/10/27",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143079",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-31T23:23:54.237Z",
+  "updatedAt": "2026-11-01T06:04:55.020Z",
   "provider": "OneBench 公共资讯快照"
 }
