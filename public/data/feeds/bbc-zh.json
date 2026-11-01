@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad#0",
+      "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
+      "meta": "BBC 中文 · 2026/11/1",
+      "url": "https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T12:36:01.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad#0",
+      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
+      "meta": "BBC 中文 · 2026/11/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T10:23:57.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad#0",
       "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
       "meta": "BBC 中文 · 2026/11/1",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-10-31T13:20:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad#2",
       "title": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
       "meta": "BBC 中文 · 2026/10/31",
       "url": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,18 +89,11 @@
       "publishedAt": "2026-10-30T03:52:26.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad#2",
       "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
       "meta": "BBC 中文 · 2026/10/30",
       "url": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T00:23:04.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad#2",
-      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-      "meta": "BBC 中文 · 2026/10/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T16:19:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad#2",
@@ -101,13 +108,6 @@
       "meta": "BBC 中文 · 2026/10/29",
       "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-29T13:01:39.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad#2",
-      "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
-      "meta": "BBC 中文 · 2026/10/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T00:23:07.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-01T06:04:55.020Z",
+  "updatedAt": "2026-11-01T13:25:01.141Z",
   "provider": "OneBench 公共资讯快照"
 }
