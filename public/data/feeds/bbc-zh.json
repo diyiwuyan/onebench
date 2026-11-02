@@ -5,18 +5,32 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad#0",
+      "title": "台灣地方選舉：四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
+      "meta": "BBC 中文 · 2026/11/2",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T04:37:26.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad#0",
+      "title": "人工智能泡沫將爆破？這群「新雲端」公司正加劇市場擔憂",
+      "meta": "BBC 中文 · 2026/11/2",
+      "url": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:17:42.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad#2",
+      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
+      "meta": "BBC 中文 · 2026/11/2",
+      "url": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:17:38.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad#0",
       "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
       "meta": "BBC 中文 · 2026/11/1",
       "url": "https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-01T12:36:01.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad#0",
-      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
-      "meta": "BBC 中文 · 2026/11/1",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T10:23:57.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad#0",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-11-01T04:24:47.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad#2",
       "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
       "meta": "BBC 中文 · 2026/11/1",
       "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
@@ -94,20 +108,6 @@
       "meta": "BBC 中文 · 2026/10/30",
       "url": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T00:23:04.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad#2",
-      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
-      "meta": "BBC 中文 · 2026/10/29",
-      "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T14:47:36.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad#2",
-      "title": "中共五中全會：出席委員減少四分之一 張升民罕見增選入政治局",
-      "meta": "BBC 中文 · 2026/10/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T13:01:39.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-01T23:35:41.356Z",
+  "updatedAt": "2026-11-02T06:03:14.123Z",
   "provider": "OneBench 公共资讯快照"
 }
