@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cmkgq4v0l2e4o/trad#3",
+      "title": "酒吧風波後，台北同志遊行在爭取什麼？",
+      "meta": "BBC 中文 · 2026/11/2",
+      "url": "https://www.bbc.com/zhongwen/watch/cmkgq4v0l2e4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:30:05.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad#0",
       "title": "「英國政府對華政策摸著石頭過河」——國會報告",
       "meta": "BBC 中文 · 2026/11/2",
@@ -180,13 +187,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad#3",
-      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
-      "meta": "BBC 中文 · 2026/10/19",
-      "url": "https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T09:37:41.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad#1",
       "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
       "meta": "BBC 中文 · 2026/10/15",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-02T15:52:47.948Z",
+  "updatedAt": "2026-11-02T23:30:09.072Z",
   "provider": "OneBench 公共资讯快照"
 }

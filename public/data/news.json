@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:52:47.948Z",
-  "expiresAt": "2026-11-02T21:52:47.948Z",
+  "generatedAt": "2026-11-02T23:30:09.072Z",
+  "expiresAt": "2026-11-03T05:30:09.072Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,221 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+      "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+      "category": "综合",
+      "summary": "中新网11月3日电 据外媒报道，也门胡塞武装称，当地时间2日，也门西南部塔伊兹省一市场遭袭，造成多人死伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+      "publishedAt": "2026-11-02T23:18:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-03/10725088.shtml",
+      "title": "11月3日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725088.shtml",
+      "publishedAt": "2026-11-02T22:55:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+      "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
+      "category": "综合",
+      "summary": "中新网11月3日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普当地时间2日表示，对于是否重启对伊朗的战事，他“并不急于”作出决定。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+      "publishedAt": "2026-11-02T22:53:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
+      "title": "英国探险家历时28年徒步环球终返家乡",
+      "category": "综合",
+      "summary": "中新社伦敦11月2日电 (记者 欧阳开宇)当地时间11月2日，英国探险家卡尔·布什比重返家乡赫尔，正式收官耗时28年的环球徒步远征，为这场超长旅途画上句号。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
+      "publishedAt": "2026-11-02T22:52:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
+      "title": "英国推出新政：部分移民永居基准等候期上调至十年",
+      "category": "综合",
+      "summary": "中新社伦敦11月2日电 (记者 欧阳开宇)当地时间11月2日，英国政府公布一揽子移民改革方案，永久居留申请时限实施差异化调整：原统一为五年的合法移民永居等候基准，上调至十年。作为弹性安排，护理行业合格从业者仍可维持五年申请资格。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
+      "publishedAt": "2026-11-02T22:51:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
+      "title": "中美国家公园影像展在华盛顿举办",
+      "category": "综合",
+      "summary": "中新社华盛顿11月2日电 (记者 沙晗汀)中美国家公园影像展当地时间10月30日在华盛顿中国驻美国大使馆举办，展出来自中美两国的摄影师在中美多个国家公园拍摄的精美影像。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
+      "publishedAt": "2026-11-02T22:50:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
+      "title": "小心！向陌生小程序授予位置权限，行踪可能被悄悄定位",
+      "category": "综合",
+      "summary": "近日，江苏扬州的陈先生前往辖区派出所报案称，自己和周某有个人纠纷，比较蹊跷的是，周某总是能轻易找到他的位置，所以陈先生怀疑自己身上被安装了定位器。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
+      "publishedAt": "2026-11-02T22:44:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
+      "title": "高校学术讲坛，如何“叫好又叫座”",
+      "category": "综合",
+      "summary": "论坛汇智，文化润心。在高校校园里，学术讲座与论坛不仅是知识交流的平台，更是精神滋养的空间。记者注意到，近年来各地高校优化内容供给、创新传播形式，推动校园讲座论坛的开展从“有”向“优”、从“覆盖”向“提质”转变，曾经的“小众讲堂”，正越来越成为校园里“叫好又叫座”、师生普遍关注和期待的文化现象。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
+      "publishedAt": "2026-11-02T22:41:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+      "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+      "category": "综合",
+      "summary": "中新网11月3日电 11月3日，美国中期选举将迎来正式投票日。共和党和民主党围绕国会两院席位及诸多州级和地方层面席位，展开激烈争夺。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+      "publishedAt": "2026-11-02T22:35:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cmkgq4v0l2e4o/trad#3",
+      "title": "酒吧風波後，台北同志遊行在爭取什麼？",
+      "category": "国际",
+      "summary": "10月31日，約17萬人參與本年度台北同志遊行。作為東亞規模最大的同志平權活動之一，今年的遊行因台北一間同志酒吧遭警方搜查而增添政治意涵。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/watch/cmkgq4v0l2e4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:30:05.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
+      "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
+      "category": "综合",
+      "summary": "当地时间11月2日凌晨，瑞典、比利时、卢森堡、爱沙尼亚等欧洲多国超市遭到黑客攻击，冷藏和冷冻系统受到影响，冷柜温度被远程调高至50摄氏度，导致食品变质。这与上个月法国多个连锁超市发生的事件如出一辙。比利时检方今天表示，已就此启动刑事调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
+      "publishedAt": "2026-11-02T15:56:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
+      "title": "西藏那曲市巴青县发生4.2级地震",
+      "category": "综合",
+      "summary": "中国地震台网正式测定：11月2日23时35分，在西藏那曲市巴青县(北纬32.38度，东经93.86度)发生4.2级地震，震源深度10公里。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
+      "publishedAt": "2026-11-02T15:49:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad#0",
       "title": "「英國政府對華政策摸著石頭過河」——國會報告",
@@ -391,204 +606,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725008.shtml",
-      "title": "年接待游客突破600万人次 九寨沟精细管护守护山水魅力",
-      "category": "综合",
-      "summary": "中新网成都11月2日电 (记者 安源)记者2日从九寨沟景区管理局获悉，截至2026年11月2日，九寨沟景区年度游客接待量突破600万人次。从节假日门票提前售罄，到深秋彩林季预约火热，逾600万人次游客奔赴，既彰显九寨山水的强大吸引力，也见证景区精细化服务与生态保护协同推进的成效。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725008.shtml",
-      "publishedAt": "2026-11-02T14:11:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-02/10725007.shtml",
-      "title": "“香港功夫世界”展览亮相深圳读书月 讲述香江武道传承",
-      "category": "综合",
-      "summary": "中新网深圳11月2日电 (记者 蔡敏婕)第27届深圳读书月11月1日在深圳开幕，“香港功夫世界”主题展览暨书展亦揭开序幕，该活动以功夫文化为主轴，呈现香港传承与创新中华功夫文化的立体图景，展现香港功夫世界的文化价值。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725007.shtml",
-      "publishedAt": "2026-11-02T14:11:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725059.shtml",
-      "title": "“考场”搬进商超等场景 人形机器人与具身智能实景实训挑战赛将启",
-      "category": "综合",
-      "summary": "中新网北京11月2日电 (记者 陈杭)记者2日从在北京召开的人形机器人与具身智能实景实训挑战赛新闻发布会上获悉，人形机器人与具身智能实景实训挑战赛采用“测试赛+挑战赛”两阶段赛制。参赛报名通道已正式开启，报名截至2026年11月27日。人形机器人与具身智能领域企业、高校、科研院所等可自行或联合组队参赛，大赛将为参赛队伍提供技术与合作对接机会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725059.shtml",
-      "publishedAt": "2026-11-02T14:10:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725006.shtml",
-      "title": "云南三季度以工代赈带动近30万人就业 发放劳务报酬超73亿元",
-      "category": "综合",
-      "summary": "中新网昆明11月2日电 (陆希成)云南省发展和改革委员会2日消息，2026年三季度，云南实施以工代赈项目4991个，带动29.87万名民众就业，发放劳务报酬73.82亿元(人民币，下同)，较今年一季度分别增长47%、71%和429%。当季参与项目的民众人均增收2万余元，各地开展劳动技能培训28.99万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725006.shtml",
-      "publishedAt": "2026-11-02T14:10:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-02/10725005.shtml",
-      "title": "宁夏落地首笔小时级绿电交易",
-      "category": "综合",
-      "summary": "中新网银川11月2日电 (记者 于晶)11月2日，记者从宁夏电力交易公司获悉，宁夏完成首笔省内小时级绿电交易电费结算，绿电交易核算模式由此从“按月统计”升级为“按小时核算”，实现绿电电量生产、交易、结算、核销全流程小时级可追溯。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725005.shtml",
-      "publishedAt": "2026-11-02T14:09:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725048.shtml",
-      "title": "第二届上海老年学习课程展开幕 银发AI课程成亮点",
-      "category": "综合",
-      "summary": "中新网上海11月2日电 (记者 许婧)第二届上海老年学习课程展2日在上海展览中心开幕。本届课程展为期3天，规划总面积8928平方米，102家企事业单位参展，集中展示老年教育优秀课程500余门，观众预计超过10万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725048.shtml",
-      "publishedAt": "2026-11-02T14:08:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725011.shtml",
-      "title": "2026国际版权论坛敦煌开幕 聚焦数智时代版权与创意产业",
-      "category": "综合",
-      "summary": "中新社甘肃敦煌11月2日电 (记者 丁思 高莹)由中国国家版权局、世界知识产权组织主办的2026国际版权论坛2日在甘肃敦煌开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725011.shtml",
-      "publishedAt": "2026-11-02T14:08:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725050.shtml",
-      "title": "首届国际事务专业“全球治理”案例大赛在沪收官 搭建学界与实务对话平台",
-      "category": "综合",
-      "summary": "中新网上海11月2日电 (记者 陈静)首届国际事务专业“全球治理”案例大赛(下称：大赛)1日在沪落幕。来自北京外国语大学的“跨国难民问题研究小组”、华东师范大学“特等佳音”团队和“深度治理队”获评特等奖。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725050.shtml",
-      "publishedAt": "2026-11-02T14:08:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725004.shtml",
-      "title": "浙江文旅观察：AI时代，旅游服务如何更有温度？",
-      "category": "综合",
-      "summary": "中新网杭州11月2日电(林波 孙琳茹)杭州西湖边，一位视障儿童把一枚27克的AI徽章贴在耳边，听它讲述当地蜜梨的故事，又转身与伙伴分享自己的发现。这枚“杭小忆”徽章不连手机、不依赖屏幕，按下即问，回答的是孩子能听懂的语言。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725004.shtml",
-      "publishedAt": "2026-11-02T14:07:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-02/10725051.shtml",
-      "title": "欧洲华媒代表“走读”长沙 感知科创开放文脉共生之美",
-      "category": "综合",
-      "summary": "中新网长沙11月2日电 (记者 邓霞)“一路行走、一路震撼、一路动容，亲眼见证了一座古城的华丽蝶变，读懂了新时代中国蓬勃向上的生长力量。”葡萄牙《葡新报》社长马丽梅深入走访长沙科创企业、开放枢纽与文化地标后，将这份感受写进报道，称此行“一城万象，古今交融，新旧共生，令人耳目一新”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725051.shtml",
-      "publishedAt": "2026-11-02T14:07:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-02/10725000.shtml",
-      "title": "艺苑撷英——2026年全国优秀青年舞蹈人才展演在京举行",
-      "category": "综合",
-      "summary": "中新网北京11月2日电 (记者 高凯)艺苑撷英——2026年全国优秀青年舞蹈人才展演日前在北京中央民族歌舞团民族剧院举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-02/10725000.shtml",
-      "publishedAt": "2026-11-02T14:07:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3r5yrxlzz2o/trad#0",
       "title": "美國對以色列的支持如何成為選舉爭議焦點",
       "category": "国际",
@@ -619,6 +636,42 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143115",
+      "title": "国际刑事法院院长呼吁联合国会员国捍卫司法独立，抵制针对国际刑事司法的施压",
+      "category": "国际",
+      "summary": "联合国大会周一（11月2日）听取了国际刑事法院院长赤根智子（Tomoko Akane）提交的法院年度工作报告。赤根表示，国际刑事法院正面临前所未有的制裁和施压，但法院将继续独立、公正地履行职责。她同时呼吁各国采取具体行动，维护《罗马规约》和国际法治原则。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143115",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143114",
+      "title": "教科文组织：每七起记者遇害案件中，六起未能惩治凶手",
+      "category": "国际",
+      "summary": "联合国教科文组织周一表示，全球记者遇害案件中，凶手未受惩罚的比例十多年来首次上升。同时，无人机越来越多地被用于袭击记者，成为冲突地区新闻工作者面临的新威胁。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143114",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1613,42 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143084",
-      "title": "联合国警告：随着气候变化加剧，海洋吸收碳的能力正在减弱",
-      "category": "国际",
-      "summary": "在第31届联合国气候变化大会即将开幕之际，联合国周三发布最新报告指出，海洋吸收了约30%由人类活动引发的二氧化碳排放以及90%由温室气体捕获的多余热量。然而，气候变化已使海洋吸收碳的能力下降约6%。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143084",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143083",
-      "title": "130:17！联大连续第34年要求终结美国对古巴的封锁",
-      "category": "国际",
-      "summary": "联合国大会周三以130票赞成、17票反对、25票弃权的表决结果通过决议，再次敦促美国终止对古巴的经济、商业和金融封锁。这是联大连续第34年通过类似决议。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143083",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#5",
       "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
       "category": "国际",
@@ -1793,23 +1810,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T07:42:45.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad#3",
-      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
-      "category": "国际",
-      "summary": "開播至今14年，《孤獨的美食家》從日本深夜劇成長為風靡亞洲的電視作品。觀眾跟隨主角井之頭五郎穿梭街巷尋找美食和故事。主演松重豐希望讓更多海外觀眾透過美食認識日本文化。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T09:37:41.000Z",
       "tags": [
         "国际",
         "商业",

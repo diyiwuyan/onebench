@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143115",
+      "title": "国际刑事法院院长呼吁联合国会员国捍卫司法独立，抵制针对国际刑事司法的施压",
+      "meta": "联合国新闻 · 2026/11/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143115",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143114",
+      "title": "教科文组织：每七起记者遇害案件中，六起未能惩治凶手",
+      "meta": "联合国新闻 · 2026/11/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143114",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143113",
       "title": "生物多样性公约缔约国制定“埃里温路线图”以加快保护自然行动",
       "meta": "联合国新闻 · 2026/11/1",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/28",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143085",
       "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143084",
-      "title": "联合国警告：随着气候变化加剧，海洋吸收碳的能力正在减弱",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143084",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143083",
-      "title": "130:17！联大连续第34年要求终结美国对古巴的封锁",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143083",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-02T15:52:47.948Z",
+  "updatedAt": "2026-11-02T23:30:09.072Z",
   "provider": "OneBench 公共资讯快照"
 }
