@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:3b5fb3c9-b4dd-4379-a37c-017ccfcde48e",
+      "title": "巴巴多斯消除了艾滋病毒母婴传播",
+      "meta": "世界卫生组织 · 2026/10/30",
+      "url": "https://www.who.int/zh/news-room/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv",
+      "publishedAt": "2026-10-30T14:52:48.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:e712e838-4689-4e57-b54c-200eb19a2578",
       "title": "世卫组织总干事谭德塞博士就西班牙列车事故发表的声明",
       "meta": "世界卫生组织 · 2026/10/29",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/15",
       "url": "https://www.who.int/zh/news-room/15-09-2026-who-and-commonwealth-secretariat-renew-partnership-to-strengthen-health-systems-and-advance-universal-health-coverage",
       "publishedAt": "2026-09-15T09:07:07.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:b3c946b3-54e5-479a-a7d7-479374e618c9",
-      "title": "智利成为南美洲首个被验证消除犬传播狂犬病这一公共卫生问题的国家",
-      "meta": "世界卫生组织 · 2026/9/14",
-      "url": "https://www.who.int/zh/news-room/14-09-2026-chile-becomes-first-country-in-south-america-validated-for-eliminating-dog-transmitted-rabies-as-a-public-health-problem",
-      "publishedAt": "2026-09-14T11:47:04.000Z"
     }
   ],
-  "updatedAt": "2026-11-02T06:03:14.123Z",
+  "updatedAt": "2026-11-02T15:52:47.948Z",
   "provider": "OneBench 公共资讯快照"
 }
