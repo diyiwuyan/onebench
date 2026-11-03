@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143119",
+      "title": "乌克兰：联合国援助400多名撤离围困的民众，呼吁保障冬季能源供应",
+      "meta": "联合国新闻 · 2026/11/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143119",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143118",
+      "title": "联合国推出保险计划，为灾前援助提供资金保障",
+      "meta": "联合国新闻 · 2026/11/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143118",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143117",
+      "title": "世卫组织警告：埃塞俄比亚北部暴力冲突使卫生系统濒临崩溃",
+      "meta": "联合国新闻 · 2026/11/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143117",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143116",
+      "title": "移民组织警告：AI助长虚假信息传播，移民成为替罪羊",
+      "meta": "联合国新闻 · 2026/11/2",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143116",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143115",
       "title": "国际刑事法院院长呼吁联合国会员国捍卫司法独立，抵制针对国际刑事司法的施压",
       "meta": "联合国新闻 · 2026/11/2",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/10/28",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143086",
       "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143089",
-      "title": "苏丹平民面临无人机袭击与任意逮捕双重威胁",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143089",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143088",
-      "title": "粮食署新任执行主任：结束冲突是缓解全球饥饿问题的关键",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143088",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143087",
-      "title": "刚果（金）埃博拉确诊病例破万，世卫组织呼吁持续开展防控工作",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143087",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143085",
-      "title": "2023年全球高温相关死亡人数达71万，创历史新高",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143085",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-02T23:30:09.072Z",
+  "updatedAt": "2026-11-03T06:47:18.723Z",
   "provider": "OneBench 公共资讯快照"
 }
