@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143120",
+      "title": "气温上升，滑雪场及冬季旅游业面临经营压力",
+      "meta": "联合国新闻 · 2026/11/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143120",
+      "publishedAt": "2026-11-03T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143121",
+      "title": "国际电联：全球20亿人仍未上网",
+      "meta": "联合国新闻 · 2026/11/3",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143121",
+      "publishedAt": "2026-11-03T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143119",
       "title": "乌克兰：联合国援助400多名撤离围困的民众，呼吁保障冬季能源供应",
       "meta": "联合国新闻 · 2026/11/2",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/29",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143091",
       "publishedAt": "2026-10-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143090",
-      "title": "安理会聚焦新兴技术与海上安全，专家警告海运业已成为网络攻击高风险目标",
-      "meta": "联合国新闻 · 2026/10/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143090",
-      "publishedAt": "2026-10-29T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143086",
-      "title": "联合国毒罪办：阿富汗鸦片生产反弹，产量增至上年五倍",
-      "meta": "联合国新闻 · 2026/10/28",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143086",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-03T16:14:26.345Z",
+  "updatedAt": "2026-11-03T21:48:26.975Z",
   "provider": "OneBench 公共资讯快照"
 }

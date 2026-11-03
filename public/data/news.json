@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T16:14:26.345Z",
-  "expiresAt": "2026-11-03T22:14:26.345Z",
+  "generatedAt": "2026-11-03T21:48:26.975Z",
+  "expiresAt": "2026-11-04T03:48:26.975Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+      "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+      "category": "综合",
+      "summary": "乌克兰总统泽连斯基11月3日在柏林与德国总理默茨举行的联合新闻发布会上表示，美国、欧洲、北约和乌克兰各方团队将于4日在布鲁塞尔举行会晤，讨论乌克兰重建方案和安全保障问题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+      "publishedAt": "2026-11-03T16:28:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
+      "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
+      "category": "综合",
+      "summary": "11月1日，由国家市场监督管理总局、国家标准化管理委员会批准发布的《社会化陪同就医服务基本要求》国家标准正式实施。这是我国陪诊服务领域的首项国家标准。这些年陪诊服务越来越热，究竟什么是陪诊？哪些人群最需要这项服务？行业发展现状怎样，还有哪些亟待破解的现实难题？11月1日起实施的这项新国标，又将从哪些方面给行业立规矩？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
+      "publishedAt": "2026-11-03T16:27:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml",
       "title": "2026年中亚经济合作天山论坛在哈萨克斯坦举行",
@@ -536,42 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-03/10725660.shtml",
-      "title": "香港机管局与土耳其航空签署谅解备忘录",
-      "category": "综合",
-      "summary": "中新网香港11月3日电 香港机场管理局(简称“机管局”)与土耳其航空3日在香港签署《香港机场管理局与土耳其航空关于加强航空联系及航空发展合作的谅解备忘录》(下称“谅解备忘录”)，旨在加强航空联系、提升营运水平、推动可持续发展及拓展人才培训等多个领域深化合作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725660.shtml",
-      "publishedAt": "2026-11-03T15:29:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-03/10725659.shtml",
-      "title": "一江湘水“连”塞纳 内陆长沙拓展中欧开放新空间",
-      "category": "综合",
-      "summary": "中新网长沙11月3日电 题：一江湘水“连”塞纳 内陆长沙拓展中欧开放新空间",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725659.shtml",
-      "publishedAt": "2026-11-03T15:28:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/118263",
       "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
       "category": "科技",
@@ -586,6 +586,42 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143120",
+      "title": "气温上升，滑雪场及冬季旅游业面临经营压力",
+      "category": "国际",
+      "summary": "世界气象组织与国际滑雪和单板滑雪联合会周二联合发布报告指出，随着全球气温上升、降雪条件日益不稳定，滑雪场及冬季旅游业面临越来越大的经营压力。研究显示，如果全球平均气温较工业化前水平升高2℃，在不进行人工造雪的情况下，欧洲28个国家约53%的受调查滑雪场将面临极高的积雪不足风险，部分滑雪场可能因此难以维持经营。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143120",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143121",
+      "title": "国际电联：全球20亿人仍未上网",
+      "category": "国际",
+      "summary": "国际电信联盟周二发布的《2026年事实与数据》报告显示，2026年全球互联网使用人数估计达63亿，占世界人口的76%。尽管上网人数持续增加，但全球仍有20亿人未能上网。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143121",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1664,24 +1700,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143090",
-      "title": "安理会聚焦新兴技术与海上安全，专家警告海运业已成为网络攻击高风险目标",
-      "category": "国际",
-      "summary": "人工智能、自动化系统、卫星遥感和网络技术正在深刻改变海上安全格局，在带来机遇的同时也产生新的风险和治理挑战。为此，安理会周四就&nbsp;“新兴技术与海上安全”议题举行了高级别公开辩论。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143090",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:4b6a5619-f805-46cc-b666-2a466330fd88",
       "title": "公布世卫组织总干事候选人",
       "category": "健康",
@@ -1695,24 +1713,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143086",
-      "title": "联合国毒罪办：阿富汗鸦片生产反弹，产量增至上年五倍",
-      "category": "国际",
-      "summary": "联合国毒品和犯罪问题办公室周四发布的最新调查报告显示，2026年，阿富汗罂粟种植面积同比增长330%，鸦片产量同比增长400%，达到上一年的五倍。这是该国2022年实施毒品禁令以来，罂粟种植和鸦片生产首次出现显著回升。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143086",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
