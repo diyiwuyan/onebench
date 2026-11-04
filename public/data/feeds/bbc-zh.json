@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
+      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T13:14:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad#3",
+      "title": "「我在橫店當王妃」：中國興起短劇體驗遊",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T13:04:02.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#0",
       "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
       "meta": "BBC 中文 · 2026/11/4",
@@ -45,13 +59,6 @@
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T03:05:22.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
-      "title": "有望成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "meta": "BBC 中文 · 2026/11/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:32:57.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad#2",
@@ -145,13 +152,6 @@
       "publishedAt": "2026-11-02T00:17:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad#3",
-      "title": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
-      "meta": "BBC 中文 · 2026/10/31",
-      "url": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T13:20:00.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad#5",
       "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
       "meta": "BBC 中文 · 2026/10/30",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-04T12:08:18.891Z",
+  "updatedAt": "2026-11-04T19:45:19.338Z",
   "provider": "OneBench 公共资讯快照"
 }
