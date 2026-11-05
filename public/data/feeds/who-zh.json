@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:bab0bcf5-9b5d-46be-a8b1-db0fea34b121",
+      "title": "全球有四分之一的青少年报告在过去一周里没有身体活动",
+      "meta": "世界卫生组织 · 2026/11/4",
+      "url": "https://www.who.int/zh/news-room/04-11-2026-one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week",
+      "publishedAt": "2026-11-04T14:55:22.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:3b5fb3c9-b4dd-4379-a37c-017ccfcde48e",
       "title": "巴巴多斯消除了艾滋病毒母婴传播",
       "meta": "世界卫生组织 · 2026/10/30",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/18",
       "url": "https://www.who.int/zh/news-room/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics",
       "publishedAt": "2026-09-18T15:12:41.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:fecb0912-4a7d-4b35-a9f8-c173d83fc51c",
-      "title": "世卫组织与英联邦秘书处续签伙伴关系协议，共同加强卫生系统并推进全民健康覆盖",
-      "meta": "世界卫生组织 · 2026/9/15",
-      "url": "https://www.who.int/zh/news-room/15-09-2026-who-and-commonwealth-secretariat-renew-partnership-to-strengthen-health-systems-and-advance-universal-health-coverage",
-      "publishedAt": "2026-09-15T09:07:07.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T00:54:02.991Z",
+  "updatedAt": "2026-11-05T09:29:45.530Z",
   "provider": "OneBench 公共资讯快照"
 }
