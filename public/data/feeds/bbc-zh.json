@@ -5,18 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad#0",
+      "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
+      "meta": "BBC 中文 · 2026/11/5",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T16:26:38.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad#0",
       "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
       "meta": "BBC 中文 · 2026/11/5",
       "url": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-05T08:26:48.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad#0",
-      "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
-      "meta": "BBC 中文 · 2026/11/5",
-      "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T07:43:09.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad#0",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T09:29:45.530Z",
+  "updatedAt": "2026-11-05T18:01:14.715Z",
   "provider": "OneBench 公共资讯快照"
 }

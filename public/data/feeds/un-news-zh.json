@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143135",
+      "title": "燃油价格上涨冲击全球 发展中经济体负担最重",
+      "meta": "联合国新闻 · 2026/11/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143135",
+      "publishedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143134",
+      "title": "联合国维和事务负责人：“蓝盔”部队撤离黎巴嫩和西撒哈拉将导致“安全真空”",
+      "meta": "联合国新闻 · 2026/11/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143134",
+      "publishedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143075",
       "title": "【专题报道 】驶向电气化未来：交通转型如何助力全球气候目标",
       "meta": "联合国新闻 · 2026/11/4",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/30",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143106",
       "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143104",
-      "title": "冲突、埃博拉疫情和气候冲击加剧刚果（金）饥饿危机",
-      "meta": "联合国新闻 · 2026/10/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143104",
-      "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143103",
-      "title": "厄尔尼诺加剧东非裂谷热疫情风险",
-      "meta": "联合国新闻 · 2026/10/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143103",
-      "publishedAt": "2026-10-30T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T09:29:45.530Z",
+  "updatedAt": "2026-11-05T18:01:14.715Z",
   "provider": "OneBench 公共资讯快照"
 }
