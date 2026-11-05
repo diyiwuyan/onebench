@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad#0",
+      "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T21:02:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad#0",
+      "title": "共和黨在美國中期選舉中慘敗的五大原因",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T20:20:47.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#1",
       "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-11-04T13:04:02.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#1",
       "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
@@ -96,13 +110,6 @@
       "publishedAt": "2026-11-03T05:50:05.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad#1",
-      "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
-      "meta": "BBC 中文 · 2026/11/3",
-      "url": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T04:59:47.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckwyqjd9w4x7o/trad#2",
       "title": "金與正發文 朝鮮否認策劃63億美元幣安黑客攻擊",
       "meta": "BBC 中文 · 2026/11/3",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-10-30T00:23:04.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad#1",
-      "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
-      "meta": "BBC 中文 · 2026/10/28",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:47:37.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad#4",
       "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
       "meta": "BBC 中文 · 2026/10/20",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-04T19:45:19.338Z",
+  "updatedAt": "2026-11-05T00:54:02.991Z",
   "provider": "OneBench 公共资讯快照"
 }
