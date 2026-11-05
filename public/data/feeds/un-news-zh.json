@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143139",
+      "title": "“教育不能等待”基金6亿美元筹资目标近在咫尺",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143139",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143138",
+      "title": "儿基会：冲突中袭击供水和环境卫生设施事件增加三倍",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143138",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143137",
+      "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143137",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143136",
+      "title": "古特雷斯：文化是人类大家庭的纽带 有助于促进和解与和平",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143136",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143135",
       "title": "燃油价格上涨冲击全球 发展中经济体负担最重",
       "meta": "联合国新闻 · 2026/11/4",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/10/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143110",
       "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143105",
-      "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
-      "meta": "联合国新闻 · 2026/10/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143105",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143108",
-      "title": "【世界进行时】2026年10月30日",
-      "meta": "联合国新闻 · 2026/10/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143108",
-      "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143107",
-      "title": "逾130万阿富汗人返乡，困难家庭面临过冬考验",
-      "meta": "联合国新闻 · 2026/10/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143107",
-      "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143106",
-      "title": "乌克兰：奥列什基停火为平民带来希望，但救援车辆仍遭袭击",
-      "meta": "联合国新闻 · 2026/10/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143106",
-      "publishedAt": "2026-10-30T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T18:01:14.715Z",
+  "updatedAt": "2026-11-05T23:38:13.304Z",
   "provider": "OneBench 公共资讯快照"
 }

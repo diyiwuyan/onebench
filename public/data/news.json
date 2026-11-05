@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T18:01:14.715Z",
-  "expiresAt": "2026-11-06T00:01:14.715Z",
+  "generatedAt": "2026-11-05T23:38:13.304Z",
+  "expiresAt": "2026-11-06T05:38:13.304Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,240 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209959.shtml",
+      "title": "我国成功发射遥感五十一号07-09星",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209959.shtml",
+      "publishedAt": "2026-11-05T23:31:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/11-06/10726989.shtml",
+      "title": "别再乱吃！这些食物是结节“助推器” 这几类人一定要忌口",
+      "category": "综合",
+      "summary": "这些食物结节的“催化剂”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/11-06/10726989.shtml",
+      "publishedAt": "2026-11-05T23:25:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10726988.shtml",
+      "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
+      "category": "综合",
+      "summary": "今年汛期已经落幕，而大汛留下的考题并没有随汛期结束而翻篇。水利部昨天(5日)介绍，面对江河洪水多发、南北洪水并发的严峻形势，各地各部门全力以赴，打赢了水旱灾害防御这场硬仗，有力维护了人民群众生命财产安全。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726988.shtml",
+      "publishedAt": "2026-11-05T23:21:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10726987.shtml",
+      "title": "特朗普：俄乌冲突已非常接近解决",
+      "category": "综合",
+      "summary": "中新网11月6日电 据路透社报道，美国总统特朗普当地时间5日表示，他会见了俄罗斯总统特别代表德米特里耶夫。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726987.shtml",
+      "publishedAt": "2026-11-05T23:20:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-06/10726985.shtml",
+      "title": "11月6日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10726985.shtml",
+      "publishedAt": "2026-11-05T23:06:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10726984.shtml",
+      "title": "德国一政党领导人，被发现在酒店身亡",
+      "category": "综合",
+      "summary": "中新网11月6日电 据路透社5日报道，德国自由选民党领导人、巴伐利亚州副州长胡贝特·艾旺格4日被发现死于德国首都柏林一家酒店内，此事随后引发警方调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726984.shtml",
+      "publishedAt": "2026-11-05T22:58:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10726983.shtml",
+      "title": "微信群里，新就业群体的诉求被精准“打捞”、快速落实",
+      "category": "综合",
+      "summary": "让劳动者的声音被听见、难处有着落、价值被看见",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726983.shtml",
+      "publishedAt": "2026-11-05T22:50:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10726982.shtml",
+      "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早",
+      "category": "综合",
+      "summary": "针对欧洲多架客机遭炸弹威胁事件，欧盟委员会5日表示，目前就已报告的事件是否存在关联作出结论为时尚早，各国相关部门仍在开展调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726982.shtml",
+      "publishedAt": "2026-11-05T22:46:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10726981.shtml",
+      "title": "美国国会“变天”之后：防长去留成难题 伊朗战事再添变数",
+      "category": "综合",
+      "summary": "美国中期选举结果出炉，民主党掀起“蓝潮”，重夺参众两院多数党地位，特朗普政府未来两年施政空间明显收窄。共和党内部将失利根源指向伊朗战事，副总统万斯直言这场冲突让共和党付出代价，国防部长赫格塞思的去留随之成为焦点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726981.shtml",
+      "publishedAt": "2026-11-05T22:46:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10726980.shtml",
+      "title": "中智专家共话发展权保障与全球南方共同发展",
+      "category": "综合",
+      "summary": "中新社圣地亚哥11月5日电 (记者 林春茵)由中国人权发展基金会、中国社会科学院拉丁美洲研究所和智利大学共同主办的“2026·中国—智利人权研讨会”4日在智利首都圣地亚哥举行。60余名中智专家学者等围绕“中智交流互鉴与共同发展——纪念《发展权利宣言》通过40周年”主题，探讨发展权保障、全球南方合作及共同发展路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726980.shtml",
+      "publishedAt": "2026-11-05T22:43:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10726979.shtml",
+      "title": "美国纽约一住宅楼火灾致6亡9伤",
+      "category": "综合",
+      "summary": "中新社纽约11月5日电 (记者 王帆)美国纽约一栋住宅楼5日发生火灾，造成6人身亡、9人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726979.shtml",
+      "publishedAt": "2026-11-05T22:42:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10726978.shtml",
+      "title": "网传“不放秋假就是违规”是真的吗？",
+      "category": "综合",
+      "summary": "真相来了丨网传“不放秋假就是违规”是真的吗？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726978.shtml",
+      "publishedAt": "2026-11-05T22:39:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-06/10726970.shtml",
+      "title": "中国科学家打破人类低温纪录 宇宙最冷点“落户”中国空间站",
+      "category": "综合",
+      "summary": "中新网北京11月6日电 (记者 孙自法)若问宇宙最冷点在哪里？科学家遥指中国空间站。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726970.shtml",
+      "publishedAt": "2026-11-05T22:01:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10726977.shtml",
       "title": "新疆和田地区和康县发生4.8级地震 震源深度60千米",
@@ -355,240 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726956.shtml",
-      "title": "报告：中国以实际行动提升全球南方蓝色实力",
-      "category": "综合",
-      "summary": "中新社厦门11月5日电 (记者 阮煜琳 林永传)《〈海洋生物多样性协定〉地位、作用、前景与中国角色》报告中英文版5日在厦门发布。报告指出，中国正以实际行动提升全球南方蓝色实力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726956.shtml",
-      "publishedAt": "2026-11-05T15:22:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-05/10726952.shtml",
-      "title": "从三亚崖州古城阅千年文脉",
-      "category": "综合",
-      "summary": "中新网三亚11月5日电 题：从三亚崖州古城阅千年文脉",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726952.shtml",
-      "publishedAt": "2026-11-05T15:20:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726951.shtml",
-      "title": "“外籍人士进政协”暨“中外艺术家看重庆”展览在渝开展",
-      "category": "综合",
-      "summary": "中新网重庆11月5日电 (梁钦卿)“外籍人士进政协”暨“中外艺术家看重庆”展览5日在重庆市政协文史馆开幕。意大利、越南、西班牙、白俄罗斯、墨西哥、澳大利亚、匈牙利等多国驻渝蓉领事机构官员、外国商协会负责人、在渝留学生代表等约60人参加活动，近距离感受重庆人文底蕴与传统文化魅力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726951.shtml",
-      "publishedAt": "2026-11-05T15:18:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726955.shtml",
-      "title": "韩国拟扩大清海部队任务区域至霍尔木兹海峡附近海域",
-      "category": "综合",
-      "summary": "中新社首尔11月5日电 (记者 金旭)韩国国防部当地时间5日表示，计划向国会提交一份延长清海部队派遣期限的修订同意案，内容包括将部队任务区域扩大至阿曼南部海域，同时增派军事装备和兵力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726955.shtml",
-      "publishedAt": "2026-11-05T15:17:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726950.shtml",
-      "title": "潜心科研聚力转化 西大团队让超疏自洁涂层“走出”实验室",
-      "category": "综合",
-      "summary": "中新网西安11月5日电 (阿琳娜 魏梦鸽 张学冰)从一篇篇论文到一件件产品，从埋头攻关的实验室到“开疆拓土”的生产线，从一片普通的荷叶到超疏自洁的涂层……西北大学化工学院教授胡军带领团队研发出防黏附纳米功能涂层，让“出淤泥而不染”从一片荷叶走进工厂、油田和航天器。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726950.shtml",
-      "publishedAt": "2026-11-05T15:17:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-05/10726949.shtml",
-      "title": "中国青年展示风采 通过青奥会增进理解",
-      "category": "综合",
-      "summary": "中新网北京11月5日电 题：中国青年展示风采 通过青奥会增进理解",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726949.shtml",
-      "publishedAt": "2026-11-05T15:14:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726948.shtml",
-      "title": "通江达海向海而兴 广西南宁产业园区加速集聚临港产业",
-      "category": "综合",
-      "summary": "中新网南宁11月5日电(黄艳梅 杨彩虹)世纪工程平陆运河建成通航，广西南宁实现从内陆城市到江海枢纽的历史性突破。南宁市产业园区改革发展办公室主任黄辉5日表示，南宁市产业园区日益成为向海开放合作的重要平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726948.shtml",
-      "publishedAt": "2026-11-05T15:13:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-05/10726947.shtml",
-      "title": "2026天门山云纵天梯跑酷大赛收官 中国选手获两项冠军",
-      "category": "综合",
-      "summary": "中新网张家界11月5日电 (记者 邓霞)11月5日，2026年第四届天门山云纵天梯跑酷大赛在湖南张家界收官。两天赛程中，来自全球18个国家的60余名跑酷精英，在张家界天门山的999级天梯上演了一场竞速与技巧的极限较量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726947.shtml",
-      "publishedAt": "2026-11-05T15:10:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
-      "title": "北京男女排新阵容出征新赛季排超联赛",
-      "category": "综合",
-      "summary": "中新网北京11月5日电(记者 国璇) 北京越野男排、北京北冰洋女排5日在北京市木樨园体育运动技术学校举行2026-2027中国排球超级联赛新赛季出征仪式。两支队伍均以年轻队员为主，并引入了多名新外援。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
-      "publishedAt": "2026-11-05T15:07:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml",
-      "title": "APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱",
-      "category": "综合",
-      "summary": "中新网厦门11月5日电 (记者 阮煜琳)11月5日，由中方牵头起草、亚太经合组织(APEC)经济体共同参与的《APEC海洋素养行动计划》(以下简称行动计划)在2026厦门国际海洋周上正式发布，为未来五年APEC海洋合作构建“社会赋能”支柱，进一步稳固区域合作网络。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml",
-      "publishedAt": "2026-11-05T15:07:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726944.shtml",
-      "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
-      "category": "综合",
-      "summary": "中新网黑河11月5日电 (胡心玥 张志国)11月5日，黑龙江省首个中俄跨境综合办事大厅——黑河市中俄跨境综合服务大厅，在黑河自贸片区正式揭牌运营。大厅归集416项对俄跨境服务事项，由此从“分散办理”迈入“一厅集成”新阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726944.shtml",
-      "publishedAt": "2026-11-05T15:06:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-05/10726940.shtml",
-      "title": "向北开放势能持续释放 绥芬河迎来新增长极",
-      "category": "综合",
-      "summary": "中新网绥芬河11月5日电 (田晓慧)依托口岸区位优势与中俄免签政策红利，北疆口岸城市绥芬河前三季度经济运行稳中有进，对外开放动能持续迸发，消费、外贸、交通枢纽各项指标全线向好。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726940.shtml",
-      "publishedAt": "2026-11-05T15:04:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-05/10726938.shtml",
-      "title": "澳门举办粤港澳大湾区大健康高峰论坛 助力健康湾区建设",
-      "category": "综合",
-      "summary": "中新网澳门11月5日电 (记者 郑嘉伟)由香港大公文汇传媒集团澳门新闻中心、卓智医院合办的首届“粤港澳大湾区大健康高峰论坛暨颁奖典礼”5日在澳门举行。活动汇聚国际顶尖专家及业界领袖，就健康与长寿领域最新发展及未来趋势展开高层次对话与交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726938.shtml",
-      "publishedAt": "2026-11-05T15:01:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/118546",
       "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
       "category": "科技",
@@ -603,6 +603,78 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143139",
+      "title": "“教育不能等待”基金6亿美元筹资目标近在咫尺",
+      "category": "国际",
+      "summary": "各国政府和合作伙伴周四在瑞士日内瓦举行的高级别补充筹资会议上，宣布向联合国全球紧急教育基金“教育不能等待”新增4.058亿美元承诺资金。加上此前通过多年期捐助承诺已获得的1.358亿美元，该基金“希望从这里开始”（Hope Starts Here）筹资活动累计获得5.416亿美元资金及承诺，达到6亿美元目标的90%。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143139",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143138",
+      "title": "儿基会：冲突中袭击供水和环境卫生设施事件增加三倍",
+      "category": "国际",
+      "summary": "联合国儿童基金会周四发布报告指出，2021年至2025年，造成供水和环境卫生系统受损或被毁的袭击事件增至原来的三倍，儿童面临的疾病暴发、营养不良和暴力风险随之上升。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143138",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143137",
+      "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
+      "category": "国际",
+      "summary": "联合国负责维和事务的副秘书长拉克鲁瓦和秘书长非洲之角问题特使丛光周四在安理会通报阿卜耶伊局势时指出，尽管阿卜耶伊整体安全形势有所改善，苏丹冲突外溢、武装势力活动和治理问题仍使当地局势面临严峻挑战。联合国阿卜耶伊临时安全部队继续发挥重要稳定作用。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143137",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143136",
+      "title": "古特雷斯：文化是人类大家庭的纽带 有助于促进和解与和平",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周四在西班牙首都马德里举行的第三十届伊比利亚-美洲峰会上发表讲话，强调文化是基本人权，也是连接人类大家庭的纽带。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143136",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1628,24 +1700,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143105",
-      "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
-      "category": "国际",
-      "summary": "应索马里联邦政府请求，联合国索马里过渡时期援助团于10月31日完成为期两年的过渡安排，正式结束任务。自1995年以来，联合国先后通过多个政治特派团，支持索马里恢复国家治理、重建机构、推进和平与和解。此次结束任务后，相关工作将由索马里有关部门和联合国驻地机构继续承担。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143105",
-      "publishedAt": "2026-10-31T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:3b5fb3c9-b4dd-4379-a37c-017ccfcde48e",
       "title": "巴巴多斯消除了艾滋病毒母婴传播",
       "category": "健康",
@@ -1676,60 +1730,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143108",
-      "title": "【世界进行时】2026年10月30日",
-      "category": "国际",
-      "summary": "本期要点：美古代表在联合国大会现场激烈交锋；独立调查委员会认定：俄军袭击乌克兰能源设施已构成战争罪；四大受战火影响国家，近千万民众面临严寒无着；阿富汗鸦片产量出现反弹，激增至上一年的五倍；缅甸因冲突死亡人数已超过10万；联合国官员专访：透视朝鲜人权与生活现状；武装冲突中女性死亡人数过去五年内翻倍；全球生态系统恢复取得新进展，但海洋吸碳能力减弱、温室气体浓度再",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143108",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143107",
-      "title": "逾130万阿富汗人返乡，困难家庭面临过冬考验",
-      "category": "国际",
-      "summary": "国际移民组织周五警告，今年已有超过130万阿富汗人从伊朗和巴基斯坦返回本国，许多家庭缺少住所、取暖燃料和御寒用品。冬季临近，援助机构为帮助困难民众过冬制定的计划仍缺880万美元，逾14万人可能因此得不到必要援助。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143107",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143106",
-      "title": "乌克兰：奥列什基停火为平民带来希望，但救援车辆仍遭袭击",
-      "category": "国际",
-      "summary": "联合国最高人道主义官员周五表示，乌克兰南部赫尔松州奥列什基的停火每维持一天，当地平民就多一份希望。他强调，必须保障希望撤离的平民能够安全、自愿地离开。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143106",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
