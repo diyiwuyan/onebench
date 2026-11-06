@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T15:55:27.347Z",
-  "expiresAt": "2026-11-06T21:55:27.347Z",
+  "generatedAt": "2026-11-06T21:29:48.973Z",
+  "expiresAt": "2026-11-07T03:29:48.973Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,240 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
+      "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
+      "category": "综合",
+      "summary": "今天(6日)，全球首台4000米级浮空风力发电系统在湖南岳阳成功试飞。这是4000米级浮空风电系统首次在城市场景完成放飞试验。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
+      "publishedAt": "2026-11-06T16:05:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-07/10727724.shtml",
+      "title": "穿不穿秋裤和“老寒腿”“抗冻基因”有关系吗？",
+      "category": "综合",
+      "summary": "“还不穿秋裤，小心老了得‘老寒腿’”，最近有人这样催您“穿秋裤”吗？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727724.shtml",
+      "publishedAt": "2026-11-06T16:02:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10727718.shtml",
+      "title": "泰国拟推五项外籍劳工管理新措施",
+      "category": "综合",
+      "summary": "中新社曼谷11月6日电 (王茜 李映民)泰国外籍劳工管理委员会6日召开工作会议，劳工部长朱拉汶在会后表示，泰国政府拟推出五项外籍劳工管理新措施，以缓解企业用工压力，保障劳动力供应。相关措施涉及延长工作许可、放宽部分外籍劳工居留和工作条件，以及增加劳工来源国等。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727718.shtml",
+      "publishedAt": "2026-11-06T15:58:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727723.shtml",
+      "title": "入冬标准如何确定？为何多地秋天越来越短？详解来了",
+      "category": "综合",
+      "summary": "明天(11月7日)将迎来立冬节气。立冬是节气意义上冬季的开始，但气象学上的入冬有着一定的气温判定指标。眼下，多轮冷空气接连影响，北方大部地区气温快速下滑，不少地方已有了冬的气息。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727723.shtml",
+      "publishedAt": "2026-11-06T15:58:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-06/10727713.shtml",
+      "title": "港浸大举办药食同源会议 助力中医药科研成果转化",
+      "category": "综合",
+      "summary": "中新网香港11月6日电 香港浸会大学(简称“浸大”)主办的第二届“药食同源会议2026”5日至6日在香港科学园举行。本届会议以“深化技术转化及其影响力”为主题，吸引逾800名来自学术界、科研机构及产业界的代表参与。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727713.shtml",
+      "publishedAt": "2026-11-06T15:56:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727717.shtml",
+      "title": "从酒店到校园，从偷拍到交易：谁在把女性隐私明码标价？",
+      "category": "综合",
+      "summary": "中新网北京11月6日电(王诗尧)从酒店房间到大学城民宿，从公共厕所到校园卫生间，偷拍摄像头正以越来越隐蔽的方式侵入公共空间和私人生活。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727717.shtml",
+      "publishedAt": "2026-11-06T15:55:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727714.shtml",
+      "title": "2026年宁夏推动22个城乡社区(村)创建达标老年友好型社区",
+      "category": "综合",
+      "summary": "中新网银川11月6日电 (记者 杨迪)记者6日从宁夏民政厅获悉，2026年，宁夏推动22个城乡社区(村)创建达标老年友好型社区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727714.shtml",
+      "publishedAt": "2026-11-06T15:55:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-06/10727710.shtml",
+      "title": "探讨当代亲密关系话剧《今宵酒·醒何处》首演",
+      "category": "综合",
+      "summary": "中新网北京11月6日电 (记者 应妮)作为中国国家话剧院青年导演创作扶持计划第四季原创剧目，中国国家话剧院演员刘端端执导的话剧处女作《今宵酒·醒何处》5日在北京国话先锋智慧剧场首演。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727710.shtml",
+      "publishedAt": "2026-11-06T15:54:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
+      "title": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+      "category": "综合",
+      "summary": "中新网上海11月6日电 (记者 姜煜)跨国医药公司赛诺菲与上药控股有限公司6日在第九届进博会现场举行深化战略合作签约仪式，双方将在长期合作基础上，进一步发挥各自在全球创新与本土产业资源方面的优势，携手提升药品可及性，推动更多创新成果惠及中国患者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
+      "publishedAt": "2026-11-06T15:53:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-06/10727709.shtml",
+      "title": "世界浙商杭州“开麦”：科创聚力向“新”而行",
+      "category": "综合",
+      "summary": "中新网杭州11月6日电(郭其钰)当AI浪潮重塑千行百业，浙商如何穿越周期、赢得主动？如何在高质量发展赛道上抢占先机、赢得未来？11月6日在浙江杭州开幕的第八届世界浙商大会，成为外界观察浙商识变求新、浙江厚植创新生态的窗口。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727709.shtml",
+      "publishedAt": "2026-11-06T15:53:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
+      "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
+      "category": "综合",
+      "summary": "中新网无锡11月6日电 (孙权 唐娟)总投资8亿美元的联茂电子AI算力高端电子基板材料研发制造总部项目(简称“项目”)，6日在无锡锡山经济技术开发区开工。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
+      "publishedAt": "2026-11-06T15:52:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727707.shtml",
+      "title": "闽南师范大学举办第二季“美美与共”国际文化市集",
+      "category": "综合",
+      "summary": "中新网漳州11月6日电 (胡娇阳)5日晚，第二季“美美与共”国际文化市集在位于福建省漳州市的闽南师范大学弦歌广场举办。来自越南、马来西亚、印度尼西亚、俄罗斯、老挝、菲律宾、喀麦隆、哈萨克斯坦等10余个国家的留学生，以及海峡两岸、港澳地区师生代表共500余人到场参加，共赴这场“美美与共·多彩互融”的中外文化交流盛宴。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727707.shtml",
+      "publishedAt": "2026-11-06T15:51:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727706.shtml",
+      "title": "广西防城港医药出海成效凸显",
+      "category": "综合",
+      "summary": "中新网南宁11月6日电 (记者 冯抒敏)广西防城港市市长何翔6日在南宁表示，该市通过实施“人工智能+医疗卫生”举措，深化面向东盟、上海合作组织的开放合作，完善产业服务支撑体系，推动防城港国际医学开放试验区(以下简称“试验区”)从“物理集聚”向“化学融合”转变。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727706.shtml",
+      "publishedAt": "2026-11-06T15:50:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-06/10727716.shtml",
       "title": "我国南极活动与环境保护法出台 对国际南极治理意义几何？",
@@ -338,240 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-06/10727688.shtml",
-      "title": "广西首个县级国际传播中心在桂林阳朔揭牌",
-      "category": "综合",
-      "summary": "中新网桂林11月6日电(杨宗盛 钟玲丽)11月6日，广西首个县级国际传播中心——阳朔国际传播中心在桂林市阳朔县揭牌成立。中心由广西国际传播中心与阳朔县委宣传部共建，是广西完善自治区、市、县三级国际传播体系的实践探索。仪式现场，广西国际传播中心与阳朔县共同签署共建战略合作框架协议，并为首批“国际传播推介官”颁发聘书。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727688.shtml",
-      "publishedAt": "2026-11-06T15:29:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10727687.shtml",
-      "title": "泰国湄南河举行龙船巡游庆祝王后生辰",
-      "category": "综合",
-      "summary": "中新网曼谷11月6日电(王茜 梁峻祥 李映民)湄南河上，装饰华丽的龙船在夕阳映照下缓缓前行，船首雕刻的金色神兽熠熠生辉，身着传统服饰的海军官兵整齐划桨。6日，泰国龙船巡游在曼谷湄南河举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727687.shtml",
-      "publishedAt": "2026-11-06T15:29:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-06/10727686.shtml",
-      "title": "第12届快递“最后一公里”大会在京举行",
-      "category": "综合",
-      "summary": "中新网北京11月6日电 (记者 王梦瑶)以“变革向新、末端向暖”为主题的第12届快递“最后一公里”大会6日在北京举行。来自国家邮政局、中国宏观经济研究院等有关部门和研究机构的专家，以及邮政、快递、电商、关联产业等企业代表，围绕推动快递高质量发展开展研讨交流，凝聚发展共识。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727686.shtml",
-      "publishedAt": "2026-11-06T15:29:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727685.shtml",
-      "title": "破壳了！今年广州第一只南极企鹅宝宝顺利降生",
-      "category": "综合",
-      "summary": "中新网广州11月6日电 (记者 程景伟)广州正佳极地海洋世界6日传来喜讯，今年广州第一只南极企鹅宝宝顺利破壳降生，企鹅宝宝破壳时体重约90克，将在两个月内完成换羽，当下状态平稳。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727685.shtml",
-      "publishedAt": "2026-11-06T15:28:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10727684.shtml",
-      "title": "第四届中国—东盟和平利用核技术论坛在马来西亚吉隆坡举办",
-      "category": "综合",
-      "summary": "中新网北京11月6日电 (记者 马帅莎)据中国国家原子能机构6日消息，第四届中国—东盟和平利用核技术论坛11月4日至5日在马来西亚吉隆坡举办。本届论坛首次邀请海湾阿拉伯国家合作委员会成员国代表参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727684.shtml",
-      "publishedAt": "2026-11-06T15:27:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-06/10727683.shtml",
-      "title": "民革中央孙中山研究学会山东分会换届会议暨纪念孙中山先生诞辰160周年学术研讨会召开",
-      "category": "综合",
-      "summary": "中新网济南11月6日电 (李明芮)民革中央孙中山研究学会山东分会换届会议暨纪念孙中山先生诞辰160周年学术研讨会11月6日在山东济南召开。山东省政协副主席、民革山东省委会主委孙继业出席会议并当选新一届理事会会长。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727683.shtml",
-      "publishedAt": "2026-11-06T15:27:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727682.shtml",
-      "title": "滇中城市群如何防范直下型地震灾害风险？云南提出针对性解法",
-      "category": "综合",
-      "summary": "中新网昆明11月6日电 (罗婕)6日，云南省“开局起步‘十五五’”主题系列新闻发布会·防震减灾专场在昆明市举行。记者从会上获悉，该省近日印发的《云南省“十五五”防震减灾规划》(以下简称《规划》)中，提出实施重点地区地震构造危险源探查，特别为滇中城市群等人口密集区防范城市直下型地震提供基础支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727682.shtml",
-      "publishedAt": "2026-11-06T15:26:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727679.shtml",
-      "title": "（乡村行·看振兴）安徽怀远一粒小糯稻种出百亿大产业",
-      "category": "综合",
-      "summary": "中新网蚌埠11月6日电 (刘鸿鹤)第四届沿淮糯稻产业集群建设大会6日在安徽省蚌埠市怀远县召开，沿淮产区种植主体、粮商、加工企业代表共商糯稻产业集群高质量发展路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727679.shtml",
-      "publishedAt": "2026-11-06T15:26:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-06/10727681.shtml",
-      "title": "哈尔滨冰雪文化艺术季启幕 2270场演出奏响中外文艺交流乐章",
-      "category": "综合",
-      "summary": "中新网哈尔滨11月6日电 (史轶夫 杨思颖)“冰雪为媒艺汇冰城”2026—2027年哈尔滨冰雪文化艺术季于6日在哈尔滨启幕，2270场文艺演出将伴着“冰城”冬韵登场，以文艺为桥奏响中外文艺交流乐章。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727681.shtml",
-      "publishedAt": "2026-11-06T15:25:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-06/10727680.shtml",
-      "title": "走进湖南湘江新区：出口清单上的文化新面孔",
-      "category": "综合",
-      "summary": "中新网长沙11月6日电 (胡语桐)一双出自湖南湘江新区创业者之手的湘绣虎头鞋，在纽约联合国总部展厅展出后随即投产；东京大型电器连锁店货架上，一款中国研发的剪辑软件与日本本土产品并排陈列；非洲观众的电视屏幕上，说着当地语言的中国动画正在更新。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727680.shtml",
-      "publishedAt": "2026-11-06T15:24:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-06/10727678.shtml",
-      "title": "真金白银“投资于人”：2026年黑龙江博士后人数同比增长14.1%。",
-      "category": "综合",
-      "summary": "中新网哈尔滨11月6日电 (记者 王妮娜)振兴龙江，关键在人。11月6日，在“开局起步‘十五五’——奋力谱写中国式现代化黑龙江新篇章”系列主题新闻发布会上，黑龙江省人力资源和社会保障厅副厅长杨海东亮出一组“人才账本”：今年以来投入1.8亿元资金，吸引集聚1461名博士后开展创新研究，博士后人数同比增长14.1%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727678.shtml",
-      "publishedAt": "2026-11-06T15:24:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-06/10727677.shtml",
-      "title": "缅甸妇女代表走进西双版纳 感受中国边疆发展活力",
-      "category": "综合",
-      "summary": "中新网西双版纳11月6日电 (记者 缪超)“侨韵傣乡·她享版纳”外籍妇女友好交流活动5日至6日在云南省西双版纳傣族自治州举行。来自缅甸的十余名妇女代表感受中国边疆发展活力，搭建中缅民间友好交往的柔性桥梁。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727677.shtml",
-      "publishedAt": "2026-11-06T15:23:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-06/10727676.shtml",
-      "title": "法国东部发生校车事故 已造成至少2人死亡16人受伤",
-      "category": "综合",
-      "summary": "中新网巴黎11月6日电 法国东部当地时间6日发生一起校车事故，目前已造成至少2人死亡，16人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727676.shtml",
-      "publishedAt": "2026-11-06T15:23:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad#3",
       "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
       "category": "国际",
@@ -602,6 +602,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143150",
+      "title": "难民署：近9000万被迫流离失所者面临严重气候风险",
+      "category": "国际",
+      "summary": "联合国难民署周五发布报告指出，全球近9000万被迫流离失所者生活在气候灾害风险严重的国家，占全球被迫流离失所人口的约四分之三。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143150",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143149",
+      "title": "国际原子能机构考察团审查俄罗斯核与辐射安全监管框架",
+      "category": "国际",
+      "summary": "国际原子能机构专家组周五表示，俄罗斯拥有能力强、独立的核与辐射安全监管机构，监管体系成熟，并重视安全文化。但监管部门之间的协调、人员规划和培训等方面仍有改进空间。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143149",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143148",
+      "title": "古特雷斯：多边主义面临五项考验 国际社会必须让武力服从法律",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周五在西班牙萨拉曼卡大学发表演讲时指出，当今多边主义正面临和平、尊严、公平、气候正义以及技术管控五项决定性考验。他强调，国际社会必须坚持共同规则，让武力服从法律，让权力服务于公共利益。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143148",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1415,6 +1469,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:d19bec54-aa62-4f8c-9c65-f136a1c1fc3b",
+      "title": "六项气候和健康行动每年可以拯救160万人的生命并带来数万亿美元的收益",
+      "category": "健康",
+      "summary": "根据世界卫生组织（世卫组织）今天发布的新报告，采取六项经过验证的气候和健康措施每年可以挽救160万人的生命，同时还能带来数万亿美元的经济和财政收益。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/04-11-2026-six-climate-and-health-actions-could-save-1.6-million-lives-and-deliver-trillions-in-benefits-each-year",
+      "publishedAt": "2026-11-04T07:50:12.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad#2",
       "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
       "category": "国际",
@@ -1686,60 +1757,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143117",
-      "publishedAt": "2026-11-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143116",
-      "title": "移民组织警告：AI助长虚假信息传播，移民成为替罪羊",
-      "category": "国际",
-      "summary": "国际移民组织总干事艾米·波普（Amy Pope）周一警告，随着人工智能和社交媒体加速传播有关移民的虚假信息，公众的焦虑与不安正在演变为猜疑，移民也越来越容易成为攻击和排斥的对象。这不仅加剧了社会分歧，也使各国政府更难赢得公众信任、开展移民治理合作。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143116",
-      "publishedAt": "2026-11-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143115",
-      "title": "国际刑事法院院长呼吁联合国会员国捍卫司法独立，抵制针对国际刑事司法的施压",
-      "category": "国际",
-      "summary": "联合国大会周一（11月2日）听取了国际刑事法院院长赤根智子（Tomoko Akane）提交的法院年度工作报告。赤根表示，国际刑事法院正面临前所未有的制裁和施压，但法院将继续独立、公正地履行职责。她同时呼吁各国采取具体行动，维护《罗马规约》和国际法治原则。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143115",
-      "publishedAt": "2026-11-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143114",
-      "title": "教科文组织：每七起记者遇害案件中，六起未能惩治凶手",
-      "category": "国际",
-      "summary": "联合国教科文组织周一表示，全球记者遇害案件中，凶手未受惩罚的比例十多年来首次上升。同时，无人机越来越多地被用于袭击记者，成为冲突地区新闻工作者面临的新威胁。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143114",
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "tags": [
         "国际",
@@ -2121,23 +2138,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:563361c7-4f85-4b80-9639-4c2f0a3a1317",
-      "title": "世卫组织扩大安全避孕选择",
-      "category": "健康",
-      "summary": "从紧急避孕到更持久的植入式避孕器以及未来的男性避孕措施，世界卫生组织（世卫组织）正在推荐更广泛的安全有效避孕方案，以便人们能够选择符合自身需求的避孕方式。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/23-09-2026-who-expands-safe-options-for-contraception",
-      "publishedAt": "2026-09-23T08:50:44.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
       ],
       "hot": false
     }
