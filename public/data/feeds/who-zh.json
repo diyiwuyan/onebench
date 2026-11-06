@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:71ff1e90-2367-4787-bcde-4209da3cbcdb",
+      "title": "埃博拉治疗研究取得进展，两款新候选疫苗将加入试验",
+      "meta": "世界卫生组织 · 2026/11/4",
+      "url": "https://www.who.int/zh/news-room/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances",
+      "publishedAt": "2026-11-04T15:25:48.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:bab0bcf5-9b5d-46be-a8b1-db0fea34b121",
       "title": "全球有四分之一的青少年报告在过去一周里没有身体活动",
       "meta": "世界卫生组织 · 2026/11/4",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/23",
       "url": "https://www.who.int/zh/news-room/23-09-2026-who-expands-safe-options-for-contraception",
       "publishedAt": "2026-09-23T08:50:44.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:ae840f12-bb0f-4ac9-86a1-9bf228426abb",
-      "title": "联合国大会大流行病问题会议召开前夕，会员国推进关于病原体获取和惠益分享的谈判",
-      "meta": "世界卫生组织 · 2026/9/18",
-      "url": "https://www.who.int/zh/news-room/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics",
-      "publishedAt": "2026-09-18T15:12:41.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T23:38:13.304Z",
+  "updatedAt": "2026-11-06T06:45:57.613Z",
   "provider": "OneBench 公共资讯快照"
 }

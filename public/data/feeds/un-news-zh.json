@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143147",
+      "title": "英国女性举报强奸反遭刑事起诉，联合国委员会认定保护不力",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143147",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143146",
+      "title": "数据中心能否搬到太空？国际电联探讨机遇与挑战",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143146",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143145",
+      "title": "中东危机可能重塑亚太地区就业格局",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143145",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143140",
+      "title": "发展中国家外债升至9.4万亿美元，创历史新高",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143140",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143139",
       "title": "“教育不能等待”基金6亿美元筹资目标近在咫尺",
       "meta": "联合国新闻 · 2026/11/5",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/11/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143114",
       "publishedAt": "2026-11-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143113",
-      "title": "生物多样性公约缔约国制定“埃里温路线图”以加快保护自然行动",
-      "meta": "联合国新闻 · 2026/11/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143113",
-      "publishedAt": "2026-11-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143112",
-      "title": "联合国西撒哈拉全民投票特派团任务结束，秘书长表示“随时准备”继续支持和平努力",
-      "meta": "联合国新闻 · 2026/11/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143112",
-      "publishedAt": "2026-11-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143111",
-      "title": "世界城市日：城市焕新：人人享有适当住房",
-      "meta": "联合国新闻 · 2026/10/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143111",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143110",
-      "title": "人权高专办工作人员在胡塞武装羁押期间死亡，联合国强烈谴责并要求展开调查",
-      "meta": "联合国新闻 · 2026/10/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143110",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T23:38:13.304Z",
+  "updatedAt": "2026-11-06T06:45:57.613Z",
   "provider": "OneBench 公共资讯快照"
 }
