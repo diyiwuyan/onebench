@@ -26,13 +26,6 @@
       "publishedAt": "2026-11-04T12:56:19.000Z"
     },
     {
-      "id": "who-zh-urn:uuid:d19bec54-aa62-4f8c-9c65-f136a1c1fc3b",
-      "title": "六项气候和健康行动每年可以拯救160万人的生命并带来数万亿美元的收益",
-      "meta": "世界卫生组织 · 2026/11/4",
-      "url": "https://www.who.int/zh/news-room/04-11-2026-six-climate-and-health-actions-could-save-1.6-million-lives-and-deliver-trillions-in-benefits-each-year",
-      "publishedAt": "2026-11-04T07:50:12.000Z"
-    },
-    {
       "id": "who-zh-urn:uuid:3b5fb3c9-b4dd-4379-a37c-017ccfcde48e",
       "title": "巴巴多斯消除了艾滋病毒母婴传播",
       "meta": "世界卫生组织 · 2026/10/30",
@@ -150,8 +143,15 @@
       "meta": "世界卫生组织 · 2026/9/25",
       "url": "https://www.who.int/zh/news-room/25-09-2026-who-announces-expansion-of-prequalification-programme-for-medical-devices",
       "publishedAt": "2026-09-25T07:06:46.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:563361c7-4f85-4b80-9639-4c2f0a3a1317",
+      "title": "世卫组织扩大安全避孕选择",
+      "meta": "世界卫生组织 · 2026/9/23",
+      "url": "https://www.who.int/zh/news-room/23-09-2026-who-expands-safe-options-for-contraception",
+      "publishedAt": "2026-09-23T08:50:44.000Z"
     }
   ],
-  "updatedAt": "2026-11-07T01:55:27.502Z",
+  "updatedAt": "2026-11-07T08:47:18.863Z",
   "provider": "OneBench 公共资讯快照"
 }
