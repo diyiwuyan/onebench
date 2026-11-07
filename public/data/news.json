@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T08:47:18.863Z",
-  "expiresAt": "2026-11-07T14:47:18.863Z",
+  "generatedAt": "2026-11-07T16:26:24.849Z",
+  "expiresAt": "2026-11-07T22:26:24.849Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,546 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml",
+      "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
+      "category": "综合",
+      "summary": "中新社曼谷11月7日电 (梁峻祥 李映民)泰国总理阿努廷7日表示，泰国目前粮食和能源供应总体稳定，民众无需担忧出现食品及生活必需品短缺。泰国将发挥本国农业生产优势，同时通过扩大生物燃料使用、推动能源来源多元化等措施，增强国家应对外部风险的能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml",
+      "publishedAt": "2026-11-07T15:52:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml",
+      "title": "全球最大、发展最快！我国可再生能源技术占据全球主导地位",
+      "category": "综合",
+      "summary": "今天(7日)，中国企业改革与发展研究会发布了《全球能源转型报告(2026)》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml",
+      "publishedAt": "2026-11-07T15:42:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10728190.shtml",
+      "title": "沪武高速潜山段发生多车追尾事故",
+      "category": "综合",
+      "summary": "记者从消防、公安等多部门了解到，11月7日下午，沪武高速安徽潜山段发生一起多车追尾事故。沪武高速岳西往桐城南方向，一辆载有电池的货车发生自燃，后方多车追尾。目前事故伤亡情况还在了解中，记者从当地有关部门了解到，有人被送到医院治疗。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728190.shtml",
+      "publishedAt": "2026-11-07T15:40:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-07/10728178.shtml",
+      "title": "菲律宾9月失业人数升至286万 就业市场承压",
+      "category": "综合",
+      "summary": "中新社马尼拉11月7日电 (记者 周璟)菲律宾统计局6日公布的数据显示，菲律宾9月失业人数升至286万，高于8月的277万和去年同期的196万。当月失业率为5.4%，高于8月的5.3%和去年同期的3.8%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728178.shtml",
+      "publishedAt": "2026-11-07T15:04:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728177.shtml",
+      "title": "中国—东盟法学院发布系列教学科研成果",
+      "category": "综合",
+      "summary": "【东盟专线】中国—东盟法学院发布系列教学科研成果",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728177.shtml",
+      "publishedAt": "2026-11-07T15:04:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-07/10728174.shtml",
+      "title": "青春影展搭台 两岸影视从业者厦门畅叙光影",
+      "category": "综合",
+      "summary": "中新社厦门11月7日电 (吴冠标)以“执影逐梦 同心同行”为主题的第四届海峡两岸青春影展颁奖仪式7日在厦门集美举行，约400名两岸影视界专家、行业代表、青年影人、高校师生共赴光影之约。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728174.shtml",
+      "publishedAt": "2026-11-07T15:03:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10728170.shtml",
+      "title": "贵州入境游持续升温 欧美旅行商组团踩线",
+      "category": "综合",
+      "summary": "中新社贵阳11月7日电 (记者 周燕玲)来自英国、美国、澳大利亚、新西兰等国的旅行商7日走进多彩贵州城，开启贵州旅游踩线考察活动。当天活动中，他们体验拦门酒、竹竿舞，并在非遗体验中心近距离感受贵州多彩的民族文化。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728170.shtml",
+      "publishedAt": "2026-11-07T15:01:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728169.shtml",
+      "title": "（第九届进博会）多国风物初登进博 借开放中国链接世界",
+      "category": "综合",
+      "summary": "中新社上海11月7日电 题：多国风物初登进博 借开放中国链接世界",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728169.shtml",
+      "publishedAt": "2026-11-07T15:00:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10728184.shtml",
+      "title": "千公里仅3.43毫秒！我国新一代通信网技术取得新突破",
+      "category": "综合",
+      "summary": "近日，我国完成全球首个千公里空芯光纤双向实时传输验证。这意味着我国在新一代通信网关键技术领域取得新的突破。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728184.shtml",
+      "publishedAt": "2026-11-07T14:51:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728168.shtml",
+      "title": "广西织就面向东盟的矿业与地学人才合作纽带",
+      "category": "综合",
+      "summary": "【东盟专线】广西织就面向东盟的矿业与地学人才合作纽带",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728168.shtml",
+      "publishedAt": "2026-11-07T14:47:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10728182.shtml",
+      "title": "“免费鉴宝、高价回收” 起底专盯老人的直播诈骗链",
+      "category": "综合",
+      "summary": "“免费鉴宝、高价回收”，这样的广告您见到过吗？回收者开出高于市场价好几倍的价格，声称要回收您手里的文玩、字画、古钱币等藏品，还可以先打钱、后上门。看到这些，您会心动吗？近段时间，一个特大“免费鉴宝引流、直播抽奖诈骗”犯罪团伙浮出水面，涉案金额超千万元，受害者多达上千人。而这些受害者当中，多数都是老年人。随着AI等新技术应用，犯罪分子的诈骗花样不断翻新，这次，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728182.shtml",
+      "publishedAt": "2026-11-07T14:45:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728164.shtml",
+      "title": "中国—东盟推进媒体务实合作 提升区域国际传播力",
+      "category": "综合",
+      "summary": "【东盟专线】中国—东盟推进媒体务实合作 提升区域国际传播力",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728164.shtml",
+      "publishedAt": "2026-11-07T14:31:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
+      "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+      "category": "综合",
+      "summary": "中新社上海11月7日电 题：百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
+      "publishedAt": "2026-11-07T13:47:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10728166.shtml",
+      "title": "原创性“中国方案”→国家法律制度 检察公益诉讼法明年起施行",
+      "category": "综合",
+      "summary": "昨天(6日)，十四届全国人大常委会第二十五次会议表决通过《中华人民共和国检察公益诉讼法》，该法自2027年1月1日起施行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728166.shtml",
+      "publishedAt": "2026-11-07T13:45:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
+      "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
+      "category": "综合",
+      "summary": "中新网重庆11月7日电(陈佳欣)“朝天门”中的“朝天”是什么意思、重庆的“背篓专线”是几号线……7日，“留学重庆·感知巴渝”地名大会迎来决赛，24名外籍师生同台竞技，循着地名知识，开启跨越国界的巴渝文化探寻之旅。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
+      "publishedAt": "2026-11-07T13:26:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
+      "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
+      "category": "综合",
+      "summary": "中新社上海11月7日电 (范宇斌)恰逢周末，第九届中国国际进口博览会7日迎来大客流，不少华商身影穿梭在展区之中。进博会已成为华商侨企联通中外、共享中国机遇的桥梁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
+      "publishedAt": "2026-11-07T13:26:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
+      "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
+      "category": "综合",
+      "summary": "中新社北京11月7日电 (记者 国璇)2026-2027赛季中国女子排球超级联赛7日在北京揭幕。客场作战的天津渤海银行女排在A级常规赛首轮以大比分3:1战胜北京北冰洋女排，收获新赛季“开门红”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
+      "publishedAt": "2026-11-07T13:25:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
+      "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
+      "category": "综合",
+      "summary": "中新网昆明11月7日电(记者 李嘉娴)当人工智能让虚拟影像唾手可得，纪实影像的价值正在被重新看见。7日，“观象见己·风物叩心”——2026云南艺术学院电影电视学院优秀纪实影像作品联展在云南省昆明市启幕，18部影像作品对准云南的土地、生灵与人，在光影里叩问真实。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
+      "publishedAt": "2026-11-07T13:25:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
+      "title": "（第九届进博会）广西借进博会平台邀全球客商加大投资力度",
+      "category": "综合",
+      "summary": "中新网上海11月7日电 (尹倩芸 林浩)“我们企业是中国进博会的‘全勤生’，自2018年参展以来，生产的蜂蜜等农产品在中国市场销量稳步提升。今年，平陆运河的开通，为澳大利亚矿产、农产品进入中国市场提供了新通道，我们希望未来可以借助广西的区位优势，把更多产品销往中国西南地区的广阔市场。”澳大利亚资本投资公司全球高级副总裁兼大中华区首席执行官何逸舟近日说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
+      "publishedAt": "2026-11-07T13:25:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-07/10728121.shtml",
+      "title": "（第九届进博会）华商侨企借进博织密开放合作网",
+      "category": "综合",
+      "summary": "中新社上海11月7日电 (范宇斌)作为第九届中国国际进口博览会配套活动之一，2026“侨连五洲·沪上进博”主题活动7日在国家会展中心(上海)举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-07/10728121.shtml",
+      "publishedAt": "2026-11-07T13:24:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728119.shtml",
+      "title": "专访越南驻华大使范清平：越中纺织产业优势互补",
+      "category": "综合",
+      "summary": "中新网绍兴11月7日电(项菁)“越南和中国在纺织领域优势互补，合作空间非常广阔。我们欢迎中国投资者赴越南，在面料及配套产业领域扩大高质量投资。”近日在浙江绍兴柯桥举行的2026第九届世界布商大会上，越南驻华大使范清平接受专访时说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728119.shtml",
+      "publishedAt": "2026-11-07T13:24:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-07/10728138.shtml",
+      "title": "香港举行研讨会纪念香港基本法颁布36周年",
+      "category": "综合",
+      "summary": "中新网香港11月7日电 “纪念基本法颁布三十六周年研讨会”7日在香港举行。香港特区行政长官李家超通过视频在会上致辞表示，36年来，香港基本法有效实践，确保香港长期繁荣稳定、“一国两制”行稳致远；立足国家发展新征程，香港要在融入和服务国家发展大局上展现担当、主动作为。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-07/10728138.shtml",
+      "publishedAt": "2026-11-07T13:24:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728117.shtml",
+      "title": "“敢闯”更“敢创” 世界浙商重塑新时代“四千”精神",
+      "category": "综合",
+      "summary": "中新网杭州11月7日电 (王潇婧)钱塘江潮奔涌不息，见证一代代浙商逐梦前行。11月6日至7日，第八届世界浙商大会在浙江杭州举行，来自全球的1800余名嘉宾齐聚一堂，共话民营经济高质量发展的时代命题。大会释放出鲜明信号：历经数十年市场淬炼，浙商群体正从“敢闯敢干”迈向“敢创敢赢”，为“四千”精神写下新的时代注脚。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728117.shtml",
+      "publishedAt": "2026-11-07T13:23:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-07/10728144.shtml",
+      "title": "2026百队杯青少年篮球赛在北京落幕",
+      "category": "综合",
+      "summary": "中新网北京11月7日电(记者 国璇) 2026北京晚报百队杯青少年篮球赛11月7日在首都体育学院北京大学生体育馆落幕。从10月18日开赛以来，本届百队杯篮球赛共设U10男子组及女子组、U12男子组及女子组、U14及U17男子组6个组别，有77支球队参赛，参赛球员总数近800名，总比赛场次达到129场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728144.shtml",
+      "publishedAt": "2026-11-07T13:23:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728110.shtml",
+      "title": "浙江常山胡柚立冬开摘 从业者：今年果实整体品质预计更好",
+      "category": "综合",
+      "summary": "中新网衢州11月7日电(董易鑫 张曌)“依照果型、色泽、果面、口感等要素共同研判，常山胡柚今年的果实品质预计会比往年更好。”11月7日，浙江省衢州市常山县农业农村局胡柚产业发展中心主任汪丽霞说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728110.shtml",
+      "publishedAt": "2026-11-07T13:23:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-07/10728111.shtml",
+      "title": "从食物里读懂中国 陈晓卿推出新书《我的美食向导》",
+      "category": "综合",
+      "summary": "中新网北京11月7日电 (记者 高凯)从一部纪录片火遍大江南北，到尽尝烟火再度出发，美食纪录片导演陈晓卿对美食始终充满探索与思考。近日，陈晓卿推出历时三年打磨的全新力作《我的美食向导》，由长江新世纪正式出版发行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728111.shtml",
+      "publishedAt": "2026-11-07T13:22:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-07/10728145.shtml",
+      "title": "香港举行青年发展高峰论坛 逾3300名海内外青年互相交流",
+      "category": "综合",
+      "summary": "中新网香港11月7日电 由香港特区政府民政及青年事务局主办的第三届香港·青年发展高峰论坛7日在香港会议展览中心举行，吸引来自中国内地、香港及海外35个国家和地区的逾3300名青年参加，就青年关心的议题互相交流学习。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-07/10728145.shtml",
+      "publishedAt": "2026-11-07T13:22:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10728146.shtml",
+      "title": "贵州入境游持续升温 欧美旅行商组团踩线",
+      "category": "综合",
+      "summary": "中新网贵阳11月7日电 (记者 周燕玲)7日，来自英国、美国、澳大利亚、新西兰等国的旅行商走进多彩贵州城，正式开启贵州旅游踩线考察活动。当天活动中，他们体验拦门酒、竹竿舞，并在非遗体验中心近距离感受贵州多彩的民族文化。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728146.shtml",
+      "publishedAt": "2026-11-07T13:22:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728120.shtml",
+      "title": "（第九届进博会）进博会上展开“大豆对话” 44年情谊见证中美农贸韧性",
+      "category": "综合",
+      "summary": "中新社上海11月7日电 题：进博会上展开“大豆对话” 44年情谊见证中美农贸韧性",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728120.shtml",
+      "publishedAt": "2026-11-07T13:22:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10728123.shtml",
+      "title": "（第九届进博会）业界共话：AI带来全球化新机遇",
+      "category": "综合",
+      "summary": "中新社上海11月7日电 (记者 郑莹莹)“AI时代是原生全球化的新时代。”中国社会科学院大学教授江小涓日前在第九届虹桥国际经济论坛·虹桥国际开放枢纽建设分论坛暨2026虹桥HUB大会上称。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728123.shtml",
+      "publishedAt": "2026-11-07T13:21:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143158",
       "title": "【子午播报】2026年11月7日",
       "category": "国际",
@@ -50,542 +590,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727936.shtml",
-      "title": "（第九届进博会）台企参展规模扩大：进博会是“最好舞台”",
-      "category": "综合",
-      "summary": "中新社上海11月7日电 题：台企参展规模扩大：进博会是“最好舞台”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727936.shtml",
-      "publishedAt": "2026-11-07T08:40:39.000Z",
+      "id": "sspai-https://sspai.com/post/116750",
+      "title": "一个 05 后的个人数码编年史",
+      "category": "科技",
+      "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/116750",
+      "publishedAt": "2026-11-07T09:05:06.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727945.shtml",
-      "title": "新加坡艺术家林子平特展在上海开幕",
-      "category": "综合",
-      "summary": "中新网上海11月7日电 (记者 王笈)由上海美术馆与新加坡国家美术馆联合推出的《墨韵星洲：新加坡艺术家林子平特展》6日在上海美术馆启幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727945.shtml",
-      "publishedAt": "2026-11-07T08:39:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-07/10727942.shtml",
-      "title": "武汉江滩芦荻花绽放引客来",
-      "category": "综合",
-      "summary": "11月7日，武汉汉口江滩芦荻花绽放，游人穿梭其间，或驻足赏景或拍照留影，令人流连忘返。图为游客在盛开的芦荻花前拍照留影。中新社记者 张畅 摄 11月7日，武汉汉口江滩芦荻花绽放，游人穿梭其间，或驻足赏景或拍照留影，令人流连忘返。图为游客观赏盛开的芦荻花。中新社记者 张畅 摄 11月7日，武汉汉口江滩芦荻花绽放，游人穿梭其间，或驻足赏景或拍照留影，令人流连忘返",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727942.shtml",
-      "publishedAt": "2026-11-07T08:39:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10727946.shtml",
-      "title": "郑建邦出席非洲国家议员研讨班开班式",
-      "category": "综合",
-      "summary": "中新网北京11月7日电 全国人大常委会副委员长郑建邦7日在京出席非洲国家议员研讨班开班式并致辞。他表示，今年是中非开启外交关系70周年，中国全国人大愿同非洲各国议会和泛非议会一道，深化立法机构交流互鉴，推进中非“十大伙伴行动”，为中非务实合作提供法律和政策支持。(完)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727946.shtml",
-      "publishedAt": "2026-11-07T08:38:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727950.shtml",
-      "title": "华商学专题研讨会暨学术成果发布会举行",
-      "category": "综合",
-      "summary": "中新网南京11月7日电 华商学专题研讨会暨学术成果发布会7日在南京举行。会议以“华商智慧·经世新篇”为主题，以潮商研究为切入点，汇聚海内外专家学者，推进华商学理论体系建构与潮商研究创新深化。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727950.shtml",
-      "publishedAt": "2026-11-07T08:37:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-07/10727935.shtml",
-      "title": "2026年全国触式橄榄球锦标赛福州开赛 首支闽台联队亮相",
-      "category": "综合",
-      "summary": "中新社福州11月7日电 (郑江洛)2026年全国触式橄榄球锦标赛7日在福州开赛，近50支队伍、700余名运动员同场竞技。这是福州在连续四届承办全国触式橄榄球分区赛后，首次承办触式橄榄球项目全国最高级别赛事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727935.shtml",
-      "publishedAt": "2026-11-07T08:37:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10727947.shtml",
-      "title": "致公党在沪举办主题读书分享会 传承致公百年薪火",
-      "category": "综合",
-      "summary": "中新网上海11月7日电(范宇斌 赵阳)6日，“践行五中全会精神 传承致公百年薪火”主题读书分享会在上海静安国际会客厅举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727947.shtml",
-      "publishedAt": "2026-11-07T08:36:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727931.shtml",
-      "title": "四川民族手工业走进澳门 “一针一线”架起川澳文化交流桥梁",
-      "category": "综合",
-      "summary": "中新网澳门11月7日电 (杨予頔)悠扬的民族歌声回荡在澳门博物馆大炮台前，身着民族服饰的舞者踏着节拍翩翩起舞，浓郁的巴蜀风情洋溢濠江之畔。6日，由四川省民族宗教事务委员会主办的“天府石榴情·蜀韵澳门行”——“蜀韵匠心”四川民族手工业澳门推介活动在澳门启动，来自四川6个市(州)的特色民族手工艺品集中亮相，吸引众多澳门民众及游客驻足欣赏。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727931.shtml",
-      "publishedAt": "2026-11-07T08:35:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-07/10727949.shtml",
-      "title": "广东省逾500名青少年齐聚惠州“以球会友”",
-      "category": "综合",
-      "summary": "中新网惠州11月7日电(记者 张璐)记者7日从赛事组委会获悉，“奔跑吧·少年”中国体育彩票2026年广东省青少年乒乓球锦标赛(以下简称“赛事”)近日在惠州举行，来自广东省16个地市、横琴粤澳深度合作区以及13所学校的30个单位共584名运动员挥拍竞逐。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727949.shtml",
-      "publishedAt": "2026-11-07T08:35:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-07/10727921.shtml",
-      "title": "马来西亚东海岸铁路一期工程竣工交付 全面具备商业运营条件",
-      "category": "综合",
-      "summary": "中新网吉隆坡11月7日电 (记者 刘育英)由中国企业承建的马来西亚东海岸铁路(马东铁)项目一期工程哥打巴鲁至鹅唛段6日举行竣工交付仪式，正式移交项目业主马来西亚铁路衔接公司，为今年12月开通运营奠定基础。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727921.shtml",
-      "publishedAt": "2026-11-07T08:35:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-07/10727920.shtml",
-      "title": "中国—马来西亚国际高等研究院揭牌",
-      "category": "综合",
-      "summary": "中新网吉隆坡11月7日电 (记者 刘育英)中国—马来西亚国际高等研究院(以下简称“中马高研院”)揭牌仪式6日在厦门大学马来西亚分校举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727920.shtml",
-      "publishedAt": "2026-11-07T08:34:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727889.shtml",
-      "title": "从展厅到论坛，五粮液在进博会书写中国白酒国际化新表达",
-      "category": "综合",
-      "summary": "11月5日，第九届中国国际进口博览会暨虹桥国际经济论坛在上海开幕。黄浦江畔再迎全球宾朋，五粮液受邀出席开幕式，并以虹桥国际经济论坛“钻石会员”身份深度参与论坛分论坛。11月6日下午，五粮液股份公司副董事长、总经理华涛出席虹桥论坛消费焕新相关分论坛并作主旨分享。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727889.shtml",
-      "publishedAt": "2026-11-07T08:34:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-07/10727948.shtml",
-      "title": "2026北京冰雪消费季推介会举行 推出17条冰雪旅游线路",
-      "category": "综合",
-      "summary": "中新网北京11月7日电 “冰雪聚燃冬 京彩中国年”2026北京冰雪消费季推介会暨第十三届北京市民快乐冰雪季系列活动启动仪式，11月6日下午在国家速滑馆“冰丝带”·熊猫眼举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727948.shtml",
-      "publishedAt": "2026-11-07T08:32:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727913.shtml",
-      "title": "汇聚海内外客商 无锡锡山加码产业科创对外开放",
-      "category": "综合",
-      "summary": "中新网无锡11月7日电 (孙权 唐娟)6日下午，2026无锡锡山金秋招商合作恳谈会举行。来自海内外高校院所、企业、投资机构、商会协会的300余名嘉宾相聚无锡市锡山区，共话产业合作新机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727913.shtml",
-      "publishedAt": "2026-11-07T08:30:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727910.shtml",
-      "title": "近500场活动服务9.6万人次 民进重庆市委会推动社会服务品牌化",
-      "category": "综合",
-      "summary": "中新网重庆11月7日电 (刘相琳 陈涛 张晓宁)记者7日从民进重庆市委会获悉，今年以来，民进重庆市委会构建“2+3+N”社会服务品牌矩阵，即2个“开明”系列专项、3个品牌平台和区级组织“N”项特色活动，全年开展活动近500场次，服务民众9.6万余人次，推动社会服务由活动型向机制型、由零散化向品牌化转变。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727910.shtml",
-      "publishedAt": "2026-11-07T08:28:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727900.shtml",
-      "title": "（走进中国乡村）广东百个智慧农场丰盈湾区“米袋子”",
-      "category": "综合",
-      "summary": "中新社广东江门11月7日电 题：广东百个智慧农场丰盈湾区“米袋子”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727900.shtml",
-      "publishedAt": "2026-11-07T08:27:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727899.shtml",
-      "title": "咖啡香飘广西乡野 年轻人村中“煮”出新故事",
-      "category": "综合",
-      "summary": "中新社南宁11月7日电 题：咖啡香飘广西乡野 年轻人村中“煮”出新故事",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727899.shtml",
-      "publishedAt": "2026-11-07T08:25:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727901.shtml",
-      "title": "（第九届进博会）普华永道：中国内地职场正从AI“工具引入期”稳步迈入“人机协同期”",
-      "category": "综合",
-      "summary": "中新社上海11月7日电 (记者 姜煜)专业服务机构普华永道7日在第九届中国国际进口博览会现场发布《2026年期待与忐忑全球职场调研》中国内地报告。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727901.shtml",
-      "publishedAt": "2026-11-07T08:24:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727916.shtml",
-      "title": "（第九届进博会）超188亿美元 第九届中国石油国际合作论坛暨签约仪式在沪举行",
-      "category": "综合",
-      "summary": "中新网上海11月7日电 (狄权)第九届中国石油国际合作论坛暨签约仪式6日在上海举行。活动上，中国石油交易分团与35家合作伙伴签署采购协议38份，采购商品来源覆盖16个国家和地区，涉及油气资源、高端装备、绿色低碳等多个领域，采购签约金额超过188亿美元，较去年稳中有升。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727916.shtml",
-      "publishedAt": "2026-11-07T08:23:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727917.shtml",
-      "title": "（第九届进博会）进博会展商办证、通行遇难题 上海警方联动服务解需求",
-      "category": "综合",
-      "summary": "中新网上海11月7日电(记者 李姝徵)前一天下午提交办证材料，次日便拿到了第九届中国国际进口博览会(以下简称进博会)通行证件。记者7日从上海警方获悉，一家南美洲参展企业的负责人向上海警方国展中心“蓝鲸”护企工作点民警表示感谢：“太不可思议了，没想到这么快问题就得到了解决。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727917.shtml",
-      "publishedAt": "2026-11-07T08:22:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-07/10727898.shtml",
-      "title": "中国央行黄金储备“24连增”",
-      "category": "综合",
-      "summary": "中新社北京11月7日电 中国央行7日公布的官方储备资产数据显示，10月末黄金储备7830万盎司，较9月末的7747万盎司增加83万盎司。此为央行连续第24个月增持黄金。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727898.shtml",
-      "publishedAt": "2026-11-07T08:21:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-07/10727934.shtml",
-      "title": "糖往心里聚，人往一处聚，才甜",
-      "category": "综合",
-      "summary": "半月谈记者 曹志恒 孙少雄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-07/10727934.shtml",
-      "publishedAt": "2026-11-07T08:20:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727887.shtml",
-      "title": "弘扬崇军风尚 湖南选树一批最美退役军人与拥军人物",
-      "category": "综合",
-      "summary": "中新网长沙11月7日电 (罗颂伊)戎装虽卸，军魂永驻；鱼水情深，薪火相传。近日，红星耀三湘——2026年度湖南省“最美退役军人”和“最美拥军人物”宣传选树活动在长沙举行。主办单位有关负责人为10名“最美退役军人”、20名“最美拥军人物”(含民兵10名)颁发奖杯、证书。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727887.shtml",
-      "publishedAt": "2026-11-07T08:20:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-07/10727912.shtml",
-      "title": "2026年石家庄高层次人才交流洽谈会举办",
-      "category": "综合",
-      "summary": "11月7日，2026年石家庄高层次人才交流洽谈会在河北石家庄举办，现场求职者与用人单位洽谈对接。中新社记者 翟羽佳 摄 11月7日，2026年石家庄高层次人才交流洽谈会在河北石家庄举办，求职者在会场查看资料、寻找岗位。中新社记者 翟羽佳 摄 11月7日，2026年石家庄高层次人才交流洽谈会在河北石家庄举办，求职者在会场查看资料、寻找岗位。中新社记者 翟羽佳 ",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727912.shtml",
-      "publishedAt": "2026-11-07T08:20:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10727893.shtml",
-      "title": "锡伯族春英，“不知何时就学会了哈萨克语”",
-      "category": "综合",
-      "summary": "中新网塔城11月7日电 题：锡伯族春英，“不知何时就学会了哈萨克语”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727893.shtml",
-      "publishedAt": "2026-11-07T08:17:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-07/10727933.shtml",
-      "title": "全球媒体聚焦︱外媒：APEC会议在深圳举办意义深远",
-      "category": "综合",
-      "summary": "多家外媒和智库关注即将在中国深圳举办的亚太经合组织(APEC)领导人非正式会议，认为APEC为亚太合作提供了良好的对话平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727933.shtml",
-      "publishedAt": "2026-11-07T08:15:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210122.shtml",
-      "title": "中国第43次南极考察队从三亚启航执行南极科学考察任务",
-      "category": "综合",
-      "summary": "11月7日，由自然资源部组织的中国第43次南极考察队从海南三亚出征奔赴南极。此次考察由“雪龙”号、“雪龙2”号、“大洋”号共同保障，来自国内100多家单位的600余名队员参加，预计2027年4月完成任务后返回国内。图为“雪龙2”号缓缓驶离三亚南山港奔赴南极。中新社记者 骆云飞 摄 11月7日，由自然资源部组织的中国第43次南极考察队从海南三亚出征奔赴南极。此",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210122.shtml",
-      "publishedAt": "2026-11-07T08:13:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727923.shtml",
-      "title": "第32号台风“查帕卡”生成 今年台风个数刷新21世纪以来最多纪录",
-      "category": "综合",
-      "summary": "中国天气网讯 据中央气象台消息，今天(11月7日)下午14时，今年第32号台风“查帕卡”生成。这也意味着，今年编号台风的个数(32个)刷新21世纪以来最多纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727923.shtml",
-      "publishedAt": "2026-11-07T08:05:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210112.shtml",
-      "title": "（第九届进博会）免费展位扩容17% 进博会带“最不发达国家”互利共赢",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210112.shtml",
-      "publishedAt": "2026-11-07T08:04:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-07/10727918.shtml",
-      "title": "两部门会商调度雨雪天气防范应对工作",
-      "category": "综合",
-      "summary": "中新网11月7日电 据应急管理部官方微博消息，11月7日，国家防减救灾委办公室、应急管理部会同中国气象局组织专题会商，分析研判本轮雨雪发展趋势，调度安徽、江西、北京、河北、辽宁等重点省份，部署当前暴雪和强降雨防范应对工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727918.shtml",
-      "publishedAt": "2026-11-07T08:02:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1415,24 +1433,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/117713",
-      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-      "category": "科技",
-      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/117713",
-      "publishedAt": "2026-11-04T12:25:55.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143135",
       "title": "燃油价格上涨冲击全球 发展中经济体负担最重",
       "category": "国际",
@@ -1591,6 +1591,23 @@
         "教育",
         "健康",
         "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:d19bec54-aa62-4f8c-9c65-f136a1c1fc3b",
+      "title": "六项气候和健康行动每年可以拯救160万人的生命并带来数万亿美元的收益",
+      "category": "健康",
+      "summary": "根据世界卫生组织（世卫组织）今天发布的新报告，采取六项经过验证的气候和健康措施每年可以挽救160万人的生命，同时还能带来数万亿美元的经济和财政收益。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/04-11-2026-six-climate-and-health-actions-could-save-1.6-million-lives-and-deliver-trillions-in-benefits-each-year",
+      "publishedAt": "2026-11-04T07:50:12.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
@@ -2121,23 +2138,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:563361c7-4f85-4b80-9639-4c2f0a3a1317",
-      "title": "世卫组织扩大安全避孕选择",
-      "category": "健康",
-      "summary": "从紧急避孕到更持久的植入式避孕器以及未来的男性避孕措施，世界卫生组织（世卫组织）正在推荐更广泛的安全有效避孕方案，以便人们能够选择符合自身需求的避孕方式。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/23-09-2026-who-expands-safe-options-for-contraception",
-      "publishedAt": "2026-09-23T08:50:44.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
       ],
       "hot": false
     }
