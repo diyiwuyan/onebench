@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad#0",
+      "title": "法國血庫冷藏設備遭駭客攻擊 幕後黑手眾說紛紜",
+      "meta": "BBC 中文 · 2026/11/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:08:14.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad#3",
       "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
       "meta": "BBC 中文 · 2026/11/6",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-11-06T11:24:32.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad#2",
       "title": "歐洲航空業虛假炸彈威脅：誰是幕後黑手？",
       "meta": "BBC 中文 · 2026/11/6",
       "url": "https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad?at_medium=RSS&at_campaign=rss",
@@ -159,13 +166,6 @@
       "publishedAt": "2026-11-04T00:23:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmkgk61rgzj4o/trad#2",
-      "title": "如果黑客能夠控制超市的冷凍櫃，其他科技設備又有多脆弱？",
-      "meta": "BBC 中文 · 2026/11/3",
-      "url": "https://www.bbc.com/zhongwen/articles/cmkgk61rgzj4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T05:50:05.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6gr87wj8dr9o/trad#3",
       "title": "姆巴佩的中國「烏龍」：毛澤東玩笑為何讓網民震怒？",
       "meta": "BBC 中文 · 2026/11/2",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-09-25T04:56:06.000Z"
     }
   ],
-  "updatedAt": "2026-11-07T21:50:57.830Z",
+  "updatedAt": "2026-11-08T01:26:28.183Z",
   "provider": "OneBench 公共资讯快照"
 }
