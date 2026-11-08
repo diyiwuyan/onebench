@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T16:40:07.177Z",
-  "expiresAt": "2026-11-08T22:40:07.177Z",
+  "generatedAt": "2026-11-08T22:05:12.512Z",
+  "expiresAt": "2026-11-09T04:05:12.512Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+      "title": "埃及列车脱轨事故已致7死112伤",
+      "category": "综合",
+      "summary": "当地时间11月8日，根据埃及卫生部的最新通报，当天发生在吉萨省阿亚特地区的列车脱轨事故，已造成7人死亡、112人受伤。其中45名伤者经治疗后情况好转，已出院。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+      "publishedAt": "2026-11-08T21:54:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
+      "title": "南非地方选举计票结束 非国大保住第一大党地位",
+      "category": "综合",
+      "summary": "南非独立选举委员会8日公布计票结果，非洲人国民大会(非国大)在地方政府选举中保住第一大政党地位，得票率为30.76%，较2021年地方政府选举下跌约15个百分点。民主联盟得票率为24.64%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
+      "publishedAt": "2026-11-08T21:54:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
+      "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+      "category": "综合",
+      "summary": "土耳其和伊拉克8日发表联合声明，重申将继续合作，推动在伊拉克北部尼尼微省辛贾尔地区建立中央政府权威，终结库尔德工人党在当地的存在。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
+      "publishedAt": "2026-11-08T21:53:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
+      "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
+      "category": "综合",
+      "summary": "据俄罗斯方面8日消息，飞行数据显示，一架美军巡逻机当天在黑海上空活动，另一架美国侦察机沿俄罗斯边境飞行超过4小时。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
+      "publishedAt": "2026-11-08T21:51:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
+      "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
+      "category": "综合",
+      "summary": "当地时间8日晚，伊拉克库尔德自治区(库区)安全部门消息人士称，位于伊库区苏莱曼尼亚省的豪尔穆尔天然气田当天遭不明来源的无人机袭击，气田遭袭后已停止生产。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
+      "publishedAt": "2026-11-08T21:50:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728574.shtml",
+      "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+      "category": "综合",
+      "summary": "据巴勒斯坦方面消息，当地时间8日晚间，在加沙地带中部代尔拜拉赫，一个流离失所民众帐篷营地附近的沙土塌方，导致多个帐篷被掩埋。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728574.shtml",
+      "publishedAt": "2026-11-08T21:48:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
+      "title": "特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗",
+      "category": "综合",
+      "summary": "当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
+      "publishedAt": "2026-11-08T21:47:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
       "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
@@ -453,132 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728537.shtml",
       "publishedAt": "2026-11-08T13:01:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-08/10728533.shtml",
-      "title": "纹枰竞逐绽巾帼风采 陕西省第十届女子围棋赛落幕",
-      "category": "综合",
-      "summary": "中新网西安11月8日电 (记者 张一辰)2026年陕西省第十届女子围棋赛8日在西安大唐西市博物馆、大唐西市艺术品中心落下帷幕。经过两天七轮的交锋，来自榆林、延安、安康等多个陕西地市的258名女子棋手完成全部赛程。各组别名次及“最美棋手奖”“最佳服饰奖”逐一揭晓。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728533.shtml",
-      "publishedAt": "2026-11-08T12:56:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210281.shtml",
-      "title": "中超联赛：上海海港队6比1战胜辽宁铁人农商银行队",
-      "category": "综合",
-      "summary": "11月8日，在上海进行的2026赛季中国足球超级联赛第30轮比赛中，上海海港队6比1战胜辽宁铁人农商银行队。图为上海海港队球员魏震（红衣）在比赛中争顶头球。中新社记者 殷立勤 摄 11月8日，在上海进行的2026赛季中国足球超级联赛第30轮比赛中，上海海港队6比1战胜辽宁铁人农商银行队。图为上海海港队球员莱昂纳多（红衣）在比赛中射门。中新社记者 殷立勤 摄 ",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210281.shtml",
-      "publishedAt": "2026-11-08T12:55:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728531.shtml",
-      "title": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析",
-      "category": "综合",
-      "summary": "前三季度文体休闲服务类零售额增速明显快于整体服务零售增速——",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728531.shtml",
-      "publishedAt": "2026-11-08T12:48:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728530.shtml",
-      "title": "埃及发生火车脱轨事故 已致约50人受伤",
-      "category": "综合",
-      "summary": "中新网11月8日电 综合外媒8日报道，埃及吉萨省发生火车脱轨事故，已致约50人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728530.shtml",
-      "publishedAt": "2026-11-08T12:46:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728529.shtml",
-      "title": "新华社快讯：埃及发生列车脱轨事故致至少50人受伤",
-      "category": "综合",
-      "summary": "新华社快讯：据埃及媒体8日报道，一列由埃及首都开罗开往该国南部阿斯旺的列车当天在埃及吉萨省境内发生脱轨事故，4节车厢脱轨，导致至少50人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728529.shtml",
-      "publishedAt": "2026-11-08T12:44:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-08/10728506.shtml",
-      "title": "“局部理想主义”沙龙在京举办 《村庄无小事》记录基层变迁",
-      "category": "综合",
-      "summary": "中新网北京11月8日电 (记者 陈杭)有人走向远方，有人重新发现身边，有人换了一条人生道路，有人在日复一日的小事里坚持……“局部理想主义”展览开幕沙龙近日在北京三联韬奋书店·三里屯店举办。作为参展嘉宾之一，曾任记者、后在高校工作的张冬冬，现场分享了自己如何走向远方、又如何在贵州乡村的“小事”里坚持的理想实践。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728506.shtml",
-      "publishedAt": "2026-11-08T12:43:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728513.shtml",
-      "title": "（第九届进博会）借进博之窗融通中外 世界500强华侨华人高管共话AI全球化新机遇",
-      "category": "综合",
-      "summary": "中新网上海11月8日电(范宇斌)作为第九届中国国际进口博览会配套活动之一，以“融通中外 共享新机”为主题的2026“侨连五洲·沪上进博”主题活动7日在国家会展中心(上海)举行。在圆桌对话环节，来自4家世界五百强企业的华侨华人高管齐聚一堂，共话进博会平台价值，聚焦人工智能如何打通跨境创新、产业协同与合规治理。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728513.shtml",
-      "publishedAt": "2026-11-08T12:42:19.000Z",
       "tags": [
         "国内",
         "社会",
