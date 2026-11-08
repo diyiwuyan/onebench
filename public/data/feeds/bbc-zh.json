@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad#0",
+      "title": "間諜、線人與秘密警察：匈牙利公開共產統治時期檔案",
+      "meta": "BBC 中文 · 2026/11/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:42:01.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#0",
+      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+      "meta": "BBC 中文 · 2026/11/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T10:31:39.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad#0",
+      "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
+      "meta": "BBC 中文 · 2026/11/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T10:03:03.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad#0",
       "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
       "meta": "BBC 中文 · 2026/11/8",
@@ -19,14 +40,7 @@
       "publishedAt": "2026-11-08T06:43:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#0",
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "meta": "BBC 中文 · 2026/11/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T06:29:12.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad#2",
       "title": "法國血庫冷藏設備遭駭客攻擊 幕後黑手眾說紛紜",
       "meta": "BBC 中文 · 2026/11/8",
       "url": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
@@ -61,7 +75,7 @@
       "publishedAt": "2026-11-06T11:14:01.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad#1",
       "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
       "meta": "BBC 中文 · 2026/11/6",
       "url": "https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad?at_medium=RSS&at_campaign=rss",
@@ -124,13 +138,6 @@
       "publishedAt": "2026-11-05T05:03:14.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad#1",
-      "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-      "meta": "BBC 中文 · 2026/11/5",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T02:36:32.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad#1",
       "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
       "meta": "BBC 中文 · 2026/11/4",
@@ -164,13 +171,6 @@
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T00:23:42.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad#2",
-      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-      "meta": "BBC 中文 · 2026/11/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:23:34.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad#5",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-09-25T04:56:06.000Z"
     }
   ],
-  "updatedAt": "2026-11-08T08:59:21.405Z",
+  "updatedAt": "2026-11-08T16:40:07.177Z",
   "provider": "OneBench 公共资讯快照"
 }
