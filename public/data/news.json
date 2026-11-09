@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T22:05:12.512Z",
-  "expiresAt": "2026-11-09T04:05:12.512Z",
+  "generatedAt": "2026-11-09T01:43:52.855Z",
+  "expiresAt": "2026-11-09T07:43:52.855Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,175 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728623.shtml",
+      "title": "钦州港海关2026年11月份“关长接待日”公告",
+      "category": "综合",
+      "summary": "为了解社会各界的建议和意见，并切实解决实际问题和困难，现就钦州港海关2026年11月份“关长接待日”有关事项公告如下：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728623.shtml",
+      "publishedAt": "2026-11-09T01:38:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad#0",
+      "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+      "category": "国际",
+      "summary": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T01:37:14.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
+      "title": "11月9日央行开展1820亿元隔夜逆回购操作",
+      "category": "综合",
+      "summary": "中新网11月9日电 据中国人民银行网站消息，2026年11月9日中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
+      "publishedAt": "2026-11-09T01:35:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728621.shtml",
+      "title": "A股周一开盘：超4800只个股飘红，三大指数集体高开",
+      "category": "综合",
+      "summary": "A股周一开盘：超4800只个股飘红，三大指数集体高开；通信设备、半导体、贵金属、航天军工上涨；石油天然气、酒类、银行下跌",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728621.shtml",
+      "publishedAt": "2026-11-09T01:35:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728619.shtml",
+      "title": "2026年10月份居民消费价格同比上涨0.7%",
+      "category": "综合",
+      "summary": "中新网11月9日电 据国家统计局网站消息，2026年10月份，全国居民消费价格同比上涨0.7%。其中，城市上涨0.7%，农村上涨0.7%；食品价格下降2.9%，非食品价格上涨1.5%；消费品价格上涨0.8%，服务价格上涨0.7%。1—10月平均，全国居民消费价格比上年同期上涨0.9%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728619.shtml",
+      "publishedAt": "2026-11-09T01:32:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
+      "title": "11月9日人民币对美元中间价报6.7188 下调20个基点",
+      "category": "综合",
+      "summary": "中新网11月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7188元，下调20个基点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
+      "publishedAt": "2026-11-09T01:30:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
+      "title": "寒潮继续南下影响江淮江南华南等地 云南等地降水明显",
+      "category": "综合",
+      "summary": "中新网11月9日电 据中央气象台网站消息，监测显示，受冷空气影响，今7时较昨7时，西北地区东部、华北、黄淮、江淮、江汉、西南地区及辽宁等出现6～12℃降温，局地降温幅度超过12℃。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
+      "publishedAt": "2026-11-09T01:27:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728617.shtml",
+      "title": "本是领养猫咪，却背上了“贷款”",
+      "category": "综合",
+      "summary": "“免费领养”需分期付款买指定商品，宠物病亡还得接着还款——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728617.shtml",
+      "publishedAt": "2026-11-09T01:27:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10728613.shtml",
+      "title": "强化地方党委功能（学习贯彻党的二十届五中全会精神）",
+      "category": "综合",
+      "summary": "尹力",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728613.shtml",
+      "publishedAt": "2026-11-09T01:23:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210288.shtml",
       "title": "埃及列车脱轨事故已致7死112伤",
       "category": "综合",
-      "summary": "当地时间11月8日，根据埃及卫生部的最新通报，当天发生在吉萨省阿亚特地区的列车脱轨事故，已造成7人死亡、112人受伤。其中45名伤者经治疗后情况好转，已出院。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
-      "publishedAt": "2026-11-08T21:54:59.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210288.shtml",
+      "publishedAt": "2026-11-09T01:14:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
-      "title": "南非地方选举计票结束 非国大保住第一大党地位",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10728609.shtml",
+      "title": "王小洪在云南调研时强调 提高政策措施的针对性有效性 因地制宜推动高质量发展",
       "category": "综合",
-      "summary": "南非独立选举委员会8日公布计票结果，非洲人国民大会(非国大)在地方政府选举中保住第一大政党地位，得票率为30.76%，较2021年地方政府选举下跌约15个百分点。民主联盟得票率为24.64%。",
+      "summary": "新华社昆明11月8日电 中共中央书记处书记、国务委员王小洪7日至8日到云南调研。他强调，要认真学习贯彻党的二十届五中全会精神，深入贯彻习近平总书记考察云南重要讲话精神，落实党中央、国务院决策部署，完整准确全面贯彻新发展理念，统筹发展和安全，立足自身条件，提高政策措施的针对性有效性，因地制宜推动高质量发展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
-      "publishedAt": "2026-11-08T21:54:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728609.shtml",
+      "publishedAt": "2026-11-09T01:08:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
-      "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728611.shtml",
+      "title": "私域直播屡被曝光查处仍能死灰复燃 如何斩断私域“神药”的链条？",
       "category": "综合",
-      "summary": "土耳其和伊拉克8日发表联合声明，重申将继续合作，推动在伊拉克北部尼尼微省辛贾尔地区建立中央政府权威，终结库尔德工人党在当地的存在。",
+      "summary": "私域直播夸大疗效、坑骗老年消费者，屡被曝光查处仍能死灰复燃",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
-      "publishedAt": "2026-11-08T21:53:11.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728611.shtml",
+      "publishedAt": "2026-11-09T01:07:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
-      "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728608.shtml",
+      "title": "金观平：依法依规治理低价无序竞争",
       "category": "综合",
-      "summary": "据俄罗斯方面8日消息，飞行数据显示，一架美军巡逻机当天在黑海上空活动，另一架美国侦察机沿俄罗斯边境飞行超过4小时。",
+      "summary": "近期召开的国务院常务会议讨论并原则通过《中华人民共和国价格法(修正草案)》，并提出要依法依规治理低价无序竞争。这标志着价格法律体系适应新形势迈出重要一步，将为深入整治“内卷式”竞争、维护公平竞争市场秩序提供更坚实的法治依据。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
-      "publishedAt": "2026-11-08T21:51:35.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728608.shtml",
+      "publishedAt": "2026-11-09T00:40:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
-      "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
+      "title": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
       "category": "综合",
-      "summary": "当地时间8日晚，伊拉克库尔德自治区(库区)安全部门消息人士称，位于伊库区苏莱曼尼亚省的豪尔穆尔天然气田当天遭不明来源的无人机袭击，气田遭袭后已停止生产。",
+      "summary": "当地时间11月8日，美总统特朗普表示，此前提出任命美国终极格斗冠军赛(UFC)总裁达纳·怀特担任白宫新闻秘书“只是开玩笑”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
-      "publishedAt": "2026-11-08T21:50:11.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
+      "publishedAt": "2026-11-09T00:34:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728574.shtml",
-      "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728606.shtml",
+      "title": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
       "category": "综合",
-      "summary": "据巴勒斯坦方面消息，当地时间8日晚间，在加沙地带中部代尔拜拉赫，一个流离失所民众帐篷营地附近的沙土塌方，导致多个帐篷被掩埋。",
+      "summary": "中国天气网讯 未来三天(11月9日至11日)，全国大部将进入降水稀少时段，晴天居多，但云南、贵州一带仍有频繁降雨。随着寒潮南下，降温核心区域向南推进，长江中下游等地最高气温将降至10℃出头，凉意十足，华南也会退去炎热转为凉爽。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728574.shtml",
-      "publishedAt": "2026-11-08T21:48:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728606.shtml",
+      "publishedAt": "2026-11-09T00:33:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +301,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
-      "title": "特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad#0",
+      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "category": "国际",
+      "summary": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T00:20:25.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/gj/shipin/cns-d/2026/11-09/news1074279.shtml",
+      "title": "印尼举办“文化博览日”活动 中国茶文化亮相",
       "category": "综合",
-      "summary": "当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。",
+      "summary": "当地时间11月8日，印度尼西亚文化部在雅加达举办“文化博览日”活动。中国、俄罗斯、印度、韩国、土耳其等多个国家参与其中，通过特色表演、美食展示和文化互动，向当地民众展现各自的文化魅力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
-      "publishedAt": "2026-11-08T21:47:12.000Z",
+      "url": "http://www.chinanews.com.cn/gj/shipin/cns-d/2026/11-09/news1074279.shtml",
+      "publishedAt": "2026-11-09T00:18:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +336,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
-      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-09/10728601.shtml",
+      "title": "隔夜白开水不能喝……是真是假？｜谣言终结站",
       "category": "综合",
-      "summary": "中新社北京11月8日电 题：2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "summary": "只要保存得当，隔夜白开水是可以放心喝的，并非传言中那样会危害健康或致癌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
-      "publishedAt": "2026-11-08T15:30:40.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-09/10728601.shtml",
+      "publishedAt": "2026-11-09T00:18:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +354,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
-      "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
+      "title": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
       "category": "综合",
-      "summary": "中新社宁波11月8日电 (张煜欢 宣佳含)10月27日至11月8日，2026年世界举重锦标赛(下称举重世锦赛)在浙江宁波举行。主场作战的中国举重队满额16人出战，共获得17金10银6铜。",
+      "summary": "中新网11月9日电 据中央气象台网站9日消息，寒潮将继续影响我国中东部地区和海域，预计9日，江南、华南东部、西南地区等地有较强降温，东部和南部海域有大风天气；未来三天，云南、四川等地多降水；需关注雨雪、大风降温对人体健康、交通出行、能源供应等的影响，云南等地需防范局地暴雨引发的次生灾害。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
-      "publishedAt": "2026-11-08T15:16:05.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
+      "publishedAt": "2026-11-09T00:15:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +372,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
-      "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728599.shtml",
+      "title": "开屏广告太添堵，怎么治？",
       "category": "综合",
-      "summary": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委国际合作中心处长、研究员鲍淑君的署名文章《得打好这三张牌》。 发展新质生产力，关键靠什么？近日，中共中央、国务院印发的《关于发展",
+      "summary": "开屏广告太添堵，怎么治？(融观中国)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
-      "publishedAt": "2026-11-08T14:53:10.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728599.shtml",
+      "publishedAt": "2026-11-09T00:11:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +390,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml",
-      "title": "山西太原一公寓发生火灾 致5人遇难",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml",
+      "title": "南非公布地方选举结果 过半数市镇现“悬峙议会”",
       "category": "综合",
-      "summary": "中新网太原11月8日电 (记者 胡健)山西省太原市“迎泽发布”8日晚间发布通报称，当日发生在迎泽区的火灾致5人遇难。",
+      "summary": "中新社约翰内斯堡11月8日电 (记者 孙翔)南非独立选举委员会8日晚公布2026年地方政府选举结果，执政党非洲人国民大会(简称非国大)得票率由2021年的45.59%降至30.76%，但仍位居首位。南非全国超过半数市镇议会出现“悬峙议会”，即没有任何政党获得绝对多数席位，地方政府组建面临多党谈判。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml",
-      "publishedAt": "2026-11-08T14:49:37.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml",
+      "publishedAt": "2026-11-09T00:11:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +408,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
-      "title": "WTA250香港公开赛收官 美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728598.shtml",
+      "title": "寒潮+大风预警持续 部分地区降温超10℃",
       "category": "综合",
-      "summary": "中新社香港11月8日电 (记者 张语洽)WTA(女子网球协会)250香港公开赛8日在香港维多利亚公园网球场举行女单决赛，美国选手刘婧文(Claire Liu)2:0击败菲律宾选手埃亚拉(Alexandra Eala)，夺得冠军。",
+      "summary": "中央气象台11月9日6时继续发布寒潮蓝色预警和大风蓝色预警，详情如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
-      "publishedAt": "2026-11-08T14:25:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728598.shtml",
+      "publishedAt": "2026-11-09T00:06:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +426,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
-      "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728597.shtml",
+      "title": "外媒：伊拉克库区天然气田遭不明来源无人机袭击",
       "category": "综合",
-      "summary": "中新社大连11月8日电 题：风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+      "summary": "中新网11月9日电 据卡塔尔半岛电视台等外媒报道，伊拉克库尔德自治区(库区)安全部门消息人士称，位于伊库区苏莱曼尼亚省的豪尔穆尔天然气田遭不明来源的无人机袭击，受袭击影响，气田8日已停止生产。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
-      "publishedAt": "2026-11-08T14:09:45.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728597.shtml",
+      "publishedAt": "2026-11-09T00:02:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +444,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
-      "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/gn/shipin/2026/11-09/news1074278.shtml",
+      "title": "习言道｜永远做党和人民的忠诚卫士",
       "category": "综合",
-      "summary": "中新社北京11月8日电 (刘梦青)2026赛季中超联赛末轮比赛8日全部战罢。成都蓉城2:3不敌山东泰山，大连英博3:1轻取天津津门虎。两队最终同积52分，英博凭两回合双杀蓉城的相互战绩优势，夺得本赛季中超联赛冠军，蓉城屈居亚军。",
+      "summary": "烈火浓烟、抗洪抢险、地震救援……“火焰蓝”们用血肉之躯守护万家安宁。2018年11月9日，习近平总书记向国家综合性消防救援队伍授旗并致训词。全国消防日，一起重温总书记的谆谆寄语。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
-      "publishedAt": "2026-11-08T14:08:53.000Z",
+      "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-09/news1074278.shtml",
+      "publishedAt": "2026-11-08T23:57:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +462,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
-      "title": "2026年红河流域中越合作周在河口开幕 边交会同步举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728594.shtml",
+      "title": "未来三天北京以晴为主 昼夜温差较大最低温仍在冰点上下",
       "category": "综合",
-      "summary": "中新社云南红河11月8日电 (记者 缪超)2026年红河流域中越合作周8日在云南省红河哈尼族彝族自治州河口县开幕，2026年中越(红河)边境经济贸易旅游交易会同步举办。",
+      "summary": "中国天气网讯 未来三天(11月9日至11日)，北京天气以晴为主，逐渐回暖，今天最高气温12℃，但最低温仍在冰点之下，昼夜温差较大，公众早出晚归需注意防寒保暖，谨防感冒。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
-      "publishedAt": "2026-11-08T13:44:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728594.shtml",
+      "publishedAt": "2026-11-08T23:52:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +480,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
-      "title": "民众齐唱《小白杨》送别词作家梁上泉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728593.shtml",
+      "title": "员工用AI辅助办公，出错谁担责？",
       "category": "综合",
-      "summary": "中新社重庆11月8日电 (记者 钟旖)“一棵呀小白杨，长在哨所旁，根儿深，干儿壮，守望着北疆……”",
+      "summary": "部分企业鼓励员工使用AI提升工作效率，但滥用易引发责任认定难等问题",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
-      "publishedAt": "2026-11-08T13:43:46.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728593.shtml",
+      "publishedAt": "2026-11-08T23:49:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,7 +498,133 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad#0",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-09/10728592.shtml",
+      "title": "AI打开新空间，影视创作如何向新而行",
+      "category": "综合",
+      "summary": "AI为影视行业带来了什么？“至少过去拍不了的故事，终于要开拍。”这是中国电视剧制作产业协会会长、东阳正午阳光影视有限公司董事长侯鸿亮发出的感慨。日前，在2026中国广播电视精品创作大会电视剧(网络剧)论坛上，他分享了一个关于“新技术弥补遗憾”的故事。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728592.shtml",
+      "publishedAt": "2026-11-08T23:46:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/11-09/10728591.shtml",
+      "title": "满屏“人生赢家”，不是你的标准答案",
+      "category": "综合",
+      "summary": "思想圆桌",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728591.shtml",
+      "publishedAt": "2026-11-08T23:43:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728590.shtml",
+      "title": "今天，想请你重新认识一下“蓝朋友”",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728590.shtml",
+      "publishedAt": "2026-11-08T23:39:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728589.shtml",
+      "title": "不明来历快递里的二维码，扫完会通向哪里",
+      "category": "综合",
+      "summary": "天上掉馅饼的事，你遇到过吗？快递小哥敲开门，递上一份快递，里面装着“价值99元的礼物”，还附赠“尊享VIP礼遇”，可你压根没下过单。先别急着高兴，这份“惊喜”的代价可能比你想象中大。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728589.shtml",
+      "publishedAt": "2026-11-08T23:35:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/11-09/10728588.shtml",
+      "title": "婚介服务市场调查：说好“精准匹配”，实则名不副实",
+      "category": "综合",
+      "summary": "说好“精准匹配”，实则名不副实",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-09/10728588.shtml",
+      "publishedAt": "2026-11-08T23:30:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
+      "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
+      "category": "综合",
+      "summary": "临近年底购物季，一批来自中国的AI消费品，正加速走进海外消费者的生活。会用激光打蚊子的“小盒子”、能陪人聊天的“小毛球”、会认鸟拍鸟的智能喂鸟器，接连在海外社交平台和众筹平台走红。这些看似不起眼的“小物件”，正靠硬技术和新体验，一点点打开海外市场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
+      "publishedAt": "2026-11-08T23:24:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/118805",
+      "title": "派早报：特斯拉将停产 Cybertruck",
+      "category": "科技",
+      "summary": "特斯拉将停产 Cybertruck 深圳在 APEC 前夕整顿非法市场 美国数据中心股持续遭抛售，大量建设项目被取消 京津冀三地消协组织敦促航司、平台规范机票退改签 FBI 警告冰柜网络安全攻击风险 广电总局部署开展新一轮微短剧专项治理工作 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/118805",
+      "publishedAt": "2026-11-08T22:41:56.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad#2",
       "title": "間諜、線人與秘密警察：匈牙利公開共產統治時期檔案",
       "category": "国际",
       "summary": "匈牙利正將其完整的國家安全紀錄檔案庫上載至網上，這些檔案可能揭示在1989年前長達40年的共產主義統治期間，誰曾監視鄰居、同事、朋友和親屬。",
@@ -333,258 +637,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
-      "title": "铸牢共同体 中华一家亲丨六星街：奏响多民族共居共乐的“最美和声”",
-      "category": "综合",
-      "summary": "手风琴琴声悠悠，街巷烟火暖暖，坐落在新疆维吾尔自治区伊宁市解放路街道的六星街，各族群众在这里共居、共乐，用实实在在的幸福生活，生动诠释了铸牢中华民族共同体意识的深刻内涵，书写各民族和睦相处、共同繁荣发展的动人篇章。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
-      "publishedAt": "2026-11-08T13:40:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
-      "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
-      "category": "综合",
-      "summary": "本届进博会，美国企业参展面积继续名列第一，美国农业、消费品、高端装备、汽车、医疗保健等多个领域的企业对进博会寄予厚望，希望能通过进博会，在中国开拓新的市场。在今年的虹桥国际论坛上，美中贸易全国委员会会长谭森接受了总台记者的采访。他表示，美国企业不希望看到贸易保护主义抬头。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
-      "publishedAt": "2026-11-08T13:35:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
-      "title": "对接、洽谈、签约 进博会各项配套活动全面展开",
-      "category": "综合",
-      "summary": "本届进博会，供销合作社交易团与来自美国、法国、澳大利亚等国家的17家企业签署了农资和农产品采购与合作协议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
-      "publishedAt": "2026-11-08T13:31:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
-      "title": "以首发经济看进博：一场关于“未来”的剧透",
-      "category": "综合",
-      "summary": "原标题：第九届进博会丨以首发经济看进博：一场关于“未来”的剧透",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
-      "publishedAt": "2026-11-08T13:26:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
-      "title": "埃及列车脱轨事故致司机死亡 64人受伤",
-      "category": "综合",
-      "summary": "据埃及方面8日消息，一列由埃及首都开罗开往该国南部阿斯旺的列车在埃及吉萨省境内发生脱轨事故，4节车厢脱轨。事故导致列车司机死亡。埃及卫生部长称事故还导致64人受伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
-      "publishedAt": "2026-11-08T13:20:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
-      "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
-      "category": "综合",
-      "summary": "中新网重庆11月8日电 (记者 周毅)8日，由国家艺术基金资助的2026年度传播交流推广项目“人民创生·美美共融——中国社区公共艺术创新成果展”首展在重庆当代美术馆启幕。百余件公共艺术作品和创新案例，以艺术视角呈现出中国超大城市社区的新面貌、新模式、新生活。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
-      "publishedAt": "2026-11-08T13:04:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml",
-      "title": "山西太原一高层建筑发生火灾 有人员送医",
-      "category": "综合",
-      "summary": "中新网太原11月8日电 (记者 胡健 陆祁国)8日17时许，位于山西省太原市迎泽区柳巷南路的一栋高层建筑发生火灾。截至目前，现场明火已基本扑灭，有人员被送往医院。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml",
-      "publishedAt": "2026-11-08T13:04:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml",
-      "title": "舞剧《五星出东方》将亮相希腊舞台",
-      "category": "综合",
-      "summary": "中新社北京11月8日电 (记者 徐婧)舞剧《五星出东方》8K超高清首映暨希腊巡演启航活动8日在北京举办。当地时间11月13日至15日，该剧将登陆希腊雅典圣诞剧场，以《丝绸之路上的爱情》为名与观众见面。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml",
-      "publishedAt": "2026-11-08T13:02:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728534.shtml",
-      "title": "尼泊尔举行敬狗日庆祝活动 呼吁关注动物福利",
-      "category": "综合",
-      "summary": "中新网加德满都11月8日电 (郑怡雯)尼泊尔8日迎来传统“敬狗日”。由尼泊尔总理夫人萨宾娜·卡夫莱发起的庆祝活动在首都加德满都举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728534.shtml",
-      "publishedAt": "2026-11-08T13:02:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728543.shtml",
-      "title": "埃及列车脱轨事故致司机死亡",
-      "category": "综合",
-      "summary": "据埃及方面8日消息，当日发生的列车脱轨事故导致列车司机死亡。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728543.shtml",
-      "publishedAt": "2026-11-08T13:02:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-08/10728539.shtml",
-      "title": "2026中国北欧民间友好对话会在四川宜宾举行",
-      "category": "综合",
-      "summary": "中新社四川宜宾11月8日电 (程兆)以“共筑互信桥梁，开启合作新局”为主题的2026中国北欧民间友好对话会8日在四川宜宾举办。来自中国有关部门、地方政府及瑞典、丹麦、芬兰、挪威、冰岛五国友好组织等各界的代表约100人参会，探讨深化民间交往与务实合作的路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728539.shtml",
-      "publishedAt": "2026-11-08T13:02:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-08/10728540.shtml",
-      "title": "印尼一周内发生两起灭火直升机坠毁事故",
-      "category": "综合",
-      "summary": "中新社雅加达11月8日电 (记者 李志全)印度尼西亚一架执行森林和土地火灾扑救任务的直升机8日在南加里曼丹省巴里托瓜拉县坠入巴里托河，机上2人获救，1人遇难。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728540.shtml",
-      "publishedAt": "2026-11-08T13:01:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728541.shtml",
-      "title": "（第九届进博会）上海澳门联谊会会长：借进博东风，沪澳携手创未来",
-      "category": "综合",
-      "summary": "中新社上海11月8日电 题：上海澳门联谊会会长：借进博东风，沪澳携手创未来",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728541.shtml",
-      "publishedAt": "2026-11-08T13:01:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-08/10728537.shtml",
-      "title": "港澳及东盟康养旅行首发团12月赴桂 文旅跨境合作再提速",
-      "category": "综合",
-      "summary": "中新社广西贺州11月8日电 (韦佳秀 张广权)“我们将与广西旅游发展集团建立合作，面向香港及东南亚市场推出全新的广西康养旅行团，首发团12月下旬出发，成员包含多名香港知名人士与企业家。”香港旅行社东主协会会长叶庆宁8日在广西贺州表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728537.shtml",
-      "publishedAt": "2026-11-08T13:01:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -606,7 +658,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad#2",
       "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
       "category": "国际",
       "summary": "這位前脫歐談判代表表示，歐盟國家將拒絕英國任何「單點」選擇遵守經濟規則的企圖。",
@@ -932,23 +984,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/watch/c9rkyyzgmy3eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T11:24:32.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad#2",
-      "title": "歐洲航空業虛假炸彈威脅：誰是幕後黑手？",
-      "category": "国际",
-      "summary": "其中一條線索，是羅馬機場當局收到的一封恐嚇電郵，寄件者自稱是「男性國家戰士」（Fighters of the Male State）。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T11:14:01.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1381,24 +1416,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/115399",
-      "title": "Apple 官网排版细节鉴赏",
-      "category": "科技",
-      "summary": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/115399",
-      "publishedAt": "2026-11-05T02:57:22.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad#1",
       "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
       "category": "国际",
@@ -1463,23 +1480,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#2",
-      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "category": "国际",
-      "summary": "在密歇根州，民主黨候選人阿卜杜勒·賽義德如今將成為美國首位穆斯林聯邦參議員。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:14:11.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },

@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad#0",
+      "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+      "meta": "BBC 中文 · 2026/11/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T01:37:14.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad#0",
+      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "meta": "BBC 中文 · 2026/11/9",
+      "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T00:20:25.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad#2",
       "title": "間諜、線人與秘密警察：匈牙利公開共產統治時期檔案",
       "meta": "BBC 中文 · 2026/11/8",
       "url": "https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad?at_medium=RSS&at_campaign=rss",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-11-08T10:31:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad#2",
       "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
       "meta": "BBC 中文 · 2026/11/8",
       "url": "https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +80,6 @@
       "meta": "BBC 中文 · 2026/11/6",
       "url": "https://www.bbc.com/zhongwen/watch/c9rkyyzgmy3eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T11:24:32.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad#2",
-      "title": "歐洲航空業虛假炸彈威脅：誰是幕後黑手？",
-      "meta": "BBC 中文 · 2026/11/6",
-      "url": "https://www.bbc.com/zhongwen/articles/c60qkk15l8d0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T11:14:01.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad#1",
@@ -152,13 +159,6 @@
       "publishedAt": "2026-11-04T20:20:47.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#2",
-      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "meta": "BBC 中文 · 2026/11/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:14:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad#3",
       "title": "「我在橫店當王妃」：中國興起短劇體驗遊",
       "meta": "BBC 中文 · 2026/11/4",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-09-25T04:56:06.000Z"
     }
   ],
-  "updatedAt": "2026-11-08T22:05:12.512Z",
+  "updatedAt": "2026-11-09T01:43:52.855Z",
   "provider": "OneBench 公共资讯快照"
 }
