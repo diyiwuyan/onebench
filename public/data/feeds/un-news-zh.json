@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143160",
+      "title": "古特雷斯谴责波兰克拉科夫市发生的大规模枪击事件",
+      "meta": "联合国新闻 · 2026/11/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143160",
+      "publishedAt": "2026-11-08T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143158",
       "title": "【子午播报】2026年11月7日",
       "meta": "联合国新闻 · 2026/11/7",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/11/3",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143125",
       "publishedAt": "2026-11-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143124",
-      "title": "乌克兰学校频遭袭击，儿童就学受到严重干扰",
-      "meta": "联合国新闻 · 2026/11/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143124",
-      "publishedAt": "2026-11-03T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-09T01:43:52.855Z",
+  "updatedAt": "2026-11-09T09:48:33.684Z",
   "provider": "OneBench 公共资讯快照"
 }
