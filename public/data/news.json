@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T09:48:33.684Z",
-  "expiresAt": "2026-11-09T15:48:33.684Z",
+  "generatedAt": "2026-11-09T20:43:48.123Z",
+  "expiresAt": "2026-11-10T02:43:48.123Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,48 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210361.shtml",
-      "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad#0",
+      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+      "category": "国际",
+      "summary": "這名科技業億萬富豪高層陷入一場涉及私人生活與國家安全的醜聞。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T17:25:50.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad#0",
+      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
+      "category": "国际",
+      "summary": "白金漢宮一名幕僚表示，若貝安德首相向王室提議查爾斯三世訪華，國王將「小心考慮」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T16:31:02.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10729157.shtml",
+      "title": "德国总理默茨正式提名艾格纳竞选总统",
       "category": "综合",
-      "summary": "",
+      "summary": "中新社柏林11月9日电 (记者 马秀秀)当地时间9日，德国基督教民主联盟(基民盟)领导层正式提名61岁的巴伐利亚州议会议长伊尔泽·艾格纳竞选下任德国总统。如最终当选，艾格纳将成为德国历史上首位女性国家元首。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210361.shtml",
-      "publishedAt": "2026-11-09T09:38:28.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729157.shtml",
+      "publishedAt": "2026-11-09T15:02:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +84,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728962.shtml",
-      "title": "特朗普宣布实施“铁门”行动：“几乎没有东西能进出伊朗！”伊朗否认并谴责",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml",
+      "title": "泰国商务部与泰国商会加强合作应对全球贸易挑战",
       "category": "综合",
-      "summary": "中新网11月9日电(魏晨曦)综合外媒报道，当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上表示，针对伊朗的“铁门”特遣行动在伊朗全面展开。",
+      "summary": "中新社曼谷11月9日电 (梁峻祥 李映民)泰国商务部9日与泰国商会举行会谈，并就加强政商合作、提升泰国企业竞争力及应对全球贸易环境变化等议题达成共识。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728962.shtml",
-      "publishedAt": "2026-11-09T09:38:27.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml",
+      "publishedAt": "2026-11-09T15:01:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +102,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10728960.shtml",
-      "title": "受权发布丨中医药传统知识保护条例",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml",
+      "title": "新西兰作家尤金·道尔：全球气候行动中，中国是“房间里成熟的大人”",
       "category": "综合",
-      "summary": "新华社北京11月9日电",
+      "summary": "中新网安塔利亚11月9日电 (记者 魏园)“在我看来，中国是‘房间里成熟的大人’。”《联合国气候变化框架公约》第三十一次缔约方大会(COP31)于11月9日至20日在土耳其安塔利亚举行。关注中东问题以及亚太地区和平与安全的新西兰作家尤金·道尔(Eugene Doyle)接受中新网记者专访时表示，很多人仍未真正意识到中国对全球能源转型的贡献有多大，应对气候变化",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728960.shtml",
-      "publishedAt": "2026-11-09T09:36:23.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml",
+      "publishedAt": "2026-11-09T14:29:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +120,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10728950.shtml",
-      "title": "希腊海岸警卫队在克里特岛海域打捞出12具非法移民遗体",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729151.shtml",
+      "title": "克莱恩斯欧洲环保协会龙迪：中国是全球气候行动“最坚定的支持者”",
       "category": "综合",
-      "summary": "中新社北京11月9日电 雅典消息：当地时间11月9日，希腊海岸警卫队对外通报，当天早些时候，在该国克里特岛附近海域，救援人员从一艘遇险的船上打捞出12具非法移民遗体。",
+      "summary": "中新网安塔利亚11月9日电 (记者 魏园 陈溯)《联合国气候变化框架公约》第三十一次缔约方大会(COP31)于11月9日至20日在土耳其安塔利亚举行。克莱恩斯欧洲环保协会 (ClientEarth)北京代表处首席龙迪(Dimitri de Boer)接受中新网记者专访时表示，“落实”气候行动的关键在于各国切实减排、加速能源转型，“中国可以说是当前全球持续推进",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728950.shtml",
-      "publishedAt": "2026-11-09T09:35:39.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729151.shtml",
+      "publishedAt": "2026-11-09T14:27:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +138,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10728959.shtml",
-      "title": "李强签署国务院令 公布《中医药传统知识保护条例》",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
+      "title": "送别翻译家谢莹莹：明亮的生命之歌将永远回响",
       "category": "综合",
-      "summary": "新华社北京11月9日电 国务院总理李强日前签署国务院令，公布《中医药传统知识保护条例》(以下简称《条例》)，自2027年1月1日起施行。",
+      "summary": "中新社北京11月9日电 题：送别翻译家谢莹莹：明亮的生命之歌将永远回响",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728959.shtml",
-      "publishedAt": "2026-11-09T09:34:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
+      "publishedAt": "2026-11-09T14:14:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +156,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728948.shtml",
-      "title": "我国牵头！铀矿冶地下水修复领域首个国际标准发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-09/10729147.shtml",
+      "title": "（第九届进博会）华商话进博：这里是“入海口”更是“加油站”",
       "category": "综合",
-      "summary": "中新网11月9日电 据市场监管总局网站消息，近日，我国牵头制定的铀矿冶地下水修复领域首个国际标准《地浸采铀地下水修复 第1部分：地下水修复目标值确定》(ISO 22280-1:2026)由国际标准化组织(ISO)发布。该国际标准由我国专家牵头，美国、英国、加拿大、德国、阿根廷等国专家参与。",
+      "summary": "中新社上海11月9日电 (范宇斌)正在上海举办的第九届中国国际进口博览会上，多位华商9日接受中新社采访时表示，进博会是海外企业进入中国市场的“入海口”，他们相约明年继续赴进博之约。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728948.shtml",
-      "publishedAt": "2026-11-09T09:32:15.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-09/10729147.shtml",
+      "publishedAt": "2026-11-09T14:12:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +174,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728946.shtml",
-      "title": "11月第1周生猪和猪肉价格有所下跌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10729146.shtml",
+      "title": "云南多地迎来今冬初雪 高海拔山区银装素裹",
       "category": "综合",
-      "summary": "中新网11月9日电 据农业农村部对500个县集贸市场和采集点监测，上周(11月第1周，11月2—8日，下同)，全国活猪价格为10.11元/公斤，环比跌2.9%；猪肉集贸市场价格为20.11元/公斤，环比跌1.2%。据农业农村部对200个批发市场监测调度，上周全国猪肉批发市场均价为15.01元/公斤，环比跌3.1%，同比低16.7%。",
+      "summary": "中新网昆明11月9日电 (记者 刘冉阳)受强冷空气影响，云南多地出现降雪天气。昆明、曲靖、昭通、丽江、大理等地陆续飘起雪花，部分高海拔山区银装素裹，迎来今冬初雪。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728946.shtml",
-      "publishedAt": "2026-11-09T09:31:36.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729146.shtml",
+      "publishedAt": "2026-11-09T14:09:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +192,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10728958.shtml",
-      "title": "受权发布丨中华人民共和国国务院令 第850号",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729145.shtml",
+      "title": "2026国际山地旅游暨户外运动大会在贵州兴义开幕",
       "category": "综合",
-      "summary": "新华社北京11月9日电",
+      "summary": "中新网贵州兴义11月9日电 (石小杰)以“文旅体融合高品质生活——山地深呼吸旅居慢生活”为主题的2026国际山地旅游暨户外运动大会9日在贵州省黔西南布依族苗族自治州兴义市开幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728958.shtml",
-      "publishedAt": "2026-11-09T09:30:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729145.shtml",
+      "publishedAt": "2026-11-09T14:07:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +210,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728949.shtml",
-      "title": "中国国开行为哈萨克斯坦石化管道项目提供融资",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
+      "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
       "category": "综合",
-      "summary": "中新社北京11月9日电 中国国家开发银行(下称国开行)9日公布消息称，其日前与哈萨克斯坦国家石油天然气公司、哈萨克斯坦国家石油天然气化工公司签署210公里乙烷丙烷管道建设项目融资协议，贷款金额28.9亿元人民币，由萨姆鲁克—卡泽纳国家福利基金提供担保。",
+      "summary": "中新网11月9日电 据“砀山警方”微信公众号消息，安徽砀山县公安局发布警情通报：11月9日17时许，砀山县发生一起持刀伤人案，致4名群众受伤。接警后，砀山警方迅速出警，现场将犯罪嫌疑人牛某(男，43岁，有精神病史)抓获。4名伤者正在全力抢救，案件正在进一步侦办中。 #8203;#8203;#8203;",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728949.shtml",
-      "publishedAt": "2026-11-09T09:27:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
+      "publishedAt": "2026-11-09T14:03:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +228,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728954.shtml",
-      "title": "出发！“爱达·花城号”开启首个试运营航次",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729143.shtml",
+      "title": "2026年10月份我国CPI同比上涨0.7%",
       "category": "综合",
-      "summary": "今天(9日)，第二艘国产大型邮轮“爱达·花城号”将从上海吴淞口国际邮轮港出发，开启交付后的首个试运营航次，全面检验邮轮的运营能力。",
+      "summary": "数说中国丨2026年10月份我国CPI同比上涨0.7%",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728954.shtml",
-      "publishedAt": "2026-11-09T09:26:14.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729143.shtml",
+      "publishedAt": "2026-11-09T13:56:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +246,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210358.shtml",
-      "title": "（第九届进博会）新科中超冠军大连英博展品受关注",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/11-09/10729141.shtml",
+      "title": "中欧班列（长沙）双枢纽班列首发 驶入“枢纽对枢纽”阶段",
       "category": "综合",
-      "summary": "",
+      "summary": "【欧洲专线】中欧班列(长沙)双枢纽班列首发 驶入“枢纽对枢纽”阶段",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210358.shtml",
-      "publishedAt": "2026-11-09T09:23:37.000Z",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/11-09/10729141.shtml",
+      "publishedAt": "2026-11-09T13:53:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +264,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728947.shtml",
-      "title": "今年台风个数创21世纪新高！台风为什么“扎堆”来？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729142.shtml",
+      "title": "（第九届进博会）进博会“首发效应”凸显 展品加速变爆款",
       "category": "综合",
-      "summary": "中新网北京11月9日电（记者 邵萌）11月7日14时，2026年第32号台风“查帕卡”在西北太平洋洋面生成。记者从中国气象局获悉，台风“查帕卡”的生成，使2026年的台风生成数量创下21世纪以来最高纪录。",
+      "summary": "中新社上海11月9日电 (记者 徐珊珊)正在上海举行的第九届中国国际进口博览会上，欧莱雅北亚及中国公共事务总裁兰珍珍接受中新社记者采访时透露了一组数据：欧莱雅引入中国的34个品牌中，近一半是通过进博会首秀推向市场，最终成为消费者熟知的“爆款”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728947.shtml",
-      "publishedAt": "2026-11-09T09:21:02.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729142.shtml",
+      "publishedAt": "2026-11-09T13:52:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +282,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728944.shtml",
-      "title": "服役68载迎转场倒计时 呼和浩特人“组团”告别白塔机场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-09/10729140.shtml",
+      "title": "澳门青少年赴四川北川研学 体验羌族非遗感知民族文化魅力",
       "category": "综合",
-      "summary": "中新网呼和浩特11月9日电 题：服役68载迎转场倒计时 呼和浩特人“组团”告别白塔机场",
+      "summary": "中新社四川北川11月9日电 (尧欣雨)“这次研学让我读懂羌族历史，感受到羌族文化底蕴。回到家乡，我会和身边人分享见闻，让更多人了解、喜爱羌族文化。”澳门中华总商会附设青洲中学学生郭冠侑近日在四川北川接受采访时说。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728944.shtml",
-      "publishedAt": "2026-11-09T09:20:06.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729140.shtml",
+      "publishedAt": "2026-11-09T13:50:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +300,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-09/10728943.shtml",
-      "title": "聚焦AI时代创作者成长 唐季礼：好作品不可能AI一键生成",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729139.shtml",
+      "title": "（第九届进博会）进博会成全球前沿科技“首秀场”",
       "category": "综合",
-      "summary": "中新网北京11月9日电 (记者 高凯)“好的作品一定要创作者去用心打磨、去主宰内容，而不可能靠AI一键生成。”日前，在清华大学举行的“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动上，导演、编剧、监制唐季礼如是表达对当下AI影视创作的看法。",
+      "summary": "中新网上海11月9日电 (李秋莹 李佳佳)近日，第九届中国国际进口博览会在国家会展中心(上海)举行，多家企业带来超480件全球首发、亚洲首展、中国首秀展品。机械工业信息研究院从1万余件展品中遴选出25项展品：10项黑科技、15项硬科技，成为本届进博会最鲜明的打开方式。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728943.shtml",
-      "publishedAt": "2026-11-09T09:19:16.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729139.shtml",
+      "publishedAt": "2026-11-09T13:50:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +318,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728945.shtml",
-      "title": "贵州威宁降雪 高原城市银装素裹迎冬日",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729136.shtml",
+      "title": "部省联动 海南升级全域土地综合整治工作",
       "category": "综合",
-      "summary": "图为11月9日，威宁自治县草海北坡生态公园雪景。卯升林 摄 图为11月9日，威宁自治县草海国家级自然保护区，市民喂食海鸥。岳刚 摄 图为11月9日，威宁自治县草海国家级自然保护区雪景。岳刚 摄 图为11月9日，威宁自治县草海国家级自然保护区雪景。孙宁婧 摄 图为11月9日，威宁自治县草海北坡生态公园雪景。孙宁婧 摄 图为11月9日，威宁自治县城区银装素裹。孙",
+      "summary": "中新网海口11月9日电 (尹建军 温带弟)国土整治和生态修复高层次专家研讨会暨海南省全域土地综合整治工作推进会9日在海口召开。会议汇聚政、企、学界人士，通过部省协同联动、高端智库赋能，为海南自贸港国土整治和生态保护修复高质量发展凝聚共识、明确路径。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728945.shtml",
-      "publishedAt": "2026-11-09T09:14:34.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729136.shtml",
+      "publishedAt": "2026-11-09T13:49:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +336,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728942.shtml",
-      "title": "“华人老家”山西洪洞大槐树：传承祭祖习俗 延续古槐根脉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-09/10729135.shtml",
+      "title": "香港学者李成：粤港澳大湾区有望建成全球首个“AI湾区”",
       "category": "综合",
-      "summary": "11月9日，农历十月初一传统寒衣节，山西洪洞大槐树丙午年寒衣节祭祖大典举办。洪洞大槐树景区供图 11月9日，农历十月初一传统寒衣节，山西洪洞大槐树丙午年寒衣节祭祖大典举办。洪洞大槐树景区供图 11月9日，农历十月初一传统寒衣节，山西洪洞大槐树丙午年寒衣节祭祖大典举办。洪洞大槐树景区供图 11月9日，农历十月初一传统寒衣节，山西洪洞大槐树丙午年寒衣节祭祖大典举",
+      "summary": "中新网澳门11月9日电 (记者 莫倩 郑嘉伟)“相较于世界其他几大湾区，粤港澳大湾区最有潜力打造成为全球首个‘AI湾区’。”香港大学当代中国与世界研究中心主任李成9日在“文明互鉴国际论坛2026”开幕式上发表主旨演讲时作出上述判断。他呼吁推动人工智能从“AI+”向“AI×”转变，港澳不仅要做“超级联系人”，更要当“超级增值人”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728942.shtml",
-      "publishedAt": "2026-11-09T09:13:56.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729135.shtml",
+      "publishedAt": "2026-11-09T13:47:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +354,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-09/10728941.shtml",
-      "title": "奉新县教体局举办2026年全县铸牢中华民族共同体意识教育课程教师专项培训班",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10729132.shtml",
+      "title": "“埃德加·斯诺与中国”主题展在上海开幕",
       "category": "综合",
-      "summary": "为扎实推进铸牢中华民族共同体意识教育进校园，建强专业化授课师资队伍。11月7日，奉新县2026年铸牢中华民族共同体意识课程教师专项培训班顺利举办。",
+      "summary": "中新社上海11月9日电 (记者 王笈)2026年是中国工农红军长征胜利90周年，也是埃德加·斯诺初次访问陕北90周年。“红星·漫记·长征路——埃德加·斯诺与中国”主题展9日在上海革命历史博物馆开幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728941.shtml",
-      "publishedAt": "2026-11-09T09:13:22.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729132.shtml",
+      "publishedAt": "2026-11-09T13:46:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +372,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728934.shtml",
-      "title": "全国消防日：趣味体验让安全知识“活”起来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729120.shtml",
+      "title": "（第九届进博会）路易达孚全球首席执行官：贴近中国市场能更早发现新需求",
       "category": "综合",
-      "summary": "图为科普讲解员向市民介绍灭火器使用。中新社记者 刘冉阳 摄 图为观众通过模拟装置聆听灾害、火情的先兆声音。中新社记者 刘冉阳 摄 图为小朋友与搜救犬互动。中新社记者 刘冉阳 摄 图为科普讲解员带领市民在云南全民消防科普馆参观体验。中新社记者 刘冉阳 摄 图为市民在消防员指导下体验液压钳夹乒乓球。中新社记者 刘冉阳 摄 图为现场消防车模型展示吸引小朋友。中新社",
+      "summary": "中新网上海11月9日电 (陶思阅)“中国市场的消费需求、生产模式和应用场景都在快速变化。”路易达孚全球首席执行官高启(Michael Gelchie)说，“作为一家总部位于荷兰的农产品贸易与加工企业，贴近这样一个市场非常重要，能够帮助我们更早发现新的需求。”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728934.shtml",
-      "publishedAt": "2026-11-09T09:12:47.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729120.shtml",
+      "publishedAt": "2026-11-09T13:46:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +390,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728933.shtml",
-      "title": "（第九届进博会）贵州村T亮相第九届进博会 尽显民族时尚独特魅力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729119.shtml",
+      "title": "“黄河入晋第一县”山西偏关：依托资源优势 做强农业能源文旅特色产业",
       "category": "综合",
-      "summary": "11月9日，小模特展示民族特色服饰。当日，贵州村T首次亮相正在上海举行的第九届中国国际进口博览会。身着民族特色服饰的群众模特伴随着民族音乐依次亮相，浓郁的乡土风情与民族文化魅力，赢得现场观众的关注。中新社记者 殷立勤 摄 11月9日，群众模特展示民族特色服饰。当日，贵州村T首次亮相正在上海举行的第九届中国国际进口博览会。身着民族特色服饰的群众模特伴随着民族音",
+      "summary": "中新网忻州11月9日电 (刘小红)“‘十五五’时期，偏关将坚持‘生态优先、绿色发展’，抢抓黄河流域生态保护和高质量发展重大国家机遇，持续深化‘三绿’发展战略，锚定特优农业重点县、绿色能源标杆县、黄河长城深度旅游品牌县‘三县’建设目标，着力蹚出一条黄河中游县域高质量发展的‘偏关路径’”。山西省偏关县委副书记、县长高跃龙9日介绍。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728933.shtml",
-      "publishedAt": "2026-11-09T09:11:31.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729119.shtml",
+      "publishedAt": "2026-11-09T13:45:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +408,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728935.shtml",
-      "title": "四川汶川举办2026羌年非遗民俗活动欢庆羌年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729131.shtml",
+      "title": "（第九届进博会）进博会亚太合作之实：开放共赢激活区域动能",
       "category": "综合",
-      "summary": "11月9日，农历十月初一，四川省阿坝州汶川县举办以“大美阿坝·安逸汶川·幸福羌年”为主题的2026羌年非遗民俗活动，羌族同胞欢聚一堂，欢庆传统节日羌年。图为非遗民俗活动上的文艺演出。中新社记者 安源 摄 11月9日，农历十月初一，四川省阿坝州汶川县举办以“大美阿坝·安逸汶川·幸福羌年”为主题的2026羌年非遗民俗活动，羌族同胞欢聚一堂，欢庆传统节日羌年。图为",
+      "summary": "中新社上海11月9日电 题：进博会亚太合作之实：开放共赢激活区域动能",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728935.shtml",
-      "publishedAt": "2026-11-09T09:09:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729131.shtml",
+      "publishedAt": "2026-11-09T13:44:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +426,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-09/10728939.shtml",
-      "title": "宜丰县委统战部召开部务会（扩大）会议 传达学习贯彻党的二十届五中全会精神",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729133.shtml",
+      "title": "（第九届进博会）进博会捕捉中国银发消费新需求",
       "category": "综合",
-      "summary": "11月6日，宜丰县委统战部召开部务会(扩大)会议，传达学习贯彻党的二十届五中全会精神。县委常委、统战部长熊一峰主持会议并讲话，部机关全体干部参会。11月6日，宜丰县委统战部召开部务会(扩大)会议，传达学习贯彻党的二十届五中全会精神。县委常委、统战部长熊一峰主持会议并讲话，部机关全体干部参会。",
+      "summary": "中新社上海11月9日电 (陶思阅)70岁的上海市民沈四英9日一早便来到第九届中国国际进口博览会展馆，想看看有哪些能让晚年生活更便利、更舒适的新产品。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728939.shtml",
-      "publishedAt": "2026-11-09T09:05:35.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729133.shtml",
+      "publishedAt": "2026-11-09T13:43:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +444,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10728940.shtml",
-      "title": "《中医药传统知识保护条例》公布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-09/10729130.shtml",
+      "title": "李家超晤亚足联主席 冀更多顶级足球盛事在港举行",
       "category": "综合",
-      "summary": "新华社权威快报｜《中医药传统知识保护条例》公布",
+      "summary": "中新社香港11月9日电 香港特区行政长官李家超9日与亚洲足球联合会(简称“亚足联”)主席萨尔曼(Shaikh Salman bin Ebrahim Al Khalifa)在香港会面。李家超说，期待香港特区政府与中国香港足球总会及亚足联紧密合作，为香港带来更多顶级国际足球盛事。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728940.shtml",
-      "publishedAt": "2026-11-09T09:05:19.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729130.shtml",
+      "publishedAt": "2026-11-09T13:43:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +462,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728932.shtml",
-      "title": "（第九届进博会）“镜观”第九届进博会",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-09/10729129.shtml",
+      "title": "伊朗称“两日计划”依然有效 霍尔木兹海峡能否开放取决于美方",
       "category": "综合",
-      "summary": "11月9日，在汽车及智慧出行展区本田技研展台上，观众了解产品信息（镜面反射）。当日，第九届中国国际进口博览会在国家会展中心（上海）举行。中新社记者 殷立勤 摄 11月9日，在消费品展区欧若拉水晶展台上，观众了解手饰（镜面反射）。当日，第九届中国国际进口博览会在国家会展中心（上海）举行。中新社记者 殷立勤 摄 11月9日，在技术装备展区索尼展台上，观众在互动体",
+      "summary": "中新社北京11月9日电 综合消息：伊朗外交部长阿拉格齐、外交部发言人巴加埃9日分别表示，“受够了”无休止的战争，伊方提出的“两日计划”依然有效。霍尔木兹海峡能否开放取决于美国的政治意愿和决策。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728932.shtml",
-      "publishedAt": "2026-11-09T09:02:01.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729129.shtml",
+      "publishedAt": "2026-11-09T13:42:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,20 +480,145 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728938.shtml",
-      "title": "世界气象组织：近四年为有记录以来最热的四年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-09/10729124.shtml",
+      "title": "速度滑冰世界杯北京站开票 冬奥冠军宁忠岩、高亭宇领衔出战",
       "category": "综合",
-      "summary": "根据世界气象组织公布的最新数据，2026年1月至9月，全球近地表平均气温较工业化前(1850年至1900年)水平高出1.47℃，与2023年和2025年全年水平相当，低于2024年创下的1.55℃纪录。2023年至2026年成为有记录以来最热的四年。",
+      "summary": "中新网北京11月9日电 (记者 国璇)2026-2027赛季国际滑联速度滑冰世界杯北京站将于11月13日至15日在国家速滑馆“冰丝带”举行，赛事门票于11月9日开售。冬奥冠军宁忠岩、高亭宇将领衔中国队主场作战。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728938.shtml",
-      "publishedAt": "2026-11-09T09:01:49.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-09/10729124.shtml",
+      "publishedAt": "2026-11-09T13:42:02.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10729126.shtml",
+      "title": "（第九届进博会）两代人接力 叙利亚橄榄油续写“四叶草之约”",
+      "category": "综合",
+      "summary": "中新网上海11月9日电 (蓝伊旎)11月正值叙利亚橄榄丰收季，农户们忙着采摘鲜果，送到工厂榨油、封装后，一批批成品橄榄油便被运往世界各地。跨越几千公里，这种被誉为“液体黄金”的叙利亚特产再次来到上海，在第九届中国国际进口博览会(简称“进博会”)上受到客商青睐。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729126.shtml",
+      "publishedAt": "2026-11-09T13:41:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-09/10729118.shtml",
+      "title": "中国广西救援队加速走向东盟",
+      "category": "综合",
+      "summary": "中新网南宁11月9日电(王以照)“我不是英雄，但我成长在英雄的队伍里。这枚奖章是替大家领的，荣誉属于特勤支队，属于广西消防，属于每一个向险而行、默默坚守的消防救援人员。”11月9日全国消防日，全国应急管理系统一级英模梁凌子在广西消防救援总队“八桂火焰蓝 向祖国报告”先进事迹报告会上这样说道。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10729118.shtml",
+      "publishedAt": "2026-11-09T13:41:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-09/10729127.shtml",
+      "title": "成都蓉城俱乐部董事长、总经理辞职 主教练阿洛伊西离任",
+      "category": "综合",
+      "summary": "中新网成都11月9日电 (记者 刘忠俊)11月9日晚，成都蓉城足球俱乐部有限公司(以下简称“成都蓉城”)连发两份公告，王磊辞去俱乐部董事长职务，吴博辞去俱乐部总经理职务；约翰·阿洛伊西不再担任成都蓉城足球俱乐部主教练职务，其团队成员一同离任。公告没有说明辞职和离任的原因。阿洛伊西今年1月才接手球队，执教不满一个赛季。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-09/10729127.shtml",
+      "publishedAt": "2026-11-09T13:40:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-09/10729123.shtml",
+      "title": "中航工业多型装备亮相 “应急使命·2026”重庆重特大森林火灾扑救演习",
+      "category": "综合",
+      "summary": "中新网北京11月9日电 (记者 阮煜琳)记者9日从中国航空工业集团(简称中航工业)获悉，“应急使命·2026”——重庆重特大森林火灾扑救演习9日在重庆市奉节县举办，中国航空工业集团自主研制的AG600、“新舟”60灭火机等多型装备亮相。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10729123.shtml",
+      "publishedAt": "2026-11-09T13:40:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10729125.shtml",
+      "title": "航拍贵州威宁高原水库雪景",
+      "category": "综合",
+      "summary": "11月9日，贵州省毕节市威宁彝族回族苗族自治县双龙镇杨湾桥水库，雪花飞扬，绘就冬日画卷。管庆巍 摄 11月9日，贵州省毕节市威宁彝族回族苗族自治县双龙镇杨湾桥水库，雪花飞扬，绘就冬日画卷。管庆巍 摄 11月9日，贵州省毕节市威宁彝族回族苗族自治县双龙镇杨湾桥水库，雪花飞扬，绘就冬日画卷。管庆巍 摄 11月9日，贵州省毕节市威宁彝族回族苗族自治县双龙镇杨湾桥水",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10729125.shtml",
+      "publishedAt": "2026-11-09T13:38:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-09/10729128.shtml",
+      "title": "20家海外华媒走读安徽 探科技寻文脉",
+      "category": "综合",
+      "summary": "中新网合肥11月9日电 (记者 储玮玮)2026海外华文媒体走读安徽活动9日在合肥启动，来自五大洲的20家海外华文媒体代表赴皖探科技寻文脉。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-09/10729128.shtml",
+      "publishedAt": "2026-11-09T13:37:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad#2",
+      "title": "Nvidia就黃仁勳與疑似中國間諜有婚外情展開調查",
+      "category": "国际",
+      "summary": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T13:10:30.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -471,7 +630,7 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T09:01:15.000Z",
+      "publishedAt": "2026-11-09T13:10:28.000Z",
       "tags": [
         "国际",
         "商业",
@@ -481,110 +640,126 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-09/10728930.shtml",
-      "title": "消防共建进凯旋 同心守护万家安",
-      "category": "综合",
-      "summary": "在第35个“119”全国消防日来临之际，为进一步普及消防安全知识，提升辖区归侨侨眷及居民群众的消防安全意识和应急处置能力，11月4日，沈阳市沈河区委统战部联合北站街道凯旋社区侨联，邀请沈阳市金融商贸开发区消防救援大队北站东二路消防救援站，共同开展“消防共建进凯旋同心守护万家安”消防安全宣传活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728930.shtml",
-      "publishedAt": "2026-11-09T09:00:57.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cvwy7ygyw12po/trad#3",
+      "title": "黃仁勳涉與中國間諜外遇：為何婚外情升溫至國安爭議？",
+      "category": "国际",
+      "summary": "輝達（英偉達，Nvidia）執行長黃仁勳承認婚外情，正接受公司董事會調查，期間維持職務。《紐約時報》報導，美國情報官員認為，與黃仁勳有親密關係的中國商人黃樂（Alice Huang）是中國間諜。美中科技競爭升溫之際，美國對人工智能晶片出口、國家安全及企業管治的討論將更加激烈。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/watch/cvwy7ygyw12po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T12:57:57.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-09/10728936.shtml",
-      "title": "10月中国乘用车出口量同比增长68.5%",
-      "category": "综合",
-      "summary": "中新社北京11月9日电 (记者 刘文文)中国汽车流通协会乘用车市场信息联席分会(“乘联分会”)9日发布的数据显示，10月乘用车出口量同比增长68.5%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728936.shtml",
-      "publishedAt": "2026-11-09T09:00:45.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143165",
+      "title": "强厄尔尼诺或致全球经济损失11万亿美元",
+      "category": "国际",
+      "summary": "国际农业发展基金与土耳其农业和林业部周一联合发布报告警告，强厄尔尼诺事件可能在未来五至六年内给全球经济造成高达11万亿美元的损失，并对粮食安全产生重大而持久的影响。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143165",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-09/10728927.shtml",
-      "title": "长江支流黄柏河：清流活水润育乡村振兴",
-      "category": "综合",
-      "summary": "图为黄柏河流域乡村人居空间与湿地生态交相辉映。（无人机照片）望作信 摄 图为黄柏河流域乡村人居空间与湿地生态交相辉映。（无人机照片）望作信 摄 图为黄柏河流域乡村人居空间与湿地生态交相辉映。（无人机照片）望作信 摄 图为黄柏河流域碧水蜿蜒流淌。（无人机照片）望作信 摄 图为黄柏河流域配套停车场停满游客车辆。（无人机照片）望作信 摄 图为黄柏河两岸林木疏淡有致",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728927.shtml",
-      "publishedAt": "2026-11-09T08:59:57.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143164",
+      "title": "贸发会议：贸易合作有助于增强气候行动和经济韧性",
+      "category": "国际",
+      "summary": "联合国贸易和发展会议发布的《全球贸易动态》报告指出，随着气候变化带来的经济风险不断上升，贸易合作对于加快气候行动、促进气候技术获取以及增强经济韧性至关重要。报告强调，各国需要加强落实气候承诺，深化贸易合作，帮助发展中经济体参与气候相关价值链。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143164",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-09/10728926.shtml",
-      "title": "广西贺州打造康养森林廊道 “暖经济”在山水间释放热力",
-      "category": "综合",
-      "summary": "中新网贺州11月9日电(张广权 贝佳杭 张金莲)走进贺州，山间蒸腾的白汽、林间绵长的呼吸，以及泡池边带着粤语口音的“好舒服”这些鲜活的初冬图景，构成“长寿贺州·康养胜地”最直观的注脚。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728926.shtml",
-      "publishedAt": "2026-11-09T08:59:15.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143163",
+      "title": "联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧",
+      "category": "国际",
+      "summary": "联合国两位高级官员周一在安理会通报乌克兰局势时表示，随着俄罗斯持续加大对乌克兰人口密集区、民用基础设施和能源设施的袭击，乌克兰平民伤亡不断增加，人道主义局势持续恶化。随着冬季临近，电力、供暖和供水中断将使更多平民面临危险。他们呼吁各方立即停止袭击，保护平民，并确保人道主义援助安全、畅通无阻地送达。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143163",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210350.shtml",
-      "title": "（第九届进博会）适老化产品与服务亮相第九届进博会 助力银发经济高质量发展",
-      "category": "综合",
-      "summary": "11月9日，观众在技术装备展区，现场试用指夹式脉搏血氧仪。 中新社记者 殷立勤 摄 11月9日，观众在医疗器械及医药保健展区，现场对眼睛进行检查。 中新社记者 殷立勤 摄 11月9日，观众在医疗器械及医药保健展区，现场体验微压氧舱。 中新社记者 殷立勤 摄 11月9日，观众在医疗器械及医药保健展区，了解全周期照护服务样板间的相关设备。 中新社记者 殷立勤 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210350.shtml",
-      "publishedAt": "2026-11-09T08:58:49.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143162",
+      "title": "2026年前9个月全球平均地表温度比工业化前水平高出约1.47摄氏度",
+      "category": "国际",
+      "summary": "世界气象组织周一发布的《2026年气候状况最新通报》显示，全球气温异常偏高、冰川融化和海平面上升的长期趋势仍在持续。与此同时，一次极强的厄尔尼诺事件预计将进一步加剧高温和极端天气，其影响将持续至2027年。报告强调，这些变化正在对环境、经济和日常生活产生连锁影响。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143162",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-09/10728928.shtml",
-      "title": "年轻人开始寻找城市“树洞”",
-      "category": "综合",
-      "summary": "在快速发展的现代社会，物质供给日益丰盈，一种隐秘而迫切的需求正在蓬勃生长：人们不仅需要遮风挡雨的屋檐，更需要安放焦虑、治愈疲惫的精神栖息地。城市不仅需要“硬基建”，还需要“情绪基建”。从景区到社区，从企业到商圈，从公园到住房，情绪空间开始嵌入城市肌理。城市越来越注重人的感受，让居民的情绪有了更多的释放机会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728928.shtml",
-      "publishedAt": "2026-11-09T08:57:19.000Z",
+      "id": "sspai-https://sspai.com/post/118833",
+      "title": "派评 | 近期值得关注的 App",
+      "category": "科技",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/118833",
+      "publishedAt": "2026-11-09T10:27:59.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#2",
+      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+      "category": "国际",
+      "summary": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T10:08:05.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -620,23 +795,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad#2",
-      "title": "Nvidia就黃仁勳與疑似中國間諜有婚外情展開調查",
-      "category": "国际",
-      "summary": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T07:45:23.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -677,7 +835,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad#2",
       "title": "《薩爾達傳說：時之笛》重製版能否重現原作的魔力？",
       "category": "国际",
       "summary": "任天堂發布了其重製版，這款遊戲被認為是史上最優秀的遊戲之一。",
@@ -782,41 +940,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#2",
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "category": "国际",
-      "summary": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T10:31:39.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad#2",
-      "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
-      "category": "国际",
-      "summary": "這位前脫歐談判代表表示，歐盟國家將拒絕英國任何「單點」選擇遵守經濟規則的企圖。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T10:03:03.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad#2",
       "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
       "category": "国际",
       "summary": "隨著人們對這些收藏玩具的興趣減弱，其母公司泡泡瑪特（Pop Mart）的收入也隨之下降。",
@@ -1187,24 +1311,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/118570",
-      "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-      "category": "科技",
-      "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/118570",
-      "publishedAt": "2026-11-06T03:06:53.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad#3",
       "title": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
       "category": "国际",
@@ -1400,23 +1506,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad#2",
-      "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-      "category": "国际",
-      "summary": "程萬軍隨後在網上發布影片，指控台灣執法人員在遣返過程中使用暴力。移民署則稱，他在登機時激烈抗拒並有自傷行為，執法人員為維護飛航安全採取必要措施。BBC中文無法獨立核實雙方的說法。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T08:26:48.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad#5",
       "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
       "category": "国际",
@@ -1498,23 +1587,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad#3",
-      "title": "「我在橫店當王妃」：中國興起短劇體驗遊",
-      "category": "国际",
-      "summary": "穿上古裝、化身皇帝或妃嬪，親自出演一場宮廷大戲。在中國「好萊塢」，遊客不再只是旁觀者，而是能過一把當主角的癮。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:04:02.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1662,42 +1734,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143128",
-      "title": "世卫组织：热带病防控取得进展",
-      "category": "国际",
-      "summary": "世界卫生组织周三表示，全球被忽视的热带病防控取得显著进展。截至今年6月，已有63个国家消除至少一种此类疾病，高于2020年底的42个。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143128",
-      "publishedAt": "2026-11-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143127",
-      "title": "世卫组织：采取气候相关健康措施每年有望挽救160万人生命",
-      "category": "国际",
-      "summary": "世界卫生组织周三发布的一份报告显示，在全球推广高温健康预警、安全饮水和清洁家庭能源等六项措施，每年有望避免160万人死亡，并带来数万亿美元的经济和财政收益，同时帮助减少碳排放。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143127",
-      "publishedAt": "2026-11-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:d19bec54-aa62-4f8c-9c65-f136a1c1fc3b",
       "title": "六项气候和健康行动每年可以拯救160万人的生命并带来数万亿美元的收益",
       "category": "健康",
@@ -1728,42 +1764,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143126",
-      "title": "也门战火加剧，妇女和女童承受“毁灭性后果”",
-      "category": "国际",
-      "summary": "萨法今年14岁。她的母亲于今年早些时候去世。她没有兄弟姐妹。几周前，随着危机加剧，她的父亲将她嫁给了一位年迈的男子，因为父亲担心如果自己在战火中丧生，就没人能保护她了。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143126",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143125",
-      "title": "海地黑帮头目寻求联合国斡旋，萨尔瓦多派出2000名兵力搜寻失踪士兵",
-      "category": "国际",
-      "summary": "一名被美国通缉的海地黑帮头目已请求联合国进行斡旋，与此同时，萨尔瓦多向海地派遣了2000多名兵力，搜寻四名在遭遇黑帮伏击后失踪的本国士兵。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143125",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },

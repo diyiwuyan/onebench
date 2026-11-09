@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143165",
+      "title": "强厄尔尼诺或致全球经济损失11万亿美元",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143165",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143164",
+      "title": "贸发会议：贸易合作有助于增强气候行动和经济韧性",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143164",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143163",
+      "title": "联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143163",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143162",
+      "title": "2026年前9个月全球平均地表温度比工业化前水平高出约1.47摄氏度",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143162",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143160",
       "title": "古特雷斯谴责波兰克拉科夫市发生的大规模枪击事件",
       "meta": "联合国新闻 · 2026/11/8",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/11/4",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143129",
       "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143128",
-      "title": "世卫组织：热带病防控取得进展",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143128",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143127",
-      "title": "世卫组织：采取气候相关健康措施每年有望挽救160万人生命",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143127",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143126",
-      "title": "也门战火加剧，妇女和女童承受“毁灭性后果”",
-      "meta": "联合国新闻 · 2026/11/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143126",
-      "publishedAt": "2026-11-03T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143125",
-      "title": "海地黑帮头目寻求联合国斡旋，萨尔瓦多派出2000名兵力搜寻失踪士兵",
-      "meta": "联合国新闻 · 2026/11/3",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143125",
-      "publishedAt": "2026-11-03T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-09T09:48:33.684Z",
+  "updatedAt": "2026-11-09T20:43:48.123Z",
   "provider": "OneBench 公共资讯快照"
 }
