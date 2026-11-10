@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad#0",
+      "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
+      "meta": "BBC 中文 · 2026/11/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T23:40:17.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad#0",
       "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
       "meta": "BBC 中文 · 2026/11/9",
@@ -17,13 +24,6 @@
       "meta": "BBC 中文 · 2026/11/9",
       "url": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-09T16:31:02.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad#2",
-      "title": "Nvidia就黃仁勳與疑似中國間諜有婚外情展開調查",
-      "meta": "BBC 中文 · 2026/11/9",
-      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T13:10:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad#0",
@@ -47,7 +47,7 @@
       "publishedAt": "2026-11-09T10:08:05.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad#2",
       "title": "《巴黎協定》：為什麼將全球升溫控制在1.5攝氏度內如此重要？",
       "meta": "BBC 中文 · 2026/11/9",
       "url": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad?at_medium=RSS&at_campaign=rss",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-09-25T04:56:06.000Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:43:48.123Z",
+  "updatedAt": "2026-11-10T04:06:51.826Z",
   "provider": "OneBench 公共资讯快照"
 }
