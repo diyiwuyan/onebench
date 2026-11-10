@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143170",
+      "title": "人权理事会再次推迟对美国的人权审议 对其持续不配合表示遗憾",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143170",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143169",
+      "title": "联合国：南苏丹选举筹备加快推进 但政治共识日益脆弱",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143169",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143168",
+      "title": "古特雷斯：必须加快摆脱化石燃料转型并加强国际合作",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143168",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143065",
       "title": "【专题报道】从一部手机到一间AI课堂：联合国与传音携手推动非洲儿童和难民的数字包容",
       "meta": "联合国新闻 · 2026/11/9",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/11/4",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143135",
       "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143134",
-      "title": "联合国维和事务负责人：“蓝盔”部队撤离黎巴嫩和西撒哈拉将导致“安全真空”",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143134",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143075",
-      "title": "【专题报道 】驶向电气化未来：交通转型如何助力全球气候目标",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143075",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143132",
-      "title": "COP31前瞻：今年联合国气候变化大会有哪些重要议题？",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143132",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T12:39:32.710Z",
+  "updatedAt": "2026-11-10T20:49:18.681Z",
   "provider": "OneBench 公共资讯快照"
 }
