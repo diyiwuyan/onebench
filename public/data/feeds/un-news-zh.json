@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143065",
+      "title": "【专题报道】从一部手机到一间AI课堂：联合国与传音携手推动非洲儿童和难民的数字包容",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143065",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143167",
+      "title": "56名移民在塞内加尔与希腊近海遇难",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143167",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143166",
+      "title": "COP31在安塔利亚开幕：气候承诺能否转化为实际行动？",
+      "meta": "联合国新闻 · 2026/11/9",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143166",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143165",
       "title": "强厄尔尼诺或致全球经济损失11万亿美元",
       "meta": "联合国新闻 · 2026/11/9",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/11/4",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143132",
       "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143131",
-      "title": "全球四分之一青少年过去一周每天运动均不足一小时",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143131",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143130",
-      "title": "全球升温恐将突破1.5℃温控红线",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143130",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143129",
-      "title": "阿富汗逾半数适龄儿童未接受正规小学教育",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143129",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T04:06:51.826Z",
+  "updatedAt": "2026-11-10T12:39:32.710Z",
   "provider": "OneBench 公共资讯快照"
 }
