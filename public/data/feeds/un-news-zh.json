@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143174",
+      "title": "刚果（金）入境点和移民组织管控点发现71例埃博拉病例",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143174",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143173",
       "title": "世卫组织：非洲卫生信息系统存在明显短板",
       "meta": "联合国新闻 · 2026/11/10",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/11/5",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143139",
       "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143138",
-      "title": "儿基会：冲突中袭击供水和环境卫生设施事件增加三倍",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143138",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T01:56:33.096Z",
+  "updatedAt": "2026-11-11T09:25:32.766Z",
   "provider": "OneBench 公共资讯快照"
 }
