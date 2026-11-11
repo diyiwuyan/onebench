@@ -5,7 +5,28 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad#0",
+      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+      "meta": "BBC 中文 · 2026/11/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T01:03:16.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad#0",
+      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
+      "meta": "BBC 中文 · 2026/11/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:21:56.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c933x388j116o/trad#0",
+      "title": "一名公務員如何長期瞞天過海，身兼五職？",
+      "meta": "BBC 中文 · 2026/11/11",
+      "url": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:21:53.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad#2",
       "title": "英國笑匠布蘭德強姦案判刑 為何BBC和貝安德均作表態？",
       "meta": "BBC 中文 · 2026/11/10",
       "url": "https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad?at_medium=RSS&at_campaign=rss",
@@ -26,32 +47,18 @@
       "publishedAt": "2026-11-10T08:24:34.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad#2",
       "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
       "meta": "BBC 中文 · 2026/11/10",
       "url": "https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T06:32:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad#2",
       "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
       "meta": "BBC 中文 · 2026/11/10",
       "url": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T04:02:29.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad#2",
-      "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
-      "meta": "BBC 中文 · 2026/11/9",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T23:40:17.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad#2",
-      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-      "meta": "BBC 中文 · 2026/11/9",
-      "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T17:25:50.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad#2",
@@ -73,13 +80,6 @@
       "meta": "BBC 中文 · 2026/11/9",
       "url": "https://www.bbc.com/zhongwen/watch/cvwy7ygyw12po/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-09T12:57:57.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#2",
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "meta": "BBC 中文 · 2026/11/9",
-      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T10:08:05.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad#2",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-09-25T04:56:06.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T20:49:18.681Z",
+  "updatedAt": "2026-11-11T01:56:33.096Z",
   "provider": "OneBench 公共资讯快照"
 }

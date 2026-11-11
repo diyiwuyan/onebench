@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143173",
+      "title": "世卫组织：非洲卫生信息系统存在明显短板",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143173",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143172",
+      "title": "COP31聚焦能源转型：各国探索摆脱化石燃料之路",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143172",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143171",
+      "title": "全球15亿妇女和女童生活在气候高风险地区",
+      "meta": "联合国新闻 · 2026/11/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143171",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143170",
       "title": "人权理事会再次推迟对美国的人权审议 对其持续不配合表示遗憾",
       "meta": "联合国新闻 · 2026/11/10",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/11/5",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143138",
       "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143137",
-      "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143137",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143136",
-      "title": "古特雷斯：文化是人类大家庭的纽带 有助于促进和解与和平",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143136",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143135",
-      "title": "燃油价格上涨冲击全球 发展中经济体负担最重",
-      "meta": "联合国新闻 · 2026/11/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143135",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T20:49:18.681Z",
+  "updatedAt": "2026-11-11T01:56:33.096Z",
   "provider": "OneBench 公共资讯快照"
 }
