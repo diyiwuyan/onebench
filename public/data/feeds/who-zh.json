@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:720675e3-871a-45d6-a474-c0d1365df30d",
+      "title": "世卫组织发起“携手共促科学与健康”运动，以增强世界各地对科学的信任",
+      "meta": "世界卫生组织 · 2026/11/9",
+      "url": "https://www.who.int/zh/news-room/10-11-2026-who-launches-together-for-science-and-health-movement-to-strengthen-trust-worldwide",
+      "publishedAt": "2026-11-09T18:11:11.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:71ff1e90-2367-4787-bcde-4209da3cbcdb",
       "title": "埃博拉治疗研究取得进展，两款新候选疫苗将加入试验",
       "meta": "世界卫生组织 · 2026/11/4",
@@ -152,6 +159,6 @@
       "publishedAt": "2026-09-25T07:06:46.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T00:43:28.972Z",
+  "updatedAt": "2026-11-12T09:50:24.136Z",
   "provider": "OneBench 公共资讯快照"
 }

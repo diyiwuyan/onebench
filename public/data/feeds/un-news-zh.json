@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143178",
+      "title": "【专题报道|前方视野】人类是否会失去对战争的有效控制——人工智能时代的安全隐忧",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143178",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143181",
+      "title": "联合国报告：全球70%的国家已建立多灾种早期预警系统",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143181",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143180",
+      "title": "联合国呼吁将过冬援助物资立即运入加沙",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143180",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143179",
+      "title": "驻守48年后，联合国维和部队准备撤离黎巴嫩",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143179",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143177",
       "title": "人权高专欢迎特立尼达和多巴哥同性关系非刑事化判决",
       "meta": "联合国新闻 · 2026/11/11",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/11/6",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143150",
       "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143149",
-      "title": "国际原子能机构考察团审查俄罗斯核与辐射安全监管框架",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143149",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143148",
-      "title": "古特雷斯：多边主义面临五项考验 国际社会必须让武力服从法律",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143148",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143147",
-      "title": "英国女性举报强奸反遭刑事起诉，联合国委员会认定保护不力",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143147",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143146",
-      "title": "数据中心能否搬到太空？国际电联探讨机遇与挑战",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143146",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T00:43:28.972Z",
+  "updatedAt": "2026-11-12T09:50:24.136Z",
   "provider": "OneBench 公共资讯快照"
 }
