@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T17:53:39.595Z",
-  "expiresAt": "2026-11-11T23:53:39.595Z",
+  "generatedAt": "2026-11-12T00:43:28.972Z",
+  "expiresAt": "2026-11-12T06:43:28.972Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -21,9 +21,8 @@
     },
     {
       "id": "who-zh",
-      "ok": false,
-      "itemCount": 0,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "itemCount": 25
     },
     {
       "id": "bbc-zh",
@@ -33,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
-      "title": "德权威机构大幅上调2026年德国经济增长预期",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730603.shtml",
+      "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
       "category": "综合",
-      "summary": "中新社柏林11月11日电 (记者 马秀秀)德国经济专家委员会11日发布的报告预计，2026年德国经济将增长1.3%。若这一预测实现，德国经济将迎来自2022年以来首次较为明显的增长。",
+      "summary": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
-      "publishedAt": "2026-11-11T15:58:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730603.shtml",
+      "publishedAt": "2026-11-12T00:29:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -51,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
-      "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730602.shtml",
+      "title": "第二艘国产大型邮轮“爱达·花城号”完成首个试运营航次",
       "category": "综合",
-      "summary": "中新社成都11月11日电 (单鹏)2026CFA中国之队·熊猫杯成都国际青年足球锦标赛(简称“熊猫杯”)11日在成都双流体育中心体育场打响。当晚，中国U19男足3:1击败越南U19男足，取得开门红。",
+      "summary": "今天(12日)，第二艘国产大型邮轮“爱达·花城号”顺利完成首个试运营航次，抵达广州南沙国际邮轮母港。在首个试运营航次中，“爱达·花城号”模拟真实运营状态，围绕海事安全运营、船岸联动、全船信息系统以及餐饮、客房、演艺等核心服务流程，开展了全方位的压力测试与演练。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
-      "publishedAt": "2026-11-11T15:27:17.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730602.shtml",
+      "publishedAt": "2026-11-12T00:26:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -69,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
-      "title": "2026年中国国际拳击公开赛收官 中国选手9金领跑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
+      "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
       "category": "综合",
-      "summary": "中新社贵州遵义11月11日电 (记者 瞿宏伦 周燕玲)2026年中国国际拳击公开赛11日晚在贵州省遵义市收官。经过7天角逐，中国选手在男女各竞赛级别中以9金高居奖牌榜榜首。",
+      "summary": "中新网11月12日电 据中央气象台网站12日消息，昨日，云南西部和南部降雨明显，新疆北部出现雨雪天气。预计未来三天，云南、华南等地有较强降雨，注意防范局地强降雨可能引发的次生灾害；新疆、西北地区等地关注低温雨雪天气对交通、旅游、农牧业等的影响。另外，华北、黄淮及汾渭平原等地有轻至中度霾、局地重度霾，关注对人体健康、交通的影响。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
-      "publishedAt": "2026-11-11T15:26:45.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
+      "publishedAt": "2026-11-12T00:23:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -87,14 +86,194 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730601.shtml",
+      "title": "中央气象台对台风“查帕卡”停止编号",
+      "category": "综合",
+      "summary": "中国天气网讯 今年第32号台风“查帕卡”已于昨天(11日)晚上在日本东南洋面变性为温带气旋，中央气象台对其停止编号。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730601.shtml",
+      "publishedAt": "2026-11-12T00:21:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730600.shtml",
+      "title": "拜登在爱尔兰遭抗议者扔掷物品 一男子被起诉",
+      "category": "综合",
+      "summary": "中新网11月12日电 据美国全国广播公司(NBC)当地时间11日报道，美国前总统拜登10日在爱尔兰首都都柏林出席一场活动时，遭部分支持巴勒斯坦的抗议者扔掷物品。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730600.shtml",
+      "publishedAt": "2026-11-12T00:21:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730599.shtml",
+      "title": "大雾黄色预警：7省市有大雾 河北辽宁贵州部分地区有浓雾",
+      "category": "综合",
+      "summary": "中国天气网讯 中央气象台11月12日06时继续发布大雾黄色预警：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730599.shtml",
+      "publishedAt": "2026-11-12T00:19:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730597.shtml",
+      "title": "北京今天有雾昼夜温差大 明后天扩散条件逐渐转差能见度下降",
+      "category": "综合",
+      "summary": "中国天气网讯 今天(11月12日)，北京有轻雾或雾，晴天继续在线，昼夜温差大。明后天，随着扩散条件和能见度的逐渐转差，局地最低能见度不足500米，公众出行注意防范。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730597.shtml",
+      "publishedAt": "2026-11-12T00:15:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730591.shtml",
+      "title": "坚持用党的创新理论凝心铸魂（学习贯彻党的二十届五中全会精神）",
+      "category": "综合",
+      "summary": "李书磊",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730591.shtml",
+      "publishedAt": "2026-11-12T00:10:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730595.shtml",
+      "title": "伊朗高官宣布：目前波斯湾内没有美军存在",
+      "category": "综合",
+      "summary": "中新网11月12日电 据伊朗媒体报道，当地时间11日，伊朗武装部队副总参谋长海达里表示，目前，波斯湾内没有美军存在。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730595.shtml",
+      "publishedAt": "2026-11-12T00:07:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/gn/shipin/2026/11-12/news1074633.shtml",
+      "title": "习言道｜激励和团结海内外全体中华儿女为实现中华民族伟大复兴而共同奋斗",
+      "category": "综合",
+      "summary": "习近平总书记指出，缅怀孙中山先生等革命先驱的历史功勋，就是要学习和弘扬他们为振兴中华而矢志不渝的崇高精神，激励和团结海内外全体中华儿女为实现中华民族伟大复兴而共同奋斗。今天是孙中山先生诞辰160周年纪念日，一起聆听总书记重要讲话，学习和继承孙中山先生的宝贵精神，为振兴中华继续奋斗。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-12/news1074633.shtml",
+      "publishedAt": "2026-11-12T00:05:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/11-12/10730590.shtml",
+      "title": "一离职员工被索赔二十余万元 工作交接义务边界何在",
+      "category": "综合",
+      "summary": "说案",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730590.shtml",
+      "publishedAt": "2026-11-11T23:51:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/11-12/10730589.shtml",
+      "title": "“薪酬”“股份”背后的腐败账 “两高”典型案例揭秘新型、隐性职务犯罪",
+      "category": "综合",
+      "summary": "解读",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730589.shtml",
+      "publishedAt": "2026-11-11T23:47:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730588.shtml",
+      "title": "基金会，如何赢得更多公信力？",
+      "category": "综合",
+      "summary": "新闻1+1丨基金会，如何赢得更多公信力？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730588.shtml",
+      "publishedAt": "2026-11-11T23:42:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
       "title": "王毅同美国国务卿鲁比奥通电话",
       "category": "综合",
-      "summary": "新华社北京11月11日电#8195;中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。",
+      "summary": "中新社北京11月11日电 中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml",
-      "publishedAt": "2026-11-11T15:09:42.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
+      "publishedAt": "2026-11-11T23:39:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -105,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730556.shtml",
-      "title": "（深圳APEC）2026年APEC领导人会议周新闻中心启用",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730587.shtml",
+      "title": "百亿级市场火爆！“超六成访客是老外” 有人当场下单",
       "category": "综合",
-      "summary": "中新社深圳11月11日电 (记者 蔡敏婕)2026年亚太经合组织(APEC)领导人会议周新闻中心11日在广东深圳启用，工作区域总面积1.5万平方米的新闻中心将为近5000名中外注册记者提供新闻服务保障。",
+      "summary": "脑机接口，是指通过在脑与机器之间建立信息通道，实现生物智能与机器智能的协同交互，是生命科学和信息科学融合发展的前沿技术，分为非侵入式、侵入式、半侵入式等多种类型。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730556.shtml",
-      "publishedAt": "2026-11-11T14:05:50.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730587.shtml",
+      "publishedAt": "2026-11-11T23:36:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -123,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-11/10730554.shtml",
-      "title": "俄美乌三方会谈结束 俄乌就大规模换俘达成一致",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730586.shtml",
+      "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
       "category": "综合",
-      "summary": "中新社莫斯科11月11日电 俄罗斯、美国、乌克兰三方会谈代表11日在阿拉伯联合酋长国首都阿布扎比结束会谈。俄罗斯总统助理、俄方代表团团长梅金斯基在会谈结束后对媒体表示，欧洲安全体系是本次会谈的核心议题，各方在某些方面达成了共识。俄乌就新一轮大规模换俘达成一致。",
+      "summary": "中国汽车工业协会昨天发布数据，记者注意到，在10月份的数据中，我国新能源重卡单月渗透率突破50%，这标志着过去以能耗高为主要短板的重卡行业迈入电动化发展的新阶段。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730554.shtml",
-      "publishedAt": "2026-11-11T14:03:46.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730586.shtml",
+      "publishedAt": "2026-11-11T23:33:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -141,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-11/10730555.shtml",
-      "title": "纪念孙中山诞辰160周年图片展在菲律宾马尼拉开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730584.shtml",
+      "title": "陈文清主持召开专题会议强调 深入贯彻落实习近平总书记重要指示精神 纵深推进依法从严查处危害食品安全违法犯罪专项工作",
       "category": "综合",
-      "summary": "中新网马尼拉11月11日电 纪念孙中山先生诞辰160周年图片展、讲座及电影放映活动11日在菲律宾马尼拉开幕。中国驻菲律宾大使馆公使衔参赞兼总领事王玮、菲华联谊总会理事长蔡明丰、中正学院院长叶启明等出席开幕式并致辞。中正学院近千名师生参加活动并参观图片展。",
+      "summary": "新华社北京11月11日电 中共中央政治局委员、中央政法委书记陈文清11日主持召开专题会议，强调要深入贯彻落实习近平总书记关于食品安全工作重要指示批示精神，始终坚持以人民为中心的发展思想，纵深推进依法从严查处危害食品安全违法犯罪专项工作，用法治维护好人民群众生命安全和身体健康。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-11/10730555.shtml",
-      "publishedAt": "2026-11-11T14:03:42.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730584.shtml",
+      "publishedAt": "2026-11-11T23:30:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -159,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/11-11/10730552.shtml",
-      "title": "（友城故事）成都与莫斯科再签三年行动计划促各领域合作深化",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730585.shtml",
+      "title": "俄罗斯总统普京12日将会见美方谈判代表",
       "category": "综合",
-      "summary": "中新社成都11月11日电 (记者 岳依桐)《中华人民共和国成都市与俄罗斯联邦莫斯科市关于进一步深化友好合作关系的行动计划(2027—2029年)》11日在蓉签署，为未来三年交流合作提供指引，促进各领域合作深化。两市于2018年8月建立友好合作关系。",
+      "summary": "中新网11月12日电 据俄罗斯媒体当地时间12日报道，俄罗斯总统助理乌沙科夫宣布，俄总统普京将于12日上午会见美国总统特使威特科夫和美国总统特朗普的女婿、美国谈判代表库什纳。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730552.shtml",
-      "publishedAt": "2026-11-11T14:03:10.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730585.shtml",
+      "publishedAt": "2026-11-11T23:28:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -177,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730551.shtml",
-      "title": "两岸民众在北京碧云寺追思中山先生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730582.shtml",
+      "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央统战部宣讲",
       "category": "综合",
-      "summary": "中新社北京11月11日电 题：两岸民众在北京碧云寺追思中山先生",
+      "summary": "新华社北京11月11日电 中央宣讲团成员、中共中央政治局委员、中央统战部部长李干杰11月11日在中央统战部作党的二十届五中全会精神宣讲报告。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730551.shtml",
-      "publishedAt": "2026-11-11T14:01:56.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730582.shtml",
+      "publishedAt": "2026-11-11T23:28:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -195,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-11/10730553.shtml",
-      "title": "报告显示：中国旅游市场人气旺盛 “流量转化”考题待解",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730583.shtml",
+      "title": "美国中央司令部发布声明：严格执行对伊朗海上封锁",
       "category": "综合",
-      "summary": "中新社合肥11月11日电 (记者 张强)世界旅游联盟等机构11日在合肥联合发布三份旅游报告，勾勒出当前中国旅游市场的基本轮廓：客流维持高景气状态，但“人气”尚未完全转化为“财气”，如何把旅游流量转化为收益，成为行业必须直面的核心考题。",
+      "summary": "中新网11月12日电 当地时间11日，美国中央司令部在社交媒体上发布声明称，美军继续夜以继日地开展行动，以确保霍尔木兹海峡对商业航运保持开放。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730553.shtml",
-      "publishedAt": "2026-11-11T14:01:04.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730583.shtml",
+      "publishedAt": "2026-11-11T23:24:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -213,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-11/10730544.shtml",
-      "title": "哈尔滨：一条长街的“中山印记”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
+      "title": "美军机被曝撤出驻英基地 包括至少10架加油机和3架“鱼鹰”运输机",
       "category": "综合",
-      "summary": "11月11日，黑龙江哈尔滨，市民在中山路一侧起点中山桥上行走。哈尔滨中山路始建于1898年，原名通道大街，后历经霍尔瓦特大街、陆军街、土肥原路等名称，抗战胜利后定名“中山路”，以纪念孙中山先生。道路沿线历史遗存与现代楼宇交相辉映，如今已是哈尔滨重要城市主干路。2026年是孙中山先生诞辰160周年，哈尔滨中山路、中山桥等地标，留存下这座北国城市的“中山印记”。",
+      "summary": "中新网11月12日电 据法新社当地时间10日援引美国军方消息，美国空军已将部分军机从英国米尔登霍尔空军基地撤出。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730544.shtml",
-      "publishedAt": "2026-11-11T14:00:32.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
+      "publishedAt": "2026-11-11T23:04:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -231,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730549.shtml",
-      "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-12/10730579.shtml",
+      "title": "号称“降压降糖抗癌” 食物真能代替药物吗",
       "category": "综合",
-      "summary": "中新社北京11月11日电 中共中央政治局常委、全国政协主席王沪宁11日在北京会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯。",
+      "summary": "真相来了丨号称“降压降糖抗癌” 食物真能代替药物吗",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730549.shtml",
-      "publishedAt": "2026-11-11T14:00:26.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730579.shtml",
+      "publishedAt": "2026-11-11T22:57:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -249,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730550.shtml",
-      "title": "中国新增三处世界地质遗产地",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
+      "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
       "category": "综合",
-      "summary": "中新社北京11月11日电 中国自然资源部中国地质调查局11日消息，国际地质科学联合会近日公布了第三批100个世界地质遗产地名录，中国有三处“上榜”，分别是鲜水河断裂、云阳中侏罗世恐龙化石群和大别山三叠纪超高压变质带。",
+      "summary": "为期两天的俄罗斯、美国和乌克兰三方会谈11日在阿联酋首都阿布扎比结束，各方就大规模交换被俘人员达成协议，但在结束冲突、领土争议、乌克兰安全保障及欧洲未来安全架构等关键问题上仍存“重大分歧”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730550.shtml",
-      "publishedAt": "2026-11-11T13:59:50.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
+      "publishedAt": "2026-11-11T22:53:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -267,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730548.shtml",
-      "title": "中国发射探源计划探路者卫星",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-12/10730577.shtml",
+      "title": "11月12日新闻早报",
       "category": "综合",
-      "summary": "中新社北京11月11日电 (记者 马帅莎)据中国航天科技集团消息，北京时间11月11日19时41分，中国在酒泉卫星发射中心使用长征二号丁运载火箭，将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730548.shtml",
-      "publishedAt": "2026-11-11T13:59:18.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730577.shtml",
+      "publishedAt": "2026-11-11T22:45:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -285,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-11/10730546.shtml",
-      "title": "中国（内蒙古）自由贸易试验区法治研究中心揭牌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
+      "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
       "category": "综合",
-      "summary": "中新网呼和浩特11月11日电 (记者 奥蓝)11日上午，“中国(内蒙古)自由贸易试验区法治研究中心”及分设在呼和浩特、满洲里、二连浩特的3个研究基地共同举行揭牌仪式。",
+      "summary": "中新网11月12日电 据俄罗斯媒体援引俄罗斯外交部消息，俄罗斯驻美国大使亚历山大·达尔奇耶夫11月11日去世，终年66岁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730546.shtml",
-      "publishedAt": "2026-11-11T13:58:34.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
+      "publishedAt": "2026-11-11T22:39:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -303,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-11/10730547.shtml",
-      "title": "云南“十五五”中医药发展规划：提升少数民族医药服务能力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
+      "title": "俄外交部：将持续致力于揭露日本军国主义罪行",
       "category": "综合",
-      "summary": "中新网昆明11月11日电 (记者 刘冉阳)云南省人民政府办公厅近日印发《云南省中医药振兴发展“十五五”规划》(下称《规划》)指出，将实施少数民族医药服务能力提升行动，加强少数民族医医院建设，推进藏、傣、彝等少数民族医药资源共建共享。",
+      "summary": "中新社莫斯科11月11日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃11日表示，日本政府应当深刻汲取历史教训，放弃当前加速推进“再军事化”政策，并停止试图掩盖日本军国主义在第二次世界大战期间犯下的罪行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730547.shtml",
-      "publishedAt": "2026-11-11T13:57:58.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
+      "publishedAt": "2026-11-11T22:38:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -321,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-11/10730545.shtml",
-      "title": "山西老年人口突破800万 围绕五大重点谋划“十五五”老龄工作布局",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730574.shtml",
+      "title": "守住你的钱袋子 “双十一”网购防骗指南请查收",
       "category": "综合",
-      "summary": "中新网太原11月11日电 (刘小红 杨静)11日，在中共山西省委宣传部、山西省人民政府新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上，针对山西老龄工作相关问题，山西省民政厅党组书记、厅长李建红表示，目前山西省老年人口突破800万，“十五五”时期是当地积极应对人口老龄化的重要窗口期。",
+      "summary": "当前，“双十一”促销活动火热进行，不少消费者忙着下单收货。与此同时，不法分子也瞄准这波网购热潮伺机作案，诈骗套路不断更新，消费者该如何识别？我们梳理了五类多发骗局，帮您看清套路、守住钱袋子。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730545.shtml",
-      "publishedAt": "2026-11-11T13:57:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730574.shtml",
+      "publishedAt": "2026-11-11T22:14:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -339,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-11/10730543.shtml",
-      "title": "山西民政收官“十四五”惠及184万民众 五大方向布局“十五五”民生工作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
+      "title": "伊朗议长：美国必须满足伊方提出的七项条件",
       "category": "综合",
-      "summary": "中新网太原11月11日电 (刘小红 杨静)11日，在中共山西省委宣传部、山西省人民政府新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上，山西省民政厅党组书记、厅长李建红介绍了全省民政事业发展情况。“十四五”期间，山西持续推进普惠性、基础性、兜底性民生建设，低保、特困、孤儿、残疾人等保障标准稳步提高，惠及困难民众184万人。发布会同步解读《山西省“十",
+      "summary": "当地时间11日，伊朗议会议长卡利巴夫表示，伊朗已向美方给出了明确且直白的答复，阐述了伊朗的正当诉求。迄今为止，美国尚未就伊朗提交的信息和提议给出任何官方或具体的答复。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730543.shtml",
-      "publishedAt": "2026-11-11T13:57:46.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
+      "publishedAt": "2026-11-11T22:07:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -357,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-11/10730542.shtml",
-      "title": "广西北海女子刷短视频被骗100余万元 警方全额追回",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
+      "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
       "category": "综合",
-      "summary": "中新网北海11月11日电 (翟李强 缪春凤)广西北海警方11日披露，北海的林女士刷短视频被骗了109.7万元，警方4天横跨3省奔波千余公里，全额追回。",
+      "summary": "中新社莫斯科11月11日电 俄罗斯外交部11日发布消息说，俄罗斯驻美国大使亚历山大·达尔奇耶夫于当日猝然去世，享年66岁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730542.shtml",
-      "publishedAt": "2026-11-11T13:57:44.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
+      "publishedAt": "2026-11-11T22:04:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -375,32 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/11-11/10730540.shtml",
-      "title": "高架上被风筝线“割车” 别小看这根隐形伤人线",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-12/10730571.shtml",
+      "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
       "category": "综合",
-      "summary": "不少人喜欢在公园、河堤等地放风筝，享受放飞乐趣的同时，也需警惕那根不起眼的风筝线。稍不留神，它就可能成为“隐形杀手”。日前，在浙江杭州发生一起相关案例。",
+      "summary": "中新社洛杉矶11月11日电 (记者 沙晗汀)第22届中美电影节和中美电视节10日在美国洛杉矶举行开幕式暨“金天使奖”颁奖典礼。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/11-11/10730540.shtml",
-      "publishedAt": "2026-11-11T13:48:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730538.shtml",
-      "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中宣部宣讲",
-      "category": "综合",
-      "summary": "新华社北京11月11日电 学习贯彻党的二十届五中全会精神中央宣讲团报告会11月11日在中宣部举行。中央宣讲团成员、中共中央政治局委员、中宣部部长李书磊作宣讲报告。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730538.shtml",
-      "publishedAt": "2026-11-11T13:44:29.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730571.shtml",
+      "publishedAt": "2026-11-11T22:04:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,168 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-11/1210580.shtml",
-      "title": "APEC会议倒计时一周 深圳街头繁花盛放迎八方宾朋",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-11/1210580.shtml",
-      "publishedAt": "2026-11-11T13:43:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-11/10730536.shtml",
-      "title": "重庆市永川区人大常委会原副主任王寒峰被“双开”",
-      "category": "综合",
-      "summary": "中新网11月11日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对重庆市永川区人大常委会原党组成员、副主任王寒峰严重违纪违法问题进行了立案审查调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730536.shtml",
-      "publishedAt": "2026-11-11T13:34:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-11/10730492.shtml",
-      "title": "河北廊坊：中试平台赋能 助力京津科创成果落地转化",
-      "category": "综合",
-      "summary": "11月11日，河北廊坊一处科技中试熟化基地内，工作人员正在检查产品外观、测试产品功能。中试指新产品在正式投产前的中间阶段试验，是科技成果通向产业化的关键环节。廊坊现已建成28家市级科技中试熟化基地，实现县域全覆盖，累计推动50余项京津科技成果在当地首试首用，创造经济效益逾8亿元人民币。当地依托专业化中试平台，打造 “京津研发、廊坊孵化转化产业化”的协同创新模",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730492.shtml",
-      "publishedAt": "2026-11-11T13:32:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-11/10730520.shtml",
-      "title": "浙江发布可持续发展开发区蓝皮书 擦亮绿色发展底色",
-      "category": "综合",
-      "summary": "中新网湖州11月11日电(蓝伊旎)作为经济发展的主战场，开发区应如何持续激发创新活力？11日，可持续发展开发区探索暨浙江开发区“百区千品”拓市场系列绿色低碳专场活动在浙江湖州安吉举办，《可持续发展开发区蓝皮书——新时期浙江开发区高质量发展实践》(以下简称《蓝皮书》)在会上正式发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730520.shtml",
-      "publishedAt": "2026-11-11T13:31:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730522.shtml",
-      "title": "澜湄六国深化人力资源合作 依托职教搭建桥梁",
-      "category": "综合",
-      "summary": "中新网乐山11月11日电 (单鹏)在四川乐山参加2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会的外宾，11日赴乐山职业技术学院参观。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730522.shtml",
-      "publishedAt": "2026-11-11T13:30:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-11/10730490.shtml",
-      "title": "土耳其航空开通成都至伊斯坦布尔客运航线",
-      "category": "综合",
-      "summary": "11月11日，由伊斯坦布尔飞来的土耳其航空TK226航班平稳降落在成都天府国际机场，标志着该航司成都至伊斯坦布尔定期客运航线正式开通。图为土耳其航空空乘人员与旅客在停机坪合影留念。中新社记者 刘忠俊 摄 11月11日，由伊斯坦布尔飞来的土耳其航空TK226航班平稳降落在成都天府国际机场，标志着该航司成都至伊斯坦布尔定期客运航线正式开通。图为机场工作人员护送T",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730490.shtml",
-      "publishedAt": "2026-11-11T13:30:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-11/10730525.shtml",
-      "title": "中亚媒体人：“百闻不如一见，这里是充满活力的新疆”",
-      "category": "综合",
-      "summary": "中新网新疆克拉玛依11月11日电 (张家伟)初冬的新疆克拉玛依市迎来一批远道而来的客人，2026第二届克拉玛依“相聚油城·乐享游城·魅力友城”国际文化传播活动近日在此举办，来自哈萨克斯坦、乌兹别克斯坦、吉尔吉斯斯坦、塔吉克斯坦的中亚四国媒体代表齐聚。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730525.shtml",
-      "publishedAt": "2026-11-11T13:30:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-11/10730488.shtml",
-      "title": "宁夏银川：闽宁传统工艺精品展引游人参观",
-      "category": "综合",
-      "summary": "11月11日，宁夏银川，市民在宁夏博物馆内参观展出的金雕刻百蝠脱胎漆鼎炉。该展览8月在银川启幕，汇聚闽宁两地200余件（套）传统工艺精品，推动两地文化交流互鉴，展期持续至11月23日，吸引不少市民前来观展。中新社记者 于晶 摄 11月11日，在宁夏博物馆展出的象牙雕虾莲摆件。该展览8月在银川启幕，汇聚闽宁两地200余件（套）传统工艺精品，推动两地文化交流互鉴",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730488.shtml",
-      "publishedAt": "2026-11-11T13:29:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-11/10730521.shtml",
-      "title": "AI“店长”助商家出海 “双十一”海外潜力市场成交量大涨",
-      "category": "综合",
-      "summary": "中新网杭州11月11日电(郭其钰)近年来，随着“反向海淘”在海外持续走红，越来越多海外消费者通过跨境电商平台加入中国“双十一”购物狂欢。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730521.shtml",
-      "publishedAt": "2026-11-11T13:27:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad#0",
       "title": "黃仁勳疑落入間諜戰「美人計」——韓國也曾中招",
       "category": "国际",
@@ -603,6 +602,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143177",
+      "title": "人权高专欢迎特立尼达和多巴哥同性关系非刑事化判决",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周三对特立尼达和多巴哥最高法院——枢密院司法委员会——作出的判决表示欢迎。该判决宣布，将私下、双方自愿的同性关系定为犯罪的行为违宪。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143177",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143176",
+      "title": "世卫组织：刚果（金）埃博拉疫情应对面临安全局势动荡等多重障碍",
+      "category": "国际",
+      "summary": "世界卫生组织总干事谭德塞周三表示，刚果民主共和国（刚果（金））埃博拉疫情仍然是一起引起国际关注的公共卫生突发事件。目前，该国八个省份已报告近1.1万例确诊病例，死亡人数超过5300人。尽管部分地区疫情传播速度有所放缓，但新的疫情热点仍在出现，应对工作面临安全局势动荡等多重障碍。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143176",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143175",
+      "title": "现在是决定成败的关键时刻：古特雷斯倡导达成气候正义契约",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周三在第31届联合国气候变化大会（COP31）上倡导达成全球“气候正义契约”，支持发展中国家推进能源转型、应对气候变化，并要求各国对化石燃料企业的暴利征税。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143175",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1568,60 +1621,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143146",
-      "publishedAt": "2026-11-05T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143145",
-      "title": "中东危机可能重塑亚太地区就业格局",
-      "category": "国际",
-      "summary": "国际劳工组织周四发布政策简报指出，中东危机导致的能源供应中断，暴露了亚太地区对进口化石燃料的依赖。随着各国加快发展清洁能源、保障能源安全，该地区就业格局可能发生重大变化。虽然可再生能源、储能和电气化领域的投资有望创造大量就业机会，但新增岗位未必能惠及因产业调整而失去工作的劳动者。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143145",
-      "publishedAt": "2026-11-05T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143140",
-      "title": "发展中国家外债升至9.4万亿美元，创历史新高",
-      "category": "国际",
-      "summary": "世界银行集团周四发布的《2026年国际债务报告》显示，2025年，发展中国家外债增长5.5%，达到创纪录的9.4万亿美元，增速为2021年以来最快，约为2022至2024年平均水平的四倍。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143140",
-      "publishedAt": "2026-11-05T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143139",
-      "title": "“教育不能等待”基金6亿美元筹资目标近在咫尺",
-      "category": "国际",
-      "summary": "各国政府和合作伙伴周四在瑞士日内瓦举行的高级别补充筹资会议上，宣布向联合国全球紧急教育基金“教育不能等待”新增4.058亿美元承诺资金。加上此前通过多年期捐助承诺已获得的1.358亿美元，该基金“希望从这里开始”（Hope Starts Here）筹资活动累计获得5.416亿美元资金及承诺，达到6亿美元目标的90%。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143139",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "tags": [
         "国际",

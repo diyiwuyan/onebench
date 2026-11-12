@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143177",
+      "title": "人权高专欢迎特立尼达和多巴哥同性关系非刑事化判决",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143177",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143176",
+      "title": "世卫组织：刚果（金）埃博拉疫情应对面临安全局势动荡等多重障碍",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143176",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143175",
+      "title": "现在是决定成败的关键时刻：古特雷斯倡导达成气候正义契约",
+      "meta": "联合国新闻 · 2026/11/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143175",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143174",
       "title": "刚果（金）入境点和移民组织管控点发现71例埃博拉病例",
       "meta": "联合国新闻 · 2026/11/10",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/11/5",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143146",
       "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143145",
-      "title": "中东危机可能重塑亚太地区就业格局",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143145",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143140",
-      "title": "发展中国家外债升至9.4万亿美元，创历史新高",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143140",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143139",
-      "title": "“教育不能等待”基金6亿美元筹资目标近在咫尺",
-      "meta": "联合国新闻 · 2026/11/5",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143139",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:53:39.595Z",
+  "updatedAt": "2026-11-12T00:43:28.972Z",
   "provider": "OneBench 公共资讯快照"
 }
