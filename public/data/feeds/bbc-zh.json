@@ -5,11 +5,32 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad#0",
+      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
+      "meta": "BBC 中文 · 2026/11/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T16:14:41.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad#0",
+      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
+      "meta": "BBC 中文 · 2026/11/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T16:12:19.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad#0",
-      "title": "黃仁勳疑涉第二宗婚外情，Nvidia董事會傳擬撤換執行長",
+      "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
       "meta": "BBC 中文 · 2026/11/12",
       "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T09:22:45.000Z"
+      "publishedAt": "2026-11-12T14:28:57.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad#2",
+      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
+      "meta": "BBC 中文 · 2026/11/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T10:15:57.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad#0",
@@ -19,13 +40,6 @@
       "publishedAt": "2026-11-12T08:33:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad#0",
-      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
-      "meta": "BBC 中文 · 2026/11/12",
-      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T08:00:51.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad#0",
       "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
       "meta": "BBC 中文 · 2026/11/12",
@@ -33,7 +47,7 @@
       "publishedAt": "2026-11-12T03:10:40.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad#2",
       "title": "中美能源大戰，如何影響你的帳單？",
       "meta": "BBC 中文 · 2026/11/12",
       "url": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
@@ -82,25 +96,11 @@
       "publishedAt": "2026-11-11T00:21:53.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad#5",
       "title": "全球最大排放國的拐點：中國煤電佔比跌破五成，碳排放幾乎停滯",
       "meta": "BBC 中文 · 2026/11/10",
       "url": "https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T10:09:14.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad#2",
-      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
-      "meta": "BBC 中文 · 2026/11/10",
-      "url": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T08:24:34.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad#5",
-      "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
-      "meta": "BBC 中文 · 2026/11/10",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T06:32:46.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad#2",
@@ -201,6 +201,6 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T09:50:24.136Z",
+  "updatedAt": "2026-11-12T18:19:01.280Z",
   "provider": "OneBench 公共资讯快照"
 }

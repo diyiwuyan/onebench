@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T09:50:24.136Z",
-  "expiresAt": "2026-11-12T15:50:24.136Z",
+  "generatedAt": "2026-11-12T18:19:01.280Z",
+  "expiresAt": "2026-11-13T00:19:01.280Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730958.shtml",
-      "title": "全国总工会2026年重点支持建设200家工匠学院",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml",
+      "title": "马斯克：招揽黄仁勋将是我的荣幸",
       "category": "综合",
-      "summary": "中新网北京11月12日电 (记者 余湛奕)记者12日从全国总工会获悉，为深化产业工人队伍建设改革、提升广大职工技术技能水平，全国总工会近日确定2026年重点支持建设的200家工匠学院。",
+      "summary": "中新网11月13日电 综合报道，当地时间11月12日，美国企业家马斯克在社交媒体平台回应网友请他聘用黄仁勋时表示：“那将是我的荣幸”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730958.shtml",
-      "publishedAt": "2026-11-12T09:45:59.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml",
+      "publishedAt": "2026-11-12T16:28:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730957.shtml",
-      "title": "企业痛点变改革清单 湖南株洲营商环境“体验官”为企服务直达“末梢”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-13/10731233.shtml",
+      "title": "特朗普：建议库克接替黄仁勋担任英伟达CEO",
       "category": "综合",
-      "summary": "中新网株洲11月12日电 (刘曼)一处长期困扰园区企业出行的路面大坑，经营商环境“体验官”反映后，湖南省株洲市优化营商环境中心迅速协调相关部门，约一周时间完成修复，方便了园区内数十家企业。",
+      "summary": "中新网11月13日电 据外媒报道，美国总统特朗普当地时间12日对英伟达下一任首席执行官提出了自己的推荐人选——蒂姆·库克。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730957.shtml",
-      "publishedAt": "2026-11-12T09:45:53.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731233.shtml",
+      "publishedAt": "2026-11-12T16:26:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,48 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-12/10730976.shtml",
-      "title": "“为你读诗” 海宁会客厅开放数月 诗歌活动进入老街日常",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad#0",
+      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
+      "category": "国际",
+      "summary": "短短幾天內，黃仁勳作為全球科技競賽領軍人物、看似無可撼動的地位便迅速崩塌。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T16:14:41.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad#0",
+      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
+      "category": "国际",
+      "summary": "財務長科萊特·克雷斯將暫時接替黃仁勳，但另有數人被視為可能的正式接班人。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T16:12:19.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731232.shtml",
+      "title": "黄仁勋辞职后英伟达股价震荡 分析称做空该公司的投资者获利丰厚",
       "category": "综合",
-      "summary": "中新网嘉兴11月12日电 2026年徐志摩青春诗歌会日前在“为你读诗”海宁会客厅落下帷幕。",
+      "summary": "中新网11月12日电 英伟达11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。消息公布后，英伟达股价在开盘后暴跌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730976.shtml",
-      "publishedAt": "2026-11-12T09:45:25.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731232.shtml",
+      "publishedAt": "2026-11-12T15:37:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +120,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-12/10730953.shtml",
-      "title": "六家国际画廊携60余位大师级艺术家经典作品亮相上海",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
+      "title": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
       "category": "综合",
-      "summary": "中新网上海11月12日电 11月10日至11月15日，“Retour重返经典展”在上海西岸艺术中心举办。展览由GRAPHIKOS策划，创始人徐晓玲担任总策划，汇集六家国际画廊，横跨15个国家与63位大师级艺术家。",
+      "summary": "中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办。这是中国新闻社“新闻会客厅”首次在土耳其举办系列活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730953.shtml",
-      "publishedAt": "2026-11-12T09:45:13.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
+      "publishedAt": "2026-11-12T15:18:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +138,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730963.shtml",
-      "title": "宁夏出台空气质量持续改善行动方案 “十五五”聚焦PM2.5标本兼治",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
+      "title": "英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅",
       "category": "综合",
-      "summary": "中新网银川11月12日电(记者 于晶)11月12日，宁夏“十五五”大气污染治理锁定细颗粒物(PM2.5)综合治理主线，正式印发实施《自治区空气质量持续改善行动实施方案》，推动大气治理从治标向标本兼治转型，统筹污染减排与绿色低碳协同推进。",
+      "summary": "中新网11月12日电 据外媒报道，英伟达股价开盘大幅下挫，暴跌13%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730963.shtml",
-      "publishedAt": "2026-11-12T09:44:29.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
+      "publishedAt": "2026-11-12T14:51:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,446 +156,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730961.shtml",
-      "title": "宁夏“十五五”从三方面发力 筑牢水旱灾害防御安全屏障",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml",
+      "title": "美国华盛顿特区发生多起枪击事件 4人中枪",
       "category": "综合",
-      "summary": "中新网银川11月12日电 (记者 于晶)11月12日，记者从宁夏回族自治区水利厅获悉，“十五五”期间，宁夏将秉持“两个坚持、三个转变”防灾减灾救灾理念，聚焦完善区域防洪工程体系、雨水情监测预报体系、水旱灾害防御工作体系三大方向，持续增强全区水旱灾害防御综合能力。",
+      "summary": "当地时间11月12日，美国方面消息称，美国华盛顿特区当天凌晨发生多起枪击事件，共有4人中枪。事发地点距离白宫约1.6公里。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730961.shtml",
-      "publishedAt": "2026-11-12T09:44:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-12/10730960.shtml",
-      "title": "河北唐山万顺书场：一块醒木，百年书场",
-      "category": "综合",
-      "summary": "中新网唐山11月12日电 题：河北唐山万顺书场：一块醒木，百年书场",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730960.shtml",
-      "publishedAt": "2026-11-12T09:44:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730968.shtml",
-      "title": "以词元驱动 重庆促进数据产业高质量发展",
-      "category": "综合",
-      "summary": "中新网重庆11月12日电 (张旭)重庆市大数据应用发展管理局党组副书记、副局长杨帆12日在重庆市政府新闻办举行的新闻发布会上介绍，重庆已从夯实数据产业发展基础、积极推进词元创新应用、培育数据产业新业态等方面，对数据产业高质量发展进行系统部署。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730968.shtml",
-      "publishedAt": "2026-11-12T09:43:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730944.shtml",
-      "title": "宁夏出台45项举措推进美丽宁夏建设 明确2030年阶段性目标",
-      "category": "综合",
-      "summary": "中新网银川11月12日电 (记者 于晶)11月12日，宁夏举行“开局起步‘十五五’建设美丽新宁夏”自治区级专项规划解读系列新闻发布会(第二场)，对外解读《美丽宁夏建设“十五五”规划》。规划设置17项核心指标，部署四大板块共45项举措，明确到2030年，宁夏生态环境质量持续改善，天蓝、地绿、水美的美丽宁夏建设取得阶段性成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730944.shtml",
-      "publishedAt": "2026-11-12T09:43:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730980.shtml",
-      "title": "国家铁路局发布首个新能源机车整车级行业技术标准",
-      "category": "综合",
-      "summary": "中新网11月12日电 据国家铁路局微信公众号消息，国家铁路局近日正式批准发布我国铁路行业首个新能源机车整车级行业技术标准，成功填补了我国新能源机车领域行业标准空白，为铁路装备绿色转型提供了坚实的技术支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730980.shtml",
-      "publishedAt": "2026-11-12T09:42:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-12/10730966.shtml",
-      "title": "闫晶明走进新一期“名家讲经典”：从鲁迅作品谈经典的炼成",
-      "category": "综合",
-      "summary": "中新网北京11月12日电 (记者 高凯)“名家讲经典——阎晶明：从鲁迅作品谈经典的炼成”文学活动日前在北京邮电大学举办。活动邀请中国作家协会副主席阎晶明，从鲁迅的作品出发，为现场师生及线上读者讲述一部部文学作品如何经过时间的淘洗成为经典。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730966.shtml",
-      "publishedAt": "2026-11-12T09:41:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730940.shtml",
-      "title": "上海上线全国首个破产企业电子营业执照应用系统",
-      "category": "综合",
-      "summary": "中新网上海11月12日电 (记者 许婧)12日，上海在全国率先探索实现破产案件信息府院共享，创新推出破产企业电子营业执照权限应用新场景。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730940.shtml",
-      "publishedAt": "2026-11-12T09:41:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-12/10730939.shtml",
-      "title": "汕头高新区打造智能制造产业聚集新载体",
-      "category": "综合",
-      "summary": "中新网汕头11月12日电(记者 李怡青)“粤智赋万企行”智能装备行业专场暨汕头高新(即“汕头高新技术产业开发区”)六合产业园大信智能制造项目开工活动12日在广东汕头举行。该项目主要承接新一代电子信息、智能制造、新材料等产业研发生产，形成产业集聚新载体。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730939.shtml",
-      "publishedAt": "2026-11-12T09:41:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730938.shtml",
-      "title": "从“手搓电池”到盗版手办 上海警方披露民生领域制售假案件",
-      "category": "综合",
-      "summary": "中新网上海11月12日电(记者 李姝徵)新能源汽车拆解淘汰的废旧电芯，被非法翻装成电动自行车锂电池；普通水泥换上名牌包装后加价销售；盗版手办借“预售”“早鸟价”吸引买家……上海警方12日通报，今年以来，全市共侦破民生领域制假售假相关刑事案件510余起，并披露三类典型案件。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730938.shtml",
-      "publishedAt": "2026-11-12T09:41:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730975.shtml",
-      "title": "江苏“百城千校万企”促就业推进会在扬州举行",
-      "category": "综合",
-      "summary": "中新网扬州11月12日电 (徐珊珊 徐晖)11月11日，江苏省“百城千校万企促就业”秋季招聘活动暨产教融合推进会在扬州大学召开。活动旨在深化政校企协同联动，推动教育链、人才链、产业链、创新链深度融合，助力民营经济高质量发展和高校毕业生高质量充分就业。全国工商联副主席方光华出席并讲话，江苏省工商联主席刘聪主持。扬州大学党委书记刘巧泉，扬州市委副书记、统战部部长",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730975.shtml",
-      "publishedAt": "2026-11-12T09:40:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730956.shtml",
-      "title": "广东省委宣传部原副部长倪谦被“双开”",
-      "category": "综合",
-      "summary": "中新网11月12日电 据广东省纪委监委消息：经中共广东省委批准，广东省纪委监委对广东省委宣传部原副部长、省新闻出版局(省版权局)原局长倪谦严重违纪违法问题进行了立案审查调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730956.shtml",
-      "publishedAt": "2026-11-12T09:40:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730954.shtml",
-      "title": "广西壮族自治区水利厅一级巡视员李建文接受监察调查",
-      "category": "综合",
-      "summary": "中新网11月12日电 据广西壮族自治区纪委监委消息：广西壮族自治区水利厅副厅长、一级巡视员李建文涉嫌严重违法，目前正接受自治区监察委员会监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730954.shtml",
-      "publishedAt": "2026-11-12T09:40:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-12/10730970.shtml",
-      "title": "甘肃敦煌：一纸版权守护千年文脉",
-      "category": "综合",
-      "summary": "中新网兰州11月12日电 (吕献芝)当乐声响起，全球首部洞窟式沉浸体验剧《乐动敦煌》的演员身着华美敦煌乐舞服饰登台，衣袂上灵动的纹样、复原的古乐造型，不只是舞台上惊艳的视觉符号，更是受到版权保护的原创成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730970.shtml",
-      "publishedAt": "2026-11-12T09:37:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730977.shtml",
-      "title": "重载无人机投用 保障长春大冬会高山赛道气象监测布设",
-      "category": "综合",
-      "summary": "中新网吉林11月12日电 (记者 苍雁 石洪宇)12日，记者从吉林市气象局获悉，长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)吉林市分赛区雪上场地采用重载无人机吊装转运气象监测设备，打通了高山赛道观测点位运输瓶颈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730977.shtml",
-      "publishedAt": "2026-11-12T09:37:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730967.shtml",
-      "title": "内蒙古草原小城中学 这样“托举”科创少年",
-      "category": "综合",
-      "summary": "中新网呼和浩特11月12日电 题：内蒙古草原小城中学这样“托举”科创少年",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730967.shtml",
-      "publishedAt": "2026-11-12T09:37:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730952.shtml",
-      "title": "（乡村行·看振兴）从“砍树”到“看树” 川东一座林场的“绿色账本”",
-      "category": "综合",
-      "summary": "中新网达州11月12日电 题：从“砍树”到“看树” 川东一座林场的“绿色账本”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730952.shtml",
-      "publishedAt": "2026-11-12T09:36:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730951.shtml",
-      "title": "河南外贸规模创历史新高 前10个月进出口9371.6亿元",
-      "category": "综合",
-      "summary": "中新网郑州11月12日电 (记者 阚力)郑州海关12日消息称，今年前10个月河南省进出口9371.6亿元，同比(下同)增长26.1%，进出口规模创历史同期新高。其中，出口5543.4亿元，增长13.6%；进口3828.2亿元，增长50.2%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730951.shtml",
-      "publishedAt": "2026-11-12T09:35:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730972.shtml",
-      "title": "全国秋冬进程图出炉，看看你家入冬了吗？",
-      "category": "综合",
-      "summary": "冬季版图已超秋季！全国秋冬进程图出炉 看看你家入冬了吗？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730972.shtml",
-      "publishedAt": "2026-11-12T09:35:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10730935.shtml",
-      "title": "中国三部门挂牌督办18起涉食品安全重大犯罪案件",
-      "category": "综合",
-      "summary": "中新社北京11月12日电 记者12日从中央政法委获悉，为依法从严查处危害食品安全违法犯罪，公安部、最高人民检察院、最高人民法院近日对18起涉食品安全重大犯罪案件集中挂牌督办，其中包括“甲醛白菜”案、“假洋保健品”案、“硫磺竹笋”案等案件。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730935.shtml",
-      "publishedAt": "2026-11-12T09:34:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10730946.shtml",
-      "title": "企业出海“走出去”专题论坛在沪举办",
-      "category": "综合",
-      "summary": "中新网上海11月12日电(范宇斌)近日，2026投资未来机会大会·企业出海“走出去”专题论坛在上海举行。本次论坛以“投资未来·全球视野”为核心，聚焦全球产业链重构机遇，汇聚政企代表、侨商代表、行业专家等，共探中国企业全球化布局的新路径、新方法，为企业出海搭建资源对接、经验共享、项目落地的平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730946.shtml",
-      "publishedAt": "2026-11-12T09:33:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730945.shtml",
-      "title": "新雪季长白山升级雪雕版云顶天宫 增设“青铜门”",
-      "category": "综合",
-      "summary": "中新网长春11月12日电 (张瑶 李思宇)12日，长白山管委会旅游和文化体育局局长耿德勇在吉林省政府新闻办举行的新闻发布会上介绍，新雪季将升级雪雕版云顶天宫，增设青铜门巨型雪雕，配套《盗墓笔记》主题光影秀、雪地蹦迪等，增设游客暖屋，营造缤纷多彩的猫冬夜游氛围。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730945.shtml",
-      "publishedAt": "2026-11-12T09:33:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730943.shtml",
-      "title": "宁夏发布“十五五”林草规划 到2030年完成生态修复400万亩以上",
-      "category": "综合",
-      "summary": "中新网银川11月12日电(记者 于晶)11月12日，《宁夏林业草原保护利用“十五五”规划》(以下简称《规划》)正式对外发布，明确“十五五”时期宁夏林草事业由扩面增量转向提质增效，“三北”工程黄河“几字弯”攻坚战进入决战决胜阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730943.shtml",
-      "publishedAt": "2026-11-12T09:32:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10730942.shtml",
-      "title": "宁夏黄河“几字弯”攻坚战完成任务84.9% 腾格里防风阻沙带全线贯通",
-      "category": "综合",
-      "summary": "中新网银川11月12日电 (记者 于晶)12日，记者从“开局起步‘十五五’建设美丽新宁夏”自治区级专项规划解读系列新闻发布会(第二场)获悉，黄河“几字弯”攻坚战实施3年来，宁夏已完成治理任务696万亩，占总任务84.9%，实现“时间过半、任务超半”，腾格里沙漠防风阻沙带全线贯通，毛乌素沙地流动沙丘全面固定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730942.shtml",
-      "publishedAt": "2026-11-12T09:32:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/11-12/10730849.shtml",
-      "title": "东西问丨胡箫白：为什么中山路不仅遍布中国还“延伸”至海外？",
-      "category": "综合",
-      "summary": "中新社南京11月12日电 题：为什么中山路不仅遍布中国还“延伸”至海外？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/11-12/10730849.shtml",
-      "publishedAt": "2026-11-12T09:31:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-12/10730941.shtml",
-      "title": "2026年全国残疾人跳绳比赛在北京举办",
-      "category": "综合",
-      "summary": "11月12日，2026年全国残疾人跳绳比赛在位于北京的中国残疾人体育运动管理中心举办。赛事设视力、智力、听力等3个残疾组别，设计数赛及花样赛两大项，13个小项，来自中国18个省（区、市）的近200名运动员展开激烈角逐。图为带队老师给准备上场的选手放松肌肉。中新社记者 赵文宇 摄 11月12日，2026年全国残疾人跳绳比赛在位于北京的中国残疾人体育运动管理中心",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730941.shtml",
-      "publishedAt": "2026-11-12T09:27:46.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml",
+      "publishedAt": "2026-11-12T14:30:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -573,13 +175,462 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad#0",
-      "title": "黃仁勳疑涉第二宗婚外情，Nvidia董事會傳擬撤換執行長",
+      "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
       "category": "国际",
-      "summary": "隨着第二宗婚外情的報導曝光，Nvidia股價大幅下跌，自上週五公司市值已蒸發逾5,000億美元。據報董事會正與一家外部公司合作，尋找黃仁勳的潛在繼任者。",
+      "summary": "Nvidia董事會宣布，黃仁勳已辭去公司執行長一職，原任公司執行副總裁兼財務長的科萊特·克雷斯（Colette Kress）已同意出任臨時執行長。",
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T09:22:45.000Z",
+      "publishedAt": "2026-11-12T14:28:57.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731227.shtml",
+      "title": "菲律宾马尼拉街头发生警匪交火 致两死一伤",
+      "category": "综合",
+      "summary": "中新社马尼拉11月12日电 (记者 周璟)据菲律宾警方12日通报，首都马尼拉街头当天中午发生一起警匪交火事件，造成两名嫌疑人死亡，另有一名警察受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731227.shtml",
+      "publishedAt": "2026-11-12T14:27:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10731226.shtml",
+      "title": "北京将推进第四使馆区重点项目建设",
+      "category": "综合",
+      "summary": "中新社北京11月12日电 (记者 陈杭)北京将在东部地区，统筹推进第四使馆区重点项目建设，把金盏国际合作服务区打造成为首都国际化发展新地标；强化首都国际机场国际航空枢纽门户功能，依托首都国际会展中心加快建设具有全球影响力的国际会展集聚区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731226.shtml",
+      "publishedAt": "2026-11-12T14:27:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-12/10731224.shtml",
+      "title": "澳门特区政府举办纪念孙中山先生诞辰160周年图片展",
+      "category": "综合",
+      "summary": "中新社澳门11月12日电 (记者 郑嘉伟)澳门特区政府12日举办“从澳门出发——纪念孙中山先生诞辰160周年图片展”，缅怀孙中山先生为民族独立、社会进步、人民幸福建立的不朽功勋，弘扬革命精神和崇高品德，传承“天下为公”“振兴中华”的理念。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731224.shtml",
+      "publishedAt": "2026-11-12T14:26:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731225.shtml",
+      "title": "英伟达宣布黄仁勋临时接任人：2013年加入该公司的女高管",
+      "category": "综合",
+      "summary": "中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。声明称，现任执行副总裁兼首席财务官科莱特·克雷斯(Colette Kress)已同意担任临时首席执行官。在正式继任者确定之前，克雷斯将继续履行执行副总裁兼首席财务官的职责。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731225.shtml",
+      "publishedAt": "2026-11-12T14:21:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731218.shtml",
+      "title": "平陆运河重塑开放格局 南宁打造面向东盟国际物流枢纽",
+      "category": "综合",
+      "summary": "中新社南宁11月12日电 (记者 黄艳梅)世纪工程平陆运河建成通航，广西南宁实现从内陆城市到江海枢纽的历史性突破。南宁市官方12日举行新闻发布会介绍，该市加快构建“公铁水空”一体化现代综合立体交通网络，致力打造面向东盟的国际物流枢纽。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731218.shtml",
+      "publishedAt": "2026-11-12T14:18:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731219.shtml",
+      "title": "百余名中外专家昆明共议东南亚地中海贫血防控合作",
+      "category": "综合",
+      "summary": "中新社昆明11月12日电 (时文枝)2026年东南亚地中海贫血防控联盟学术研讨会12日在昆明开幕。来自中国及东南亚各国的百余名临床专家、科研人员等，围绕地中海贫血(地贫)防治新技术、区域合作机制展开交流，探讨科研创新如何衔接“筛—诊—治”全链条服务需求。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731219.shtml",
+      "publishedAt": "2026-11-12T14:12:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731223.shtml",
+      "title": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
+      "category": "综合",
+      "summary": "中新网11月12日电 据美国福克斯新闻11日援引以色列媒体报道，美国总统特朗普与以色列总理内塔尼亚胡上周末在一次电话交谈中爆发了“地狱般的激烈争吵”，双方就是否重启对伊朗的军事行动发生激烈冲突。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731223.shtml",
+      "publishedAt": "2026-11-12T14:11:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-12/10731220.shtml",
+      "title": "贵州雷山迎海内外游客欢庆苗年",
+      "category": "综合",
+      "summary": "中新社贵州雷山11月12日电 题：贵州雷山迎海内外游客欢庆苗年",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731220.shtml",
+      "publishedAt": "2026-11-12T14:10:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731222.shtml",
+      "title": "英伟达宣布黄仁勋辞职",
+      "category": "综合",
+      "summary": "中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731222.shtml",
+      "publishedAt": "2026-11-12T14:09:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10731216.shtml",
+      "title": "评论：纪念中山先生，中华儿女要交三份答卷",
+      "category": "综合",
+      "summary": "中新社北京11月12日电 题：纪念中山先生，中华儿女要交三份答卷",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731216.shtml",
+      "publishedAt": "2026-11-12T14:07:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10731217.shtml",
+      "title": "学者析习近平重要讲话涉台内容：突出“团结” 释放善意",
+      "category": "综合",
+      "summary": "中新社北京11月12日电 题：学者析习近平重要讲话涉台内容：突出“团结” 释放善意",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731217.shtml",
+      "publishedAt": "2026-11-12T14:07:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
+      "title": "成渝三地联合进京推介文旅 西部国际AI漫剧产业园亮相",
+      "category": "综合",
+      "summary": "中新网北京11月12日电(曹旭帆)12日，成都市锦江区、重庆市渝中区、成都市都江堰市联合在北京举办文化和旅游产业招商引资推介会，三地携区域文旅资源与产业项目亮相，与在京文旅、科技、金融等领域百余名代表对接洽谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
+      "publishedAt": "2026-11-12T14:05:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10731213.shtml",
+      "title": "7吨级大型运投无人机“长鹰-8”完成运输投送试验",
+      "category": "综合",
+      "summary": "中新网北京11月12日电 中国兵器工业集团所属北方工业公司北方长鹰12日消息，其自主研制的7吨级大型运投无人机“长鹰-8”近日在郑州完成运输投送试验。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731213.shtml",
+      "publishedAt": "2026-11-12T14:05:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-12/10731215.shtml",
+      "title": "马来西亚槟城举办展览记录华人机器公会历史",
+      "category": "综合",
+      "summary": "中新网槟城11月12日电 (记者 刘育英)“槟城华人机器工业与反法西斯历史展”11日在马来西亚槟城庇能华人机器公会会所开幕，展览以历史资料、文献、照片及展品，呈现该公会151年来的发展历程，以及公会与南洋华侨机工之间的历史联系。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-12/10731215.shtml",
+      "publishedAt": "2026-11-12T14:03:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-12/10731211.shtml",
+      "title": "罗大佑怒批民进党当局引发岛内共鸣",
+      "category": "综合",
+      "summary": "中新网11月12日电 (燕新台)台湾资深音乐人罗大佑近日接受台湾媒体人唐湘龙节目专访时“火力全开”，痛批民进党当局拿到权力后整个变样，直言“不要脸”。对此，岛内舆论认为罗大佑的发言“振聋发聩”，展现了文化人的风骨。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731211.shtml",
+      "publishedAt": "2026-11-12T14:01:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10731210.shtml",
+      "title": "内蒙古搭建起自贸试验区建设的“四梁八柱”",
+      "category": "综合",
+      "summary": "中新网呼和浩特11月12日电 (记者 李爱平)“经过7个月的拼搏努力，内蒙古已经搭建起自贸试验区建设的‘四梁八柱’。”11月12日下午，内蒙古自治区政府新闻办公室召开新闻发布会，内蒙古自治区政府副主席苏和作上述表示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731210.shtml",
+      "publishedAt": "2026-11-12T14:00:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-12/10731209.shtml",
+      "title": "第七届黄寺论坛在中国藏语系高级佛学院举办",
+      "category": "综合",
+      "summary": "中新网北京11月12日电 (记者 朱贺)第七届黄寺论坛10日至11日在北京西黄寺举办，以“藏传佛教僧才培养领域贯彻民族团结进步促进法的实践探讨”为主题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731209.shtml",
+      "publishedAt": "2026-11-12T14:00:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-12/10731212.shtml",
+      "title": "黄仁勋辞去英伟达公司总裁、首席执行官及董事会成员职务",
+      "category": "综合",
+      "summary": "当地时间11月12日，英伟达公司宣布：黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。(总台记者 张颖哲)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731212.shtml",
+      "publishedAt": "2026-11-12T13:59:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-12/10731207.shtml",
+      "title": "留学生走进广西钦州：在平陆运河畔读懂海陆共兴与非遗传承",
+      "category": "综合",
+      "summary": "中新网广西钦州11月12日电(黄艳梅 吴浩)广西民族大学近日组织26名留学生代表前往广西钦州市开展2026年“感知中国”社会实践与文化体验活动，通过实地走访、文化体验与社会调研，增进在华留学生对中国历史文化底蕴与当代发展成就的深入了解。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731207.shtml",
+      "publishedAt": "2026-11-12T13:58:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-12/10731208.shtml",
+      "title": "贵州雷山苗年启幕 非遗巡游展演引客来",
+      "category": "综合",
+      "summary": "中新网贵州雷山11月12日电 题：贵州雷山苗年启幕 非遗巡游展演引客来",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731208.shtml",
+      "publishedAt": "2026-11-12T13:57:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-12/10731206.shtml",
+      "title": "海南新组建空天集团 注册资金100亿元",
+      "category": "综合",
+      "summary": "中新网海口11月12日(记者 王晓斌)记者从海南省新闻办12日举行的发布会获悉，海南省委、省政府已明确“以场带产”发展航天产业，新组建注册资金100亿元的海南空天集团。该集团将作为文昌航天城园区的投建运主体，推动火箭、卫星和信息产业链落地。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731206.shtml",
+      "publishedAt": "2026-11-12T13:56:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731198.shtml",
+      "title": "广西发掘广电视听领域AI创新力量 推动优质项目落地转化",
+      "category": "综合",
+      "summary": "中新网南宁11月12日电(陈秋霞 周立梅)2026年AI赋能千行百业超级联赛人工智能+广电视听创新应用大赛成果发布会12日在广西南宁举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731198.shtml",
+      "publishedAt": "2026-11-12T13:54:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-12/10731200.shtml",
+      "title": "2026年度邵逸夫奖得主在港共话“何为成功”",
+      "category": "综合",
+      "summary": "中新社香港11月12日电 (记者 邱兆翔)2026年度邵逸夫奖得主圆桌论坛12日在香港举行。参与论坛的5位2026年度邵逸夫奖获奖者围绕“何为成功”这一话题，分别讲述各自在科研中曾面临的挑战、挫折与成就。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731200.shtml",
+      "publishedAt": "2026-11-12T13:53:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-12/10731194.shtml",
+      "title": "向美而行逐梦未来 江苏大学生艺术展演亮相东南大学",
+      "category": "综合",
+      "summary": "11月12日，以“向美而行，逐梦未来”为主题的江苏省第八届大学生艺术展演活动学生艺术实践工作坊在东南大学九龙湖校区体育馆开幕。本届活动围绕艺术与科技、艺术与校园、艺术与生活、艺术与乡村等方向开展探索，旨在引导学生在艺术实践中感受美、表现美、创造美，展现青年学子向美而行、勇于探索的精神风貌。图为东南大学艺术学院“艺针彝线总关情”南华彝绣帮扶实践工作坊展示区，呈",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731194.shtml",
+      "publishedAt": "2026-11-12T13:53:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad#2",
+      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
+      "category": "国际",
+      "summary": "據報導，捲入婚外情、被指涉入中國間諜活動的女子黃樂（Alice Huang Le）已經返回中國。近年來，她曾十次入境美國、八次入境台灣。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T10:15:57.000Z",
       "tags": [
         "国际",
         "商业",
@@ -615,23 +666,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T08:33:39.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad#0",
-      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
-      "category": "国际",
-      "summary": "據報導，捲入婚外情、被指涉入中國間諜活動的女子黃樂（Alice Huang Le）已經返回中國。近年來，她曾十次入境美國、八次入境台灣。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T08:00:51.000Z",
       "tags": [
         "国际",
         "商业",
@@ -694,7 +728,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad#2",
       "title": "中美能源大戰，如何影響你的帳單？",
       "category": "国际",
       "summary": "中美之間的博弈可能會對能源成本產生重大影響，但誰會最終獲勝？",
@@ -1155,7 +1189,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad#5",
       "title": "全球最大排放國的拐點：中國煤電佔比跌破五成，碳排放幾乎停滯",
       "category": "国际",
       "summary": "分析指排放或已提前達峰，但新煤電機組仍大量上馬，拐點成色有待檢驗。",
@@ -1190,23 +1224,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad#2",
-      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
-      "category": "国际",
-      "summary": "輝達黃仁勳承認對妻子不忠，緋聞鎖定被指中共間諜的黃樂。這位女子曾任新加坡科技公司高管，大量採購輝達晶片，美情報稱她受國安部招募。但特朗普（川普）為黃仁勳辯護，中方则否认指控。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T08:24:34.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/118824",
       "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
       "category": "科技",
@@ -1221,23 +1238,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad#5",
-      "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
-      "category": "国际",
-      "summary": "簡和埃爾斯在幸福地生活了50年後，選擇接受安樂死，留下了他們唯一的孩子。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T06:32:46.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
