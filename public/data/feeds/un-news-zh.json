@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143185",
+      "title": "【专题报道】特德·特纳：一位传媒先驱与联合国近30年的情缘",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143185",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143189",
+      "title": "COP31聚焦城市韧性，敦促加快气候行动",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143189",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143187",
+      "title": "世卫组织：各国加大国内投资以巩固结核病防治成果",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143187",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143188",
+      "title": "世界粮食计划署：对苏丹数百万民众而言，援助是“唯一的希望”",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143188",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143186",
+      "title": "海地7至9月暴力事件造成至少1167人死亡",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143186",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143184",
       "title": "肯尼亚最后一名埃博拉患者出院，疫情结束进入倒计时",
       "meta": "联合国新闻 · 2026/11/12",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/11/7",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143158",
       "publishedAt": "2026-11-07T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143156",
-      "title": "【世界进行时】2026年11月6日",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143156",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143155",
-      "title": "文艺行业收入差距显著，幕后劳动工时难获充分认可",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143155",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143154",
-      "title": "粮农组织：10月食品价格指数回落",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143154",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143153",
-      "title": "人权遭受全面限制，阿富汗面临日益加剧的人道主义危机",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143153",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143152",
-      "title": "针对记者的滥用诉讼增多，法律保护亟待加强",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143152",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-13T01:05:00.083Z",
+  "updatedAt": "2026-11-13T09:31:28.487Z",
   "provider": "OneBench 公共资讯快照"
 }
