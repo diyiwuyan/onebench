@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143191",
+      "title": "【子午播报】2026年11月13日",
+      "meta": "联合国新闻 · 2026/11/13",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143191",
+      "publishedAt": "2026-11-13T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143185",
       "title": "【专题报道】特德·特纳：一位传媒先驱与联合国近30年的情缘",
       "meta": "联合国新闻 · 2026/11/12",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/11/8",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143160",
       "publishedAt": "2026-11-08T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143158",
-      "title": "【子午播报】2026年11月7日",
-      "meta": "联合国新闻 · 2026/11/7",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143158",
-      "publishedAt": "2026-11-07T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-13T09:31:28.487Z",
+  "updatedAt": "2026-11-13T17:45:27.297Z",
   "provider": "OneBench 公共资讯快照"
 }
