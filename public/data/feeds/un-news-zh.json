@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143184",
+      "title": "肯尼亚最后一名埃博拉患者出院，疫情结束进入倒计时",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143184",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143183",
+      "title": "孟加拉国和印度禁止使用剧毒农药百草枯 加强自杀预防和脑健康保护",
+      "meta": "联合国新闻 · 2026/11/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143183",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143178",
       "title": "【专题报道|前方视野】人类是否会失去对战争的有效控制——人工智能时代的安全隐忧",
       "meta": "联合国新闻 · 2026/11/11",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/11/6",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143152",
       "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143151",
-      "title": "来自北极冰海深处的呼声：世界应当相信科学",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143151",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143150",
-      "title": "难民署：近9000万被迫流离失所者面临严重气候风险",
-      "meta": "联合国新闻 · 2026/11/6",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143150",
-      "publishedAt": "2026-11-06T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:19:01.280Z",
+  "updatedAt": "2026-11-13T01:05:00.083Z",
   "provider": "OneBench 公共资讯快照"
 }
