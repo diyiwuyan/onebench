@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T06:23:06.557Z",
-  "expiresAt": "2026-11-14T12:23:06.557Z",
+  "generatedAt": "2026-11-14T15:04:50.652Z",
+  "expiresAt": "2026-11-14T21:04:50.652Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,564 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
+      "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
+      "category": "综合",
+      "summary": "中新社伦敦11月14日电 (记者 欧阳开宇)英国苏格兰格拉斯哥一栋公寓楼13日发生人为纵火引发的火灾，共计15名居民送医接受治疗。当地警方已将此次火情定性为蓄意案件并启动专项调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
+      "publishedAt": "2026-11-14T14:56:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml",
+      "title": "速度滑冰世界杯北京站第二日 中国队收获2金2铜",
+      "category": "综合",
+      "summary": "中新社北京11月14日电 (刘梦青)2026-2027赛季国际滑联速度滑冰世界杯北京站比赛14日在北京国家速滑馆“冰丝带”迎来第二个比赛日。当日中国队共收获2金2铜：廉子文、宁忠岩分别夺得男子500米和男子1500米金牌，高亭宇获男子500米铜牌，韩梅摘得女子1500米铜牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml",
+      "publishedAt": "2026-11-14T14:55:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+      "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
+      "category": "综合",
+      "summary": "11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议将在深圳举行。APEC“中国年”这一年，从人工智能、产业发展到绿色转型，人们关注的不同议题都连着同一个关键词——能源。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+      "publishedAt": "2026-11-14T14:38:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
+      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
+      "category": "综合",
+      "summary": "依托APEC合作平台，中国智慧农业技术远渡重洋来到智利。作为全球地形最狭长的国家，智利南北绵延4352公里，复杂地貌给农耕带来不少挑战。来自中国的无人机能够深入山区作业，不受泥泞地块限制，一定程度上破解了当地农业生产成本高、劳动力短缺的难题。一架架农用无人机，不仅重塑当地传统农耕模式，还催生“农业飞手”这一新职业，让科技发展的红利直达普通农户，为亚太共同发展",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
+      "publishedAt": "2026-11-14T14:35:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
+      "title": "期待！总台《非遗里的中国》特展即将亮相深圳",
+      "category": "综合",
+      "summary": "由中央广播电视总台、广东省人民政府联合主办的《非遗里的中国》特展已完成布展，11月15日起将在深圳平安金融中心开展。特展将展出中国画、书法、雕塑、瓷器、锦绣、青铜器等两百余件精品力作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
+      "publishedAt": "2026-11-14T14:23:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
+      "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
+      "category": "综合",
+      "summary": "央视网消息：正值学生们陆续放秋假的窗口期，主题乐园成为很多家庭的选择。如何充分开发IP价值，创新消费场景，是拉动主题公园、带动区域消费的重要抓手。2025年7月5日开园的上海乐高乐园，是目前全球开园规模最大的乐高乐园。园区如何开发积木这一代表性的IP符号？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
+      "publishedAt": "2026-11-14T14:20:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+      "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
+      "category": "综合",
+      "summary": "中新社土耳其安塔利亚11月14日电 (记者 陈溯 王高飞)世界自然基金会(WWF)气候与能源议题全球负责人、秘鲁前环境部长曼努埃尔·普尔加·维达尔当地时间14日在土耳其安塔利亚接受中新社记者专访时表示，全球气候行动正从谈判走向落实，迫切需要加快能源转型、强化气候适应、释放资金支持。在这一进程中，中国持续发挥引领作用，并成为连接各方的关键桥梁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+      "publishedAt": "2026-11-14T13:54:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+      "title": "从承诺到行动：COP31上的中国答卷",
+      "category": "综合",
+      "summary": "中新网安塔利亚11月14日电(记者 魏园 陈溯)当地时间11月13日，联合国秘书长安东尼奥·古特雷斯在COP31新闻发布会上接受中国新闻社记者提问时，特别肯定中国在可再生能源领域付出的巨大努力及取得的进展，并呼吁各国落实气候承诺。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+      "publishedAt": "2026-11-14T13:44:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+      "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
+      "category": "综合",
+      "summary": "央视网消息：冰雪赛事火热进行，而对于广大的滑雪爱好者来说，“开板”是拥抱冬天的独特方式。随着气温下降，新雪季开启，多地雪场迎来八方雪友。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+      "publishedAt": "2026-11-14T13:39:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
+      "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
+      "category": "综合",
+      "summary": "央视网消息：记者11月14日从国铁集团获悉，2026年1至10月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%。日均安排开行旅客列车11670列，同比增长5.0%，其中，10月1日发送旅客2520.4万人次、开行旅客列车14885列。前10个月，全国铁路累计旅客发送量、单日旅客发送量、单日客运能力投放等指标均创历史新高。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
+      "publishedAt": "2026-11-14T13:36:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
+      "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
+      "category": "综合",
+      "summary": "最新数据显示，中国近十年一直是全球森林面积年均净增长最多的国家。来自中国的生态治理经验，如今也在为亚太地区增“绿”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
+      "publishedAt": "2026-11-14T13:34:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
+      "title": "深圳通江达海的物流网如何昼夜运转？",
+      "category": "综合",
+      "summary": "进入11月，深圳迎来一年当中最繁忙的季节。一大批工厂开足马力赶制海外订单。产品下线之后，如何快速分发到亚太乃至全球各地？一起走进深圳这张通江达海、链接全球的物流网络。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
+      "publishedAt": "2026-11-14T13:32:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
+      "title": "两岸网友共创视频｜我们的城市有条中山路",
+      "category": "综合",
+      "summary": "值孙中山先生诞辰160周年之际",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
+      "publishedAt": "2026-11-14T13:29:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
+      "title": "习近平主席引领亚太大家庭扬帆前行",
+      "category": "综合",
+      "summary": "“亚太是我们共同发展的空间，我们都是亚太这片大海中前行的风帆。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
+      "publishedAt": "2026-11-14T13:26:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
+      "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
+      "category": "综合",
+      "summary": "中新网昆明11月14日电 (罗婕)近日，云南省人民政府印发《云南省文化和旅游发展“十五五”规划》(以下简称《规划》)，该省将加强保护传承，构建不可移动文物资源“一张图”，建立非遗资源总目录。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
+      "publishedAt": "2026-11-14T13:19:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
+      "title": "专家学者厦门共话中国—东盟旅游安全治理",
+      "category": "综合",
+      "summary": "中新社厦门11月14日电 (吴冠标)“中国—东盟旅游安全学术研讨会(2026)”14日在华侨大学厦门校区举办。海内外专家学者、旅游业界人士围绕“深化跨境合作，共筑安全防线”主题展开交流，共同探讨区域旅游安全治理新路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
+      "publishedAt": "2026-11-14T13:18:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml",
+      "title": "逾300部（卷）藏传佛教宁玛派古籍文献整理出版",
+      "category": "综合",
+      "summary": "中新社北京11月14日电 (记者 张杨彬 刘超)由清华大学汉藏佛教研究中心主办的“古卷新辉：新版宁玛古籍文库发布会”14日在北京举行，发布了《北伏藏传承师文集》等218部重要的宁玛派佛教文献，以及色登寺藏文典籍《古译文献荟萃》84卷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml",
+      "publishedAt": "2026-11-14T13:17:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
+      "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
+      "category": "综合",
+      "summary": "中新网上海11月14日电 题：荷兰学者奥雷·伯曼：万里归来，“东游”未止",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
+      "publishedAt": "2026-11-14T13:06:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml",
+      "title": "中越边境互联互通“国门大动脉”将于本月通车",
+      "category": "综合",
+      "summary": "中新网昆明11月14日电 (记者 缪超)记者14日从云南省文山州政府新闻办公室获悉，G5615天保至猴桥高速公路重要组成路段天保至麻栗坡高速公路，各项建设任务全面收官，正式迈入通车倒计时。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml",
+      "publishedAt": "2026-11-14T13:04:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml",
+      "title": "山西公安公布一批涉嫌新型黑恶违法犯罪典型案例 22人落网",
+      "category": "综合",
+      "summary": "中新网太原11月14日电 (记者 李庭耀)山西省公安厅14日集中公布6起涉嫌新型黑恶违法犯罪典型案例，共抓获犯罪嫌疑人22名。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml",
+      "publishedAt": "2026-11-14T13:01:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732183.shtml",
+      "title": "中国—东盟旅游安全学术研讨会在厦门举行",
+      "category": "综合",
+      "summary": "中新网厦门11月14日电 (吴冠标)11月14日，“中国—东盟旅游安全学术研讨会(2026)”在华侨大学厦门校区举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732183.shtml",
+      "publishedAt": "2026-11-14T13:00:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml",
+      "title": "第三届中国呼吸健康大会开幕 钟南山发布年度十大进展",
+      "category": "综合",
+      "summary": "中新网广州11月14日电 (记者 蔡敏婕)第三届中国呼吸健康大会14日在广州启幕。中国工程院院士钟南山发布“2025#8209;2026年度全国呼吸健康年度十大进展”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml",
+      "publishedAt": "2026-11-14T13:00:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-14/10732174.shtml",
+      "title": "河北故城贡面大赛：匠人同台“拉”出细密银丝",
+      "category": "综合",
+      "summary": "图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛现场，参赛选手正在抻面。陈康 摄 图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛现场，参赛选手正在抻面。陈康 摄 图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛现场，参赛选手正在抻面。陈康 摄 图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732174.shtml",
+      "publishedAt": "2026-11-14T12:59:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732178.shtml",
+      "title": "（深圳APEC）2026年亚太经合组织工商咨询理事会第四次会议开幕式在深圳举行",
+      "category": "综合",
+      "summary": "中新网深圳11月14日电 2026年亚太经合组织(APEC)工商咨询理事会(ABAC)第四次会议14日在深圳开幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732178.shtml",
+      "publishedAt": "2026-11-14T12:59:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-14/10732176.shtml",
+      "title": "侨博会点燃文旅热 侨乡浙江青田如何“接招”",
+      "category": "综合",
+      "summary": "中新网丽水11月14日电(胡丰盛)夜幕降临，浙江青田侨博广场上，一束灯光打向高空。刘伯温与田鱼姑娘“穿越”相遇，鱼灯流转，乐队开唱，咖啡香与红酒气交织在欧陆风情的建筑群间。11月13日至14日，第八届华侨进口商品博览会暨青田进口葡萄酒交易会(简称，侨博会)“侨博之夜”在此上演，主舞台被市民游客围得里三层外三层。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-14/10732176.shtml",
+      "publishedAt": "2026-11-14T12:58:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10732175.shtml",
+      "title": "新疆低空空域智能管控及安全保障技术重点实验室揭牌",
+      "category": "综合",
+      "summary": "中新网新疆昌吉11月14日电 (吕尚泽)14日，新疆低空空域智能管控及安全保障技术重点实验室在昌吉学院揭牌，该重点实验室是新疆唯一一个低空空域规划管理方向的重点实验室。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732175.shtml",
+      "publishedAt": "2026-11-14T12:55:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10732173.shtml",
+      "title": "青年医者捐献“生命种子”：以热血为舟，传递爱与希望",
+      "category": "综合",
+      "summary": "中新网杭州11月14日电(张煜欢 胡莘菻)爱心采集室里，血细胞分离机低低嗡鸣，管路中的血液缓缓流转、分离、回输，每一次循环都牵系着一份生命的期盼。近日，浙江省血液中心体检医生高臣顺利完成造血干细胞采集，成为浙江省第1500例造血干细胞捐献者。从采供血一线的“血液人”到无偿献血者，再到造血干细胞捐献者，他以亲身践行诠释医者担当，成为播撒“生命种子”的大爱使者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732173.shtml",
+      "publishedAt": "2026-11-14T12:55:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10732172.shtml",
+      "title": "从实验室到手术室——中国眼谷技术创新背后的生态涵养",
+      "category": "综合",
+      "summary": "中新网温州11月14日电(张益聪)在眼眶、鼻腔与颅底交错的毫米级术野里做微创手术，好比在层叠交错的立交桥缝隙间精准穿行，毫厘偏差便可能触碰神经与血管的“安全红线”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732172.shtml",
+      "publishedAt": "2026-11-14T12:53:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-14/10732169.shtml",
+      "title": "海外华文媒体走进安徽楚文化博物馆 邂逅“最后楚都”千年文脉",
+      "category": "综合",
+      "summary": "图为海外华文媒体代表参观西圈“亚”字形积炭墓车马坑发掘现场。中新社记者 储玮玮 摄 图为海外华文媒体代表专注拍摄展陈器物。中新社记者 储玮玮 摄 图为海外华文媒体代表参观镇馆之宝——楚金币。中新社记者 储玮玮 摄 图为海外华文媒体代表参观安徽楚文化博物馆展品。中新社记者 储玮玮 摄 图为海外华文媒体代表在楚大鼎(复制品)前聆听讲解。中新社记者 储玮玮 摄 图",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732169.shtml",
+      "publishedAt": "2026-11-14T12:43:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-14/10732163.shtml",
+      "title": "海外华文媒体探访安徽寿县安丰塘 感受千年古塘“在岗”智慧",
+      "category": "综合",
+      "summary": "图为海外华文媒体代表参观安丰塘。中新社记者 储玮玮 摄 图为海外华文媒体代表参观安丰塘。中新社记者 储玮玮 摄 图为海外华文媒体代表参观孙叔敖纪念馆。中新社记者 储玮玮 摄 图为安丰塘景色。中新社记者 储玮玮 摄 图为安丰塘景色。中新社记者 储玮玮 摄 图为海外华文媒体代表参观孙叔敖纪念馆。中新社记者 储玮玮 摄 图为海外华文媒体代表了解安丰塘相关介绍。中新",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732163.shtml",
+      "publishedAt": "2026-11-14T12:41:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/118276",
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "category": "科技",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/118276",
+      "publishedAt": "2026-11-14T07:40:21.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad#3",
       "title": "台灣村里長：最基層的民選公職，如何牽動選舉動員與兩岸關係？",
@@ -62,546 +620,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731982.shtml",
-      "title": "今年前10个月社会融资规模新增28.61万亿元",
-      "category": "综合",
-      "summary": "央视网消息(新闻联播)：中国人民银行11月13日公布的数据显示，10月末，广义货币(M2)余额359.06万亿元，同比增长7.1%；社会融资规模存量469.16万亿元，同比增长7.2%。1—10月，社会融资规模增量为28.61万亿元。我国金融总量合理增长，为经济持续向新向优向好发展创造适宜的货币金融环境。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731982.shtml",
-      "publishedAt": "2026-11-14T06:07:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10731981.shtml",
-      "title": "管好血糖，最该做的是“早行动” | 联合国糖尿病日",
-      "category": "综合",
-      "summary": "2026年11月14日是第20个联合国糖尿病日，今年的主题是“早发现，早行动”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731981.shtml",
-      "publishedAt": "2026-11-14T06:02:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731976.shtml",
-      "title": "江苏推出“跟着赛事去旅行”新玩法",
-      "category": "综合",
-      "summary": "中新网苏州11月14日电(记者 常慕城)江苏省“跟着赛事去旅行”提振消费主题活动14日在常熟启幕。本次活动为2026中国体育旅游博览会常熟分会场重点内容，采用苏州主会场联动常熟分会场模式，推动两地资源共享、业态互补，聚力激活体育消费新动能。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731976.shtml",
-      "publishedAt": "2026-11-14T05:57:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731975.shtml",
-      "title": "从卖产品到卖解决方案 机器人成湖南外贸的“新名片”",
-      "category": "综合",
-      "summary": "中新网长沙11月14日电 (冯军)进入11月，优龙机器人创始人熊军计划前往欧洲考察市场；超能机器人创始人肖湘江连着接待了新加坡和沙特的客户；视比特机器人则忙着给工程师办签证，年底要赴卡特彼勒的北美工厂进场施工……",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731975.shtml",
-      "publishedAt": "2026-11-14T05:56:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731977.shtml",
-      "title": "青春华章·我们的新长征 | 实验室助力天津成“信创第一城”",
-      "category": "综合",
-      "summary": "中国经济网天津11月13日讯(记者 王炬鹏)“天津已经成为名副其实的信创第一城，拥有国内新一代信创产业布局最为完整的产业集群。”信创海河实验室主任龚克在12日举办的信创海河实验室阶段性建设成果汇报会暨产业生态发展大会上表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731977.shtml",
-      "publishedAt": "2026-11-14T05:53:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-14/10731972.shtml",
-      "title": "今冬供暖季能源供应总体能够满足需求——“群众温暖过冬有保障”",
-      "category": "综合",
-      "summary": "迎峰度冬保暖保供是重大民生工程、民心工程。据气象部门预测，受超强厄尔尼诺事件影响，预计今冬我国气温总体偏高，但寒潮频次略多、冷暖起伏大，极端天气可能多发频发。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731972.shtml",
-      "publishedAt": "2026-11-14T05:50:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731971.shtml",
-      "title": "深圳准备就绪 以高水平服务保障APEC盛会",
-      "category": "综合",
-      "summary": "央视网消息(新闻联播)：随着APEC领导人会议周临近，深圳从枢纽通关、城市运行到志愿服务，全方位、精细化推进各项保障工作，以开放、专业、自信的姿态，迎接亚太宾朋。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731971.shtml",
-      "publishedAt": "2026-11-14T05:47:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10731967.shtml",
-      "title": "济可舒进医保：一剂对抗甲流乙流，创新药惠及普通家庭",
-      "category": "综合",
-      "summary": "11月14日，国家医保局公布2026年《国家基本医疗保险、生育保险和工伤保险药品目录》(以下简称国家医保目录)，济川药业与征祥医药战略合作的国产1类抗流感创新药——玛硒洛沙韦片(济可舒#174;)正式纳入医保。这款创新药，让流感治疗迎来新选择，普通百姓也能更实惠地用上国产好药。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731967.shtml",
-      "publishedAt": "2026-11-14T05:44:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731965.shtml",
-      "title": "中国冠军运动员捐赠藏品传递体育精神",
-      "category": "综合",
-      "summary": "中新网苏州11月14日电(记者 常慕城)2026中国体育文化博览会、中国体育旅游博览会冠军捐赠仪式，13日在苏州国际博览中心举办。部分冠军运动员将征战赛场的珍贵装备捐赠给中国体育博物馆，让个人赛场记忆转化为国家体育精神财富。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731965.shtml",
-      "publishedAt": "2026-11-14T05:40:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-14/10731966.shtml",
-      "title": "顾嘉辉之子返乡探访父亲故居：这是他最思念的儿时旧屋",
-      "category": "综合",
-      "summary": "中新网广州11月14日电 (孙秋霞 郑波)“港乐之父”顾嘉辉之子顾致和与太太近日从加拿大飞抵广州，第一站便来到荔湾区侨联“侨胞之家”，随后探访其父亲位于荔湾多宝南横40号的旧居。这栋承载着顾嘉辉童年记忆的三层小洋楼，如今已被纳入第八批荔湾区登记保护文物单位。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-14/10731966.shtml",
-      "publishedAt": "2026-11-14T05:38:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-14/10731964.shtml",
-      "title": "2026年“华夏杯”侨BA友谊赛暨海外青年才俊聚东莞活动启幕",
-      "category": "综合",
-      "summary": "中新网东莞11月14日电 (记者 张璐)2026年“华夏杯”侨BA友谊赛(以下简称“赛事”)暨海外青年才俊聚东莞活动13日在东莞正式启幕。本次赛事共吸引12支侨青劲旅、120名球员参赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-14/10731964.shtml",
-      "publishedAt": "2026-11-14T05:38:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10731959.shtml",
-      "title": "天津解读《气象发展“十五五”规划》 加快构建气象现代化体系",
-      "category": "综合",
-      "summary": "中新网天津11月14日电 (记者 江莹)13日，天津市政府新闻办举行新闻发布会并对《天津市气象发展“十五五”规划》进行解读，明确天津将加快建设数智气象现代化体系。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731959.shtml",
-      "publishedAt": "2026-11-14T05:37:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10731958.shtml",
-      "title": "天津锚定“大城智管” 2030年建成全域智慧治理新格局",
-      "category": "综合",
-      "summary": "中新网天津11月14日电 (记者 江莹)13日，天津市数据局局长邓光华在市政府新闻办举行的新闻发布会上表示，天津将依托全新智慧城市建设规划，以数智赋能城市治理现代化，全面提升城市服务、治理、产业发展智能化水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731958.shtml",
-      "publishedAt": "2026-11-14T05:35:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-14/10731949.shtml",
-      "title": "汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”",
-      "category": "综合",
-      "summary": "中新网汕头11月14日电 (孙秋霞 冯建奎)在汕头市濠江区达濠渔港新产业集聚与综合体验区，澄澈的濠江水顺着港湾岸线婉转流淌，港池堤岸整齐坚固，渔船静静泊于码头，几栋造型灵动的白色楼宇沿着岸线错落而立。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731949.shtml",
-      "publishedAt": "2026-11-14T05:34:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731962.shtml",
-      "title": "从欧洲家庭到北美车间 机器人成湖南出海新力量",
-      "category": "综合",
-      "summary": "中新社长沙11月14日电 (冯军)助力爬山的外骨骼机器人、会看舌象的中医健康机器人、能自动焊缝检测的工业机器人、拿到欧盟认证的绕线机器人……越来越多的“湖南造”智能机器人出现在海外的家庭、车间和展会上。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731962.shtml",
-      "publishedAt": "2026-11-14T05:34:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731961.shtml",
-      "title": "福建省第十八届运动会在三明开幕 首用林业碳票实现赛事碳中和",
-      "category": "综合",
-      "summary": "中新网三明11月14日电 (雷朝良)11月13日晚，以“如画三明绿动省运”为主题的福建省第十八届运动会在三明市开幕，这是三明首次承办全省规格最高、规模最大的综合性体育盛会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731961.shtml",
-      "publishedAt": "2026-11-14T05:31:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731960.shtml",
-      "title": "顺着汽车产业链“长”出机器人 重庆探路“车—机同源”",
-      "category": "综合",
-      "summary": "中新网重庆11月14日电 题：顺着汽车产业链“长”出机器人 重庆探路“车—机同源”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731960.shtml",
-      "publishedAt": "2026-11-14T05:31:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731955.shtml",
-      "title": "射击世锦赛收官 中国队拿下7个奥运席位",
-      "category": "综合",
-      "summary": "中新社北京11月14日电 当地时间13日，2026年射击世锦赛在卡塔尔多哈落幕，中国队以13金6银8铜收官，其中奥运项目获得6金5银5铜，创造队伍在世锦赛奥运项目上的历史最好成绩，并拿下7个奥运席位。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731955.shtml",
-      "publishedAt": "2026-11-14T05:29:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10731953.shtml",
-      "title": "51个一类新药进入中国新版国家医保药品目录",
-      "category": "综合",
-      "summary": "中新社北京11月14日电 据中国官媒14日消息，2026年国家医保药品目录和商业健康保险创新药品目录在苏州发布。新版国家医保药品目录新增107种药品，其中51个一类新药，再创历史新高。新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需治疗领域。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731953.shtml",
-      "publishedAt": "2026-11-14T05:29:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10731952.shtml",
-      "title": "即将进入中国空间站的首位外籍航天员曾在孔子学院学习中文",
-      "category": "综合",
-      "summary": "中新社北京11月14日电 (记者 曾玥 谢龙飞)北京语言大学党委书记曲昭伟13日接受中新社记者专访时独家披露，即将进入中国空间站的首位外籍航天员曾在孔子学院学习中文。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731952.shtml",
-      "publishedAt": "2026-11-14T05:28:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731951.shtml",
-      "title": "今年1至10月中国铁路发送旅客人次创历史同期新高",
-      "category": "综合",
-      "summary": "中新社北京11月14日电 中国国家铁路集团有限公司(简称“国铁集团”)14日发布的数据显示，1至10月全国铁路累计发送旅客人次创历史同期新高。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731951.shtml",
-      "publishedAt": "2026-11-14T05:28:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-14/10731963.shtml",
-      "title": "“0卡糖”应该怎么选？减肥控糖必看",
-      "category": "综合",
-      "summary": "现在去超市，越来越多袋装“0卡糖”摆在货架上——外观和白砂糖很像，可以炒菜、拌凉菜、做面点时替代白糖。但围绕它的困惑与争议也不少，有人觉得使用起来很方便，也有人使用后测血糖发现数字往上走。今天(11月14日)是世界糖尿病日，一起了解关于“0卡糖”的相关问题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731963.shtml",
-      "publishedAt": "2026-11-14T05:20:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731957.shtml",
-      "title": "北京延庆奥林匹克园区启动造雪 今年计划开放13条雪道",
-      "category": "综合",
-      "summary": "随着天气转凉，北京各大雪场陆续启动造雪作业，迎接雪季到来。北京延庆奥林匹克园区，预计11月中下旬迎来2026雪季开板。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731957.shtml",
-      "publishedAt": "2026-11-14T05:11:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731950.shtml",
-      "title": "斯诺克冠中冠赛：韦克林淘汰罗伯逊晋级决赛",
-      "category": "综合",
-      "summary": "中新社英国莱斯特11月14日电 当地时间11月13日，2026年斯诺克冠中冠邀请赛在英国莱斯特展开首场半决赛。世界排名第12位的英格兰球手克里斯·韦克林以6比2战胜澳大利亚名将尼尔·罗伯逊，职业生涯首次闯入该项赛事决赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731950.shtml",
-      "publishedAt": "2026-11-14T05:10:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731948.shtml",
-      "title": "佛山队夺得2026年广东省女子篮球联赛冠军",
-      "category": "综合",
-      "summary": "中新网中山11月14日电 (记者 张璐)中国体育彩票·2026年广东省女子篮球联赛(以下简称“赛事”)13日在中山沙溪体育馆收官。最终，佛山队以83:68战胜东莞队，获得队史第三冠。前WCBA广东女篮队员于东全场命中7记三分，拿下27分4篮板，荣膺总决赛最有价值球员(FMVP)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731948.shtml",
-      "publishedAt": "2026-11-14T05:09:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-14/10731945.shtml",
-      "title": "openEuler发布面向Agentic Infra的操作系统，全球协同共建AI生态",
-      "category": "综合",
-      "summary": "11月13日，以“智启未来，引领 Agentic Infra创新”为主题的Agentic Infra操作系统大会(以下简称“大会”)在北京中关村国际创新中心成功举办。本次大会由开放原子开源基金会孵化的明星社区openEuler主办，openEuler现场正式发布面向Agentic Infra的操作系统，大会集结全球技术专家、科研专家、行业客户、开源开发者与生",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731945.shtml",
-      "publishedAt": "2026-11-14T05:09:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10731956.shtml",
-      "title": "悄悄看、精准打！“攻击-21”+四川舰带来3方面改变",
-      "category": "综合",
-      "summary": "今年10月下旬，我军首型舰载察打一体隐身无人机“攻击-21”首次在四川舰成功起降。这是我国两栖攻击舰发展历程上取得的又一次突破，标志着人民海军具备固定翼隐身无人机在大型海上作战平台起降能力。大型隐身无人机上舰，会给两栖登陆作战带来哪些改变？来听专家的分析。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731956.shtml",
-      "publishedAt": "2026-11-14T05:08:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-14/10731947.shtml",
-      "title": "三秦少年迎“篮”而上 陕西省青少年三人篮球冠军赛揭幕",
-      "category": "综合",
-      "summary": "中新网西安11月14日电 (记者 张一辰)2026年陕西省青少年三人篮球冠军赛13日在陕西师范大学长安校区开赛。来自全省7个地市及学校的27支代表队、131名青少年运动员齐聚赛场，角逐省级赛事荣誉。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731947.shtml",
-      "publishedAt": "2026-11-14T05:07:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-14/10731946.shtml",
-      "title": "自媒体人卢克文与成都青年共话家国情怀",
-      "category": "综合",
-      "summary": "中新网成都11月14日电 (王利文)由中共成都市委宣传部主办的“纸鸢书院·青年说”活动13日晚在文轩BOOKS(高新店)阶梯剧场举行。现象级自媒体人、“千万粉丝博主”卢克文与成都青年围坐畅谈，围绕“家国情怀：用自己的方式爱国”这一主题，共话国际局势、成都生活以及普通人如何把“爱国”融入日常。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731946.shtml",
-      "publishedAt": "2026-11-14T04:59:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-14/10731941.shtml",
-      "title": "9项量和单位领域国家标准发布 自2028年1月1日起正式实施",
-      "category": "综合",
-      "summary": "中新网11月14日电 据市场监管总局网站消息，近日，市场监管总局(国家标准委)批准发布数学、空间和时间、原子物理学和核物理学等9项量和单位领域国家标准，将自2028年1月1日起正式实施。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731941.shtml",
-      "publishedAt": "2026-11-14T04:42:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -1393,24 +1411,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/118781",
       "publishedAt": "2026-11-11T09:30:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/118175",
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "category": "科技",
-      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？ 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/118175",
-      "publishedAt": "2026-11-11T06:50:39.000Z",
       "tags": [
         "科技",
         "效率",
