@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad#3",
+      "title": "台灣村里長：最基層的民選公職，如何牽動選舉動員與兩岸關係？",
+      "meta": "BBC 中文 · 2026/11/14",
+      "url": "https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T06:14:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad#0",
+      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
+      "meta": "BBC 中文 · 2026/11/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T06:12:53.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck9d7y92yvg1o/trad#3",
       "title": "後黃仁勳時代：誰是Nvidia下任掌門人？晶片競賽走向何方",
       "meta": "BBC 中文 · 2026/11/13",
@@ -24,13 +38,6 @@
       "meta": "BBC 中文 · 2026/11/13",
       "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T09:51:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad#0",
-      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
-      "meta": "BBC 中文 · 2026/11/13",
-      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T09:39:38.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad#0",
@@ -145,13 +152,6 @@
       "publishedAt": "2026-11-06T14:58:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c9rkyyzgmy3eo/trad#3",
-      "title": "政治人物「大改造」？從台灣「九合一」選舉看候選人「形象工程」",
-      "meta": "BBC 中文 · 2026/11/6",
-      "url": "https://www.bbc.com/zhongwen/watch/c9rkyyzgmy3eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T11:24:32.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad#3",
       "title": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
       "meta": "BBC 中文 · 2026/11/6",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     }
   ],
-  "updatedAt": "2026-11-13T23:33:55.424Z",
+  "updatedAt": "2026-11-14T06:23:06.557Z",
   "provider": "OneBench 公共资讯快照"
 }
