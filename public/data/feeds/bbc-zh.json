@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad#0",
+      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+      "meta": "BBC 中文 · 2026/11/15",
+      "url": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T10:32:00.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad#0",
       "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
       "meta": "BBC 中文 · 2026/11/15",
@@ -54,7 +61,7 @@
       "publishedAt": "2026-11-13T10:39:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad#2",
       "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
       "meta": "BBC 中文 · 2026/11/13",
       "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +73,6 @@
       "meta": "BBC 中文 · 2026/11/13",
       "url": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T08:27:53.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad#2",
-      "title": "深陷醜聞的黃仁勳辭職，AI芯片巨頭Nvidia陷入動盪",
-      "meta": "BBC 中文 · 2026/11/13",
-      "url": "https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T04:33:40.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad#2",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     }
   ],
-  "updatedAt": "2026-11-15T09:26:19.863Z",
+  "updatedAt": "2026-11-15T17:11:06.305Z",
   "provider": "OneBench 公共资讯快照"
 }
