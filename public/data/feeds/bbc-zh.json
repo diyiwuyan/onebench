@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad#3",
+      "title": "無法複製的奇蹟？深圳如何從改革開放樣板變為「中國矽谷」",
+      "meta": "BBC 中文 · 2026/11/15",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:21:42.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad#0",
       "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
       "meta": "BBC 中文 · 2026/11/15",
@@ -159,13 +166,6 @@
       "publishedAt": "2026-11-06T14:58:15.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad#3",
-      "title": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
-      "meta": "BBC 中文 · 2026/11/6",
-      "url": "https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T02:29:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad#1",
       "title": "四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
       "meta": "BBC 中文 · 2026/11/2",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     }
   ],
-  "updatedAt": "2026-11-15T17:11:06.305Z",
+  "updatedAt": "2026-11-15T22:48:41.824Z",
   "provider": "OneBench 公共资讯快照"
 }

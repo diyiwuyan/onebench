@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T17:11:06.305Z",
-  "expiresAt": "2026-11-15T23:11:06.305Z",
+  "generatedAt": "2026-11-15T22:48:41.824Z",
+  "expiresAt": "2026-11-16T04:48:41.824Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,77 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
+      "title": "11月16日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
+      "publishedAt": "2026-11-15T22:43:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
+      "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+      "category": "综合",
+      "summary": "当地时间15日晚，伊朗军队海军表示，稍早前，一艘油轮在霍尔木兹海峡以东触雷，随后起火。该油轮当时正航行于霍尔木兹海峡以东的一处限制区域内，且其导航系统处于关闭状态。(总台记者 李健南)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
+      "publishedAt": "2026-11-15T22:20:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-16/10732531.shtml",
+      "title": "美“火神”火箭未能将亚马逊卫星送入预定轨道",
+      "category": "综合",
+      "summary": "美国联合发射联盟公司的“火神”运载火箭11月15日首次执行亚马逊低地轨道卫星发射任务，但升空约10分钟后出现异常，未能将搭载的40颗宽带通信卫星送入预定轨道。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732531.shtml",
+      "publishedAt": "2026-11-15T22:20:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad#3",
+      "title": "無法複製的奇蹟？深圳如何從改革開放樣板變為「中國矽谷」",
+      "category": "国际",
+      "summary": "深圳首次主辦亞太經濟合作組織（APEC）領導人峰會，成為中國的第三座主辦城市。深圳的崛起往往被視為中國改革開放最成功的一場實驗。而在中國和世界變幻莫測的今天，這個高速發展的奇蹟還能延續嗎？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:21:42.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
       "title": "法国周末示威活动中超过400人被拘捕",
@@ -508,60 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732479.shtml",
       "publishedAt": "2026-11-15T13:05:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-15/10732478.shtml",
-      "title": "全国步道联赛在嵊州古村开跑 跑者奔赴山野之约",
-      "category": "综合",
-      "summary": "中新网绍兴11月15日电(张煜欢)15日，2026全国步道联赛暨浙江嵊州“西白云路”山地越野公开赛在浙江绍兴嵊州长乐镇小昆村鸣枪起跑。这项赛事步入第三个年头，近1600名来自国内各地的跑者奔赴西白山，在层林与古村之间完成这场山野之约。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732478.shtml",
-      "publishedAt": "2026-11-15T13:03:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-15/10732488.shtml",
-      "title": "一穿四LCK，BLG夺得2026英雄联盟S赛冠军",
-      "category": "综合",
-      "summary": "中新网北京11月15日电(记者 王昊)北京时间11月15日，2026英雄联盟全球总决赛(S16)在美国纽约收官。LPL二号种子BLG战队在决赛中击败LCK一号种子Gen.G战队，队史首获S赛冠军。这是LPL赛区的第四座S赛奖杯，就此终结自2021年EDG夺冠以来的冠军荒。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732488.shtml",
-      "publishedAt": "2026-11-15T13:02:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-15/10732510.shtml",
-      "title": "李强抵马尼拉出席中国－东盟领导人会议",
-      "category": "综合",
-      "summary": "新华社马尼拉11月15日电(记者张天朗 赵晨捷)应东盟轮值主席国菲律宾总统马科斯邀请，国务院总理李强乘包机于11月15日晚抵达马尼拉尼诺伊·阿基诺国际机场，将出席中国-东盟领导人会议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732510.shtml",
-      "publishedAt": "2026-11-15T13:01:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -1674,23 +1691,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T14:58:15.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad#3",
-      "title": "黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲",
-      "category": "国际",
-      "summary": "上個月剛滿30歲的黃之鋒，自2020年底起因不同案件入獄，至今身在獄中超過六年。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/watch/cjly00z2g03qo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T02:29:11.000Z",
       "tags": [
         "国际",
         "商业",
