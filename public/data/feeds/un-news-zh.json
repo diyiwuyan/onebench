@@ -5,6 +5,48 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143208",
+      "title": "联合国：叙利亚政治过渡、经济复苏和安全局势仍面临多重挑战",
+      "meta": "联合国新闻 · 2026/11/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143208",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143207",
+      "title": "资金削减削弱难民保护，儿童遭贩运和剥削风险上升",
+      "meta": "联合国新闻 · 2026/11/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143207",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143206",
+      "title": "古特雷斯呼吁就“杀人机器人”制定具有法律约束力的文书",
+      "meta": "联合国新闻 · 2026/11/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143206",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143205",
+      "title": "东盟-联合国峰会：古特雷斯呼吁坚定不移地发挥合作的力量",
+      "meta": "联合国新闻 · 2026/11/16",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143205",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143204",
+      "title": "增强宗教和土著人领袖权能 共同打击仇恨言论",
+      "meta": "联合国新闻 · 2026/11/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143204",
+      "publishedAt": "2026-11-15T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143203",
+      "title": "刚果（金）埃博拉疫情应对已至六个月 能否深入社区仍是成败关键",
+      "meta": "联合国新闻 · 2026/11/15",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143203",
+      "publishedAt": "2026-11-15T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143201",
       "title": "【世界进行时】2026年11月13日",
       "meta": "联合国新闻 · 2026/11/13",
@@ -171,50 +213,8 @@
       "meta": "联合国新闻 · 2026/11/10",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143174",
       "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143173",
-      "title": "世卫组织：非洲卫生信息系统存在明显短板",
-      "meta": "联合国新闻 · 2026/11/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143173",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143172",
-      "title": "COP31聚焦能源转型：各国探索摆脱化石燃料之路",
-      "meta": "联合国新闻 · 2026/11/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143172",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143171",
-      "title": "全球15亿妇女和女童生活在气候高风险地区",
-      "meta": "联合国新闻 · 2026/11/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143171",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143170",
-      "title": "人权理事会再次推迟对美国的人权审议 对其持续不配合表示遗憾",
-      "meta": "联合国新闻 · 2026/11/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143170",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143169",
-      "title": "联合国：南苏丹选举筹备加快推进 但政治共识日益脆弱",
-      "meta": "联合国新闻 · 2026/11/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143169",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143168",
-      "title": "古特雷斯：必须加快摆脱化石燃料转型并加强国际合作",
-      "meta": "联合国新闻 · 2026/11/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143168",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-16T06:29:51.306Z",
+  "updatedAt": "2026-11-16T18:32:38.959Z",
   "provider": "OneBench 公共资讯快照"
 }
