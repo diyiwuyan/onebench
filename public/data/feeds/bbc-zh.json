@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad#1",
+      "title": "台灣高雄市選戰：「知識藍」柯志恩對決「新潮流」賴瑞隆，國民黨有可能複製「韓流」嗎？",
+      "meta": "BBC 中文 · 2026/11/17",
+      "url": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T16:25:49.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#0",
       "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
       "meta": "BBC 中文 · 2026/11/17",
@@ -201,13 +208,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad#1",
-      "title": "台灣「北藍南綠」的政治版圖是否「鐵板一塊」？",
-      "meta": "BBC 中文 · 2026/10/14",
-      "url": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T03:36:37.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad#4",
       "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
       "meta": "BBC 中文 · 2026/10/5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     }
   ],
-  "updatedAt": "2026-11-17T13:26:52.227Z",
+  "updatedAt": "2026-11-17T22:24:19.194Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -5,6 +5,27 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143215",
+      "title": "冬雨加剧加沙人道危机，援助受限与资金短缺阻碍救援",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143215",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143214",
+      "title": "世卫组织：刚果（金）埃博拉疫情已致逾5400人死亡",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143214",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143213",
+      "title": "联合国报告：干扰内分泌化学物质可能在出生前影响人体健康",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143213",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143212",
       "title": "联合国强调欧洲卢旺达遣返中心计划须遵守国际法",
       "meta": "联合国新闻 · 2026/11/16",
@@ -192,29 +213,8 @@
       "meta": "联合国新闻 · 2026/11/11",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143178",
       "publishedAt": "2026-11-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143181",
-      "title": "联合国报告：全球70%的国家已建立多灾种早期预警系统",
-      "meta": "联合国新闻 · 2026/11/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143181",
-      "publishedAt": "2026-11-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143180",
-      "title": "联合国呼吁将过冬援助物资立即运入加沙",
-      "meta": "联合国新闻 · 2026/11/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143180",
-      "publishedAt": "2026-11-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143179",
-      "title": "驻守48年后，联合国维和部队准备撤离黎巴嫩",
-      "meta": "联合国新闻 · 2026/11/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143179",
-      "publishedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-17T13:26:52.227Z",
+  "updatedAt": "2026-11-17T22:24:19.194Z",
   "provider": "OneBench 公共资讯快照"
 }
