@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:10b9df94-17cb-49b7-a061-dfe0fee03b66",
+      "title": "冲突与疾病疫情加剧了刚果民主共和国的饥饿危机，预计面临突发重度粮食不安全的人数将创历史新高",
+      "meta": "世界卫生组织 · 2026/11/13",
+      "url": "https://www.who.int/zh/news-room/13-11-2026-conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity",
+      "publishedAt": "2026-11-13T09:10:19.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:699694c3-dd68-48d0-908f-d9ffd7f7b763",
       "title": "在重重挑战之下，各国仍加大国内投资，以维护结核病防治进展",
       "meta": "世界卫生组织 · 2026/11/12",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/30",
       "url": "https://www.who.int/zh/news-room/30-09-2026-who-releases-new-guidance-to-prevent-heat-related-illness-at-mass-gatherings",
       "publishedAt": "2026-09-30T08:34:20.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:9035fd65-0d1e-46f6-86db-e69253445d80",
-      "title": "世卫组织通报霍乱、脑膜炎和鼠疫最新全球趋势",
-      "meta": "世界卫生组织 · 2026/9/29",
-      "url": "https://www.who.int/zh/news-room/29-09-2026-who-reports-latest-global-trends-in-cholera--meningitis-and-plague",
-      "publishedAt": "2026-09-29T09:06:35.000Z"
     }
   ],
-  "updatedAt": "2026-11-18T07:28:40.744Z",
+  "updatedAt": "2026-11-18T17:15:25.452Z",
   "provider": "OneBench 公共资讯快照"
 }

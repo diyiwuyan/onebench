@@ -5,6 +5,41 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143220",
+      "title": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持续加剧",
+      "meta": "联合国新闻 · 2026/11/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143220",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143219",
+      "title": "美国等三国麻疹持续传播，泛美卫生组织呼吁加强疫苗接种",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143219",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143218",
+      "title": "COP31：海洋保护进入谈判议程，落实承诺仍需资金支持",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143218",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143217",
+      "title": "各国承诺加快肥胖防治 力争2030年降低5%患病率",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143217",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143216",
+      "title": "苏丹：联合国报告详述无人机袭击激增对平民造成的致命影响",
+      "meta": "联合国新闻 · 2026/11/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143216",
+      "publishedAt": "2026-11-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143215",
       "title": "冬雨加剧加沙人道危机，援助受限与资金短缺阻碍救援",
       "meta": "联合国新闻 · 2026/11/17",
@@ -178,43 +213,8 @@
       "meta": "联合国新闻 · 2026/11/12",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143187",
       "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143188",
-      "title": "世界粮食计划署：对苏丹数百万民众而言，援助是“唯一的希望”",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143188",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143186",
-      "title": "海地7至9月暴力事件造成至少1167人死亡",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143186",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143184",
-      "title": "肯尼亚最后一名埃博拉患者出院，疫情结束进入倒计时",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143184",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143183",
-      "title": "孟加拉国和印度禁止使用剧毒农药百草枯 加强自杀预防和脑健康保护",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143183",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143178",
-      "title": "【专题报道|前方视野】人类是否会失去对战争的有效控制——人工智能时代的安全隐忧",
-      "meta": "联合国新闻 · 2026/11/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143178",
-      "publishedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-18T07:28:40.744Z",
+  "updatedAt": "2026-11-18T17:15:25.452Z",
   "provider": "OneBench 公共资讯快照"
 }
