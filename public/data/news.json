@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T10:20:47.927Z",
-  "expiresAt": "2026-11-19T16:20:47.927Z",
+  "generatedAt": "2026-11-19T20:37:11.327Z",
+  "expiresAt": "2026-11-20T02:37:11.327Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734794.shtml",
-      "title": "（深圳APEC）习近平就大国如何正确相处提出4点看法",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad#3",
+      "title": "中美俄元首歷史性會晤 普京獲得外交勝利嗎？",
+      "category": "国际",
+      "summary": "中國國家主席習近平、美國總統特朗普及俄羅斯總統普京在APEC深圳峰會期間舉行首次三方會談，聚焦烏克蘭危機與核軍控。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T17:24:59.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
+      "title": "习近平：大国和则世界安，大国斗则世界乱",
       "category": "综合",
-      "summary": "中新社深圳11月19日电 11月19日下午，中国国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。习近平就大国如何正确相处、共同为世界和平托底提出4点看法：",
+      "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。习近平指出——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734794.shtml",
-      "publishedAt": "2026-11-19T10:15:33.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
+      "publishedAt": "2026-11-19T16:13:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734802.shtml",
-      "title": "“监管要求基金公司上报全部产品AI敞口”不实（2026·11·19）",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
+      "title": "（深圳APEC）亚太经合组织互联互通蓝图发布",
       "category": "综合",
-      "summary": "辟 谣 “监管要求基金公司上报全部产品AI敞口”不实",
+      "summary": "中新社深圳11月19日电 亚太经合组织互联互通蓝图19日发布。蓝图强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734802.shtml",
-      "publishedAt": "2026-11-19T10:14:25.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
+      "publishedAt": "2026-11-19T15:57:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-19/10734766.shtml",
-      "title": "河南濮阳有序开展第七个“企业家日”系列活动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734981.shtml",
+      "title": "（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识",
       "category": "综合",
-      "summary": "沃土兴实业，同心启新程。为深入贯彻落实党的二十届五中全会精神，持续营造尊重企业家、关爱企业家、支持企业家干事创业的浓厚氛围，不断提升企业家获得感、荣誉感，提振企业发展信心，聚力推动民营经济高质量发展。按照市委、市政府安排部署，近日，河南濮阳市委统战部、市工商联组织开展第七个“濮阳企业家日”系列活动。",
+      "summary": "中新社北京11月19日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议18日至19日在中国深圳举行。多家外媒聚焦深圳科技创新与城市发展，关注会议释放的开放合作信号，认为维护贸易开放、深化区域合作、推动创新发展，仍是亚太经济体的共同关切。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734766.shtml",
-      "publishedAt": "2026-11-19T10:14:21.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734981.shtml",
+      "publishedAt": "2026-11-19T15:45:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734792.shtml",
-      "title": "（深圳APEC）习近平：大国良性互动不是选择题，而是必答题",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211260.shtml",
+      "title": "（深圳APEC）王毅举行中外记者会",
       "category": "综合",
-      "summary": "中新社深圳11月19日电 11月19日下午，中国国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734792.shtml",
-      "publishedAt": "2026-11-19T10:14:15.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211260.shtml",
+      "publishedAt": "2026-11-19T15:30:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-19/10734797.shtml",
-      "title": "香港“宁波帮”人士严玉珍捐赠1500万港币助力家乡教育",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-19/10734964.shtml",
+      "title": "国家级非遗“宛梆”唱响伏牛山",
       "category": "综合",
-      "summary": "中新网宁波11月19日电 (刘子琳 李哲 王媛玥)“身在香港，不能忘记家乡。”近日，在浙江宁波，香港甬港联谊会监事长、“宁波帮”代表人士严玉珍向宁波市慈善总会捐赠1500万港币，专项支持宁波市北仑区大碶高级中学教育事业发展。",
+      "summary": "11月19日，河南省内乡县宛梆剧团在位于伏牛山区的夏馆镇四台沟村进行惠民演出，吸引民众观看。宛梆又称“南阳梆子”，属于地方稀有剧种，于2006年被列入首批国家级非物质文化遗产代表性项目名录。图为观众观看表演。中新社记者 王宇 摄 11月19日，河南省内乡县宛梆剧团在位于伏牛山区的夏馆镇四台沟村进行惠民演出，吸引民众观看。宛梆又称“南阳梆子”，属于地方稀有剧种",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734797.shtml",
-      "publishedAt": "2026-11-19T10:13:59.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734964.shtml",
+      "publishedAt": "2026-11-19T15:15:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734790.shtml",
-      "title": "（深圳APEC）习近平：大国和，则世界安；大国斗，则世界乱",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734979.shtml",
+      "title": "中国担任2026年亚太经合组织东道主主办会议和活动清单",
       "category": "综合",
-      "summary": "中新社深圳11月19日电 11月19日下午，中国国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。",
+      "summary": "(共321场)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734790.shtml",
-      "publishedAt": "2026-11-19T10:13:29.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734979.shtml",
+      "publishedAt": "2026-11-19T15:13:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734750.shtml",
-      "title": "链东盟 跨山海：第14届武陵山商品交易博览会开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734978.shtml",
+      "title": "中国担任2026年亚太经合组织东道主成果清单",
       "category": "综合",
-      "summary": "中新网重庆11月19日电 (罗永皓)第14届武陵山商品交易博览会于19日在重庆市秀山土家族苗族自治县开幕。来自武陵山片区的116家企业、客商齐聚一堂，以经贸为媒，共拓区域合作与海外市场。",
+      "summary": "(共75项)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734750.shtml",
-      "publishedAt": "2026-11-19T10:12:21.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734978.shtml",
+      "publishedAt": "2026-11-19T15:11:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734787.shtml",
-      "title": "（深圳APEC）快讯：习近平主持中俄美元首会晤",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734976.shtml",
+      "title": "难忘二战记忆——火光之下，不只是新加坡",
       "category": "综合",
-      "summary": "中新社深圳11月19日电 11月19日下午，中国国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。",
+      "summary": "“四周一片漆黑，新加坡看起来就像一团火。许多船被击沉了，海面上都是残骸。”这是1942年新加坡沦陷后，来自乘船逃难者的口述。空袭、肃清、占领、酷刑……火光之下，映照出的是日本军国主义曾给地区人民带来的战争伤痛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734787.shtml",
-      "publishedAt": "2026-11-19T10:11:37.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734976.shtml",
+      "publishedAt": "2026-11-19T14:56:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734745.shtml",
-      "title": "报告：中国海洋装备产业全面跃升 从技术突破迈向规模化应用",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734972.shtml",
+      "title": "亚太经合组织互联互通蓝图",
       "category": "综合",
-      "summary": "中新网青岛11月19日电 (王禹)《2025海洋装备年报》(简称“报告”)19日在山东青岛举行的第四届海洋装备科技创新大会上发布。报告指出，2025年中国海洋装备产业实现全面跃升，各领域装备从技术突破迈向规模化应用，整体呈现高端化引领、智能化赋能、绿色化转型、深水化拓展的趋势。",
+      "summary": "新华社深圳11月19日电",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734745.shtml",
-      "publishedAt": "2026-11-19T10:11:23.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734972.shtml",
+      "publishedAt": "2026-11-19T14:51:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734742.shtml",
-      "title": "新疆前十月外送电量超1400亿千瓦时 同比增超两成",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734970.shtml",
+      "title": "（深圳APEC）外媒镜头里的深圳：机器人群舞、无人机送餐，科幻走进现实",
       "category": "综合",
-      "summary": "中新网乌鲁木齐11月19日电 (朱劲波)记者19日从新疆电力交易中心有限公司获悉，今年1—10月，新疆累计外送电量1419.99亿千瓦时，同比增长22.18%。其中，新能源外送电量601.69亿千瓦时，同比增长54.69%，新能源外送占比达42.37%，绿色电力跨区输送规模持续攀升，有力支撑全国能源保供和低碳转型发展。",
+      "summary": "中新网北京11月19日电 题：外媒镜头里的深圳：机器人群舞、无人机送餐，科幻走进现实",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734742.shtml",
-      "publishedAt": "2026-11-19T10:10:23.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734970.shtml",
+      "publishedAt": "2026-11-19T14:50:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734757.shtml",
-      "title": "中国首条大口径、最长距离氢气长输管道在内蒙古启运",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734968.shtml",
+      "title": "学者：中美建构建设性战略稳定关系 不支持“台独”表态具积极意义",
       "category": "综合",
-      "summary": "中新网包头11月19日电 (记者 李爱平)19日，中国首条大口径、最长距离氢气长输管道——达茂旗至包头市区195公里氢气长输管道，在内蒙古自治区包头市正式启运。",
+      "summary": "中新社北京11月19日电 (记者 张杨彬 刘大炜)围绕中美元首19日深圳会晤涉台表述，多位学者当天接受中新社采访时指出，相关对话反映出双方建构中美建设性战略稳定关系的积极意愿，美方表态释放出对台政策更趋审慎的信号。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734757.shtml",
-      "publishedAt": "2026-11-19T10:09:59.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734968.shtml",
+      "publishedAt": "2026-11-19T14:50:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-19/10734785.shtml",
-      "title": "辽宁师范大学开展《中华人民共和国民族团结进步促进法》专题宣讲",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734966.shtml",
+      "title": "浙江文旅观察：秀山丽水缘何看重“疗休养”？",
       "category": "综合",
-      "summary": "11月10日，辽宁师范大学校党委常委、副校长、民族团结进步促进法辽宁省专题宣讲团成员李玉君为2026级新生代表作题为《为推进中华民族共同体建设夯实法治根基》的专题宣讲。",
+      "summary": "中新网丽水11月19日电(周健)初冬时节，浙江丽水空气清新、阳光明媚。19日，云和梯田旁的民宿内，一批来自江苏的职工赏山水、品香茶，享受疗休养的惬意时光。而在相隔10多公里的云和县城，“我在丽水疗休养”第七届秀山丽水疗休养区域协作暨丽水全域旅游联盟资源对接活动启幕，氛围火热。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734785.shtml",
-      "publishedAt": "2026-11-19T10:09:23.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734966.shtml",
+      "publishedAt": "2026-11-19T14:41:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-19/10734786.shtml",
-      "title": "（机遇香港）世界湾区经济合作迎新机遇 香港如何更好定位与对接？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-19/10734965.shtml",
+      "title": "跟着戏曲去出海 《戏宇宙（海外季）》开播仪式举办",
       "category": "综合",
-      "summary": "中新社香港11月19日电 (记者 戴小橦)2026年亚太经合组织(APEC)工商领导人峰会上，中方提出支持成立“世界湾区经济合作联盟”(下称“联盟”)，以深化各湾区交流互动，探索亚太经济合作新路径。几位长期关注区域经济与法律服务的香港专业人士接受中新社记者采访时表示，世界湾区经济合作迎来新机遇，在这一过程中，香港所扮演的角色不仅是“参与者”，更应成为内地与全",
+      "summary": "中新网北京11月19日电 (记者 高凯)山东卫视《戏宇宙(海外季)》开播仪式日前在北京湖广会馆举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734786.shtml",
-      "publishedAt": "2026-11-19T10:08:23.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734965.shtml",
+      "publishedAt": "2026-11-19T14:39:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734749.shtml",
-      "title": "外籍专家走读“千年瓷都” 感知历史与现代的共生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734957.shtml",
+      "title": "深圳APEC开启亚太合作新篇章",
       "category": "综合",
-      "summary": "中新网景德镇11月19日电 (记者 姜涛)19日，景德镇中国陶瓷博物馆内游人如织。站在元青花缠枝牡丹纹梅瓶前，来自巴基斯坦的江西农业大学教授马文(TARIQ ALI)满眼好奇与兴奋。在中国生活了17年的他第一次来到景德镇，用流利的中文与讲解员交流，不时举起手机拍照。",
+      "summary": "深圳APEC期间，有三件事，连在一起看，颇有“深”意。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734749.shtml",
-      "publishedAt": "2026-11-19T10:07:18.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734957.shtml",
+      "publishedAt": "2026-11-19T14:38:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734783.shtml",
-      "title": "新一轮寒潮影响福建 福州马尾至马祖“小三通”航线持续停航",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734963.shtml",
+      "title": "四川推出25项举措提升大小凉山公共法律服务 慢火车成为“流动法治课堂”",
       "category": "综合",
-      "summary": "中新社福州11月19日电 (郑江洛)随着新一轮寒潮影响福建，据福州港客运站19日通报，福州马尾至马祖“小三通”客运航线20日和21日将继续停航，该航线自19日起连续三天停航。",
+      "summary": "中新网西昌11月19日电 (程兆)四川省司法厅今年启动“法治蜀光”支持大小凉山做强公共法律服务三年行动，配套25项举措。19日，四川省人民政府新闻办公室在老成昆线西昌站举行第八期《发言人在现场》新闻发布活动，介绍相关部署及慢火车普法实践。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734783.shtml",
-      "publishedAt": "2026-11-19T10:03:56.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734963.shtml",
+      "publishedAt": "2026-11-19T14:37:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734748.shtml",
-      "title": "福建省入渝推介文旅资源 签约5.9亿元文旅项目深化合作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734961.shtml",
+      "title": "（深圳APEC）2026年亚太经合组织领导人深圳展望发布",
       "category": "综合",
-      "summary": "中新网重庆11月19日电 (记者 钟旖)19日，为推动闽渝两地资源共享、客源互通、产业对接、资本赋能，2026“清新福建”文旅经济发展推介暨招商活动在重庆举行。",
+      "summary": "中新社深圳11月19日电 2026年亚太经合组织领导人深圳展望19日发布。展望重申，亚太经合组织是区域经济合作的首要平台，将遵循自主自愿、非约束性和协商一致的合作原则，致力于将亚太经合组织打造成一个更加现代、高效、务实的理念孵化器。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734748.shtml",
-      "publishedAt": "2026-11-19T10:01:44.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734961.shtml",
+      "publishedAt": "2026-11-19T14:37:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734744.shtml",
-      "title": "吉林延边耐寒苗木出海 首进俄罗斯市场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-19/10734962.shtml",
+      "title": "全国首单香港主体跨境数据知识产权登记落地广东",
       "category": "综合",
-      "summary": "中新网延边11月19日电 (记者 郭佳)记者19日从长春海关获悉，吉林省延边州近日成功向俄罗斯出口1000余株桧柏、青杄云杉种苗。这是长春海关辖区首次实现种苗花卉对俄罗斯出口。",
+      "summary": "中新网广州11月19日电 (记者 孙秋霞)香港乾盛映像传媒有限公司的“影视竖屏视频镜头语言多模态训练数据集”近日在广东数据知识产权存证登记平台获得登记，在19日举行的亚洲知识产权营商论坛“粤港澳大湾区分论坛”上，广东省市场监督管理局(知识产权局)为该企业颁发数据知识产权登记证书。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734744.shtml",
-      "publishedAt": "2026-11-19T09:57:40.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734962.shtml",
+      "publishedAt": "2026-11-19T14:33:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/11-19/10734779.shtml",
-      "title": "玉龙县：石榴花香润校园 籽籽同心育新苗",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734959.shtml",
+      "title": "数字种业“突围” 广西大石山区蹚出数字乡村新路",
       "category": "综合",
-      "summary": "雪山下民族一家亲，金沙江畔石榴花红。",
+      "summary": "中新网玉林11月19日电(记者 黄艳梅)“九分石头一分土”，这是广西南宁市马山县的真实写照，也曾是这座典型大石山区县发展的“枷锁”。如今，这一地理劣势正被转化为制种产业得天独厚的天然隔离带。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734779.shtml",
-      "publishedAt": "2026-11-19T09:56:14.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734959.shtml",
+      "publishedAt": "2026-11-19T14:30:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/mz/2026/11-19/10734781.shtml",
-      "title": "河北援疆：戈壁兴产业 天山育新人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734960.shtml",
+      "title": "“秦岭与阿尔卑斯山的对话——山地文明视域下的博物馆”国际学术交流活动举办",
       "category": "综合",
-      "summary": "中新网石家庄11月19日电 (赵丹媚 孟静)河北巴州生态产业园内，近10万平方米标准化厂房已经建成。先进装备制造、新能源等300余家企业落户园区，一批上亿元头部项目落地——这是河北产业援疆的一个缩影。",
+      "summary": "中新网陕西商洛11月19日电 (记者 阿琳娜)“秦岭与阿尔卑斯山的对话——山地文明视域下的博物馆”国际学术交流活动18日在秦岭博物馆举办。活动设置主题讲座、互动交流等环节，搭建起中欧山地文明对话平台，推动秦岭文化走向世界。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/mz/2026/11-19/10734781.shtml",
-      "publishedAt": "2026-11-19T09:53:16.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734960.shtml",
+      "publishedAt": "2026-11-19T14:28:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734780.shtml",
-      "title": "诺贝尔奖得主斯宾塞走进苏州校园探讨“AI时代人的价值”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-19/10734958.shtml",
+      "title": "国家大剧院与法国波尔多国家歌剧院联合制作歌剧《魔笛》将在京登台",
       "category": "综合",
-      "summary": "中新网昆山11月19日电 (记者 钟升)2001年诺贝尔经济学奖得主迈克尔·斯宾塞16日到访江苏苏州的昆山杜克大学。在以“人工智能与全球经济的未来”为主题的演讲中，斯宾塞分析了AI如何成为新的经济增长动力，以及技术要真正造福更多人，还需要跨过哪些门槛。",
+      "summary": "中新网北京11月19日电 (记者 高凯)2026年恰逢莫扎特诞辰270周年，11月24日至29日，国家大剧院与法国波尔多国家歌剧院联合制作的莫扎特歌剧《魔笛》即将登陆国家大剧院戏剧场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734780.shtml",
-      "publishedAt": "2026-11-19T09:52:04.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734958.shtml",
+      "publishedAt": "2026-11-19T14:26:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734729.shtml",
-      "title": "夜蛾如何辨识方向？国际最新研究发现利用地磁和星光两种罗盘导航",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734948.shtml",
+      "title": "（深圳APEC）以船为喻，中国向亚太发出“同舟之约”",
       "category": "综合",
-      "summary": "中新网北京11月19日电(记者 孙自法)国际学术期刊《自然》北京时间11月19日凌晨在线发表一篇动物学论文称，布冈夜蛾(Bogong moths)利用一种地磁罗盘帮助它们进行季节性的迁徙，连同此前研究证明这些蛾子还会利用星光导航，表明此类昆虫使用地磁和星光两种内在罗盘来寻找方向。",
+      "summary": "中新社深圳11月19日电 (记者 刘文文)11月的深圳，入夜微凉，盐田港灯火如昼，一派繁忙景象。作为全球单体规模最大的集装箱码头之一，这里每周有53条直通亚太经合组织(APEC)成员经济体的航线。中国的新能源汽车、照相机由此出海，马来西亚榴莲、智利车厘子跨海而来。在亚太地区，类似的航程每时每刻都在发生。彼此相连，也意味着休戚与共。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734729.shtml",
-      "publishedAt": "2026-11-19T09:44:39.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734948.shtml",
+      "publishedAt": "2026-11-19T14:25:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-19/10734768.shtml",
-      "title": "浙江丽水：云和梯田美景引客来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734952.shtml",
+      "title": "【和合共生】习言道丨“修昔底德陷阱”绝不是宿命",
       "category": "综合",
-      "summary": "11月19日，浙江云和，航拍云和梯田景区。中新社记者 孙杨洋 摄 11月19日，浙江云和，游客在观景平台合影留念。中新社记者 孙杨洋 摄 11月19日，浙江云和，游客在梯田间穿行。中新社记者 孙杨洋 摄 11月19日，浙江云和，游客在梯田间拍照打卡。中新社记者 孙杨洋 摄 11月19日，浙江云和，小朋友在梯田参加研学活动。中新社记者 孙杨洋 摄 11月19日",
+      "summary": "11月19日，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。习近平指出——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734768.shtml",
-      "publishedAt": "2026-11-19T09:44:25.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734952.shtml",
+      "publishedAt": "2026-11-19T14:24:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734778.shtml",
-      "title": "新一批领航级智能工厂培育名单公布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734954.shtml",
+      "title": "从“城市包围机场”到4F级枢纽：呼和浩特新机场“大”在哪？",
       "category": "综合",
-      "summary": "中新网南京11月19日电(记者 朱晓颖)19日，工业和信息化部等六部门公布了第二批34家领航级智能工厂培育名单，中兴通讯(南京)有限责任公司、南通中远海运川崎工程有限公司等企业入选。同一天在南京举办的2026世界智能制造大会上，这34家企业负责人集体登台亮相，领航工厂培育行动发布。",
+      "summary": "中新网呼和浩特11月19日电 题：从“城市包围机场”到4F级枢纽：呼和浩特新机场“大”在哪？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734778.shtml",
-      "publishedAt": "2026-11-19T09:44:09.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734954.shtml",
+      "publishedAt": "2026-11-19T14:23:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734718.shtml",
-      "title": "菲律宾多地高温指数达危险级别 局地达44摄氏度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-19/10734955.shtml",
+      "title": "WTT冠军赛将首次登陆上海",
       "category": "综合",
-      "summary": "中新社马尼拉11月19日电(记者 周璟)菲律宾大气地球物理天文局表示，菲律宾13个地区18日出现危险级别高温指数，局地高温指数达到44摄氏度。",
+      "summary": "中新社上海11月19日电 据上海市体育局19日消息，世界乒乓球职业大联盟(WTT)当日宣布，2027WTT上海冠军赛将于2027年1月19日至24日落户上海浦发银行东方体育中心，这也是WTT赛事首次来到上海。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734718.shtml",
-      "publishedAt": "2026-11-19T09:44:05.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734955.shtml",
+      "publishedAt": "2026-11-19T14:22:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734676.shtml",
-      "title": "涉嫌参与海地总统遇刺案 美国牧师或面临终身监禁",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734949.shtml",
+      "title": "（近观中国）“鹏城”之会，习近平寄语亚太合作鹏程万里",
       "category": "综合",
-      "summary": "中新社北京11月19日电 当地时间18日，牧师克里斯蒂安·埃马纽埃尔·萨农(Christian Emmanuel Sanon)因涉嫌刺杀海地总统若弗内尔·莫伊兹(Jovenel Moise)，被迈阿密法官裁定有罪，可能面临终身监禁。",
+      "summary": "中新社深圳11月19日电 (记者 张素)“期待在我们共同努力下，亚太合作像大鹏一样展翅高飞、鹏程万里。”19日在深圳举行的亚太经合组织(APEC)第三十三次领导人非正式会议上，中国国家主席习近平这样寄语亚太合作。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734676.shtml",
-      "publishedAt": "2026-11-19T09:43:09.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734949.shtml",
+      "publishedAt": "2026-11-19T14:09:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734765.shtml",
-      "title": "湖南怀化文旅升温：提前五年攒“管院子的人”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
+      "title": "琼州海峡智能航运示范工程在海口启动",
       "category": "综合",
-      "summary": "中新网怀化11月19日电 (易辉君)“院子是新的，人也是新的才好。”湖南怀化市辰溪县孝坪镇废弃水塔改成的“水塔咖啡”，闲置工会楼变成兵工主题民宿，83岁退休职工赵国强看着集镇重新热闹起来。",
+      "summary": "中新网海口11月19日电 (贾浪博)琼州海峡智能航运示范工程启动仪式19日在海口举行，标志着琼州海峡智能航运建设迈入实质推进阶段。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734765.shtml",
-      "publishedAt": "2026-11-19T09:43:01.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
+      "publishedAt": "2026-11-19T14:01:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-19/10734763.shtml",
-      "title": "河北衡水七旬老人手缝爱心坐垫 温暖候车人",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211257.shtml",
+      "title": "中国排球超级联赛：北京越野男排3比0胜福建福清男排",
       "category": "综合",
-      "summary": "11月19日，崔素英用胶带固定公交站台长凳上的棉坐垫。夏晓婷 摄 11月19日，崔素英带着缝制好的棉坐垫赶往公交站台。夏晓婷 摄 11月19日，崔素英在家里缝制棉坐垫。夏晓婷 摄 11月19日，崔素英往公交站台长凳上铺棉坐垫。夏晓婷 摄 11月19日，崔素英在整理已经缝制好的棉坐垫。夏晓婷 摄",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734763.shtml",
-      "publishedAt": "2026-11-19T09:42:45.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211257.shtml",
+      "publishedAt": "2026-11-19T13:58:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734656.shtml",
-      "title": "沙特王储与美军中央司令部司令会谈 沙特与也门胡塞武装持续相互打击",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-19/10734944.shtml",
+      "title": "国家广播电视总局举办电视剧《伟大的长征》创作座谈会",
       "category": "综合",
-      "summary": "中新社北京11月19日电 综合消息：沙特阿拉伯王储兼首相穆罕默德19日在沙特首都利雅得会见美军中央司令部司令布拉德·库珀率领的代表团。沙特和也门胡塞武装当天持续互相打击。",
+      "summary": "中新网北京11月19日电 (记者 高凯)由国家广播电视总局主办的电视剧《伟大的长征》创作座谈会日前在京举行。与会人员围绕《伟大的长征》的创作传播经验、思想价值和现实意义以及做好重大革命题材电视剧创作等话题进行了交流和探讨。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734656.shtml",
-      "publishedAt": "2026-11-19T09:42:35.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734944.shtml",
+      "publishedAt": "2026-11-19T13:55:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734653.shtml",
-      "title": "“游历于色彩与线条之间”特别企画展在东京中国文化中心举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
+      "title": "韩国前第一夫人金建希首案终审被判有期徒刑4年",
       "category": "综合",
-      "summary": "中新网东京11月19日电(记者 朱晨曦)“游历于色彩与线条之间——中国现代艺术的新印象”特别企画展于16日在东京中国文化中心举办。",
+      "summary": "中新社首尔11月19日电(金旭 林珺)韩国大法院(最高法院)19日就韩国前总统尹锡悦妻子金建希涉嫌操纵股价、收受贿赂等案件作出终审判决，判处其有期徒刑4年，并处罚金5000万韩元(约合人民币25万元)。这是韩国最高法院首次就金建希相关案件作出裁定。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734653.shtml",
-      "publishedAt": "2026-11-19T09:41:45.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
+      "publishedAt": "2026-11-19T13:54:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,107 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734770.shtml",
-      "title": "追忆乡村教师叶连平：“最后一口气我要在讲台上呼出去的”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
+      "title": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
       "category": "综合",
-      "summary": "中新网安徽马鞍山11月19日电 题：追忆乡村教师叶连平：“最后一口气我要在讲台上呼出去的”",
+      "summary": "11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734770.shtml",
-      "publishedAt": "2026-11-19T09:40:15.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
+      "publishedAt": "2026-11-19T13:54:31.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad#2",
+      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "category": "国际",
+      "summary": "Sensor Tower估計，該遊戲透過PlayStation與Xbox平台的預購，已創造11.8億美元收入。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T12:43:05.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#0",
+      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "category": "国际",
+      "summary": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T12:22:04.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143226",
+      "title": "货币基金组织总裁：人工智能将成为影响全球竞争力和经济增长的重要因素",
+      "category": "国际",
+      "summary": "国际货币基金组织总裁格奥尔基耶娃周四在中国深圳举行的2026年亚太经合组织经济领导人会议上表示，人工智能正在对全球经济增长产生实质性影响，将成为影响中期竞争力、生产率和经济增长的重要因素。她同时指出，全球通胀上升、公共债务增加以及结构性改革滞后等问题仍对经济前景构成挑战，各国需要加快采取政策行动。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143226",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/119191",
+      "title": "给 Apple 的 2026 年打分，请你一起参与",
+      "category": "科技",
+      "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/119191",
+      "publishedAt": "2026-11-19T10:25:05.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad#3",
+      "title": "從領導人合照到場邊會談：高市早苗的APEC外交觀察",
+      "category": "国际",
+      "summary": "高市早苗在歡迎晚宴前與中國國家主席習近平握手，兩人短暫互動。不過，高市抵達深圳時的接待安排相對低調。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T10:20:44.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -642,7 +746,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad#2",
       "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
       "category": "国际",
       "summary": "開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。",
@@ -742,6 +846,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143221",
+      "title": "联合国人口基金警告：世界正面临辜负下一代的风险",
+      "category": "国际",
+      "summary": "联合国人口基金周三发布的《2026年世界人口状况报告》指出，尽管年轻一代的教育水平、信息获取能力以及对自身权利的认知达到前所未有的高度，但经济不稳定、不平等、排斥、冲突和气候变化等因素，正阻碍数以百万计的年轻人实现人生抱负，使他们难以获得体面的工作、经济独立、住房以及建立家庭的机会。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143221",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1103,23 +1225,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#2",
-      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
-      "category": "国际",
-      "summary": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T11:44:02.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#1",
       "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
       "category": "国际",
@@ -1145,41 +1250,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cm7826g36xe5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T09:33:26.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/119184",
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "category": "科技",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/119184",
-      "publishedAt": "2026-11-17T09:02:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad#2",
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "category": "国际",
-      "summary": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T08:44:40.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1613,42 +1683,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143194",
-      "title": "生命攸关：人道主义工作者呼吁迅速向加沙运送冬季物资",
-      "category": "国际",
-      "summary": "联合国及其合作伙伴周五在一份紧急呼吁中表示，在经历了上周末致命的暴雨之后，冬季物资必须运入加沙地带，因为“生命攸关”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143194",
-      "publishedAt": "2026-11-13T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143193",
-      "title": "人权高专呼吁各国就禁止“杀人机器人”的国际条约达成一致",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克呼吁各国在准备下周召开的《特定常规武器公约》第七次审议大会之际，紧急就制定一项规范自主武器系统的国际条约达成一致。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143193",
-      "publishedAt": "2026-11-13T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad#1",
       "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
       "category": "国际",
@@ -1768,23 +1802,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm0e0ey0qx7yo/trad#3",
-      "title": "「台灣之光」形象重挫？民眾如何看黃仁勳婚外情風波",
-      "category": "国际",
-      "summary": "輝達（英偉達）執行長黃仁勳捲入婚外情風波，部分美國媒體引述情報官員指，涉事女子與中國情報系統有關。BBC中文在台北街頭採訪民眾，了解他們如何看待這場仍在持續發醇的風波。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cm0e0ey0qx7yo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T04:28:59.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm36gnenlj59o/trad#4",
       "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
       "category": "国际",
@@ -1815,23 +1832,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad#3",
-      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
-      "category": "国际",
-      "summary": "在剛剛結束的美國中期選舉中，多個支持共和黨的州「翻藍」，民主黨奪得國會參眾兩院控制權。這次選舉結果為何具有重大意義？又將如何影響美國與世界其他國家的關係？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T14:58:15.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },

@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143226",
+      "title": "货币基金组织总裁：人工智能将成为影响全球竞争力和经济增长的重要因素",
+      "meta": "联合国新闻 · 2026/11/19",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143226",
+      "publishedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143221",
+      "title": "联合国人口基金警告：世界正面临辜负下一代的风险",
+      "meta": "联合国新闻 · 2026/11/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143221",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143225",
       "title": "第31届气候变化大会僵局持续，各国启动新一轮“气候承诺核查”",
       "meta": "联合国新闻 · 2026/11/18",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/11/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143195",
       "publishedAt": "2026-11-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143194",
-      "title": "生命攸关：人道主义工作者呼吁迅速向加沙运送冬季物资",
-      "meta": "联合国新闻 · 2026/11/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143194",
-      "publishedAt": "2026-11-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143193",
-      "title": "人权高专呼吁各国就禁止“杀人机器人”的国际条约达成一致",
-      "meta": "联合国新闻 · 2026/11/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143193",
-      "publishedAt": "2026-11-13T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T10:20:47.927Z",
+  "updatedAt": "2026-11-19T20:37:11.327Z",
   "provider": "OneBench 公共资讯快照"
 }
