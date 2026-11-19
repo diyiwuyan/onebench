@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T17:15:25.452Z",
-  "expiresAt": "2026-11-18T23:15:25.452Z",
+  "generatedAt": "2026-11-19T00:23:00.369Z",
+  "expiresAt": "2026-11-19T06:23:00.369Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,437 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad#0",
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "category": "国际",
+      "summary": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T00:11:57.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
+      "title": "词元作为数字商品进入大众消费 专家建议：统一计量口径守护AI消费权益",
+      "category": "综合",
+      "summary": "今年“双十一”，Token首次以独立品类摆上电商货架，“囤Token”成为热词。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
+      "publishedAt": "2026-11-19T00:05:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
+      "title": "民宿烤全羊被指分量不足 四川平武市场监管部门立案调查",
+      "category": "综合",
+      "summary": "中新网11月19日电 据“平武发布”微信公众号消息，四川省绵阳市平武县市场监督管理局18日发布情况通报，2026年11月17日，有网友反映平武县某民宿提供的烤全羊分量不足，引发网民关注。对此，平武县市场监督管理局高度重视，成立工作组第一时间开展核查处置。现将有关情况通报如下。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
+      "publishedAt": "2026-11-19T00:02:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734453.shtml",
+      "title": "Token抢手？超半数受访者表示没必要囤",
+      "category": "综合",
+      "summary": "Token抢手？超半数受访者表示没必要囤",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734453.shtml",
+      "publishedAt": "2026-11-18T23:46:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
+      "title": "沙特主导的联军称摧毁胡塞武装60个军事目标",
+      "category": "综合",
+      "summary": "中新网11月19日电 综合外媒报道，当地时间18日，沙特阿拉伯主导的多国联军发言人马利基表示，对也门胡塞武装实施了专项军事行动，摧毁了该组织位于也门萨那、荷台达、阿姆兰和萨达省的60个军事目标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
+      "publishedAt": "2026-11-18T23:43:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734451.shtml",
+      "title": "“咨询量增长100%”！外籍客商扎堆打卡→",
+      "category": "综合",
+      "summary": "2026年APEC会议周进行之际，深圳南油服装批发市场迎来境外客商的“时尚采购”热。来自APEC经济体的买手与游客趁会议周窗口集中入场，南油正成为外国客商眼中“空箱来、满箱走”的深圳新体验。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734451.shtml",
+      "publishedAt": "2026-11-18T23:41:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734450.shtml",
+      "title": "雪假来了：特色假期如何“放”到心坎里",
+      "category": "综合",
+      "summary": "秋假还没结束，雪假也来了。11月18日，河北省张家口市中小学迎来了首个雪假，不同学段错峰放假。此外，吉林省、内蒙古呼伦贝尔、新疆阿勒泰也陆续公布2026年雪假安排。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734450.shtml",
+      "publishedAt": "2026-11-18T23:41:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-19/10734449.shtml",
+      "title": "涉及个人信息安全，请注意！",
+      "category": "综合",
+      "summary": "在《中华人民共和国个人信息保护法》实施5周年之际，最高人民检察院发布一批依法保护公民个人信息的典型案例，集中曝光了“开盒”网暴、非法获取倒卖信息等乱象，释放出对相关违法犯罪全链条从严惩治的鲜明信号，这些案例显示出公民个人信息安全面临很复杂的风险，需要引起高度重视。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734449.shtml",
+      "publishedAt": "2026-11-18T23:38:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734448.shtml",
+      "title": "APEC新机遇，年轻人如何“接接接”？",
+      "category": "综合",
+      "summary": "APEC新机遇，年轻人如何“接接接”？(财米油盐)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734448.shtml",
+      "publishedAt": "2026-11-18T23:35:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734446.shtml",
+      "title": "常态化整治群众身边不正之风和腐败问题（学习贯彻党的二十届五中全会精神）",
+      "category": "综合",
+      "summary": "刘金国",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734446.shtml",
+      "publishedAt": "2026-11-18T23:34:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-19/10734447.shtml",
+      "title": "从网络社区到街头巷尾 城市藏着哪些“长红”密码",
+      "category": "综合",
+      "summary": "跳出打卡景点，一座城市还有哪些动人之处？烟火日常，会为城市文旅带来怎样不一样的底色？不久前，网络社区小红书在北京推出一系列线下活动，通过互动展、市集、沙龙等形式，展示Z世代视角下的城市之美，探讨城市如何借助生活化、个性化表达被更多人看见。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734447.shtml",
+      "publishedAt": "2026-11-18T23:34:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734445.shtml",
+      "title": "美国土安全部长马林出席国会听证会 就全美停飞等作答",
+      "category": "综合",
+      "summary": "中新社华盛顿11月18日电 (记者 沙晗汀)美国国土安全部长马林当地时间18日出席国会众议院国土安全委员会听证会，就全美航班停飞等事件回答议员提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734445.shtml",
+      "publishedAt": "2026-11-18T23:31:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734442.shtml",
+      "title": "中国驻欧盟使团举办专题讲座阐释台湾问题中方原则立场",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔11月18日电 (记者 德永健)中国驻欧盟使团17日在布鲁塞尔举办专题讲座，阐释台湾问题中方原则立场和政策主张。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734442.shtml",
+      "publishedAt": "2026-11-18T23:30:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734443.shtml",
+      "title": "美众议院民主党人提名杰弗里斯为众议长",
+      "category": "综合",
+      "summary": "中新社华盛顿11月18日电 (记者 沙晗汀)美国众议院民主党人当地时间18日提名现任众议院民主党领袖哈基姆·杰弗里斯(Hakeem Jeffries)为下届众议院议长候选人。如果最终当选议长，杰弗里斯将成为美国历史上首位非裔众议院议长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734443.shtml",
+      "publishedAt": "2026-11-18T23:28:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734444.shtml",
+      "title": "南非10月通胀率升至5.2% 创近两年半新高",
+      "category": "综合",
+      "summary": "中新社约翰内斯堡11月18日电 (记者 孙翔)南非统计局18日公布的数据显示，南非10月消费者价格指数(CPI)同比上涨5.2%，高于9月的4.5%，创2024年5月以来最高水平，符合市场预期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734444.shtml",
+      "publishedAt": "2026-11-18T23:27:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734441.shtml",
+      "title": "我国成功发射实践二十四号卫星",
+      "category": "综合",
+      "summary": "北京时间2026年11月19日6时51分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734441.shtml",
+      "publishedAt": "2026-11-18T23:13:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734440.shtml",
+      "title": "以军发表声明：在加沙地带打死两名哈马斯指挥官",
+      "category": "综合",
+      "summary": "中新网11月19日电 综合外媒报道，当地时间18日，以色列国防军和以色列国家安全总局(辛贝特)发表联合声明称，17日在加沙地带的两起打击中，打死了两名巴勒斯坦伊斯兰抵抗运动(哈马斯)指挥官。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734440.shtml",
+      "publishedAt": "2026-11-18T23:07:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734439.shtml",
+      "title": "美国民主党提名杰弗里斯为众议院议长",
+      "category": "综合",
+      "summary": "中新网11月19日电 综合美媒报道，当地时间18日，美国众议院民主党党团提名现任众议院民主党领袖杰弗里斯为下届众议院议长，这意味着他有望成为美国历史上首位非洲裔众议院议长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734439.shtml",
+      "publishedAt": "2026-11-18T22:51:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-19/10734438.shtml",
+      "title": "11月19日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-19/10734438.shtml",
+      "publishedAt": "2026-11-18T22:43:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734437.shtml",
+      "title": "马来西亚总理和23家中国知名企业代表对话：展望新能源等多领域合作机遇",
+      "category": "综合",
+      "summary": "中新网11月19日电 马来西亚总理安瓦尔18日在社交媒体上表示，同中国知名企业开展的交流为马来西亚创造了新机遇，为该国经济发展注入动力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734437.shtml",
+      "publishedAt": "2026-11-18T22:38:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734436.shtml",
+      "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+      "category": "综合",
+      "summary": "新华社耶路撒冷11月18日电(记者王卓伦 庞昕熠)以色列国防军和国家安全总局(辛贝特)18日发表联合声明说，以安全部队当天在加沙地带“黄线”以西开展针对性军事行动，拆除一条据称对以军构成直接且紧迫威胁的地道。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734436.shtml",
+      "publishedAt": "2026-11-18T22:05:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-19/10734435.shtml",
+      "title": "首次运投成功！国产“空中重卡”来了",
+      "category": "综合",
+      "summary": "近日，7吨级大型运投无人机长鹰-8，圆满完成首次运输投送试验，正式具备智能精准投送能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734435.shtml",
+      "publishedAt": "2026-11-18T22:05:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-19/10734434.shtml",
+      "title": "美国民主党提名杰弗里斯为众议院议长",
+      "category": "综合",
+      "summary": "新华社华盛顿11月18日电(记者施春)美国众议院民主党党团18日提名现任众议院民主党领袖哈基姆·杰弗里斯为下届众议院议长，使他有望成为美国历史上首位非洲裔众议院议长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734434.shtml",
+      "publishedAt": "2026-11-18T22:03:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734433.shtml",
+      "title": "新一轮国资国企改革规划部署基本完成",
+      "category": "综合",
+      "summary": "记者从国务院国资委了解到，目前，进一步深化国资国企改革工作台账已基本编制完成。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734433.shtml",
+      "publishedAt": "2026-11-18T22:03:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml",
       "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
@@ -148,420 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
       "publishedAt": "2026-11-18T14:42:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
-      "title": "（深圳APEC）中国为何支持成立世界湾区经济合作联盟？",
-      "category": "综合",
-      "summary": "中新社深圳11月18日电 题：中国为何支持成立世界湾区经济合作联盟？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
-      "publishedAt": "2026-11-18T14:42:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml",
-      "title": "从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事",
-      "category": "综合",
-      "summary": "中新网云南大理11月18日电 (记者 韩帅南)记者18日从大理州委宣传部获悉，近日，在云南省大理白族自治州成立70周年之际，一封跨越重洋的贺信从南半球传来。澳大利亚米尔迪拉市市长海伦·希利议员致信，向大理州送上祝贺。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml",
-      "publishedAt": "2026-11-18T14:38:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml",
-      "title": "习近平：看五十年的中国就来深圳",
-      "category": "综合",
-      "summary": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。习近平在祝酒辞中说——",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml",
-      "publishedAt": "2026-11-18T14:33:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
-      "title": "从“买卖全球”到共创共享 浙江诠释对外开放新内涵",
-      "category": "综合",
-      "summary": "中新网杭州11月18日电(蓝伊旎)第九届中国国际进口博览会(下称“进博会”)在上海落幕后，有多场展会“接棒”登场的浙江变得更加热闹了。不少跨国企业代表、海外客商转场而来，看展洽谈、走访企业、对接项目，在面对面交流中续写新的合作故事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
-      "publishedAt": "2026-11-18T14:32:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734403.shtml",
-      "title": "【和合共生】习言道丨为了建设亚太共同体，我们跨越山海走到一起",
-      "category": "综合",
-      "summary": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。习近平发表祝酒辞指出——",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734403.shtml",
-      "publishedAt": "2026-11-18T14:32:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-18/10734417.shtml",
-      "title": "宋庆龄和平天使艺术团京昆表演团2026年戏曲晚会在北京上演",
-      "category": "综合",
-      "summary": "中新网北京11月18日电 (金志成)以“时代少年传国粹”为主题的宋庆龄和平天使艺术团京昆表演团2026年戏曲晚会18日在北京上演。63名在册团员登台展演，其中年龄最大的14岁，最小的仅6岁。随着经典唱腔响起，台下掌声不时传来，现场气氛热烈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734417.shtml",
-      "publishedAt": "2026-11-18T14:32:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml",
-      "title": "新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-      "category": "综合",
-      "summary": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml",
-      "publishedAt": "2026-11-18T14:31:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734388.shtml",
-      "title": "（深圳APEC）中国向全球工商界发出合作“邀请函”",
-      "category": "综合",
-      "summary": "中新社深圳11月18日电 (记者 尹倩芸)11月18日，在深圳举行的2026年亚太经合组织(APEC)工商领导人峰会开幕式上，中国向全球工商界发出一份合作“邀请函”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734388.shtml",
-      "publishedAt": "2026-11-18T14:30:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734414.shtml",
-      "title": "马来西亚2026年第三季度GDP同比增长5.5%",
-      "category": "综合",
-      "summary": "中新社吉隆坡11月18日电 (记者 刘育英)马来西亚统计局11月18日公布的数据显示，该国2026年第三季度国内生产总值(GDP)同比增长5.5%，高于此前公布的初步估算值5.3%，但较第二季度的6.0%有所放缓。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734414.shtml",
-      "publishedAt": "2026-11-18T14:23:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734413.shtml",
-      "title": "（深圳APEC）俄罗斯总统普京到访深圳北理莫斯科大学",
-      "category": "综合",
-      "summary": "中新社深圳11月18日电 (记者 周昕)来华出席亚太经合组织第三十三次领导人非正式会议的俄罗斯总统普京18日在深圳北理莫斯科大学参观，并向在校师生发表演讲。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734413.shtml",
-      "publishedAt": "2026-11-18T14:22:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-18/10734406.shtml",
-      "title": "河北南皮“王厂錾铜浮雕”技艺：一锤一錾传承运河文脉",
-      "category": "综合",
-      "summary": "图为11月18日，河北省沧州市南皮县，河北省级非物质文化遗产代表性项目“王厂錾铜浮雕”技艺代表性传承人王春友挑选制作錾铜浮雕的铜片。靳东凯 摄 图为11月18日，河北省沧州市南皮县，河北省级非物质文化遗产代表性项目“王厂錾铜浮雕”技艺代表性传承人王春友(左一)向参观者介绍錾铜作品《镖不喊沧》。靳东凯 摄 图为11月18日，河北省沧州市南皮县，河北省级非物质文",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734406.shtml",
-      "publishedAt": "2026-11-18T14:19:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-18/10734404.shtml",
-      "title": "甘肃保安腰刀迎来“工厂模式”",
-      "category": "综合",
-      "summary": "11月18日，在位于甘肃省临夏州积石山县刘集乡团结村的一家企业车间内，工作人员检查保安腰刀产品。中新社记者 李亚龙 摄 11月18日，在位于甘肃省临夏州积石山县刘集乡团结村的一家企业车间内，工作人员对保安腰刀进行激光打标。中新社记者 李亚龙 摄 11月18日，在位于甘肃省临夏州积石山县刘集乡团结村的一家企业车间内，工作人员用单面研磨机进行单面磨工作。中新社记",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734404.shtml",
-      "publishedAt": "2026-11-18T14:16:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
-      "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
-      "category": "综合",
-      "summary": "11月18日，CNC数控雕刻中心正在运行。中新社记者 孙杨洋 摄 11月18日，工作人员在数控六面钻设备前进行人机协作钻孔作业。中新社记者 孙杨洋 摄 11月18日，AGV自动搬运车运送木玩配件。中新社记者 孙杨洋 摄 11月18日，自动码垛机正在码垛打包好的木玩产品。中新社记者 孙杨洋 摄 11月18日，UV印刷机进行上色作业。中新社记者 傅飞扬 摄 11",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
-      "publishedAt": "2026-11-18T14:13:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-18/10734394.shtml",
-      "title": "“第十一届书籍设计艺术展览”在广西桂林开幕",
-      "category": "综合",
-      "summary": "图为“第十一届书籍设计艺术展览”开幕现场。欧惠兰 摄 图为颁发展览竞赛佳作一等奖杯。欧惠兰 摄 图为颁发展览竞赛佳作二等奖杯。欧惠兰 摄 图为嘉宾在参观“第十一届书籍设计艺术展览”作品。欧惠兰 摄 图为嘉宾在参观“第十一届书籍设计艺术展览”作品。欧惠兰 摄 图为“第十一届书籍设计艺术展览”中的作品。欧惠兰 摄 图为“第十一届书籍设计艺术展览”中的作品。欧惠兰",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734394.shtml",
-      "publishedAt": "2026-11-18T14:11:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734401.shtml",
-      "title": "广西打造面向东盟开放的国际化法治化营商环境",
-      "category": "综合",
-      "summary": "中新网南宁11月18日电 (陈秋霞)广西壮族自治区人大常委会调研组18日提供的专题调研报告显示，近年来，广西统筹推进涉外立法、跨境司法、规则对接、法律服务、智慧法治等重点工作，面向东盟开放的国际化法治化营商环境建设取得积极进展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734401.shtml",
-      "publishedAt": "2026-11-18T14:09:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-18/10734392.shtml",
-      "title": "多名内地选手亮相香港羽毛球公开赛单打首轮赛事",
-      "category": "综合",
-      "summary": "图为内地选手韩悦在比赛中回球。中新网记者 李志华 摄 图为内地选手王祉怡在比赛中回球。中新网记者 李志华 摄 图为内地选手王祉怡在比赛中回球。中新网记者 李志华 摄 图为内地选手王祉怡赛后感谢现场球迷。中新网记者 李志华 摄 图为内地选手徐文婧在比赛中发球。中新网记者 李志华 摄 图为内地选手徐文婧在比赛中。中新网记者 李志华 摄 图为内地选手朱轩辰在比赛中",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734392.shtml",
-      "publishedAt": "2026-11-18T14:09:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-18/10734400.shtml",
-      "title": "首届黑龙江省高校足球超级联赛落幕 “实体+电竞”融合赛事赋能冰雪文旅",
-      "category": "综合",
-      "summary": "中新网哈尔滨11月18日电 (韩雪)11月18日，首届黑龙江省高校足球超级联赛第一阶段H8联赛闭幕式暨颁奖仪式在哈尔滨举办。赛事创新采用“实体足球+足球电竞”虚实融合模式，同步启动后续跨区域赛事，助力黑龙江冰雪文体与青年文旅融合发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-18/10734400.shtml",
-      "publishedAt": "2026-11-18T14:08:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734402.shtml",
-      "title": "关于APEC，这九个问题你必须知道",
-      "category": "综合",
-      "summary": "深圳已进入“APEC时刻”。11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。这是中国第三次，也是时隔12年再次担任APEC东道主。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734402.shtml",
-      "publishedAt": "2026-11-18T14:03:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-18/10734399.shtml",
-      "title": "中外企业奏响产业创新协奏曲",
-      "category": "综合",
-      "summary": "多普勒激光测振系统、3D蓝光扫描系统、可控与随机跌落装置……这些苹果公司研发体系的尖端设备，不在美国加州库比蒂诺，而在深圳河套。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734399.shtml",
-      "publishedAt": "2026-11-18T14:02:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-18/10734390.shtml",
-      "title": "（近观中国）南海之滨，习近平向亚太工商界说起一句中国古语",
-      "category": "综合",
-      "summary": "中新社北京11月18日电 (记者 谢雁冰)“凡益之道，与时偕行。”11月18日上午，中国国家主席习近平在亚太经合组织(APEC)工商领导人峰会上的主旨演讲中提到这句古语，强调中方愿同各方一道，坚定信心、勇毅前行，携手建设亚太共同体，促进亚太共同繁荣。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734390.shtml",
-      "publishedAt": "2026-11-18T14:01:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-18/10734398.shtml",
-      "title": "“香港缤纷冬日巡礼”启动 打造三大“冬日小镇”吸引旅客",
-      "category": "综合",
-      "summary": "中新网香港11月18日电 (记者 赵静怡)香港旅游发展局(简称“香港旅发局”)年度旗舰节庆盛事“香港缤纷冬日巡礼”18日在香港中环、尖沙咀举办启动礼，“香港冬日小镇”今年将从中环扩展至尖沙咀及铜锣湾，为旅客及市民打造丰富的冬日节庆体验。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734398.shtml",
-      "publishedAt": "2026-11-18T13:59:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-18/10734397.shtml",
-      "title": "“中国发展论坛·2026”聚焦现代化产业体系",
-      "category": "综合",
-      "summary": "中新社辽宁葫芦岛11月18日电 (姜月恒 罗鲁峤)“中国发展论坛·2026”18日在辽宁葫芦岛举行，围绕“构建以先进制造业为骨干的现代化产业体系”主题开展研讨。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734397.shtml",
-      "publishedAt": "2026-11-18T13:58:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-18/10734395.shtml",
-      "title": "福建9个“天下第一团”剧种在福州集中展演",
-      "category": "综合",
-      "summary": "中新社福州11月18日电 (叶秋云)“经典传承——福建戏曲‘天下第一团’暨稀有剧种折子戏展演”18日在福建福州启幕。展演为期2天，共安排4场演出，推出22个折子戏(小戏)，涵盖12个剧种、13个演出团体。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734395.shtml",
-      "publishedAt": "2026-11-18T13:56:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -748,7 +765,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad#1",
       "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
       "category": "国际",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
@@ -985,23 +1002,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T08:44:40.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad#2",
-      "title": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
-      "category": "国际",
-      "summary": "英國首相在倫敦金融城市長晚宴上向與會人士表示，「我們得到的脫歐結果並沒有奏效」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T07:52:53.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1294,7 +1294,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad#2",
       "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
       "category": "国际",
       "summary": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
