@@ -5,6 +5,20 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:c01b624f-6ad1-458b-9177-2368651d6998",
+      "title": "厄立特里亚取得消除沙眼的重要公共卫生成就",
+      "meta": "世界卫生组织 · 2026/11/16",
+      "url": "https://www.who.int/zh/news-room/16-11-2026-eritrea-eliminates-trachoma-a-major-public-health-milestone",
+      "publishedAt": "2026-11-16T10:11:30.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:0450fd9a-f66f-40bc-9b61-31c703ea34af",
+      "title": "会员国重申致力于在2027年5月前完成《大流行协定》病原体获取和惠益分享系统附件",
+      "meta": "世界卫生组织 · 2026/11/13",
+      "url": "https://www.who.int/zh/news-room/13-11-2026-member-states-reiterate-commitment-to-finalize-pandemic-agreement-pabs-annex-by-may-2027",
+      "publishedAt": "2026-11-13T17:02:54.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:10b9df94-17cb-49b7-a061-dfe0fee03b66",
       "title": "冲突与疾病疫情加剧了刚果民主共和国的饥饿危机，预计面临突发重度粮食不安全的人数将创历史新高",
       "meta": "世界卫生组织 · 2026/11/13",
@@ -129,22 +143,8 @@
       "meta": "世界卫生组织 · 2026/10/8",
       "url": "https://www.who.int/zh/news-room/08-10-2026-new-global-roadmap-launched-to-tackle-hypertension-in-pregnancy-a-leading-cause-of-maternal-and-newborn-deaths",
       "publishedAt": "2026-10-08T08:17:57.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:da51541e-209a-424a-99fc-7b4968d1f78c",
-      "title": "世卫组织发布首份全球儿童和青少年肥胖症指南",
-      "meta": "世界卫生组织 · 2026/10/7",
-      "url": "https://www.who.int/zh/news-room/07-10-2026-who-issues-first-global-guidelines-on-child-and-adolescent-obesity",
-      "publishedAt": "2026-10-07T07:17:17.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:fda319d3-c93f-4a92-ac2f-deccfcadbb5c",
-      "title": "世卫组织发布新指导，旨在预防大型集会期间高温相关疾病",
-      "meta": "世界卫生组织 · 2026/9/30",
-      "url": "https://www.who.int/zh/news-room/30-09-2026-who-releases-new-guidance-to-prevent-heat-related-illness-at-mass-gatherings",
-      "publishedAt": "2026-09-30T08:34:20.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T00:23:00.369Z",
+  "updatedAt": "2026-11-19T10:20:47.927Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143225",
+      "title": "第31届气候变化大会僵局持续，各国启动新一轮“气候承诺核查”",
+      "meta": "联合国新闻 · 2026/11/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143225",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143224",
+      "title": "经巴拿马北上人流减少九成，拉美移民转向新路线",
+      "meta": "联合国新闻 · 2026/11/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143224",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143223",
+      "title": "儿基会：全球每四分钟就有一名儿童死于暴力",
+      "meta": "联合国新闻 · 2026/11/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143223",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143222",
+      "title": "也门战事升级导致至少128名儿童伤亡",
+      "meta": "联合国新闻 · 2026/11/18",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143222",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143220",
       "title": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持续加剧",
       "meta": "联合国新闻 · 2026/11/18",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/11/13",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143193",
       "publishedAt": "2026-11-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143191",
-      "title": "【子午播报】2026年11月13日",
-      "meta": "联合国新闻 · 2026/11/13",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143191",
-      "publishedAt": "2026-11-13T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143185",
-      "title": "【专题报道】特德·特纳：一位传媒先驱与联合国近30年的情缘",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143185",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143189",
-      "title": "COP31聚焦城市韧性，敦促加快气候行动",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143189",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143187",
-      "title": "世卫组织：各国加大国内投资以巩固结核病防治成果",
-      "meta": "联合国新闻 · 2026/11/12",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143187",
-      "publishedAt": "2026-11-12T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T00:23:00.369Z",
+  "updatedAt": "2026-11-19T10:20:47.927Z",
   "provider": "OneBench 公共资讯快照"
 }
