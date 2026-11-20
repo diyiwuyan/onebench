@@ -5,11 +5,39 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:b9331ffb-3e16-4dfe-824b-aea0096c0898",
+      "title": "领导人承诺加快肥胖预防和控制行动",
+      "meta": "世界卫生组织 · 2026/11/17",
+      "url": "https://www.who.int/zh/news-room/17-11-2026-leaders-commit-to-accelerate-action-on-obesity-prevention-and-control",
+      "publishedAt": "2026-11-17T13:29:21.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:28539a5c-5357-44ad-b27f-9be8c73010aa",
+      "title": "各国政府为预防暴力侵害儿童行为作出了230多项新承诺",
+      "meta": "世界卫生组织 · 2026/11/17",
+      "url": "https://www.who.int/zh/news-room/17-11-2026-governments-make-over-230-new-pledges-to-prevent-violence-against-children",
+      "publishedAt": "2026-11-17T11:08:40.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:a2a45f19-4c44-4d40-a721-996d9bceeafd",
+      "title": "更多国家有了抗微生物药物耐药性计划，但患者仍然缺乏检测和治疗",
+      "meta": "世界卫生组织 · 2026/11/16",
+      "url": "https://www.who.int/zh/news-room/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+      "publishedAt": "2026-11-16T15:57:23.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:c01b624f-6ad1-458b-9177-2368651d6998",
       "title": "厄立特里亚取得消除沙眼的重要公共卫生成就",
       "meta": "世界卫生组织 · 2026/11/16",
       "url": "https://www.who.int/zh/news-room/16-11-2026-eritrea-eliminates-trachoma-a-major-public-health-milestone",
       "publishedAt": "2026-11-16T10:11:30.000Z"
+    },
+    {
+      "id": "who-zh-urn:uuid:6ceb428d-b0d7-474e-ab0e-2c10a7290e6d",
+      "title": "世卫组织发布首份成人1型糖尿病指南",
+      "meta": "世界卫生组织 · 2026/11/14",
+      "url": "https://www.who.int/zh/news-room/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults",
+      "publishedAt": "2026-11-14T14:19:04.000Z"
     },
     {
       "id": "who-zh-urn:uuid:0450fd9a-f66f-40bc-9b61-31c703ea34af",
@@ -115,36 +143,8 @@
       "meta": "世界卫生组织 · 2026/10/12",
       "url": "https://www.who.int/zh/news-room/12-10-2026-who-welcomes-adoption-of-united-nations-political-declaration-on-pandemic-prevention-preparedness-and-response",
       "publishedAt": "2026-10-12T20:19:24.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:8d02afd7-fd06-4b09-9634-8515e6db5043",
-      "title": "粮食安全阶段综合分类伙伴关系就苏丹粮食不安全和营养不良问题发出警报",
-      "meta": "世界卫生组织 · 2026/10/12",
-      "url": "https://www.who.int/zh/news-room/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
-      "publishedAt": "2026-10-12T16:01:00.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:06c1c1c3-7c92-42f0-b07d-f908bf1c5727",
-      "title": "世卫组织大流行病和流行病情报中心确定宏伟目标：在24小时内发现新发疫情",
-      "meta": "世界卫生组织 · 2026/10/12",
-      "url": "https://www.who.int/zh/news-room/12-10-2026-who-pandemic-hub-sets-ambitious-goal-to-detect-new-outbreaks-within-24-hours",
-      "publishedAt": "2026-10-12T09:04:55.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:c6440e38-411f-47f5-b7bf-51e26e0401dd",
-      "title": "世卫组织敦促从机构化精神卫生保健向社区精神卫生保健过渡",
-      "meta": "世界卫生组织 · 2026/10/9",
-      "url": "https://www.who.int/zh/news-room/09-10-2026-who-urges-shift-from-institutional-to-community-based-mental-health-care",
-      "publishedAt": "2026-10-09T08:14:24.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:78f17c10-10c8-4b2a-9244-9ee93b667cb4",
-      "title": "新全球路线图发布，旨在应对妊娠期高血压这一导致孕产妇和新生儿死亡的主要原因",
-      "meta": "世界卫生组织 · 2026/10/8",
-      "url": "https://www.who.int/zh/news-room/08-10-2026-new-global-roadmap-launched-to-tackle-hypertension-in-pregnancy-a-leading-cause-of-maternal-and-newborn-deaths",
-      "publishedAt": "2026-10-08T08:17:57.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T20:37:11.327Z",
+  "updatedAt": "2026-11-20T03:15:21.160Z",
   "provider": "OneBench 公共资讯快照"
 }
