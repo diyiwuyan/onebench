@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143243",
+      "title": "走近冰川：一场关于地球未来的青春探索",
+      "meta": "联合国新闻 · 2026/11/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143243",
+      "publishedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143245",
       "title": "【世界进行时】2026年11月20日",
       "meta": "联合国新闻 · 2026/11/20",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/11/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143214",
       "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143213",
-      "title": "联合国报告：干扰内分泌化学物质可能在出生前影响人体健康",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143213",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-21T12:39:20.542Z",
+  "updatedAt": "2026-11-21T20:31:20.136Z",
   "provider": "OneBench 公共资讯快照"
 }
