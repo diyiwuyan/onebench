@@ -5,6 +5,55 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143241",
+      "title": "约旦河西岸：定居者袭击事件创纪录 联合国敦促以色列保护农民",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143241",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143240",
+      "title": "粮食署计划2027年援助9100万人",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143240",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143239",
+      "title": "教科文组织：学前教育每投入1美元，到2035年可获近4美元回报",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143239",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143238",
+      "title": "支离破碎的游乐场和冰冷的教室：乌克兰儿童遭遇最惨重的一年",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143238",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143237",
+      "title": "阿富汗的限制措施阻碍孕妇寻求医疗救助",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143237",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143236",
+      "title": "联合国危机教育全球基金拨款5200万美元 助力30万儿童继续学习",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143236",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143235",
+      "title": "COP31原定闭幕日到来，多国要求明确摆脱化石燃料并加强资金支持",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143235",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143232",
       "title": "【子午播报】2026年11月20日",
       "meta": "联合国新闻 · 2026/11/20",
@@ -164,57 +213,8 @@
       "meta": "联合国新闻 · 2026/11/16",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143211",
       "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143210",
-      "title": "人工智能在回答气候科学问题时基本准确，但质疑会让其改变说法以迎合提问者",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143210",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143209",
-      "title": "联合国气候变化大会: 气候谈判面临政治考验，人工智能相关举措加速推进",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143209",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143208",
-      "title": "联合国：叙利亚政治过渡、经济复苏和安全局势仍面临多重挑战",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143208",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143207",
-      "title": "资金削减削弱难民保护，儿童遭贩运和剥削风险上升",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143207",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143206",
-      "title": "古特雷斯呼吁就“杀人机器人”制定具有法律约束力的文书",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143206",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143205",
-      "title": "东盟-联合国峰会：古特雷斯呼吁坚定不移地发挥合作的力量",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143205",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143204",
-      "title": "增强宗教和土著人领袖权能 共同打击仇恨言论",
-      "meta": "联合国新闻 · 2026/11/15",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143204",
-      "publishedAt": "2026-11-15T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-20T21:48:50.643Z",
+  "updatedAt": "2026-11-21T03:13:17.541Z",
   "provider": "OneBench 公共资讯快照"
 }
