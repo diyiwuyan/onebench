@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143245",
+      "title": "【世界进行时】2026年11月20日",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143245",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143242",
+      "title": "【前方视野】1.5摄氏度临界点逼近：中国如何回答气候变化时代的转型之问",
+      "meta": "联合国新闻 · 2026/11/20",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143242",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143241",
       "title": "约旦河西岸：定居者袭击事件创纪录 联合国敦促以色列保护农民",
       "meta": "联合国新闻 · 2026/11/20",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/11/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143213",
       "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143212",
-      "title": "联合国强调欧洲卢旺达遣返中心计划须遵守国际法",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143212",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143211",
-      "title": "世卫组织警告：检测和治疗不足使耐药感染患者面临风险",
-      "meta": "联合国新闻 · 2026/11/16",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143211",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-21T03:13:17.541Z",
+  "updatedAt": "2026-11-21T12:39:20.542Z",
   "provider": "OneBench 公共资讯快照"
 }
