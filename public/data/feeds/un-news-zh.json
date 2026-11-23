@@ -5,6 +5,48 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143252",
+      "title": "世卫组织：伊图里省激烈交火致使刚果（金）埃博拉防疫人员受困",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143252",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143251",
+      "title": "利比亚：联合国特派团敦促对班加西港口袭击事件展开调查",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143251",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143250",
+      "title": "安理会讨论乌克兰局势：袭击加剧平民苦难，黑海粮食运输受阻",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143250",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143248",
+      "title": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型",
+      "meta": "联合国新闻 · 2026/11/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143248",
+      "publishedAt": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143246",
+      "title": "COP31气候谈判无果而终：古特雷斯警告“科学不容置疑”",
+      "meta": "联合国新闻 · 2026/11/22",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143246",
+      "publishedAt": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143247",
+      "title": "联合国有关管制“杀人机器人”谈判达成最低限度共识",
+      "meta": "联合国新闻 · 2026/11/21",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143247",
+      "publishedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143245",
       "title": "【世界进行时】2026年11月20日",
       "meta": "联合国新闻 · 2026/11/20",
@@ -171,50 +213,8 @@
       "meta": "联合国新闻 · 2026/11/17",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143219",
       "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143218",
-      "title": "COP31：海洋保护进入谈判议程，落实承诺仍需资金支持",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143218",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143217",
-      "title": "各国承诺加快肥胖防治 力争2030年降低5%患病率",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143217",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143216",
-      "title": "苏丹：联合国报告详述无人机袭击激增对平民造成的致命影响",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143216",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143215",
-      "title": "冬雨加剧加沙人道危机，援助受限与资金短缺阻碍救援",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143215",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143214",
-      "title": "世卫组织：刚果（金）埃博拉疫情已致逾5400人死亡",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143214",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143213",
-      "title": "联合国报告：干扰内分泌化学物质可能在出生前影响人体健康",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143213",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-23T07:38:37.543Z",
+  "updatedAt": "2026-11-23T20:13:36.095Z",
   "provider": "OneBench 公共资讯快照"
 }
