@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143249",
+      "title": "【专题报道】从温暖家庭到赋能产业：COP31释放全球地热发展潜力",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143249",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143255",
+      "title": "古特雷斯：必须将声援巴勒斯坦人民付诸行动 推动实现“两国方案”",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143255",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143254",
+      "title": "古特雷斯呼吁就全球人工智能安全框架展开磋商，警告将出现历史性的权力转移",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143254",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143253",
+      "title": "全球仅7%的暴力幸存女性向警方报案 每小时5名女性遭伴侣或家人杀害",
+      "meta": "联合国新闻 · 2026/11/23",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143253",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143252",
       "title": "世卫组织：伊图里省激烈交火致使刚果（金）埃博拉防疫人员受困",
       "meta": "联合国新闻 · 2026/11/23",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/11/18",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143224",
       "publishedAt": "2026-11-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143223",
-      "title": "儿基会：全球每四分钟就有一名儿童死于暴力",
-      "meta": "联合国新闻 · 2026/11/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143223",
-      "publishedAt": "2026-11-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143222",
-      "title": "也门战事升级导致至少128名儿童伤亡",
-      "meta": "联合国新闻 · 2026/11/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143222",
-      "publishedAt": "2026-11-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143220",
-      "title": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持续加剧",
-      "meta": "联合国新闻 · 2026/11/18",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143220",
-      "publishedAt": "2026-11-18T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143219",
-      "title": "美国等三国麻疹持续传播，泛美卫生组织呼吁加强疫苗接种",
-      "meta": "联合国新闻 · 2026/11/17",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143219",
-      "publishedAt": "2026-11-17T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-24T04:48:16.277Z",
+  "updatedAt": "2026-11-24T17:44:48.586Z",
   "provider": "OneBench 公共资讯快照"
 }
