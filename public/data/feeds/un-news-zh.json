@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143270",
+      "title": "联合国大学澳门人工智能大会探讨以人为本的人工智能教育",
+      "meta": "联合国新闻 · 2026/11/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143270",
+      "publishedAt": "2026-11-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143269",
       "title": "加沙的寡妇独自抚养家人：“我们承担着双倍的责任，但我们的权利在哪里？”",
       "meta": "联合国新闻 · 2026/11/25",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/11/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143238",
       "publishedAt": "2026-11-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143237",
-      "title": "阿富汗的限制措施阻碍孕妇寻求医疗救助",
-      "meta": "联合国新闻 · 2026/11/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143237",
-      "publishedAt": "2026-11-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T10:54:11.240Z",
+  "updatedAt": "2026-11-26T21:31:29.113Z",
   "provider": "OneBench 公共资讯快照"
 }
