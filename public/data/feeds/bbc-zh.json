@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
+      "title": "台灣「九合一」選舉：六都市長候選人簡介",
+      "meta": "BBC 中文 · 2026/11/27",
+      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T16:04:01.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad#0",
       "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
       "meta": "BBC 中文 · 2026/11/27",
@@ -45,20 +52,6 @@
       "meta": "BBC 中文 · 2026/11/26",
       "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-26T13:41:15.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
-      "title": "台灣「九合一」選舉：六都市長候選人簡介",
-      "meta": "BBC 中文 · 2026/11/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T11:11:57.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad#1",
-      "title": "台灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保台」牌",
-      "meta": "BBC 中文 · 2026/11/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T09:38:20.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad#2",
@@ -187,13 +180,6 @@
       "publishedAt": "2026-11-19T00:11:57.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#1",
-      "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
-      "meta": "BBC 中文 · 2026/11/17",
-      "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T09:49:49.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad#4",
       "title": "中美能源大戰如何影響你的帳單？",
       "meta": "BBC 中文 · 2026/11/12",
@@ -208,6 +194,13 @@
       "publishedAt": "2026-11-11T02:41:36.000Z"
     },
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
+      "title": "台灣時隔一年再「核電公投」：這次投什麼？通過門檻為何？",
+      "meta": "BBC 中文 · 2026/11/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T07:56:51.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#4",
       "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
       "meta": "BBC 中文 · 2026/10/20",
@@ -215,6 +208,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T13:56:13.637Z",
+  "updatedAt": "2026-11-27T22:42:35.325Z",
   "provider": "OneBench 公共资讯快照"
 }
