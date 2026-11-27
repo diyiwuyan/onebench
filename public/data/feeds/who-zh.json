@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:47cc093c-1d2b-4101-81e1-532a2ed0b256",
+      "title": "世卫组织总干事正式访古巴时宣布提供疫苗和医疗设备援助",
+      "meta": "世界卫生组织 · 2026/11/24",
+      "url": "https://www.who.int/zh/news-room/24-11-2026-who-director-general--announces-support-for-vaccines--medical-equipment-during-official-visit-to-cuba",
+      "publishedAt": "2026-11-24T15:36:11.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:b9331ffb-3e16-4dfe-824b-aea0096c0898",
       "title": "领导人承诺加快肥胖预防和控制行动",
       "meta": "世界卫生组织 · 2026/11/17",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/10/21",
       "url": "https://www.who.int/zh/news-room/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
       "publishedAt": "2026-10-21T09:54:40.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:49a296f5-6447-4836-838c-bb3362b0d0bb",
-      "title": "国际刑警组织与世卫组织签署协议，加强全球卫生与安全保护",
-      "meta": "世界卫生组织 · 2026/10/16",
-      "url": "https://www.who.int/zh/news-room/16-10-2026-interpol-and-who-sign-agreement-to-strengthen-global-health-and-security-protection",
-      "publishedAt": "2026-10-16T07:58:44.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T21:31:29.113Z",
+  "updatedAt": "2026-11-27T04:15:25.235Z",
   "provider": "OneBench 公共资讯快照"
 }

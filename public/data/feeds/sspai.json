@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/119632",
+      "title": "派早报：1Password 确认内部系统遭入侵等",
+      "meta": "少数派 · 2026/11/27",
+      "url": "https://sspai.com/post/119632",
+      "publishedAt": "2026-11-27T00:27:38.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/116773",
       "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
       "meta": "少数派 · 2026/11/26",
@@ -54,13 +61,6 @@
       "publishedAt": "2026-11-25T03:07:41.000Z"
     },
     {
-      "id": "sspai-https://sspai.com/post/119527",
-      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
-      "meta": "少数派 · 2026/11/25",
-      "url": "https://sspai.com/post/119527",
-      "publishedAt": "2026-11-25T00:22:35.000Z"
-    },
-    {
       "id": "sspai-https://sspai.com/post/119492",
       "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
       "meta": "少数派 · 2026/11/24",
@@ -75,6 +75,6 @@
       "publishedAt": "2026-11-24T07:38:42.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T21:31:29.113Z",
+  "updatedAt": "2026-11-27T04:15:25.235Z",
   "provider": "OneBench 公共资讯快照"
 }

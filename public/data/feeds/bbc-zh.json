@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad#0",
+      "title": "失去伊朗石油供應，中國小型煉油廠如何應對？",
+      "meta": "BBC 中文 · 2026/11/27",
+      "url": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T03:35:06.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad#0",
       "title": "九合一選前反轉：沈伯洋破天荒取消台北「選前之夜」，如何影響選情？",
       "meta": "BBC 中文 · 2026/11/26",
@@ -33,7 +40,7 @@
       "publishedAt": "2026-11-26T09:38:20.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad#2",
       "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
       "meta": "BBC 中文 · 2026/11/26",
       "url": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad?at_medium=RSS&at_campaign=rss",
@@ -124,13 +131,6 @@
       "publishedAt": "2026-11-24T09:56:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxzd9y2gre3lo/trad#2",
-      "title": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
-      "meta": "BBC 中文 · 2026/11/24",
-      "url": "https://www.bbc.com/zhongwen/articles/cxzd9y2gre3lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T02:19:54.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad#5",
       "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
       "meta": "BBC 中文 · 2026/11/23",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T21:31:29.113Z",
+  "updatedAt": "2026-11-27T04:15:25.235Z",
   "provider": "OneBench 公共资讯快照"
 }
