@@ -5,6 +5,34 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143274",
+      "title": "全球麻疹死亡人数降至历史新低 但疫苗接种缺口威胁防控进展",
+      "meta": "联合国新闻 · 2026/11/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143274",
+      "publishedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143273",
+      "title": "世卫组织更新埃博拉疫情应对建议 呼吁加强安全措施并加快疫苗和治疗研究",
+      "meta": "联合国新闻 · 2026/11/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143273",
+      "publishedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143271",
+      "title": "厄尔尼诺加剧全球饥饿风险 南部非洲和中美洲新增热点地区",
+      "meta": "联合国新闻 · 2026/11/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143271",
+      "publishedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143272",
+      "title": "难民署：资金削减加剧难民妇女和女童遭受性别暴力的风险",
+      "meta": "联合国新闻 · 2026/11/27",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143272",
+      "publishedAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143270",
       "title": "联合国大学澳门人工智能大会探讨以人为本的人工智能教育",
       "meta": "联合国新闻 · 2026/11/26",
@@ -185,36 +213,8 @@
       "meta": "联合国新闻 · 2026/11/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143242",
       "publishedAt": "2026-11-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143241",
-      "title": "约旦河西岸：定居者袭击事件创纪录 联合国敦促以色列保护农民",
-      "meta": "联合国新闻 · 2026/11/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143241",
-      "publishedAt": "2026-11-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143240",
-      "title": "粮食署计划2027年援助9100万人",
-      "meta": "联合国新闻 · 2026/11/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143240",
-      "publishedAt": "2026-11-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143239",
-      "title": "教科文组织：学前教育每投入1美元，到2035年可获近4美元回报",
-      "meta": "联合国新闻 · 2026/11/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143239",
-      "publishedAt": "2026-11-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143238",
-      "title": "支离破碎的游乐场和冰冷的教室：乌克兰儿童遭遇最惨重的一年",
-      "meta": "联合国新闻 · 2026/11/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143238",
-      "publishedAt": "2026-11-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T22:42:35.325Z",
+  "updatedAt": "2026-11-28T07:48:56.571Z",
   "provider": "OneBench 公共资讯快照"
 }
